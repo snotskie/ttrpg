@@ -1,0 +1,7 @@
+name = "DocumenterSiteTemplate"
+uuid = "e8ea84c4-cb22-4f36-9812-e56009d963e7"
+authors = ["Mariah A. Knowles"]
+version = "0.0.0"
+
+[deps]
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
