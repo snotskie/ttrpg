@@ -288,7 +288,11 @@ A non-violent Contest is when a character performs an action against another cha
     ```@raw html
     <details><summary>For DM eyes only! Click to reveal</summary>
     ```
-    A difference less than 5 on a nonviolent Contest represents a minor effect or the Attacker getting what they wanted, within reason, and with complications. Any advantage the Attacker gains is temporary. A difference of at least 5 but less than 10 represents a medium effect or a lack of complications. any advantage the Attacker gains lasts for several rolls by or against the Defender. And a difference of 10 or more represents a major effect than can change the narrative arc of the session or even campaign.
+    A difference less than 5 on a nonviolent Contest represents a minor effect or the Attacker getting what they wanted, within reason, and with complications. Any advantage the Attacker gains is temporary.
+    
+    A difference of at least 5 but less than 10 represents a medium effect or a lack of complications. Any advantage the Attacker gains lasts for several rolls by or against the Defender.
+    
+    And a difference of 10 or more represents a major effect than can change the narrative arc of the session or even campaign.
     ```@raw html
     </details>
     ```
@@ -302,7 +306,11 @@ To perform a violent Contest, the Attacker first rolls as though performing a Hu
     ```@raw html
     <details><summary>For DM eyes only! Click to reveal</summary>
     ```
-    As with nonviolent Contests, a difference less than 5 represents a minor wound that grants the Attacker only a temporary advantage. A difference at least 5 but less than 10 represents a wound that will need medical attention, possibly changing the narrative arc of the session to treat it, granting lasting effects if not treated successfully and in a timely manner. And a difference of 10 or more on a violent Contest represents immediate death or grave injuries to the Defender needing immediate attention or a miracle.
+    As with nonviolent Contests, a difference less than 5 represents a minor wound that grants the Attacker only a temporary advantage.
+    
+    A difference at least 5 but less than 10 represents a wound that will need medical attention, possibly changing the narrative arc of the session to treat it, granting lasting effects if not treated successfully and in a timely manner.
+    
+    And a difference of 10 or more on a violent Contest represents immediate death or grave injuries to the Defender needing immediate attention or a miracle.
     ```@raw html
     </details>
     ```
