@@ -63,7 +63,7 @@ Characters in this game have Heros that they look up to. Once per session, when 
 
 Characters in this game have a set of Basic Abilities that grant them certain actions or bonuses over the course of the game. These Basic Abilities work together with characters' Stats, Lifestyle, Background, and Hero to make up their key defining traits.
 
-!!! tip "Character Creation: Step Four!"
+!!! tip "Character Creation: Step Five!"
     Begin to imagine the kind of character taking shape in your mind. Have you seen characters like them before in movies, TV shows, and books? Were they the bully in school? Do they get drawn into conspiracy theories? Are they so laid-back that others think they're a slacker? Are they beautiful and popular? Are they quiet and hardworking? Etc. Try to envision the tropes from your favorite fictional stories that your character takes after.
 
     With that in mind, pick two of the following Basic Abilities to start the game with.
@@ -114,8 +114,6 @@ Characters in this game have a set of Basic Abilities that grant them certain ac
 
 **Steady Emotions:** Whenever you fail a Check or lose a Contest and would become Uncool as a result, protect yourself for +2. You may spend a Level-up to increase this bonus by an additional +1, to a maximum of +5.
 
-**Player Creation:** Pick two of the above. You may spend two Level-ups to gain a third, and three Level-ups to gain a fourth. You may then spend five Level-ups to create one of your own and gain it, within reason.
-
 !!! black "DM Note: Replacing Basic Abilities"
     ```@raw html
     <details><summary>For DM eyes only! Click to reveal</summary>
@@ -133,7 +131,7 @@ Some characters in this game contain within them a spark of magic, an ability to
 
 These Fantastic Abilities allow characters to perform far beyond what is normally possible by the laws of nature, limited only by their imagination -- and ability to control powerful and strange forces!
 
-!!! tip "Character Creation: Step Five!"
+!!! tip "Character Creation: Step Six!"
     Read through the following Fantastic Ability options. Which resonate with the image of your character beginning to form in your mind? Which seem to capture best what your character dreams about when they dream they have powers, or the powers that most wished they had in their day to day life?
 
     With that in mind, pick one of the following Fantastic Abilities to start the game with.
@@ -165,7 +163,7 @@ These Fantastic Abilities allow characters to perform far beyond what is normall
 
 ## Items
 
-!!! tip "Character Creation: Step Six!"
+!!! tip "Character Creation: Step Seven!"
     List three items that your character never leaves home without, within reason. These will be the items you start the game with.
 
 When you need an item your character does not already have listed, it could still be narratively reasonable for your character to have that item on them anyway. Once per scene, to see if your character came prepared with just the item you need, within reason, spend a Blessing and perform a Home Stat Check. If you roll equal to or greater than twice the number of items you have listed, then the Check succeeds and you may add the item to your list. Otherwise, the Check fails and you may not perform another Home Check.
