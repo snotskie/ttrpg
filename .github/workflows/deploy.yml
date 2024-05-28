@@ -15,9 +15,8 @@ jobs:
           version: '1'
       - run: |
           julia --project=site -e '
-            import Pkg; Pkg.add("Documenter")
-            using Pkg
-            Pkg.develop(PackageSpec(path=pwd()))
+            import Pkg
+            Pkg.add("Documenter")
             Pkg.instantiate()'
       - run: julia --project=site site/make.jl
         env:
