@@ -54,7 +54,7 @@ Beyond their general capabilities, characters in this game may be able to draw u
 
 ## Hero
 
-Characters in this game have Heros that they look up to. Once per session, when you succeed a Check or win a Contest by $5$ or more while acting as your Hero would, gain $3$ Blessings.
+Characters in this game have Heros that they look up to. Once per session, when you succeed a Check or win a Contest by $5$ or more while acting as your Hero would, choose: gain $3$ Blessings or gain $1$ Inspiration.
 
 !!! tip "Character Creation: Step Four!"
     Describe who your character looks up to, whose work they strive to emulate, who taught them everything they know, or so on. What would it look like to make their Hero happy? upset? What is their connection to their Hero, and where is their Hero up to in the world now?
@@ -138,28 +138,28 @@ These Fantastic Abilities allow characters to perform far beyond what is normall
 
     You may spend three Level-ups to gain a second. You may then spend six Level-ups to create one of your own and gain it, within reason.
 
-**Stalk and Haunt:** You are inspired by slipping into shadows to hide successfully. You may spend $2$ Inspirations to perform a Fantastic Stat Check to achieve feats such as appearing suddenly from another shadow within view, ambushing a character from the darkness, or learning secrets from ghosts long-forgotten.
+**Stalk and Haunt:** Once per session, you may be inspired by slipping into shadows to hide. You may spend $2$ Inspirations to perform a Fantastic Stat Check to achieve feats such as appearing suddenly from another shadow within view, ambushing a character from the darkness, or learning secrets from ghosts long-forgotten.
 
-!!! note "Effect Wording: Inspired"
-    When an effect describes a type of action and says you are “inspired” by it, once per session, when you succeed a Check or win a Contest by $5$ or more to complete actions of that type, you gain $3$ Inspirations.
+!!! note "Effect Wording: Inspired by"
+    When an effect describes a type of action and says you are “inspired by” it, when you succeed a Check or win a Contest by $5$ or more to complete actions of that type, you gain $3$ Inspirations.
 
-**Dash and Rescue:** You are inspired by moving through a mob or chaotic environment safely and successfully. You may spend $2$ Inspirations to perform a Fantastic Stat Check to achieve feats such as moving yourself and another character or object safely to another location within sight, attacking multiple targets with a single ranged weapon, or remaining still without receiving harm.
+**Dash and Rescue:** Once per session, you may be inspired by moving through a mob or chaotic environment safely. You may spend $2$ Inspirations to perform a Fantastic Stat Check to achieve feats such as moving yourself and another character or object safely to another location within sight, attacking multiple targets with a single ranged weapon, or remaining still without receiving harm.
 
-**Prevent and Mitigate:** You are inspired by creating a safe perimeter or reducing the risk of a dangerous task successfully. You may spend $2$ Inspirations to perform a Fantastic Stat Check to achieve such feats as dispelling barriers, tending to wounds, or assembling non-violent constructs sworn to protect you.
+**Prevent and Mitigate:** Once per session, you may be inspired by creating a safe perimeter or reducing the risk of a dangerous task. You may spend $2$ Inspirations to perform a Fantastic Stat Check to achieve such feats as dispelling barriers, tending to wounds, or assembling non-violent constructs sworn to protect you.
 
-**Wound and Weaken:** You are inspired by inflicting injury successfully. You may spend $2$ Inspirations to perform a Fantastic Stat Check to achieve such feats as inflicting negative status effects, robbing someone of their life force, or summoning natural disasters.
+**Wound and Weaken:** Once per session, you may be inspired by inflicting injury. You may spend $2$ Inspirations to perform a Fantastic Stat Check to achieve such feats as inflicting negative status effects, robbing someone of their life force, or summoning natural disasters.
 
-**Unravel and Foretell:** You are inspired by solving complex puzzles successfully. You may spend $2$ Inspirations to perform a Fantastic Stat Check to achieve a feat such as seeing a vision from another place, time, or dimension, erase memories, or astral project.
+**Unravel and Foretell:** Once per session, you may be inspired by solving complex puzzles. You may spend $2$ Inspirations to perform a Fantastic Stat Check to achieve a feat such as seeing a vision from another place, time, or dimension, erase memories, or astral project.
 
-**Lift and Hold:** You are inspired by performing feats of raw strength successfully. You may spend $2$ Inspirations to perform a Fantastic Stat Check to achieve a feat such as moving, throwing, crushing, or restraining heavy objects, breaking locks, or crashing safely to the ground even after a great fall.
+**Lift and Hold:** Once per session, you may be inspired by performing feats of raw strength. You may spend $2$ Inspirations to perform a Fantastic Stat Check to achieve a feat such as moving, throwing, crushing, or restraining heavy objects, breaking locks, or crashing safely to the ground even after a great fall.
 
-**Mercy and Might:** You are inspired by acting with utmost honor, chivalry, or in accordance with your oaths successfully. You may spend $2$ Inspirations to perform a Fantastic Stat Check to achieve a feat such as compelling others into combat, stumbling upon magical quests, or speaking with animals.
+**Mercy and Might:** Once per session, you may be inspired by acting with utmost honor, chivalry, or in accordance with your oaths. You may spend $2$ Inspirations to perform a Fantastic Stat Check to achieve a feat such as compelling others into combat, stumbling upon magical quests, or speaking with animals.
 
-**Slap and Stick:** You are inspired by using items not for their intended uses to solve problems creatively and successfully. You may spend $2$ Inspirations to perform a Fantastic Stat Check to achieve a feat such as crafting new items from component parts around you, turning a violent Contest non-violent, or carrying out a pun-based attack.
+**Slap and Stick:** Once per session, you may be inspired by using items not for their intended uses to solve problems creatively. You may spend $2$ Inspirations to perform a Fantastic Stat Check to achieve a feat such as crafting new items from component parts around you, turning a violent Contest non-violent, or carrying out a pun-based attack.
 
-**Amaze and Confound:** You are inspired by creating or performing works of art successfully. You may spend $2$ Inspirations to perform a Fantastic Stat Check to achieve a feat such as deceiving and confusing others, creating illusions, or creating duplicates of complex objects.
+**Amaze and Confound:** Once per session, you may be inspired by creating or performing works of art. You may spend $2$ Inspirations to perform a Fantastic Stat Check to achieve a feat such as deceiving and confusing others, creating illusions, or creating duplicates of complex objects.
 
-**Rouse and Rally:** Whenever another character succeeds a Check or wins a Contest by $5$ or more, and you had spent a Blessing or an Inspiration to increase their result, gain $3$ Inspirations. You may spend $2$ Inspirations to perform a Fantastic Stat Check to achieve a feat such as setting the mood or soundtrack of the scene to grant your allies a positive status effect.
+**Rouse and Rally:** Once per session, when another character succeeds a Check or wins a Contest by $5$ or more, you had spent a Blessing or an Inspiration to increase their result, and they would not have succeeded the Check or won the Contest without your help, gain $3$ Inspirations. You may spend $2$ Inspirations to perform a Fantastic Stat Check to achieve a feat such as setting the mood or soundtrack of the scene to grant your allies a positive status effect.
 
 ## Items
 
