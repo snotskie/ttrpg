@@ -52,6 +52,8 @@ Beyond their general capabilities, characters in this game may be able to draw u
 !!! tip "Character Creation: Step Three!"
     Begin to describe your character's back story and list three specific skills that they have proven their ability in, such as through schooling, study, training, or so on.
 
+    You may spend two Level-ups to gain an additional specific skill or expansion of your Background, within reason.
+
 ## Hero
 
 Characters in this game have Heros that they look up to. Once per session, when you succeed a Check or win a Contest by $5$ or more while acting as your Hero would, choose: gain $3$ Blessings or gain $1$ Inspiration.
@@ -166,7 +168,7 @@ These Fantastic Abilities allow characters to perform far beyond what is normall
 !!! tip "Character Creation: Step Seven!"
     List three items that your character never leaves home without, within reason. These will be the items you start the game with.
 
-When you need an item your character does not already have listed, it could still be narratively reasonable for your character to have that item on them anyway. Once per scene, to see if your character came prepared with just the item you need, within reason, spend a Blessing and perform a Home Stat Check. If you roll equal to or greater than twice the number of items you have listed, then the Check succeeds and you may add the item to your list. Otherwise, the Check fails and you may not perform another Home Check.
+When you need an item your character does not already have listed, it could still be narratively reasonable for your character to have that item on them anyway. Once per scene, to see if your character came prepared with just the item you need, within reason, spend a Blessing and perform a Home Stat Check. If you roll equal to or greater than twice the number of items you have listed, then the Check succeeds and you may add the item to your list. Otherwise, the Check fails and you may not perform another Home Check this session.
 
 ## Stat Dice
 
@@ -229,7 +231,7 @@ Once per roll, whether your own or another character’s, you may spend a Blessi
 
     However, what this looks like can vary per DM, per table, or per scene.
 
-    Some DMs may prefer a “fail forward” approach like in *Kids on Bikes*, where Blessings are given whenever a player fails a check. Others may prefer a "natural" approach like in *Dungeons and Dragons*, where they award them when the players roll some lucky number before modifiers, like $8$. Others still may prefer to award them when the players engage in cool roleplay, when they solve puzzles or complete quests, or so on. And having the source of Blessings suddenly dry up in grittier parts of the story can be a *very* effective way to put the pressure on.
+    Some DMs may prefer a “fail forward” approach like in *Kids on Bikes*, where Blessings are given whenever a player fails a check. Others may prefer a "natural" approach like in *Dungeons and Dragons*, where they award them when the players roll some lucky number before modifiers, like $8$. Others still may prefer to award them when the players engage in cool roleplay, when they solve puzzles or complete quests, as a fixed supply at the start of each session or arc, or so on. And having the source of Blessings suddenly dry up in grittier parts of the story can be a *very* effective way to put the pressure on.
 
     The way you award Blessings is one of the most powerful tools in your toolbelt as a DM in this game! Use it well!
     ```@raw html
@@ -240,7 +242,7 @@ Once per roll, whether your own or another character’s, you may spend a Blessi
 
 There are two special checks in this game, Luck Checks and Fantastic Stat Checks.
 
-**Luck Checks:** At times the DM or an effect may ask you to perform a Luck Check, representing moments in the story that are best left to fate alone. To perform a Luck Check, roll $2d8$. If the result is $12$ or higher, the check succeeds. Otherwise, it fails.
+**Luck Checks:** At times the DM or an effect may ask you to perform a Luck Check, representing moments in the story that are best left to fate alone. To perform a Luck Check, roll $2d8$. If the result is $10$ or higher, the check succeeds. Otherwise, it fails.
 
 **Fantastic Stat Check:** Some effects may ask you to perform a Fantastic Stat Check to carry out actions beyond your normal capabilities. To perform a Fantastic Stat Check, perform a Stat Check for the action’s associated Stat, but use $2d6$ in place of the usual Stat Die.
 
@@ -339,6 +341,8 @@ Positions during combat are tracked narratively. There are four ranges: touching
 If multiple characters are Attackers together in a Contest, then they each perform their respective rolls and the median of their results is used to determine the group’s shared result.
 
 If multiple characters are Defenders together in a Contest, or are performing a coordinated Check, then they each perform their respective rolls, and if at least half would succeed the Check or win the Contest, then the group as a whole succeeds or wins.
+
+If multiple characters have Backgrounds that benefit their group's combined goal, then the whole group may receive up to a $+3$ bonus on their respective rolls, instead of only a few members of the group receiving only up to a $+2$ bonus as their Background would normally provide.
 
 ## Leveling Up
 
