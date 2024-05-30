@@ -201,7 +201,7 @@ To perform a Stat Check, roll the Stat Die for the action’s associated Stat. T
     ```@raw html
     <details><summary>For DM eyes only! Click to reveal</summary>
     ```
-    Use $3$ for an easy Stat Check, $6$ for medium, $9$ for hard, $12$ for very hard, and $15$ for a trial the players will be greatly awarded for overcoming. 
+    Use $4$ for an easy Stat Check, $8$ for medium, $12$ for hard, $16$ for very hard, and $20$ for a trial the players will be greatly awarded for overcoming. 
     
     Medium is the average for rolls in most situations the players will get themselves into, and each difficulty level above that is roughly equivalent to what the players could reach by spending one more Blessing. For situations that you surprise your players with that they don't have the chance to prepare for before reacting, consider lowering the difficulty by $2$ or $3$. The reason is that surprise situations are more likely to use characters' lower Stat Dice.
     
@@ -250,7 +250,7 @@ There are two special checks in this game, Luck Checks and Fantastic Stat Checks
     ```@raw html
     <details><summary>For DM eyes only! Click to reveal</summary>
     ```
-    Use $9$ for an easy Fantastic Stat Check, $12$ for medium, $15$ for hard, $18$ for very hard, and $21$ for a trial the players will be greatly awarded for overcoming. These difficulties are substantially higher than their mundane Stat Check counterparts, representing both the greater capability yet greater risk of their Fantastic Abilities.
+    Use $8$ for an easy Fantastic Stat Check, $12$ for medium, $16$ for hard, $20$ for very hard, and $24$ for a trial the players will be greatly awarded for overcoming. These difficulties are substantially higher than their mundane Stat Check counterparts, representing both the greater capability yet greater risk of their Fantastic Abilities.
     
     Medium is the average for rolls in most situations the players will get themselves into, and each difficulty level above that is roughly equivalent to what the players could reach by spending one more Blessing. For situations that you surprise your players with that they don't have the chance to prepare for before reacting, consider lowering the difficulty by $2$ or $3$. The reason is that surprise situations are more likely to use characters' lower Stat Dice.
     
