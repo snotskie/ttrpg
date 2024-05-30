@@ -76,7 +76,7 @@ Characters in this game have a set of Basic Abilities that grant them certain ac
 
 **Blessed by Friendship:** Once per scene, you may spend a Blessing to help another character no matter the distance between you.
 
-**Blessed by Action:** Whenever you succeed a Check by $5$ or more, each character that witnessed the success gains a Blessing.
+**Blessed by Action:** Once per scene, when you succeed a Check by $5$ or more, each character that witnessed the success gains a Blessing.
 
 **Blessed by Circumstance:** During a Contest involving three or more characters, you may spend $2$ Blessings to swap the results of two characters’ rolls.
 
