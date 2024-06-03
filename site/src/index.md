@@ -233,7 +233,16 @@ Once per roll, whether your own or another character’s, you may spend a Blessi
 
 There are two special checks in this game, Luck Checks and Fantastic Stat Checks.
 
-**Luck Checks:** At times the DM or an effect may ask you to perform a Luck Check, representing moments in the story that are best left to fate alone. To perform a Luck Check, roll $2d8$. If the result is $10$ or higher, the check succeeds. Otherwise, it fails.
+**Luck Checks:** At times the DM or an effect may ask you to perform a Luck Check, representing moments in the story that are best left to fate alone. To perform a Luck Check, roll $2d8$. This roll's result cannot be modified by any effect unless the effect explicitly says it applied to Luck Checks. If the result is $10$ or higher, the check succeeds. Otherwise, it fails.
+
+!! black "DM Note: Luck Check Odds"
+    ```@raw html
+<summary>For DM eyes only! Click to reveal</summary>
+    ```
+    Luck Checks succeed approximately two-thirds of the time.
+    ```@raw html
+    </details>
+    ```
 
 **Fantastic Stat Check:** Some effects may ask you to perform a Fantastic Stat Check to carry out actions beyond your normal capabilities. To perform a Fantastic Stat Check, perform a Stat Check for the action’s associated Stat, but use $2d6$ in place of the usual Stat Die.
 
