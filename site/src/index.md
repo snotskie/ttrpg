@@ -152,7 +152,7 @@ These Fantastic Abilities allow characters to perform far beyond what is normall
 
 **Amaze and Confound:** Once per session, you may be inspired by creating or performing works of art. You may spend an Inspiration to perform a Fantastic Stat Check to achieve a feat such as deceiving and confusing others, creating illusions, or creating duplicates of complex objects.
 
-**Rouse and Rally:** Once per session, when another character succeeds a Check or wins a Contest by $5$ or more, you had spent a Blessing or an Inspiration to increase their result, and they would not have succeeded the Check or won the Contest without your help, gain $3$ Inspirations. You may spend an Inspiration to perform a Fantastic Stat Check to achieve a feat such as setting the mood or soundtrack of the scene to grant your allies a positive status effect.
+**Rouse and Rally:** Once per session, when another character succeeds a Check or wins a Contest by $5$ or more, you had spent a Blessing to increase their result, and they would not have succeeded the Check or won the Contest without your help, gain $3$ Inspirations. You may spend an Inspiration to perform a Fantastic Stat Check to achieve a feat such as setting the mood or soundtrack of the scene to grant your allies a positive status effect.
 
 ## Items
 
