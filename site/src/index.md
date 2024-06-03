@@ -56,7 +56,7 @@ Beyond their general capabilities, characters in this game may be able to draw u
 
 ## Hero
 
-Characters in this game have Heros that they look up to. Once per session, when you succeed a Check or win a Contest by $5$ or more while acting as your Hero would, choose: gain $3$ Blessings or gain $1$ Inspiration.
+Characters in this game have Heros that they look up to. Once per session, when you succeed a Check or win a Contest by $5$ or more while acting as your Hero would, gain $3$ Blessings and an Inspiration.
 
 !!! tip "Character Creation: Step Four!"
     Describe who your character looks up to, whose work they strive to emulate, who taught them everything they know, or so on. What would it look like to make their Hero happy? upset? What is their connection to their Hero, and where is their Hero up to in the world now?
@@ -127,7 +127,7 @@ These Fantastic Abilities allow characters to perform far beyond what is normall
 !!! tip "Character Creation: Step Six!"
     Read through the following Fantastic Ability options. Which resonate with the image of your character beginning to form in your mind? Which seem to capture best what your character dreams about when they dream they have powers, or the powers that most wished they had in their day to day life?
 
-    With that in mind, pick one of the following Fantastic Abilities to start the game with.
+    With that in mind, read through the following Fantastic Abilities and think about which you would like to have. You will not start the game with a Fantastic Ability, but you may spend a Level-up to gain your first one.
 
     You may spend three Level-ups to gain a second. You may then spend six Level-ups to create one of your own and gain it, within reason.
 
@@ -337,4 +337,21 @@ If multiple characters have Backgrounds that benefit their group's combined goal
 
 ## Leveling Up
 
-TODO
+While the majority of character progression in this game is narrative, throughout the story you will be awarded a number of Level-ups which you can spend to increase your abilities or gain new ones.
+
+!!! black "DM Note: Awarding Level-Ups"
+    ```@raw html
+    <details><summary>For DM eyes only! Click to reveal</summary>
+    ```
+    Always give a Level-up to your players at the end of the first and second sessions of the campaign.
+
+    Early on in a campaign, Level-ups help manage the complexity of your players' characters, allowing them to increase their capabilities as they get to know their characters, one another, and the world they'll be playing in.
+
+    Beyond that, Level-ups begin to represent increasing amounts of accomplishment. How you should award Level-ups at that point can vary from story to story, or arc to arc.
+
+    Some DMs may prefer to award them as payment for completing quests, for achieving certain levels of reputation in the world, at the end of major points in the story, for achieving goals the players set out for themselves, or so on. You may even set up an in game "exchange" where players can purchase or barter for Level-ups in character.
+
+    Also keep in mind that you can award multiple Level-ups at once, though be careful not to give out too many that it conflicts with the pacing and power level that works best for your table!
+    ```@raw html
+    </details>
+    ```
