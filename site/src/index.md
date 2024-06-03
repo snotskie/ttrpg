@@ -80,41 +80,32 @@ Characters in this game have a set of Basic Abilities that grant them certain ac
 
 **Blessed by Circumstance:** During a Contest involving three or more characters, you may spend $2$ Blessings to swap the results of two characters’ rolls.
 
-**Blessed by Voices:** Once per scene, you may spend $2$ Blessings to learn more about a character, place, or fact than you normally would be able to.
+**Blessed by Voices:** Once per scene, you may spend $2$ Blessings to learn more about a character, place, or fact than would normally be possible.
 
 **Blessed by Family:** You may spend $2$ Blessings to attack recklessly, using Home for a violent Contest instead of Hurt as usual. This attack is potentially lethal to your target if you win, and you may sustain injuries if you lose.
 
-**Blessed by Self-Acceptance:** While you are Uncool, once per scene, you may spend $2$ Blessings to gain an Inspiration.
+**Blessed by Self-Acceptance:** While you are Uncool, you may spend $3$ Blessings to gain an Inspiration.
 
 **Blessed by Charity:** When you visit a place of religious or spiritual importance, you may spend any number of Blessings as a donation or act of service to the place. The more Blessings spent this way, the greater a possible later boon may be, determined by the DM.
 
-**Cursed Blessing:** Whenever another character succeeds a Check or wins a Contest, you may spend $2$ Blessings to modify that character’s result by $-2$, possibly turning their success into a failure or win into a loss. You may spend a Level-up to increase this effect by an additional $-1$, to a maximum of $-5$.
+**Cursed Blessing:** Once per scene, when another character succeeds a Check or wins a Contest, you may spend $2$ Blessings to modify that character’s result by $-2$, possibly turning their success into a failure or win into a loss. You may spend two Level-ups to increase this effect by an additional $-1$, to a maximum of $-5$.
 
 **Medically Insured:** Once per scene, when a character fails a Check or loses a Contest to tend to your wounds, characters may spend a combined total of $3$ Blessings to turn the failure into a success or the loss into a win. Then, increase the number of Blessings needed to activate this ability by $2$.
 
-**Simple Innocence:** Once per scene, you may simplify a Blessing when dealing with an authority figure.
+**Focused Determination:** The first time you bump your dice per roll, increase the result of the roll by $+1$. You may spend a Level-up to increase this bonus by an additional $+1$, to a maximum of $+3$.
 
-!!! note "Effect Wording: Simplify a Blessing"
-    When an effect describes a situation and says to “simplify a Blessing,” you may spend a Blessing to increase the result of a roll by $+3$ instead of the usual $+1d4$.
-
-**Simple Fame:** Once per scene, you may simplify a Blessing when dealing with characters who know of your work.
-
-**Simple Accounting:** Once per scene, you may simplify a Blessing when dealing with money.
-
-**Focused Determination:** Whenever you bump your dice twice or more in a single roll, increase the result of the roll by $+2$. You may spend a Level-up to increase this bonus by an additional $+1$, to a maximum of $+5$.
-
-**Armored Skin:** Whenever you lose a violent Contest as the Defender, protect yourself for $+2$. You may spend a Level-up to increase this bonus by an additional $+1$, to a maximum of $+5$.
+**Armored Skin:** Whenever you lose a violent Contest as the Defender, protect yourself for $+2$. You may spend two Level-ups to increase this bonus by an additional $+1$, to a maximum of $+5$.
 
 !!! note "Effect Wording: Protect Yourself for +X"
     When an effect describes a failed Check or lost Contest and says to “protect yourself for +X,” increase the result of your roll by +X. This cannot turn the failure into a success or loss into a win, but it can reduce the severity of the outcome.
 
-**Careful Resolve:** Whenever you fail a Check while performing dangerous actions, protect yourself for $+2$. You may spend a Level-up to increase this bonus by an additional $+1$, to a maximum of $+5$.
+**Careful Resolve:** Whenever you fail a Check while performing dangerous actions, protect yourself for $+2$. You may spend two Level-ups to increase this bonus by an additional $+1$, to a maximum of $+5$.
 
-**Tactful Speech:** Whenever you lose a Contest trying to persuade others, protect yourself for $+2$. You may spend a Level-up to increase this bonus by an additional $+1$, to a maximum of $+5$.
+**Tactful Speech:** Whenever you lose a Contest trying to persuade others, protect yourself for $+2$. You may spend two Level-ups to increase this bonus by an additional $+1$, to a maximum of $+5$.
 
-**Quickly Acclimated:** Whenever you fail a Check against natural effects such as weather and disease, protect yourself for $+2$. You may spend a Level-up to increase this bonus by an additional $+1$, to a maximum of $+5$.
+**Quickly Acclimated:** Whenever you fail a Check against natural effects such as weather and disease, protect yourself for $+2$. You may spend two Level-ups to increase this bonus by an additional $+1$, to a maximum of $+5$.
 
-**Steady Emotions:** Whenever you fail a Check or lose a Contest and would become Uncool as a result, protect yourself for $+2$. You may spend a Level-up to increase this bonus by an additional $+1$, to a maximum of $+5$.
+**Steady Emotions:** Whenever you fail a Check or lose a Contest and would become Uncool as a result, protect yourself for $+2$. You may spend two Level-ups to increase this bonus by an additional $+1$, to a maximum of $+5$.
 
 !!! black "DM Note: Replacing Basic Abilities"
     ```@raw html
@@ -140,28 +131,28 @@ These Fantastic Abilities allow characters to perform far beyond what is normall
 
     You may spend three Level-ups to gain a second. You may then spend six Level-ups to create one of your own and gain it, within reason.
 
-**Stalk and Haunt:** Once per session, you may be inspired by slipping into shadows to hide. You may spend $2$ Inspirations to perform a Fantastic Stat Check to achieve feats such as appearing suddenly from another shadow within view, ambushing a character from the darkness, or learning secrets from ghosts long-forgotten.
+**Stalk and Haunt:** Once per session, you may be inspired by slipping into shadows to hide. You may spend an Inspiration to perform a Fantastic Stat Check to achieve feats such as appearing suddenly from another shadow within view, ambushing a character from the darkness, or learning secrets from ghosts long-forgotten.
 
 !!! note "Effect Wording: Inspired by"
     When an effect describes a type of action and says you are “inspired by” it, when you succeed a Check or win a Contest by $5$ or more to complete actions of that type, you gain $3$ Inspirations.
 
-**Dash and Rescue:** Once per session, you may be inspired by moving through a mob or chaotic environment safely. You may spend $2$ Inspirations to perform a Fantastic Stat Check to achieve feats such as moving yourself and another character or object safely to another location within sight, attacking multiple targets with a single ranged weapon, or remaining still without receiving harm.
+**Dash and Rescue:** Once per session, you may be inspired by moving through a mob or chaotic environment safely. You may spend an Inspiration to perform a Fantastic Stat Check to achieve feats such as moving yourself and another character or object safely to another location within sight, attacking multiple targets with a single ranged weapon, or remaining still without receiving harm.
 
-**Prevent and Mitigate:** Once per session, you may be inspired by creating a safe perimeter or reducing the risk of a dangerous task. You may spend $2$ Inspirations to perform a Fantastic Stat Check to achieve such feats as dispelling barriers, tending to wounds, or assembling non-violent constructs sworn to protect you.
+**Prevent and Mitigate:** Once per session, you may be inspired by creating a safe perimeter or reducing the risk of a dangerous task. You may spend an Inspiration to perform a Fantastic Stat Check to achieve such feats as dispelling barriers, tending to wounds, or assembling non-violent constructs sworn to protect you.
 
-**Wound and Weaken:** Once per session, you may be inspired by inflicting injury. You may spend $2$ Inspirations to perform a Fantastic Stat Check to achieve such feats as inflicting negative status effects, robbing someone of their life force, or summoning natural disasters.
+**Wound and Weaken:** Once per session, you may be inspired by inflicting injury. You may spend an Inspiration to perform a Fantastic Stat Check to achieve such feats as inflicting negative status effects, robbing someone of their life force, or summoning natural disasters.
 
-**Unravel and Foretell:** Once per session, you may be inspired by solving complex puzzles. You may spend $2$ Inspirations to perform a Fantastic Stat Check to achieve a feat such as seeing a vision from another place, time, or dimension, erase memories, or astral project.
+**Unravel and Foretell:** Once per session, you may be inspired by solving complex puzzles. You may spend an Inspiration to perform a Fantastic Stat Check to achieve a feat such as seeing a vision from another place, time, or dimension, erase memories, or astral project.
 
-**Lift and Hold:** Once per session, you may be inspired by performing feats of raw strength. You may spend $2$ Inspirations to perform a Fantastic Stat Check to achieve a feat such as moving, throwing, crushing, or restraining heavy objects, breaking locks, or crashing safely to the ground even after a great fall.
+**Lift and Hold:** Once per session, you may be inspired by performing feats of raw strength. You may spend an Inspiration to perform a Fantastic Stat Check to achieve a feat such as moving, throwing, crushing, or restraining heavy objects, breaking locks, or crashing safely to the ground even after a great fall.
 
-**Mercy and Might:** Once per session, you may be inspired by acting with utmost honor, chivalry, or in accordance with your oaths. You may spend $2$ Inspirations to perform a Fantastic Stat Check to achieve a feat such as compelling others into combat, stumbling upon magical quests, or speaking with animals.
+**Mercy and Might:** Once per session, you may be inspired by acting with utmost honor, chivalry, or in accordance with your oaths. You may spend an Inspiration to perform a Fantastic Stat Check to achieve a feat such as compelling others into combat, stumbling upon magical quests, or speaking with animals.
 
-**Slap and Stick:** Once per session, you may be inspired by using items not for their intended uses to solve problems creatively. You may spend $2$ Inspirations to perform a Fantastic Stat Check to achieve a feat such as crafting new items from component parts around you, turning a violent Contest non-violent, or carrying out a pun-based attack.
+**Slap and Stick:** Once per session, you may be inspired by using items not for their intended uses to solve problems creatively. You may spend an Inspiration to perform a Fantastic Stat Check to achieve a feat such as crafting new items from component parts around you, turning a violent Contest non-violent, or carrying out a pun-based attack.
 
-**Amaze and Confound:** Once per session, you may be inspired by creating or performing works of art. You may spend $2$ Inspirations to perform a Fantastic Stat Check to achieve a feat such as deceiving and confusing others, creating illusions, or creating duplicates of complex objects.
+**Amaze and Confound:** Once per session, you may be inspired by creating or performing works of art. You may spend an Inspiration to perform a Fantastic Stat Check to achieve a feat such as deceiving and confusing others, creating illusions, or creating duplicates of complex objects.
 
-**Rouse and Rally:** Once per session, when another character succeeds a Check or wins a Contest by $5$ or more, you had spent a Blessing or an Inspiration to increase their result, and they would not have succeeded the Check or won the Contest without your help, gain $3$ Inspirations. You may spend $2$ Inspirations to perform a Fantastic Stat Check to achieve a feat such as setting the mood or soundtrack of the scene to grant your allies a positive status effect.
+**Rouse and Rally:** Once per session, when another character succeeds a Check or wins a Contest by $5$ or more, you had spent a Blessing or an Inspiration to increase their result, and they would not have succeeded the Check or won the Contest without your help, gain $3$ Inspirations. You may spend an Inspiration to perform a Fantastic Stat Check to achieve a feat such as setting the mood or soundtrack of the scene to grant your allies a positive status effect.
 
 ## Items
 
@@ -214,20 +205,20 @@ To perform a Stat Check, roll the Stat Die for the action’s associated Stat. T
 
 When you succeed on a Check or win a Contest by $5$ or more above the number you needed to reach, then something extra cool may happen. On the other hand, when you fail a Check or lose a Contest by $5$ or more, then something extra bad may happen. Failing or losing by $10$ or more can be disastrous.
 
-## Blessings and Inspirations
+## Blessings
 
-Several times during a session, the DM may award you a Blessing, represented by a small token. Less often, an effect may award you an Inspiration.
+Several times during a session, the DM may award you a Blessing, represented by a small token.
 
-Once per roll, whether your own or another character’s, you may spend a Blessing to increase the result of that roll by $+1d4$ or an Inspiration to increase the result of that roll by $+1d6$. You may only spend Blessings and Inspirations to help other characters this way if your character is near enough to them to reasonably help with the action.
+Once per roll, whether your own or another character’s, you may spend a Blessing to increase the result of that roll by $+1d4$. You may only spend Blessings to help other characters this way if your character is near enough to them to reasonably help with the action.
 
 !!! warning "Rules Notes: Helping as a Team"
-    While a single character can give only one Blessing or Inspiration per roll to help another character, multiple characters can come together to give multiple Blessings or Inspirations together to that character.
+    While a single character can give only one Blessing per roll to help another character, multiple characters can come together to give multiple Blessings together to that character.
 
 !!! black "DM Note: When to Award Blessings"
     ```@raw html
     <details><summary>For DM eyes only! Click to reveal</summary>
     ```
-    Mechanically, players may earn Blessings by acting as their Hero would to great success. However, you as a DM should award them Blessings consistently and throughout each session, as many characters’ abilities depend on them.
+    Mechanically, players may earn Blessings by acting as their Hero would. However, you as a DM should award them Blessings consistently and throughout each session, as many characters’ abilities depend on them.
 
     However, what this looks like can vary per DM, per table, or per scene.
 
