@@ -235,7 +235,7 @@ There are two special checks in this game, Luck Checks and Fantastic Stat Checks
 
 **Luck Checks:** At times the DM or an effect may ask you to perform a Luck Check, representing moments in the story that are best left to fate alone. To perform a Luck Check, roll $2d8$. This roll's result cannot be modified by any effect unless the effect explicitly says it applied to Luck Checks. If the result is $10$ or higher, the check succeeds. Otherwise, it fails.
 
-!! black "DM Note: Luck Check Odds"
+!!! black "DM Note: Luck Check Odds"
     ```@raw html
 <summary>For DM eyes only! Click to reveal</summary>
     ```
