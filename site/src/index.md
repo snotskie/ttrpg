@@ -26,11 +26,11 @@ Each character in this game has one of three Lifestyles, described below. A char
 !!! tip "Character Creation: Step Two!"
     Begin to describe the Lifestyle your character had growing up or their current outlook on life. As you do, pick one of the following Lifestyles to start the game with.
 
-**Carefree:** Your character lives a relatively carefree life, perhaps because of your young age, wealthy upbringing, or optimistic demeanor. Increase the results of your rolls using Heart or Hurry by $+1$. You may spend a Level-up to increase this bonus by an additional $+1$, to a maximum of $+3$.
+**Carefree:** Your character lives a relatively carefree life, perhaps because of your young age, wealthy upbringing, or optimistic demeanor. Increase the results of your rolls using Heart or Hurry by $+1$. When you reach Level 4 this bonus improves to $+2$, and at Level 9 it improves to $+3$.
 
-**Eager:** Your character is eager for more out of life, perhaps because of a teenage rebellious phase, a yearning to accomplish your dreams, or a person you want to impress. Increase the results of your rolls using Hand or Hurt by $+1$. You may spend a Level-up to increase this bonus by an additional $+1$, to a maximum of $+3$.
+**Eager:** Your character is eager for more out of life, perhaps because of a teenage rebellious phase, a yearning to accomplish your dreams, or a person you want to impress. Increase the results of your rolls using Hand or Hurt by $+1$. When you reach Level 4 this bonus improves to $+2$, and at Level 9 it improves to $+3$.
 
-**Wisened:** Life has not been easy on your character, but as a result you’ve come out wiser and tougher, perhaps because you’ve gotten older, been shaped by unfortunate events, or dedicated yourself to your work. Increase the results of your rolls using Head or Home by $+1$. You may spend a Level-up to increase this bonus by an additional $+1$, to a maximum of $+3$.
+**Wisened:** Life has not been easy on your character, but as a result you’ve come out wiser and tougher, perhaps because you’ve gotten older, been shaped by unfortunate events, or dedicated yourself to your work. Increase the results of your rolls using Head or Home by $+1$. When you reach Level 4 this bonus improves to $+2$, and at Level 9 it improves to $+3$.
 
 !!! black "DM Note: Changing Lifestyles"
     ```@raw html
@@ -38,9 +38,7 @@ Each character in this game has one of three Lifestyles, described below. A char
     ```
     Mechanically, there is no way for a character to change their Lifestyle. However, you and your player may feel it is narratively appropriate to reflect their character's growth in response to powerful story events. How you rule the change of the Lifestyle is up to you, as the best approach can vary from story to story.
     
-    However, a suggestion is this: If a player has not spent any Level-ups on their Lifestyle, they simply lose one and gain the other. But if they have spent Level-ups this way, then first remove one Level-up from their old Lifestyle and grant them the new Lifestyle. This way, you can represent their status of being between two Lifestyles. Over the course of the story, have them continue to transfer Level-ups from the first Lifestyle to the new one until the old one is gone entirely.
-    
-    In any case, don't let players have more than a $+3$ bonus to any stat while transitioning from one Lifestyle to the other.
+    In any case, don't let players have more than a $+3$ bonus to any one stat, and don't let them have a bonus to more than two stats.
     ```@raw html
     </details>
     ```
@@ -52,11 +50,13 @@ Beyond their general capabilities, characters in this game may be able to draw u
 !!! tip "Character Creation: Step Three!"
     Begin to describe your character's back story and list three specific skills that they have proven their ability in, such as through schooling, study, training, or so on.
 
-    You may spend two Level-ups to gain an additional specific skill or expansion of your Background, within reason.
+    Each time you gain Level, you may gain an additional specific skill or expansion of your Background, within reason.
 
 ## Hero
 
 Characters in this game have Heros that they look up to. Once per session, when you succeed a Check or win a Contest by $5$ or more while acting as your Hero would, gain $3$ Blessings and an Inspiration.
+
+When you reach Level 3, and again at Level 7, describe how your relationship to your Hero has changed.
 
 !!! tip "Character Creation: Step Four!"
     Describe who your character looks up to, whose work they strive to emulate, who taught them everything they know, or so on. What would it look like to make their Hero happy? upset? What is their connection to their Hero, and where is their Hero up to in the world now?
@@ -70,7 +70,7 @@ Characters in this game have a set of Basic Abilities that grant them certain ac
 
     With that in mind, pick two of the following Basic Abilities to start the game with.
 
-    You may spend two Level-ups to gain a third, and three Level-ups to gain a fourth. You may then spend five Level-ups to create one of your own and gain it, within reason.
+    When you reach Level 2, and again at Level 5, you may gain an additional Basic Ability. When you reach Level 10, you may create one of your own and gain it, within reason.
 
 **Blessed by Luck:** Once per scene, when you fail a Check, you may spend $2$ Blessings to roll a Luck Check. If the Luck Check succeeds, then the original failure becomes a success.
 
@@ -88,24 +88,24 @@ Characters in this game have a set of Basic Abilities that grant them certain ac
 
 **Blessed by Charity:** When you visit a place of religious or spiritual importance, you may spend any number of Blessings as a donation or act of service to the place. The more Blessings spent this way, the greater a possible later boon may be, determined by the DM.
 
-**Cursed Blessing:** Once per scene, when another character succeeds a Check or wins a Contest, you may spend $2$ Blessings to modify that character’s result by $-2$, possibly turning their success into a failure or win into a loss. You may spend two Level-ups to increase this effect by an additional $-1$, to a maximum of $-5$.
+**Cursed Blessing:** Once per scene, when another character succeeds a Check or wins a Contest, you may spend $2$ Blessings to modify that character’s result by $-2$, possibly turning their success into a failure or win into a loss. You may spend two Level-ups to increase this effect by an additional $-1$, to a maximum of $-5$. When you reach Level 2 this bonus improves to $-3$, at Level 5 it improves to $-4$, and at Level 8 it improves to $-5$.
 
 **Medically Insured:** Once per scene, when a character fails a Check or loses a Contest to tend to your wounds, characters may spend a combined total of $3$ Blessings to turn the failure into a success or the loss into a win. Then, increase the number of Blessings needed to activate this ability by $2$.
 
-**Focused Determination:** The first time you bump your dice per roll, increase the result of the roll by $+1$. You may spend a Level-up to increase this bonus by an additional $+1$, to a maximum of $+3$.
+**Focused Determination:** The first time you bump your dice per roll, increase the result of the roll by $+1$. When you reach Level 2 this bonus improves to $+2$, and at Level 6 it improves to $+3$.
 
-**Armored Skin:** Whenever you lose a violent Contest as the Defender, protect yourself for $+2$. You may spend two Level-ups to increase this bonus by an additional $+1$, to a maximum of $+5$.
+**Armored Skin:** Whenever you lose a violent Contest as the Defender, protect yourself for $+2$. When you reach Level 2 this bonus improves to $+3$, at Level 5 it improves to $+4$, and at Level 8 it improves to $+5$.
 
 !!! note "Effect Wording: Protect Yourself for +X"
     When an effect describes a failed Check or lost Contest and says to “protect yourself for +X,” increase the result of your roll by +X. This cannot turn the failure into a success or loss into a win, but it can reduce the severity of the outcome.
 
-**Careful Resolve:** Whenever you fail a Check while performing dangerous actions, protect yourself for $+2$. You may spend two Level-ups to increase this bonus by an additional $+1$, to a maximum of $+5$.
+**Careful Resolve:** Whenever you fail a Check while performing dangerous actions, protect yourself for $+2$. When you reach Level 2 this bonus improves to $+3$, at Level 5 it improves to $+4$, and at Level 8 it improves to $+5$.
 
-**Tactful Speech:** Whenever you lose a Contest trying to persuade others, protect yourself for $+2$. You may spend two Level-ups to increase this bonus by an additional $+1$, to a maximum of $+5$.
+**Tactful Speech:** Whenever you lose a Contest trying to persuade others, protect yourself for $+2$. When you reach Level 2 this bonus improves to $+3$, at Level 5 it improves to $+4$, and at Level 8 it improves to $+5$.
 
-**Quickly Acclimated:** Whenever you fail a Check against natural effects such as weather and disease, protect yourself for $+2$. You may spend two Level-ups to increase this bonus by an additional $+1$, to a maximum of $+5$.
+**Quickly Acclimated:** Whenever you fail a Check against natural effects such as weather and disease, protect yourself for $+2$. When you reach Level 2 this bonus improves to $+3$, at Level 5 it improves to $+4$, and at Level 8 it improves to $+5$.
 
-**Steady Emotions:** Whenever you fail a Check or lose a Contest and would become Uncool as a result, protect yourself for $+2$. You may spend two Level-ups to increase this bonus by an additional $+1$, to a maximum of $+5$.
+**Steady Emotions:** Whenever you fail a Check or lose a Contest and would become Uncool as a result, protect yourself for $+2$. When you reach Level 2 this bonus improves to $+3$, at Level 5 it improves to $+4$, and at Level 8 it improves to $+5$.
 
 !!! black "DM Note: Replacing Basic Abilities"
     ```@raw html
@@ -113,7 +113,7 @@ Characters in this game have a set of Basic Abilities that grant them certain ac
     ```
     Mechanically, there is no way for a character to lose or replace a Basic Ability. However, you and your player may feel it is narratively appropriate to reflect their character's growth in response to powerful story events. How you rule the change of Basic Abilities is up to you, as the best approach can vary from story to story.
     
-    However, a suggestion is this: Whenever a player spends Level-ups to gain a new Basic Ability, allow them the opportunity to also replace one of their existing Basic Abilities.
+    However, a suggestion is this: Whenever a player reaches a Level that grants them a new Basic Ability, allow them the opportunity to also replace one of their existing Basic Abilities.
     ```@raw html
     </details>
     ```
@@ -127,9 +127,7 @@ These Fantastic Abilities allow characters to perform far beyond what is normall
 !!! tip "Character Creation: Step Six!"
     Read through the following Fantastic Ability options. Which resonate with the image of your character beginning to form in your mind? Which seem to capture best what your character dreams about when they dream they have powers, or the powers that most wished they had in their day to day life?
 
-    With that in mind, read through the following Fantastic Abilities and think about which you would like to have. You will not start the game with a Fantastic Ability, but you may spend a Level-up to gain your first one.
-
-    You may spend three Level-ups to gain a second. You may then spend six Level-ups to create one of your own and gain it, within reason.
+    With that in mind, read through the following Fantastic Abilities and think about which you would like to have. You will not start the game with a Fantastic Ability, but when you reach Level 1 but gain your first one. When you reach Level 6, create one of your own and gain it, within reason.
 
 **Stalk and Haunt:** Once per session, you may be inspired by slipping into shadows to hide. You may spend an Inspiration to perform a Fantastic Stat Check to achieve feats such as appearing suddenly from another shadow within view, ambushing a character from the darkness, or learning secrets from ghosts long-forgotten.
 
