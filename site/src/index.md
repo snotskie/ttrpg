@@ -179,6 +179,8 @@ When you roll a $1$ on a die, roll it again, adding the new result to its previo
 
 Additionally, some effects will ask you to roll a group of dice, denoted such as $2d6$. When rolling a group of dice, if you roll a $1$ on either die, then you roll all dice in the group again and add to the previous result. And as long as you continue to roll a $1$ on either die, you continue to roll the group again and add this way.
 
+Succeeding on a Check or winning a Contest without bumping represents natural and trained ability, while doing so with bumping represents a character's determination and focus saving the day.
+
 !!! warning "Rules Note: Group of Dice"
     In this game, $2d6$ is different from $1d6+1d6$. Only when an effect explicitly groups dice together are they considered a group for bumping. For example, both dice of the $2d6$ group are rerolled when either rolls a $1$. However, the dice of the $1d6+1d6$ are considered separate groups, so rolling a $1$ on one of the dice only affects that one die.
 
@@ -202,6 +204,10 @@ To perform a Stat Check, roll the Stat Die for the action’s associated Stat. T
 ## Highs and Lows
 
 When you succeed on a Check or win a Contest by $5$ or more above the number you needed to reach, then something extra cool may happen. On the other hand, when you fail a Check or lose a Contest by $5$ or more, then something extra bad may happen. Failing or losing by $10$ or more can be disastrous.
+
+## Surprise Threat
+
+When a character is surprised by a threat, their first roll in response to it cannot bump.
 
 ## Blessings
 
