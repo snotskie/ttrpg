@@ -34,11 +34,11 @@ Each character in this game has one of three Lifestyles, described below. A char
 !!! tip "Character Creation: Step Two!"
     Begin to describe the Lifestyle your character had growing up or their current outlook on life. As you do, pick one of the following Lifestyles to start the game with.
 
-**Carefree:** Your character lives a relatively carefree life, perhaps because of your young age, wealthy upbringing, or optimistic demeanor. Increase the results of your rolls using Heart, Hurry, or Prodigious by $+1$.
+**Carefree:** Your character lives a relatively carefree life, perhaps because of your young age, wealthy upbringing, or optimistic demeanor. Increase the results of your rolls using Heart or Hurry by $+1$.
 
-**Eager:** Your character is eager for more out of life, perhaps because of a teenage rebellious phase, a yearning to accomplish your dreams, or a person you want to impress. Increase the results of your rolls using Hand, Hurt, or Eager by $+1$.
+**Eager:** Your character is eager for more out of life, perhaps because of a teenage rebellious phase, a yearning to accomplish your dreams, or a person you want to impress. Increase the results of your rolls using Hand or Hurt by $+1$.
 
-**Wisened:** Life has not been easy on your character, but as a result you’ve come out wiser and tougher, perhaps because you’ve gotten older, been shaped by unfortunate events, or dedicated yourself to your work. Increase the results of your rolls using Head, Home, or Warry by $+1$.
+**Wisened:** Life has not been easy on your character, but as a result you’ve come out wiser and tougher, perhaps because you’ve gotten older, been shaped by unfortunate events, or dedicated yourself to your work. Increase the results of your rolls using Head or Home by $+1$.
 
 !!! black "DM Note: Changing Lifestyles"
     ```@raw html
@@ -53,13 +53,19 @@ Each character in this game has one of three Lifestyles, described below. A char
 
 ## Spark Stats
 
-Each character in the game also has three Spark Stats, represented by the three "sparks" described below. These Spark Stats describe a character's "spark," that hint of magic or ability to achieve amazing feats, that penchant for pulling out surprising wins. These "sparks" are what allow characters to perform far beyond what is normally possible by the laws of nature, limited only by their imagination -- and ability to control powerful and strange forces!
+Each character in the game also has six Spark Stats, represented by the six "sparks" described below. These Spark Stats describe a character's "spark," that hint of magic or ability to achieve amazing feats, that penchant for pulling out surprising wins. These "sparks" are what allow characters to perform far beyond what is normally possible by the laws of nature, limited only by their imagination -- and ability to control powerful and strange forces!
 
-**Chosen Spark:** The spark of a character who is blessed, favored, or cursed, and who draws inspiration from the community around them. Use this Spark for actions related to Heart, Home, or being Eager that push beyond the mundane
+**Prodigious Spark:** The spark of a character whose studies come effortlessly, that character that secrets just seem to reveal themselves to. Use this Spark for actions related to Head, Hurt, and being Carefree that push beyond the mundane, such as sorcery
 
-**Prodigious Spark:** That spark of a character whose studies come effortlessly, that character that secrets just seem to reveal themselves to. Use this Spark for actions related to Head, Hurt, or being Carefree that push beyond the mundane
+**Chosen Spark:** The spark of a character who is blessed, favored, or cursed, and who draws inspiration from the community around them. Use this Spark for actions related to Heart, Home, and being Eager that push beyond the mundane, such as divinity
 
-**Warry Spark:** That spark of a character who is one with the natural and supernatural worlds around them, who has a keen sense of danger and safety. Use this Spark for actions related to Hand, Hurry, or being Wisened that push beyond the mundane
+**Warry Spark:** That spark of a character who is one with the natural and supernatural worlds around them, who has a keen sense of danger and safety. Use this Spark for actions related to Hand, Hurry, and being Wisened that push beyond the mundane, such as prophecy
+
+**Crafty Spark:** The spark of a character who can envision amazing designs--and bring them to life! Use this Spark for actions related to Hand, Home, and being Carefree that push beyond the mundane, such as animation
+
+**Wired Spark:** The spark of a character whose mind is quick and analytical, seeing solutions to problems that are unimaginably complex. Use this Spark for actions related to Head, Hurry, and being Eager that push beyond the mundane, such as hacking
+
+**Compelling Spark:** The spark of a character who seems about to spin any loss into a win--or vice versa--, a sly, tactical force to be reckoned with! Use this Spark for actions related to Heart, Hurt, and being Wisened that push beyond the mundane, such as illusion
 
 Like your Basic Stats, when you begin the game, all of your Spark Stats are equal, except each Spark Stat uses 2d4 for their Spark Stat Checks. At the end of a session, you may spend:
 
@@ -100,7 +106,7 @@ Characters in this game have a set of Abilities that grant them certain actions 
     - 5 unspent Blessings to gain your fourth Ability
     - 10 unspent Blessings to gain your fifth Ability by creating one of your own and gaining it, within reason
 
-**Blessed by Luck:** Once per scene, when you fail a Check, you may spend $2$ Blessings to reroll the Check as though it was a Chosen Check. If the Chosen Check succeeds, then the original failure becomes a success.
+**Blessed by Luck:** Once per scene, when you fail a Check, you may spend $3$ Blessings, using the newer result instead.
 
 **Blessed by Friendship:** Once per scene, you may spend a Blessing to help another character no matter the distance between you.
 
@@ -112,7 +118,7 @@ Characters in this game have a set of Abilities that grant them certain actions 
 
 **Blessed by Family:** You may spend $2$ Blessings to attack recklessly, using Home for a violent Contest instead of Hurt as usual. This attack is potentially lethal to your target if you win, and you may sustain injuries if you lose.
 
-**Blessed by Self-Acceptance:** While you are Uncool, you may spend $1$ Blessing to roll a Check as though it was a Prodigious Check. If the Prodigious Check succeeds, then you become no longer Uncool.
+**Blessed by Self-Acceptance:** While you are Uncool, you may spend $1$ Blessing to roll a Check using a different Basic Stat than normal. Then if the Check succeeds, you are no longer Uncool.
 
 **Blessed by Charity:** When you visit a place of religious or spiritual importance, you may spend any number of Blessings as a donation or act of service to the place. The more Blessings spent this way, the greater a possible later boon may be, determined by the DM.
 
