@@ -7,17 +7,17 @@ Each character in this game has six Basic Stats, represented by the "six H’s" 
 !!! tip "Character Creation: Step One!"
     Your first task is to decide which Stats your character is best (and worst) at! Rank your "six H's" from the one your character is most capable at to least capable at. As you do, begin to think about the story your character takes on in your mind. Why are they good at this and not at that? Why is one important to them and not the other?
 
-**Head:** Intellectual pursuits, problem solving, puzzles, riddles, scanning for information, recalling facts, insight, reasoning, operating and building complex machines, playing practiced music
+**🧠 Head:** Intellectual pursuits, problem solving, puzzles, riddles, scanning for information, recalling facts, insight, reasoning, operating and building complex machines, playing practiced music
 
-**Hand:** Athletic pursuits, sleight of hand, activities that require physical training, raw non-violent strength, moving quietly
+**✌️ Hand:** Athletic pursuits, sleight of hand, activities that require physical training, raw non-violent strength, moving quietly
 
-**Heart:** Speaking with passion, understanding others, reading emotions, playing music improvisationally
+**💕 Heart:** Speaking with passion, understanding others, reading emotions, playing music improvisationally
 
-**Home:** Protecting yourself and loved ones, taking hits, tending to wounds, haggling, survival skills, cooking, navigating towns and dwellings, remaining calm, staying alert, coming prepared
+**🩹 Home:** Protecting yourself and loved ones, taking hits, tending to wounds, haggling, survival skills, cooking, navigating towns and dwellings, remaining calm, staying alert, coming prepared
 
-**Hurt:** Nerve and willingness to inflict harm on others
+**👿 Hurt:** Nerve and willingness to inflict harm on others
 
-**Hurry:** Escaping danger, reacting by instinct, surges of adrenaline
+**⚡ Hurry:** Escaping danger, reacting by instinct, surges of adrenaline
 
 When you begin the game, all of your Basic Stats are equal, each using a d4 for their Basic Stat Checks. At the end of a session, you may spend:
 
@@ -34,19 +34,17 @@ Each character in this game has one of three Lifestyles, described below. A char
 !!! tip "Character Creation: Step Two!"
     Begin to describe the Lifestyle your character had growing up or their current outlook on life. As you do, pick one of the following Lifestyles to start the game with.
 
-**Carefree:** Your character lives a relatively carefree life, perhaps because of your young age, wealthy upbringing, or optimistic demeanor. Increase the results of your rolls using Heart or Hurry by $+1$.
+**🍀 Carefree:** Your character lives a relatively carefree life, perhaps because of your young age, wealthy upbringing, or optimistic demeanor. Increase the results of your rolls using Heart or Hurry by $+1$.
 
-**Eager:** Your character is eager for more out of life, perhaps because of a teenage rebellious phase, a yearning to accomplish your dreams, or a person you want to impress. Increase the results of your rolls using Hand or Hurt by $+1$.
+**❤️‍🔥 Eager:** Your character is eager for more out of life, perhaps because of a teenage rebellious phase, a yearning to accomplish your dreams, or a person you want to impress. Increase the results of your rolls using Hand or Hurt by $+1$.
 
-**Wisened:** Life has not been easy on your character, but as a result you’ve come out wiser and tougher, perhaps because you’ve gotten older, been shaped by unfortunate events, or dedicated yourself to your work. Increase the results of your rolls using Head or Home by $+1$.
+**🧘‍♀️ Wisened:** Life has not been easy on your character, but as a result you’ve come out wiser and tougher, perhaps because you’ve gotten older, been shaped by unfortunate events, or dedicated yourself to your work. Increase the results of your rolls using Head or Home by $+1$.
 
 !!! black "DM Note: Changing Lifestyles"
     ```@raw html
     <details><summary>For DM eyes only! Click to reveal</summary>
     ```
     Mechanically, there is no way for a character to change their Lifestyle. However, you and your player may feel it is narratively appropriate to reflect their character's growth in response to powerful story events. How you rule the change of the Lifestyle is up to you, as the best approach can vary from story to story.
-    
-    In any case, don't let players have more than a $+3$ bonus to any one stat, and don't let them have a bonus to more than two stats.
     ```@raw html
     </details>
     ```
@@ -73,7 +71,7 @@ Like your Basic Stats, when you begin the game, all of your Spark Stats are equa
 - 6 unspent Blessings to upgrade a single Spark Stat's die from 2d6 to 2d8
 - 8 unspent Blessings to upgrade a single Spark Stat's die from 2d8 to 2d10
 
-For the Spark Stat related to your Lifestyle, upgrading its die costs 1 fewer Blessing each time.
+For each Spark Stat related to your Lifestyle, upgrading its die costs 1 fewer Blessing each time.
 
 ## Background
 
