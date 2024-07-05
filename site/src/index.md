@@ -53,17 +53,17 @@ Each character in this game has one of three Lifestyles, described below. A char
 
 Each character in the game also has six Spark Stats, represented by the six "sparks" described below. These Spark Stats describe a character's "spark," that hint of magic or ability to achieve amazing feats, that penchant for pulling out surprising wins. These "sparks" are what allow characters to perform far beyond what is normally possible by the laws of nature, limited only by their imagination -- and ability to control powerful and strange forces!
 
-**Prodigious Spark:** The spark of a character whose studies come effortlessly, that character that secrets just seem to reveal themselves to. Use this Spark for actions related to Head, Hurt, and being Carefree that push beyond the mundane, such as sorcery
+**🍀🧠👿 Prodigious Spark:** The spark of a character whose studies come effortlessly, that character that secrets just seem to reveal themselves to. Use this Spark for actions related to Head, Hurt, and being Carefree that push beyond the mundane, such as sorcery
 
-**Chosen Spark:** The spark of a character who is blessed, favored, or cursed, and who draws inspiration from the community around them. Use this Spark for actions related to Heart, Home, and being Eager that push beyond the mundane, such as divinity
+**❤️‍🔥💕🩹 Chosen Spark:** The spark of a character who is blessed, favored, or cursed, and who draws inspiration from the community around them. Use this Spark for actions related to Heart, Home, and being Eager that push beyond the mundane, such as divinity
 
-**Warry Spark:** That spark of a character who is one with the natural and supernatural worlds around them, who has a keen sense of danger and safety. Use this Spark for actions related to Hand, Hurry, and being Wisened that push beyond the mundane, such as prophecy
+**🧘‍♀️✌️⚡ Warry Spark:** That spark of a character who is one with the natural and supernatural worlds around them, who has a keen sense of danger and safety. Use this Spark for actions related to Hand, Hurry, and being Wisened that push beyond the mundane, such as prophecy
 
-**Crafty Spark:** The spark of a character who can envision amazing designs--and bring them to life! Use this Spark for actions related to Hand, Home, and being Carefree that push beyond the mundane, such as animation
+**🍀✌️🩹 Crafty Spark:** The spark of a character who can envision amazing designs--and bring them to life! Use this Spark for actions related to Hand, Home, and being Carefree that push beyond the mundane, such as animation
 
-**Wired Spark:** The spark of a character whose mind is quick and analytical, seeing solutions to problems that are unimaginably complex. Use this Spark for actions related to Head, Hurry, and being Eager that push beyond the mundane, such as hacking
+**❤️‍🔥🧠⚡ Wired Spark:** The spark of a character whose mind is quick and analytical, seeing solutions to problems that are unimaginably complex. Use this Spark for actions related to Head, Hurry, and being Eager that push beyond the mundane, such as hacking
 
-**Compelling Spark:** The spark of a character who seems about to spin any loss into a win--or vice versa--, a sly, tactical force to be reckoned with! Use this Spark for actions related to Heart, Hurt, and being Wisened that push beyond the mundane, such as illusion
+**🧘‍♀️💕👿 Compelling Spark:** The spark of a character who seems about to spin any loss into a win--or vice versa--, a sly, tactical force to be reckoned with! Use this Spark for actions related to Heart, Hurt, and being Wisened that push beyond the mundane, such as illusion
 
 Like your Basic Stats, when you begin the game, all of your Spark Stats are equal, except each Spark Stat uses 2d4 for their Spark Stat Checks. At the end of a session, you may spend:
 
