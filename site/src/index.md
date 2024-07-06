@@ -19,11 +19,11 @@ Each character in this game has six Basic Stats, represented by the "six H’s" 
 
 **⚡ Hurry:** Escaping danger, reacting by instinct, surges of adrenaline
 
-When you begin the game, all of your Basic Stats are equal, each using a $d4$ for their Basic Stat Checks. At the end of a session, you may spend:
+When you begin the game, all of your Basic Stats are equal, each using a $d4$ for their Basic Stat Checks. At the end of a session, you may:
 
-- $2$ unspent Blessings to upgrade a single Basic Stat's die from a $d4$ to a $d6$
-- $3$ unspent Blessings to upgrade a single Basic Stat's die from a $d6$ to a $d8$
-- $4$ unspent Blessings to upgrade a single Basic Stat's die from a $d8$ to a $d10$
+- spend $2$ unspent Blessings to upgrade a single Basic Stat's die from a $d4$ to a $d6$
+- spend $3$ unspent Blessings to upgrade a single Basic Stat's die from a $d6$ to a $d8$
+- spend $4$ unspent Blessings to upgrade a single Basic Stat's die from a $d8$ to a $d10$
 
 For the Basic Stat you ranked the highest, upgrading its die costs 1 fewer Blessing each time. However, for the Basic Stat you ranked the lowest, upgrading its die costs $1$ additional Blessing each time
 
@@ -65,11 +65,11 @@ Each character in the game also has six Spark Stats, represented by the six "spa
 
 **🧘‍♀️💕👿 Compelling Spark:** The spark of a character who seems about to spin any loss into a win--or vice versa--, a sly, tactical force to be reckoned with! Use this Spark for actions related to Heart, Hurt, and being Wisened that push beyond the mundane, such as illusion
 
-Like your Basic Stats, when you begin the game, all of your Spark Stats are equal, except each Spark Stat uses $2d4$ for their Spark Stat Checks. At the end of a session, you may spend:
+Like your Basic Stats, when you begin the game, all of your Spark Stats are equal, except each Spark Stat uses $2d4$ for their Spark Stat Checks. At the end of a session, you may:
 
-- $4$ unspent Blessings to upgrade a single Spark Stat's die from $2d4$ to $2d6$
-- $6$ unspent Blessings to upgrade a single Spark Stat's die from $2d6$ to $2d8$
-- $8$ unspent Blessings to upgrade a single Spark Stat's die from $2d8$ to $2d10$
+- spend $4$ unspent Blessings to upgrade a single Spark Stat's die from $2d4$ to $2d6$
+- spend $6$ unspent Blessings to upgrade a single Spark Stat's die from $2d6$ to $2d8$
+- spend $8$ unspent Blessings to upgrade a single Spark Stat's die from $2d8$ to $2d10$
 
 For each Spark Stat related to your Lifestyle, upgrading its die costs $1$ fewer Blessing each time.
 
@@ -98,11 +98,11 @@ Characters in this game have a set of Abilities that grant them certain actions 
 
     With that in mind, pick two of the following Abilities to start the game with.
 
-    At the end of a session, you may spend:
+    At the end of a session, you may:
 
-    - $2$ unspent Blessings to gain your third Ability
-    - $5$ unspent Blessings to gain your fourth Ability
-    - $10$ unspent Blessings to gain your fifth Ability by creating one of your own and gaining it, within reason
+    - spend $2$ unspent Blessings to gain your third Ability
+    - spend $5$ unspent Blessings to gain your fourth Ability
+    - spend $10$ unspent Blessings to gain your fifth Ability by creating one of your own and gaining it, within reason
 
 **Blessed by Luck:** Once per scene, when you fail a Check, you may spend $3$ Blessings, using the newer result instead.
 
