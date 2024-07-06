@@ -36,7 +36,7 @@ Each character in this game has one of three Lifestyles, described below. A char
 
 **🍀 Carefree:** Your character lives a relatively carefree life, perhaps because of your young age, wealthy upbringing, or optimistic demeanor. Increase the results of your rolls using Heart or Hurry by $+1$.
 
-**❤️‍🔥 Eager:** Your character is eager for more out of life, perhaps because of a teenage rebellious phase, a yearning to accomplish your dreams, or a person you want to impress. Increase the results of your rolls using Hand or Hurt by $+1$.
+**🔥 Eager:** Your character is eager for more out of life, perhaps because of a teenage rebellious phase, a yearning to accomplish your dreams, or a person you want to impress. Increase the results of your rolls using Hand or Hurt by $+1$.
 
 **🧘‍♀️ Wisened:** Life has not been easy on your character, but as a result you’ve come out wiser and tougher, perhaps because you’ve gotten older, been shaped by unfortunate events, or dedicated yourself to your work. Increase the results of your rolls using Head or Home by $+1$.
 
@@ -55,13 +55,13 @@ Each character in the game also has six Spark Stats, represented by the six "spa
 
 **🍀🧠👿 Prodigious Spark:** The spark of a character whose studies come effortlessly, that character that secrets just seem to reveal themselves to. Use this Spark for actions related to Head, Hurt, and being Carefree that push beyond the mundane, such as sorcery
 
-**❤️‍🔥💕🩹 Chosen Spark:** The spark of a character who is blessed, favored, or cursed, and who draws inspiration from the community around them. Use this Spark for actions related to Heart, Home, and being Eager that push beyond the mundane, such as divinity
+**🔥💕🩹 Chosen Spark:** The spark of a character who is blessed, favored, or cursed, and who draws inspiration from the community around them. Use this Spark for actions related to Heart, Home, and being Eager that push beyond the mundane, such as divinity
 
 **🧘‍♀️✌️⚡ Warry Spark:** That spark of a character who is one with the natural and supernatural worlds around them, who has a keen sense of danger and safety. Use this Spark for actions related to Hand, Hurry, and being Wisened that push beyond the mundane, such as prophecy
 
 **🍀✌️🩹 Crafty Spark:** The spark of a character who can envision amazing designs--and bring them to life! Use this Spark for actions related to Hand, Home, and being Carefree that push beyond the mundane, such as animation
 
-**❤️‍🔥🧠⚡ Wired Spark:** The spark of a character whose mind is quick and analytical, seeing solutions to problems that are unimaginably complex. Use this Spark for actions related to Head, Hurry, and being Eager that push beyond the mundane, such as hacking
+**🔥🧠⚡ Wired Spark:** The spark of a character whose mind is quick and analytical, seeing solutions to problems that are unimaginably complex. Use this Spark for actions related to Head, Hurry, and being Eager that push beyond the mundane, such as hacking
 
 **🧘‍♀️💕👿 Compelling Spark:** The spark of a character who seems about to spin any loss into a win--or vice versa--, a sly, tactical force to be reckoned with! Use this Spark for actions related to Heart, Hurt, and being Wisened that push beyond the mundane, such as illusion
 
