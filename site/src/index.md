@@ -112,9 +112,11 @@ Characters in this game have a set of Abilities that grant them certain actions 
 
 **Steady Emotions:** Whenever you fail a Check or lose a Contest and would become Uncool as a result, protect yourself for $+3$.
 
-**Synchronous:** You may perform a Spark Stat Check using one of your Stats and one of the Stats of another willing character in the scene, so long as the chosen Stats are balanced and both characters have this ability.
+**Synchronized Spark:** You may perform a Spark Stat Check using one of your Stats and one of the Stats of another willing character in the scene, so long as the chosen Stats are balanced and both characters have this ability.
 
-**Ascendant:** You may perform a Spark Stat Check using three Stats instead of two, so long as those Stats each use a $d8$ or larger.
+**Ascendant Spark:** You may perform a non-violent Spark Stat Check using three Stats instead of two, so long as those Stats each use a $d8$ or larger.
+
+**Advanced Training:** Increase the result of your rolls using a $d8$ or larger by $+1$.
 
 !!! details "DM Note: Replacing Abilities"
     Mechanically, there is no way for a character to lose or replace a Ability. However, you and your player may feel it is narratively appropriate to reflect their character's growth in response to powerful story events. How you rule the change of Abilities is up to you, as the best approach can vary from story to story.
