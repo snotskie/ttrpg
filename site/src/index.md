@@ -27,7 +27,7 @@ When you begin the game, all of your Basic Stats are equal, each using a $d4$ fo
 
 For the Basic Stat you ranked the highest, upgrading its die costs 1 fewer Blessing each time. However, for the Basic Stat you ranked the lowest, upgrading its die costs $1$ additional Blessing each time
 
-## Lifestyle
+## Lifestyle and History
 
 Each character in this game has one of three Lifestyles, described below. A character's Lifestyle represents their general background and goals, and can change over the course of the story.
 
@@ -40,17 +40,17 @@ Each character in this game has one of three Lifestyles, described below. A char
 
 **🧘‍♀️ Wisened:** Life has not been easy on your character, but as a result you’ve come out wiser and tougher, perhaps because you’ve gotten older, been shaped by unfortunate events, or dedicated yourself to your work. Increase the results of your rolls using Head or Home by $+1$.
 
-Moreover, each character has a Lifestyle Stat, which uses a $d4$ at the start of the game to perform a Lifestyle Stat Check to perform actions related to the character's back story more than to any Basic Stat. This die can also be upgraded at the end of a session in the same manner as a Basic Stat.
-
 !!! details "DM Note: Changing Lifestyles"
     Mechanically, there is no way for a character to change their Lifestyle. However, you and your player may feel it is narratively appropriate to reflect their character's growth in response to powerful story events. How you rule the change of the Lifestyle is up to you, as the best approach can vary from story to story.
+
+Moreover, each character has a History Stat, which follows the same rules as the Basic Stats and is used to perform actions more related to the character's back story more than to the other Basic Stats.
 
 !!! tip "Character Creation: Step Three!"
     Begin to describe your character's back story and list three specific skills that they have proven their ability in, such as through schooling, study, training, or so on, as well as people and groups that they interacted with or had connections to.
 
 ## Hero
 
-Characters in this game have Heros that they look up to. Once per session, when you succeed a Check or win a Contest by $5$ or more while acting as your Hero would, gain $3$ Blessings.
+Characters in this game have Heros that they look up to. The first time per session, when you succeed a Check or win a Contest by $5$ or more while acting as your Hero would, gain $3$ Blessings. Subsequent times gain $1$ Blessing instead.
 
 !!! tip "Character Creation: Step Four!"
     Describe who your character looks up to, whose work they strive to emulate, who taught them everything they know, or so on. What would it look like to make their Hero happy? upset? What is their connection to their Hero, and where is their Hero up to in the world now?
@@ -136,8 +136,8 @@ Succeeding on a Check or winning a Contest without bumping represents natural an
 
 To perform a Stat Check, roll the die for the action’s associated Stat. The DM will let you know which to use. Roll the die, and if the result meets or beats the DM’s target number, then the check succeeds. Otherwise, it fails.
 
-!!! details "DM Note: Setting Basic and Lifestyle Stat Check Targets"
-    Use $4$ for an easy Basic or Lifestyle Stat Check, $8$ for medium, $12$ for hard, $16$ for very hard, and $20$ for a trial the players will be greatly awarded for overcoming. The lowest possible Basic or Lifestyle Stat Check is $2$.
+!!! details "DM Note: Setting Basic Stat Check Targets"
+    Use $4$ for an easy Basic Stat Check, $8$ for medium, $12$ for hard, $16$ for very hard, and $20$ for a trial the players will be greatly awarded for overcoming. The lowest possible Basic Stat Check is $2$.
     
     Medium is the average for rolls in most situations the players will get themselves into, and each difficulty level above that is roughly equivalent to what the players could reach by spending one more Blessing. For situations that you surprise your players with that they don't have the chance to prepare for before reacting, consider lowering the difficulty by $2$ or $3$. The reason is that surprise situations are more likely to use characters' lower Stat Dice.
     
@@ -164,7 +164,7 @@ When you succeed on a Check or win a Contest by $5$ or more above the number you
 
 ### Surprise Threat
 
-When a character is surprised by a threat, their first roll in response to it cannot bump.
+When a character is surprised by a threat, their first roll in response to it cannot bump and cannot be a Spark Stat Check.
 
 ### Blessings
 
