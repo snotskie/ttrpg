@@ -70,15 +70,15 @@ Characters in this game have a set of Abilities that grant them certain actions 
     - spend $5$ unspent Blessings to gain your fourth Ability
     - spend $10$ unspent Blessings to gain your fifth Ability by creating one of your own and gaining it, within reason
 
-**Blessed by Luck:** Once per scene, when you fail a Check, you may spend $3$ Blessings, using the newer result instead.
+**Blessed by Luck:** Once per scene, when you fail a Check, you may spend $3$ Blessings to attempt the Check again, using the newer result instead.
 
 **Blessed by Friendship:** Once per scene, you may spend a Blessing to help another character no matter the distance between you.
 
-**Blessed by Action:** Once per scene, when you succeed a Check by $5$ or more, each character that witnessed the success gains a Blessing.
+**Blessed by Action:** Once per scene, when you succeed a Check by $5$ or more, each character that witnessed the success gains a Blessing, including yourself.
 
 **Blessed by Circumstance:** During a Contest involving three or more characters, you may spend $3$ Blessings to swap the results of two characters’ rolls.
 
-**Blessed by Voices:** Once per scene, you may spend $2$ Blessings to learn more about a character, place, or fact than would normally be possible. Then, perform a Warry Check to prevent consequences from gaining this knowledge.
+**Blessed by Voices:** Once per scene, you may spend $2$ Blessings to learn more about a character, place, or fact than would normally be possible.
 
 **Blessed by Family:** You may spend $2$ Blessings to attack recklessly, using Home for a violent Contest instead of Hurt as usual. This attack is potentially lethal to your target if you win, and you may sustain injuries if you lose.
 
@@ -90,7 +90,7 @@ Characters in this game have a set of Abilities that grant them certain actions 
 
 **Medically Insured:** Once per scene, when a character fails a Check or loses a Contest to tend to your wounds, characters may spend a combined total of $3$ Blessings to turn the failure into a success or the loss into a win. Then, increase the number of Blessings needed to activate this ability by $2$.
 
-**Focused Determination:** The first time you bump your dice per roll, increase the result of the roll by an additional $+1$.
+**Focused Determination:** Each time you bump your dice per, increase the result of the roll by an additional $+1$.
 
 **Armored Skin:** Whenever you lose a violent Contest as the Defender, protect yourself for $+3$.
 
@@ -105,6 +105,8 @@ Characters in this game have a set of Abilities that grant them certain actions 
 
 **Steady Emotions:** Whenever you fail a Check or lose a Contest and would become Uncool as a result, protect yourself for $+3$.
 
+**Synchronous:** You may perform a Spark Stat Check using one of your Stats and one of the Stats of another willing character in the scene, so long as the chosen Stats are balanced and both characters have this ability.
+
 !!! details "DM Note: Replacing Abilities"
     Mechanically, there is no way for a character to lose or replace a Ability. However, you and your player may feel it is narratively appropriate to reflect their character's growth in response to powerful story events. How you rule the change of Abilities is up to you, as the best approach can vary from story to story.
     
@@ -115,7 +117,7 @@ Characters in this game have a set of Abilities that grant them certain actions 
 !!! tip "Character Creation: Step Six!"
     List three items that your character never leaves home without, within reason. These will be the items you start the game with.
 
-When you need an item your character does not already have listed, it could still be narratively reasonable for your character to have that item on them anyway. Once per scene, to see if your character came prepared with just the item you need, within reason, spend a Blessing and perform a Home Stat Check. If you roll equal to or greater than twice the number of items you have listed, then the Check succeeds and you may add the item to your list. Otherwise, the Check fails and you may not perform another Home Check this session.
+When you need an item your character does not already have listed, it could still be narratively reasonable for your character to have that item on them anyway. Once per scene, to see if your character came prepared with just the item you need, within reason, spend a Blessing and perform a Home Stat Check. If you roll equal to or greater than twice the number of items you have listed, then the Check succeeds and you may add the item to your list. Otherwise, the Check fails and you may not perform another Home Check this way this session.
 
 ## Playing the Game
 
@@ -127,7 +129,7 @@ When you roll a $1$ on a die, roll it again, adding the new result to its previo
 
 Additionally, some effects will ask you to roll a group of dice, denoted such as $2d6$. When rolling a group of dice, if you roll a $1$ on either die, then you roll all dice in the group again and add to the previous result. And as long as you continue to roll a $1$ on either die, you continue to roll the group again and add this way.
 
-Succeeding on a Check or winning a Contest without bumping represents natural and trained ability, while doing so with bumping represents a character's determination and focus saving the day.
+Succeeding on a Check or winning a Contest without bumping represents natural or trained ability, while doing so with bumping represents a character's extra determination and focus on the action.
 
 !!! warning "Rules Note: Group of Dice"
     In this game, $2d6$ is different from $1d6+1d6$. Only when an effect explicitly groups dice together are they considered a group for bumping. For example, both dice of the $2d6$ group are rerolled when either rolls a $1$. However, the dice of the $1d6+1d6$ are considered separate groups, so rolling a $1$ on one of the dice only affects that one die.
@@ -147,7 +149,7 @@ To perform a Stat Check, roll the die for the action’s associated Stat. The DM
 
 When two of a character's Stats use the same die, those Stats are "balanced."
 
-You may spend $2$ Blessings to Spark Stat Check, which combines the dice of two balanced Stats into a single group, such as forming $2d6$ from two balanced Stats that each use a $d6$. These Spark Stat Checks represent a character's momentary "spark," that hint of magic or ability to achieve amazing feats, that penchant for pulling out surprising wins, and so on. These "sparks" are what allow characters to perform far beyond what is normally possible by the laws of nature, limited only by their imagination -- and ability to control powerful and strange forces!
+You may spend $2$ Blessings to perform a Spark Stat Check, which combines the dice of two balanced Stats into a single group, such as $2d6$ form from two balanced Stats using a $d6$ each. These Spark Stat Checks represent a character's momentary "spark," that hint of magic or ability to achieve amazing feats, that penchant for pulling out surprising wins, and so on. These "sparks" are what allow characters to perform far beyond what is normally possible by the laws of nature, limited only by their imagination -- and ability to control powerful and strange forces!
 
 Any bonuses or effects that would apply to the balanced Stats used in the Spark Stat Check also apply to the Spark Stat Check itself.
 
