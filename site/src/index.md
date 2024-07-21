@@ -114,7 +114,9 @@ Characters in this game have a set of Abilities that grant them certain actions 
 
 **Synchronized Spark:** You may perform a Spark Stat Check using one of your Stats and one of the Stats of another willing character in the scene, so long as the chosen Stats are balanced and both characters have this ability.
 
-**Ascendant Spark:** You may perform a non-violent Spark Stat Check using three Stats instead of two, so long as those Stats each use a $d8$ or larger.
+**Inner Spark:** When you gain this Ability, choose a pair of Stats that each use a $d8$ or larger. Once per scene, you may perform a Spark Stat Check using the chosen Stats without spending Blessings.
+
+**Ascendant Spark:** You may perform a non-violent Spark Stat Check using three Stats instead of two, so long as those Stats each use a $d8$ or larger. 
 
 **Advanced Training:** Increase the result of your rolls using a $d8$ or larger by $+1$.
 
