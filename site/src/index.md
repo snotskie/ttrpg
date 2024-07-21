@@ -19,13 +19,16 @@ Each character in this game has six Basic Stats, represented by the "six H’s" 
 
 **⚡ Hurry:** Escaping danger, reacting by instinct, surges of adrenaline
 
-When you begin the game, all of your Basic Stats are equal, each using a $d4$ for their Basic Stat Checks. At the end of a session, you may:
+When you begin the game, all of your Basic Stats are equal, each using a $d4$ for their Basic Stat Checks.
 
-- spend $2$ unspent Blessings to upgrade a single Basic Stat's die from a $d4$ to a $d6$
-- spend $3$ unspent Blessings to upgrade a single Basic Stat's die from a $d6$ to a $d8$
-- spend $4$ unspent Blessings to upgrade a single Basic Stat's die from a $d8$ to a $d10$
+!!! compat "Session Shop: Basic Stats"
+    At the end of a session, you may:
 
-For the Basic Stat you ranked the highest, upgrading its die costs 1 fewer Blessing each time. However, for the Basic Stat you ranked the lowest, upgrading its die costs $1$ additional Blessing each time
+    - spend $2$ unspent Blessings to upgrade a single Basic Stat's die from a $d4$ to a $d6$
+    - spend $3$ unspent Blessings to upgrade a single Basic Stat's die from a $d6$ to a $d8$
+    - spend $4$ unspent Blessings to upgrade a single Basic Stat's die from a $d8$ to a $d10$
+    
+    For the Basic Stat you ranked the highest, upgrading its die costs 1 fewer Blessing each time. However, for the Basic Stat you ranked the lowest, upgrading its die costs $1$ additional Blessing each time
 
 ## Lifestyle and History
 
@@ -44,6 +47,9 @@ Each character in this game has one of three Lifestyles, described below. A char
     Mechanically, there is no way for a character to change their Lifestyle. However, you and your player may feel it is narratively appropriate to reflect their character's growth in response to powerful story events. How you rule the change of the Lifestyle is up to you, as the best approach can vary from story to story.
 
 Moreover, each character has a History Stat, which follows the same rules as the Basic Stats and is used to perform actions more related to the character's back story more than to the other Basic Stats.
+
+!!! compat "Session Shop: History"
+    Your History Stat can be upgraded at the end of a session in the same manner as your Basic Stats.
 
 !!! tip "Character Creation: Step Three!"
     Begin to describe your character's back story and list three specific skills that they have proven their ability in, such as through schooling, study, training, or so on, as well as people and groups that they interacted with or had connections to.
@@ -64,6 +70,7 @@ Characters in this game have a set of Abilities that grant them certain actions 
 
     With that in mind, pick two of the following Abilities to start the game with.
 
+!!! compat "Session Shop: Abilities"
     At the end of a session, you may:
 
     - spend $2$ unspent Blessings to gain your third Ability
