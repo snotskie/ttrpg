@@ -40,47 +40,13 @@ Each character in this game has one of three Lifestyles, described below. A char
 
 **🧘‍♀️ Wisened:** Life has not been easy on your character, but as a result you’ve come out wiser and tougher, perhaps because you’ve gotten older, been shaped by unfortunate events, or dedicated yourself to your work. Increase the results of your rolls using Head or Home by $+1$.
 
-!!! black "DM Note: Changing Lifestyles"
-    ```@raw html
-    <details><summary>For DM eyes only! Click to reveal</summary>
-    ```
+Moreover, each character has a Lifestyle Stat, which uses a $d4$ at the start of the game to perform a Lifestyle Stat Check to perform actions related to the character's back story more than to any Basic Stat. This die can also be upgraded at the end of a session in the same manner as a Basic Stat.
+
+!!! details "DM Note: Changing Lifestyles"
     Mechanically, there is no way for a character to change their Lifestyle. However, you and your player may feel it is narratively appropriate to reflect their character's growth in response to powerful story events. How you rule the change of the Lifestyle is up to you, as the best approach can vary from story to story.
-    ```@raw html
-    </details>
-    ```
-
-## Spark Stats
-
-Each character in the game also has six Spark Stats, represented by the six "sparks" described below. These Spark Stats describe a character's "spark," that hint of magic or ability to achieve amazing feats, that penchant for pulling out surprising wins. These "sparks" are what allow characters to perform far beyond what is normally possible by the laws of nature, limited only by their imagination -- and ability to control powerful and strange forces!
-
-**🍀🧠👿 Prodigious Spark:** The spark of a character whose studies come effortlessly, that character that secrets just seem to reveal themselves to. Use this Spark for actions related to Head, Hurt, and being Carefree that push beyond the mundane, such as sorcery
-
-**🔥💕🩹 Chosen Spark:** The spark of a character who is blessed, favored, or cursed, and who draws inspiration from the community around them. Use this Spark for actions related to Heart, Home, and being Eager that push beyond the mundane, such as divinity
-
-**🧘‍♀️✌️⚡ Warry Spark:** That spark of a character who is one with the natural and supernatural worlds around them, who has a keen sense of danger and safety. Use this Spark for actions related to Hand, Hurry, and being Wisened that push beyond the mundane, such as prophecy
-
-**🍀✌️🩹 Crafty Spark:** The spark of a character who can envision amazing designs--and bring them to life! Use this Spark for actions related to Hand, Home, and being Carefree that push beyond the mundane, such as animation
-
-**🔥🧠⚡ Wired Spark:** The spark of a character whose mind is quick and analytical, seeing solutions to problems that are unimaginably complex. Use this Spark for actions related to Head, Hurry, and being Eager that push beyond the mundane, such as hacking
-
-**🧘‍♀️💕👿 Compelling Spark:** The spark of a character who seems about to spin any loss into a win--or vice versa--, a sly, tactical force to be reckoned with! Use this Spark for actions related to Heart, Hurt, and being Wisened that push beyond the mundane, such as illusion
-
-Like your Basic Stats, when you begin the game, all of your Spark Stats are equal, except each Spark Stat uses $2d4$ for their Spark Stat Checks. At the end of a session, you may:
-
-- spend $4$ unspent Blessings to upgrade a single Spark Stat's die from $2d4$ to $2d6$
-- spend $6$ unspent Blessings to upgrade a single Spark Stat's die from $2d6$ to $2d8$
-- spend $8$ unspent Blessings to upgrade a single Spark Stat's die from $2d8$ to $2d10$
-
-For each Spark Stat related to your Lifestyle, upgrading its die costs $1$ fewer Blessing each time.
-
-## Background
-
-Beyond their general capabilities and their unique sparks, characters in this game may be able to draw upon their background training and expert abilities to grant them a small bonus (up to $+2$) to rolls that benefit from this background.
 
 !!! tip "Character Creation: Step Three!"
-    Begin to describe your character's back story and list three specific skills that they have proven their ability in, such as through schooling, study, training, or so on.
-
-    Each time you gain Level, you may gain an additional specific skill or expansion of your Background, within reason.
+    Begin to describe your character's back story and list three specific skills that they have proven their ability in, such as through schooling, study, training, or so on, as well as people and groups that they interacted with or had connections to.
 
 ## Hero
 
@@ -139,16 +105,10 @@ Characters in this game have a set of Abilities that grant them certain actions 
 
 **Steady Emotions:** Whenever you fail a Check or lose a Contest and would become Uncool as a result, protect yourself for $+3$.
 
-!!! black "DM Note: Replacing Abilities"
-    ```@raw html
-    <details><summary>For DM eyes only! Click to reveal</summary>
-    ```
+!!! details "DM Note: Replacing Abilities"
     Mechanically, there is no way for a character to lose or replace a Ability. However, you and your player may feel it is narratively appropriate to reflect their character's growth in response to powerful story events. How you rule the change of Abilities is up to you, as the best approach can vary from story to story.
     
     However, a suggestion is this: Whenever a player spends unspent Blessings to gain a new Basic Ability, allow them the opportunity to also replace one of their existing Abilities.
-    ```@raw html
-    </details>
-    ```
 
 ## Items
 
@@ -176,31 +136,27 @@ Succeeding on a Check or winning a Contest without bumping represents natural an
 
 To perform a Stat Check, roll the die for the action’s associated Stat. The DM will let you know which to use. Roll the die, and if the result meets or beats the DM’s target number, then the check succeeds. Otherwise, it fails.
 
-!!! black "DM Note: Setting Basic Stat Check Targets"
-    ```@raw html
-    <details><summary>For DM eyes only! Click to reveal</summary>
-    ```
-    Use $4$ for an easy Basic Stat Check, $8$ for medium, $12$ for hard, $16$ for very hard, and $20$ for a trial the players will be greatly awarded for overcoming. The lowest possible Basic Stat Check is $2$.
+!!! details "DM Note: Setting Basic and Lifestyle Stat Check Targets"
+    Use $4$ for an easy Basic or Lifestyle Stat Check, $8$ for medium, $12$ for hard, $16$ for very hard, and $20$ for a trial the players will be greatly awarded for overcoming. The lowest possible Basic or Lifestyle Stat Check is $2$.
     
     Medium is the average for rolls in most situations the players will get themselves into, and each difficulty level above that is roughly equivalent to what the players could reach by spending one more Blessing. For situations that you surprise your players with that they don't have the chance to prepare for before reacting, consider lowering the difficulty by $2$ or $3$. The reason is that surprise situations are more likely to use characters' lower Stat Dice.
     
     Also keep in mind that $12$ is the lowest difficulty where a player can fail bad enough for disastrous results.
-    ```@raw html
-    </details>
-    ```
 
-!!! black "DM Note: Setting Spark Stat Check Targets"
-    ```@raw html
-    <details><summary>For DM eyes only! Click to reveal</summary>
-    ```
+### Balanced Stats can Spark
+
+When two of a character's Stats use the same die, those Stats are "balanced."
+
+You may spend $2$ Blessings to Spark Stat Check, which combines the dice of two balanced Stats into a single group, such as forming $2d6$ from two balanced Stats that each use a $d6$. These Spark Stat Checks represent a character's momentary "spark," that hint of magic or ability to achieve amazing feats, that penchant for pulling out surprising wins, and so on. These "sparks" are what allow characters to perform far beyond what is normally possible by the laws of nature, limited only by their imagination -- and ability to control powerful and strange forces!
+
+Any bonuses or effects that would apply to the balanced Stats used in the Spark Stat Check also apply to the Spark Stat Check itself.
+
+!!! details "DM Note: Setting Spark Stat Check Targets"
     Use $8$ for an easy Spark Stat Check, $12$ for medium, $16$ for hard, $20$ for very hard, and $24$ for a trial the players will be greatly awarded for overcoming. These difficulties are substantially higher than their mundane Basic Stat Check counterparts, representing both the greater capability yet greater risk of relying on their sparks. The lowest possible Spark Stat Check is $4$.
     
     Medium is the average for rolls in most situations the players will get themselves into, and each difficulty level above that is roughly equivalent to what the players could reach by spending one more Blessing. For situations that you surprise your players with that they don't have the chance to prepare for before reacting, consider lowering the difficulty by $2$ or $3$. The reason is that surprise situations are more likely to use characters' lower Stat Dice.
     
     Also keep in mind that $12$ is the lowest difficulty where a player can fail bad enough for disastrous results.
-    ```@raw html
-    </details>
-    ```
 
 ### Highs and Lows
 
@@ -219,10 +175,7 @@ Once per roll, whether your own or another character’s, you may spend a Blessi
 !!! warning "Rules Notes: Helping as a Team"
     While a single character can give only one Blessing per roll to help another character, multiple characters can come together to give multiple Blessings together to that character.
 
-!!! black "DM Note: When to Award Blessings"
-    ```@raw html
-    <details><summary>For DM eyes only! Click to reveal</summary>
-    ```
+!!! details "DM Note: When to Award Blessings"
     Mechanically, players may earn Blessings by acting as their Hero would. However, you as a DM should award them Blessings consistently and throughout each session, as many characters’ abilities depend on them.
 
     However, what this looks like can vary per DM, per table, or per scene.
@@ -230,9 +183,6 @@ Once per roll, whether your own or another character’s, you may spend a Blessi
     Some DMs may prefer a “fail forward” approach like in *Kids on Bikes*, where Blessings are given whenever a player fails a check. Others may prefer a "natural" approach like in *Dungeons and Dragons*, where they award them when the players roll some lucky number before modifiers, like $8$ or the highest value on their die. Others still may prefer to award them when the players engage in cool roleplay, when they solve puzzles or complete quests, as a fixed supply at the start of each session or arc, or so on. And having the source of Blessings suddenly dry up in grittier parts of the story can be a *very* effective way to put the pressure on.
 
     The way you award Blessings is one of the most powerful tools in your toolbelt as a DM in this game! Use it well!
-    ```@raw html
-    </details>
-    ```
 
 ### Coolness
 
@@ -240,10 +190,7 @@ Some events challenge your resolve, throw you off your game, cause you great emb
 
 While you are Uncool, all rolls you make are modified by $-1$. Once during each scene that follows, you may be asked to attempt a Check to remove this condition.
 
-!!! black "DM Note: Becoming Uncool"
-    ```@raw html
-    <details><summary>For DM eyes only! Click to reveal</summary>
-    ```
+!!! details "DM Note: Becoming Uncool"
     The Uncool mechanic is a way to break the tension and bring comedy to your game. It is also a way to represent small story arcs where characters feel bad after some failed action, and take action later to feel better about it. And it is a way to connect player characters more to the non-player characters watching them.
 
     How and when you dole out this condition depends on what is best for your table, players, and story. A suggestion is to help the player tell the story of how their character is feeling after a particularly bad roll (failing or losing by $5$ or more). Who else is around that saw it happen? How would their Hero feel? How does this relate to what they've established about their backstory, goal, Lifestyle, or connection to other characters?
@@ -251,43 +198,28 @@ While you are Uncool, all rolls you make are modified by $-1$. Once during each 
     Equally important is how you give the players opportunities to *remove* this condition. Each attempt should be a fun, satisfying story beat that helps shape the narrative of how the player's character grows.
 
     So when you build the narrative of around how a character becomes Uncool and what this means for their connections to other characters, keep in the back of your head how you could use these same connections later to remove the condition and offer the player a chance to roleplay growth from their earlier failure.
-    ```@raw html
-    </details>
-    ```
 
 ### Contests
 
 A non-violent Contest is when a character performs an action against another character’s will using any Basic Stat besides Hurt, or any Spark Stat for non-violent means. To perform a non-violent Contest, first the Attacker rolls as though performing the appropriate Stat Check, then the Defender rolls as though performing a Stat Check using the same Stat as the Attacker. The action’s effect is only successful if the Attacker rolls higher than the Defender. The severity of the effect is determined by the difference between their scores.
 
-!!! black "DM Note: Severity of Non-violent Effects"
-    ```@raw html
-    <details><summary>For DM eyes only! Click to reveal</summary>
-    ```
+!!! details "DM Note: Severity of Non-violent Effects"
     A difference less than $5$ on a nonviolent Contest represents a minor effect or the Attacker getting what they wanted, within reason, and with complications. Any advantage the Attacker gains is temporary.
     
     A difference of at least $5$ but less than $10$ represents a medium effect or a lack of complications. Any advantage the Attacker gains lasts for several rolls by or against the Defender.
     
     And a difference of $10$ or more represents a major effect than can change the narrative arc of the session or even campaign.
-    ```@raw html
-    </details>
-    ```
 
 A violent Contest is when an Attacker performs an action against another character’s will using their Hurt stat, or any Spark Stat for violent means. All Contests involving Hurt are potentially deadly. Unexpected things can happen and things can get out of hand quickly.
 
 To perform a violent Contest, the Attacker first rolls as though performing a Hurt Stat Check, then the Defender rolls as though performing a Hurry Stat Check, representing their immediate instinctive reaction in the scene. If the Attacker rolls higher, then the Defender could be bruised, dazed, concussed, in need of immediate medical attention, or even dead. The amount that the Attacker rolled higher than the Defender determines the extent of the injury—regardless if that was what the Attacker intended. If the Defender rolls the same or higher number than the Attacker, then no injury occurs.
 
-!!! black "DM Note: Severity of Violent Effects"
-    ```@raw html
-    <details><summary>For DM eyes only! Click to reveal</summary>
-    ```
+!!! details "DM Note: Severity of Violent Effects"
     As with nonviolent Contests, a difference less than $5$ represents a minor wound that grants the Attacker only a temporary advantage.
     
     A difference at least $5$ but less than $10$ represents a wound that will need medical attention, possibly changing the narrative arc of the session to treat it, granting lasting effects if not treated successfully and in a timely manner.
     
     And a difference of $10$ or more on a violent Contest represents immediate death or grave injuries to the Defender needing immediate attention or a miracle.
-    ```@raw html
-    </details>
-    ```
 
 If both characters are attacking one another at the same time, then each character first rolls as Attackers, narrating how they attack, then they each roll as Defenders, narrating how they respond. Injuries are then determined as usual.
 
