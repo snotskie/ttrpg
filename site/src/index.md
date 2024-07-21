@@ -118,6 +118,8 @@ Characters in this game have a set of Abilities that grant them certain actions 
 
 **Advanced Training:** Increase the result of your rolls using a $d8$ or larger by $+1$.
 
+**Ease of Focus:** Your rolls using a $d8$ or larger also bump when you roll a $2$ on the die.
+
 !!! details "DM Note: Replacing Abilities"
     Mechanically, there is no way for a character to lose or replace a Ability. However, you and your player may feel it is narratively appropriate to reflect their character's growth in response to powerful story events. How you rule the change of Abilities is up to you, as the best approach can vary from story to story.
     
