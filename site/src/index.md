@@ -114,6 +114,8 @@ Characters in this game have a set of Abilities that grant them certain actions 
 
 **Synchronous:** You may perform a Spark Stat Check using one of your Stats and one of the Stats of another willing character in the scene, so long as the chosen Stats are balanced and both characters have this ability.
 
+**Ascendant:** You may perform a Spark Stat Check using three Stats instead of two, so long as those Stats each use a $d8$ or larger.
+
 !!! details "DM Note: Replacing Abilities"
     Mechanically, there is no way for a character to lose or replace a Ability. However, you and your player may feel it is narratively appropriate to reflect their character's growth in response to powerful story events. How you rule the change of Abilities is up to you, as the best approach can vary from story to story.
     
@@ -251,10 +253,8 @@ You do not have "hit points" in this game. Instead, wounds shape the narrative a
 
 Positions during combat are tracked narratively. There are four ranges: touching, nearby, ranged, and distant. When an Attacker attacks with a weapon they are trained in that is appropriate for their current range to their target, the attacker receives a $+2$ bonus to their roll.
 
-### Group Checks and Contests
+### Group Contests
 
 If multiple characters are Attackers together in a Contest, then they each perform their respective rolls and the median of their results is used to determine the group’s shared result.
 
 If multiple characters are Defenders together in a Contest, or are performing a coordinated Check, then they each perform their respective rolls, and if at least half would succeed the Check or win the Contest, then the group as a whole succeeds or wins.
-
-If multiple characters have Backgrounds that benefit their group's combined goal, then the whole group may receive up to a $+3$ bonus on their respective rolls, instead of only a few members of the group receiving only up to a $+2$ bonus as their Background would normally provide.
