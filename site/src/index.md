@@ -184,7 +184,7 @@ To perform a Stat Check, roll the die for the action’s associated Stat. The DM
 
 When two of a character's Stats use the same die, those Stats are "balanced."
 
-You may spend $3$ Blessings to perform a Spark Stat Check, which combines the dice of two balanced Stats into a single group, such as $2d6$ form from two balanced Stats using a $d6$ each. These Spark Stat Checks represent a character's momentary "spark," that hint of magic or ability to achieve amazing feats, that penchant for pulling out surprising wins, and so on. These "sparks" are what allow characters to perform far beyond what is normally possible by the laws of nature, limited only by their imagination -- and ability to control powerful and strange forces!
+You may spend $3$ Blessings to perform a Spark Stat Check, which combines the dice of two balanced Stats into a single group, such as $2d6$ formed from two balanced Stats using a $d6$ each. These Spark Stat Checks represent a character's momentary "spark," that hint of magic or ability to achieve amazing feats, that penchant for pulling out surprising wins, and so on. These "sparks" are what allow characters to perform far beyond what is normally possible by the laws of nature, limited only by their imagination -- and ability to control powerful and strange forces!
 
 Any bonuses or effects that would apply to the balanced Stats used in the Spark Stat Check also apply to the Spark Stat Check itself.
 
