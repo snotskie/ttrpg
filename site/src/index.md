@@ -113,7 +113,9 @@ Characters in this game have a set of Abilities that grant them certain actions 
 
 **Blessed by Charity:** When you visit a place of religious or spiritual importance, you may spend any number of Blessings as a donation or act of service to the place. The more Blessings spent this way, the greater a possible later boon may be, determined by the DM.
 
-**Blessed by Apprenticeship:** When you succeed a Check or win a Contest by $5$ or more while acting as your Hero would, gain $2$ Blessings, instead of the usual amount.
+**Blessed by Steadfastness:** When you succeed a Check or win a Contest by $5$ or more while acting as your Hero would, gain $2$ Blessings, instead of the usual amount.
+
+**Mercurial Blessing:** When you succeed a Check or win a Contest by less than $5$ while acting directly contrary to how your Hero would, gain $1$ Blessing.
 
 **Cursed Blessing:** Once per scene, when another character succeeds a Check or wins a Contest, you may spend $2$ Blessings to modify that character’s result by $-3$, possibly turning their success into a failure or win into a loss.
 
