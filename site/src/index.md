@@ -46,23 +46,23 @@ Each character in this game has one of three Lifestyles, described below. A char
 !!! compat "Session Shop: Carefree"
     If your starting Lifestyle was Carefree, at the end of a session you may spend $4$ unspent Blessings to change your Lifestyle to Prodigious or Crafty.
     
-    **🔮 Prodigious:** Your studies have come effortlessly to you, and secrets almost seem to just reveal themselves to you. When you have sparks, they take on a sorcerous aspect. Increase the results of your rolls using Head or Hurt by $+1$.
+    **🔮 Prodigious:** Your studies have come effortlessly to you, and secrets almost seem to just reveal themselves to you. When you have sparks, they take on a sorcerous aspect. Increase the results of your rolls using Head or Hurt by $+1$, and when you perform Spark Stat Checks using either of these Stats it costs only $2$ Blessings instead.
 
-    **🧶 Crafty:** You can envision amazing designs and, it seems, to bring them to life. When you have sparks, they take on an autonomous aspect. Increase the results of your rolls using Hand or Home by $+1$.
+    **🧶 Crafty:** You can envision amazing designs and, it seems, to bring them to life. When you have sparks, they take on an autonomous aspect. Increase the results of your rolls using Hand or Home by $+1$, and when you perform Spark Stat Checks using either of these Stats it costs only $2$ Blessings instead.
 
 !!! compat "Session Shop: Eager"
     If your starting Lifestyle was Eager, at the end of a session you may spend $4$ unspent Blessings to change your Lifestyle to Chosen or Wired.
 
-    **✨ Chosen:** You draw inspiration from the community around you, setting out on your journeys blessed, favored, or cursed. When you have sparks, they take on a divine aspect. Increase the results of your rolls using Heart or Home by $+1$.
+    **✨ Chosen:** You draw inspiration from the community around you, setting out on your journeys blessed, favored, or cursed. When you have sparks, they take on a divine aspect. Increase the results of your rolls using Heart or Home by $+1$, and when you perform Spark Stat Checks using either of these Stats it costs only $2$ Blessings instead.
 
-    **⚡ Wired:** Your mind is quick and analytical, and you can see solutions to problems that are unimaginably complex. When you have sparks, they take on a calculating aspect. Increase the results of your rolls using Head or Hurry by $+1$.
+    **⚡ Wired:** Your mind is quick and analytical, and you can see solutions to problems that are unimaginably complex. When you have sparks, they take on a calculating aspect. Increase the results of your rolls using Head or Hurry by $+1$, and when you perform Spark Stat Checks using either of these Stats it costs only $2$ Blessings instead.
 
 !!! compat "Session Shop: Wisened"
     If your starting Lifestyle was Wisened, at the end of a session you may spend $4$ unspent Blessings to change your Lifestyle to Warry or Compelling.
 
-    **👁️ Warry:** You are one with the natural and supernatural worlds around you, and you have a keen sense of danger and safety. When you have sparks, they take on an astral aspect. Increase the results of your rolls using Hand or Hurry by $+1$.
+    **👁️ Warry:** You are one with the natural and supernatural worlds around you, and you have a keen sense of danger and safety. When you have sparks, they take on an astral aspect. Increase the results of your rolls using Hand or Hurry by $+1$, and when you perform Spark Stat Checks using either of these Stats it costs only $2$ Blessings instead.
 
-    **👄 Compelling:** You seem able to spin any loss into a win--or vice versa--, and you are a sly, tactical force to be reckoned with. When you have sparks, they take on an illusory aspect. Increase the results of your rolls using Heart or Hurt by $+1$.
+    **👄 Compelling:** You seem able to spin any loss into a win--or vice versa--, and you are a sly, tactical force to be reckoned with. When you have sparks, they take on an illusory aspect. Increase the results of your rolls using Heart or Hurt by $+1$, and when you perform Spark Stat Checks using either of these Stats it costs only $2$ Blessings instead.
 
 Moreover, each character has a History Stat, which follows the same rules as the Basic Stats and is used to perform actions more related to the character's back story more than to the other Basic Stats.
 
@@ -134,8 +134,6 @@ Characters in this game have a set of Abilities that grant them certain actions 
 
 **Synchronized Spark:** You may perform a Spark Stat Check using one of your Stats and one of the Stats of another willing character in the scene, so long as the chosen Stats are balanced and both characters have this ability.
 
-**Inner Spark:** When you gain this Ability, choose a pair of Stats that each use a $d8$ or larger. Once per scene, you may perform a Spark Stat Check using the chosen Stats without spending Blessings.
-
 **Ascendant Spark:** You may perform a non-violent Spark Stat Check using three Stats instead of two, so long as those Stats each use a $d8$ or larger. 
 
 **Advanced Training:** Increase the result of your rolls using a $d8$ or larger by $+1$.
@@ -184,7 +182,7 @@ To perform a Stat Check, roll the die for the action’s associated Stat. The DM
 
 When two of a character's Stats use the same die, those Stats are "balanced."
 
-You may spend $2$ Blessings to perform a Spark Stat Check, which combines the dice of two balanced Stats into a single group, such as $2d6$ form from two balanced Stats using a $d6$ each. These Spark Stat Checks represent a character's momentary "spark," that hint of magic or ability to achieve amazing feats, that penchant for pulling out surprising wins, and so on. These "sparks" are what allow characters to perform far beyond what is normally possible by the laws of nature, limited only by their imagination -- and ability to control powerful and strange forces!
+You may spend $3$ Blessings to perform a Spark Stat Check, which combines the dice of two balanced Stats into a single group, such as $2d6$ form from two balanced Stats using a $d6$ each. These Spark Stat Checks represent a character's momentary "spark," that hint of magic or ability to achieve amazing feats, that penchant for pulling out surprising wins, and so on. These "sparks" are what allow characters to perform far beyond what is normally possible by the laws of nature, limited only by their imagination -- and ability to control powerful and strange forces!
 
 Any bonuses or effects that would apply to the balanced Stats used in the Spark Stat Check also apply to the Spark Stat Check itself.
 
