@@ -289,8 +289,8 @@ To perform a Chase:
 
 1. Place a token representing each character involved in the Chase on a number line, starting at position $0$. Then, the DM describes the winning and losing conditions of the Chase, such as being the first to reach at least space $20$ at the end of a round or to have moved the furthest at the end of $3$ rounds.
 2. At the top of each round, the characters perform a Contest representing their movement, using Hand, Hurry, Hurt (if pursuing others violently), or another Stat as appropriate.
-3. Only the character who scored the highest moves forward on the number line. The amount that they rolled higher than the lowest roll of the Contest determines the number of spaces moved, either $2$, $3$, or $5$ spaces.
-4. Starting with the characters who rolled the lowest at the start of the round, characters may perform a Contest against their opponents involved in the Chase. For each Contest, everyone except the losing side of the Contest moves forward, and the amount the winning side won by determines the number of spaces moved, either $1$, $2$, or $3$ spaces. A character can only be involved in a single Contest this way, regardless if they were involved as an Attacker or Defender.
+3. The character who rolled the highest moves forward on the number line. The amount they rolled higher than the lowest roll of the Contest determines the number of spaces moved, either $2$, $3$, or $5$ spaces.
+4. Starting with the characters who rolled the lowest at the start of the round, characters may perform a Contest against their opponents involved in the Chase. For each Contest, everyone except the losing side of the Contest moves forward, and the amount the winning side won by determines the number of spaces moved, either $1$, $2$, or $3$ spaces. A character can only be involved in a single Contest this way, regardless if they are involved as an Attacker or Defender.
 5. At the end of the round, the DM may describe an environmental hazard that could affect all or some of the leading characters involved the Chase, asking them to perform a Check to avoid the effects.
 6. Repeat rounds until the Chase has been won.
 
