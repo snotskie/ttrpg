@@ -238,7 +238,7 @@ While you are Uncool, all rolls you make are modified by $-1$. Once during each 
 
 ### Contests
 
-A non-violent Contest is when a character performs an action against another character’s will using any Basic Stat besides Hurt, or any Spark Stat for non-violent means. To perform a non-violent Contest, first the Attacker rolls as though performing the appropriate Stat Check, then the Defender rolls as though performing a Stat Check using the same Stat as the Attacker. The action’s effect is only successful if the Attacker rolls higher than the Defender. The severity of the effect is determined by the difference between their scores.
+A non-violent Contest is when a character performs an action against another character’s will using any Basic Stat besides Hurt. To perform a non-violent Contest, first the Attacker rolls as though performing the appropriate Stat Check, then the Defender rolls as though performing a Stat Check using the same Stat as the Attacker. The action’s effect is only successful if the Attacker rolls higher than the Defender. The severity of the effect is determined by the difference between their scores. If the Attacker uses a Spark Stat Check, then the Defender may roll a Spark Stat Check using the same Stats, or a Basic Stat Check using either of the Stats used in the Attacker's Spark Stat Check.
 
 !!! details "DM Note: Severity of Non-violent Effects"
     A difference less than $5$ on a nonviolent Contest represents a minor effect or the Attacker getting what they wanted, within reason, and with complications. Any advantage the Attacker gains is temporary.
@@ -247,9 +247,9 @@ A non-violent Contest is when a character performs an action against another cha
     
     And a difference of $10$ or more represents a major effect than can change the narrative arc of the session or even campaign.
 
-A violent Contest is when an Attacker performs an action against another character’s will using their Hurt stat, or any Spark Stat for violent means. All Contests involving Hurt are potentially deadly. Unexpected things can happen and things can get out of hand quickly.
+A violent Contest is when an Attacker performs an action against another character’s will using their Hurt stat. All Contests involving Hurt are potentially deadly. Unexpected things can happen and things can get out of hand quickly.
 
-To perform a violent Contest, the Attacker first rolls as though performing a Hurt Stat Check, then the Defender rolls as though performing a Hurry Stat Check, representing their immediate instinctive reaction in the scene. If the Attacker rolls higher, then the Defender could be bruised, dazed, concussed, in need of immediate medical attention, or even dead. The amount that the Attacker rolled higher than the Defender determines the extent of the injury—regardless if that was what the Attacker intended. If the Defender rolls the same or higher number than the Attacker, then no injury occurs.
+To perform a violent Contest, the Attacker first rolls as though performing a Hurt Stat Check or Spark Stat Check that involves Hurt, then the Defender rolls as though performing a Hurry Stat Check or Spark Stat Check that involves Hurry, representing their immediate instinctive reaction in the scene. If the Attacker rolls higher, then the Defender could be bruised, dazed, concussed, in need of immediate medical attention, or even dead. The amount that the Attacker rolled higher than the Defender determines the extent of the injury—regardless if that was what the Attacker intended. If the Defender rolls the same or higher number than the Attacker, then no injury occurs.
 
 !!! details "DM Note: Severity of Violent Effects"
     As with nonviolent Contests, a difference less than $5$ represents a minor wound that grants the Attacker only a temporary advantage.
