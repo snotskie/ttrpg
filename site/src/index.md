@@ -273,6 +273,15 @@ Chases are extended Contests during which the characters involved race to be the
 
 Chases are carried out as a number of rounds in which the characters perform Contests against one another to progress themselves and slow their opponents. Additionally, characters involved perform Stat Checks to overcome hazards in the environment.
 
+To perform a Chase:
+
+1. Place a token representing each character involved in the Chase on a number line, starting at position $0$. Then, the DM describes the winning and losing conditions of the Chase, such as being the first to reach at least space $50$ at the end of a round or to have moved the furthest at the end of $3$ rounds.
+2. At the top of each round, the characters perform a Contest representing their movement, using Hand, Hurry, or (if pursuing others) Hurt.
+3. Only the character who scored the highest moves forward on the number line. The amount that they rolled higher than the median roll of the Contest determines the number of spaces moved, either $2$, $3$, or $5$ spaces.
+4. Each other character may perform a Contest against others involved in the Chase, but not against the character who rolled highest at the start of the round. For each Contest, everyone except the losing side of the Contest moves forward, and the amount the winning side won by determines the number of spaces moved, either $1$, $2$, or $3$ spaces.
+5. At the end of the round, the DM may describe an environmental hazard that could affect all or some of the leading characters involved the Chase, asking them to perform a Check to avoid the effects.
+6. Repeat rounds until the Chase has been won.
+
 ### Wounds
 
 You do not have "hit points" in this game. Instead, wounds shape the narrative arcs of the game. Additionally, Attackers may gain a bonus to their rolls when they target a wounded character; the worse the wound, the bigger the bonus.
