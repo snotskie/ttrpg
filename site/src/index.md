@@ -119,7 +119,7 @@ Characters in this game have a set of Abilities that grant them certain actions 
 
 **Medically Insured:** Once per scene, when a character fails a Check or loses a Contest to tend to your wounds, characters may spend a combined total of $3$ Blessings to turn the failure into a success or the loss into a win. Then, increase the number of Blessings needed to activate this ability by $2$.
 
-**Focused Determination:** Each time you bump your dice per, increase the result of the roll by an additional $+1$.
+**Focused Determination:** Each time you bump your dice, increase the result of the roll by an additional $+1$.
 
 **Armored Skin:** Whenever you lose a violent Contest as the Defender, protect yourself for $+3$.
 
