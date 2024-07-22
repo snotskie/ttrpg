@@ -17,7 +17,7 @@ Each character in this game has six Basic Stats, represented by the "six H’s" 
 
 **👿 Hurt:** Nerve and willingness to inflict harm on others
 
-**⚡ Hurry:** Escaping danger, reacting by instinct, surges of adrenaline
+**⚠️ Hurry:** Escaping danger, reacting by instinct, surges of adrenaline
 
 When you begin the game, all of your Basic Stats are equal, each using a $d4$ for their Basic Stat Checks.
 
@@ -43,8 +43,26 @@ Each character in this game has one of three Lifestyles, described below. A char
 
 **🧘‍♀️ Wisened:** Life has not been easy on your character, but as a result you’ve come out wiser and tougher, perhaps because you’ve gotten older, been shaped by unfortunate events, or dedicated yourself to your work. Increase the results of your rolls using Head or Home by $+1$.
 
-!!! details "DM Note: Changing Lifestyles"
-    Mechanically, there is no way for a character to change their Lifestyle. However, you and your player may feel it is narratively appropriate to reflect their character's growth in response to powerful story events. How you rule the change of the Lifestyle is up to you, as the best approach can vary from story to story.
+!!! compat "Session Shop: Carefree"
+   If your starting Lifestyle was Carefree, at the end of a session you may spend $4$ unspent Blessings to change your Lifestyle to Prodigious or Crafty.
+
+   **🔮 Prodigious:** Your studies have come effortlessly to you, and secrets almost seem to just reveal themselves to you. When you have sparks, they take on a sorcerous aspect. Increase the results of your rolls using Head or Hurt by $+1$.
+
+   **🧶 Crafty:** You can envision amazing designs and, it seems, to bring them to life. When you have sparks, they take on a autonomous aspect. Increase the results of your rolls using Hand or Home by $+1$.
+
+!!! compat "Session Shop: Eager"
+   If your starting Lifestyle was Eager, at the end of a session you may spend $4$ unspent Blessings to change your Lifestyle to Chosen or Wired.
+
+   **✨ Chosen:** You draw inspiration from the community around you, setting out on your journeys blessed, favored, or cursed. When you have sparks, they take on a divine aspect. Increase the results of your rolls using Heart or Home by $+1$.
+
+   **⚡ Wired:** Your mind is quick and analytical, and you can see solutions to problems that are unimaginably complex. When you have sparks, they take on a psionic aspect. Increase the results of your rolls using Head or Hurry by $+1$.
+
+!!! compat "Session Shop: Wisened"
+   If your starting Lifestyle was Wisened, at the end of a session you may spend $4$ unspent Blessings to change your Lifestyle to Warry or Compelling.
+
+   **👁️ Warry:** Your studies have come effortlessly to you, and secrets almost seem to just reveal themselves to you. When you have sparks, they take on a sorcerous aspect. Increase the results of your rolls using Head or Hurt by $+1$.
+
+   **👄 Compelling:** You can envision amazing designs and, it seems, to bring them to life. When you have sparks, they take on a autonomous aspect. Increase the results of your rolls using Hand or Home by $+1$.
 
 Moreover, each character has a History Stat, which follows the same rules as the Basic Stats and is used to perform actions more related to the character's back story more than to the other Basic Stats.
 
