@@ -64,13 +64,13 @@ Each character in this game has one of three Lifestyles, described below. A char
 
     **👄 Compelling:** You seem able to spin any loss into a win--or vice versa--, and you are a sly, tactical force to be reckoned with. When you have sparks, they take on an illusory aspect. Increase the results of your rolls using Heart or Hurt by $+1$, and when you perform Spark Stat Checks using either of these Stats it costs only $2$ Blessings instead.
 
-Moreover, each character has a History Stat, which follows the same rules as the Basic Stats and is used to perform actions more related to the character's back story more than to the other Basic Stats.
+Moreover, each character has a History Stat, which follows the same rules as the Basic Stats and is used to perform actions more related to the character's backstory more than to the other Basic Stats.
 
 !!! compat "Session Shop: History"
     Your History Stat can be upgraded at the end of a session in the same manner as your Basic Stats.
 
 !!! tip "Character Creation: Step Three!"
-    Begin to describe your character's back story and list three specific skills that they have proven their ability in, such as through schooling, study, training, or so on, as well as people and groups that they interacted with or had connections to. And if your game's setting has non-human characters and your character is one of them, also describe one or two simple actions, within reason, that characters of your non-human species can perform unaided that human characters can't.
+    Begin to describe your character's backstory and list three specific skills that they have proven their ability in, such as through schooling, study, training, or so on, as well as people and groups that they interacted with or had connections to. And if your game's setting has non-human characters and your character is one of them, also describe one or two simple actions, within reason, that characters of your non-human species can perform unaided that human characters can't.
 
     These background details will help set the scope of what your History Stat Checks cover.
 
@@ -79,7 +79,7 @@ Moreover, each character has a History Stat, which follows the same rules as the
 Characters in this game have Heros that they look up to. The first time per session, when you succeed a Check or win a Contest by $5$ or more while acting as your Hero would, gain $3$ Blessings. Subsequent times gain $1$ Blessing instead.
 
 !!! tip "Character Creation: Step Four!"
-    Describe who your character looks up to, whose work they strive to emulate, who taught them everything they know, or so on. What would it look like to make their Hero happy? upset? What is their connection to their Hero, and where is their Hero up to in the world now?
+    Describe who your character looks up to, whose work they strive to emulate, who taught them everything they know, or so on. What would it look like to make their Hero happy? upset? What is their connection to their Hero, and what is their Hero up to in the world now?
 
 ## Abilities
 
