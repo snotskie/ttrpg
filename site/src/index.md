@@ -147,7 +147,7 @@ Characters in this game have a set of Abilities that grant them certain actions 
 !!! details "DM Note: Replacing Abilities"
     Mechanically, there is no way for a character to lose or replace a Ability. However, you and your player may feel it is narratively appropriate to reflect their character's growth in response to powerful story events. How you rule the change of Abilities is up to you, as the best approach can vary from story to story.
     
-    However, a suggestion is this: Whenever a player spends unspent Blessings to gain a new Basic Ability, allow them the opportunity to also replace one of their existing Abilities.
+    However, a suggestion is this: Whenever a player spends unspent Blessings to gain a new Ability, allow them the opportunity to also replace one of their existing Abilities.
 
 ## Items
 
