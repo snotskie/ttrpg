@@ -6,7 +6,7 @@
 
 ### Species
 
-!!! details "1. Human"
+!!! details "1. Human -- Seafaring Adventurers of the Southern Isle"
     #### Basic Stats
 
     After selecting your Lifestyle, choose two of your Basic Stats and increase their dice by one size each, to a maximum of $d10$.
@@ -24,7 +24,7 @@
     - The human capital is a city of wood and stone on an island, connected to the mainland by a large bridge, which the humans settled when they sailed to and discovered this land long ago
     - Human warriors and scribes tell tales of the humans' ongoing territorial battles against the tusks and the ptero
 
-!!! details "2. Tusk"
+!!! details "2. Tusk -- Ten Woolly Factions"
     #### Basic Stats
 
     After selecting your Lifestyle, choose one of your Basic Stats and increase its die by one size, to a maximum of $d10$.
@@ -47,7 +47,7 @@
     - Officially, the tusks are ruled by a council of leaders. However, the members of the council disagree so much that, in practice, the tusks are organized into a loose set of scattered tribes
     - The tusks have a revolving set of capitals, as the tribe politically designated to seat the council rotates after every Three-Year Feast
 
-!!! details "3. Lucan"
+!!! details "3. Lucan -- Beetle Traders of the Central Mountain Pass"
     #### Basic Stats
 
     After selecting your Lifestyle, choose one of your Basic Stats and increase its die by one size, to a maximum of $d10$.
@@ -69,7 +69,7 @@
     - Long ago, the Gold Dragon helped the lucan defeat the ptero and escape their harsh dominion over the land
     - The Gold Dragon is rumored to still live beneath the lucan mountain, and some have organized a religion worshipping it
 
-!!! details "4. Ptero"
+!!! details "4. Ptero -- Winged Rulers of the Northern Desert"
     #### Basic Stats
 
     After selecting your Lifestyle, choose one of your Basic Stats and increase its die by one size, to a maximum of $d10$.
@@ -87,7 +87,7 @@
     - Long ago, ptero leaders made a deal with the Red Dragon
     - The ptero once enjoyed rule over the whole land
 
-!!! details "5. Fae"
+!!! details "5. Fae -- Caretakers of the World Forest"
     #### Basic Stats
 
     After selecting your Lifestyle, choose one of your Basic Stats and increase its die by one size, to a maximum of $d10$.
@@ -109,7 +109,7 @@
     - The fae queen is trusted for her knowledge on all matters possibly imaginable
     - Some elder fae are anxious about the humans' growing thirst for magic
 
-!!! details "6. Varan"
+!!! details "6. Varan -- Lizards Who Learned to Dream"
     #### Basic Stats
 
     After selecting your Lifestyle, choose one of your Basic Stats and increase its die by one size, to a maximum of $d10$.
@@ -120,7 +120,7 @@
 
     #### Abilities
 
-    - Licensed Driver
+    - Blessed by Luck
 
     #### What You Know
 
@@ -142,19 +142,15 @@
 
     - **Head:** $d4$
     - **Hand:** $d4$
-    - **Heart:** $d4$
+    - **Heart:** $d6+1$
     - **Home:** $d4$
     - **Hurt:** $d4$
-    - **Hurry:** $d4$
+    - **Hurry:** $d6+1$
     - **History:** $d4$
 
     #### Lifestyle
 
     - Carefree
-
-    #### History
-
-    #### Items
 
     #### Abilities
 
@@ -164,20 +160,16 @@
     #### Basic Stats
 
     - **Head:** $d4$
-    - **Hand:** $d4$
+    - **Hand:** $d6+1$
     - **Heart:** $d4$
     - **Home:** $d4$
-    - **Hurt:** $d4$
+    - **Hurt:** $d6+1$
     - **Hurry:** $d4$
     - **History:** $d4$
 
     #### Lifestyle
 
     - Eager
-
-    #### History
-
-    #### Items
 
     #### Abilities
 
@@ -186,10 +178,10 @@
 !!! details "3. Wisened"
     #### Basic Stats
 
-    - **Head:** $d4$
+    - **Head:** $d6+1$
     - **Hand:** $d4$
     - **Heart:** $d4$
-    - **Home:** $d4$
+    - **Home:** $d6+1$
     - **Hurt:** $d4$
     - **Hurry:** $d4$
     - **History:** $d4$
@@ -198,10 +190,6 @@
 
     - Wisened
 
-    #### History
-
-    #### Items
-
     #### Abilities
 
     #### What You Know
@@ -209,21 +197,17 @@
 !!! details "4. Prodigious"
     #### Basic Stats
 
-    - **Head:** $d4$
+    - **Head:** $d6+1$
     - **Hand:** $d4$
     - **Heart:** $d4$
     - **Home:** $d4$
-    - **Hurt:** $d4$
+    - **Hurt:** $d6+1$
     - **Hurry:** $d4$
     - **History:** $d4$
 
     #### Lifestyle
 
     - Prodigious
-
-    #### History
-
-    #### Items
 
     #### Abilities
 
@@ -233,9 +217,9 @@
     #### Basic Stats
 
     - **Head:** $d4$
-    - **Hand:** $d4$
+    - **Hand:** $d6+1$
     - **Heart:** $d4$
-    - **Home:** $d4$
+    - **Home:** $d6+1$
     - **Hurt:** $d4$
     - **Hurry:** $d4$
     - **History:** $d4$
@@ -243,10 +227,6 @@
     #### Lifestyle
 
     - Crafty
-
-    #### History
-
-    #### Items
 
     #### Abilities
 
@@ -257,8 +237,8 @@
 
     - **Head:** $d4$
     - **Hand:** $d4$
-    - **Heart:** $d4$
-    - **Home:** $d4$
+    - **Heart:** $d6+1$
+    - **Home:** $d6+1$
     - **Hurt:** $d4$
     - **Hurry:** $d4$
     - **History:** $d4$
@@ -267,10 +247,6 @@
 
     - Chosen
 
-    #### History
-
-    #### Items
-
     #### Abilities
 
     #### What You Know
@@ -278,21 +254,17 @@
 !!! details "7. Wired"
     #### Basic Stats
 
-    - **Head:** $d4$
+    - **Head:** $d6+1$
     - **Hand:** $d4$
     - **Heart:** $d4$
     - **Home:** $d4$
     - **Hurt:** $d4$
-    - **Hurry:** $d4$
+    - **Hurry:** $d6+1$
     - **History:** $d4$
 
     #### Lifestyle
 
     - Wired
-
-    #### History
-
-    #### Items
 
     #### Abilities
 
@@ -302,20 +274,16 @@
     #### Basic Stats
 
     - **Head:** $d4$
-    - **Hand:** $d4$
+    - **Hand:** $d6+1$
     - **Heart:** $d4$
     - **Home:** $d4$
     - **Hurt:** $d4$
-    - **Hurry:** $d4$
+    - **Hurry:** $d6+1$
     - **History:** $d4$
 
     #### Lifestyle
 
     - Warry
-
-    #### History
-
-    #### Items
 
     #### Abilities
 
@@ -326,19 +294,15 @@
 
     - **Head:** $d4$
     - **Hand:** $d4$
-    - **Heart:** $d4$
+    - **Heart:** $d6+1$
     - **Home:** $d4$
-    - **Hurt:** $d4$
+    - **Hurt:** $d6+1$
     - **Hurry:** $d4$
     - **History:** $d4$
 
     #### Lifestyle
 
     - Compelling
-
-    #### History
-
-    #### Items
 
     #### Abilities
 
@@ -353,15 +317,11 @@
     - **Home:** $d4$
     - **Hurt:** $d4$
     - **Hurry:** $d4$
-    - **History:** $d4$
+    - **History:** $d6-2$
 
     #### Lifestyle
 
     - Lost
-
-    #### History
-
-    #### Items
 
     #### Abilities
 
@@ -370,5 +330,7 @@
 ### asdfasdf
 
 hero
+
+items
 
 ## Guide for DMs
