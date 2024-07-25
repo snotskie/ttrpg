@@ -6,7 +6,7 @@
 
 ### Species
 
-!!! details "1. Human -- Seafaring Adventurers of the Southern Isle"
+!!! details "1. Human -- Seafaring Fishermen of the Southern Isle"
     #### Basic Stats
 
     After selecting your Lifestyle, choose two of your Basic Stats and increase their dice by one size each, to a maximum of $d10$.
@@ -20,9 +20,9 @@
     As a human, you would have grown up hearing:
 
     - Humans, lucan, and fae are close allies
-    - Some human scholars work closely with fae
+    - Some human inventors and arcanists work closely with fae
     - The human capital is a city of wood and stone on an island, connected to the mainland by a large bridge, which the humans settled when they sailed to and discovered this land long ago
-    - Human warriors and scribes tell tales of the humans' ongoing territorial battles against the tusks and the ptero
+    - Human poets and authors tell tales of the humans' ongoing territorial battles against the tusks and the ptero
 
 !!! details "2. Tusk -- Ten Woolly Factions"
     #### Basic Stats
@@ -44,10 +44,10 @@
     - The ptero and tusks believe themselves to be the first species to gain sentience in this land
     - The tusks hold contempt toward the ptero and lucan for something that happened long ago
     - The tusks are upset that their dragons were stolen
-    - Officially, the tusks are ruled by a council of leaders. However, the members of the council disagree so much that, in practice, the tusks are organized into a loose set of scattered tribes
-    - The tusks have a revolving set of capitals, as the tribe politically designated to seat the council rotates after every Three-Year Feast
+    - Officially, the tusks are ruled by a council of leaders. However, the members of the council disagree so much that, in practice, the tusks are organized into a loose set of small, scattered towns
+    - The tusks have a revolving set of capitals, as the town politically designated to seat the council rotates after every Three-Year Feast
 
-!!! details "3. Lucan -- Beetle Traders of the Central Mountain Pass"
+!!! details "3. Lucan -- Beetle Craftsmen of the Central Mountain Pass"
     #### Basic Stats
 
     After selecting your Lifestyle, choose one of your Basic Stats and increase its die by one size, to a maximum of $d10$.
@@ -65,11 +65,12 @@
     As a lucan, you would have grown up hearing:
 
     - The lucan trade often with the humans
-    - The lucan capital is a city of stone and glass on top of and sprawling through and under a mountain, via a massive cave system
+    - The lucan take pity on human artists' imperfect craftsmanship compare to the rich diversity of lucan masterworks
+    - The lucan capital is a city of stone, metal, and glass on top of and sprawling through and under a mountain, via a massive natural cave system
     - Long ago, the Gold Dragon helped the lucan defeat the ptero and escape their harsh dominion over the land
-    - The Gold Dragon is rumored to still live beneath the lucan mountain, and some have organized a religion worshipping it
+    - The Gold Dragon is rumored to still live beneath the lucan mountain, and some have organized a not-so-secret order that worships it
 
-!!! details "4. Ptero -- Winged Rulers of the Northern Desert"
+!!! details "4. Ptero -- Feathered Rulers of the Northern Desert"
     #### Basic Stats
 
     After selecting your Lifestyle, choose one of your Basic Stats and increase its die by one size, to a maximum of $d10$.
@@ -82,12 +83,13 @@
 
     As a ptero, you would have grown up hearing:
 
-    - The ptero and tusks believe themselves to be the first species to gain sentience in this land
+    - The ptero and tusks believe themselves to be the oldest civilizations in this land
     - The ptero capital is in the middle of a desert, protected by the magic of the Red Dragon
     - Long ago, ptero leaders made a deal with the Red Dragon
     - The ptero once enjoyed rule over the whole land
+    - Ptero arcanists and nobles believe their claims to magic and power have their origins in the stars, as they can fly closer to the stars than anyone
 
-!!! details "5. Fae -- Caretakers of the World Forest"
+!!! details "5. Fae -- Children of the World Forest"
     #### Basic Stats
 
     After selecting your Lifestyle, choose one of your Basic Stats and increase its die by one size, to a maximum of $d10$.
@@ -105,9 +107,10 @@
     As a fae, you would have grown up hearing:
 
     - The fae live in a vast forest that has the power to rearrange itself to confuse trespassers
-    - The fae sometimes trade fairy magic, spell ingredients, and knowledge to the humans
+    - Some fae live in the trees, their cities like small houses stacked tall into the forest canopy, while others live in the woodland springs, their cities unimaginable in the reflection of the world
+    - The fae sometimes trade fairy magic, spell ingredients, and knowledge to the humans, who bring stories from lands far away
     - The fae queen is trusted for her knowledge on all matters possibly imaginable
-    - Some elder fae are anxious about the humans' growing thirst for magic
+    - Some elder fae sit on their porches and complain about the humans' growing thirst for magic and crude modern inventions
 
 !!! details "6. Varan -- Lizards Who Learned to Dream"
     #### Basic Stats
@@ -126,18 +129,13 @@
 
     As a varan, you would have grown up hearing:
 
-    - The varan are the latest species to gain sentience, seemingly all at once over night across the land
+    - The varan once were normal lizard creatures native all across the land before they seemingly all gained sentiencs all at once over night years ago
     - Details about the home you grew up in, as well as local theories and rumors about why the varan suddenly became aware
-    - Whispers of locations where varan gather to trade information
-    - The humans believe their warriors to be protectors of the whole realm
-    - The tusks have been ambushing all manner of trade routes
-    - The lucan think themselves safe under the protection of their dragon
-    - The ptero are resentful toward the humans over something that happened long ago, but they are pragmatic and continue to interact with them
-    - The fae rarely interfere in the disagreements of others
+    - Knowledge of secret locations where varan gather to trade information, play varan sports, and get away from their day jobs
 
 ### Lifestyle
 
-!!! details "1. Carefree"
+!!! details "1. Carefree -- Day-laborer"
     #### Basic Stats
 
     - **Head:** $d4$
@@ -146,7 +144,7 @@
     - **Home:** $d4$
     - **Hurt:** $d4$
     - **Hurry:** $d6+1$
-    - **History:** $d4$
+    - **History:** $d6$
 
     #### Lifestyle
 
@@ -156,7 +154,7 @@
 
     #### What You Know
 
-!!! details "2. Eager"
+!!! details "2. Eager -- Apprentice"
     #### Basic Stats
 
     - **Head:** $d4$
@@ -165,7 +163,7 @@
     - **Home:** $d4$
     - **Hurt:** $d6+1$
     - **Hurry:** $d4$
-    - **History:** $d4$
+    - **History:** $d6$
 
     #### Lifestyle
 
@@ -175,7 +173,7 @@
 
     #### What You Know
 
-!!! details "3. Wisened"
+!!! details "3. Wisened -- Confidant"
     #### Basic Stats
 
     - **Head:** $d6+1$
@@ -184,7 +182,7 @@
     - **Home:** $d6+1$
     - **Hurt:** $d4$
     - **Hurry:** $d4$
-    - **History:** $d4$
+    - **History:** $d6$
 
     #### Lifestyle
 
@@ -194,7 +192,7 @@
 
     #### What You Know
 
-!!! details "4. Prodigious"
+!!! details "4. Prodigious -- Arcanist"
     #### Basic Stats
 
     - **Head:** $d6+1$
@@ -213,7 +211,7 @@
 
     #### What You Know
 
-!!! details "5. Crafty"
+!!! details "5. Crafty -- Inventor"
     #### Basic Stats
 
     - **Head:** $d4$
@@ -232,7 +230,7 @@
 
     #### What You Know
 
-!!! details "6. Chosen"
+!!! details "6. Chosen -- Salesman"
     #### Basic Stats
 
     - **Head:** $d4$
@@ -251,7 +249,7 @@
 
     #### What You Know
 
-!!! details "7. Wired"
+!!! details "7. Wired -- Hacker"
     #### Basic Stats
 
     - **Head:** $d6+1$
@@ -270,7 +268,7 @@
 
     #### What You Know
 
-!!! details "8. Warry"
+!!! details "8. Warry -- Order-Leader"
     #### Basic Stats
 
     - **Head:** $d4$
@@ -289,7 +287,7 @@
 
     #### What You Know
 
-!!! details "9. Compelling"
+!!! details "9. Compelling -- Noble"
     #### Basic Stats
 
     - **Head:** $d4$
@@ -308,7 +306,7 @@
 
     #### What You Know
 
-!!! details "10. Lost"
+!!! details "10. Lost -- College Student"
     #### Basic Stats
 
     - **Head:** $d4$
