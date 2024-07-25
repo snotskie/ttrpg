@@ -58,23 +58,23 @@ Each character in this game has one of three Lifestyles, described below. A char
 !!! compat "Session Shop: Carefree"
     If your starting Lifestyle was Carefree, at the end of a session you may spend $4$ unspent Blessings to change your Lifestyle to Prodigious or Crafty.
     
-    **🔮 Prodigious:** Your studies have come effortlessly to you, and secrets almost seem to just reveal themselves to you. When you have sparks, they take on a sorcerous or uninhibited aspect. Increase the results of your rolls using Head or Hurt by $+1$, and when you perform Spark Stat Checks using either of these Stats it costs only $2$ Blessings instead.
+    **🔮 Prodigious:** Your studies have come effortlessly to you, and secrets almost seem to just reveal themselves to you. When you have sparks, they take on a sorcerous or uninhibited aspect. Increase the results of your rolls using Head or Hurt by $+1$, and when you perform Spark Stat Checks using either of these Stats it costs only $2$ Blessings instead. You also gain the "Blessed by Voices" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
 
-    **🧶 Crafty:** You can envision amazing designs and, it seems, to bring them to life. When you have sparks, they take on an autonomous or lucky aspect. Increase the results of your rolls using Hand or Home by $+1$, and when you perform Spark Stat Checks using either of these Stats it costs only $2$ Blessings instead.
+    **🧶 Crafty:** You can envision amazing designs and, it seems, to bring them to life. When you have sparks, they take on an autonomous or lucky aspect. Increase the results of your rolls using Hand or Home by $+1$, and when you perform Spark Stat Checks using either of these Stats it costs only $2$ Blessings instead. You also gain the "Efficiently Packed" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
 
 !!! compat "Session Shop: Eager"
     If your starting Lifestyle was Eager, at the end of a session you may spend $4$ unspent Blessings to change your Lifestyle to Chosen or Wired.
 
-    **✨ Chosen:** You draw inspiration from the community around you, setting out on your journeys blessed, favored, or cursed. When you have sparks, they take on a divine or noble aspect. Increase the results of your rolls using Heart or Home by $+1$, and when you perform Spark Stat Checks using either of these Stats it costs only $2$ Blessings instead.
+    **✨ Chosen:** You draw inspiration from the community around you, setting out on your journeys blessed, favored, or cursed. When you have sparks, they take on a divine or noble aspect. Increase the results of your rolls using Heart or Home by $+1$, and when you perform Spark Stat Checks using either of these Stats it costs only $2$ Blessings instead. You also gain the "Blessed by Charity" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
 
-    **⚡ Wired:** Your mind is quick and analytical, and you can see solutions to problems that are unimaginably complex. When you have sparks, they take on a calculating or duplicative aspect. Increase the results of your rolls using Head or Hurry by $+1$, and when you perform Spark Stat Checks using either of these Stats it costs only $2$ Blessings instead.
+    **⚡ Wired:** Your mind is quick and analytical, and you can see solutions to problems that are unimaginably complex. When you have sparks, they take on a calculating or duplicative aspect. Increase the results of your rolls using Head or Hurry by $+1$, and when you perform Spark Stat Checks using either of these Stats it costs only $2$ Blessings instead. You also gain the "TODO" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
 
 !!! compat "Session Shop: Wisened"
     If your starting Lifestyle was Wisened, at the end of a session you may spend $4$ unspent Blessings to change your Lifestyle to Warry or Compelling.
 
-    **👁️ Warry:** You are one with the natural and supernatural worlds around you, and you have a keen sense of danger and safety. When you have sparks, they take on an astral or prophetic aspect. Increase the results of your rolls using Hand or Hurry by $+1$, and when you perform Spark Stat Checks using either of these Stats it costs only $2$ Blessings instead.
+    **👁️ Warry:** You are one with the natural and supernatural worlds around you, and you have a keen sense of danger and safety. When you have sparks, they take on an astral or prophetic aspect. Increase the results of your rolls using Hand or Hurry by $+1$, and when you perform Spark Stat Checks using either of these Stats it costs only $2$ Blessings instead. You also gain the "TODO" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
 
-    **👄 Compelling:** You seem able to spin any loss into a win--or vice versa--, and you are a sly, tactical force to be reckoned with. When you have sparks, they take on an illusory or vicious aspect. Increase the results of your rolls using Heart or Hurt by $+1$, and when you perform Spark Stat Checks using either of these Stats it costs only $2$ Blessings instead.
+    **👄 Compelling:** You seem able to spin any loss into a win--or vice versa--, and you are a sly, tactical force to be reckoned with. When you have sparks, they take on an illusory or vicious aspect. Increase the results of your rolls using Heart or Hurt by $+1$, and when you perform Spark Stat Checks using either of these Stats it costs only $2$ Blessings instead. You also gain the "TODO" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
 
 Moreover, each character has a History Basic Stat, which is used to perform actions more related to the character's backstory more than to the other Basic Stats.
 
@@ -116,9 +116,9 @@ Characters in this game have a set of Abilities that grant them certain actions 
 
 **Blessed by Self-Sacrifice:** During a Chase involving three or more characters, you may spend $1$ Blessing to reduce the result of your own roll to $0$.
 
-**Blessed by Voices:** Once per scene, you may spend $2$ Blessings to learn more about a character, place, or fact than would normally be possible.
+**Blessed by Voices:** Once per scene, you may spend $2$ Blessings to learn more about a character, place, or fact than would normally be possible. This knowledge may come with consequences.
 
-**Blessed by Family:** You may spend $2$ Blessings to attack recklessly, using Home for a violent Contest instead of Hurt as usual. This attack is potentially lethal to your target if you win, and you may sustain injuries if you lose.
+**Blessed by Family:** You may spend $2$ Blessings to attack recklessly, using History for a violent Contest instead of Hurt as usual. This attack is potentially lethal to your target if you win, and you may sustain injuries if you lose.
 
 **Blessed by Self-Acceptance:** While you are Uncool, you may spend $1$ Blessing to roll a Check using a different Basic Stat than normal. Then if the Check succeeds, you are no longer Uncool.
 
@@ -133,6 +133,8 @@ Characters in this game have a set of Abilities that grant them certain actions 
 **Medically Insured:** Once per scene, when a character fails a Check or loses a Contest to tend to your wounds, characters may spend a combined total of $3$ Blessings to turn the failure into a success or the loss into a win. Then, increase the number of Blessings needed to activate this ability by $2$.
 
 **Focused Determination:** Each time you bump your dice, increase the result of the roll by an additional $+1$.
+
+**Efficiently Packed:** When you perform a Home Stat Check to see if you came prepared with an item, roll as though your Home Stat used one die size larger, to a maximum of a $d10$.
 
 **Armored Skin:** Whenever you lose a violent Contest as the Defender, protect yourself for $+3$.
 
