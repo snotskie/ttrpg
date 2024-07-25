@@ -58,23 +58,23 @@ Each character in this game has one of three Lifestyles, described below. A char
 !!! compat "Session Shop: Carefree"
     If your starting Lifestyle was Carefree, at the end of a session you may spend $4$ unspent Blessings to change your Lifestyle to Prodigious or Crafty.
     
-    **🔮 Prodigious:** Your studies have come effortlessly to you, and secrets almost seem to just reveal themselves to you. When you have sparks, they take on a sorcerous aspect. Increase the results of your rolls using Head or Hurt by $+1$, and when you perform Spark Stat Checks using either of these Stats it costs only $2$ Blessings instead.
+    **🔮 Prodigious:** Your studies have come effortlessly to you, and secrets almost seem to just reveal themselves to you. When you have sparks, they take on a sorcerous or uninhibited aspect. Increase the results of your rolls using Head or Hurt by $+1$, and when you perform Spark Stat Checks using either of these Stats it costs only $2$ Blessings instead.
 
-    **🧶 Crafty:** You can envision amazing designs and, it seems, to bring them to life. When you have sparks, they take on an autonomous aspect. Increase the results of your rolls using Hand or Home by $+1$, and when you perform Spark Stat Checks using either of these Stats it costs only $2$ Blessings instead.
+    **🧶 Crafty:** You can envision amazing designs and, it seems, to bring them to life. When you have sparks, they take on an autonomous or lucky aspect. Increase the results of your rolls using Hand or Home by $+1$, and when you perform Spark Stat Checks using either of these Stats it costs only $2$ Blessings instead.
 
 !!! compat "Session Shop: Eager"
     If your starting Lifestyle was Eager, at the end of a session you may spend $4$ unspent Blessings to change your Lifestyle to Chosen or Wired.
 
-    **✨ Chosen:** You draw inspiration from the community around you, setting out on your journeys blessed, favored, or cursed. When you have sparks, they take on a divine aspect. Increase the results of your rolls using Heart or Home by $+1$, and when you perform Spark Stat Checks using either of these Stats it costs only $2$ Blessings instead.
+    **✨ Chosen:** You draw inspiration from the community around you, setting out on your journeys blessed, favored, or cursed. When you have sparks, they take on a divine or noble aspect. Increase the results of your rolls using Heart or Home by $+1$, and when you perform Spark Stat Checks using either of these Stats it costs only $2$ Blessings instead.
 
-    **⚡ Wired:** Your mind is quick and analytical, and you can see solutions to problems that are unimaginably complex. When you have sparks, they take on a calculating aspect. Increase the results of your rolls using Head or Hurry by $+1$, and when you perform Spark Stat Checks using either of these Stats it costs only $2$ Blessings instead.
+    **⚡ Wired:** Your mind is quick and analytical, and you can see solutions to problems that are unimaginably complex. When you have sparks, they take on a calculating or duplicative aspect. Increase the results of your rolls using Head or Hurry by $+1$, and when you perform Spark Stat Checks using either of these Stats it costs only $2$ Blessings instead.
 
 !!! compat "Session Shop: Wisened"
     If your starting Lifestyle was Wisened, at the end of a session you may spend $4$ unspent Blessings to change your Lifestyle to Warry or Compelling.
 
-    **👁️ Warry:** You are one with the natural and supernatural worlds around you, and you have a keen sense of danger and safety. When you have sparks, they take on an astral aspect. Increase the results of your rolls using Hand or Hurry by $+1$, and when you perform Spark Stat Checks using either of these Stats it costs only $2$ Blessings instead.
+    **👁️ Warry:** You are one with the natural and supernatural worlds around you, and you have a keen sense of danger and safety. When you have sparks, they take on an astral or prophetic aspect. Increase the results of your rolls using Hand or Hurry by $+1$, and when you perform Spark Stat Checks using either of these Stats it costs only $2$ Blessings instead.
 
-    **👄 Compelling:** You seem able to spin any loss into a win--or vice versa--, and you are a sly, tactical force to be reckoned with. When you have sparks, they take on an illusory aspect. Increase the results of your rolls using Heart or Hurt by $+1$, and when you perform Spark Stat Checks using either of these Stats it costs only $2$ Blessings instead.
+    **👄 Compelling:** You seem able to spin any loss into a win--or vice versa--, and you are a sly, tactical force to be reckoned with. When you have sparks, they take on an illusory or vicious aspect. Increase the results of your rolls using Heart or Hurt by $+1$, and when you perform Spark Stat Checks using either of these Stats it costs only $2$ Blessings instead.
 
 Moreover, each character has a History Basic Stat, which is used to perform actions more related to the character's backstory more than to the other Basic Stats.
 
