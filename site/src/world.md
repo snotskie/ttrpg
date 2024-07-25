@@ -2,7 +2,17 @@
 
 ## Setting
 
+The following provides launching off points for running one-shot campaigns set in a comedic, surreal fantasy inspired by films like *FernGully* and *Flintstones*. In a paleolithic era, filled with ancient counterparts to today's modern amenities and customs, the adventuring party sets off into a land of magic, secret orders, day jobs, arcane inventions, sea-faring humans, forest fae, moutain-dwelling beetles, college students just trying to find themselves, and more. The Great Dragons gave the world its sentience -- now what the heck are we to do with it?
+
 ## Guide for Players
+
+Welcome players! While your DM prepares their notes for the session, work with your fellow players to create your cast of characters.
+
+First, choose a species from the options below, or roll a $d6$ to pick one at random.
+
+Second, choose a Lifestyle from the options below that, or roll a $d10$ to pick one at random.
+
+Finally, round out your character description: What is their name? What is their backstory? Who is their hero? And what three items do they never leave home without?
 
 ### Species
 
