@@ -76,6 +76,11 @@ Each character in this game has one of three Lifestyles, described below. A char
 
     **👄 Compelling:** You seem able to spin any loss into a win--or vice versa--, and you are a sly, tactical force to be reckoned with. When you have sparks, they take on an illusory or vicious aspect. Increase the results of your rolls using Heart or Hurt by $+1$, and when you perform Spark Stat Checks using either of these Stats it costs only $2$ Blessings instead. You also gain the "Tactful Speech" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
 
+!!! compat "Session Shop: Lost"
+    Regardless of your starting Lifestyle, at the end of a session you may spend $2$ unspent Blessings to change your Lifestyle to Lost. Then, at the end of a later session you may spend $3$ unspent Blessings to change your Lifestyle to any other option.
+
+    **💎 Lost:** You feel a disconnect from your own past or former sense of self, perhaps because of an exile from your home, an erased memory, or a period of transition or deep self-reflection. When you have sparks, they take on an erratic or liminal aspect. Modify the results of your rolls using History by $-2$. However, when you perform Spark Stat Checks using History it costs only $1$ Blessing instead.
+
 Moreover, each character has a History Basic Stat, which is used to perform actions more related to the character's backstory more than to the other Basic Stats.
 
 !!! tip "Character Creation: Step Three!"
