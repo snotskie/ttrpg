@@ -12,10 +12,10 @@
 
 ## Basic Stats
 
-Each character in this game has six Basic Stats, represented by the "six H’s" described below. Together, these Basic Stats describe a character's general capabilities at wide ranges of tasks and situations.
+Each character in this game has seven Basic Stats, represented by the "seven H’s" described below. Together, these Basic Stats describe a character's general capabilities at wide ranges of tasks and situations.
 
 !!! tip "Character Creation: Step One!"
-    Your first task is to decide which Stats your character is best (and worst) at! Rank your "six H's" from the one your character is most capable at to least capable at. As you do, begin to think about the story your character takes on in your mind. Why are they good at this and not at that? Why is one important to them and not the other?
+    Your first task is to decide which Stats your character is best (and worst) at! Rank your "seven H's" from the one your character is most capable at to least capable at. As you do, begin to think about the story your character takes on in your mind. Why are they good at this and not at that? Why is one important to them and not the other?
 
 **🧠 Head:** Intellectual pursuits, problem solving, puzzles, riddles, scanning for information, recalling facts, insight, reasoning, operating and building complex machines, playing practiced music
 
@@ -28,6 +28,8 @@ Each character in this game has six Basic Stats, represented by the "six H’s" 
 **👿 Hurt:** Nerve and willingness to inflict harm on others
 
 **⚠️ Hurry:** Escaping danger, reacting by instinct, surges of adrenaline
+
+**⏳ History:** Aspects covered by your character's backstory and the history of their people not covered by the other Basic Stats above
 
 When you begin the game, all of your Basic Stats are equal, each using a $d4$ for their Basic Stat Checks.
 
@@ -74,10 +76,7 @@ Each character in this game has one of three Lifestyles, described below. A char
 
     **👄 Compelling:** You seem able to spin any loss into a win--or vice versa--, and you are a sly, tactical force to be reckoned with. When you have sparks, they take on an illusory aspect. Increase the results of your rolls using Heart or Hurt by $+1$, and when you perform Spark Stat Checks using either of these Stats it costs only $2$ Blessings instead.
 
-Moreover, each character has a History Stat, which follows the same rules as the Basic Stats and is used to perform actions more related to the character's backstory more than to the other Basic Stats.
-
-!!! compat "Session Shop: History"
-    Your History Stat can be upgraded at the end of a session in the same manner as your Basic Stats.
+Moreover, each character has a History Basic Stat, which is used to perform actions more related to the character's backstory more than to the other Basic Stats.
 
 !!! tip "Character Creation: Step Three!"
     Begin to describe your character's backstory and list three specific skills that they have proven their ability in, such as through schooling, study, training, or so on, as well as people and groups that they interacted with or had connections to. And if your game's setting has non-human characters and your character is one of them, also describe one or two simple actions, within reason, that characters of your non-human species can perform unaided that human characters can't.
