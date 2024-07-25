@@ -14,6 +14,8 @@ Second, choose a Lifestyle from the options below that, or roll a $d10$ to pick 
 
 Finally, round out your character description: What is their name? What is their backstory? Who is their hero? And what three items do they never leave home without?
 
+The DM will help you craft the connections between your characters to get your story started.
+
 ### Species
 
 !!! details "1. Human -- Seafaring Fishermen of the Southern Isle"
@@ -334,11 +336,5 @@ Finally, round out your character description: What is their name? What is their
     #### Abilities
 
     #### What You Know
-
-### asdfasdf
-
-hero
-
-items
 
 ## Guide for DMs
