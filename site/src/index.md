@@ -72,7 +72,7 @@ Each character in this game has one of three Lifestyles, described below. A char
 !!! compat "Session Shop: Wisened"
     If your starting Lifestyle was Wisened, at the end of a session you may spend $4$ unspent Blessings to change your Lifestyle to Warry or Compelling.
 
-    **👁️ Warry:** You are one with the natural and supernatural worlds around you, and you have a keen sense of danger and safety. When you have sparks, they take on an astral or prophetic aspect. Increase the results of your rolls using Hand or Hurry by $+1$, and when you perform Spark Stat Checks using either of these Stats it costs only $2$ Blessings instead. You also gain the "TODO" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
+    **👁️ Warry:** You are one with the natural and supernatural worlds around you, and you have a keen sense of danger and safety. When you have sparks, they take on an astral or prophetic aspect. Increase the results of your rolls using Hand or Hurry by $+1$, and when you perform Spark Stat Checks using either of these Stats it costs only $2$ Blessings instead. You also gain the "Past Repeated" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
 
     **👄 Compelling:** You seem able to spin any loss into a win--or vice versa--, and you are a sly, tactical force to be reckoned with. When you have sparks, they take on an illusory or vicious aspect. Increase the results of your rolls using Heart or Hurt by $+1$, and when you perform Spark Stat Checks using either of these Stats it costs only $2$ Blessings instead. You also gain the "Tactful Speech" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
 
@@ -150,6 +150,8 @@ Characters in this game have a set of Abilities that grant them certain actions 
 **Quickly Acclimated:** Whenever you fail a Check against natural effects such as weather and disease, protect yourself for $+3$.
 
 **Steady Emotions:** Whenever you fail a Check or lose a Contest and would become Uncool as a result, protect yourself for $+3$.
+
+**Optimal Solution:** Twice per session, when you or a nearby ally attempt a roll for a non-violent Check or Contest, you may roll $4d6$. Group those dice into two piles of two dice such that a simple operation (addition or multiplication) could be performed to each pile so that the two operations' result would be equal; for example, if you rolled $1$, $1$, $1$, and $2$, you could group the piles such that $1×2=1+1$. If you are able to arrange the $4d6$ in such a way, you or your ally increases the result of their attempted roll by $+5$.
 
 **Synchronized Spark:** You may perform a Spark Stat Check using one of your Stats and one of the Stats of another willing character in the scene, so long as the chosen Stats are balanced and both characters have this ability.
 
