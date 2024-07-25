@@ -136,6 +136,8 @@ Characters in this game have a set of Abilities that grant them certain actions 
 
 **Efficiently Packed:** When you perform a Home Stat Check to see if you came prepared with an item, roll as though your Home Stat used one die size larger, to a maximum of a $d10$.
 
+**Past Repeated:** Once per session, when you fail a non-violent Check or lose a non-violent Contest, you may choose to channel a past memory to guide you. If you do, for the rest of the scene, you may use your History Stat in place of the Stat you failed the Check or lost the Contest with.
+
 **Armored Skin:** Whenever you lose a violent Contest as the Defender, protect yourself for $+3$.
 
 !!! note "Effect Wording: Protect Yourself for $+X$"
