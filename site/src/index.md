@@ -8,7 +8,7 @@
 
 ## About
 
-*Humanity, Blessed* is a rules-light TTRPG system inspired by our favorite games, designed to tell stories, about what it means to be human.
+*Humanity, Blessed* is a rules-light TTRPG system inspired by our favorite games, designed to tell stories, about what it means to be human, doing goofy, cool, fantastic little human things.
 
 ## Basic Stats
 
@@ -29,7 +29,7 @@ Each character in this game has seven Basic Stats, represented by the "seven H�
 
 **⚠️ Hurry:** Escaping danger, reacting by instinct, surges of adrenaline
 
-**⏳ History:** Aspects covered by your character's backstory and the history of their people not covered by the other Basic Stats above
+**⏳ History:** Other aspects covered by your character's backstory and the history of their people not covered by the Basic Stats above
 
 When you begin the game, all of your Basic Stats are equal, each using a $d4$ for their Basic Stat Checks.
 
