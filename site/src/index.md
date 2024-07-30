@@ -158,6 +158,10 @@ Characters in this game have a set of Abilities that grant them certain actions 
 
 **Licensed Driver:** Whenever you fail a Check or lose a Contest while transporting others, protect yourself for $+3$.
 
+**Sharp Skin:** When you lose a violent Contest at a close distance, your Attackers receive a less severe version of the same injury you received from losing the Contest.
+
+**Sharp Wits:** Once per scene, when you lose a non-violent Contest against a single Attacker, you may spend one Blessing to have the Attacker receive a less severe version of the same effect you received from losing the Contest.
+
 **Optimal Solution:** Twice per session, when you or a nearby ally attempt a roll for a non-violent Check or Contest, you may roll $4d6$. Group those dice into two piles of two dice such that a simple operation (addition or multiplication) could be performed to each pile so that the two operations' result would be equal; for example, if you rolled $1$, $1$, $1$, and $2$, you could group the piles such that $1×2=1+1$. If you are able to arrange the $4d6$ in such a way, you or your ally increases the result of their attempted roll by $+5$.
 
 **Synchronized Spark:** You may perform a Spark Stat Check using one of your Stats and one of the Stats of another willing character in the scene, so long as the chosen Stats are balanced and both characters have this ability.
