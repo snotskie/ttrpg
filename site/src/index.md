@@ -84,7 +84,9 @@ Each character in this game has one of three Lifestyles, described below. A char
 Moreover, each character has a History Basic Stat, which is used to perform actions more related to the character's backstory more than to the other Basic Stats.
 
 !!! tip "Character Creation: Step Three!"
-    Begin to describe your character's backstory and list three specific skills that they have proven their ability in, such as through schooling, study, training, or so on, as well as people and groups that they interacted with or had connections to. And if your game's setting has non-human characters and your character is one of them, also describe one or two simple actions, within reason, that characters of your non-human species can perform unaided that human characters can't.
+    Begin to describe your character's backstory and list three specific skills that they have proven their ability in, such as through schooling, study, training, specialization within their team, or so on, as well as people and groups that they regularly interact with and have connections to. Begin to imagine where your character could be found on an average Tuesday afternoon before the action of the story gets underway.
+    
+    Also, if your game's setting has non-human characters and your character is one of them, also describe one or two simple actions, within reason, that characters of your non-human species can perform unaided that human characters can't.
 
     These background details will help set the scope of what your History Stat Checks cover.
 
