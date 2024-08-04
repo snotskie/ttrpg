@@ -40,7 +40,7 @@ When you begin the game, all of your Basic Stats are equal, each using a $d4$ fo
     - spend $3$ unspent Blessings to upgrade a single Basic Stat's die from a $d6$ to a $d8$
     - spend $4$ unspent Blessings to upgrade a single Basic Stat's die from a $d8$ to a $d10$
     
-    For the Basic Stat you ranked the highest, upgrading its die costs 1 fewer Blessing each time. However, for the Basic Stat you ranked the lowest, upgrading its die costs $1$ additional Blessing each time
+    For the Basic Stat you ranked the highest, upgrading its die costs $1$ fewer Blessing each time. However, for the Basic Stat you ranked the lowest, upgrading its die costs $1$ additional Blessing each time
 
 ## Lifestyle and History
 
@@ -49,37 +49,37 @@ Each character in this game has one of three Lifestyles, described below. A char
 !!! tip "Character Creation: Step Two!"
     Begin to describe the Lifestyle your character had growing up or their current outlook on life. As you do, pick one of the following Lifestyles to start the game with.
 
-**🍀 Carefree:** Your character lives a relatively carefree life, perhaps because of your young age, wealthy upbringing, or optimistic demeanor. Increase the results of your rolls using Heart or Hurry by $+1$.
+**🍀 Carefree:** Your character lives a relatively carefree life, perhaps because of your young age, wealthy upbringing, or optimistic demeanor. Upgrading your Heart and Hurry dice cost $1$ fewer Blessing each time.
 
-**🔥 Eager:** Your character is eager for more out of life, perhaps because of a teenage rebellious phase, a yearning to accomplish your dreams, or a person you want to impress. Increase the results of your rolls using Hand or Hurt by $+1$.
+**🔥 Eager:** Your character is eager for more out of life, perhaps because of a teenage rebellious phase, a yearning to accomplish your dreams, or a person you want to impress. Upgrading your Hand and Hurt dice cost $1$ fewer Blessing each time.
 
-**🧘‍♀️ Wisened:** Life has not been easy on your character, but as a result you’ve come out wiser and tougher, perhaps because you’ve gotten older, been shaped by unfortunate events, or dedicated yourself to your work. Increase the results of your rolls using Head or Home by $+1$.
+**🧘‍♀️ Wisened:** Life has not been easy on your character, but as a result you’ve come out wiser and tougher, perhaps because you’ve gotten older, been shaped by unfortunate events, or dedicated yourself to your work. Upgrading your Hand and Home dice cost $1$ fewer Blessing each time.
 
 !!! compat "Session Shop: Carefree"
     If your starting Lifestyle was Carefree, at the end of a session you may spend $4$ unspent Blessings to change your Lifestyle to Prodigious or Crafty.
     
-    **🔮 Prodigious:** Your studies have come effortlessly to you, and secrets almost seem to just reveal themselves to you. When you have sparks, they take on a sorcerous or uninhibited aspect. Increase the results of your rolls using Head or Hurt by $+1$, and when you perform Spark Stat Checks using either of these Stats it costs only $2$ Blessings instead. You also gain the "Blessed by Voices" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
+    **🔮 Prodigious:** Your studies have come effortlessly to you, and secrets almost seem to just reveal themselves to you. When you have sparks, they take on a sorcerous or uninhibited aspect. Upgrading your Head and Hurt dice cost $1$ fewer Blessing each time, and when you perform Spark Stat Checks using either of these Stats it costs only $2$ Blessings instead. You also gain the "Blessed by Voices" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
 
-    **🧶 Crafty:** You can envision amazing designs and, it seems, to bring them to life. When you have sparks, they take on an autonomous or lucky aspect. Increase the results of your rolls using Hand or Home by $+1$, and when you perform Spark Stat Checks using either of these Stats it costs only $2$ Blessings instead. You also gain the "Efficiently Packed" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
+    **🧶 Crafty:** You can envision amazing designs and, it seems, to bring them to life. When you have sparks, they take on an autonomous or lucky aspect. Upgrading your Hand and Home dice cost $1$ fewer Blessing each time, and when you perform Spark Stat Checks using either of these Stats it costs only $2$ Blessings instead. You also gain the "Efficiently Packed" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
 
 !!! compat "Session Shop: Eager"
     If your starting Lifestyle was Eager, at the end of a session you may spend $4$ unspent Blessings to change your Lifestyle to Chosen or Wired.
 
-    **✨ Chosen:** You draw inspiration from the community around you, setting out on your journeys blessed, favored, or cursed. When you have sparks, they take on a divine or noble aspect. Increase the results of your rolls using Heart or Home by $+1$, and when you perform Spark Stat Checks using either of these Stats it costs only $2$ Blessings instead. You also gain the "Blessed by Charity" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
+    **✨ Chosen:** You draw inspiration from the community around you, setting out on your journeys blessed, favored, or cursed. When you have sparks, they take on a divine or noble aspect. Upgrading your Heart and Home dice cost $1$ fewer Blessing each time, and when you perform Spark Stat Checks using either of these Stats it costs only $2$ Blessings instead. You also gain the "Blessed by Charity" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
 
-    **⚡ Wired:** Your mind is quick and analytical, and you can see solutions to problems that are unimaginably complex. When you have sparks, they take on a calculating or duplicative aspect. Increase the results of your rolls using Head or Hurry by $+1$, and when you perform Spark Stat Checks using either of these Stats it costs only $2$ Blessings instead. You also gain the "Ease of Focus" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
+    **⚡ Wired:** Your mind is quick and analytical, and you can see solutions to problems that are unimaginably complex. When you have sparks, they take on a calculating or duplicative aspect. Upgrading your Head and Hurry dice cost $1$ fewer Blessing each time, and when you perform Spark Stat Checks using either of these Stats it costs only $2$ Blessings instead. You also gain the "Ease of Focus" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
 
 !!! compat "Session Shop: Wisened"
     If your starting Lifestyle was Wisened, at the end of a session you may spend $4$ unspent Blessings to change your Lifestyle to Warry or Compelling.
 
-    **👁️ Warry:** You are one with the natural and supernatural worlds around you, and you have a keen sense of danger and safety. When you have sparks, they take on an astral or prophetic aspect. Increase the results of your rolls using Hand or Hurry by $+1$, and when you perform Spark Stat Checks using either of these Stats it costs only $2$ Blessings instead. You also gain the "Past Repeated" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
+    **👁️ Warry:** You are one with the natural and supernatural worlds around you, and you have a keen sense of danger and safety. When you have sparks, they take on an astral or prophetic aspect. Upgrading your Hand and Hurry dice cost $1$ fewer Blessing each time, and when you perform Spark Stat Checks using either of these Stats it costs only $2$ Blessings instead. You also gain the "Past Repeated" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
 
-    **👄 Compelling:** You seem able to spin any loss into a win--or vice versa--, and you are a sly, tactical force to be reckoned with. When you have sparks, they take on an illusory or vicious aspect. Increase the results of your rolls using Heart or Hurt by $+1$, and when you perform Spark Stat Checks using either of these Stats it costs only $2$ Blessings instead. You also gain the "Tactful Speech" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
+    **👄 Compelling:** You seem able to spin any loss into a win--or vice versa--, and you are a sly, tactical force to be reckoned with. When you have sparks, they take on an illusory or vicious aspect. Upgrading your Heart and Hurt dice cost $1$ fewer Blessing each time, and when you perform Spark Stat Checks using either of these Stats it costs only $2$ Blessings instead. You also gain the "Tactful Speech" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
 
 !!! compat "Session Shop: Lost"
     Regardless of your starting Lifestyle, at the end of a session you may spend $2$ unspent Blessings to change your Lifestyle to Lost. Then, at the end of a later session you may spend $3$ unspent Blessings to change your Lifestyle to any other option.
 
-    **💎 Lost:** You feel a disconnect from your own past or former sense of self, perhaps because of an exile from your home, an erased memory, or a period of transition or deep self-reflection. When you have sparks, they take on an erratic or liminal aspect. Modify the results of your rolls using History by $-2$. However, when you perform Spark Stat Checks using History it costs only $1$ Blessing instead.
+    **💎 Lost:** You feel a disconnect from your own past or former sense of self, perhaps because of an exile from your home, an erased memory, or a period of transition or deep self-reflection. When you have sparks, they take on an erratic or liminal aspect. Upgrading your History die costs $1$ fewer Blessing each time, and when you perform Spark Stat Checks using History it costs only $2$ Blessing instead.
 
 Moreover, each character has a History Basic Stat, which is used to perform actions more related to the character's backstory more than to the other Basic Stats.
 
