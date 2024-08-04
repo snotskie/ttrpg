@@ -2,7 +2,9 @@
 
 ## Setting
 
-The following provides launching off points for running one-shot campaigns set in a comedic, surreal fantasy inspired by films like *FernGully* and *Flintstones*. In a paleolithic era, filled with ancient counterparts to today's modern amenities and customs, the adventuring party sets off into a land of magic, secret orders, day jobs, arcane inventions, sea-faring humans, forest fae, moutain-dwelling beetles, college students just trying to find themselves, and more. The Great Dragons gave the world its sentience -- now what the heck are we to do with it?
+The following material provides launching off points for running one-shot campaigns set in a comedic, surreal, anachronistic fantasy inspired by films like *FernGully* and *Flintstones*.
+
+*In a paleolithic era, filled with ancient counterparts to today's modern amenities and customs, the adventuring party sets off into a land of magic, secret orders, day jobs, arcane inventions, sea-faring humans, forest fae, moutain-dwelling beetles, college students just trying to find themselves, and more. The Great Dragons gave the world its sentience -- now what the heck are we to do with it?*
 
 ## Guide for Players
 
@@ -36,7 +38,7 @@ The DM will help you craft the connections between your characters to get your s
     - The human capital is a city of wood and stone on an island, connected to the mainland by a large bridge, which the humans settled when they sailed to and discovered this land long ago
     - Human poets and authors tell tales of the humans' ongoing territorial battles against the tusks and the ptero
 
-!!! details "2. Tusk -- Ten Woolly Factions"
+!!! details "2. Woollies -- Ten Woolly Factions"
     #### Basic Stats
 
     After selecting your Lifestyle, choose one of your Basic Stats and increase its die by one size, to a maximum of $d10$.
@@ -59,7 +61,7 @@ The DM will help you craft the connections between your characters to get your s
     - Officially, the tusks are ruled by a council of leaders. However, the members of the council disagree so much that, in practice, the tusks are organized into a loose set of small, scattered towns
     - The tusks have a revolving set of capitals, as the town politically designated to seat the council rotates after every Three-Year Feast
 
-!!! details "3. Lucan -- Beetle Craftsmen of the Central Mountain Pass"
+!!! details "3. Shelled Ones -- Beetle Craftsmen of the Central Mountain Pass"
     #### Basic Stats
 
     After selecting your Lifestyle, choose one of your Basic Stats and increase its die by one size, to a maximum of $d10$.
@@ -82,7 +84,7 @@ The DM will help you craft the connections between your characters to get your s
     - Long ago, the Gold Dragon helped the lucan defeat the ptero and escape their harsh dominion over the land
     - The Gold Dragon is rumored to still live beneath the lucan mountain, and some have organized a not-so-secret order that worships it
 
-!!! details "4. Ptero -- Feathered Rulers of the Northern Desert"
+!!! details "4. Dactyls -- Feathered Rulers of the Northern Desert"
     #### Basic Stats
 
     After selecting your Lifestyle, choose one of your Basic Stats and increase its die by one size, to a maximum of $d10$.
@@ -101,7 +103,7 @@ The DM will help you craft the connections between your characters to get your s
     - The ptero once enjoyed rule over the whole land
     - Ptero arcanists and nobles believe their claims to magic and power have their origins in the stars, as they can fly closer to the stars than anyone
 
-!!! details "5. Fae -- Children of the World Forest"
+!!! details "5. Fairies -- Children of the World Forest"
     #### Basic Stats
 
     After selecting your Lifestyle, choose one of your Basic Stats and increase its die by one size, to a maximum of $d10$.
@@ -124,7 +126,7 @@ The DM will help you craft the connections between your characters to get your s
     - The fae queen is trusted for her knowledge on all matters possibly imaginable
     - Some elder fae sit on their porches and complain about the humans' growing thirst for magic and crude modern inventions
 
-!!! details "6. Varan -- Lizards Who Learned to Dream"
+!!! details "6. Monitors -- Lizards Who Learned to Dream"
     #### Basic Stats
 
     After selecting your Lifestyle, choose one of your Basic Stats and increase its die by one size, to a maximum of $d10$.
@@ -152,10 +154,10 @@ The DM will help you craft the connections between your characters to get your s
 
     - **Head:** $d4$
     - **Hand:** $d4$
-    - **Heart:** $d6+1$
+    - **Heart:** $d6$
     - **Home:** $d4$
     - **Hurt:** $d4$
-    - **Hurry:** $d6+1$
+    - **Hurry:** $d6$
     - **History:** $d6$
 
     #### Lifestyle
@@ -170,10 +172,10 @@ The DM will help you craft the connections between your characters to get your s
     #### Basic Stats
 
     - **Head:** $d4$
-    - **Hand:** $d6+1$
+    - **Hand:** $d6$
     - **Heart:** $d4$
     - **Home:** $d4$
-    - **Hurt:** $d6+1$
+    - **Hurt:** $d6$
     - **Hurry:** $d4$
     - **History:** $d6$
 
@@ -188,10 +190,10 @@ The DM will help you craft the connections between your characters to get your s
 !!! details "3. Wisened -- Confidant"
     #### Basic Stats
 
-    - **Head:** $d6+1$
+    - **Head:** $d6$
     - **Hand:** $d4$
     - **Heart:** $d4$
-    - **Home:** $d6+1$
+    - **Home:** $d6$
     - **Hurt:** $d4$
     - **Hurry:** $d4$
     - **History:** $d6$
@@ -207,11 +209,11 @@ The DM will help you craft the connections between your characters to get your s
 !!! details "4. Prodigious -- Arcanist"
     #### Basic Stats
 
-    - **Head:** $d6+1$
+    - **Head:** $d6$
     - **Hand:** $d4$
     - **Heart:** $d4$
     - **Home:** $d4$
-    - **Hurt:** $d6+1$
+    - **Hurt:** $d6$
     - **Hurry:** $d4$
     - **History:** $d4$
 
@@ -227,9 +229,9 @@ The DM will help you craft the connections between your characters to get your s
     #### Basic Stats
 
     - **Head:** $d4$
-    - **Hand:** $d6+1$
+    - **Hand:** $d6$
     - **Heart:** $d4$
-    - **Home:** $d6+1$
+    - **Home:** $d6$
     - **Hurt:** $d4$
     - **Hurry:** $d4$
     - **History:** $d4$
@@ -247,8 +249,8 @@ The DM will help you craft the connections between your characters to get your s
 
     - **Head:** $d4$
     - **Hand:** $d4$
-    - **Heart:** $d6+1$
-    - **Home:** $d6+1$
+    - **Heart:** $d6$
+    - **Home:** $d6$
     - **Hurt:** $d4$
     - **Hurry:** $d4$
     - **History:** $d4$
@@ -264,12 +266,12 @@ The DM will help you craft the connections between your characters to get your s
 !!! details "7. Wired -- Hacker"
     #### Basic Stats
 
-    - **Head:** $d6+1$
+    - **Head:** $d6$
     - **Hand:** $d4$
     - **Heart:** $d4$
     - **Home:** $d4$
     - **Hurt:** $d4$
-    - **Hurry:** $d6+1$
+    - **Hurry:** $d6$
     - **History:** $d4$
 
     #### Lifestyle
@@ -284,11 +286,11 @@ The DM will help you craft the connections between your characters to get your s
     #### Basic Stats
 
     - **Head:** $d4$
-    - **Hand:** $d6+1$
+    - **Hand:** $d6$
     - **Heart:** $d4$
     - **Home:** $d4$
     - **Hurt:** $d4$
-    - **Hurry:** $d6+1$
+    - **Hurry:** $d6$
     - **History:** $d4$
 
     #### Lifestyle
@@ -304,9 +306,9 @@ The DM will help you craft the connections between your characters to get your s
 
     - **Head:** $d4$
     - **Hand:** $d4$
-    - **Heart:** $d6+1$
+    - **Heart:** $d6$
     - **Home:** $d4$
-    - **Hurt:** $d6+1$
+    - **Hurt:** $d6$
     - **Hurry:** $d4$
     - **History:** $d4$
 
@@ -327,7 +329,7 @@ The DM will help you craft the connections between your characters to get your s
     - **Home:** $d4$
     - **Hurt:** $d4$
     - **Hurry:** $d4$
-    - **History:** $d6-2$
+    - **History:** $d8$
 
     #### Lifestyle
 
