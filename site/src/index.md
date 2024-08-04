@@ -88,7 +88,7 @@ Moreover, each character has a History Basic Stat, which is used to perform acti
     
     Also, if your game's setting has non-human characters and your character is one of them, also describe one or two simple actions, within reason, that characters of your non-human species can perform unaided that human characters can't.
 
-    These background details will help set the scope of what your History Stat Checks cover.
+    These background details will help set the scope of what your History Stat Checks cover when other Basic Stats don't apply.
 
 ## Hero
 
@@ -115,8 +115,6 @@ Characters in this game have a set of Abilities that grant them certain actions 
 
 **Blessed by Luck:** Once per scene, when you fail a Check, you may spend $3$ Blessings to attempt the Check again, using the newer result instead.
 
-**Blessed by Friendship:** Once per scene, you may spend a Blessing to help another character no matter the distance between you.
-
 **Blessed by Action:** Once per scene, when you succeed a Check by $5$ or more, each character that witnessed the success gains a Blessing, including yourself.
 
 **Blessed by Circumstance:** During a Contest involving three or more characters, you may spend $3$ Blessings to swap the results of two characters’ rolls.
@@ -125,13 +123,13 @@ Characters in this game have a set of Abilities that grant them certain actions 
 
 **Blessed by Voices:** Once per scene, you may spend $2$ Blessings to learn more about a character, place, or fact than would normally be possible. This knowledge may come with consequences.
 
-**Blessed by Family:** You may spend $2$ Blessings to attack recklessly, using History for a violent Contest instead of Hurt as usual. This attack is potentially lethal to your target if you win, and you may sustain injuries if you lose.
+**Blessed by Family:** You may spend $2$ Blessings to attack recklessly, using Home or History for a violent Contest instead of Hurt as usual. This attack is potentially lethal to your target if you win, and you may sustain injuries if you lose.
 
 **Blessed by Self-Acceptance:** While you are Uncool, you may spend $1$ Blessing to roll a Check using a different Basic Stat than normal. Then if the Check succeeds, you are no longer Uncool.
 
 **Blessed by Charity:** When you visit a place of religious or spiritual importance, you may spend any number of Blessings as a donation or act of service to the place. The more Blessings spent this way, the greater a possible later boon may be, determined by the DM.
 
-**Blessed by Steadfastness:** When you succeed a Check or win a Contest by $5$ or more while acting as your Hero would, gain $2$ Blessings, instead of the usual amount.
+**Blessed by Dedication:** When you succeed a Check or win a Contest by $5$ or more while acting as your Hero would, gain $2$ Blessings, instead of the usual amount.
 
 **Mercurial Blessing:** When you succeed a Check or win a Contest by less than $5$ while acting directly contrary to how your Hero would, gain $1$ Blessing.
 
@@ -162,7 +160,7 @@ Characters in this game have a set of Abilities that grant them certain actions 
 
 **Sharp Skin:** When you lose a violent Contest at a close distance, your Attackers receive a less severe version of the same injury you received from losing the Contest.
 
-**Sharp Wits:** Once per scene, when you lose a non-violent Contest against a single Attacker, you may spend one Blessing to have the Attacker receive a less severe version of the same effect you received from losing the Contest.
+**Sharp Wits:** Once per scene, when you lose a non-violent Contest against a single Attacker, you may spend $1$ Blessing to have the Attacker receive a less severe version of the same effect you received from losing the Contest.
 
 **Optimal Solution:** Twice per session, when you or a nearby ally attempt a roll for a non-violent Check or Contest, you may roll $4d6$. Group those dice into two piles of two dice such that a simple operation (addition or multiplication) could be performed to each pile so that the two operations' result would be equal; for example, if you rolled $1$, $1$, $1$, and $2$, you could group the piles such that $1×2=1+1$. If you are able to arrange the $4d6$ in such a way, you or your ally increases the result of their attempted roll by $+5$.
 
@@ -295,33 +293,28 @@ If both characters are attacking one another at the same time, then each charact
 If the violence continues past this initial Contest, then the Attackers may choose to change tactics, such as performing a non-violent Contest to shift subsequent rounds in their favor. Additionally, Defenders may choose to respond to these attacks with a greater range of options, such as outwitting (Head), calling on honor (Hand), destroying a part of the environment (Hand), calling for a truce (Heart), or repositioning oneself (Head or Home).
 
 !!! warning "Rules Note: Checks vs. Contests"
-    Checks use the terms “fail” and “succeed,” while Contests use “lose” and “win” instead. When an effect only mentions failing or succeeding Checks, it does not affect losing or winning Contests. And when an effect only mentions losing or winning Contests, it does not affect failing or succeeding Checks. A Contest itself is not a Check, though it does involve a series of rolls similar to Checks made against one another. For example, Blessed by Luck allows you to turn a failed Check into a success. However, it does not allow you to turn a lost Contest into a win. The Eager Lifestyle on the other hand does grant a bonus to Contests, because it modifies the results of rolls performed, without mentioning success, failure, win, or loss directly.
-
-### Chases
-
-Chases are extended Contests during which the characters involved race to be the first to reach some destination, or for the Defenders to reach their destination before being caught by the Attackers.
-
-Chases are carried out as a number of rounds in which the characters perform Contests against one another to progress themselves and slow their opponents. Additionally, characters involved perform Stat Checks to overcome hazards in the environment.
-
-To perform a Chase:
-
-1. Place a token representing each character involved in the Chase on a number line, starting at position $0$. Then, the DM describes the winning and losing conditions of the Chase, such as being the first to reach at least space $20$ at the end of a round or to have moved the furthest at the end of $3$ rounds.
-2. At the top of each round, the characters perform a Contest representing their movement, using Hand, Hurry, Hurt (if pursuing others violently), or another Stat as appropriate.
-3. The character who rolled the highest moves forward on the number line. The amount they rolled higher than the lowest roll of the Contest determines the number of spaces moved, either $2$, $3$, or $5$ spaces.
-4. Starting with the characters who rolled the lowest at the start of the round, characters may perform a Contest against their opponents involved in the Chase. For each Contest, everyone except the losing side of the Contest moves forward, and the amount the winning side won by determines the number of spaces moved, either $1$, $2$, or $3$ spaces. A character can only be involved in a single Contest this way, regardless if they are involved as an Attacker or Defender.
-5. At the end of the round, the DM may describe an environmental hazard that could affect all or some of the leading characters involved the Chase, asking them to perform a Check to avoid the effects.
-6. Repeat rounds until the Chase has been won.
-
-### Wounds
-
-You do not have "hit points" in this game. Instead, wounds shape the narrative arcs of the game. Additionally, Attackers may gain a bonus to their rolls when they target a wounded character; the worse the wound, the bigger the bonus.
-
-### Contest Positions
-
-Positions during violent Contests are tracked narratively. There are four ranges: touching, nearby, ranged, and distant. When an Attacker attacks with a weapon they are trained in that is appropriate for their current range to their target, the attacker receives a $+2$ bonus to their roll.
+    Checks use the terms “fail” and “succeed,” while Contests use “lose” and “win” instead. When an effect only mentions failing or succeeding Checks, it does not affect losing or winning Contests. And when an effect only mentions losing or winning Contests, it does not affect failing or succeeding Checks. A Contest itself is not a Check, though it does involve a series of rolls similar to Checks made against one another. For example, Blessed by Luck allows you to turn a failed Check into a success. However, it does not allow you to turn a lost Contest into a win. The Uncool conditiom on the other hand does affect Contests, because it modifies the results of rolls performed, without mentioning success, failure, win, or loss directly.
 
 ### Group Contests
 
 If multiple characters are Attackers together in a Contest, then they each perform their respective rolls and the median of their results is used to determine the group’s shared result.
 
 If multiple characters are Defenders together in a Contest, or are performing a coordinated Check, then they each perform their respective rolls, and if at least half would succeed the Check or win the Contest, then the group as a whole succeeds or wins.
+
+### Wounds
+
+You do not have "hit points" in this game. Instead, wounds shape the narrative arcs of the game; the worse the wound, the greater and longer lasting the impact.
+
+### Chases
+
+Chases are extended Contests during which the characters involved race to be the first to reach some destination, to be the first to acheive some action, to escape without being caught, to advance an objective before time runs out, or so on. Many scenes where the tension is drawn out can be run as "chases."
+
+Chases are carried out as a number of rounds in which the characters perform Contests against one another to progress themselves and slow their opponents. Additionally, characters involved perform Stat Checks to overcome hazards in the environment.
+
+To perform a Chase:
+
+1. **Setup:** Place a token representing each character involved in the Chase on a number line, starting at position $0$. Then, the DM describes the winning and losing conditions of the Chase, such as being the first to reach at least space $20$ at the end of a round, to have moved the furthest at the end of $3$ rounds, or so on.
+2. **Gaining the Advantage:** At the top of each round, the characters perform a Contest representing their movement, using Hand, Hurry, Hurt (if pursuing others violently), or another Stat as appropriate. Then, only the character who rolled the highest moves forward on the number line. The severity of the amount they rolled higher than the lowest roll of the Contest determines the number of spaces moved, either $2$, $3$, or $5$ spaces.
+3. **Responding:** Starting with the characters who rolled the lowest at the start of the round, characters may perform a Contest against their opponents involved in the Chase. For each Contest, everyone except the losing side of the Contest moves forward, and the severity of the amount the winning side won by determines the number of spaces moved, either $1$, $2$, or $3$ spaces. A character can only be involved in a single Contest this way, regardless if they are involved as an Attacker or Defender.
+4. **Hazards:** At the end of the round, the DM may describe an environmental hazard that could affect all or some of the leading characters involved the Chase, asking them to perform a Check to avoid the effects.
+5. Repeat rounds until the Chase has been won.
