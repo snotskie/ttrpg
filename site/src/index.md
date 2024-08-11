@@ -36,11 +36,11 @@ When you begin the game, all of your Basic Stats are equal, each using a $d4$ fo
 !!! compat "Session Shop: Basic Stats"
     At the end of a session, you may:
 
-    - spend $2$ unspent Blessings to upgrade a single Basic Stat's die from a $d4$ to a $d6$
-    - spend $3$ unspent Blessings to upgrade a single Basic Stat's die from a $d6$ to a $d8$
-    - spend $4$ unspent Blessings to upgrade a single Basic Stat's die from a $d8$ to a $d10$
+    - spend ①① to upgrade a single Basic Stat's die from a $d4$ to a $d6$
+    - spend ①①① to upgrade a single Basic Stat's die from a $d6$ to a $d8$
+    - spend ①①①① to upgrade a single Basic Stat's die from a $d8$ to a $d10$
     
-    For the Basic Stat you ranked the highest, upgrading its die costs $1$ fewer Blessing each time. However, for the Basic Stat you ranked the lowest, upgrading its die costs $1$ additional Blessing each time
+    For the Basic Stat you ranked the highest, upgrading its die costs ① less each time. However, for the Basic Stat you ranked the lowest, upgrading its die costs ① more each time.
 
 ## Lifestyle and History
 
@@ -56,52 +56,47 @@ Each character in this game has one of three Lifestyles, described below. A char
 **🧘‍♀️ Wisened:** Life has not been easy on your character, but as a result you’ve come out wiser and tougher, perhaps because you’ve gotten older, been shaped by unfortunate events, or dedicated yourself to your work. Upgrading your Hand and Home dice cost $1$ fewer Blessing each time.
 
 !!! compat "Session Shop: Carefree"
-    If your starting Lifestyle was Carefree, at the end of a session you may spend $4$ unspent Blessings to change your Lifestyle to Prodigious or Crafty.
+    If your starting Lifestyle was Carefree, at the end of a session you may spend ①①①① to change your Lifestyle to Prodigious or Crafty.
     
     **🔮 Prodigious:** Your studies have come effortlessly to you, and secrets almost seem to just reveal themselves to you. When you have sparks, they take on a sorcerous or uninhibited aspect. Upgrading your Head and Hurt dice cost $1$ fewer Blessing each time, and when you perform Spark Stat Checks using either of these Stats it costs only $2$ Blessings instead. You also gain the "Blessed by Voices" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
 
     **🧶 Crafty:** You can envision amazing designs and, it seems, to bring them to life. When you have sparks, they take on an autonomous or lucky aspect. Upgrading your Hand and Home dice cost $1$ fewer Blessing each time, and when you perform Spark Stat Checks using either of these Stats it costs only $2$ Blessings instead. You also gain the "Efficiently Packed" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
 
 !!! compat "Session Shop: Eager"
-    If your starting Lifestyle was Eager, at the end of a session you may spend $4$ unspent Blessings to change your Lifestyle to Chosen or Wired.
+    If your starting Lifestyle was Eager, at the end of a session you may spend ①①①① to change your Lifestyle to Chosen or Wired.
 
     **✨ Chosen:** You draw inspiration from the community around you, setting out on your journeys blessed, favored, or cursed. When you have sparks, they take on a divine or noble aspect. Upgrading your Heart and Home dice cost $1$ fewer Blessing each time, and when you perform Spark Stat Checks using either of these Stats it costs only $2$ Blessings instead. You also gain the "Blessed by Charity" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
 
     **⚡ Wired:** Your mind is quick and analytical, and you can see solutions to problems that are unimaginably complex. When you have sparks, they take on a calculating or duplicative aspect. Upgrading your Head and Hurry dice cost $1$ fewer Blessing each time, and when you perform Spark Stat Checks using either of these Stats it costs only $2$ Blessings instead. You also gain the "Ease of Focus" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
 
 !!! compat "Session Shop: Wisened"
-    If your starting Lifestyle was Wisened, at the end of a session you may spend $4$ unspent Blessings to change your Lifestyle to Warry or Compelling.
+    If your starting Lifestyle was Wisened, at the end of a session you may spend ①①①① to change your Lifestyle to Warry or Compelling.
 
     **👁️ Warry:** You are one with the natural and supernatural worlds around you, and you have a keen sense of danger and safety. When you have sparks, they take on an astral or prophetic aspect. Upgrading your Hand and Hurry dice cost $1$ fewer Blessing each time, and when you perform Spark Stat Checks using either of these Stats it costs only $2$ Blessings instead. You also gain the "Past Repeated" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
 
     **👄 Compelling:** You seem able to spin any loss into a win--or vice versa--, and you are a sly, tactical force to be reckoned with. When you have sparks, they take on an illusory or vicious aspect. Upgrading your Heart and Hurt dice cost $1$ fewer Blessing each time, and when you perform Spark Stat Checks using either of these Stats it costs only $2$ Blessings instead. You also gain the "Tactful Speech" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
 
 !!! compat "Session Shop: Lost"
-    Regardless of your starting Lifestyle, at the end of a session you may spend $2$ unspent Blessings to change your Lifestyle to Lost. Then, at the end of a later session you may spend $3$ unspent Blessings to change your Lifestyle to any other option.
+    Regardless of your starting Lifestyle, at the end of a session you may spend ①① to change your Lifestyle to Lost. Then, at the end of a later session you may spend ①①① to change your Lifestyle to any other option.
 
     **💎 Lost:** You feel a disconnect from your own past or former sense of self, perhaps because of an exile from your home, an erased memory, or a period of transition or deep self-reflection. When you have sparks, they take on an erratic or liminal aspect. Upgrading your History die costs $1$ fewer Blessing each time, and when you perform Spark Stat Checks using History it costs only $2$ Blessing instead.
 
 Moreover, each character has a History Basic Stat, which is used to perform actions more related to the character's backstory more than to the other Basic Stats.
 
 !!! tip "Character Creation: Step Three!"
-    Begin to describe your character's backstory and list three specific skills that they have proven their ability in, such as through schooling, study, training, specialization within their team, or so on, as well as people and groups that they regularly interact with and have connections to. Begin to imagine where your character could be found on an average Tuesday afternoon before the action of the story gets underway.
+    Begin to describe your character's backstory. Answer the following prompts, or others given to you by your DM. These background details will help build the story and set the scope of what your History Stat Checks cover when other Basic Stats don't apply.
     
-    Also, if your game's setting has non-human characters and your character is one of them, also describe one or two simple actions, within reason, that characters of your non-human species can perform unaided that human characters can't.
-
-    These background details will help set the scope of what your History Stat Checks cover when other Basic Stats don't apply.
-
-## Hero
-
-Characters in this game have Heros that they look up to. The first time per session, when you succeed a Check or win a Contest by $5$ or more while acting as your Hero would, gain $3$ Blessings. Subsequent times gain $1$ Blessing instead.
-
-!!! tip "Character Creation: Step Four!"
-    Describe who your character looks up to, whose work they strive to emulate, who taught them everything they know, or so on. What would it look like to make their Hero happy? upset? What is their connection to their Hero, and what is their Hero up to in the world now?
+    - Describe who your character looks up to, whose work they strive to emulate, who taught them everything they know, or so on. What would it look like to make their Hero happy? upset? What is their connection to their Hero, and what is their Hero up to in the world now?
+    - List three specific skills that your character has proven their ability in, such as through schooling, study, training, specialization within their team, or so on.
+    - List three specific people or groups that your character regularly interacts with or have connections to
+    - Describe where your character could be found on an average Tuesday afternoon before the action of the story gets underway.
+    - If your game's setting has non-human characters and your character is one of them, also describe one or two simple actions, within reason, that characters of your non-human species can perform unaided that human characters can't.
 
 ## Abilities
 
 Characters in this game have a set of Abilities that grant them certain actions or bonuses over the course of the game. These Abilities work together with characters' Stats, Lifestyle, and Hero to make up their key defining traits.
 
-!!! tip "Character Creation: Step Five!"
+!!! tip "Character Creation: Step Four!"
     Begin to imagine the kind of character taking shape in your mind. Have you seen characters like them before in movies, TV shows, and books? Were they the bully in school? Do they get drawn into conspiracy theories? Are they so laid-back that others think they're a slacker? Are they beautiful and popular? Are they quiet and hardworking? Etc. Try to envision the tropes from your favorite fictional stories that your character takes after.
 
     With that in mind, pick two of the following Abilities to start the game with.
@@ -109,39 +104,35 @@ Characters in this game have a set of Abilities that grant them certain actions 
 !!! compat "Session Shop: Abilities"
     At the end of a session, you may:
 
-    - spend $2$ unspent Blessings to gain your third Ability
-    - spend $5$ unspent Blessings to gain your fourth Ability
-    - spend $10$ unspent Blessings to gain your fifth Ability by creating one of your own and gaining it, within reason
+    - spend ③③ to gain your third Ability
+    - spend ④④ to gain your fourth Ability
+    - spend ⑤⑤ to gain your fifth Ability by creating one of your own and gaining it, within reason
 
-**Blessed by Luck:** Once per scene, when you fail a Check, you may spend $3$ Blessings to attempt the Check again, using the newer result instead.
+**Blessed by Luck:** When you fail a Check, you may attempt the Check again, using the newer result instead. Then this ability cannot be activated again until you spend ⑤ to recharge it.
 
-**Blessed by Action:** Once per scene, when you succeed a Check by $5$ or more, each character that witnessed the success gains a Blessing, including yourself.
+**Blessed by Circumstance:** During a Contest involving three or more characters, you may swap the results of two characters’ rolls. Then this ability cannot be activated again until you spend ⑤ to recharge it.
 
-**Blessed by Circumstance:** During a Contest involving three or more characters, you may spend $3$ Blessings to swap the results of two characters’ rolls.
+**Blessed by Self-Sacrifice:** During a Chase involving three or more characters, you may reduce the result of your own roll to $0$. Then this ability cannot be activated again until you spend ② to recharge it.
 
-**Blessed by Self-Sacrifice:** During a Chase involving three or more characters, you may spend $1$ Blessing to reduce the result of your own roll to $0$.
+**Blessed by Voices:** Up to once per scene, you may learn more about a character, place, or fact than would normally be possible, and this knowledge may come with consequences. Then this ability cannot be activated again until you spend ④ to recharge it.
 
-**Blessed by Voices:** Once per scene, you may spend $2$ Blessings to learn more about a character, place, or fact than would normally be possible. This knowledge may come with consequences.
+**Blessed by Family:** You may attack recklessly, using Home or History for a violent Contest instead of Hurt as usual. This attack is potentially lethal to your target if you win, and you may sustain injuries if you lose. Then this ability cannot be activated again until you spend ④ to recharge it.
 
-**Blessed by Family:** You may spend $2$ Blessings to attack recklessly, using Home or History for a violent Contest instead of Hurt as usual. This attack is potentially lethal to your target if you win, and you may sustain injuries if you lose.
+**Blessed by Self-Acceptance:** While you are Uncool, you may roll Checks using a different Basic Stat than normal. Then once a Check succeed this way, you are no longer Uncool.
 
-**Blessed by Self-Acceptance:** While you are Uncool, you may spend $1$ Blessing to roll a Check using a different Basic Stat than normal. Then if the Check succeeds, you are no longer Uncool.
+**Blessed by Charity:** When you visit a place of religious or spiritual importance, you may spend any number of ① as a donation or act of service to the place. The more spent this way, the greater a possible later boon may be, determined by the DM.
 
-**Blessed by Charity:** When you visit a place of religious or spiritual importance, you may spend any number of Blessings as a donation or act of service to the place. The more Blessings spent this way, the greater a possible later boon may be, determined by the DM.
+**Mercurial Blessing:** When you fail a Check or lose a Contest by more than $5$, gain $1$ Blessing.
 
-**Blessed by Dedication:** When you succeed a Check or win a Contest by $5$ or more while acting as your Hero would, gain $2$ Blessings, instead of the usual amount.
+**Cursed Blessing:** Up to once per scene, when another character succeeds a Check or wins a Contest, you may modify that character’s result by $-3$, possibly turning their success into a failure or win into a loss. Then this ability cannot be activated again until you spend ⑤ to recharge it.
 
-**Mercurial Blessing:** When you succeed a Check or win a Contest by less than $5$ while acting directly contrary to how your Hero would, gain $1$ Blessing.
-
-**Cursed Blessing:** Once per scene, when another character succeeds a Check or wins a Contest, you may spend $2$ Blessings to modify that character’s result by $-3$, possibly turning their success into a failure or win into a loss.
-
-**Medically Insured:** Once per scene, when a character fails a Check or loses a Contest to tend to your wounds, characters may spend a combined total of $3$ Blessings to turn the failure into a success or the loss into a win. Then, increase the number of Blessings needed to activate this ability by $2$.
+**Medically Insured:** When a character fails a Check or loses a Contest to tend to your wounds, that character may turn the failure into a success or the loss into a win. Then this ability cannot be activated again until you spend ①①① to recharge it, and when it is recharged, increase the cost to recharge it by ①①.
 
 **Focused Determination:** Each time you bump your dice, increase the result of the roll by an additional $+1$.
 
 **Efficiently Packed:** When you perform a Home Stat Check to see if you came prepared with an item, roll as though your Home Stat used one die size larger, to a maximum of a $d10$.
 
-**Past Repeated:** Once per session, when you fail a non-violent Check or lose a non-violent Contest, you may choose to channel a past memory to guide you. If you do, for the rest of the scene, you may use your History Stat in place of the Stat you failed the Check or lost the Contest with.
+**Past Repeated:** Up to once per session, when you fail a non-violent Check or lose a non-violent Contest, you may choose to channel a past memory to guide you. If you do, for the rest of the scene, you may use your History Stat in place of the Stat you failed the Check or lost the Contest with.
 
 **Armored Skin:** Whenever you lose a violent Contest as the Defender, protect yourself for $+3$.
 
@@ -158,15 +149,15 @@ Characters in this game have a set of Abilities that grant them certain actions 
 
 **Licensed Driver:** Whenever you fail a Check or lose a Contest while transporting others, protect yourself for $+3$.
 
-**Sharp Skin:** When you lose a violent Contest at a close distance, your Attackers receive a less severe version of the same injury you received from losing the Contest.
+**Sharp Skin:** When you lose a violent Contest at a close distance, you may have your Attackers receive a less severe version of the same injury you received from losing the Contest. Then this ability cannot be activated again until you spend ② to recharge it.
 
-**Sharp Wits:** Once per scene, when you lose a non-violent Contest against a single Attacker, you may spend $1$ Blessing to have the Attacker receive a less severe version of the same effect you received from losing the Contest.
+**Sharp Wits:** Up to once per scene, when you lose a non-violent Contest against a single Attacker, you may have the Attacker receive a less severe version of the same effect you received from losing the Contest. Then this ability cannot be activated again until you spend ② to recharge it.
 
-**Optimal Solution:** Twice per session, when you or a nearby ally attempt a roll for a non-violent Check or Contest, you may roll $4d6$. Group those dice into two piles of two dice such that a simple operation (addition or multiplication) could be performed to each pile so that the two operations' result would be equal; for example, if you rolled $1$, $1$, $1$, and $2$, you could group the piles such that $1×2=1+1$. If you are able to arrange the $4d6$ in such a way, you or your ally increases the result of their attempted roll by $+5$.
+**Optimal Solution:** Up to twice per session, when you or a nearby ally attempt a roll for a non-violent Check or Contest, you may roll $4d6$. Group those dice into two piles of two dice such that a simple operation (addition or multiplication) could be performed to each pile so that the two operations' result would be equal; for example, if you rolled $1$, $1$, $1$, and $2$, you could group the piles such that $1×2=1+1$. If you are able to arrange the $4d6$ in such a way, you or your ally increases the result of their attempted roll by $+5$.
 
 **Synchronized Spark:** You may perform a Spark Stat Check using one of your Stats and one of the Stats of another willing character in the scene, so long as the chosen Stats are balanced and both characters have this ability.
 
-**Ascendant Spark:** You may perform a non-violent Spark Stat Check using three Stats instead of two, so long as those Stats each use a $d8$ or larger. 
+**Ascendant Spark:** You may perform a non-violent Spark Stat Check using three Stats instead of two, so long as those Stats each use a $d8$ or larger. Then this ability cannot be activated again until you spend ④ to recharge it.
 
 **Advanced Training:** Increase the result of your rolls using a $d8$ or larger by $+1$.
 
@@ -175,11 +166,11 @@ Characters in this game have a set of Abilities that grant them certain actions 
 !!! details "DM Note: Replacing Abilities"
     Mechanically, there is no way for a character to lose or replace a Ability. However, you and your player may feel it is narratively appropriate to reflect their character's growth in response to powerful story events. How you rule the change of Abilities is up to you, as the best approach can vary from story to story.
     
-    However, a suggestion is this: Whenever a player spends unspent Blessings to gain a new Ability, allow them the opportunity to also replace one of their existing Abilities.
+    However, a suggestion is this: Whenever a player gains a new Ability, allow them the opportunity to also replace one of their existing Abilities.
 
 ## Items
 
-!!! tip "Character Creation: Step Six!"
+!!! tip "Character Creation: Step Five!"
     List three items that your character never leaves home without, within reason. These will be the items you start the game with.
 
 When you need an item your character does not already have listed, it could still be narratively reasonable for your character to have that item on them anyway. Once per scene, to see if your character came prepared with just the item you need, within reason, spend a Blessing and perform a Home Stat Check. If you roll equal to or greater than twice the number of items you have listed, then the Check succeeds and you may add the item to your list. Otherwise, the Check fails and you may not perform another Home Stat Check this way this session.
@@ -234,6 +225,11 @@ When you succeed on a Check or win a Contest by $5$ or more above the number you
 When a character is surprised by a threat, their first roll in response to it cannot bump and cannot be a Spark Stat Check.
 
 ### Blessings
+
+TODO rework this ①②③④⑤⑥Ⓧ
+
+Characters in this game have Heros that they look up to. The first time per session, when you succeed a Check or win a Contest by $5$ or more while acting as your Hero would, gain $3$ Blessings. Subsequent times gain $1$ Blessing instead.
+
 
 Several times during a session, the DM may award you a Blessing, represented by a small token.
 
