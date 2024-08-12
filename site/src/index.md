@@ -266,7 +266,7 @@ When you gain a Blessing Die, roll a $d6$ then add that die to your pool of Bles
 
 ### Helping
 
-Once per roll, whether your own or another character’s, you may spend any number of ① to increase the result of that roll by the number of ① spent. You may only spend ① to help other characters this way if your character is near enough to them to reasonably help with the action.
+Once per roll, whether your own or another character’s, you may spend any number of ① to increase the result of that roll by $+1$ for each ① spent. You may only spend ① to help other characters this way if your character is near enough to them to reasonably help with the action.
 
 ### Coolness
 
