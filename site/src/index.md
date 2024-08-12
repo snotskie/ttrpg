@@ -49,7 +49,7 @@ When you begin the game, all of your Basic Stats are equal, each using a $d4$ fo
 
     The notation ①① represents two dice from your pool of Blessing Dice, each worth $1$ or more.
 
-    When a die is spent, it is removed from your pool of Blessing Dice.
+    When a Blessing Die is spent, it is removed from your pool of Blessing Dice.
 
 ## Lifestyle and History
 
@@ -103,7 +103,7 @@ Moreover, each character has a History Basic Stat, which is used to perform acti
 
 ## Abilities
 
-Characters in this game have a set of Abilities that grant them certain actions or bonuses over the course of the game. These Abilities work together with characters' Stats, Lifestyle, and Hero to make up their key defining traits.
+Characters in this game have a set of Abilities that grant them certain actions or bonuses over the course of the game. These Abilities work together with characters' Stats, Lifestyle, and Backstory to make up their key defining traits.
 
 !!! tip "Character Creation: Step Four!"
     Begin to imagine the kind of character taking shape in your mind. Have you seen characters like them before in movies, TV shows, and books? Were they the bully in school? Do they get drawn into conspiracy theories? Are they so laid-back that others think they're a slacker? Are they beautiful and popular? Are they quiet and hardworking? Etc. Try to envision the tropes from your favorite fictional stories that your character takes after.
@@ -141,7 +141,7 @@ Characters in this game have a set of Abilities that grant them certain actions 
 
 **Ease of Focus:** Your rolls using a $d8$ or larger also bump when you roll a $2$ on the die.
 
-**Radical Self-Acceptance:** While you are Uncool, you may roll Checks using a different Basic Stat than normal. Then once a Check succeed this way, you are no longer Uncool.
+**Radical Self-Acceptance:** While you are Uncool, you may roll Checks using a different Basic Stat than normal. Then once a Check succeeds this way, you are no longer Uncool.
 
 **Blessed by Luck:** When you fail a Check, you may attempt the Check again, using the newer result instead. Then this ability cannot be activated again until you spend ⑤ to recharge it.
 
@@ -158,9 +158,9 @@ Characters in this game have a set of Abilities that grant them certain actions 
 
 **Blessed by Charity:** When you visit a place of religious or spiritual importance, you may spend any number of ① as a donation or act of service to the place. The more spent this way, the greater a possible later boon may be, determined by the DM.
 
-**Blessed by Sharp Skin:** When you lose a violent Contest at a close distance, you may have your Attackers receive a less severe version of the same injury you received from losing the Contest. Then this ability cannot be activated again until you spend ③ to recharge it.
+**Blessed by Thorns:** When you lose a violent Contest at a close distance, you may have your Attackers receive a less severe version of the same injury you received from losing the Contest. Then this ability cannot be activated again until you spend ③ to recharge it.
 
-**Blessed by Sharp Wits:** When you lose a non-violent Contest against a single Attacker, you may have the Attacker receive a less severe version of the same effect you received from losing the Contest. Then this ability cannot be activated again until you spend ③ to recharge it.
+**Blessed by Wits:** When you lose a non-violent Contest against a single Attacker, you may have the Attacker receive a less severe version of the same effect you received from losing the Contest. Then this ability cannot be activated again until you spend ③ to recharge it.
 
 **Blessed by Steadfastness:** When you fail a Check or lose a Contest by more than $5$, gain a Blessing.
 
@@ -258,6 +258,7 @@ When you gain a Blessing Die, roll a $d6$ then add that die to your pool of Bles
 
     All this being said, we recommend new DMs to this game use the following:
 
+    - Award $2$ Blessing Dice near the start of the first session, such asc after the player has introduced their character
     - Award $3$ Blessing Dice the first time the player succeeds a Check or wins a Contest by $5$ or more
     - Award a Blessing Die for good role play and creative solutions
     - Award a Blessing Die each time the player rolls the "lucky number" for the session. To determine the lucky number, at the start of each session, roll two $d10$ and use the higher value as the lucky number for the session. If a $1$ is rolled on both die this way, then there is no lucky number for the session, as it is impossible to score lower than a $2$ on rolls in this game
