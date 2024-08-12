@@ -1,7 +1,7 @@
 using Documenter
 
 makedocs(
-  sitename="Unnamed TTRPG",
+  sitename="Humanity, Blessed: TTRPG",
   format=Documenter.HTML(
         assets=[
             "assets/style.css",
