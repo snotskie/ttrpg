@@ -42,6 +42,15 @@ When you begin the game, all of your Basic Stats are equal, each using a $d4$ fo
     
     For the Basic Stat you ranked the highest, upgrading its die costs ① less each time. However, for the Basic Stat you ranked the lowest, upgrading its die costs ① more each time.
 
+!!! note "Effect Wording: Spend Ⓧ"
+    Some actions can only be performed by first "spending" Ⓧ from your pool of Blessing Dice.
+
+    The notation ① represents a single die from your pool of Blessing Dice worth $1$ or more. The notation ② represents a single die from your pool of Blessing Dice worth $2$ or more. And so on.
+
+    The notation ①① represents two dice from your pool of Blessing Dice, each worth $1$ or more.
+
+    When a die is spent, it is removed from your pool of Blessing Dice.
+
 ## Lifestyle and History
 
 Each character in this game has one of three Lifestyles, described below. A character's Lifestyle represents their general background and goals, and can change over the course of the story.
@@ -49,37 +58,37 @@ Each character in this game has one of three Lifestyles, described below. A char
 !!! tip "Character Creation: Step Two!"
     Begin to describe the Lifestyle your character had growing up or their current outlook on life. As you do, pick one of the following Lifestyles to start the game with.
 
-**🍀 Carefree:** Your character lives a relatively carefree life, perhaps because of your young age, wealthy upbringing, or optimistic demeanor. Upgrading your Heart and Hurry dice cost $1$ fewer Blessing each time.
+**🍀 Carefree:** Your character lives a relatively carefree life, perhaps because of your young age, wealthy upbringing, or optimistic demeanor. Upgrading your Heart and Hurry dice cost ① less each time.
 
-**🔥 Eager:** Your character is eager for more out of life, perhaps because of a teenage rebellious phase, a yearning to accomplish your dreams, or a person you want to impress. Upgrading your Hand and Hurt dice cost $1$ fewer Blessing each time.
+**🔥 Eager:** Your character is eager for more out of life, perhaps because of a teenage rebellious phase, a yearning to accomplish your dreams, or a person you want to impress. Upgrading your Hand and Hurt dice cost ① less each time.
 
-**🧘‍♀️ Wisened:** Life has not been easy on your character, but as a result you’ve come out wiser and tougher, perhaps because you’ve gotten older, been shaped by unfortunate events, or dedicated yourself to your work. Upgrading your Hand and Home dice cost $1$ fewer Blessing each time.
+**🧘‍♀️ Wisened:** Life has not been easy on your character, but as a result you’ve come out wiser and tougher, perhaps because you’ve gotten older, been shaped by unfortunate events, or dedicated yourself to your work. Upgrading your Hand and Home dice cost ① less each time.
 
 !!! compat "Session Shop: Carefree"
     If your starting Lifestyle was Carefree, at the end of a session you may spend ①①①① to change your Lifestyle to Prodigious or Crafty.
     
-    **🔮 Prodigious:** Your studies have come effortlessly to you, and secrets almost seem to just reveal themselves to you. When you have sparks, they take on a sorcerous or uninhibited aspect. Upgrading your Head and Hurt dice cost $1$ fewer Blessing each time, and when you perform Spark Stat Checks using either of these Stats it costs only $2$ Blessings instead. You also gain the "Blessed by Voices" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
+    **🔮 Prodigious:** Your studies have come effortlessly to you, and secrets almost seem to just reveal themselves to you. When you have sparks, they take on a sorcerous or uninhibited aspect. Upgrading your Head and Hurt dice cost ① less each time, and when you perform Spark Stat Checks using either of these Stats it costs only ③ instead. You also gain the "Blessed by Voices" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
 
-    **🧶 Crafty:** You can envision amazing designs and, it seems, to bring them to life. When you have sparks, they take on an autonomous or lucky aspect. Upgrading your Hand and Home dice cost $1$ fewer Blessing each time, and when you perform Spark Stat Checks using either of these Stats it costs only $2$ Blessings instead. You also gain the "Efficiently Packed" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
+    **🧶 Crafty:** You can envision amazing designs and, it seems, to bring them to life. When you have sparks, they take on an autonomous or lucky aspect. Upgrading your Hand and Home dice cost ① less each time, and when you perform Spark Stat Checks using either of these Stats it costs only ③ instead. You also gain the "Efficiently Packed" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
 
 !!! compat "Session Shop: Eager"
     If your starting Lifestyle was Eager, at the end of a session you may spend ①①①① to change your Lifestyle to Chosen or Wired.
 
-    **✨ Chosen:** You draw inspiration from the community around you, setting out on your journeys blessed, favored, or cursed. When you have sparks, they take on a divine or noble aspect. Upgrading your Heart and Home dice cost $1$ fewer Blessing each time, and when you perform Spark Stat Checks using either of these Stats it costs only $2$ Blessings instead. You also gain the "Blessed by Charity" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
+    **✨ Chosen:** You draw inspiration from the community around you, setting out on your journeys blessed, favored, or cursed. When you have sparks, they take on a divine or noble aspect. Upgrading your Heart and Home dice cost ① less each time, and when you perform Spark Stat Checks using either of these Stats it costs only ③ instead. You also gain the "Blessed by Charity" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
 
-    **⚡ Wired:** Your mind is quick and analytical, and you can see solutions to problems that are unimaginably complex. When you have sparks, they take on a calculating or duplicative aspect. Upgrading your Head and Hurry dice cost $1$ fewer Blessing each time, and when you perform Spark Stat Checks using either of these Stats it costs only $2$ Blessings instead. You also gain the "Ease of Focus" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
+    **⚡ Wired:** Your mind is quick and analytical, and you can see solutions to problems that are unimaginably complex. When you have sparks, they take on a calculating or duplicative aspect. Upgrading your Head and Hurry dice cost ① less each time, and when you perform Spark Stat Checks using either of these Stats it costs only ③ instead. You also gain the "Ease of Focus" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
 
 !!! compat "Session Shop: Wisened"
     If your starting Lifestyle was Wisened, at the end of a session you may spend ①①①① to change your Lifestyle to Warry or Compelling.
 
-    **👁️ Warry:** You are one with the natural and supernatural worlds around you, and you have a keen sense of danger and safety. When you have sparks, they take on an astral or prophetic aspect. Upgrading your Hand and Hurry dice cost $1$ fewer Blessing each time, and when you perform Spark Stat Checks using either of these Stats it costs only $2$ Blessings instead. You also gain the "Past Repeated" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
+    **👁️ Warry:** You are one with the natural and supernatural worlds around you, and you have a keen sense of danger and safety. When you have sparks, they take on an astral or prophetic aspect. Upgrading your Hand and Hurry dice cost ① less each time, and when you perform Spark Stat Checks using either of these Stats it costs only ③ instead. You also gain the "Past Repeated" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
 
-    **👄 Compelling:** You seem able to spin any loss into a win--or vice versa--, and you are a sly, tactical force to be reckoned with. When you have sparks, they take on an illusory or vicious aspect. Upgrading your Heart and Hurt dice cost $1$ fewer Blessing each time, and when you perform Spark Stat Checks using either of these Stats it costs only $2$ Blessings instead. You also gain the "Tactful Speech" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
+    **👄 Compelling:** You seem able to spin any loss into a win--or vice versa--, and you are a sly, tactical force to be reckoned with. When you have sparks, they take on an illusory or vicious aspect. Upgrading your Heart and Hurt dice cost ① less each time, and when you perform Spark Stat Checks using either of these Stats it costs only ③ instead. You also gain the "Tactful Speech" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
 
 !!! compat "Session Shop: Lost"
     Regardless of your starting Lifestyle, at the end of a session you may spend ①① to change your Lifestyle to Lost. Then, at the end of a later session you may spend ①①① to change your Lifestyle to any other option.
 
-    **💎 Lost:** You feel a disconnect from your own past or former sense of self, perhaps because of an exile from your home, an erased memory, or a period of transition or deep self-reflection. When you have sparks, they take on an erratic or liminal aspect. Upgrading your History die costs $1$ fewer Blessing each time, and when you perform Spark Stat Checks using History it costs only $2$ Blessing instead.
+    **💎 Lost:** You feel a disconnect from your own past or former sense of self, perhaps because of an exile from your home, an erased memory, or a period of transition or deep self-reflection. When you have sparks, they take on an erratic or liminal aspect. Upgrading your History die costs ① less each time, and when you perform Spark Stat Checks using History it costs only $2$ Blessing instead.
 
 Moreover, each character has a History Basic Stat, which is used to perform actions more related to the character's backstory more than to the other Basic Stats.
 
@@ -109,6 +118,9 @@ Characters in this game have a set of Abilities that grant them certain actions 
     - spend ⑤⑤ to gain your fifth Ability by creating one of your own and gaining it, within reason
 
 **Blessed by Luck:** When you fail a Check, you may attempt the Check again, using the newer result instead. Then this ability cannot be activated again until you spend ⑤ to recharge it.
+
+!!! note "Effect Wording: Spend Ⓧ to Recharge"
+    Some abilities, once activated, cannot be activated again until they have been "recharged" by spending Ⓧ from your pool of Blessings Dice.
 
 **Blessed by Circumstance:** During a Contest involving three or more characters, you may swap the results of two characters’ rolls. Then this ability cannot be activated again until you spend ⑤ to recharge it.
 
@@ -173,7 +185,7 @@ Characters in this game have a set of Abilities that grant them certain actions 
 !!! tip "Character Creation: Step Five!"
     List three items that your character never leaves home without, within reason. These will be the items you start the game with.
 
-When you need an item your character does not already have listed, it could still be narratively reasonable for your character to have that item on them anyway. Once per scene, to see if your character came prepared with just the item you need, within reason, spend a Blessing and perform a Home Stat Check. If you roll equal to or greater than twice the number of items you have listed, then the Check succeeds and you may add the item to your list. Otherwise, the Check fails and you may not perform another Home Stat Check this way this session.
+When you need an item your character does not already have listed, it could still be narratively reasonable for your character to have that item on them anyway. Once per scene, to see if your character came prepared with just the item you need, within reason, spend ① and perform a Home Stat Check. If you roll equal to or greater than twice the number of items you have listed, then the Check succeeds and you may add the item to your list. Otherwise, the Check fails and you may not perform another Home Stat Check this way this session.
 
 ## Playing the Game
 
@@ -197,24 +209,24 @@ To perform a Stat Check, roll the die for the action’s associated Stat. The DM
 !!! details "DM Note: Setting Basic Stat Check Targets"
     Use $4$ for an easy Basic Stat Check, $8$ for medium, $12$ for hard, $16$ for very hard, and $20$ for a trial the players will be greatly awarded for overcoming. The lowest possible Basic Stat Check is $2$.
     
-    Medium is the average for rolls in most situations the players will get themselves into, and each difficulty level above that is roughly equivalent to what the players could reach by spending one more Blessing. For situations that you surprise your players with that they don't have the chance to prepare for before reacting, consider lowering the difficulty by $2$ or $3$. The reason is that surprise situations are more likely to use characters' lower Stat Dice.
+    Medium is the average for rolls in most situations the players will get themselves into. For situations that you surprise your players with that they don't have the chance to prepare for before reacting, consider lowering the difficulty by $2$ or $3$. The reason is that surprise situations are more likely to use characters' lower Stat Dice.
     
-    Also keep in mind that $12$ is the lowest difficulty where a player can fail bad enough for disastrous results.
+    Also keep in mind that $12$ is the lowest Basic Stat Check difficulty where a player can fail bad enough for disastrous results.
 
 ### Balanced Stats can Spark
 
 When two of a character's Stats use the same die, those Stats are "balanced."
 
-You may spend $3$ Blessings to perform a Spark Stat Check, which combines the dice of two balanced Stats into a single group, such as $2d6$ formed from two balanced Stats using a $d6$ each. These Spark Stat Checks represent a character's momentary "spark," that hint of magic or ability to achieve amazing feats, that penchant for pulling out surprising wins, and so on. These "sparks" are what allow characters to perform far beyond what is normally possible by the laws of nature, limited only by their imagination -- and ability to control powerful and strange forces!
+You may spend ④ to perform a Spark Stat Check instead of a Basic Stat Check, which combines the dice of two balanced Stats into a single group, such as $2d6$ formed from two balanced Stats using a $d6$ each. These Spark Stat Checks represent a character's momentary "spark," that hint of magic or ability to achieve amazing feats, that penchant for pulling out surprising wins, and so on. These "sparks" are what allow characters to perform far beyond what is normally possible by the laws of nature, limited only by their imagination -- and ability to control powerful and strange forces!
 
 Any bonuses or effects that would apply to the balanced Stats used in the Spark Stat Check also apply to the Spark Stat Check itself.
 
 !!! details "DM Note: Setting Spark Stat Check Targets"
     Use $8$ for an easy Spark Stat Check, $12$ for medium, $16$ for hard, $20$ for very hard, and $24$ for a trial the players will be greatly awarded for overcoming. These difficulties are substantially higher than their mundane Basic Stat Check counterparts, representing both the greater capability yet greater risk of relying on their sparks. The lowest possible Spark Stat Check is $5$.
     
-    Medium is the average for rolls in most situations the players will get themselves into, and each difficulty level above that is roughly equivalent to what the players could reach by spending one more Blessing. For situations that you surprise your players with that they don't have the chance to prepare for before reacting, consider lowering the difficulty by $2$ or $3$. The reason is that surprise situations are more likely to use characters' lower Stat Dice.
+    Medium is the average for rolls in most situations the players will get themselves into. For situations that you surprise your players with that they don't have the chance to prepare for before reacting, consider lowering the difficulty by $2$ or $3$. The reason is that surprise situations are more likely to use characters' lower Stat Dice.
     
-    Also keep in mind that $14$ is the lowest difficulty where a player can fail bad enough for disastrous results.
+    Also keep in mind that $14$ is the lowest Spark Stat Check difficulty where a player can fail bad enough for disastrous results.
 
 ### Highs and Lows
 
@@ -224,19 +236,13 @@ When you succeed on a Check or win a Contest by $5$ or more above the number you
 
 When a character is surprised by a threat, their first roll in response to it cannot bump and cannot be a Spark Stat Check.
 
-### Blessings
+### Blessing Dice
 
-TODO rework this ①②③④⑤⑥Ⓧ
+Characters in this game each have a pool of Blessing Dice, representing a pool of resources they can draw upon to recharge their abilities and help their friends.
 
-Characters in this game have Heros that they look up to. The first time per session, when you succeed a Check or win a Contest by $5$ or more while acting as your Hero would, gain $3$ Blessings. Subsequent times gain $1$ Blessing instead.
+The first time each session when you succeed a Check or win a Contest by $5$, gain $3$ Blessings. The DM may award you Blessings for other achievements, at their own discretion.
 
-
-Several times during a session, the DM may award you a Blessing, represented by a small token.
-
-Once per roll, whether your own or another character’s, you may spend a Blessing to increase the result of that roll by $+1d4$. You may only spend Blessings to help other characters this way if your character is near enough to them to reasonably help with the action.
-
-!!! warning "Rules Notes: Helping as a Team"
-    While a single character can give only one Blessing per roll to help another character, multiple characters can come together to give multiple Blessings together to that character.
+When you gain a Blessing, roll a $d6$ then add that die to your pool of Blessing Dice. If you roll a $1$ on the die, gain an additional Blessing. As long as you continue to roll a $1$ on the die, you continue to gain an additional Blessing.
 
 !!! details "DM Note: When to Award Blessings"
     Mechanically, players may earn Blessings by acting as their Hero would. However, you as a DM should award them Blessings consistently and throughout each session, as many characters’ abilities depend on them.
@@ -246,6 +252,10 @@ Once per roll, whether your own or another character’s, you may spend a Blessi
     Some DMs may prefer a “fail forward” approach like in *Kids on Bikes*, where Blessings are given whenever a player fails a check. Others may prefer a "natural" approach like in *Dungeons and Dragons*, where they award them when the players roll some lucky number before modifiers, like $8$ or the highest value on their die. Others still may prefer to award them when the players engage in cool roleplay, when they solve puzzles or complete quests, as a fixed supply at the start of each session or arc, or so on. And having the source of Blessings suddenly dry up in grittier parts of the story can be a *very* effective way to put the pressure on.
 
     The way you award Blessings is one of the most powerful tools in your toolbelt as a DM in this game! Use it well!
+
+### Helping
+
+Once per roll, whether your own or another character’s, you may spend any number of ① to increase the result of that roll by the number of ① spent. You may only spend ① to help other characters this way if your character is near enough to them to reasonably help with the action.
 
 ### Coolness
 
