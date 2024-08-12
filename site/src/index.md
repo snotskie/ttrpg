@@ -88,7 +88,7 @@ Each character in this game has one of three Lifestyles, described below. A char
 !!! compat "Session Shop: Lost"
     Regardless of your starting Lifestyle, at the end of a session you may spend ①① to change your Lifestyle to Lost. Then, at the end of a later session you may spend ①①① to change your Lifestyle to any other option.
 
-    **💎 Lost:** You feel a disconnect from your own past or former sense of self, perhaps because of an exile from your home, an erased memory, or a period of transition or deep self-reflection. When you have sparks, they take on an erratic or liminal aspect. Upgrading your History die costs ① less each time, and when you perform Spark Stat Checks using History it costs only $2$ Blessing instead.
+    **💎 Lost:** You feel a disconnect from your own past or former sense of self, perhaps because of an exile from your home, an erased memory, or a period of transition or deep self-reflection. When you have sparks, they take on an erratic or liminal aspect. Upgrading your History die costs ① less each time, and when you perform Spark Stat Checks using History it costs only ③ instead.
 
 Moreover, each character has a History Basic Stat, which is used to perform actions more related to the character's backstory more than to the other Basic Stats.
 
@@ -109,36 +109,6 @@ Characters in this game have a set of Abilities that grant them certain actions 
     Begin to imagine the kind of character taking shape in your mind. Have you seen characters like them before in movies, TV shows, and books? Were they the bully in school? Do they get drawn into conspiracy theories? Are they so laid-back that others think they're a slacker? Are they beautiful and popular? Are they quiet and hardworking? Etc. Try to envision the tropes from your favorite fictional stories that your character takes after.
 
     With that in mind, pick two of the following Abilities to start the game with.
-
-!!! compat "Session Shop: Abilities"
-    At the end of a session, you may:
-
-    - spend ③③ to gain your third Ability
-    - spend ④④ to gain your fourth Ability
-    - spend ⑤⑤ to gain your fifth Ability by creating one of your own and gaining it, within reason
-
-**Blessed by Luck:** When you fail a Check, you may attempt the Check again, using the newer result instead. Then this ability cannot be activated again until you spend ⑤ to recharge it.
-
-!!! note "Effect Wording: Spend Ⓧ to Recharge"
-    Some abilities, once activated, cannot be activated again until they have been "recharged" by spending Ⓧ from your pool of Blessings Dice.
-
-**Blessed by Circumstance:** During a Contest involving three or more characters, you may swap the results of two characters’ rolls. Then this ability cannot be activated again until you spend ⑤ to recharge it.
-
-**Blessed by Self-Sacrifice:** During a Chase involving three or more characters, you may reduce the result of your own roll to $0$. Then this ability cannot be activated again until you spend ② to recharge it.
-
-**Blessed by Voices:** Up to once per scene, you may learn more about a character, place, or fact than would normally be possible, and this knowledge may come with consequences. Then this ability cannot be activated again until you spend ④ to recharge it.
-
-**Blessed by Family:** You may attack recklessly, using Home or History for a violent Contest instead of Hurt as usual. This attack is potentially lethal to your target if you win, and you may sustain injuries if you lose. Then this ability cannot be activated again until you spend ④ to recharge it.
-
-**Blessed by Self-Acceptance:** While you are Uncool, you may roll Checks using a different Basic Stat than normal. Then once a Check succeed this way, you are no longer Uncool.
-
-**Blessed by Charity:** When you visit a place of religious or spiritual importance, you may spend any number of ① as a donation or act of service to the place. The more spent this way, the greater a possible later boon may be, determined by the DM.
-
-**Mercurial Blessing:** When you fail a Check or lose a Contest by more than $5$, gain $1$ Blessing.
-
-**Cursed Blessing:** Up to once per scene, when another character succeeds a Check or wins a Contest, you may modify that character’s result by $-3$, possibly turning their success into a failure or win into a loss. Then this ability cannot be activated again until you spend ⑤ to recharge it.
-
-**Medically Insured:** When a character fails a Check or loses a Contest to tend to your wounds, that character may turn the failure into a success or the loss into a win. Then this ability cannot be activated again until you spend ①①① to recharge it, and when it is recharged, increase the cost to recharge it by ①①.
 
 **Focused Determination:** Each time you bump your dice, increase the result of the roll by an additional $+1$.
 
@@ -161,19 +131,49 @@ Characters in this game have a set of Abilities that grant them certain actions 
 
 **Licensed Driver:** Whenever you fail a Check or lose a Contest while transporting others, protect yourself for $+3$.
 
-**Sharp Skin:** When you lose a violent Contest at a close distance, you may have your Attackers receive a less severe version of the same injury you received from losing the Contest. Then this ability cannot be activated again until you spend ② to recharge it.
-
-**Sharp Wits:** Up to once per scene, when you lose a non-violent Contest against a single Attacker, you may have the Attacker receive a less severe version of the same effect you received from losing the Contest. Then this ability cannot be activated again until you spend ② to recharge it.
-
 **Optimal Solution:** Up to twice per session, when you or a nearby ally attempt a roll for a non-violent Check or Contest, you may roll $4d6$. Group those dice into two piles of two dice such that a simple operation (addition or multiplication) could be performed to each pile so that the two operations' result would be equal; for example, if you rolled $1$, $1$, $1$, and $2$, you could group the piles such that $1×2=1+1$. If you are able to arrange the $4d6$ in such a way, you or your ally increases the result of their attempted roll by $+5$.
 
 **Synchronized Spark:** You may perform a Spark Stat Check using one of your Stats and one of the Stats of another willing character in the scene, so long as the chosen Stats are balanced and both characters have this ability.
 
-**Ascendant Spark:** You may perform a non-violent Spark Stat Check using three Stats instead of two, so long as those Stats each use a $d8$ or larger. Then this ability cannot be activated again until you spend ④ to recharge it.
+**Ascendant Spark:** You may perform a non-violent Spark Stat Check using three Stats instead of two, so long as those Stats each use a $d8$ or larger.
 
 **Advanced Training:** Increase the result of your rolls using a $d8$ or larger by $+1$.
 
 **Ease of Focus:** Your rolls using a $d8$ or larger also bump when you roll a $2$ on the die.
+
+**Radical Self-Acceptance:** While you are Uncool, you may roll Checks using a different Basic Stat than normal. Then once a Check succeed this way, you are no longer Uncool.
+
+**Blessed by Luck:** When you fail a Check, you may attempt the Check again, using the newer result instead. Then this ability cannot be activated again until you spend ⑤ to recharge it.
+
+!!! note "Effect Wording: Spend Ⓧ to Recharge"
+    Some abilities, once activated, cannot be activated again until they have been "recharged" by spending Ⓧ from your pool of Blessing Dice.
+
+**Blessed by Circumstance:** During a Contest involving three or more characters, you may swap the results of two characters’ rolls. Then this ability cannot be activated again until you spend ⑤ to recharge it.
+
+**Blessed by Self-Sacrifice:** During a Chase involving three or more characters, you may reduce the result of your own roll to $0$. Then this ability cannot be activated again until you spend ② to recharge it.
+
+**Blessed by Voices:** You may learn more about a character, place, or fact than would normally be possible, and this knowledge may come with consequences. Then this ability cannot be activated again until you spend ④ to recharge it.
+
+**Blessed by Family:** You may attack recklessly, using Home or History for a violent Contest instead of Hurt as usual. This attack is potentially lethal to your target if you win, and you may sustain injuries if you lose. Then this ability cannot be activated again until you spend ④ to recharge it.
+
+**Blessed by Charity:** When you visit a place of religious or spiritual importance, you may spend any number of ① as a donation or act of service to the place. The more spent this way, the greater a possible later boon may be, determined by the DM.
+
+**Blessed by Sharp Skin:** When you lose a violent Contest at a close distance, you may have your Attackers receive a less severe version of the same injury you received from losing the Contest. Then this ability cannot be activated again until you spend ③ to recharge it.
+
+**Blessed by Sharp Wits:** When you lose a non-violent Contest against a single Attacker, you may have the Attacker receive a less severe version of the same effect you received from losing the Contest. Then this ability cannot be activated again until you spend ③ to recharge it.
+
+**Blessed by Steadfastness:** When you fail a Check or lose a Contest by more than $5$, gain a Blessing.
+
+**Blessed by Disruption:** When another character succeeds a Check or wins a Contest, you may modify that character’s result by $-3$, possibly turning their success into a failure or win into a loss. Then this ability cannot be activated again until you spend ⑤ to recharge it.
+
+**Blessed by Insurance:** When a character fails a Check or loses a Contest to tend to your wounds, that character may turn the failure into a success or the loss into a win. Then this ability cannot be activated again until you spend ①①① to recharge it, and when it is recharged, increase the cost to recharge it by ①①.
+
+!!! compat "Session Shop: Abilities"
+    At the end of a session, you may:
+
+    - spend ③③③ to gain your third Ability
+    - spend ④④④ to gain your fourth Ability
+    - spend ⑤⑤⑤ to gain your fifth Ability by creating one of your own and gaining it, within reason
 
 !!! details "DM Note: Replacing Abilities"
     Mechanically, there is no way for a character to lose or replace a Ability. However, you and your player may feel it is narratively appropriate to reflect their character's growth in response to powerful story events. How you rule the change of Abilities is up to you, as the best approach can vary from story to story.
@@ -240,18 +240,28 @@ When a character is surprised by a threat, their first roll in response to it ca
 
 Characters in this game each have a pool of Blessing Dice, representing a pool of resources they can draw upon to recharge their abilities and help their friends.
 
-The first time each session when you succeed a Check or win a Contest by $5$, gain $3$ Blessings. The DM may award you Blessings for other achievements, at their own discretion.
+The first time each session when you succeed a Check or win a Contest by $5$ or more, gain $3$ Blessing Dice. The DM may also award you Blessing Dice for other achievements.
 
-When you gain a Blessing, roll a $d6$ then add that die to your pool of Blessing Dice. If you roll a $1$ on the die, gain an additional Blessing. As long as you continue to roll a $1$ on the die, you continue to gain an additional Blessing.
+When you gain a Blessing Die, roll a $d6$ then add that die to your pool of Blessing Dice. If you roll a $1$ on the die, gain an additional Blessing Die. As long as you continue to roll a $1$ on the die, you continue to gain an additional Blessing Die.
 
-!!! details "DM Note: When to Award Blessings"
-    Mechanically, players may earn Blessings by acting as their Hero would. However, you as a DM should award them Blessings consistently and throughout each session, as many characters’ abilities depend on them.
+!!! warning "Rules Note: Blessing Dice do not Group"
+    If you gain multiple Blessing Dice from a single effect, gain each of those dice separately. They do not form a group for the purposes of bumping.
 
-    However, what this looks like can vary per DM, per table, or per scene.
+!!! details "DM Note: When to Award Blessing Dice"
+    Mechanically, players may earn Blessing Dice by rolling high once per session. However, you as a DM should award them Blessing Dice consistently and throughout each session, as many characters’ abilities depend on them.
 
-    Some DMs may prefer a “fail forward” approach like in *Kids on Bikes*, where Blessings are given whenever a player fails a check. Others may prefer a "natural" approach like in *Dungeons and Dragons*, where they award them when the players roll some lucky number before modifiers, like $8$ or the highest value on their die. Others still may prefer to award them when the players engage in cool roleplay, when they solve puzzles or complete quests, as a fixed supply at the start of each session or arc, or so on. And having the source of Blessings suddenly dry up in grittier parts of the story can be a *very* effective way to put the pressure on.
+    What this looks like can vary per DM, per table, or per scene.
 
-    The way you award Blessings is one of the most powerful tools in your toolbelt as a DM in this game! Use it well!
+    Some DMs may prefer a “fail forward” approach like in *Kids on Bikes*, where Blessing Dice are given whenever a player fails a check. Others may prefer a "natural" approach like in *Dungeons and Dragons*, where they award them when the players roll the highest value on their die. Others still may prefer to award them when the players engage in cool roleplay, when they solve puzzles or complete quests, as a fixed supply at the start of each session or arc, or so on. And having the source of Blessing Dice suddenly dry up in grittier parts of the story can be a *very* effective way to put the pressure on.
+
+    The way you award Blessing Dice is one of the most powerful tools in your toolbelt as a DM in this game! Use it well!
+
+    All this being said, we recommend new DMs to this game use the following:
+
+    - Award $3$ Blessing Dice the first time the player succeeds a Check or wins a Contest by $5$ or more
+    - Award a Blessing Die for good role play and creative solutions
+    - Award a Blessing Die each time the player rolls the "lucky number" for the session. To determine the lucky number, at the start of each session, roll two $d10$ and use the higher value as the lucky number for the session. If a $1$ is rolled on both die this way, then there is no lucky number for the session, as it is impossible to score lower than a $2$ on rolls in this game
+    - Award a number of Blessing Dice at the end of sessions where players completed important milestones in the story
 
 ### Helping
 
@@ -277,29 +287,25 @@ While you are Uncool, all rolls you make are modified by $-1$. Once during each 
 A non-violent Contest is when a character performs an action against another character’s will using any Stat besides Hurt. To perform a non-violent Contest, first the Attacker rolls as though performing the appropriate Stat Check, then the Defender rolls as though performing a Stat Check using the same Stat as the Attacker. The action’s effect is only successful if the Attacker rolls higher than the Defender. The severity of the effect is determined by the difference between their scores. If the Attacker uses a Spark Stat Check, then the Defender may roll a Spark Stat Check using the same Stats, or a Stat Check using either of the Stats used in the Attacker's Spark Stat Check.
 
 !!! details "DM Note: Severity of Non-violent Effects"
-    A difference less than $5$ on a nonviolent Contest represents a minor effect or the Attacker getting what they wanted, within reason, and with complications. Any advantage the Attacker gains is temporary.
-    
-    A difference of at least $5$ but less than $10$ represents a medium effect or a lack of complications. Any advantage the Attacker gains lasts for several rolls by or against the Defender.
-    
-    And a difference of $10$ or more represents a major effect than can change the narrative arc of the session or even campaign.
+    - Minor Effect: A difference less than $5$ on a nonviolent Contest represents a minor effect or the Attacker getting what they wanted, within reason, and with complications. Any advantage the Attacker gains is temporary.
+    - Medium Effect: A difference of at least $5$ but less than $10$ represents a medium effect or a lack of complications. Any advantage the Attacker gains lasts for several rolls by or against the Defender.
+    - Major Effect: A difference of $10$ or more represents a major effect than can change the narrative arc of the session or even campaign.
 
 A violent Contest is when an Attacker performs an action against another character’s will using their Hurt Stat. All Contests involving Hurt are potentially deadly. Unexpected things can happen and things can get out of hand quickly.
 
 To perform a violent Contest, the Attacker first rolls as though performing a Hurt Stat Check or Spark Stat Check that involves Hurt, then the Defender rolls as though performing a Hurry Stat Check or Spark Stat Check that involves Hurry, representing their immediate instinctive reaction in the scene. If the Attacker rolls higher, then the Defender could be bruised, dazed, concussed, in need of immediate medical attention, or even dead. The amount that the Attacker rolled higher than the Defender determines the extent of the injury—regardless if that was what the Attacker intended. If the Defender rolls the same or higher number than the Attacker, then no injury occurs.
 
 !!! details "DM Note: Severity of Violent Effects"
-    As with nonviolent Contests, a difference less than $5$ represents a minor wound that grants the Attacker only a temporary advantage.
-    
-    A difference at least $5$ but less than $10$ represents a wound that will need medical attention, possibly changing the narrative arc of the session to treat it, granting lasting effects if not treated successfully and in a timely manner.
-    
-    And a difference of $10$ or more on a violent Contest represents immediate death or grave injuries to the Defender needing immediate attention or a miracle.
-
-If both characters are attacking one another at the same time, then each character first rolls as Attackers, narrating how they attack, then they each roll as Defenders, narrating how they respond. Injuries are then determined as usual.
+    - Minor Effect: As with nonviolent Contests, a difference less than $5$ represents a minor wound that grants the Attacker only a temporary advantage.
+    - Medium Effect: A difference at least $5$ but less than $10$ represents a wound that will need medical attention, possibly changing the narrative arc of the session to treat it, granting lasting effects if not treated successfully and in a timely manner.
+    - Major Effect: A difference of $10$ or more on a violent Contest represents immediate death or grave injuries to the Defender needing immediate attention or a miracle.
 
 If the violence continues past this initial Contest, then the Attackers may choose to change tactics, such as performing a non-violent Contest to shift subsequent rounds in their favor. Additionally, Defenders may choose to respond to these attacks with a greater range of options, such as outwitting (Head), calling on honor (Hand), destroying a part of the environment (Hand), calling for a truce (Heart), or repositioning oneself (Head or Home).
 
+And for both violent and non-violent Contests, if both characters are attacking one another at the same time, then each character first rolls as Attackers, narrating how they attack, then they each roll as Defenders, narrating how they respond. Effects are then determined as usual.
+
 !!! warning "Rules Note: Checks vs. Contests"
-    Checks use the terms “fail” and “succeed,” while Contests use “lose” and “win” instead. When an effect only mentions failing or succeeding Checks, it does not affect losing or winning Contests. And when an effect only mentions losing or winning Contests, it does not affect failing or succeeding Checks. A Contest itself is not a Check, though it does involve a series of rolls similar to Checks made against one another. For example, Blessed by Luck allows you to turn a failed Check into a success. However, it does not allow you to turn a lost Contest into a win. The Uncool conditiom on the other hand does affect Contests, because it modifies the results of rolls performed, without mentioning success, failure, win, or loss directly.
+    Checks use the terms “fail” and “succeed,” while Contests use “lose” and “win” instead. When an effect only mentions failing or succeeding Checks, it does not affect losing or winning Contests. And when an effect only mentions losing or winning Contests, it does not affect failing or succeeding Checks. A Contest itself is not a Check, though it does involve a series of rolls similar to Checks made against one another. For example, Blessed by Luck allows you to turn a failed Check into a success. However, it does not allow you to turn a lost Contest into a win. The Uncool conditiom on the other hand does affect both Checks and Contests, because it modifies the results of rolls performed, without mentioning success, failure, win, or loss directly.
 
 ### Group Contests
 
@@ -319,8 +325,8 @@ Chases are carried out as a number of rounds in which the characters perform Con
 
 To perform a Chase:
 
-1. **Setup:** Place a token representing each character involved in the Chase on a number line, starting at position $0$. Then, the DM describes the winning and losing conditions of the Chase, such as being the first to reach at least space $20$ at the end of a round, to have moved the furthest at the end of $3$ rounds, or so on.
-2. **Gaining the Advantage:** At the top of each round, the characters perform a Contest representing their movement, using Hand, Hurry, Hurt (if pursuing others violently), or another Stat as appropriate. Then, only the character who rolled the highest moves forward on the number line. The severity of the amount they rolled higher than the lowest roll of the Contest determines the number of spaces moved, either $2$, $3$, or $5$ spaces.
-3. **Responding:** Starting with the characters who rolled the lowest at the start of the round, characters may perform a Contest against their opponents involved in the Chase. For each Contest, everyone except the losing side of the Contest moves forward, and the severity of the amount the winning side won by determines the number of spaces moved, either $1$, $2$, or $3$ spaces. A character can only be involved in a single Contest this way, regardless if they are involved as an Attacker or Defender.
+1. **Setup:** Place a token representing each character involved in the Chase on a number line, starting at position $0$. Then, the DM describes the winning and losing conditions of the Chase, such as being the first to reach at least space $20$ at the end of a round, to have moved the furthest at the end of $3$ rounds, to be the last one standing by avoiding environmental hazards, or so on or some combination of conditions.
+2. **Gaining the Advantage:** At the top of each round, the characters perform a Contest representing their movement, using the most appropriate Stat for the situation: Hand, Hurry, Hurt (if pursuing others violently), or another Stat. Then, only the character who rolled the highest moves forward on the number line. The severity of the amount they rolled higher than the lowest roll of the Contest determines the number of spaces moved, moving $2$ spaces for a Minor Effect, $3$ for a Medium Effect, or $5$ for a Major Effect.
+3. **Responding:** Starting with the characters who rolled the lowest at the start of the round, characters may perform Contests against their opponents involved in the Chase. For each Contest, everyone except the losing side of the Contest moves forward, and the severity of the amount the winning side won by determines the number of spaces moved, moving $1$ space for a Minor Effect, $2$ for a Medium Effect, or $3$ for a Major Effect. A character can only be involved in a single Contest this way, regardless if they are involved as an Attacker or Defender.
 4. **Hazards:** At the end of the round, the DM may describe an environmental hazard that could affect all or some of the leading characters involved the Chase, asking them to perform a Check to avoid the effects.
 5. Repeat rounds until the Chase has been won.
