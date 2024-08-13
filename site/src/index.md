@@ -158,6 +158,15 @@ Characters in this game have a set of Abilities that grant them certain actions 
 
 **Blessed by Charity:** When you visit a place of religious or spiritual importance, you may spend any number of ① as a donation or act of service to the place. The more spent this way, the greater a possible later boon may be, determined by the DM.
 
+!!! details "DM Note: Blessed by Charity's Boon"
+    How you rule the boon given by the "Blessed by Charity" ability may vary by session, setting, scene, or even be determined in the moment when the players need it most.
+
+    However, some ideas are:
+
+    - Create a tiered scale ahead of time, where the player unlocks different tiers of a boon as more Blessing Dice are donated. This is the simplest option, but requires prior planning creating the tiered scale.
+    - Grant the player a $+2$ bonus to a roll in their time of need for each Blessing Dice donated. This is the simplest option presented here, and depending on the situation may feel satisfying or underwhelming.
+    - Grant the player a $+X$ bonus to a roll in their time of need, where $X$ is the number of Blessing Dice donated. Then, have them roll $Xd6$; if they roll a $1$ on any of those dice, they gain the $+X$ bonus again and repeat this step. This option likely guarantees success on a vital roll, requires no prior planning, and can feel satisfyingly chaotic.
+
 **Blessed by Thorns:** When you lose a violent Contest at a close distance, you may have your Attackers receive a less severe version of the same injury you received from losing the Contest. Then this ability cannot be activated again until you spend ③ to recharge it.
 
 **Blessed by Wits:** When you lose a non-violent Contest against a single Attacker, you may have the Attacker receive a less severe version of the same effect you received from losing the Contest. Then this ability cannot be activated again until you spend ③ to recharge it.
