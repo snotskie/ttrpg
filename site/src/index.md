@@ -15,7 +15,9 @@
 Each character in this game has seven Basic Stats, represented by the "seven H’s" described below. Together, these Basic Stats describe a character's general capabilities at wide ranges of tasks and situations.
 
 !!! tip "Character Creation: Step One!"
-    Your first task is to decide which Stats your character is best (and worst) at! Rank your "seven H's" from the one your character is most capable at to least capable at. As you do, begin to think about the story your character takes on in your mind. Why are they good at this and not at that? Why is one important to them and not the other?
+    Your first task is to decide which Stats your character is best (and worst) at! Rank your "seven H's" for your character: What are they most capable at? least capable at? just middly capable at?
+    
+    As you do, begin to think about the story your character takes on in your mind. Why are they good at this and not at that? Why is one important to them and not the other? What are they trying to improve? What do they like getting help from others on?
 
 **🧠 Head:** Intellectual pursuits, problem solving, puzzles, riddles, scanning for information, recalling facts, insight, reasoning, operating and building complex machines, playing practiced music
 
@@ -29,16 +31,25 @@ Each character in this game has seven Basic Stats, represented by the "seven H�
 
 **⚠️ Hurry:** Escaping danger, reacting by instinct, surges of adrenaline
 
-**⏳ History:** Other aspects covered by your character's backstory and the history of their people not covered by the Basic Stats above
+**⏳ History:** Other aspects covered by your character's backstory and the history of their people, not covered by or more specific than the Basic Stats above
 
 When you begin the game, all of your Basic Stats are equal, each using a $d4$ for their Basic Stat Checks. These can be upgraded in the [Session Shop](#Session-Shop).
 
-## Lifestyle and History
+!!! details "DM Note: Creating Other Stats"
+    For your campaign setting, you may find it helpful to create a new Stat for your players, such as a "Hex" Stat to represent proficiency with wands, potions, and other magical instruments, lore, and knowledge. However, before you do, if you want to create a new Stat, it must:
 
-Each character in this game has one of three Lifestyles, described below. A character's Lifestyle represents their general background and goals, and can change over the course of the story. These can be changed in the [Session Shop](#Session-Shop).
+    - Not already be covered by the first six Stats: Head, Hand, Heart, Home, Hurt, Hurry. Otherwise, you risk increasing the number of confusing moments of when one Stat applies over the other, and you risk spreading the players' resources too thin when they go to upgrade their Stats.
+    - And be something *all* players would want to upgrade. Otherwise, it would be simpler to cover this "Stat" with History and let the players decide who will specialize in it and who will not.
+    - And be the only new Stat you have added to your game. Otherwise, you risk creating a situation where players each have a large number of Stats that go relatively unused.
+
+    Finally, Stats you create do not need to start with the letter "H" (though, big kudos if you can keep the alliteration going!).
+
+## Lifestyle
+
+Each character in this game has one of three Lifestyles, described below. A character's Lifestyle represents their general background and goals, and can change over the course of the story.
 
 !!! tip "Character Creation: Step Two!"
-    Begin to describe the Lifestyle your character had growing up or their current outlook on life. As you do, pick one of the following Lifestyles to start the game with.
+    Begin to describe the Lifestyle your character had growing up or their current outlook on life. As you do, pick one of the following Lifestyles to start the game with. These can be changed in the [Session Shop](#Session-Shop).
 
 **🍀 Carefree:** Your character lives a relatively carefree life, perhaps because of your young age, wealthy upbringing, or optimistic demeanor. Upgrading your Heart and Hurry dice cost ① less each time.
 
@@ -46,10 +57,12 @@ Each character in this game has one of three Lifestyles, described below. A char
 
 **🧘‍♀️ Wisened:** Life has not been easy on your character, but as a result you’ve come out wiser and tougher, perhaps because you’ve gotten older, been shaped by unfortunate events, or dedicated yourself to your work. Upgrading your Hand and Home dice cost ① less each time.
 
-Moreover, each character has a History Basic Stat, which is used to perform actions more related to the character's backstory more than to the other Basic Stats.
+## History
+
+Each character has a History Basic Stat, which is used to perform actions more related to the character's backstory more than to the other Basic Stats. And even though every character has a History Basic Stat, what their History covers is unique to them and only them!
 
 !!! tip "Character Creation: Step Three!"
-    Begin to describe your character's backstory. Answer the following prompts, or others given to you by your DM. These background details will help build the story and set the scope of what your History Stat Checks cover when other Basic Stats don't apply.
+    Begin to describe your character's backstory. Answer the following prompts, or others given to you by your DM. These background details will help build the story and set the scope of what your History Stat Checks cover.
     
     - Describe who your character looks up to, whose work they strive to emulate, who taught them everything they know, or so on. What would it look like to make their Hero happy? upset? What is their connection to their Hero, and what is their Hero up to in the world now?
     - List three specific skills that your character has proven their ability in, such as through schooling, study, training, specialization within their team, or so on.
@@ -71,15 +84,6 @@ Moreover, each character has a History Basic Stat, which is used to perform acti
     - Unfriendly Interactions with the Rebels (for someone raised in the Empire)
 
     Consider what *unique* skills, proficiencies, traits, and backstory elements each character brings to the story.
-
-!!! details "DM Note: Creating Other Stats"
-    For your campaign setting, you may find it helpful to create a new Stat for your players, such as a "Hex" Stat to represent proficiency with wands, potions, and other magical instruments, lore, and knowledge. However, before you do, if you want to create a new Stat, it must:
-
-    - Not already be covered by the first six Stats: Head, Hand, Heart, Home, Hurt, Hurry. Otherwise, you risk increasing the number of confusing moments of when one Stat applies over the other, and you risk spreading the players' resources too thin when they go to upgrade their Stats.
-    - And be something *all* players would want to upgrade. Otherwise, it would be simpler to cover this "Stat" with History and let the players decide who will specialize in it and who will not.
-    - And be the only new Stat you have added to your game. Otherwise, you risk creating a situation where players each have a large number of Stats that go relatively unused.
-
-    Finally, Stats you create do not need to start with the letter "H" (though, big kudos if you can keep the alliteration going!).
 
 ## Abilities
 
@@ -376,6 +380,9 @@ While most effects help shape the narrative of the game, your DM may find it app
     Regardless of your starting Lifestyle, at the end of a session you may spend ①① to change your Lifestyle to Lost. Then, at the end of a later session you may spend ①①① to change your Lifestyle to any other option.
 
     **💎 Lost:** You feel a disconnect from your own past or former sense of self, perhaps because of an exile from your home, an erased memory, or a period of transition or deep self-reflection. When you have sparks, they take on an erratic or liminal aspect. Upgrading your History die costs ① less each time, and when you perform Spark Stat Checks using History it costs only ③ instead.
+
+!!! compat "History"
+    At the end of a session, you may spend ① to make a change or addition to the scope of your History Basic Stat, based on the events of the session. In any case, this scope may not have more than seven things listed.
 
 !!! compat "Abilities"
     At the end of a session, you may:
