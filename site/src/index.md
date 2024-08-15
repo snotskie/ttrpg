@@ -35,7 +35,7 @@ When you begin the game, all of your Basic Stats are equal, each using a $d4$ fo
 
 ## Lifestyle and History
 
-Each character in this game has one of three Lifestyles, described below. A character's Lifestyle represents their general background and goals, and can change over the course of the story.
+Each character in this game has one of three Lifestyles, described below. A character's Lifestyle represents their general background and goals, and can change over the course of the story. These can be changed in the [Session Shop](#Session-Shop).
 
 !!! tip "Character Creation: Step Two!"
     Begin to describe the Lifestyle your character had growing up or their current outlook on life. As you do, pick one of the following Lifestyles to start the game with.
@@ -64,7 +64,7 @@ Characters in this game have a set of Abilities that grant them certain actions 
 !!! tip "Character Creation: Step Four!"
     Begin to imagine the kind of character taking shape in your mind. Have you seen characters like them before in movies, TV shows, and books? Were they the bully in school? Do they get drawn into conspiracy theories? Are they so laid-back that others think they're a slacker? Are they beautiful and popular? Are they quiet and hardworking? Etc. Try to envision the tropes from your favorite fictional stories that your character takes after.
 
-    With that in mind, pick two of the following Abilities to start the game with.
+    With that in mind, pick two of the following Abilities to start the game with. You can gain additional Abilities in the [Session Shop](#Session-Shop).
 
 **Focused Determination:** Each time you bump your dice, increase the result of the roll by an additional $+1$.
 
@@ -139,6 +139,8 @@ Characters in this game have a set of Abilities that grant them certain actions 
     One suggestion is this: Whenever a player gains a new Ability, allow them the opportunity to also replace one of their existing Abilities.
 
 ## Items
+
+There is not a list of items to choose from in this game. Instead, items in this game are narrative and help shape the course of the story. Each character has a list of items they typically carry with them, and other items they may have with them can be determined in the moment.
 
 !!! tip "Character Creation: Step Five!"
     List three items that your character never leaves home without, within reason. These will be the items you start the game with.
@@ -312,6 +314,7 @@ While most effects help shape the narrative of the game, your DM may find it app
 - **Distracted:** Rolls you make do not bump. This condition ends when you remove its cause.
 - **Disarmed:** If you would win a violent Contest as the Attacker by $10$ or more, you win by $9$ instead. When you find a new weapon or take a moment to recompose yourself, this condition ends.
 - **Taxed:** You cannot perform Spark Stat Checks. Spending ①① ends this condition.
+- **Robbed:** You cannot perform Home Stat Checks to see if you came prepared with an item you do not already have listed. This condition ends when you spend time in a place where items could be restocked.
 
 ## Session Shop
 
