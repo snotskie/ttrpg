@@ -57,6 +57,30 @@ Moreover, each character has a History Basic Stat, which is used to perform acti
     - Describe where your character could be found on an average Tuesday afternoon before the action of the story gets underway.
     - If your game's setting has non-human characters and your character is one of them, also describe one or two simple actions, within reason, that characters of your non-human species can perform unaided that human characters can't.
 
+!!! details "DM Note: Scope of History Stat"
+    As you work with your players to develop their backstory, come up with a list of three to five specific actions for each player that describe what their History Stat covers. For example:
+
+    - Tying Knots (for a scout)
+    - Swordfighting (for a knight)
+    - Breathing Fire (for a dragonborn)
+    - Reading Legal Documents (for the child of a politician)
+    - Acting (for a theater kid)
+    - Manipulating Technology (for a hacker)
+    - Stunt Driving (for a stunt performer)
+    - Friendly Interactions with the Empire (for someone raised in the Empire)
+    - Unfriendly Interactions with the Rebels (for someone raised in the Empire)
+
+    Consider what *unique* skills, proficiencies, traits, and backstory elements each character brings to the story.
+
+!!! details "DM Note: Creating Other Stats"
+    For your campaign setting, you may find it helpful to create a new Stat for your players, such as a "Hex" Stat to represent proficiency with wands, potions, and other magical instruments, lore, and knowledge. However, before you do, if you want to create a new Stat, it must:
+
+    - Not already be covered by the first six Stats: Head, Hand, Heart, Home, Hurt, Hurry. Otherwise, you risk increasing the number of confusing moments of when one Stat applies over the other, and you risk spreading the players' resources too thin when they go to upgrade their Stats.
+    - And be something *all* players would want to upgrade. Otherwise, it would be simpler to cover this "Stat" with History and let the players decide who will specialize in it and who will not.
+    - And be the only new Stat you have added to your game. Otherwise, you risk creating a situation where players each have a large number of Stats that go relatively unused.
+
+    Finally, Stats you create do not need to start with the letter "H" (though, big kudos if you can keep the alliteration going!).
+
 ## Abilities
 
 Characters in this game have a set of Abilities that grant them certain actions or bonuses over the course of the game. These Abilities work together with characters' Stats, Lifestyle, and Backstory to make up their key defining traits.
