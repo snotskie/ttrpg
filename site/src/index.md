@@ -31,25 +31,7 @@ Each character in this game has seven Basic Stats, represented by the "seven H�
 
 **⏳ History:** Other aspects covered by your character's backstory and the history of their people not covered by the Basic Stats above
 
-When you begin the game, all of your Basic Stats are equal, each using a $d4$ for their Basic Stat Checks.
-
-!!! compat "Session Shop: Basic Stats"
-    At the end of a session, you may:
-
-    - spend ①① to upgrade a single Basic Stat's die from a $d4$ to a $d6$
-    - spend ①①① to upgrade a single Basic Stat's die from a $d6$ to a $d8$
-    - spend ①①①① to upgrade a single Basic Stat's die from a $d8$ to a $d10$
-    
-    For the Basic Stat you ranked the highest, upgrading its die costs ① less each time. However, for the Basic Stat you ranked the lowest, upgrading its die costs ① more each time.
-
-!!! note "Effect Wording: Spend Ⓧ"
-    Some actions can only be performed by first "spending" Ⓧ from your pool of Blessing Dice.
-
-    The notation ① represents a single die from your pool of Blessing Dice worth $1$ or more. The notation ② represents a single die from your pool of Blessing Dice worth $2$ or more. And so on.
-
-    The notation ①① represents two dice from your pool of Blessing Dice, each worth $1$ or more.
-
-    When a Blessing Die is spent, it is removed from your pool of Blessing Dice.
+When you begin the game, all of your Basic Stats are equal, each using a $d4$ for their Basic Stat Checks. These can be upgraded in the [Session Shop](#Session-Shop).
 
 ## Lifestyle and History
 
@@ -63,32 +45,6 @@ Each character in this game has one of three Lifestyles, described below. A char
 **🔥 Eager:** Your character is eager for more out of life, perhaps because of a teenage rebellious phase, a yearning to accomplish your dreams, or a person you want to impress. Upgrading your Hand and Hurt dice cost ① less each time.
 
 **🧘‍♀️ Wisened:** Life has not been easy on your character, but as a result you’ve come out wiser and tougher, perhaps because you’ve gotten older, been shaped by unfortunate events, or dedicated yourself to your work. Upgrading your Hand and Home dice cost ① less each time.
-
-!!! compat "Session Shop: Carefree"
-    If your starting Lifestyle was Carefree, at the end of a session you may spend ①①①① to change your Lifestyle to Prodigious or Crafty.
-    
-    **🔮 Prodigious:** Your studies have come effortlessly to you, and secrets almost seem to just reveal themselves to you. When you have sparks, they take on a sorcerous or uninhibited aspect. Upgrading your Head and Hurt dice cost ① less each time, and when you perform Spark Stat Checks using either of these Stats it costs only ③ instead. You also gain the "Blessed by Voices" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
-
-    **🧶 Crafty:** You can envision amazing designs and, it seems, to bring them to life. When you have sparks, they take on an autonomous or lucky aspect. Upgrading your Hand and Home dice cost ① less each time, and when you perform Spark Stat Checks using either of these Stats it costs only ③ instead. You also gain the "Efficiently Packed" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
-
-!!! compat "Session Shop: Eager"
-    If your starting Lifestyle was Eager, at the end of a session you may spend ①①①① to change your Lifestyle to Chosen or Wired.
-
-    **✨ Chosen:** You draw inspiration from the community around you, setting out on your journeys blessed, favored, or cursed. When you have sparks, they take on a divine or noble aspect. Upgrading your Heart and Home dice cost ① less each time, and when you perform Spark Stat Checks using either of these Stats it costs only ③ instead. You also gain the "Blessed by Charity" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
-
-    **⚡ Wired:** Your mind is quick and analytical, and you can see solutions to problems that are unimaginably complex. When you have sparks, they take on a calculating or duplicative aspect. Upgrading your Head and Hurry dice cost ① less each time, and when you perform Spark Stat Checks using either of these Stats it costs only ③ instead. You also gain the "Ease of Focus" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
-
-!!! compat "Session Shop: Wisened"
-    If your starting Lifestyle was Wisened, at the end of a session you may spend ①①①① to change your Lifestyle to Warry or Compelling.
-
-    **👁️ Warry:** You are one with the natural and supernatural worlds around you, and you have a keen sense of danger and safety. When you have sparks, they take on an astral or prophetic aspect. Upgrading your Hand and Hurry dice cost ① less each time, and when you perform Spark Stat Checks using either of these Stats it costs only ③ instead. You also gain the "Past Repeated" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
-
-    **👄 Compelling:** You seem able to spin any loss into a win--or vice versa--, and you are a sly, tactical force to be reckoned with. When you have sparks, they take on an illusory or vicious aspect. Upgrading your Heart and Hurt dice cost ① less each time, and when you perform Spark Stat Checks using either of these Stats it costs only ③ instead. You also gain the "Tactful Speech" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
-
-!!! compat "Session Shop: Lost"
-    Regardless of your starting Lifestyle, at the end of a session you may spend ①① to change your Lifestyle to Lost. Then, at the end of a later session you may spend ①①① to change your Lifestyle to any other option.
-
-    **💎 Lost:** You feel a disconnect from your own past or former sense of self, perhaps because of an exile from your home, an erased memory, or a period of transition or deep self-reflection. When you have sparks, they take on an erratic or liminal aspect. Upgrading your History die costs ① less each time, and when you perform Spark Stat Checks using History it costs only ③ instead.
 
 Moreover, each character has a History Basic Stat, which is used to perform actions more related to the character's backstory more than to the other Basic Stats.
 
@@ -177,24 +133,15 @@ Characters in this game have a set of Abilities that grant them certain actions 
 
 **Blessed by Insurance:** When a character fails a Check or loses a Contest to tend to your wounds, that character may turn the failure into a success or the loss into a win. Then this ability cannot be activated again until you spend ①①① to recharge it, and when it is recharged, increase the cost to recharge it by ①①.
 
-!!! compat "Session Shop: Abilities"
-    At the end of a session, you may:
-
-    - spend ③③③ to gain your third Ability
-    - spend ④④④ to gain your fourth Ability
-    - spend ⑤⑤⑤ to gain your fifth Ability by creating one of your own and gaining it, within reason
-
 !!! details "DM Note: Replacing Abilities"
     Mechanically, there is no way for a character to lose or replace a Ability. However, you and your player may feel it is narratively appropriate to reflect their character's growth in response to powerful story events. How you rule the change of Abilities is up to you, as the best approach can vary from story to story.
     
-    However, a suggestion is this: Whenever a player gains a new Ability, allow them the opportunity to also replace one of their existing Abilities.
+    One suggestion is this: Whenever a player gains a new Ability, allow them the opportunity to also replace one of their existing Abilities.
 
 ## Items
 
 !!! tip "Character Creation: Step Five!"
     List three items that your character never leaves home without, within reason. These will be the items you start the game with.
-
-When you need an item your character does not already have listed, it could still be narratively reasonable for your character to have that item on them anyway. Once per scene, to see if your character came prepared with just the item you need, within reason, spend ① and perform a Home Stat Check. If you roll equal to or greater than twice the number of items you have listed, then the Check succeeds and you may add the item to your list. Otherwise, the Check fails and you may not perform another Home Stat Check this way this session.
 
 ## Playing the Game
 
@@ -273,9 +220,21 @@ When you gain a Blessing Die, roll a $d6$ then add that die to your pool of Bles
     - Award a Blessing Die each time the player rolls the "lucky number" for the session. To determine the lucky number, at the start of each session, roll two $d10$ and use the higher value as the lucky number for the session. If a $1$ is rolled on both die this way, then there is no lucky number for the session, as it is impossible to score lower than a $2$ on rolls in this game
     - Award a number of Blessing Dice at the end of sessions where players completed important milestones in the story
 
+Some actions can only be performed by first "spending" some number of dice from your pool of Blessing Dice each worth some value or more.
+
+The notation ① represents a single die from your pool of Blessing Dice worth $1$ or more. The notation ② represents a single die from your pool of Blessing Dice worth $2$ or more. And so on.
+
+The notation ①① represents two dice from your pool of Blessing Dice, each worth $1$ or more. The notation ②② represents two dice from your pool of Blessing Dice, each worth $2$ or more. And so on.
+
+When a Blessing Die is spent, it is removed from your pool of Blessing Dice.
+
 ### Helping
 
 Once per roll, whether your own or another character’s, you may spend any number of ① to increase the result of that roll by $+1$ for each ① spent. You may only spend ① to help other characters this way if your character is near enough to them to reasonably help with the action.
+
+### Coming Prepared
+
+When you need an item your character does not already have listed, it could still be narratively reasonable for your character to have that item on them anyway. Once per scene, to see if your character came prepared with just the item you need, within reason, spend ① and perform a Home Stat Check. If you roll equal to or greater than twice the number of items you have listed, then the Check succeeds and you may add the item to your list. Otherwise, the Check fails and you may not perform another Home Stat Check this way this session.
 
 ### Coolness
 
@@ -315,7 +274,7 @@ If the violence continues past this initial Contest, then the Attackers may choo
 And for both violent and non-violent Contests, if both characters are attacking one another at the same time, then each character first rolls as Attackers, narrating how they attack, then they each roll as Defenders, narrating how they respond. Effects are then determined as usual.
 
 !!! warning "Rules Note: Checks vs. Contests"
-    Checks use the terms “fail” and “succeed,” while Contests use “lose” and “win” instead. When an effect only mentions failing or succeeding Checks, it does not affect losing or winning Contests. And when an effect only mentions losing or winning Contests, it does not affect failing or succeeding Checks. A Contest itself is not a Check, though it does involve a series of rolls similar to Checks made against one another. For example, Blessed by Luck allows you to turn a failed Check into a success. However, it does not allow you to turn a lost Contest into a win. The Uncool conditiom on the other hand does affect both Checks and Contests, because it modifies the results of rolls performed, without mentioning success, failure, win, or loss directly.
+    Checks use the terms “fail” and “succeed,” while Contests use “lose” and “win” instead. When an effect only mentions failing or succeeding Checks, it does not affect losing or winning Contests. And when an effect only mentions losing or winning Contests, it does not affect failing or succeeding Checks. A Contest itself is not a Check, though it does involve a series of rolls similar to Checks made against one another. For example, Blessed by Luck allows you to turn a failed Check into a success. However, it does not allow you to turn a lost Contest into a win. The Uncool condition on the other hand does affect both Checks and Contests, because it modifies the results of rolls performed, without mentioning success, failure, win, or loss directly.
 
 ### Group Contests
 
@@ -353,3 +312,47 @@ While most effects help shape the narrative of the game, your DM may find it app
 - **Distracted:** Rolls you make do not bump. This condition ends when you remove its cause.
 - **Disarmed:** If you would win a violent Contest as the Attacker by $10$ or more, you win by $9$ instead. When you find a new weapon or take a moment to recompose yourself, this condition ends.
 - **Taxed:** You cannot perform Spark Stat Checks. Spending ①① ends this condition.
+
+## Session Shop
+
+!!! compat "Basic Stats"
+    At the end of a session, you may:
+
+    - spend ①① to upgrade a single Basic Stat's die from a $d4$ to a $d6$
+    - spend ①①① to upgrade a single Basic Stat's die from a $d6$ to a $d8$
+    - spend ①①①① to upgrade a single Basic Stat's die from a $d8$ to a $d10$
+    
+    For the Basic Stat you ranked the highest, upgrading its die costs ① less each time. However, for the Basic Stat you ranked the lowest, upgrading its die costs ① more each time.
+
+!!! compat "Carefree"
+    If your starting Lifestyle was Carefree, at the end of a session you may spend ①①①① to change your Lifestyle to Prodigious or Crafty.
+    
+    **🔮 Prodigious:** Your studies have come effortlessly to you, and secrets almost seem to just reveal themselves to you. When you have sparks, they take on a sorcerous or uninhibited aspect. Upgrading your Head and Hurt dice cost ① less each time, and when you perform Spark Stat Checks using either of these Stats it costs only ③ instead. You also gain the "Blessed by Voices" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
+
+    **🧶 Crafty:** You can envision amazing designs and, it seems, to bring them to life. When you have sparks, they take on an autonomous or lucky aspect. Upgrading your Hand and Home dice cost ① less each time, and when you perform Spark Stat Checks using either of these Stats it costs only ③ instead. You also gain the "Efficiently Packed" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
+
+!!! compat "Eager"
+    If your starting Lifestyle was Eager, at the end of a session you may spend ①①①① to change your Lifestyle to Chosen or Wired.
+
+    **✨ Chosen:** You draw inspiration from the community around you, setting out on your journeys blessed, favored, or cursed. When you have sparks, they take on a divine or noble aspect. Upgrading your Heart and Home dice cost ① less each time, and when you perform Spark Stat Checks using either of these Stats it costs only ③ instead. You also gain the "Blessed by Charity" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
+
+    **⚡ Wired:** Your mind is quick and analytical, and you can see solutions to problems that are unimaginably complex. When you have sparks, they take on a calculating or duplicative aspect. Upgrading your Head and Hurry dice cost ① less each time, and when you perform Spark Stat Checks using either of these Stats it costs only ③ instead. You also gain the "Ease of Focus" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
+
+!!! compat "Wisened"
+    If your starting Lifestyle was Wisened, at the end of a session you may spend ①①①① to change your Lifestyle to Warry or Compelling.
+
+    **👁️ Warry:** You are one with the natural and supernatural worlds around you, and you have a keen sense of danger and safety. When you have sparks, they take on an astral or prophetic aspect. Upgrading your Hand and Hurry dice cost ① less each time, and when you perform Spark Stat Checks using either of these Stats it costs only ③ instead. You also gain the "Past Repeated" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
+
+    **👄 Compelling:** You seem able to spin any loss into a win--or vice versa--, and you are a sly, tactical force to be reckoned with. When you have sparks, they take on an illusory or vicious aspect. Upgrading your Heart and Hurt dice cost ① less each time, and when you perform Spark Stat Checks using either of these Stats it costs only ③ instead. You also gain the "Tactful Speech" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
+
+!!! compat "Lost"
+    Regardless of your starting Lifestyle, at the end of a session you may spend ①① to change your Lifestyle to Lost. Then, at the end of a later session you may spend ①①① to change your Lifestyle to any other option.
+
+    **💎 Lost:** You feel a disconnect from your own past or former sense of self, perhaps because of an exile from your home, an erased memory, or a period of transition or deep self-reflection. When you have sparks, they take on an erratic or liminal aspect. Upgrading your History die costs ① less each time, and when you perform Spark Stat Checks using History it costs only ③ instead.
+
+!!! compat "Abilities"
+    At the end of a session, you may:
+
+    - spend ③③③ to gain your third Ability
+    - spend ④④④ to gain your fourth Ability
+    - spend ⑤⑤⑤ to gain your fifth Ability by creating one of your own and gaining it, within reason
