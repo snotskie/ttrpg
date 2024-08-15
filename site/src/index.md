@@ -218,6 +218,12 @@ Any bonuses or effects that would apply to the balanced Stats used in the Spark 
 
 When you succeed on a Check or win a Contest by $5$ or more above the number you needed to reach, then something extra cool may happen. On the other hand, when you fail a Check or lose a Contest by $5$ or more, then something extra bad may happen. Failing or losing by $10$ or more can be disastrous.
 
+In general, there are three levels of severity to effects that result from rolls in this game:
+
+- **Minor Effect:** Winning, losing, succeeding, or failing by less than $5$
+- **Medium Effect:** Winning, losing, succeeding, or failing by at least $5$ but less than $10$
+- **Major Effect:** Winning, losing, succeeding, or failing by at least $10$
+
 ### Surprise Threat
 
 When a character is surprised by a threat, their first roll in response to it cannot bump and cannot be a Spark Stat Check.
@@ -286,25 +292,25 @@ While you are Uncool, all rolls you make are modified by $-1$. Once during each 
 A non-violent Contest is when a character performs an action against another character’s will using any Stat besides Hurt. To perform a non-violent Contest, first the Attacker rolls as though performing the appropriate Stat Check, then the Defender rolls as though performing a Stat Check using the same Stat as the Attacker. The action’s effect is only successful if the Attacker rolls higher than the Defender. The severity of the effect is determined by the difference between their scores. If the Attacker uses a Spark Stat Check, then the Defender may roll a Spark Stat Check using the same Stats, or a Stat Check using either of the Stats used in the Attacker's Spark Stat Check.
 
 !!! details "DM Note: Severity of Non-violent Effects"
-    - Minor Effect: A difference less than $5$ on a nonviolent Contest represents a minor effect or the Attacker getting what they wanted, within reason, and with complications. Any advantage the Attacker gains is temporary.
-    - Medium Effect: A difference of at least $5$ but less than $10$ represents a medium effect or a lack of complications. Any advantage the Attacker gains lasts for several rolls by or against the Defender.
-    - Major Effect: A difference of $10$ or more represents a major effect than can change the narrative arc of the session or even campaign.
+    - **Minor Effect:** A difference less than $5$ on a non-violent Contest represents a minor effect or the Attacker getting what they wanted, within reason, and with complications. Any advantage the Attacker gains is temporary.
+    - **Medium Effect:** A difference of at least $5$ but less than $10$ represents a medium effect or a lack of complications. Any advantage the Attacker gains lasts for several rolls by or against the Defender.
+    - **Major Effect:** A difference of $10$ or more represents a major effect than can change the narrative arc of the session or even campaign.
 
 A violent Contest is when an Attacker performs an action against another character’s will using their Hurt Stat. All Contests involving Hurt are potentially deadly. Unexpected things can happen and things can get out of hand quickly.
 
 To perform a violent Contest, the Attacker first rolls as though performing a Hurt Stat Check or Spark Stat Check that involves Hurt, then the Defender rolls as though performing a Hurry Stat Check or Spark Stat Check that involves Hurry, representing their immediate instinctive reaction in the scene. If the Attacker rolls higher, then the Defender could be bruised, dazed, concussed, in need of immediate medical attention, or even dead. The amount that the Attacker rolled higher than the Defender determines the extent of the injury—regardless if that was what the Attacker intended. If the Defender rolls the same or higher number than the Attacker, then no injury occurs.
 
 !!! details "DM Note: Severity of Violent Effects"
-    - Minor Effect: As with nonviolent Contests, a difference less than $5$ represents a minor wound that grants the Attacker only a temporary advantage.
-    - Medium Effect: A difference at least $5$ but less than $10$ represents a wound that will need medical attention, possibly changing the narrative arc of the session to treat it, granting lasting effects if not treated successfully and in a timely manner.
-    - Major Effect: A difference of $10$ or more on a violent Contest represents immediate death or grave injuries to the Defender needing immediate attention or a miracle.
+    - **Minor Effect:** As with nonviolent Contests, a difference less than $5$ represents a minor wound that grants the Attacker only a temporary advantage.
+    - **Medium Effect:** A difference at least $5$ but less than $10$ represents a wound that will need medical attention, possibly changing the narrative arc of the session to treat it, granting lasting effects if not treated successfully and in a timely manner.
+    - **Major Effect:** A difference of $10$ or more on a violent Contest represents immediate death or grave injuries to the Defender needing immediate attention or a miracle.
 
 If the violence continues past this initial Contest, then the Attackers may choose to change tactics, such as performing a non-violent Contest to shift subsequent rounds in their favor. Additionally, Defenders may choose to respond to these attacks with a greater range of options, such as outwitting (Head), calling on honor (Hand), destroying a part of the environment (Hand), calling for a truce (Heart), or repositioning oneself (Head or Home).
 
 And for both violent and non-violent Contests, if both characters are attacking one another at the same time, then each character first rolls as Attackers, narrating how they attack, then they each roll as Defenders, narrating how they respond. Effects are then determined as usual.
 
 !!! warning "Rules Note: Checks vs. Contests"
-    Checks use the terms “fail” and “succeed,” while Contests use “lose” and “win” instead. When an effect only mentions failing or succeeding Checks, it does not affect losing or winning Contests. And when an effect only mentions losing or winning Contests, it does not affect failing or succeeding Checks. A Contest itself is not a Check, though it does involve a series of rolls similar to Checks made against one another. For example, Blessed by Luck allows you to turn a failed Check into a success. However, it does not allow you to turn a lost Contest into a win. The Uncool condition on the other hand does affect both Checks and Contests, because it modifies the results of rolls performed, without mentioning success, failure, win, or loss directly.
+    Checks use the terms “fail” and “succeed,” while Contests use “lose” and “win” instead. When an effect only mentions failing or succeeding Checks, it does not affect losing or winning Contests. And when an effect only mentions losing or winning Contests, it does not affect failing or succeeding Checks. A Contest itself is not a Check, though it does involve a series of rolls similar to Checks made against one another. For example, the "Blessed by Luck" Abilitg allows you to turn a failed Check into a success. However, it does not allow you to turn a lost Contest into a win. The Uncool condition on the other hand does affect both Checks and Contests, because it modifies the results of rolls performed, without mentioning success, failure, win, or loss directly.
 
 ### Group Contests
 
