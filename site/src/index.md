@@ -340,3 +340,14 @@ To perform a Chase:
 3. **Responding:** Starting with the character(s) who rolled the lowest at the start of the round, characters may work together to perform Contests against their opponents involved in the Chase. For each Contest, the winning side of the Contest moves forward, and the severity of the amount the winning side won by determines the number of spaces moved, moving $1$ space for a Minor Effect, $2$ for a Medium Effect, or $3$ for a Major Effect. A character can only be involved in a single Contest this way, regardless if they are involved as an Attacker or Defender.
 4. **Hazards:** At the end of the round, the DM may describe an environmental hazard that could affect all or some of the leading characters involved the Chase, asking them to perform a Check to avoid the effects.
 5. **Ending:** Repeat rounds until the Chase has been won.
+
+### Conditions
+
+While most effects help shape the narrative of the game, your DM may find it appropriate to apply conditions to characters when the situation calls for it. Some example conditions are given below:
+
+- **Weakened:** Rolls you make as a Defender in violent Contests are made with a $-2$ modifier. Resting or tending to your wounds ends this condition.
+- **Agreeable to $X$:** Rolls you make as a Defender in non-violent Contests where $X$ is an Attacker are made with a $-2$ modifier. If $X$ does an action or makes a request that would bring you harm, this condition ends.
+- **Slowed/Mislead:** The next roll you make to gain the advantage in a Chase is made with a $-2$ modifier. Then, this condition ends.
+- **Exhausted/Cursed:** Dice in your pool of Blessing Dice are each worth $1$ less, to a minimum of $1$. This condition ends when you remove its cause.
+- **Distracted:** Rolls you make do not bump. This condition ends when you remove its cause.
+- **Disarmed:** If you would win a violent Contest as the Attacker by $10$ or more, you win by $9$ instead. When you find a new weapon or take a moment to recompose yourself, this condition ends.
