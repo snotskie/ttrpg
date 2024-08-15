@@ -39,7 +39,7 @@ When you begin the game, all of your Basic Stats are equal, each using a $d4$ fo
     For your campaign setting, you may find it helpful to create a new Stat for your players, such as a "Hex" Stat to represent proficiency with wands, potions, and other magical instruments, lore, and knowledge. However, before you do, if you want to create a new Stat, it must:
 
     - Not already be covered by the first six Stats: Head, Hand, Heart, Home, Hurt, Hurry. Otherwise, you risk increasing the number of confusing moments of when one Stat applies over the other, and you risk spreading the players' resources too thin when they go to upgrade their Stats.
-    - And be something *all* players would want to upgrade. Otherwise, it would be simpler to cover this "Stat" with History and let the players decide who will specialize in it and who will not.
+    - And be something all players would want to upgrade and function the same for all players. Otherwise, it would be simpler to cover this "Stat" with History and let the players decide who will specialize in it, how they will specialize in it, and who will leave it alone.
     - And be the only new Stat you have added to your game. Otherwise, you risk creating a situation where players each have a large number of Stats that go relatively unused.
 
     Finally, Stats you create do not need to start with the letter "H" (though, big kudos if you can keep the alliteration going!).
