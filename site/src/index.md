@@ -251,7 +251,7 @@ When you gain a Blessing Die, roll a $d6$ then add that die to your pool of Bles
     All this being said, we recommend new DMs to this game use the following:
 
     - Award $2$ Blessing Dice near the start of the first session, such asc after the player has introduced their character
-    - Award $3$ Blessing Dice the first time the player succeeds a Check or wins a Contest by $5$ or more
+    - Award $3$ Blessing Dice the first time each session the player succeeds a Check or wins a Contest by $5$ or more
     - Award a Blessing Die for good role play and creative solutions
     - Award a Blessing Die each time the player rolls the "lucky number" for the session. To determine the lucky number, at the start of each session, roll two $d10$ and use the higher value as the lucky number for the session. If a $1$ is rolled on both die this way, then there is no lucky number for the session, as it is impossible to score lower than a $2$ on rolls in this game
     - Award a number of Blessing Dice at the end of sessions where players completed important milestones in the story
