@@ -98,7 +98,7 @@ Characters in this game have a set of Abilities that grant them certain actions 
 
 **Focused Determination:** Each time you bump your dice, increase the result of the roll by an additional $+1$.
 
-**Efficiently Packed:** When you perform a Home Stat Check to see if you came prepared with an item, roll as though your Home Stat used one die size larger, to a maximum of a $d10$.
+**Efficiently Packed:** When you perform a Home Stat Check to see if you came prepared with an item, you may have the roll bump when you roll a $2$ on the die.
 
 **Past Repeated:** Up to once per session, when you fail a non-violent Check or lose a non-violent Contest, you may choose to channel a past memory to guide you. If you do, for the rest of the scene, you may use your History Stat in place of the Stat you failed the Check or lost the Contest with.
 
@@ -125,7 +125,7 @@ Characters in this game have a set of Abilities that grant them certain actions 
 
 **Advanced Training:** Increase the result of your rolls using a $d8$ or larger by $+1$.
 
-**Ease of Focus:** Once per scene, you may have one of your rolls using a $d8$ or larger bump when you roll a $2$ on the die.
+**Ease of Focus:** Up to once per scene, you may have one of your rolls using a $d8$ or larger bump when you roll a $2$ on the die.
 
 **Radical Self-Acceptance:** While you are Uncool, you may roll Checks using a different Basic Stat than normal. Then once a Check succeeds this way, you are no longer Uncool.
 
@@ -253,7 +253,7 @@ When you gain a Blessing Die, roll a $d6$ then add that die to your pool of Bles
     All this being said, we recommend new DMs to this game use the following:
 
     - Award $3$ Blessing Dice near the start of the first session, such as after the player has introduced their character
-    - Award $1$ Blessing Die the first time each session the player succeeds a Check or wins a Contest by $5$ or more, and award each other player whose character witnessed or heard about that high win or success $1$ Blessing Dice as well
+    - Award a Blessing Die the first time each session the player succeeds a Check or wins a Contest by $5$ or more, and award each other player whose character witnessed or heard about that high win or success a Blessing Dice as well
     - Award a Blessing Die for good role play and creative solutions
     - Award a Blessing Die each time the player rolls the "lucky number" for the session. To determine the lucky number, at the start of each session, roll two $d10$ and use the higher value as the lucky number for the session. If a $1$ is rolled on both die this way, then there is no lucky number for the session, as it is impossible to score lower than a $2$ on rolls in this game; such sessions take place narratively on an "unlucky day"
     - Award a number of Blessing Dice at the end of sessions where players completed important milestones in the story
@@ -272,7 +272,7 @@ Once per roll, whether your own or another character’s, you may spend any numb
 
 ### Coming Prepared
 
-When you need an item your character does not already have listed, it could still be narratively reasonable for your character to have that item on them anyway. Once per scene, to see if your character came prepared with just the item you need, within reason, spend ① and perform a Home Stat Check. If you roll equal to or greater than twice the number of items you have listed, then the Check succeeds and you may add the item to your list. Otherwise, the Check fails and you may not perform another Home Stat Check this way this session.
+When you need an item your character does not already have listed, it could still be narratively reasonable for your character to have that item on them anyway. Up to once per scene, to see if your character came prepared with just the item you need, within reason, spend ① and perform a Home Stat Check. If you roll equal to or greater than twice the number of items you have listed, then the Check succeeds and you may add the item to your list. Otherwise, the Check fails and you may not perform another Home Stat Check this way this session.
 
 ### Coolness
 
