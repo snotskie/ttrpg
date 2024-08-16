@@ -31,9 +31,11 @@ Each character in this game has seven Basic Stats, represented by the "seven H�
 
 **⚠️ Hurry:** Escaping danger, reacting by instinct, surges of adrenaline
 
-**⏳ History:** Other aspects covered by your character's backstory and the history of their people, not covered by or more specific than the Basic Stats above
+**⏳ History:** Unique specializations, skills, proficiencies, and other aspects covered by your character's backstory and the history of their people, not covered by or more specific than the other Basic Stats above
 
-When you begin the game, all of your Basic Stats are equal, each using a $d4$ for their Basic Stat Checks. These can be upgraded in the [Session Shop](#Session-Shop).
+When you begin the game, most of your Basic Stats are equal, using a $d4$ for their Basic Stat Checks. However, the Basic Stat you ranked as your highest Stat begins the game one die size larger. Your Lifestyle also increases your starting Basic Stat dice.
+
+All of your Basic Stat dice can be upgraded later in the [Session Shop](#Session-Shop).
 
 !!! details "DM Note: Creating Other Stats"
     For your campaign setting, you may find it helpful to create a new Stat for your players, such as a "Hex" Stat to represent proficiency with wands, potions, and other magical instruments, lore, and knowledge. However, before you do, if you want to create a new Stat, it must:
@@ -46,16 +48,16 @@ When you begin the game, all of your Basic Stats are equal, each using a $d4$ fo
 
 ## Lifestyle
 
-Each character in this game has one of three Lifestyles, described below. A character's Lifestyle represents their general background and goals, and can change over the course of the story.
+Each character in this game has one of tem Lifestyles; three options are described below, and more are described in the [Session Shop](#Session-Shop). A character's Lifestyle represents their general background and goals, and can change over the course of the story.
 
 !!! tip "Character Creation: Step Two!"
-    Begin to describe the Lifestyle your character had growing up or their current outlook on life. As you do, pick one of the following Lifestyles to start the game with. These can be changed in the [Session Shop](#Session-Shop).
+    Begin to describe the Lifestyle your character had growing up or their current outlook on life. As you do, pick one of the following Lifestyles to start the game with. These can be changed later in the [Session Shop](#Session-Shop).
 
-**🍀 Carefree:** Your character lives a relatively carefree life, perhaps because of your young age, wealthy upbringing, or optimistic demeanor. Upgrading your Heart and Hurry dice cost ① less each time.
+**🍀 Carefree:** Your character lives a relatively carefree life, perhaps because of your young age, wealthy upbringing, or optimistic demeanor. Your Heart and Hurry Stats each begin the game one die size larger.
 
-**🔥 Eager:** Your character is eager for more out of life, perhaps because of a teenage rebellious phase, a yearning to accomplish your dreams, or a person you want to impress. Upgrading your Hand and Hurt dice cost ① less each time.
+**🔥 Eager:** Your character is eager for more out of life, perhaps because of a teenage rebellious phase, a yearning to accomplish your dreams, or a person you want to impress. Your Hand and Hurt Stats each begin the game one die size larger.
 
-**🧘‍♀️ Wisened:** Life has not been easy on your character, but as a result you’ve come out wiser and tougher, perhaps because you’ve gotten older, been shaped by unfortunate events, or dedicated yourself to your work. Upgrading your Hand and Home dice cost ① less each time.
+**🧘‍♀️ Wisened:** Life has not been easy on your character, but as a result you’ve come out wiser and tougher, perhaps because you’ve gotten older, been shaped by unfortunate events, or dedicated yourself to your work. Your Head and Home Stats each begin the game one die size larger.
 
 ## History
 
@@ -92,7 +94,7 @@ Characters in this game have a set of Abilities that grant them certain actions 
 !!! tip "Character Creation: Step Four!"
     Begin to imagine the kind of character taking shape in your mind. Have you seen characters like them before in movies, TV shows, and books? Were they the bully in school? Do they get drawn into conspiracy theories? Are they so laid-back that others think they're a slacker? Are they beautiful and popular? Are they quiet and hardworking? Etc. Try to envision the tropes from your favorite fictional stories that your character takes after.
 
-    With that in mind, pick two of the following Abilities to start the game with. You can gain additional Abilities in the [Session Shop](#Session-Shop).
+    With that in mind, pick two of the following Abilities to start the game with. You can gain additional Abilities later in the [Session Shop](#Session-Shop).
 
 **Focused Determination:** Each time you bump your dice, increase the result of the roll by an additional $+1$.
 
@@ -117,13 +119,13 @@ Characters in this game have a set of Abilities that grant them certain actions 
 
 **Optimal Solution:** Up to twice per session, when you or a nearby ally attempt a roll for a non-violent Check or Contest, you may roll $4d6$; these dice do not bump. Group those dice into two piles of two dice such that a simple operation (addition or multiplication) could be performed to each pile so that the two operations' results would be equal. For example, if you rolled $1$, $1$, $1$, and $2$, you could group the piles such that $1×2=1+1$. If you are able to arrange the $4d6$ in such a way, you or your ally increases the result of their attempted roll by $+5$.
 
-**Synchronized Spark:** You may perform a Spark Stat Check using one of your Stats and one of the Stats of another willing character in the scene, so long as the chosen Stats are balanced, both characters have this ability, and one of the two characters pays the Blessing Die cost.
+**Synchronized Spark:** You may perform a Spark Stat Check using one of your Stats and one of the Stats of another willing character in the scene, so long as the chosen Stats are balanced, both characters have this ability, and both characters pay the Blessing Die cost.
 
 **Ascendant Spark:** You may perform a non-violent Spark Stat Check using three Stats instead of two, so long as those Stats each use a $d8$ or larger.
 
 **Advanced Training:** Increase the result of your rolls using a $d8$ or larger by $+1$.
 
-**Ease of Focus:** Your rolls using a $d8$ or larger also bump when you roll a $2$ on the die.
+**Ease of Focus:** Once per scene, you may have one of your rolls using a $d8$ or larger bump when you roll a $2$ on the die.
 
 **Radical Self-Acceptance:** While you are Uncool, you may roll Checks using a different Basic Stat than normal. Then once a Check succeeds this way, you are no longer Uncool.
 
@@ -208,7 +210,7 @@ You may spend ④ to perform a Spark Stat Check instead of a Basic Stat Check, w
 Any bonuses or effects that would apply to the balanced Stats used in the Spark Stat Check also apply to the Spark Stat Check itself.
 
 !!! details "DM Note: Setting Spark Stat Check Targets"
-    Use $8$ for an easy Spark Stat Check, $12$ for medium, $16$ for hard, $20$ for very hard, and $24$ for a trial the players will be greatly awarded for overcoming. These difficulties are substantially higher than their mundane Basic Stat Check counterparts, representing both the greater capability yet greater risk of relying on their sparks. The lowest possible Spark Stat Check is $4$.
+    Use $7$ for an easy Spark Stat Check, $12$ for medium, $18$ for hard, $25$ for very hard, and $33$ for a trial the players will be greatly awarded for overcoming. These difficulties are substantially higher than their mundane Basic Stat Check counterparts, representing both the greater capability yet greater risk of relying on their sparks. The lowest possible Spark Stat Check is $4$.
     
     Medium is the average for rolls in most situations the players will get themselves into. For situations that you surprise your players with that they don't have the chance to prepare for before reacting, consider lowering the difficulty by $2$ or $3$. The reason is that surprise situations are more likely to use characters' lower Stat Dice.
     
@@ -251,9 +253,9 @@ When you gain a Blessing Die, roll a $d6$ then add that die to your pool of Bles
     All this being said, we recommend new DMs to this game use the following:
 
     - Award $3$ Blessing Dice near the start of the first session, such as after the player has introduced their character
-    - Award $3$ Blessing Dice the first time each session the player succeeds a Check or wins a Contest by $5$ or more
+    - Award $1$ Blessing Die the first time each session the player succeeds a Check or wins a Contest by $5$ or more, and award each other player whose character witnessed or heard about that high win or success $1$ Blessing Dice as well
     - Award a Blessing Die for good role play and creative solutions
-    - Award a Blessing Die each time the player rolls the "lucky number" for the session. To determine the lucky number, at the start of each session, roll two $d10$ and use the higher value as the lucky number for the session. If a $1$ is rolled on both die this way, then there is no lucky number for the session, as it is impossible to score lower than a $2$ on rolls in this game
+    - Award a Blessing Die each time the player rolls the "lucky number" for the session. To determine the lucky number, at the start of each session, roll two $d10$ and use the higher value as the lucky number for the session. If a $1$ is rolled on both die this way, then there is no lucky number for the session, as it is impossible to score lower than a $2$ on rolls in this game; such sessions take place narratively on an "unlucky day"
     - Award a number of Blessing Dice at the end of sessions where players completed important milestones in the story
 
 Some actions can only be performed by first "spending" some number of dice from your pool of Blessing Dice each worth some value or more.
@@ -334,9 +336,9 @@ To perform a Chase:
 2. **Gaining the Advantage:** At the top of each round, the characters perform a Contest representing their movement, using the most appropriate Stat for the situation: Hand, Hurry, Hurt (if pursuing others violently), or another Stat. Then, only the character(s) who rolled the highest move(s) forward on the number line. The severity of the amount they rolled higher than the lowest roll of the Contest determines the number of spaces moved, moving $2$ spaces for a Minor Effect, $3$ for a Medium Effect, or $5$ for a Major Effect.
 3. **Responding:** Starting with the character(s) who rolled the lowest at the start of the round, characters may work together to perform Contests against their opponents involved in the Chase. For each Contest, the winning side of the Contest moves forward, and the severity of the amount the winning side won by determines the number of spaces moved, moving $1$ space for a Minor Effect, $2$ for a Medium Effect, or $3$ for a Major Effect. A character can only be involved in a single Contest this way, regardless if they are involved as an Attacker or Defender.
 4. **Hazards:** At the end of the round, the DM may describe an environmental hazard that could affect all or some of the leading characters involved the Chase, asking them to perform a Check to avoid the effects.
-5. **Ending:** Repeat rounds until the Chase has been won.
+5. **Ending:** Repeat rounds until the Chase has been won, lost, ends in a draw, or gets interrupted.
 
-### Conditions
+### Example Conditions
 
 While most effects help shape the narrative of the game, your DM may find it appropriate to apply conditions to characters when the situation calls for it. Some example conditions are given below:
 
@@ -358,8 +360,6 @@ While most effects help shape the narrative of the game, your DM may find it app
     - spend ①① to upgrade a single Basic Stat's die from a $d4$ to a $d6$
     - spend ①①① to upgrade a single Basic Stat's die from a $d6$ to a $d8$
     - spend ①①①① to upgrade a single Basic Stat's die from a $d8$ to a $d10$
-    
-    For the Basic Stat you ranked the highest, upgrading its die costs ① less each time. However, for the Basic Stat you ranked the lowest, upgrading its die costs ① more each time.
 
 !!! compat "Carefree"
     If your starting Lifestyle was Carefree, at the end of a session you may spend ①①①① to change your Lifestyle to Prodigious or Crafty.
