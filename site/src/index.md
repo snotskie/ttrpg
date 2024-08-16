@@ -234,7 +234,7 @@ Characters in this game each have a pool of Blessing Dice, representing a pool o
 
 The first time each session when you succeed a Check or win a Contest by $5$ or more, gain $3$ Blessing Dice. The DM may also award you Blessing Dice for other achievements.
 
-When you gain a Blessing Die, roll a $d6$ then add that die to your pool of Blessing Dice. If you roll a $1$ on the die, gain an additional Blessing Die. As long as you continue to roll a $1$ on the die, you continue to gain an additional Blessing Die.
+When you gain a Blessing Die, roll a $d6$ then add that die to your pool of Blessing Dice. If you roll a $1$ on the die, instead of rolling again to increase the value of the roll, gain an additional Blessing Die. As long as you continue to roll a $1$ on the die, you continue to gain an additional Blessing Die.
 
 !!! warning "Rules Note: Blessing Dice do not Group"
     If you gain multiple Blessing Dice from a single effect, gain each of those dice separately. They do not form a group for the purposes of bumping.
@@ -250,7 +250,7 @@ When you gain a Blessing Die, roll a $d6$ then add that die to your pool of Bles
 
     All this being said, we recommend new DMs to this game use the following:
 
-    - Award $2$ Blessing Dice near the start of the first session, such asc after the player has introduced their character
+    - Award $3$ Blessing Dice near the start of the first session, such as after the player has introduced their character
     - Award $3$ Blessing Dice the first time each session the player succeeds a Check or wins a Contest by $5$ or more
     - Award a Blessing Die for good role play and creative solutions
     - Award a Blessing Die each time the player rolls the "lucky number" for the session. To determine the lucky number, at the start of each session, roll two $d10$ and use the higher value as the lucky number for the session. If a $1$ is rolled on both die this way, then there is no lucky number for the session, as it is impossible to score lower than a $2$ on rolls in this game
