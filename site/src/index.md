@@ -38,7 +38,11 @@ When you begin the game, most of your Basic Stats are equal, using a $d4$ for th
 All of your Basic Stat dice can be upgraded later in the [Session Shop](#Session-Shop).
 
 !!! details "DM Note: Creating Other Stats"
-    For your campaign setting, you may find it helpful to create a new Stat for your players, such as a "Hex" Stat to represent proficiency with wands, potions, and other magical instruments, lore, and knowledge. However, before you do, if you want to create a new Stat, it must:
+    For your campaign setting, you may find it helpful to create a new Stat for your players. For example:
+    
+    > **🐦‍🔥 Hex:** Use of wands, spells, potions, and other magical instruments, traps, lore, and knowledge.
+    
+    However, please note, if you want to create a new Stat, it must:
 
     - Not already be covered by the first six Stats: Head, Hand, Heart, Home, Hurt, Hurry. Otherwise, you risk increasing the number of confusing moments of when one Stat applies over the other, and you risk spreading the players' resources too thin when they go to upgrade their Stats.
     - And be something all players would want to upgrade and function the same for all players. Otherwise, it would be simpler to cover this "Stat" with History and let the players decide who will specialize in it, how they will specialize in it, and who will leave it alone.
