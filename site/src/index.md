@@ -234,7 +234,7 @@ When a character is surprised by a threat, their first roll in response to it ca
 
 Characters in this game each have a pool of Blessing Dice, representing a pool of resources they can draw upon to recharge their abilities and help their friends.
 
-The first time each session when you succeed a Check or win a Contest by $5$ or more, gain $3$ Blessing Dice. The DM may also award you Blessing Dice for other achievements.
+The DM will award you Blessing Dice for various achievements.
 
 When you gain a Blessing Die, roll a $d6$ then add that die to your pool of Blessing Dice. If you roll a $1$ on the die, instead of rolling again to increase the value of the roll, gain an additional Blessing Die. As long as you continue to roll a $1$ on the die, you continue to gain an additional Blessing Die.
 
@@ -242,7 +242,7 @@ When you gain a Blessing Die, roll a $d6$ then add that die to your pool of Bles
     If you gain multiple Blessing Dice from a single effect, gain each of those dice separately. They do not form a group for the purposes of bumping.
 
 !!! details "DM Note: When to Award Blessing Dice"
-    Mechanically, players may earn Blessing Dice by rolling high once per session. However, you as a DM should award them Blessing Dice consistently and throughout each session, as many characters’ abilities depend on them.
+    You as a DM should award players Blessing Dice consistently and throughout each session, as many characters’ abilities depend on them.
 
     What this looks like can vary per DM, per table, or per scene.
 
