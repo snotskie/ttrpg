@@ -48,7 +48,7 @@ All of your Basic Stat dice can be upgraded later in the [Session Shop](#Session
 
 ## Lifestyle
 
-Each character in this game has one of tem Lifestyles; three options are described below, and more are described in the [Session Shop](#Session-Shop). A character's Lifestyle represents their general background and goals, and can change over the course of the story.
+Each character in this game has one of ten Lifestyles; three options are described below, and more are described in the [Session Shop](#Session-Shop). A character's Lifestyle represents their general background and goals, and can change over the course of the story.
 
 !!! tip "Character Creation: Step Two!"
     Begin to describe the Lifestyle your character had growing up or their current outlook on life. As you do, pick one of the following Lifestyles to start the game with. These can be changed later in the [Session Shop](#Session-Shop).
