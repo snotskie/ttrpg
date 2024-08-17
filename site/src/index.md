@@ -102,7 +102,7 @@ Characters in this game have a set of Abilities that grant them certain actions 
 
 **Focused Determination:** Each time you bump your dice, increase the result of the roll by an additional $+1$.
 
-**Efficiently Packed:** When you perform a Home Stat Check to see if you came prepared with an item, you may have the roll bump when you roll a $2$ on the die.
+**Efficiently Packed:** When you perform a Preparedness Check, you may have the roll bump when you roll a $2$ on the die.
 
 **Past Repeated:** Up to once per session, when you fail a non-violent Check or lose a non-violent Contest, you may choose to channel a past memory to guide you. If you do, for the rest of the scene, you may use your History Stat in place of the Stat you failed the Check or lost the Contest with.
 
@@ -178,6 +178,15 @@ There is not a list of items to choose from in this game. Instead, items in this
 
 !!! tip "Character Creation: Step Five!"
     List three items that your character never leaves home without, within reason. These will be the items you start the game with.
+
+!!! details "DM Note: Creating NPCs"
+    You do not need to go through the entire character creation process to create NPCs for your table. Instead, you only need the following and can improvise the rest:
+
+    - Scope of History Stat and History Stat Die
+    - What the NPC's motivation and quirks are and how they relate to two PCs' histories
+    - One other Stat's die that is unusually high or low compared to the rest
+    - One Stat Die shared by all the other Stats
+    - At most one Ability. If the Ability would require recharging to be used, instead roll a $d6$ as though gaining a Blessing Die. If the NPC would gain a Blessing Die worth enough to recharge the Ability, instead recharge the Ability immediately
 
 ## Playing the Game
 
@@ -259,7 +268,7 @@ When you gain a Blessing Die, roll a $d6$ then add that die to your pool of Bles
     - Award $3$ Blessing Dice near the start of the first session, such as after the player has introduced their character
     - Award a Blessing Die the first time each session the player succeeds a Check or wins a Contest by $5$ or more, and award each other player whose character witnessed or heard about that high win or success a Blessing Dice as well
     - Award a Blessing Die for good role play and creative solutions
-    - Award a Blessing Die each time the player rolls the "lucky number" for the session. To determine the lucky number, at the start of each session, roll two $d10$ and use the higher value as the lucky number for the session. If a $1$ is rolled on both die this way, then there is no lucky number for the session, as it is impossible to score lower than a $2$ on rolls in this game; such sessions take place narratively on an "unlucky day"
+    - Award a Blessing Die each time the player rolls the "lucky number" for the session. To determine the lucky number, at the start of each session, roll two $d10$ and use the higher value as the lucky number for the session. If a $1$ is rolled on both dice this way, then there is no lucky number for the session, as it is impossible to score lower than a $2$ on rolls in this game; such sessions take place narratively on an "unlucky day"
     - Award a number of Blessing Dice at the end of sessions where players completed important milestones in the story
 
 Some actions can only be performed by first "spending" some number of dice from your pool of Blessing Dice each worth some value or more.
@@ -274,15 +283,19 @@ When a Blessing Die is spent, it is removed from your pool of Blessing Dice.
 
 Once per roll, whether your own or another character’s, you may spend any number of ① to increase the result of that roll by $+1$ for each ① spent. You may only spend ① to help other characters this way if your character is near enough to them to reasonably help with the action.
 
-### Coming Prepared
+### Preparedness
 
-When you need an item your character does not already have listed, it could still be narratively reasonable for your character to have that item on them anyway. Up to once per scene, to see if your character came prepared with just the item you need, within reason, spend ① and perform a Home Stat Check. If you roll equal to or greater than twice the number of items you have listed, then the Check succeeds and you may add the item to your list. Otherwise, the Check fails and you may not perform another Home Stat Check this way this session.
+When you need an item your character does not already have listed, it could still be narratively reasonable for your character to have that item on them anyway.
+
+Up to once per scene, to see if your character came prepared with just the item you need, within reason, spend ① and perform a Preparedness Check, which is performed as though rolling a Home Stat Check. If you roll equal to or greater than twice the number of items you have listed, then the Check succeeds and you may add the item to your list. Otherwise, the Check fails and you become Unprepared for the rest of the session.
+
+While you are Unprepared, you cannot perform Preparedness Checks.
 
 ### Coolness
 
 Some events challenge your resolve, throw you off your game, cause you great embarrassment, or so on. When these happen, you may become Uncool.
 
-While you are Uncool, all rolls you make are modified by $-1$. Once during each scene that follows, you may be asked to attempt a Check to remove this condition.
+While you are Uncool, all rolls you make are modified by $-1$. Once during each scene that follows, you may attempt a Check to remove this condition.
 
 !!! details "DM Note: Becoming Uncool"
     The Uncool mechanic is a way to break the tension and bring comedy to your game. It is also a way to represent small story arcs where characters feel bad after some failed action, and take action later to feel better about it. And it is a way to connect player characters more to the non-player characters watching them.
