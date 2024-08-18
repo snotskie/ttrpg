@@ -371,7 +371,7 @@ While most effects help shape the narrative of the game, your DM may find it app
 - **Distracted:** Rolls you make do not bump. This condition ends when you remove its cause.
 - **Disarmed:** If you would win a violent Contest as the Attacker by $10$ or more, you win by $9$ instead. When you find a new weapon or take a moment to recompose yourself, this condition ends.
 - **Taxed:** You cannot perform Spark Stat Checks. Spending ①① ends this condition.
-- **Robbed:** You cannot perform Home Stat Checks to see if you came prepared with an item you do not already have listed. This condition ends when you spend time in a place where items could be restocked.
+- **Robbed:** You cannot perform Preparedness Checks. This condition ends when you spend time in a place where items could be restocked.
 
 ## Session Shop
 
