@@ -364,6 +364,7 @@ While most effects help shape the narrative of the game, your DM may find it app
 - **Headache/Handcramp/Heartache/Homesick:** Rolls you make with the affected Stat are made with a $-1$ modifier. This condition lasts until the end of the scene.
 - **Weakened:** Rolls you make as a Defender in violent Contests are made with a $-2$ modifier. Resting or tending to your wounds ends this condition.
 - **Agreeable to $X$:** Rolls you make as a Defender in non-violent Contests where $X$ is an Attacker are made with a $-2$ modifier. If $X$ does an action or makes a request that would bring you harm, this condition ends.
+- **Head/Hand/Heart/Home Cursed by $X$:** When $X$ witnesses you perform a roll using the affected Stat, $X$ may have you perform the roll again and use the new value. If they do, this condition ends.
 - **Slowed/Mislead:** The next roll you make to gain the advantage in a Chase is made with a $-2$ modifier. Then, this condition ends.
 - **Exhausted/Cursed:** Dice in your pool of Blessing Dice are each worth $1$ less, to a minimum of $1$. This condition ends when you remove its cause.
 - **Distracted:** Rolls you make do not bump. This condition ends when you remove its cause.
