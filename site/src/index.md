@@ -31,7 +31,7 @@ Each character in this game has seven Basic Stats, represented by the "seven H�
 
 **⚠️ Hurry:** Escaping danger, reacting by instinct, surges of adrenaline
 
-**⏳ History:** Unique specializations, skills, proficiencies, and other aspects covered by your character's backstory and the history of their people, not covered by or more specific than the other Basic Stats above
+**⏳ History:** Narrative touchstones representing your unique specializations, skills, proficiencies, hardships, and other aspects covered by your character's backstory and the history of their people, but not covered by or more specific than the other Basic Stats above
 
 When you begin the game, most of your Basic Stats are equal, using a $d4$ for their Basic Stat Checks. However, the Basic Stat you ranked as your highest Stat begins the game one die size larger. Your Lifestyle also increases your starting Basic Stat dice.
 
@@ -65,19 +65,19 @@ Each character in this game has one of ten Lifestyles; three options are describ
 
 ## History
 
-Each character has a History Basic Stat, which is used to perform actions more related to the character's backstory more than to the other Basic Stats. And even though every character has a History Basic Stat, what their History covers is unique to them and only them!
+Each character has a History Basic Stat, made up of a varied list of narrative touchstones. This Stat is used to perform actions more related to the character's backstory more than to the other Basic Stats. And even though every character has a History Basic Stat, what their History covers is unique to them and only them!
 
 !!! tip "Character Creation: Step Three!"
-    Begin to describe your character's backstory. Answer the following prompts, or others given to you by your DM. These background details will help build the story and set the scope of what your History Stat Checks cover.
+    Begin to describe your character's backstory. Answer the following prompts, or others given to you by your DM. These background details will help build the story and set the scope of narrative touchstones your History Stat Checks cover.
     
     - Describe who your character looks up to, whose work they strive to emulate, who taught them everything they know, or so on. What would it look like to make their Hero happy? upset? What is their connection to their Hero, and what is their Hero up to in the world now?
     - List three specific skills that your character has proven their ability in, such as through schooling, study, training, specialization within their team, or so on.
-    - List three specific people or groups that your character regularly interacts with or have connections to
+    - List three specific people or groups that your character regularly interacts with or have connections to, whether "good" or "bad" connections
     - Describe where your character could be found on an average Tuesday afternoon before the action of the story gets underway.
     - If your game's setting has non-human characters and your character is one of them, also describe one or two simple actions, within reason, that characters of your non-human species can perform unaided that human characters can't.
 
 !!! details "DM Note: Scope of History Stat"
-    As you work with your players to develop their backstory, come up with a list of three to five specific actions for each player that describe what their History Stat covers. For example:
+    As you work with your players to develop their backstory, come up with a list of three to five specific narrative touchstones for each player that describe what their History Stat covers. For example:
 
     - Tying Knots (for a scout)
     - Swordfighting (for a knight)
@@ -89,7 +89,7 @@ Each character has a History Basic Stat, which is used to perform actions more r
     - Friendly Interactions with the Empire (for someone raised in the Empire)
     - Unfriendly Interactions with the Rebels (for someone raised in the Empire)
 
-    Consider what *unique* skills, proficiencies, traits, and backstory elements each character brings to the story.
+    Consider what *unique* skills, proficiencies, traits, and backstory elements each character brings to the story. Also consider the *variety* of a character's narrative touchstones: if all or most of them would be covered already by another Basic Stat, then the player would have no reason to use or upgrade their History Basic Stat!
 
 ## Abilities
 
@@ -111,13 +111,11 @@ Characters in this game have a set of Abilities that grant them certain actions 
 !!! note "Effect Wording: Protect Yourself for $+X$"
     When an effect describes a failed Check or lost Contest and says to “protect yourself for $+X$,” increase the result of your roll by $+X$. This cannot turn the failure into a success or loss into a win, but it can reduce the severity of the outcome.
 
-**Careful Resolve:** Whenever you fail a Check while performing dangerous actions, protect yourself for $+3$.
+**Careful Resolve:** Whenever you fail a Check while performing dangerous stunts or procedures, protect yourself for $+3$.
 
 **Tactful Speech:** Whenever you lose a Contest trying to persuade others, protect yourself for $+3$.
 
 **Quickly Acclimated:** Whenever you fail a Check against natural effects such as weather and disease, protect yourself for $+3$.
-
-**Steady Emotions:** Whenever you fail a Check or lose a Contest and would become Uncool as a result, protect yourself for $+3$.
 
 **Licensed Driver:** Whenever you fail a Check or lose a Contest while transporting others, protect yourself for $+3$.
 
@@ -144,7 +142,7 @@ Characters in this game have a set of Abilities that grant them certain actions 
 
 **Blessed by Voices:** You may learn more about a character, place, or fact than would normally be possible, and this knowledge may come with consequences. Then this ability cannot be activated again until you spend ④ to recharge it.
 
-**Blessed by Family:** You may attack recklessly, using Home or History for a violent Contest instead of Hurt as usual. This attack is potentially lethal to your target if you win, and you may sustain injuries if you lose. Then this ability cannot be activated again until you spend ④ to recharge it.
+**Blessed by Family:** You may attack recklessly, using Home for a violent Contest instead of Hurt as usual. This attack is potentially lethal to your target if you win, and you may sustain injuries if you lose. Then this ability cannot be activated again until you spend ④ to recharge it.
 
 **Blessed by Charity:** When you visit a place of religious or spiritual importance, you may spend any number of ① as a donation or act of service to the place. The more spent this way, the greater a possible later boon may be, determined by the DM.
 
@@ -409,7 +407,7 @@ While most effects help shape the narrative of the game, your DM may find it app
     **💎 Lost:** You feel a disconnect from your own past or former sense of self, perhaps because of an exile from your home, an erased memory, or a period of transition or deep self-reflection. When you have sparks, they take on an erratic or liminal aspect. Upgrading your History die costs ① less each time, and when you perform Spark Stat Checks using History it costs only ③ instead.
 
 !!! compat "History"
-    At the end of a session, you may spend ① to make a change or addition to the scope of your History Basic Stat, based on the events of the session. In any case, this scope may not have more than seven things listed.
+    At the end of a session, you may spend ① to make a change or addition to the scope of your History Basic Stat, based on the events of the session. In any case, this scope may not have more than seven narrative touchstones listed.
 
 !!! compat "Abilities"
     At the end of a session, you may:
