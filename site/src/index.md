@@ -131,6 +131,8 @@ Characters in this game have a set of Abilities that grant them certain actions 
 
 **Radical Self-Acceptance:** While you are Uncool, you may roll Checks using a different Basic Stat than normal. Then once a Check succeeds this way, you are no longer Uncool.
 
+**Honorable Combat:** You may attack honorably, using Hand for a violent Contest instead of Hurt as usual. If you would win the Contest by $10$ or more, you win by $9$ instead. Moreover, you leave yourself open to dirty tricks; if the Defender attacks you with Hurt at the same time, the result if their attack's roll is increased by $+2$.
+
 **Blessed by Luck:** When you fail a Check, you may attempt the Check again, using the newer result instead. Then this ability cannot be activated again until you spend ⑤ to recharge it.
 
 !!! note "Effect Wording: Spend Ⓧ to Recharge"
@@ -331,7 +333,7 @@ If the violence continues past this initial Contest, then the Attackers may choo
 And for both violent and non-violent Contests, if both characters are attacking one another at the same time, then each character first rolls as Attackers, narrating how they attack, then they each roll as Defenders, narrating how they respond. Effects are then determined as usual.
 
 !!! warning "Rules Note: Checks vs. Contests"
-    Checks use the terms “fail” and “succeed,” while Contests use “lose” and “win” instead. When an effect only mentions failing or succeeding Checks, it does not affect losing or winning Contests. And when an effect only mentions losing or winning Contests, it does not affect failing or succeeding Checks. A Contest itself is not a Check, though it does involve a series of rolls similar to Checks made against one another. For example, the "Blessed by Luck" Abilitg allows you to turn a failed Check into a success. However, it does not allow you to turn a lost Contest into a win. The Uncool condition on the other hand does affect both Checks and Contests, because it modifies the results of rolls performed, without mentioning success, failure, win, or loss directly.
+    Checks use the terms “fail” and “succeed,” while Contests use “lose” and “win” instead. When an effect only mentions failing or succeeding Checks, it does not affect losing or winning Contests. And when an effect only mentions losing or winning Contests, it does not affect failing or succeeding Checks. A Contest itself is not a Check, though it does involve a series of rolls similar to Checks made against one another. For example, the "Blessed by Luck" Ability allows you to turn a failed Check into a success. However, it does not allow you to turn a lost Contest into a win. The Uncool condition on the other hand does affect both Checks and Contests, because it modifies the results of rolls performed, without mentioning success, failure, win, or loss directly.
 
 ### Group Contests
 
