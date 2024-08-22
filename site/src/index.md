@@ -76,6 +76,9 @@ Each character has a History Basic Stat, made up of a varied list of narrative t
     - Describe where your character could be found on an average Tuesday afternoon before the action of the story gets underway.
     - If your game's setting has non-human characters and your character is one of them, also describe one or two simple actions, within reason, that characters of your non-human species can perform unaided that human characters can't.
 
+!!! warning "Rules Note: History Overrides Other Stats"
+    When both your History Stat and another Basic Stat would be applicable in a situation, use your History Stat for the roll, even if the other Stat has a larger die. A high History Stat represents your advancement towards your character's unique narrative touchstones, while a low History Stat represents those touchstones' neglect!
+
 !!! details "DM Note: Scope of History Stat"
     As you work with your players to develop their backstory, come up with a list of three to five specific narrative touchstones for each player that describe what their History Stat covers. For example:
 
