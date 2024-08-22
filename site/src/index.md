@@ -322,9 +322,9 @@ A violent Contest is when an Attacker performs an action against another charact
 To perform a violent Contest, the Attacker first rolls as though performing a Hurt Stat Check or Spark Stat Check that involves Hurt, then the Defender rolls as though performing a Hurry Stat Check or Spark Stat Check that involves Hurry, representing their immediate instinctive reaction in the scene. If the Attacker rolls higher, then the Defender could be bruised, dazed, concussed, in need of immediate medical attention, or even dead. The amount that the Attacker rolled higher than the Defender determines the extent of the injury—regardless if that was what the Attacker intended. If the Defender rolls the same or higher number than the Attacker, then no injury occurs.
 
 !!! details "DM Note: Severity of Violent Effects"
-    - **Minor Effect:** As with nonviolent Contests, a difference less than $5$ represents a minor wound that grants the Attacker only a temporary advantage.
-    - **Medium Effect:** A difference at least $5$ but less than $10$ represents a wound that will need medical attention, possibly changing the narrative arc of the session to treat it, granting lasting effects if not treated successfully and in a timely manner.
-    - **Major Effect:** A difference of $10$ or more on a violent Contest represents immediate death or grave injuries to the Defender needing immediate attention or a miracle.
+    - **Minor Effect:** As with nonviolent Contests, a difference less than $5$ represents a minor wound that grants the Attacker only a temporary advantage, possibly with complications.
+    - **Medium Effect:** A difference at least $5$ but less than $10$ represents a medium wound that will need medical attention, possibly changing the narrative arc of the session to treat it, granting lasting effects if not treated successfully and in a timely manner.
+    - **Major Effect:** A difference of $10$ or more on a violent Contest represents a major wound, resulting in immediate death or grave injuries to the Defender needing immediate attention or a miracle.
 
 If the violence continues past this initial Contest, then the Attackers may choose to change tactics, such as performing a non-violent Contest to shift subsequent rounds in their favor. Additionally, Defenders may choose to respond to these attacks with a greater range of options, such as outwitting (Head), calling on honor (Hand), destroying a part of the environment (Hand), calling for a truce (Heart), or repositioning oneself (Head or Home).
 
@@ -342,6 +342,17 @@ If multiple characters are Defenders together in a Contest, or are performing a 
 ### Wounds
 
 You do not have "hit points" in this game. Instead, wounds shape the narrative arcs of the game; the worse the wound, the greater and longer lasting the impact.
+
+- **Minor Wound:** A superficial wound that will heal on its own. The Attacker gains a temporary advantage over the Defender, possibly with complications.
+- **Medium Wound:** A true wound that will need to be treated to prevent lasting impact. The Attacker gains an advantage over the Defender that lasts at least until the end of the scene.
+- **Major Wound:** A lethal wound, which can only be treated immediately and with the help of a miracle. The effects will ripple throughout the arc of the session or campaign. The Attacker eliminates the Defender, and likely gains a temporary advantage over the Defender's allies, possibly with complications.
+
+!!! details "DM Note: Describing Wounds"
+    When describing the results of wounds dealt to or by the player characters, don't only rely on status conditions or descriptions of injuries.
+    
+    Include variety over the course of the campaign: What does the Attacker *want*? The character's motivations should drive the narrative, not just the game mechanics.
+    
+    You can treat minor and medium wounds as ways the Attacker can get at what they want from the Defender in the scene, which is not always to just inflict injury on others. And you can treat major wounds as representing going too far using violent means to get what they want.
 
 ### Chases
 
