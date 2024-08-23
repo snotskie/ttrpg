@@ -52,7 +52,7 @@ All of your Basic Stat dice can be upgraded later in the [Session Shop](#Session
 
 ## Lifestyle
 
-Each character in this game has one of ten Lifestyles; three options are described below, and more are described in the [Session Shop](#Session-Shop). A character's Lifestyle represents their general background and goals, and can change over the course of the story.
+Each character in this game starts with one of three Lifestyles, described below. More options characters can upgrade to later are described in the [Session Shop](#Session-Shop). A character's Lifestyle represents their general background and goals, and can change over the course of the story.
 
 !!! tip "Character Creation: Step Two!"
     Begin to describe the Lifestyle your character had growing up or their current outlook on life. As you do, pick one of the following Lifestyles to start the game with. These can be changed later in the [Session Shop](#Session-Shop).
@@ -399,6 +399,8 @@ While most effects help shape the narrative of the game, your DM may find it app
 
 !!! compat "Carefree"
     If your starting Lifestyle was Carefree, at the end of a session you may spend ①①①① to change your Lifestyle to Prodigious or Crafty.
+
+    **🌼 Blossomed:** Your carefree nature has kept you safe from harm and surrounded by friends. When you have sparks, they take on a free and connected aspect. Upgrading your Heart and Hurry dice cost ① less each time, and when you perform Spark Stat Checks using either of these Stats it costs only ③ instead. You also gain the "Epic Storytelling" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
     
     **🔮 Prodigious:** Your studies have come effortlessly to you, and secrets almost seem to just reveal themselves to you. When you have sparks, they take on a sorcerous or uninhibited aspect. Upgrading your Head and Hurt dice cost ① less each time, and when you perform Spark Stat Checks using either of these Stats it costs only ③ instead. You also gain the "Blessed by Voices" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
 
@@ -407,12 +409,16 @@ While most effects help shape the narrative of the game, your DM may find it app
 !!! compat "Eager"
     If your starting Lifestyle was Eager, at the end of a session you may spend ①①①① to change your Lifestyle to Chosen or Wired.
 
+    **⚜️ Driven:** Your eager drive has found purchase in a great mission or calling. When you have sparks, they take on an incorrigible or TODO aspect. Upgrading your Hand and Hurt dice cost ① less each time, and when you perform Spark Stat Checks using either of these Stats it costs only ③ instead. You also gain the "TODO" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
+
     **✨ Chosen:** You draw inspiration from the community around you, setting out on your journeys blessed, favored, or cursed. When you have sparks, they take on a divine or noble aspect. Upgrading your Heart and Home dice cost ① less each time, and when you perform Spark Stat Checks using either of these Stats it costs only ③ instead. You also gain the "Blessed by Charity" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
 
     **⚡ Wired:** Your mind is quick and analytical, and you can see solutions to problems that are unimaginably complex. When you have sparks, they take on a calculating or duplicative aspect. Upgrading your Head and Hurry dice cost ① less each time, and when you perform Spark Stat Checks using either of these Stats it costs only ③ instead. You also gain the "Ease of Focus" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
 
 !!! compat "Wisened"
     If your starting Lifestyle was Wisened, at the end of a session you may spend ①①①① to change your Lifestyle to Warry or Compelling.
+
+    **TODO:** Your wise TODO. Upgrading your Head and Home dice cost ① less each time, and when you perform Spark Stat Checks using either of these Stats it costs only ③ instead. You also gain the "TODO" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
 
     **👁️ Warry:** You are one with the natural and supernatural worlds around you, and you have a keen sense of danger and safety. When you have sparks, they take on an astral or prophetic aspect. Upgrading your Hand and Hurry dice cost ① less each time, and when you perform Spark Stat Checks using either of these Stats it costs only ③ instead. You also gain the "Past Repeated" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
 
