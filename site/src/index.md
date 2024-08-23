@@ -40,7 +40,7 @@ All of your Basic Stat dice can be upgraded later in the [Session Shop](#Session
 !!! details "DM Note: Creating Other Stats"
     For your campaign setting, you may find it helpful to create a new Stat for your players. For example:
     
-    > - **🐦‍🔥 Hex:** Use of wands, spells, potions, and other magical instruments, traps, lore, and knowledge. *E.g., for a Magic and Misfits style setting.*
+    > - **🐦‍🔥 Hex:** Use of wands, spells, potions, and other magical instruments, traps, lore, and knowledge. *E.g., for a Misfits and Magic style setting.*
     > - **🦾 Hardware:** Use of machines, robotics, and cybernetic implants. *E.g. for a Cyberpunk style setting.*
     > - **🔎 Hunch:** Locating clues, guessing the right solution to a puzzle, being in the right place at the right time. *E.g. for a film noir style setting.*
     > - **👾 Hologram:** Investigating, interacting with, noticing inconsistencies in, and reshaping the simulation the characters exist within directly. *E.g. for a Matrix style setting.*
