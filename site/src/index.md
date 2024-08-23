@@ -172,7 +172,7 @@ Characters in this game have a set of Abilities that grant them certain actions 
 
 **Epic Storytelling:** Up to once per session, when your pool of Blessing Dice has a total combined worth of at least $10$, you may tell a rousing story or give a rousing speech. Each other character who hears the story or speech gains a Blessing Die.
 
-**Epic Awkwardness:** Up to once per session, when your pool of Blessing Dice has a total combined worth of at least $10$, you may tell an embarrassing story or perform an embarrassing dance. Each other character who hears the story or witnesses the dance becomes Uncool.
+**Epic Awkwardness:** Up to once per session, when your pool of Blessing Dice has a total combined worth of at least $10$, you may tell an cringy joke or perform an embarrassing dance. Each other character who hears the joke or witnesses the dance becomes Uncool.
 
 !!! details "DM Note: Replacing Abilities"
     Mechanically, there is no way for a character to lose or replace a Ability. However, you and your player may feel it is narratively appropriate to reflect their character's growth in response to powerful story events. How you rule the change of Abilities is up to you, as the best approach can vary from story to story.
@@ -418,7 +418,7 @@ While most effects help shape the narrative of the game, your DM may find it app
 !!! compat "Wisened"
     If your starting Lifestyle was Wisened, at the end of a session you may spend ①①①① to change your Lifestyle to Warry or Compelling.
 
-    **🪬 TODO:** Your wise TODO. Upgrading your Head and Home dice cost ① less each time, and when you perform Spark Stat Checks using either of these Stats it costs only ③ instead. You also gain the "TODO" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
+    **🪬 Steadfast:** Your wise steadiness and alertness have made you adept at warding off harm and protecting your loved ones. When you have sparks, they take on a firm or dispelling aspect. Upgrading your Head and Home dice cost ① less each time, and when you perform Spark Stat Checks using either of these Stats it costs only ③ instead. You also gain the "TODO" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
 
     **👁️ Warry:** You are one with the natural and supernatural worlds around you, and you have a keen sense of danger and safety. When you have sparks, they take on an astral or prophetic aspect. Upgrading your Hand and Hurry dice cost ① less each time, and when you perform Spark Stat Checks using either of these Stats it costs only ③ instead. You also gain the "Past Repeated" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
 
