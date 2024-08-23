@@ -52,7 +52,9 @@ All of your Basic Stat dice can be upgraded later in the [Session Shop](#Session
     - And be something all players would want to upgrade and function the same for all players. Otherwise, it would be simpler to cover this "Stat" with History and let the players decide who will specialize in it, how they will specialize in it, and who will leave it alone.
     - And be the only new Stat you have added to your game. Otherwise, you risk creating a situation where players each have a large number of Stats that go relatively unused.
 
-    Finally, Stats you create do not need to start with the letter "H" (though, big kudos if you can keep the alliteration going!).
+    Although Stats you create do not need to start with the letter "H," big kudos if you can keep the alliteration going!
+
+    Finally, if you create a new Stat, the Lifestyle options as written will not benefit your new Stat. So, when your players upgrade their Lifestyle and receive a benefit to one of the first six Basic Stats, they may have that Lifestyle benefit your new Stat instead.
 
 ## Lifestyle
 
