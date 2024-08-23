@@ -418,7 +418,7 @@ While most effects help shape the narrative of the game, your DM may find it app
 !!! compat "Wisened"
     If your starting Lifestyle was Wisened, at the end of a session you may spend ①①①① to change your Lifestyle to Warry or Compelling.
 
-    **TODO:** Your wise TODO. Upgrading your Head and Home dice cost ① less each time, and when you perform Spark Stat Checks using either of these Stats it costs only ③ instead. You also gain the "TODO" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
+    **🪬 TODO:** Your wise TODO. Upgrading your Head and Home dice cost ① less each time, and when you perform Spark Stat Checks using either of these Stats it costs only ③ instead. You also gain the "TODO" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
 
     **👁️ Warry:** You are one with the natural and supernatural worlds around you, and you have a keen sense of danger and safety. When you have sparks, they take on an astral or prophetic aspect. Upgrading your Hand and Hurry dice cost ① less each time, and when you perform Spark Stat Checks using either of these Stats it costs only ③ instead. You also gain the "Past Repeated" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
 
