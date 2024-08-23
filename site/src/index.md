@@ -43,6 +43,7 @@ All of your Basic Stat dice can be upgraded later in the [Session Shop](#Session
     > - **🐦‍🔥 Hex:** Use of wands, spells, potions, and other magical instruments, traps, lore, and knowledge.
     > - **🦾 Hardware:** Use of machines, robotics, and cybernetic implants
     > - **🔎 Hunch:** Locating clues, guessing the right solution to a puzzle, being in the right place at the right time.
+    > - **👾 Hologram:** Investigating, interacting with, noticing inconsistencies in, and reshaping the simulation the characters exist within directly
     > - **💀 Hardship:** Shared narrative touchstones of the story that represent the town's obstacles, troubles, and adversities. This Stat cannot be upgraded beyond a $d4$, but can still be involved in Spark Stat Checks and be boosted by Abilities like other Basic Stats.
     
     However, please note, if you want to create a new Stat, it must:
