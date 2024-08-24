@@ -110,6 +110,8 @@ Characters in this game have a set of Abilities that grant them certain actions 
 
     With that in mind, pick two of the following Abilities to start the game with. You can gain additional Abilities later in the [Session Shop](#Session-Shop).
 
+**Survival Instinct:** When a ① is spent to Help one of your rolls using your Hurry Stat, the result of your roll is increased by $+2$ instead of $+1$.
+
 **Focused Determination:** Each time you bump your dice, increase the result of the roll by an additional $+1$.
 
 **Efficiently Packed:** When you perform a Preparedness Check, you may have the roll bump when you roll a $2$ on the die.
@@ -297,7 +299,7 @@ When a Blessing Die is spent, it is removed from your pool of Blessing Dice.
 
 ### Helping
 
-Once per roll, whether your own or another character’s, you may spend any number of ① to increase the result of that roll by $+1$ for each ① spent. You may only spend ① to help other characters this way if your character is near enough to them to reasonably help with the action.
+Once per roll, whether your own or another character’s, you may Help by spending any number of ① to increase the result of that roll by $+1$ for each ① spent. You may only spend ① to Help other characters this way if your character is near enough to them to reasonably assist with the action.
 
 ### Preparedness
 
