@@ -370,6 +370,8 @@ You do not have "hit points" in this game. Instead, wounds shape the narrative a
     
     You can treat minor and medium wounds as ways the Attacker can get at what they want from the Defender in the scene, which is not always to just inflict injury on others. And you can treat major wounds as representing going too far using violent means to get what they want.
 
+    When a character suffers a major wound, it can be unsatisfying for them to be immediately removed from the game. Instead, you might draw the tension and possibility to respond out further. One way to do so is to provide the wounded character's allies opportunity to perform a Home Contest against the same roll that the Attacker used to inflict the major wound. If an ally wins the contest by $5$, then the wound is successfully treated, perhaps reducing it to a medium or minor wound. However, if the Attacker is able to roll $5$ or more on a Hurt Stat Check before the allies can successfully treat the wound, then the Attacker may deliver a *coup de grace* to finish off the wounded.
+
 ### Chases
 
 Chases are extended Contests during which the characters involved race to be the first to reach some destination, to be the first to acheive some action, to escape without being caught, to advance an objective before time runs out, or so on. Many scenes where the tension is drawn out can be run as "chases."
