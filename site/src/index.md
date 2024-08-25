@@ -181,7 +181,7 @@ Characters in this game have a set of Abilities that grant them certain actions 
 
 **Epic Storytelling:** Up to once per session, when your pool of Blessing Dice has a total combined worth of at least $10$, you may tell a rousing story or give a rousing speech. Each other character who hears the story or speech gains a Blessing Die.
 
-**Epic Inventiry:** Up to once per session, when your pool of Blessing Dice has a total combined worth of at least $10$, you may declare boldly that you have exactly the item you need in the situation. You may perform a Preparedness Check even if you are Unprepared, and you may perform this Check using any Basic Stat.
+**Epic Inventory:** Up to once per session, when your pool of Blessing Dice has a total combined worth of at least $10$, you may declare boldly that you have exactly the item you need in the situation. You may perform a Preparedness Check even if you are Unprepared, and you may perform this Check using any Basic Stat.
 
 **Epic Awkwardness:** Up to once per session, when your pool of Blessing Dice has a total combined worth of at least $10$, you may tell an cringy joke or perform an embarrassing dance. Each other character who hears the joke or witnesses the dance becomes Uncool.
 
@@ -413,7 +413,7 @@ While most effects help shape the narrative of the game, your DM may find it app
 !!! compat "Carefree"
     If your starting Lifestyle was Carefree, at the end of a session you may spend ①①①① to change your Lifestyle to Blossomed, Prodigious, or Crafty.
 
-    **🌼 Blossomed:** Your carefree nature has kept you safe from harm and surrounded by friends. When you have sparks, they might take on a free and connected aspect. Upgrading your Heart and Hurry dice cost ① less each time, and when you perform Spark Stat Checks using either of these Stats it costs only ③ instead. You also gain the "Epic Storytelling" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
+    **🌼 Blossomed:** Your carefree nature has kept you safe from harm and surrounded by friends. When you have sparks, they might take on a free and connected aspect. Upgrading your History die costs ① less each time, and when you perform Spark Stat Checks using Heart or Hurry it costs only ③ instead. You also gain the "Epic Storytelling" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
     
     **🔮 Prodigious:** Your studies have come effortlessly to you, and secrets almost seem to just reveal themselves to you. When you have sparks, they might take on a sorcerous or uninhibited aspect. Upgrading your Head and Hurt dice cost ① less each time, and when you perform Spark Stat Checks using either of these Stats it costs only ③ instead. You also gain the "Blessed by Voices" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
 
@@ -422,7 +422,7 @@ While most effects help shape the narrative of the game, your DM may find it app
 !!! compat "Eager"
     If your starting Lifestyle was Eager, at the end of a session you may spend ①①①① to change your Lifestyle to Driven, Chosen, or Wired.
 
-    **⚜️ Driven:** Your eager drive has found purchase in a great mission or calling. When you have sparks, they might take on an incorrigible or resolute aspect. Upgrading your Hand and Hurt dice cost ① less each time, and when you perform Spark Stat Checks using either of these Stats it costs only ③ instead. You also gain the "Epic Inventory" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
+    **⚜️ Driven:** Your eager drive has found purchase in a great mission or calling. When you have sparks, they might take on an incorrigible or resolute aspect. Upgrading your History die costs ① less each time, and when you perform Spark Stat Checks using Hand or Hurt it costs only ③ instead. You also gain the "Epic Inventory" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
 
     **✨ Chosen:** You draw inspiration from the community around you, setting out on your journeys blessed, favored, or cursed. When you have sparks, they might take on a divine or noble aspect. Upgrading your Heart and Home dice cost ① less each time, and when you perform Spark Stat Checks using either of these Stats it costs only ③ instead. You also gain the "Blessed by Charity" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
 
@@ -431,7 +431,7 @@ While most effects help shape the narrative of the game, your DM may find it app
 !!! compat "Wisened"
     If your starting Lifestyle was Wisened, at the end of a session you may spend ①①①① to change your Lifestyle to Steadfast, Warry, or Compelling.
 
-    **🪬 Steadfast:** Your wise steadiness and alertness have made you adept at warding off harm and protecting your loved ones. When you have sparks, they might take on a firm or dispelling aspect. Upgrading your Head and Home dice cost ① less each time, and when you perform Spark Stat Checks using either of these Stats it costs only ③ instead. You also gain the "Epic Awkwardness" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
+    **🪬 Steadfast:** Your wise steadiness and alertness have made you adept at warding off harm and protecting your loved ones. When you have sparks, they might take on a firm or dispelling aspect. Upgrading your History die costs ① less each time, and when you perform Spark Stat Checks using Head or Home it costs only ③ instead. You also gain the "Epic Awkwardness" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
 
     **👁️ Warry:** You are one with the natural and supernatural worlds around you, and you have a keen sense of danger and safety. When you have sparks, they might take on an astral or prophetic aspect. Upgrading your Hand and Hurry dice cost ① less each time, and when you perform Spark Stat Checks using either of these Stats it costs only ③ instead. You also gain the "Past Repeated" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
 
