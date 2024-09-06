@@ -19,19 +19,19 @@ Each character in this game has seven Basic Stats, represented by the "seven H�
     
     As you do, begin to think about the story your character takes on in your mind. Why are they good at this and not at that? Why is one important to them and not the other? What are they trying to improve? What do they like getting help from others on?
 
-**🧠 Head:** Intellectual pursuits, problem solving, puzzles, riddles, scanning for information, recalling facts, insight, reasoning, operating and building complex machines, playing practiced music
+**🧠 Head:** Intellectual pursuits, problem solving, puzzles, riddles, scanning for information, recalling facts, insight, reasoning, operating and building complex machines, playing practiced music. With a high Head Stat you can tackle intellectual puzzles with ease. With a low Head Stat you may find yourself confounded easily or solutions to puzzles just outside your reach
 
-**✌️ Hand:** Athletic pursuits, sleight of hand, activities that require physical training, raw non-violent strength, moving quietly
+**✌️ Hand:** Athletic pursuits, sleight of hand, activities that require physical training, raw non-violent strength, moving quietly. With a high Hand Stat you are in complete control of your physical efforts. With a low Hand Stat you may tire easily or loud, clanky obstacles might always be in your way
 
-**💕 Heart:** Speaking with passion, understanding others, reading emotions, playing music improvisationally
+**💕 Heart:** Speaking with passion, understanding others, reading emotions, playing music improvisationally. With a high Heart Stat you understand others' intentions easily and act accordingly. With a low Heart Stat others maybe just aren't as enthused about your interests as you are
 
-**🩹 Home:** Protecting yourself and loved ones, taking hits, tending to wounds, haggling, survival skills, cooking, navigating towns and dwellings, remaining calm, staying alert, coming prepared
+**🩹 Home:** Protecting yourself and loved ones, taking hits, tending to wounds, haggling, survival skills, cooking, navigating towns and dwellings, remaining calm, staying alert, coming prepared. With a high Home Stat you can easily be depended upon in situations both mundane and dire. With a low Home Stat your estimates of health and money matters might frequently be off or you find you seem to always misplace items
 
-**👿 Hurt:** Nerve and willingness to inflict harm on others
+**👿 Hurt:** Nerve and willingness to inflict harm on others. With a high Hurt Stat you can easily steel your resolve when the time calls for violent answers. With a low Hurt Stat your caring for others' wellbeing seems to easily extend even to your enemies
 
-**⚠️ Hurry:** Escaping danger, reacting by instinct, surges of adrenaline
+**⚠️ Hurry:** Escaping danger, reacting by instinct, surges of adrenaline. With a high Hurry Stat you find that your body moves easily to keep you safe from danger. With a low Hurry Stat you might freeze up when you don't want to or you are remarkably distracted by anything
 
-**⏳ History:** Narrative touchstones representing your unique specializations, skills, proficiencies, hardships, and other aspects covered by your character's backstory and the history of their people, but not covered by or more specific than the other Basic Stats above
+**⏳ History:** Narrative touchstones representing your unique specializations, skills, proficiencies, hardships, and other aspects covered by your character's backstory and the history of their people, but not covered by or more specific than the other Basic Stats above. With a high History Stat you have achieved the specialized training you set out to achieve. With a low History Stat your specific worries and weaknesses seem to creep up more often
 
 When you begin the game, most of your Basic Stats are equal, using a $d4$ for their Basic Stat Checks. However, the Basic Stat you ranked as your highest Stat begins the game one die size larger. Your Lifestyle also increases your starting Basic Stat dice.
 
