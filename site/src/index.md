@@ -240,12 +240,7 @@ You may spend ④ to perform a Spark Stat Check instead of a Basic Stat Check, w
 
 Any bonuses or effects that would apply to the balanced Stats used in the Spark Stat Check also apply to the Spark Stat Check itself.
 
-!!! details "DM Note: Setting Spark Stat Check Targets"
-    Use $7$ for an easy Spark Stat Check, $12$ for medium, $18$ for hard, $25$ for very hard, and $33$ for a trial the players will be greatly awarded for overcoming. These difficulties are substantially higher than their mundane Basic Stat Check counterparts, representing both the greater capability yet greater risk of relying on their sparks. The lowest possible Spark Stat Check is $4$.
-    
-    Medium is the average for rolls in most situations the players will get themselves into. For situations that you surprise your players with that they don't have the chance to prepare for before reacting, consider lowering the difficulty by $2$ or $3$. The reason is that surprise situations are more likely to use characters' lower Stat Dice.
-    
-    Also keep in mind that $14$ is the lowest Spark Stat Check difficulty where a player can fail bad enough for disastrous results.
+!!! details "DM Note: Setting Spark Stat 
 
 ### Highs and Lows
 
