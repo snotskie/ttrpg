@@ -240,8 +240,6 @@ You may spend $2$ dice from your pool of Blessing Dice of the same worth to perf
 
 Any bonuses or effects that would apply to the balanced Stats used in the Spark Stat Check also apply to the Spark Stat Check itself.
 
-!!! details "DM Note: Setting Spark Stat 
-
 ### Highs and Lows
 
 When you succeed on a Check or win a Contest by $5$ or more above the number you needed to reach, then something extra cool may happen. On the other hand, when you fail a Check or lose a Contest by $5$ or more, then something extra bad may happen. Failing or losing by $10$ or more can be disastrous.
