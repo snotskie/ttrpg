@@ -12,10 +12,10 @@
 
 ## Basic Stats
 
-Each character in this game has seven Basic Stats, represented by the "seven H’s" described below. Together, these Basic Stats describe a character's general capabilities at wide ranges of tasks and situations.
+Each character in this game has a small number of Basic Stats, represented by the "H’s of Humanity" described below. Together, these Basic Stats describe a character's general capabilities at wide ranges of tasks and situations.
 
 !!! tip "Character Creation: Step One!"
-    Your first task is to decide which Stats your character is best (and worst) at! Rank your "seven H's" for your character: What are they most capable at? least capable at? just middly capable at?
+    Your first task is to decide which Stats your character are best (and worst) at! Rank your "H's" for your character: What are they most capable at? least capable at? just middly capable at?
     
     As you do, begin to think about the story your character takes on in your mind. Why are they good at this and not at that? Why is one important to them and not the other? What are they trying to improve? What do they like getting help from others on?
 
