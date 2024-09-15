@@ -121,7 +121,7 @@ Characters in this game have a set of Abilities that grant them certain actions 
 **Armored Skin:** Whenever you lose a violent Contest as the Defender, protect yourself for $+3$.
 
 !!! note "Effect Wording: Protect Yourself for $+X$"
-    When an effect describes a failed Check or lost Contest and says to “protect yourself for $+X$,” increase the result of your roll by $+X$. This cannot turn the failure into a success or loss into a win, but it can reduce the severity of the outcome.
+    When an effect describes a failed Check or lost Contest and says to “protect yourself for $+X$,” you suffer the results as though you had rolled $+X$ higher. This cannot turn the failure into a success or loss into a win, but it can reduce the severity of the outcome.
 
 **Careful Resolve:** Whenever you fail a Check while performing dangerous stunts or procedures, protect yourself for $+3$.
 
