@@ -152,7 +152,7 @@ Characters in this game have a set of Abilities that grant them certain actions 
 
 **Blessed by Circumstance:** During a Contest involving three or more characters, you may swap the results of two characters’ rolls. Then this ability cannot be activated again until you spend ⑤ to recharge it.
 
-**Blessed by Self-Sacrifice:** During a Chase involving three or more characters, you may reduce the result of your own roll to $0$. Then this ability cannot be activated again until you spend ② to recharge it.
+**Blessed by Self-Sacrifice:** During an Endeavor involving three or more characters, you may reduce the result of your own roll to $0$. Then this ability cannot be activated again until you spend ② to recharge it.
 
 **Blessed by Voices:** You may learn more about a character, place, or fact than would normally be possible, and this knowledge may come with consequences. Then this ability cannot be activated again until you spend ④ to recharge it.
 
@@ -365,19 +365,20 @@ You do not have "hit points" in this game. Instead, wounds shape the narrative a
 
     When a character suffers a major wound, it can be unsatisfying for them to be immediately removed from the game. Instead, you might draw the tension and possibility to respond out further. One way to do so is to provide the wounded character's allies opportunity to perform a Home Contest against the same roll that the Attacker used to inflict the major wound. If an ally wins the contest by $5$, then the wound is successfully treated, perhaps reducing it to a medium or minor wound. However, if the Attacker is able to roll $5$ or more on a Hurt Stat Check before the allies can successfully treat the wound, then the Attacker may deliver a *coup de grace* to finish off the wounded.
 
-### Chases
+### Endeavors
 
-Chases are extended Contests during which the characters involved race to be the first to reach some destination, to be the first to acheive some action, to escape without being caught, to advance an objective before time runs out, or so on. Many scenes where the tension is drawn out can be run as "chases."
+Endeavors are extended Contests during which the characters involved race to be the first to reach some destination, to be the first to acheive some action, to escape without being caught, to advance an objective before time runs out, or so on. Many scenes where the tension is drawn out can be run as Endeavors.
 
-Chases are carried out as a number of rounds in which the characters perform Contests against one another to progress themselves and slow their opponents. Additionally, characters involved perform Stat Checks to overcome hazards in the environment.
+Endeavors are carried out as a number of rounds in which the characters attempt actions and perform Contests against one another to progress themselves and slow their opponents. Additionally, characters involved may perform Stat Checks to overcome hazards in the environment.
 
-To perform a Chase:
+To perform an Endeavor:
 
-1. **Setup:** Place a token representing each character involved in the Chase on a number line, starting at position $0$. Then, the DM describes the winning and losing conditions of the Chase, such as being the first to reach at least space $20$ at the end of a round, to have moved the furthest at the end of $3$ rounds, to be the last one standing by avoiding environmental hazards, or so on or some combination of conditions.
-2. **Gaining the Advantage:** At the top of each round, the characters perform a Contest representing their movement, using the most appropriate Stat for the situation: Hand, Hurry, Hurt (if pursuing others violently), or another Stat. Then, only the character(s) who rolled the highest move(s) forward on the number line. The severity of the amount they rolled higher than the lowest roll of the Contest determines the number of spaces moved, moving $2$ spaces for a Minor Effect, $3$ for a Medium Effect, or $5$ for a Major Effect.
-3. **Responding:** Starting with the character(s) who rolled the lowest at the start of the round, characters may work together to perform Contests against their opponents involved in the Chase. For each Contest, the winning side of the Contest moves forward, and the severity of the amount the winning side won by determines the number of spaces moved, moving $1$ space for a Minor Effect, $2$ for a Medium Effect, or $3$ for a Major Effect. A character can only be involved in a single Contest this way, regardless if they are involved as an Attacker or Defender.
-4. **Hazards:** At the end of the round, the DM may describe an environmental hazard that could affect all or some of the leading characters involved the Chase, asking them to perform a Check to avoid the effects.
-5. **Ending:** Repeat rounds until the Chase has been won, lost, ends in a draw, or gets interrupted.
+1. **Setup:** Place a token representing each character involved in the Endeavor on a number line, starting at position $0$. Then, the DM describes the winning and losing conditions of the Endeavor, such as being the first to reach at least space $20$ at the end of a round, to have moved the furthest at the end of $3$ rounds, to be the last one standing by avoiding environmental hazards, or so on or some combination of conditions.
+2. **Gaining the Advantage:** At the top of each round, the characters each propose a course of action, then rolls as though performing a Check for their proposed action. Only the highest roll continues forward as an Attack. All other proposed actions become muddled in the chaos of the Endeavor; they are neither wins, losses, successes, or failures. The highest rolling character also moves forward on the number line, representing an advantage gained towards their objectives. The severity of the amount they rolled higher than the lowest roll determines the number of spaces moved, moving $2$ spaces for a Minor difference, $3$ for a Medium difference, or $5$ for a Major difference. Characters may choose to sit out this phase of the Endeavor or work together as though performing a Group Check.
+3. **Responding:** Next, the Defenders of the above Attack roll as Defenders. The winners of this Contest then move forward, and the severity of the amount the winning side won by determines the number of spaces moved, moving $1$ space for a Minor Effect, $2$ for a Medium Effect, or $3$ for a Major Effect.
+4. **Adapting.** Then, starting with those who sat out at the start of the round then those wbo rolled the lowest at the start of the round, characters not involved in the above Contest may propose and perform new Contests against their opponents in the Endeavor. For each of these Contests, the winning side of the Contest moves forward, and the severity of the amount the winning side won by determines the number of spaces moved, moving $1$ space for a Minor Effect, $2$ for a Medium Effect, or $3$ for a Major Effect. A character can only be involved in a single Contest this way, regardless if they are involved as an Attacker or Defender.
+5. **Hazards:** At the end of the round, the DM may describe an environmental hazard that could affect all or some of the leading characters involved the Endeavor, asking them to perform a Check to avoid the effects.
+6. **Ending:** Repeat rounds until the Endeavor has been won, lost, ends in a draw, or gets interrupted.
 
 ### Example Conditions
 
@@ -387,7 +388,7 @@ While most effects help shape the narrative of the game, your DM may find it app
 - **Weakened:** Rolls you make as a Defender in violent Contests are made with a $-2$ modifier. Resting or tending to your wounds ends this condition.
 - **Agreeable to $X$:** Rolls you make as a Defender in non-violent Contests where $X$ is an Attacker are made with a $-2$ modifier. If $X$ does an action or makes a request that would bring you harm, this condition ends.
 - **Head/Hand/Heart/Home Cursed by $X$:** When $X$ witnesses you perform a roll using the affected Stat, $X$ may have you perform the roll again and use the new value. If they do, this condition ends.
-- **Slowed/Mislead:** The next roll you make to gain the advantage in a Chase is made with a $-2$ modifier. Then, this condition ends.
+- **Slowed/Mislead:** The next roll you make to gain the advantage in an Endeavor is made with a $-2$ modifier. Then, this condition ends.
 - **Exhausted/Cursed:** Dice in your pool of Blessing Dice are each worth $1$ less, to a minimum of $1$. This condition ends when you remove its cause.
 - **Distracted:** Rolls you make do not bump. This condition ends when you remove its cause.
 - **Disarmed:** If you would win a violent Contest as the Attacker by $10$ or more, you win by $9$ instead. When you find a new weapon or take a moment to recompose yourself, this condition ends.
