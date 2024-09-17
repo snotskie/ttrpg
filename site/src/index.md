@@ -352,7 +352,7 @@ A character cannot be a part of multiple Contests or Checks at the same time.
 
 And when multiple characters attempt to perform actions that would require Checks or Contests at the same time, only one of these actions can drive the central narrative as the Focal Action.
 
-Other actions that were attempted at the same moment, the Side Actions, could still occur, or they could be interrupted, muddled by the chaos of the situation, abandoned by the character in response to the results of the Focal Action, or so on. Such actions are not considered wins, losses, failures, or successes.
+Other actions that were attempted at the same moment, the Side Actions, could still occur. However, they could also be interrupted, muddled by the chaos of the situation, abandoned by the character in response to the results of the Focal Action, or so on; such actions are not considered wins, losses, failures, or successes.
 
 To resolve simultaneous actions, follow these steps:
 
