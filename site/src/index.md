@@ -337,8 +337,6 @@ To perform a violent Contest, the Attacker first rolls as though performing a Hu
 
 If the violence continues past this initial Contest, then the Attackers may choose to change tactics, such as performing a non-violent Contest to shift subsequent rounds in their favor. Additionally, Defenders may choose to respond to these attacks with a greater range of options, such as outwitting (Head), calling on honor (Hand), destroying a part of the environment (Hand), calling for a truce (Heart), or repositioning oneself (Head or Home).
 
-And for both violent and non-violent Contests, if both characters are attacking one another at the same time, then each character first rolls as Attackers, narrating how they attack. Then only the higher roll goes through as an attack--the lower roll has been interrupted, neither winning, losing, failing, or succeeding. Then the lower roller rolls as a Defender against the attack, narrating how they respond, and effects are determined as usual.
-
 !!! warning "Rules Note: Checks vs. Contests"
     Checks use the terms “fail” and “succeed,” while Contests use “lose” and “win” instead. When an effect only mentions failing or succeeding Checks, it does not affect losing or winning Contests. And when an effect only mentions losing or winning Contests, it does not affect failing or succeeding Checks. A Contest itself is not a Check, though it does involve a series of rolls similar to Checks made against one another. For example, the "Blessed by Luck" Ability allows you to turn a failed Check into a success. However, it does not allow you to turn a lost Contest into a win. The Uncool condition on the other hand does affect both Checks and Contests, because it modifies the results of rolls performed, without mentioning success, failure, win, or loss directly.
 
@@ -347,6 +345,38 @@ And for both violent and non-violent Contests, if both characters are attacking 
 If multiple characters are Attackers together in a Contest, then they each perform their respective rolls and the median of their results is used to determine the group’s shared result.
 
 If multiple characters are Defenders together in a Contest, or are performing a coordinated Check, then they each perform their respective rolls, and if at least half would succeed the Check or win the Contest, then the group as a whole succeeds or wins.
+
+### Simultaneous Actions
+
+A character cannot be a part of multiple Contests or Checks at the same time.
+
+And when multiple characters attempt to perform actions that would require Checks or Contests at the same time, only one of these actions can drive the central narrative as the Focal Action.
+
+Other actions that were attempted at the same moment, the Side Actions, could still occur, or they could be interrupted, muddled by the chaos of the situation, abandoned by the character in response to the results of the Focal Action, or so on. Such actions are not considered wins, losses, failures, or successes.
+
+To resolve simultaneous actions, follow these steps:
+
+1. All characters roll for their attempted actions, whether as though they were performing a Check or performing a Contest as the Attacker. Only the highest of these rolls continues through as the Focal Action. with the DM resolving ties.
+2. The Focal Action is resolved. If the Focal Action had Defenders, they perform their rolls as Defenders for that Contest.
+3. Side Actions are then resolved. Starting with the character that rolled the lowest in step 1, if that character has not been involved in another Check or Contest already this simultaneous action, that character decides: Do they continue with their original idea, adapt it to the new situation around them, follow a brand new idea, or abandon acting altogether? The character then performs a Check or a Contest as usual to resolve their chosen course of action. If this action involves other characters, those characters must not have already been involved in another Check or Contest already this simultaneous action.
+4. Repeat step 3 with the character that rolled the next lowest. Once all characters have either been involved in a Check or Contest or abandoned acting this simulatenous action, the simultaneous action is resolved.
+
+For example, if two characters are attacking one another at the same time, then each character first rolls as Attackers, narrating how they attempt to attack. Then only the higher roll goes through as an attack--the lower roll has been interrupted, neither winning, losing, failing, or succeeding. Then the lower roller rolls as a Defender against the attack, narrating how they respond, and effects are determined as usual.
+
+### Endeavors
+
+Endeavors are series of simultaneous actions during which the characters involved race to be the first to reach some destination, to be the first to acheive some action, to escape without being caught, to advance an objective before time runs out, or so on. Many scenes where the tension is drawn out can be run as Endeavors.
+
+Endeavors are carried out as a number of rounds in which the characters attempt actions and perform Contests and Checks to drive the narrative tension, progress themselves, and slow their opponents. Additionally, characters involved may be asked to perform Stat Checks to overcome hazards in the environment. Each round, the narrative primarily follows a single Focal Action, then resolves smaller Side Actions.
+
+To perform an Endeavor:
+
+1. **Setup:** Place a token representing each character involved in the Endeavor on a number line, starting at position $0$. Then, the DM describes the winning and losing conditions of the Endeavor, such as being the first to reach at least space $20$ at the end of a round, to have moved the furthest at the end of $3$ rounds, to be the last one standing by avoiding environmental hazards, or so on or some combination of conditions.
+2. **Take the Focus:** At the top of each round, determine the Focal Action: the characters each propose a course of action, then roll as normal for beginning simultaneous actions. Characters may choose to sit out this phase of the Endeavor. The highest rolling character then moves forward on the number line, representing an advantage gained towards their objectives as their proposed course of action directs the narrative tension. The severity of the amount they rolled higher than the lowest roll determines the number of spaces moved, moving $2$ spaces for a Minor difference, $3$ for a Medium difference, or $5$ for a Major difference.
+4. **Respond:** Next, resolve the Focal Action: if the Focal Action had Defenders, they roll to defend against it. The winners of this Contest then move forward, and the severity of the amount the winning side won by determines the number of spaces moved, moving $1$ space for a Minor difference, $2$ for a Medium difference, or $3$ for a Major difference.
+5. **Side Action.** Then, determine and resolve Side Actions, starting with those who sat out at the start of the round then those who rolled the lowest at the start of the round. For each of these Side Actions, the winning or succeeding side moves forward, and the severity of the win or success determines the number of spaces moved, moving $1$ space for a Minor difference, $2$ for a Medium difference, or $3$ for a Major difference.
+6. **Hazards:** At the end of the round, the DM may describe an environmental hazard that could affect all or some of the leading characters involved the Endeavor, asking them to perform a Check to avoid the effects.
+7. **End:** Repeat rounds until the Endeavor has been won, lost, ends in a draw, or gets interrupted.
 
 ### Wounds
 
@@ -364,21 +394,6 @@ You do not have "hit points" in this game. Instead, wounds shape the narrative a
     You can treat minor and medium wounds as ways the Attacker can get at what they want from the Defender in the scene, which is not always to just inflict injury on others. And you can treat major wounds as representing going too far using violent means to get what they want.
 
     When a character suffers a major wound, it can be unsatisfying for them to be immediately removed from the game. Instead, you might draw the tension and possibility to respond out further. One way to do so is to provide the wounded character's allies opportunity to perform a Home Contest against the same roll that the Attacker used to inflict the major wound. If an ally wins the contest by $5$, then the wound is successfully treated, perhaps reducing it to a medium or minor wound. However, if the Attacker is able to roll $5$ or more on a Hurt Stat Check before the allies can successfully treat the wound, then the Attacker may deliver a *coup de grace* to finish off the wounded.
-
-### Endeavors
-
-Endeavors are extended Contests during which the characters involved race to be the first to reach some destination, to be the first to acheive some action, to escape without being caught, to advance an objective before time runs out, or so on. Many scenes where the tension is drawn out can be run as Endeavors.
-
-Endeavors are carried out as a number of rounds in which the characters attempt actions and perform Contests and Checks to drive the narrative tension, progress themselves, and slow their opponents. Additionally, characters involved may be asked to perform Stat Checks to overcome hazards in the environment.
-
-To perform an Endeavor:
-
-1. **Setup:** Place a token representing each character involved in the Endeavor on a number line, starting at position $0$. Then, the DM describes the winning and losing conditions of the Endeavor, such as being the first to reach at least space $20$ at the end of a round, to have moved the furthest at the end of $3$ rounds, to be the last one standing by avoiding environmental hazards, or so on or some combination of conditions.
-2. **Take the Focus:** At the top of each round, the characters each propose a course of action, then rolls as though performing an attack for their proposed action. Only the highest roll continues forward as an attack, with the DM resolving ties. All other proposed actions become muddled in the chaos of the Endeavor; they are neither wins, losses, successes, or failures. Characters may choose to sit out this phase of the Endeavor. The highest rolling character then moves forward on the number line, representing an advantage gained towards their objectives as their proposed course of action directs the narrative tension. The severity of the amount they rolled higher than the lowest roll determines the number of spaces moved, moving $2$ spaces for a Minor difference, $3$ for a Medium difference, or $5$ for a Major difference.
-4. **Respond:** Next, the Defenders of the above attack roll to defend against it. The winners of this Contest then move forward, and the severity of the amount the winning side won by determines the number of spaces moved, moving $1$ space for a Minor Effect, $2$ for a Medium Effect, or $3$ for a Major Effect.
-5. **Side Action.** Then, starting with those who sat out at the start of the round then those who rolled the lowest at the start of the round, characters may propose and perform new Contests against their opponents or Checks against the environment. For each of these Contests and Checks, the winning or succeeding side moves forward, and the severity of the win or success determines the number of spaces moved, moving $1$ space for a Minor Effect, $2$ for a Medium Effect, or $3$ for a Major Effect. However, a character can only be involved in a single Contest or Check each round, regardless of what phase in the round that Contest or Check occured in or if they were an Attacker or Defender.
-6. **Hazards:** At the end of the round, the DM may describe an environmental hazard that could affect all or some of the leading characters involved the Endeavor, asking them to perform a Check to avoid the effects.
-7. **End:** Repeat rounds until the Endeavor has been won, lost, ends in a draw, or gets interrupted.
 
 ### Example Conditions
 
