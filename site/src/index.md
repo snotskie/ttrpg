@@ -342,32 +342,34 @@ If the violence continues past this initial Contest, then the Attackers may choo
 
 ### Group Contests
 
+Sometimes characters want to complete more complex actions together as a group.
+
 If multiple characters are Attackers together in a Contest, then they each perform their respective rolls and the median of their results is used to determine the group’s shared result.
 
 If multiple characters are Defenders together in a Contest, or are performing a coordinated Check, then they each perform their respective rolls, and if at least half would succeed the Check or win the Contest, then the group as a whole succeeds or wins.
 
 ### Simultaneous Actions
 
-A character cannot be a part of multiple Contests or Checks at the same time.
+Other times, several characters want to complete *different* actions at the same time, and not necessarily working together--perhaps even competing towards their respective goals!
 
-And when multiple characters attempt to perform actions that would require Checks or Contests at the same time, only one of these actions can drive the central narrative as the Focal Action.
+However, a character cannot be a part of multiple Contests or Checks at the same time. And when multiple characters attempt to perform actions that would require Checks or Contests at the same time, only one of these actions can drive the central narrative. This is the Focal Action.
 
-Other actions that were attempted at the same moment, the Side Actions, could still occur. However, they could also be interrupted, muddled by the chaos of the situation, abandoned by the character in response to the results of the Focal Action, or so on; such actions are not considered wins, losses, failures, or successes.
+Other actions that were attempted at the same moment, the Side Actions, could still occur. However, they could also be interrupted, muddled by the chaos of the situation, abandoned by the character in response to the results of the Focal Action, or so on; such actions are not considered wins, losses, failures, or successes, they simply don't go all the way from idea to execution.
 
 To resolve simultaneous actions, follow these steps:
 
-1. All characters roll for their attempted actions, whether as though they were performing a Check or performing a Contest as the Attacker. Only the highest of these rolls continues through as the Focal Action. with the DM resolving ties.
-2. The Focal Action is resolved. If the Focal Action had Defenders, they perform their rolls as Defenders for that Contest.
-3. Side Actions are then resolved. Starting with the character that rolled the lowest in step 1, if that character has not been involved in another Check or Contest already this simultaneous action, that character decides: Do they continue with their original idea, adapt it to the new situation around them, follow a brand new idea, or abandon acting altogether? The character then performs a Check or a Contest as usual to resolve their chosen course of action. If this action involves other characters, those characters must not have already been involved in another Check or Contest already this simultaneous action.
+1. All characters roll for their attempted actions, as though they were performing their Check or performing their Contest as the Attacker. Only the highest of these rolls continues through as the Focal Action, with the DM resolving ties.
+2. The Focal Action is then resolved. If the Focal Action had Defenders, they perform their rolls as Defenders for that Contest.
+3. Side Actions are then resolved. Starting with the character that rolled the lowest in step 1, if that character has already been involved in another Check or Contest this simultaneous action, regardless if it was for a Check or as an Attacker or Defender, that character no longer has the opportunity to act this simultaneous action. Otherwise, the character decides: Do they continue with their original idea, adapt it to the new situation around them, follow a brand new idea, or abandon acting altogether? If they choose to act, the character then performs a Check or a Contest as usual to resolve their chosen course of action. If this action involves other characters, those characters must not have already been involved in another Check or Contest already this simultaneous action.
 4. Repeat step 3 with the character that rolled the next lowest. Once all characters have either been involved in a Check or Contest or abandoned acting this simulatenous action, the simultaneous action is resolved.
 
-For example, if two characters are attacking one another at the same time, then each character first rolls as Attackers, narrating how they attempt to attack. Then only the higher roll goes through as an attack--the lower roll has been interrupted, neither winning, losing, failing, or succeeding. Then the lower roller rolls as a Defender against the attack, narrating how they respond, and effects are determined as usual.
+For example, if two characters are attacking one another at the same time, then each character first rolls as Attackers, narrating how they attempt to attack. Then only the higher roll goes through as an attack and as the Focal Action--the lower roll has been interrupted, neither winning, losing, failing, or succeeding. Then the lower roller rolls as a Defender against the attack, narrating how they respond, and effects are determined as usual. And as there were only two characters in this exchange, there were no opportunities for Side Actions by other characters.
 
 ### Endeavors
 
 Endeavors are series of simultaneous actions during which the characters involved race to be the first to reach some destination, to be the first to acheive some action, to escape without being caught, to advance an objective before time runs out, or so on. Many scenes where the tension is drawn out can be run as Endeavors.
 
-Endeavors are carried out as a number of rounds in which the characters attempt actions and perform Contests and Checks to drive the narrative tension, progress themselves, and slow their opponents. Additionally, characters involved may be asked to perform Stat Checks to overcome hazards in the environment. Each round, the narrative primarily follows a single Focal Action, then resolves smaller Side Actions.
+Endeavors are carried out as a number of rounds in which the characters attempt actions and perform Contests and Checks to drive the narrative tension, progress themselves, and slow their opponents. Additionally, characters involved may be asked to perform Stat Checks to overcome hazards in the environment. Each round, the narrative primarily follows a single Focal Action, then resolves smaller Side Actions before resolving hazards.
 
 To perform an Endeavor:
 
