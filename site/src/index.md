@@ -12,24 +12,26 @@
 
 ## Basic Stats
 
-Each character in this game has a small number of Basic Stats, represented by the "H’s of Humanity" described below. Together, these Basic Stats describe a character's general capabilities at wide ranges of tasks and situations.
+Each character in this game has a small number of Basic Stats, represented by the "H’s of Humanity" described below. Together, these few Basic Stats describe a character's general capabilities at a wide range of tasks and situations.
 
 !!! tip "Character Creation: Step One!"
-    Your first task is to decide which Stats your character are best (and worst) at! Rank your "H's" for your character: What are they most capable at? least capable at? just middly capable at?
+    Green boxes like these provide questions to help guide you as you create your first character!
+    
+    Your first task is to decide which Stats your character are best (and worst) at. Rank your Stats for your character: What are they most capable at? least capable at? just middly capable at?
     
     As you do, begin to think about the story your character takes on in your mind. Why are they good at this and not at that? Why is one important to them and not the other? What are they trying to improve? What do they like getting help from others on?
 
 **🧠 Head:** Intellectual pursuits, problem solving, puzzles, riddles, scanning for information, recalling facts, insight, reasoning, operating and building complex machines, playing practiced music. With a high Head Stat you can tackle intellectual puzzles with ease. With a low Head Stat you may find yourself confounded easily or solutions to puzzles just outside your reach
 
-**✌️ Hand:** Athletic pursuits, sleight of hand, activities that require physical training, raw non-violent strength, moving quietly. With a high Hand Stat you are in complete control of your physical efforts. With a low Hand Stat you may tire easily or loud, clanky obstacles might always be in your way
+**✌️ Hand:** Athletic pursuits, sleight of hand, activities that require physical training, raw non-violent strength, moving quietly. With a high Hand Stat you are in complete control of your physical efforts. With a low Hand Stat you may tire easily or loud and clanky obstacles might somehow always be in your way
 
-**💕 Heart:** Speaking with passion, understanding others, reading emotions, playing music improvisationally. With a high Heart Stat you understand others' intentions easily and act accordingly. With a low Heart Stat others maybe just aren't as enthused about your interests as you are
+**💕 Heart:** Speaking with passion, understanding others, reading emotions, playing music improvisationally. With a high Heart Stat you understand others' intentions easily and can act accordingly. With a low Heart Stat others maybe just aren't as enthused about your interests as you are
 
-**🩹 Home:** Protecting yourself and loved ones, taking hits, tending to wounds, haggling, survival skills, cooking, navigating towns and dwellings, remaining calm, staying alert, coming prepared. With a high Home Stat you can easily be depended upon in situations both mundane and dire. With a low Home Stat your estimates of health and money matters might frequently be off or you find you seem to always misplace items
+**🩹 Home:** Protecting yourself and loved ones, taking hits, tending to wounds, haggling, survival skills, cooking, navigating towns and dwellings, remaining calm, staying alert, coming prepared. With a high Home Stat you can easily be depended upon in situations both mundane and dire. With a low Home Stat your estimates of health and money matters might frequently be off or you always seem to always misplace items
 
-**👿 Hurt:** Nerve and willingness to inflict harm on others. With a high Hurt Stat you can easily steel your resolve when the time calls for violent answers. With a low Hurt Stat your caring for others' wellbeing seems to easily extend even to your enemies
+**👿 Hurt:** Nerve and willingness to inflict harm on others. With a high Hurt Stat you can easily steel your resolve when the time calls for violent answers. With a low Hurt Stat your caring for others' well-being seems to extend even to your enemies
 
-**⚠️ Hurry:** Escaping danger, reacting by instinct, surges of adrenaline. With a high Hurry Stat you find that your body moves easily to keep you safe from danger. With a low Hurry Stat you might freeze up when you don't want to or you are remarkably distracted by anything
+**⚠️ Hurry:** Escaping danger, reacting by instinct, surges of adrenaline. With a high Hurry Stat you find that your body moves easily to keep you safe from danger. With a low Hurry Stat you might freeze up more often than you'd like
 
 **⏳ History:** Narrative touchstones representing your unique specializations, skills, proficiencies, hardships, and other aspects covered by your character's backstory and the history of their people, but not covered by or more specific than the other Basic Stats above. With a high History Stat you have achieved the specialized training you set out to achieve. With a low History Stat your specific worries and weaknesses seem to creep up more often
 
@@ -59,7 +61,7 @@ All of your Basic Stat dice can be upgraded later in the [Session Shop](#Session
 
 ## Lifestyle
 
-Each character in this game starts with one of three Lifestyles, described below. More options characters can upgrade to later are described in the [Session Shop](#Session-Shop). A character's Lifestyle represents their general background and goals, and can change over the course of the story.
+Each character in this game starts with one of three Lifestyles, described below. Lifestyle upgrade options are described in the [Session Shop](#Session-Shop). A character's Lifestyle represents their general background and goals, and can change over the course of the story.
 
 !!! tip "Character Creation: Step Two!"
     Begin to describe the Lifestyle your character had growing up or their current outlook on life. As you do, pick one of the following Lifestyles to start the game with. These can be changed later in the [Session Shop](#Session-Shop).
@@ -72,10 +74,10 @@ Each character in this game starts with one of three Lifestyles, described below
 
 ## History
 
-Each character has a History Basic Stat, made up of a varied list of narrative touchstones. This Stat is used to perform actions more related to the character's backstory more than to the other Basic Stats. And even though every character has a History Basic Stat, what their History covers is unique to them and only them!
+Each character has a History Basic Stat, made up of a number of narrative touchstones. This Stat is used to perform actions more related to the character's backstory more than to the other Basic Stats. And even though every character has a History Basic Stat, what their History covers is unique to them and only them!
 
 !!! tip "Character Creation: Step Three!"
-    Begin to describe your character's backstory. Answer the following prompts, or others given to you by your DM. These background details will help build the story and set the scope of narrative touchstones your History Stat Checks cover.
+    Begin to describe your character's backstory. Answer the following prompts, or others given to you by your DM. These background details will help you and your DM build the story and set the scope of the narrative touchstones your History Stat Checks cover.
     
     - Describe who your character looks up to, whose work they strive to emulate, who taught them everything they know, or so on. What would it look like to make their Hero happy? upset? What is their connection to their Hero, and what is their Hero up to in the world now?
     - List three specific skills that your character has proven their ability in, such as through schooling, study, training, specialization within their team, or so on.
@@ -84,6 +86,8 @@ Each character has a History Basic Stat, made up of a varied list of narrative t
     - If your game's setting has non-human characters and your character is one of them, also describe one or two simple actions, within reason, that characters of your non-human species can perform unaided that human characters can't.
 
 !!! warning "Rules Note: When History Overlaps Other Stats"
+    Yellow boxes like these provide important notes about the rules!
+    
     When both your History Stat and another Basic Stat would be applicable in a situation, the DM may decide which applies more. Otherwise, you choose which to use.
 
 !!! details "DM Note: Scope of History Stat"
@@ -103,12 +107,14 @@ Each character has a History Basic Stat, made up of a varied list of narrative t
 
 ## Abilities
 
-Characters in this game have a set of Abilities that grant them certain actions or bonuses over the course of the game. These Abilities work together with characters' Stats, Lifestyle, and Backstory to make up their key defining traits.
+Characters in this game have a set of Abilities that grant them certain actions or bonuses over the course of the game. These Abilities work together with characters' Stats, Lifestyle, and Backstory to flesh out their key defining traits!
 
 !!! tip "Character Creation: Step Four!"
     Begin to imagine the kind of character taking shape in your mind. Have you seen characters like them before in movies, TV shows, and books? Were they the bully in school? Do they get drawn into conspiracy theories? Are they so laid-back that others think they're a slacker? Are they beautiful and popular? Are they quiet and hardworking? Etc. Try to envision the tropes from your favorite fictional stories that your character takes after.
 
-    With that in mind, pick two of the following Abilities to start the game with. You can gain additional Abilities later in the [Session Shop](#Session-Shop).
+    With that in mind, pick two of the following Abilities to start the game with. As you do, you may also want to consult the [Playing the Game](#Playing-the-Game) section further below to learn more about the rules these Abilities interact with.
+    
+    You can gain additional Abilities later in the [Session Shop](#Session-Shop).
 
 **Survival Instinct:** When a ① is spent to Help one of your rolls using your Hurry Stat, the result of your roll is increased by $+2$ instead of $+1$.
 
@@ -116,11 +122,13 @@ Characters in this game have a set of Abilities that grant them certain actions 
 
 **Efficiently Packed:** When you perform a Preparedness Check, you may have the roll bump when you roll a $2$ on the die.
 
-**Past Repeated:** Up to once per session, when you fail a non-violent Check or lose a non-violent Contest, you may choose to channel a past memory to guide you. If you do, for the rest of the scene, you may use your History Stat in place of the Stat you failed the Check or lost the Contest with.
+**Past Repeated:** Up to once per session, when you fail a non-violent Check or lose a non-violent Contest, you may choose to channel a past memory to guide you. If you do, for the rest of the scene, you may use your History Stat in place of the Stat you failed the Check or lost the Contest with, even for actions not typically covered by your History Stat.
 
 **Armored Skin:** Whenever you lose a violent Contest as the Defender, protect yourself for $+3$.
 
 !!! note "Effect Wording: Protect Yourself for $+X$"
+    Blue boxes like these provide explanation for common shorthanded wordings for effects in this game.
+    
     When an effect describes a failed Check or lost Contest and says to “protect yourself for $+X$,” you suffer the results as though you had rolled $+X$ higher. This cannot turn the failure into a success or loss into a win, but it can reduce the severity of the outcome.
 
 **Careful Resolve:** Whenever you fail a Check while performing dangerous stunts or procedures, protect yourself for $+3$.
@@ -133,9 +141,9 @@ Characters in this game have a set of Abilities that grant them certain actions 
 
 **Optimal Solution:** Up to twice per session, when you or a nearby ally attempt a roll for a non-violent Check or Contest, you may roll $4d6$; these dice do not bump. Group those dice into two piles of two dice such that a simple operation (addition or multiplication) could be performed to each pile so that the two operations' results would be equal. For example, if you rolled $1$, $1$, $1$, and $2$, you could group the piles such that $1×2=1+1$. If you are able to arrange the $4d6$ in such a way, you or your ally increases the result of their attempted roll by $+5$.
 
-**Synchronized Spark:** You may perform a Spark Stat Check using one of your Stats and one of the Stats of another willing character in the scene, so long as the chosen Stats are balanced, both characters have this ability, and the Blessing Die cost is paid between the twi characters.
+**Synchronized Spark:** You may perform a Spark Stat Check using one of your Stats and one of the Stats of another willing character in the scene, so long as the chosen Stats are balanced, both characters have this ability, and the Blessing Die cost is paid between the two characters.
 
-**Ascendant Spark:** You may perform a non-violent Spark Stat Check using three Stats instead of two, so long as those Stats each use a $d8$ or larger.
+**Ascendant Spark:** You may perform a non-violent Spark Stat Check using three Stats instead of two, so long as those Stats each use a $d8$ or larger and you pay double the Blessing Die cost as usual.
 
 **Advanced Training:** Increase the result of your rolls using a $d8$ or larger by $+1$.
 
@@ -192,7 +200,7 @@ Characters in this game have a set of Abilities that grant them certain actions 
 
 ## Items
 
-There is not a list of items to choose from in this game. Instead, items in this game are narrative and help shape the course of the story. Each character has a list of items they typically carry with them, and other items they may have with them can be determined in the moment.
+There is not an appendix of items to choose from in this game. Instead, items in this game are narrative and help shape the course of the story. Each character tracks a list of items they typically carry with them, and other items they may have with them can be determined in the moment.
 
 !!! tip "Character Creation: Step Five!"
     List three items that your character never leaves home without, within reason. These will be the items you start the game with.
@@ -228,17 +236,9 @@ To perform a Stat Check, roll the die for the action’s associated Stat. The DM
 !!! details "DM Note: Setting Basic Stat Check Targets"
     Use $4$ for an easy Basic Stat Check, $8$ for medium, $12$ for hard, $16$ for very hard, and $20$ for a trial the players will be greatly awarded for overcoming. The lowest possible Basic Stat Check is $2$.
     
-    Medium is the average for rolls in most situations the players will get themselves into. For situations that you surprise your players with that they don't have the chance to prepare for before reacting, consider lowering the difficulty by $2$ or $3$. The reason is that surprise situations are more likely to use characters' lower Stat Dice.
+    Medium is the average for rolls in most situations the players will get themselves into. For situations that you surprise your players with that they don't have the chance to prepare for before reacting, consider lowering the difficulty by $1$ to $3$. The reason is that surprise situations are more likely to use characters' lower Stat Dice.
     
-    Also keep in mind that $12$ is the lowest Basic Stat Check difficulty where a player can fail bad enough for disastrous results.
-
-### Balanced Stats can Spark
-
-When two of a character's Stats use the same die, those Stats are "balanced."
-
-You may spend $2$ dice from your pool of Blessing Dice of the same worth to perform a Spark Stat Check instead of a Basic Stat Check, which combines the dice of two balanced Stats into a single group, such as $2d6$ formed from two balanced Stats using a $d6$ each. These Spark Stat Checks represent a character's momentary "spark," that hint of magic or ability to achieve amazing feats, that penchant for pulling out surprising wins, and so on. These "sparks" are what allow characters to perform far beyond what is normally possible by the laws of nature, limited only by their imagination -- and ability to control powerful and strange forces!
-
-Any bonuses or effects that would apply to the balanced Stats used in the Spark Stat Check also apply to the Spark Stat Check itself.
+    Also keep in mind that $12$ is the lowest Basic Stat Check difficulty where a player can begin to fail bad enough for disastrous results.
 
 ### Highs and Lows
 
@@ -246,13 +246,9 @@ When you succeed on a Check or win a Contest by $5$ or more above the number you
 
 In general, there are three levels of severity to effects that result from rolls in this game:
 
-- **Minor Effect:** Winning, losing, succeeding, or failing by less than $5$
-- **Medium Effect:** Winning, losing, succeeding, or failing by at least $5$ but less than $10$
-- **Major Effect:** Winning, losing, succeeding, or failing by at least $10$
-
-### Surprise Threat
-
-When a character is surprised by a threat, their first roll in response to it cannot bump and cannot be a Spark Stat Check.
+- **Minor:** Winning, losing, succeeding, or failing by less than $5$
+- **Medium:** Winning, losing, succeeding, or failing by at least $5$ but less than $10$
+- **Major:** Winning, losing, succeeding, or failing by at least $10$
 
 ### Blessing Dice
 
@@ -290,6 +286,23 @@ The notation ①① represents two dice from your pool of Blessing Dice, each wo
 
 When a Blessing Die is spent, it is removed from your pool of Blessing Dice.
 
+### Balanced Stats can Spark
+
+When two of a character's Stats use the same die, those Stats are "balanced."
+
+You may spend $2$ dice from your pool of Blessing Dice of the same worth to perform a Spark Stat Check instead of a Basic Stat Check, which combines the dice of two balanced Stats into a single group, such as $2d6$ formed from two balanced Stats using a $d6$ each. These Spark Stat Checks represent a character's momentary "spark," that hint of magic or ability to achieve amazing feats, that penchant for pulling out surprising wins, and so on. These "sparks" are what allow characters to perform far beyond what is normally possible by the laws of nature, limited only by their imagination -- and ability to control powerful and strange forces!
+
+Any bonuses or effects that would apply to the balanced Stats used in the Spark Stat Check also apply to the Spark Stat Check itself.
+
+!!! warning "Rules Note: You Can Spark After First Roll"
+    You can decide to turn a Basic Stat Check into a Spark Stat Check before or after you've made your first roll for the Check.
+
+    For example, when you roll your first $1$ on the die, you can decide to take extra advantage of this opportunity. If you do, pay the Blessing Die cost to Spark, roll your second die, then reroll both for the bump, and add it all together.
+
+### Surprise Threat
+
+When a character is surprised by a threat, their first roll in response to it cannot bump and cannot be a Spark Stat Check.
+
 ### Helping
 
 Once per roll, whether your own or another character’s, you may Help by spending any number of ① to increase the result of that roll by $+1$ for each ① spent. You may only spend ① to Help other characters this way if your character is near enough to them to reasonably assist with the action.
@@ -322,20 +335,20 @@ While you are Uncool, all rolls you make are modified by $-1$. Once during each 
 A non-violent Contest is when a character performs an action against another character’s will using any Stat besides Hurt. To perform a non-violent Contest, first the Attacker rolls as though performing the appropriate Stat Check, then the Defender rolls as though performing a Stat Check using the same Stat as the Attacker. The action’s effect is only successful if the Attacker rolls higher than the Defender. The severity of the effect is determined by the difference between their scores. If the Attacker uses a Spark Stat Check, then the Defender may roll a Spark Stat Check using the same Stats, or a Stat Check using either of the Stats used in the Attacker's Spark Stat Check.
 
 !!! details "DM Note: Severity of Non-violent Effects"
-    - **Minor Effect:** A difference less than $5$ on a non-violent Contest represents a minor effect or the Attacker getting what they wanted, within reason, and with complications. Any advantage the Attacker gains is temporary.
-    - **Medium Effect:** A difference of at least $5$ but less than $10$ represents a medium effect or a lack of complications. Any advantage the Attacker gains lasts for several rolls by or against the Defender.
-    - **Major Effect:** A difference of $10$ or more represents a major effect than can change the narrative arc of the session or even campaign.
+    - **Minor:** A difference less than $5$ on a non-violent Contest represents a minor effect or the Attacker getting what they wanted, within reason, and with complications. Any advantage the Attacker gains is temporary.
+    - **Medium:** A difference of at least $5$ but less than $10$ represents a medium effect or a lack of complications. Any advantage the Attacker gains lasts for several rolls by or against the Defender.
+    - **Major:** A difference of $10$ or more represents a major effect than can change the narrative arc of the session or even campaign.
 
 A violent Contest is when an Attacker performs an action against another character’s will using their Hurt Stat. All Contests involving Hurt are potentially deadly. Unexpected things can happen and things can get out of hand quickly.
 
 To perform a violent Contest, the Attacker first rolls as though performing a Hurt Stat Check or Spark Stat Check that involves Hurt, then the Defender rolls as though performing a Hurry Stat Check or Spark Stat Check that involves Hurry, representing their immediate instinctive reaction in the scene. If the Attacker rolls higher, then the Defender could be bruised, dazed, concussed, in need of immediate medical attention, or even dead. The amount that the Attacker rolled higher than the Defender determines the extent of the injury—regardless if that was what the Attacker intended. If the Defender rolls the same or higher number than the Attacker, then no injury occurs.
 
 !!! details "DM Note: Severity of Violent Effects"
-    - **Minor Effect:** As with nonviolent Contests, a difference less than $5$ represents a minor wound that grants the Attacker only a temporary advantage, possibly with complications.
-    - **Medium Effect:** A difference at least $5$ but less than $10$ represents a medium wound that will need medical attention, possibly changing the narrative arc of the session to treat it, granting lasting effects if not treated successfully and in a timely manner.
-    - **Major Effect:** A difference of $10$ or more on a violent Contest represents a major wound, resulting in immediate death or grave injuries to the Defender needing immediate attention or a miracle.
+    - **Minor:** As with nonviolent Contests, a difference less than $5$ represents a minor wound that grants the Attacker only a temporary advantage, possibly with complications.
+    - **Medium:** A difference at least $5$ but less than $10$ represents a medium wound that will need medical attention, possibly changing the narrative arc of the session to treat it, granting lasting effects if not treated successfully and in a timely manner.
+    - **Major:** A difference of $10$ or more on a violent Contest represents a major wound, resulting in immediate death or grave injuries to the Defender needing immediate attention or a miracle.
 
-If the violence continues past this initial Contest, then the Attackers may choose to change tactics, such as performing a non-violent Contest to shift subsequent rounds in their favor. Additionally, Defenders may choose to respond to these attacks with a greater range of options, such as outwitting (Head), calling on honor (Hand), destroying a part of the environment (Hand), calling for a truce (Heart), or repositioning oneself (Head or Home).
+If the violence continues past this initial Contest, then the Attackers may choose to change tactics, such as performing a non-violent Contest to shift subsequent rounds in their favor. Additionally, Defenders may choose to respond to these attacks with a greater range of options than just Hurry, such as outwitting (Head), calling on honor (Hand), destroying a part of the environment (Hand), calling for a truce (Heart), or repositioning oneself (Head or Home).
 
 !!! warning "Rules Note: Checks vs. Contests"
     Checks use the terms “fail” and “succeed,” while Contests use “lose” and “win” instead. When an effect only mentions failing or succeeding Checks, it does not affect losing or winning Contests. And when an effect only mentions losing or winning Contests, it does not affect failing or succeeding Checks. A Contest itself is not a Check, though it does involve a series of rolls similar to Checks made against one another. For example, the "Blessed by Luck" Ability allows you to turn a failed Check into a success. However, it does not allow you to turn a lost Contest into a win. The Uncool condition on the other hand does affect both Checks and Contests, because it modifies the results of rolls performed, without mentioning success, failure, win, or loss directly.
@@ -350,18 +363,20 @@ If multiple characters are Defenders together in a Contest, or are performing a 
 
 ### Simultaneous Actions
 
-Other times, several characters want to complete *different* actions at the same time, and not necessarily working together--perhaps even competing towards their respective goals!
+Other times, several characters want to complete conflicting actions, all at the same time, as they compete towards their respective goals.
 
-However, a character cannot be a part of multiple Contests or Checks at the same time. And when multiple characters attempt to perform actions that would require Checks or Contests at the same time, only one of these actions can drive the central narrative. This is the Focal Action.
+However, a character cannot be a part of multiple Contests or Checks at the same time.
+
+And when multiple characters attempt to perform actions that would require Checks or Contests at the same time, only one of these actions can drive the central narrative. This is the Focal Action.
 
 Other actions that were attempted at the same moment, the Side Actions, could still occur. However, they could also be interrupted, muddled by the chaos of the situation, abandoned by the character in response to the results of the Focal Action, or so on; such actions are not considered wins, losses, failures, or successes, they simply don't go all the way from idea to execution.
 
 To resolve simultaneous actions, follow these steps:
 
-1. **Determine Focal Action:** All characters roll for their attempted actions, as though they were performing their Check or performing their Contest as the Attacker. Only the highest of these rolls continues through as the Focal Action, with the DM resolving ties.
-2. **Resolve Focal Action:** The Focal Action is then resolved. If the Focal Action had Defenders, they perform their rolls as Defenders for that Contest.
-3. **Determine and Resolve Side Actions:** Side Actions are then determined and resolved. Starting with the character that rolled the lowest in step 1, if that character has already been involved in another Check or Contest this simultaneous action, regardless if it was for a Check or as an Attacker or Defender, that character no longer has the opportunity to act this simultaneous action. Otherwise, the character decides: Do they continue with their original idea, adapt it to the new situation around them, follow a brand new idea, or abandon acting altogether? If they choose to act, the character then performs a Check or a Contest as usual to resolve their chosen course of action. If this action involves other characters, those characters must not have already been involved in another Check or Contest already this simultaneous action. Then repeat this process with the character who rolled the next lowest in step 1.
-4. **End:** Once all characters have either been involved in a Check, Contest, or chose not to act, the simultaneous action is resolved.
+1. **Determine the Focal Action:** All characters roll for their attempted actions, as though they were performing their Check or performing their Contest as the Attacker. Only the highest of these rolls continues through as the Focal Action, with the DM resolving ties.
+2. **Resolve the Focal Action:** The Focal Action is then resolved. If the Focal Action had Defenders, they perform their rolls as Defenders for that Contest.
+3. **Determine and Resolve any Side Actions:** Side Actions are then determined and resolved. Starting with the character that rolled the lowest in step 1, if that character has already been involved in another Check or Contest this simultaneous action, regardless if it was for a Check or as an Attacker or Defender, that character no longer has the opportunity to act this simultaneous action. Otherwise, the character decides: Do they continue with their original idea, adapt it to the new situation around them, follow a brand new idea, or abandon acting altogether? If they choose to act, the character then performs their Check or Contest as usual to resolve their chosen course of action. If this action involves other characters, those characters cannot have already been involved in another Check or Contest already this simultaneous action. Then repeat this process with the character who rolled the next lowest in step 1.
+4. **End:** Once all characters have either been involved in a Check, Contest, or chosen not to act, the simultaneous action is resolved.
 
 For example, if two characters are attacking one another at the same time, then each character first rolls as Attackers, narrating how they attempt to attack. Then only the higher roll goes through as an attack and as the Focal Action--the lower roll has been interrupted, neither winning, losing, failing, or succeeding. Then the lower roller rolls as a Defender against the attack, narrating how they respond, and effects are determined as usual. And as there were only two characters in this exchange, there were no opportunities for Side Actions by other characters.
 
@@ -406,7 +421,7 @@ While most effects help shape the narrative of the game, your DM may find it app
 - **Agreeable to $X$:** Rolls you make as a Defender in non-violent Contests where $X$ is an Attacker are made with a $-2$ modifier. If $X$ does an action or makes a request that would bring you harm, this condition ends.
 - **Head/Hand/Heart/Home Cursed by $X$:** When $X$ witnesses you perform a roll using the affected Stat, $X$ may have you perform the roll again and use the new value. If they do, this condition ends.
 - **Muddled:** The next roll you make to take the focus in an Endeavor is made with a $-2$ modifier. Then, this condition ends.
-- **Exhausted/Cursed:** Dice in your pool of Blessing Dice are each worth $1$ less, to a minimum of $1$. This condition ends when you remove its cause.
+- **Exhausted/Cursed:** Dice in your pool of Blessing Dice are each worth $1$ less, to a minimum of $0$. This condition ends when you remove its cause.
 - **Distracted:** Rolls you make do not bump. This condition ends when you remove its cause.
 - **Disarmed:** If you would win a violent Contest as the Attacker by $10$ or more, you win by $9$ instead. When you find a new weapon or take a moment to recompose yourself, this condition ends.
 - **Taxed:** You cannot perform Spark Stat Checks. Spending ①① ends this condition.
@@ -417,41 +432,41 @@ While most effects help shape the narrative of the game, your DM may find it app
 !!! compat "Basic Stats"
     At the end of a session, you may:
 
-    - spend ①① to upgrade a single Basic Stat's die from a $d4$ to a $d6$
-    - spend ①①① to upgrade a single Basic Stat's die from a $d6$ to a $d8$
-    - spend ①①①① to upgrade a single Basic Stat's die from a $d8$ to a $d10$
+    - spend ①①① to upgrade a single Basic Stat's die from a $d4$ to a $d6$
+    - spend ①①①①① to upgrade a single Basic Stat's die from a $d6$ to a $d8$
+    - spend ①①①①①①① to upgrade a single Basic Stat's die from a $d8$ to a $d10$
 
 !!! compat "Carefree"
     If your starting Lifestyle was Carefree, at the end of a session you may spend ①①①① to change your Lifestyle to Blossomed, Prodigious, or Crafty.
 
-    **🌼 Blossomed:** Your carefree nature has kept you safe from harm and surrounded by friends. When you have sparks, they might take on a free and connected aspect. Upgrading your History die costs ① less each time, and when you perform Spark Stat Checks using Heart or Hurry you may pay for it with ⑥ instead of $2$ dice of the same worth. You also gain the "Epic Storytelling" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
+    **🌼 Blossomed:** Your carefree nature has kept you safe from harm and surrounded by friends. When you have sparks, they might take on a free and connected aspect. Upgrading your History die costs ① less each time, and when you perform Spark Stat Checks using Heart or Hurry you may pay for it with ⑥① instead of $2$ dice of the same worth. You also gain the "Epic Storytelling" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
     
-    **🔮 Prodigious:** Your studies have come effortlessly to you, and secrets almost seem to just reveal themselves to you. When you have sparks, they might take on a sorcerous or uninhibited aspect. Upgrading your Head and Hurt dice cost ① less each time, and when you perform Spark Stat Checks using either of these Stats you may pay for it with ⑥ instead of $2$ dice of the same worth. You also gain the "Blessed by Voices" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
+    **🔮 Prodigious:** Your studies have come effortlessly to you, and secrets almost seem to just reveal themselves to you. When you have sparks, they might take on a sorcerous or uninhibited aspect. Upgrading your Head and Hurt dice cost ① less each time, and when you perform Spark Stat Checks using either of these Stats you may pay for it with ⑥① instead of $2$ dice of the same worth. You also gain the "Blessed by Voices" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
 
-    **🧶 Crafty:** You can envision amazing designs and, it seems, to bring them to life. When you have sparks, they might take on an autonomous or lucky aspect. Upgrading your Hand and Home dice cost ① less each time, and when you perform Spark Stat Checks using either of these Stats you may pay for it with ⑥ instead of $2$ dice of the same worth. You also gain the "Efficiently Packed" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
+    **🧶 Crafty:** You can envision amazing designs and, it seems, to bring them to life. When you have sparks, they might take on an autonomous or lucky aspect. Upgrading your Hand and Home dice cost ① less each time, and when you perform Spark Stat Checks using either of these Stats you may pay for it with ⑥① instead of $2$ dice of the same worth. You also gain the "Efficiently Packed" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
 
 !!! compat "Eager"
     If your starting Lifestyle was Eager, at the end of a session you may spend ①①①① to change your Lifestyle to Driven, Chosen, or Wired.
 
-    **⚜️ Driven:** Your eager drive has found purchase in a great mission or calling. When you have sparks, they might take on an incorrigible or resolute aspect. Upgrading your History die costs ① less each time, and when you perform Spark Stat Checks using Hand or Hurt you may pay for it with ⑥ instead of $2$ dice of the same worth. You also gain the "Epic Inventory" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
+    **⚜️ Driven:** Your eager drive has found purchase in a great mission or calling. When you have sparks, they might take on an incorrigible or resolute aspect. Upgrading your History die costs ① less each time, and when you perform Spark Stat Checks using Hand or Hurt you may pay for it with ⑥① instead of $2$ dice of the same worth. You also gain the "Epic Inventory" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
 
-    **✨ Chosen:** You draw inspiration from the community around you, setting out on your journeys blessed, favored, or cursed. When you have sparks, they might take on a divine or noble aspect. Upgrading your Heart and Home dice cost ① less each time, and when you perform Spark Stat Checks using either of these Stats you may pay for it with ⑥ instead of $2$ dice of the same worth. You also gain the "Blessed by Charity" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
+    **✨ Chosen:** You draw inspiration from the community around you, setting out on your journeys blessed, favored, or cursed. When you have sparks, they might take on a divine or noble aspect. Upgrading your Heart and Home dice cost ① less each time, and when you perform Spark Stat Checks using either of these Stats you may pay for it with ⑥① instead of $2$ dice of the same worth. You also gain the "Blessed by Charity" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
 
-    **⚡ Wired:** Your mind is quick and analytical, and you can see solutions to problems that are unimaginably complex. When you have sparks, they might take on a calculating or duplicative aspect. Upgrading your Head and Hurry dice cost ① less each time, and when you perform Spark Stat Checks using either of these Stats you may pay for it with ⑥ instead of $2$ dice of the same worth. You also gain the "Ease of Focus" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
+    **⚡ Wired:** Your mind is quick and analytical, and you can see solutions to problems that are unimaginably complex. When you have sparks, they might take on a calculating or duplicative aspect. Upgrading your Head and Hurry dice cost ① less each time, and when you perform Spark Stat Checks using either of these Stats you may pay for it with ⑥① instead of $2$ dice of the same worth. You also gain the "Ease of Focus" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
 
 !!! compat "Wisened"
     If your starting Lifestyle was Wisened, at the end of a session you may spend ①①①① to change your Lifestyle to Steadfast, Warry, or Compelling.
 
-    **🪬 Steadfast:** Your wise steadiness and alertness have made you adept at warding off harm and protecting your loved ones. When you have sparks, they might take on a firm or dispelling aspect. Upgrading your History die costs ① less each time, and when you perform Spark Stat Checks using Head or Home you may pay for it with ⑥ instead of $2$ dice of the same worth. You also gain the "Epic Awkwardness" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
+    **🪬 Steadfast:** Your wise steadiness and alertness have made you adept at warding off harm and protecting your loved ones. When you have sparks, they might take on a firm or dispelling aspect. Upgrading your History die costs ① less each time, and when you perform Spark Stat Checks using Head or Home you may pay for it with ⑥① instead of $2$ dice of the same worth. You also gain the "Epic Awkwardness" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
 
-    **👁️ Warry:** You are one with the natural and supernatural worlds around you, and you have a keen sense of danger and safety. When you have sparks, they might take on an astral or prophetic aspect. Upgrading your Hand and Hurry dice cost ① less each time, and when you perform Spark Stat Checks using either of these Stats you may pay for it with ⑥ instead of $2$ dice of the same worth. You also gain the "Past Repeated" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
+    **👁️ Warry:** You are one with the natural and supernatural worlds around you, and you have a keen sense of danger and safety. When you have sparks, they might take on an astral or prophetic aspect. Upgrading your Hand and Hurry dice cost ① less each time, and when you perform Spark Stat Checks using either of these Stats you may pay for it with ⑥① instead of $2$ dice of the same worth. You also gain the "Past Repeated" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
 
-    **👄 Compelling:** You seem able to spin any loss into a win--or vice versa--, and you are a sly, tactical force to be reckoned with. When you have sparks, they might take on an illusory or vicious aspect. Upgrading your Heart and Hurt dice cost ① less each time, and when you perform Spark Stat Checks using either of these Stats you may pay for it with ⑥ instead of $2$ dice of the same worth. You also gain the "Tactful Speech" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
+    **👄 Compelling:** You seem able to spin any loss into a win--or vice versa--, and you are a sly, tactical force to be reckoned with. When you have sparks, they might take on an illusory or vicious aspect. Upgrading your Heart and Hurt dice cost ① less each time, and when you perform Spark Stat Checks using either of these Stats you may pay for it with ⑥① instead of $2$ dice of the same worth. You also gain the "Tactful Speech" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
 
 !!! compat "Lost"
     Regardless of your starting Lifestyle, at the end of a session you may spend ①① to change your Lifestyle to Lost. Then, at the end of a later session you may spend ①①① to change your Lifestyle to any other option.
 
-    **💎 Lost:** You feel a disconnect from your own past or former sense of self, perhaps because of an exile from your home, an erased memory, or a period of transition or deep self-reflection. When you have sparks, they might take on an erratic or liminal aspect. Upgrading your History die costs ① less each time, and when you perform Spark Stat Checks using History you may pay for it with ⑥ instead of $2$ dice of the same worth.
+    **💎 Lost:** You feel a disconnect from your own past or former sense of self, perhaps because of an exile from your home, an erased memory, or a period of transition or deep self-reflection. When you have sparks, they might take on an erratic or liminal aspect. Upgrading your History die costs ① less each time, and when you perform Spark Stat Checks using History you may pay for it with ⑥① instead of $2$ dice of the same worth.
 
 !!! compat "History"
     At the end of a session, you may spend ① to make a change or addition to the scope of your History Basic Stat, based on the events of the session. In any case, this scope may not have more than seven narrative touchstones listed.
@@ -460,5 +475,5 @@ While most effects help shape the narrative of the game, your DM may find it app
     At the end of a session, you may:
 
     - spend ③③③ to gain your third Ability
-    - spend ④④④ to gain your fourth Ability
-    - spend ⑤⑤⑤ to gain your fifth Ability by creating one of your own and gaining it, within reason
+    - spend ④④④④ to gain your fourth Ability
+    - spend ⑤⑤⑤⑤⑤ to gain your fifth Ability by creating one of your own and gaining it, within reason
