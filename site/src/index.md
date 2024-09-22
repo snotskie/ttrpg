@@ -429,51 +429,51 @@ While most effects help shape the narrative of the game, your DM may find it app
 
 ## Session Shop
 
-!!! compat "Basic Stats"
-    At the end of a session, you may:
+At the end of each session, you receive one free upgrade for your character. Upgrade options are listed below. Some upgrades you receive immediately, and some you receive at the end of the following session.
 
-    - spend ①①① to upgrade a single Basic Stat's die from a $d4$ to a $d6$
-    - spend ①①①①① to upgrade a single Basic Stat's die from a $d6$ to a $d8$
-    - spend ①①①①①①① to upgrade a single Basic Stat's die from a $d8$ to a $d10$
+You may also spend ①①① to receive an additional upgrade beyond the one you receive for free. You can keep spending Blessings to receive additional upgrades this way, but each additional upgrade costs ①① than the last.
 
-!!! compat "Carefree"
-    If your starting Lifestyle was Carefree, at the end of a session you may spend ①①①① to change your Lifestyle to Blossomed, Prodigious, or Crafty.
+!!! compat "Basic Stat Upgrade Options"
+    You may upgrade a single Basic Stat's die one size, from a $d4$ to a $d6$, from a $d6$ to a $d8$, or a $d8$ to a $d10$. If you do, you receive this upgrade immediately.
 
-    **🌼 Blossomed:** Your carefree nature has kept you safe from harm and surrounded by friends. When you have sparks, they might take on a free and connected aspect. Upgrading your History die costs ① less each time, and when you perform Spark Stat Checks using Heart or Hurry you may pay for it with ⑥① instead of $2$ dice of the same worth. You also gain the "Epic Storytelling" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
+!!! compat "History Upgrade Options"
+    You may upgrade your History Basic Stat based on the events of the session by making two changes, two additions, or one of each to the scope of that Stat; in any case, this scope may not have more than seven narrative touchstones listed. If you do, you receive this upgrade immediately.
+
+!!! compat "Carefree Upgrade Options"
+    If your starting Lifestyle was Carefree, you may upgrade your Lifestyle to Blossomed, Prodigious, or Crafty. If you do, you receive this upgrade at the end of the following session.
+
+    **🌼 Blossomed:** Your carefree nature has kept you safe from harm and surrounded by friends. When you have sparks, they might take on a free and connected aspect. When you perform Spark Stat Checks using Heart or Hurry you may pay for it with ⑥① instead of $2$ dice of the same worth. You also gain the "Epic Storytelling" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
     
-    **🔮 Prodigious:** Your studies have come effortlessly to you, and secrets almost seem to just reveal themselves to you. When you have sparks, they might take on a sorcerous or uninhibited aspect. Upgrading your Head and Hurt dice cost ① less each time, and when you perform Spark Stat Checks using either of these Stats you may pay for it with ⑥① instead of $2$ dice of the same worth. You also gain the "Blessed by Voices" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
+    **🔮 Prodigious:** Your studies have come effortlessly to you, and secrets almost seem to just reveal themselves to you. When you have sparks, they might take on a sorcerous or uninhibited aspect. When you perform Spark Stat Checks using Head or Hurt you may pay for it with ⑥① instead of $2$ dice of the same worth. You also gain the "Blessed by Voices" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
 
-    **🧶 Crafty:** You can envision amazing designs and, it seems, to bring them to life. When you have sparks, they might take on an autonomous or lucky aspect. Upgrading your Hand and Home dice cost ① less each time, and when you perform Spark Stat Checks using either of these Stats you may pay for it with ⑥① instead of $2$ dice of the same worth. You also gain the "Efficiently Packed" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
+    **🧶 Crafty:** You can envision amazing designs and, it seems, to bring them to life. When you have sparks, they might take on an autonomous or lucky aspect. When you perform Spark Stat Checks using Hand or Home you may pay for it with ⑥① instead of $2$ dice of the same worth. You also gain the "Efficiently Packed" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
 
-!!! compat "Eager"
-    If your starting Lifestyle was Eager, at the end of a session you may spend ①①①① to change your Lifestyle to Driven, Chosen, or Wired.
+!!! compat "Eager Upgrade Options"
+    If your starting Lifestyle was Eager, you may upgrade your Lifestyle to Driven, Chosen, or Wired. If you do, you receive this upgrade at the end of the following session.
 
-    **⚜️ Driven:** Your eager drive has found purchase in a great mission or calling. When you have sparks, they might take on an incorrigible or resolute aspect. Upgrading your History die costs ① less each time, and when you perform Spark Stat Checks using Hand or Hurt you may pay for it with ⑥① instead of $2$ dice of the same worth. You also gain the "Epic Inventory" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
+    **⚜️ Driven:** Your eager drive has found purchase in a great mission or calling. When you have sparks, they might take on an incorrigible or resolute aspect. When you perform Spark Stat Checks using Hand or Hurt you may pay for it with ⑥① instead of $2$ dice of the same worth. You also gain the "Epic Inventory" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
 
-    **✨ Chosen:** You draw inspiration from the community around you, setting out on your journeys blessed, favored, or cursed. When you have sparks, they might take on a divine or noble aspect. Upgrading your Heart and Home dice cost ① less each time, and when you perform Spark Stat Checks using either of these Stats you may pay for it with ⑥① instead of $2$ dice of the same worth. You also gain the "Blessed by Charity" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
+    **✨ Chosen:** You draw inspiration from the community around you, setting out on your journeys blessed, favored, or cursed. When you have sparks, they might take on a divine or noble aspect. When you perform Spark Stat Checks using Heart or Home you may pay for it with ⑥① instead of $2$ dice of the same worth. You also gain the "Blessed by Charity" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
 
-    **⚡ Wired:** Your mind is quick and analytical, and you can see solutions to problems that are unimaginably complex. When you have sparks, they might take on a calculating or duplicative aspect. Upgrading your Head and Hurry dice cost ① less each time, and when you perform Spark Stat Checks using either of these Stats you may pay for it with ⑥① instead of $2$ dice of the same worth. You also gain the "Ease of Focus" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
+    **⚡ Wired:** Your mind is quick and analytical, and you can see solutions to problems that are unimaginably complex. When you have sparks, they might take on a calculating or duplicative aspect. When you perform Spark Stat Checks using Head or Hurry you may pay for it with ⑥① instead of $2$ dice of the same worth. You also gain the "Ease of Focus" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
 
-!!! compat "Wisened"
-    If your starting Lifestyle was Wisened, at the end of a session you may spend ①①①① to change your Lifestyle to Steadfast, Warry, or Compelling.
+!!! compat "Wisened Upgrade Options"
+    If your starting Lifestyle was Wisened, you may upgrade your Lifestyle to Steadfast, Warry, or Compelling.
 
-    **🪬 Steadfast:** Your wise steadiness and alertness have made you adept at warding off harm and protecting your loved ones. When you have sparks, they might take on a firm or dispelling aspect. Upgrading your History die costs ① less each time, and when you perform Spark Stat Checks using Head or Home you may pay for it with ⑥① instead of $2$ dice of the same worth. You also gain the "Epic Awkwardness" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
+    **🪬 Steadfast:** Your wise steadiness and alertness have made you adept at warding off harm and protecting your loved ones. When you have sparks, they might take on a firm or dispelling aspect. When you perform Spark Stat Checks using Head or Home you may pay for it with ⑥① instead of $2$ dice of the same worth. You also gain the "Epic Awkwardness" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
 
-    **👁️ Warry:** You are one with the natural and supernatural worlds around you, and you have a keen sense of danger and safety. When you have sparks, they might take on an astral or prophetic aspect. Upgrading your Hand and Hurry dice cost ① less each time, and when you perform Spark Stat Checks using either of these Stats you may pay for it with ⑥① instead of $2$ dice of the same worth. You also gain the "Past Repeated" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
+    **👁️ Warry:** You are one with the natural and supernatural worlds around you, and you have a keen sense of danger and safety. When you have sparks, they might take on an astral or prophetic aspect. When you perform Spark Stat Checks using Hand or Hurry you may pay for it with ⑥① instead of $2$ dice of the same worth. You also gain the "Past Repeated" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
 
-    **👄 Compelling:** You seem able to spin any loss into a win--or vice versa--, and you are a sly, tactical force to be reckoned with. When you have sparks, they might take on an illusory or vicious aspect. Upgrading your Heart and Hurt dice cost ① less each time, and when you perform Spark Stat Checks using either of these Stats you may pay for it with ⑥① instead of $2$ dice of the same worth. You also gain the "Tactful Speech" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
+    **👄 Compelling:** You seem able to spin any loss into a win--or vice versa--, and you are a sly, tactical force to be reckoned with. When you have sparks, they might take on an illusory or vicious aspect. When you perform Spark Stat Checks using Heart or Hurt you may pay for it with ⑥① instead of $2$ dice of the same worth. You also gain the "Tactful Speech" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
 
-!!! compat "Lost"
-    Regardless of your starting Lifestyle, at the end of a session you may spend ①① to change your Lifestyle to Lost. Then, at the end of a later session you may spend ①①① to change your Lifestyle to any other option.
+!!! compat "Lost Upgrade Options"
+    Regardless of your starting Lifestyle, you may upgrade your Lifestyle to Lost. If you do, you receive this upgrade at the end of the following session.
+    
+    Then, once your Lifestyle is Lost, you may upgrade your Lifestyle to any other option. If you do, you receive this upgrade at the end of the following session.
 
-    **💎 Lost:** You feel a disconnect from your own past or former sense of self, perhaps because of an exile from your home, an erased memory, or a period of transition or deep self-reflection. When you have sparks, they might take on an erratic or liminal aspect. Upgrading your History die costs ① less each time, and when you perform Spark Stat Checks using History you may pay for it with ⑥① instead of $2$ dice of the same worth.
+    **💎 Lost:** You feel a disconnect from your own past or former sense of self, perhaps because of an exile from your home, an erased memory, or a period of transition or deep self-reflection. When you have sparks, they might take on an erratic or liminal aspect. When you perform Spark Stat Checks using History you may pay for it with ⑥① instead of $2$ dice of the same worth.
 
-!!! compat "History"
-    At the end of a session, you may spend ① to make a change or addition to the scope of your History Basic Stat, based on the events of the session. In any case, this scope may not have more than seven narrative touchstones listed.
-
-!!! compat "Abilities"
-    At the end of a session, you may:
-
-    - spend ③③③ to gain your third Ability
-    - spend ④④④④ to gain your fourth Ability
-    - spend ⑤⑤⑤⑤⑤ to gain your fifth Ability by creating one of your own and gaining it, within reason
+!!! compat "Ability Upgrade Options"
+    You may use your upgrade to gain an additional Ability, to a maximum of five Abilites. If you do, you receive this upgrade at the end of the following session.
+    
+    When you gain your final Ability, you may create one of your own and gain it, within reason.
