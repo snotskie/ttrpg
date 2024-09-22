@@ -158,7 +158,7 @@ Characters in this game have a set of Abilities that grant them certain actions 
 !!! note "Effect Wording: Spend Ⓧ to Recharge"
     Some abilities, once activated, cannot be activated again until they have been "recharged" by spending Ⓧ from your pool of Blessing Dice.
 
-**Blessed by Circumstance:** During a Contest involving three or more characters, you may swap the results of two characters’ rolls. Then this ability cannot be activated again until you spend ⑤ to recharge it.
+**Blessed by Circumstance:** During a roll involving three or more characters, you may swap the results of two characters’ rolls. Then this ability cannot be activated again until you spend ⑤ to recharge it.
 
 **Blessed by Self-Sacrifice:** During an Endeavor involving three or more characters, when attempting to take the focus, you may reduce the result of your own roll to $0$. Then this ability cannot be activated again until you spend ② to recharge it.
 
