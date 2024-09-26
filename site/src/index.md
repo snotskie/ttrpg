@@ -407,6 +407,15 @@ To perform an Endeavor:
 !!! warning "Rules Note: Group Movement"
     If a winning or succeeding side in any of the steps above is a group performing a Group Check or Group Contest, then when they move forward an amount, they move a total of that amount. How the group distributes this movement among its members is up to the group to decide: they may distribute the movement evenly, give it all to one member, or any other arrangement the group agrees on.
 
+### Monstrous Endeavors
+
+Some campaigns or sessions may involve the player characters and their allies facing off against various Monstrosities, like zombies, robots, or the manifestation of someone's fears!
+
+These sorts of Endeavors are run like any other Endeavor, with the following additions:
+
+- **Muddle Buttons:** When each Monstrosity joins the Endeavor, it adds one or more "muddle buttons" to the number line. When a player character or one of their allies reaches one of these points on the number line, that Monstrosity is Muddled (see [Example Conditions](#Example-Conditions)) for the next round, representing a momentary crack in the Monstrosity's defenses -- literally or figuratively. Then, the button is removed. If multiple muddle buttons are on the same point when a player character or one of their allies reaches it, the character decides which one to use. Be warned though, as some Monstrosities have Abilities that grow in power the more times they've been muddled this way!
+- **Stamina:** Each Monstrosity has an amount of "stamina." At the end of each round, if the player characters and their allies have a combined value on the number line equal to or greater than a Monstrosity's stamina, those characters may move backwards on the number line a total amount equal to the Monstrosity's stamina. If they do, they non-lethally remove that Monstrosity from the Endeavor and narrate what happens.
+
 ### Wounds
 
 You do not have "hit points" in this game. Instead, wounds shape the narrative arcs of the game; the worse the wound, the greater and longer lasting the impact.
