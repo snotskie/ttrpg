@@ -353,6 +353,12 @@ If the violence continues past this initial Contest, then the Attackers may choo
 !!! warning "Rules Note: Checks vs. Contests"
     Checks use the terms “fail” and “succeed,” while Contests use “lose” and “win” instead. When an effect only mentions failing or succeeding Checks, it does not affect losing or winning Contests. And when an effect only mentions losing or winning Contests, it does not affect failing or succeeding Checks. A Contest itself is not a Check, though it does involve a series of rolls similar to Checks made against one another. For example, the "Blessed by Luck" Ability allows you to turn a failed Check into a success. However, it does not allow you to turn a lost Contest into a win. The Uncool condition on the other hand does affect both Checks and Contests, because it modifies the results of rolls performed, without mentioning success, failure, win, or loss directly.
 
+### Complex Attacks
+
+Sometimes a character's attack is itself a complex action requiring a Check, such as striking a foe while also jumping over a wide chasm.
+
+In such cases, the DM may set a target the Attacker needs to beat. The attack's effect is only successful if the Attacker rolls higher than both the Defender's roll and the DM's target. Even if the Defender rolls lower, they may still win the Contest if the Attacker fails to meet the target.
+
 ### Group Contests
 
 Sometimes characters want to complete more complex actions together as a group.
@@ -360,6 +366,9 @@ Sometimes characters want to complete more complex actions together as a group.
 If multiple characters are Attackers together in a Contest, then they each perform their respective rolls and the median of their results is used to determine the group’s shared result.
 
 If multiple characters are Defenders together in a Contest, or are performing a coordinated Check, then they each perform their respective rolls, and if at least half would succeed the Check or win the Contest, then the group as a whole succeeds or wins.
+
+!!! warning "Rules Note: Group Targets"
+    A character cannot, as part of their attack, force other characters to become a group of Defenders, unless an Ability, item, or situation would allow.
 
 ### Simultaneous Actions
 
@@ -389,11 +398,14 @@ Endeavors are carried out as a number of rounds in which the characters attempt 
 To perform an Endeavor:
 
 1. **Setup:** Place a token representing each character involved in the Endeavor on a number line, starting at position $0$. Then, the DM describes the winning and losing conditions of the Endeavor, such as being the first to reach at least space $20$ at the end of a round, to have moved the furthest at the end of $3$ rounds, to be the last one standing by avoiding environmental hazards, or so on or some combination of conditions.
-2. **Focal Action:** At the top of each round of simultaneous actions, determine the Focal Action. Characters may choose to sit out this phase of the Endeavor. The highest rolling character then moves forward on the number line, representing an advantage gained towards their objectives as their proposed course of action directs the narrative tension. The severity of the amount they rolled higher than the lowest roll determines the number of spaces moved, moving $2$ spaces for a Minor difference, $3$ for a Medium difference, or $5$ for a Major difference.
+2. **Focal Action:** At the top of each round of simultaneous actions, determine the Focal Action. Characters may choose to sit out this phase of the Endeavor. The highest rolling character then moves forward on the number line a number of spaces equal to the result of their roll. This represents the advantage gained towards their objectives as their proposed course of action directs the narrative tension.
 4. **Response:** Next, resolve the Focal Action: if the Focal Action had Defenders, they roll to defend against it. The winners of this Contest then move forward, and the severity of the amount the winning side won by determines the number of spaces moved, moving $1$ space for a Minor difference, $2$ for a Medium difference, or $3$ for a Major difference.
-5. **Side Actions:** Then, determine and resolve Side Actions, starting with those who sat out at the start of the round then those who rolled the lowest at the start of the round. For each of these Side Actions, the winning or succeeding side moves forward, and the severity of the win or success determines the number of spaces moved, moving $1$ space for a Minor difference, $2$ for a Medium difference, or $3$ for a Major difference.
+5. **Side Actions:** Then, determine and resolve Side Actions, starting with those who sat out at the start of the round, then those who rolled the lowest at the start of the round, with the DM resolving ties. For each of these Side Actions, the winning or succeeding side moves forward, and the severity of the win or success determines the number of spaces moved, moving $1$ space for a Minor difference, $2$ for a Medium difference, or $3$ for a Major difference.
 6. **Hazards:** At the end of the round, the DM may describe an environmental hazard that could affect all or some of the leading characters involved the Endeavor, asking them to perform a Check to avoid the effects.
 7. **End:** Repeat rounds until the Endeavor has been won, lost, ends in a draw, or gets interrupted.
+
+!!! warning "Rules Note: Group Movement"
+    If a winning or succeeding side in any of the steps above is a group performing a Group Check or Group Contest, then when they move forward an amount, they move a total of that amount. How the group distributes this movement among its members is up to the group to decide: they may distribute the movement evenly, give it all to one member, or any other arrangement the group agrees on.
 
 ### Wounds
 
