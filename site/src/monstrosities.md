@@ -43,8 +43,8 @@ Then this ability cannot be activated again until you spend ①②③④⑤Ⓧ t
 
 ## Example Monstrosities
 
-For compactness, the notation $dcXbYsZmbW$ represents that a Monstrosity has a die cap of $X$, enters Endeavors with $Y$ Blessings, has $Z$ Stamina, and has muddle buttons at positions $W$.
+For compactness, the notation $dcX$ $bY$ $sZ$ $mbW$ represents that a Monstrosity has a die cap of $X$, enters Endeavors with $Y$ Blessings, has $Z$ Stamina, and has muddle buttons at positions $W$.
 
-**Rat:** $dc2b0s15mb3$. A classic giant rat.
+**Rat:** $dc2$ $b0$ $s15$ $mb3$. A classic giant rat.
 
-**Scout:** $dc3b0s16mb1$, Resists Ranged Physical Violent Attacks. A low-level scout, with a high dexterity, perception, and skills with stalking and a basic ranged weapon.
+**Scout:** $dc3$ $b0$ $s16$ $mb1$, Resists Ranged Physical Violent Attacks. A low-level scout, with a high dexterity, perception, and skills with stalking and a basic ranged weapon.
