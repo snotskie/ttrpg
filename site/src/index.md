@@ -407,9 +407,18 @@ To perform an Endeavor:
 !!! warning "Rules Note: Group Movement"
     If a winning or succeeding side in any of the steps above is a group performing a Group Check or Group Contest, then when they move forward an amount, they move a total of that amount. How the group distributes this movement among its members is up to the group to decide: they may distribute the movement evenly, give it all to one member, or any other arrangement the group agrees on.
 
+!!! details "DM Note: Simplified Focal Action Rolls"
+    You may decide to simplify the process of determining the Focal Action by limiting the types of Stats that are applicable each round. For example:
+
+    - The party is ambushed. Ambushers roll Hurt, and the ambushed roll Hurry. Characters cannot sit out this round.
+    - The party is playing a game of giant magic chess. Each round, characters must roll Head or sit out.
+    - Two bands and their groupies are competing in a battle of the bands. Band members must roll Headline (a custom Stat for the setting), and groupies must sit out.
+
+    Keep in mind how your players actually think about the Endeavor and what their goals are! Simplifying the Focal Action this way removes player autonomy, but it also (a) lowers the cognitive load of thinking up a narrative for one's actions and (b) creates rules around the Endeavor that can make it feel distinct from other Endeavors in the campaign.
+
 ### Monstrous Endeavors
 
-Some campaigns or sessions may involve the player characters and their allies facing off against various Monstrosities, like zombies, robots, or the manifestation of someone's fears!
+Some campaigns or sessions may involve the player characters and their allies facing off against Monstrosities, like zombies, robots, or the manifestation of someone's fear!
 
 These sorts of Endeavors are run like any other Endeavor, with the following additions:
 
