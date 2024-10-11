@@ -226,6 +226,11 @@ To perform an Endeavor:
 </table>
 ```
 
+!!! warning "Rules Note: Movement as a Result of a Check or Contest"
+    If a character moves forward as a result of taking the focus, that movement is separate from the amount they move forward as a result of the Check or Contest when it subsequently resolves.
+    
+    Moreover, even if that character subsequently fails that Check or loses that Contest, the character still gains their movement from driving the Focal Action in the first place.
+
 !!! warning "Rules Note: Group Movement"
     If a winning or succeeding side in any of the steps above is a group performing a Group Check or Group Contest, then when they move forward an amount, they move a total of that amount. How the group distributes this movement among its members is up to the group to decide: they may distribute the movement evenly, give it all to one member, or any other arrangement the group agrees on.
 
