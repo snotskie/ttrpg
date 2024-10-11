@@ -30,9 +30,6 @@ Then this ability cannot be activated again until you spend ①②③④⑤Ⓧ t
 
 **Debilitate $X$:** Perform a $X$ Contest against an opponent. The amount you move forward as a result of this Contest, that opponent’s $X$ rolls are made with a $-1$ modifier for that many rounds. Then this ability cannot be activated again until you spend ② to recharge it.
 
-!!! warning "Rules Note: Movement as a Result of a Check or Contest"
-    If a character moves forward as a result of taking the focus, that movement is separate from the amount they move forward as a result of the Check or Contest when it subsequently resolves.
-
 **Clarity:** When you succeed a Home Stat Check during an Endeavor, you may have the muddle buttons of your allies move forward a number of spaces equal to the number of spaces you moved forward as a result of the Check. Then this ability cannot be activated again until you spend ③ to recharge it.
 
 **Tap:** When you succeed a Hand Contest against an opponent during an Endeavor, you may have that opponent move backwards a number of spaces equal to the number of spaces you moved forward as a result of the Contest. Then this ability cannot be activated again until you spend ③ to recharge it.
