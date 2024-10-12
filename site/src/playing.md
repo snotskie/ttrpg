@@ -121,26 +121,27 @@ Some rules refer to the "severity" of an outcome, from **Very Minor** to **Very 
     <th scope="col">Succeed a Check by rolling at most...</th>
     <th scope="col">Win a Contest by rolling at most...more than opponent</th>
   </tr>
-  <tr> <th scope="row">Very Minor</th> <td>4</td> <td>2</td> </tr>
-  <tr> <th scope="row">Minor</th> <td>8</td> <td>4</td> </tr>
-  <tr> <th scope="row">Medium</th> <td>12</td> <td>6</td> </tr>
-  <tr> <th scope="row">Major</th> <td>16</td> <td>8</td> </tr>
-  <tr> <th scope="row">Very Major</th> <td>20</td> <td>10</td> </tr>
+  <tr> <th scope="row">Very Minor</th> <td>3</td> <td>1</td> </tr>
+  <tr> <th scope="row">Minor</th> <td>7</td> <td>3</td> </tr>
+  <tr> <th scope="row">Medium</th> <td>11</td> <td>5</td> </tr>
+  <tr> <th scope="row">Major</th> <td>15</td> <td>7</td> </tr>
+  <tr> <th scope="row">Very Major</th> <td>19</td> <td>9</td> </tr>
+  <tr> <th scope="row">Maximum</th> <td>20+</td> <td>10+</td> </tr>
 </table>
 ```
 
-!!! warning "Rules Note: Very Major Violence is Lethal"
-    Keep in mind that, regardless of the Attacker's intention, a violent Contest with a Very Major outcome is *always* leads to immediate death or grave injuries for the Defender.
+!!! warning "Rules Note: Maximum Violence is Lethal"
+    Keep in mind that, regardless of the Attacker's intention, a violent Contest with a Maximum outcome is *always* leads to immediate death or grave injuries for the Defender.
 
 !!! details "DM Note: Severity of Non-violent Effects"
-    - **(Very) Minor:** A Very Minor or Minor outcome to a non-violent Contest represents the Attacker getting what they wanted, within reason, and with complications. Any advantage the Attacker gains is temporary.
+    - **Minor-:** A Minor or lower outcome to a non-violent Contest represents the Attacker getting what they wanted, within reason, and with complications. Any advantage the Attacker gains is temporary.
     - **Medium:** A Medium outcome to a non-violent Contest represents a lack of complications. Any advantage the Attacker gains lasts for several rolls by or against the Defender.
-    - **(Very) Major:** A Major or Very Major outcome to a non-violent Contest can change the narrative arc of the session or even campaign.
+    - **Major+:** A Major or higher outcome to a non-violent Contest can change the narrative arc of the session or even campaign.
 
 !!! details "DM Note: Severity of Violent Effects"
-    - **Minor:** As with non-violent Contests, a Very Minor or Minor outcome to a violent Contest represents a trivial wound that grants the Attacker only a temporary advantage, possibly with complications.
-    - **Medium/Major:** A Medium or Major outcome to a violent Contest represents a nontrivial, but non-life-threatening wound that will need medical attention, possibly changing the narrative arc of the session to treat it, granting lasting effects if not treated successfully and in a timely manner.
-    - **Very Major:** And a Very Major outcome to a violent Contest represents a serious wound, resulting in immediate death or grave injuries to the Defender needing immediate attention or a miracle.
+    - **Minor-:** As with non-violent Contests, a Minor or lower outcome to a violent Contest represents a trivial wound that grants the Attacker only a temporary advantage, possibly with complications.
+    - **Medium/Major:** A Medium, Major, or Very Major outcome to a violent Contest represents a nontrivial, but non-life-threatening wound that will need medical attention, possibly changing the narrative arc of the session to treat it, granting lasting effects if not treated successfully and in a timely manner.
+    - **Maximum:** And a Maximum outcome to a violent Contest represents a serious wound, resulting in immediate death or grave injuries to the Defender needing immediate attention or a miracle.
 
 ## More Actions
 
@@ -223,6 +224,7 @@ To perform an Endeavor:
   <tr> <th scope="row">Medium</th> <td>3</td> </tr>
   <tr> <th scope="row">Major</th> <td>5</td> </tr>
   <tr> <th scope="row">Very Major</th> <td>8</td> </tr>
+  <tr> <th scope="row">Maximum</th> <td>13</td> </tr>
 </table>
 ```
 
