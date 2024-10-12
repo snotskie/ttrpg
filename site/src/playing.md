@@ -118,8 +118,8 @@ Some rules refer to the "severity" of an outcome, from **Very Minor** to **Very 
 <table>
   <tr>
     <td></td>
-    <th scope="col">Succeed a Check with a Target at most...</th>
-    <th scope="col">Win a Contest by at most...</th>
+    <th scope="col">Succeed a Check by rolling at most...</th>
+    <th scope="col">Win a Contest by rolling at most...more than opponent</th>
   </tr>
   <tr> <th scope="row">Very Minor</th> <td>4</td> <td>2</td> </tr>
   <tr> <th scope="row">Minor</th> <td>8</td> <td>4</td> </tr>
