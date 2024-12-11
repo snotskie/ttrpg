@@ -43,9 +43,11 @@ All of your Basic Stat dice can be upgraded later in the [Session Shop](#Session
     For your campaign setting, you may find it helpful to create a new Stat for your players. For example:
     
     > - **🐦‍🔥 Hex:** Use of wands, spells, potions, and other magical instruments, traps, lore, and knowledge. *E.g., for a Misfits and Magic style setting.*
+    > - **🥕 Ham:** Use of outlandish solutions, cartoonish items, and pun-based bends of reality. *E.g., for a Roger Rabbit style setting.*
     > - **🦾 Hardware:** Use of machines, robotics, and cybernetic implants. *E.g. for a Cyberpunk style setting.*
     > - **🔎 Hunch:** Locating clues, guessing the right solution to a puzzle, being in the right place at the right time. *E.g. for a film noir style setting.*
     > - **👾 Hologram:** Investigating, interacting with, noticing inconsistencies in, and reshaping the simulation the characters exist within directly. *E.g. for a Matrix style setting.*
+    > - **💰 Hireling:** Acquiring employees, minions, or quest companions, and effectively delegating tasks and operating a business. *E.g. for an Acquisitions Incorporated style setting.*
     > - **🎧 Headline:** Performing music on stage, in a garage with your band, moving in sync with the beat. *E.g. for a Scott Pilgrim style setting.*
     > - **💀 Hardship:** Shared narrative touchstones of the story that represent the town's obstacles, troubles, and adversities. This Stat cannot be upgraded beyond a $d4$, but can still be involved in Spark Stat Checks and be boosted by Abilities like other Basic Stats. *E.g. for a Stephen King style setting.*
     
