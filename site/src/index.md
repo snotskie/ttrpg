@@ -48,6 +48,7 @@ All of your Basic Stat dice can be upgraded later in the [Session Shop](#Session
     > - **🔎 Hunch:** Locating clues, guessing the right solution to a puzzle, being in the right place at the right time. *E.g. for a film noir style setting.*
     > - **👾 Hologram:** Investigating, interacting with, noticing inconsistencies in, and reshaping the simulation the characters exist within directly. *E.g. for a Matrix style setting.*
     > - **💰 Hireling:** Acquiring employees, minions, or quest companions, and effectively delegating tasks and operating a business. *E.g. for an Acquisitions Incorporated style setting.*
+    > - **🎁 Holly Jolly:** Drawing from the magic of the season to bring people joy, operating devices from the North Pole, and interacting with reindeer, snowmen, yetis, and other such fantastical beasts. *E.g. for a winter wonderland style setting.*
     > - **🎧 Headline:** Performing music on stage, in a garage with your band, moving in sync with the beat. *E.g. for a Scott Pilgrim style setting.*
     > - **💀 Hardship:** Shared narrative touchstones of the story that represent the town's obstacles, troubles, and adversities. This Stat cannot be upgraded beyond a $d4$, but can still be involved in Spark Stat Checks and be boosted by Abilities like other Basic Stats. *E.g. for a Stephen King style setting.*
     
