@@ -88,7 +88,7 @@ Each character has a History Basic Stat, made up of a number of narrative touchs
     - List three specific skills that your character has proven their ability in, such as through schooling, study, training, specialization within their team, or so on.
     - List three specific people or groups that your character regularly interacts with or have connections to, whether "good" or "bad" connections
     - Describe where your character could be found on an average Tuesday afternoon before the action of the story gets underway.
-    - If your game's setting has non-human characters and your character is one of them, also describe one or two simple actions, within reason, that characters of your non-human species can perform unaided that human characters can't.
+    - If your game's setting has non-human characters and your character is one of them, work with your DM to determine how your non-human background affects the scope of your Stats.
 
 !!! warning "Rules Note: When History Overlaps Other Stats"
     Yellow boxes like these provide important notes about the rules!
@@ -109,6 +109,12 @@ Each character has a History Basic Stat, made up of a number of narrative touchs
     - Unfriendly Interactions with the Rebels (for someone raised in the Empire)
 
     Consider what *unique* skills, proficiencies, traits, and backstory elements each character brings to the story. Also consider the *variety* of a character's narrative touchstones: if all or most of them would be covered already by another Basic Stat, then the player would have no reason to use or upgrade their History Basic Stat!
+
+!!! details "DM Note: Non-Human Characters"
+    If your game's setting allows your players to create non-human characters, there are generally two approaches for how to resolve non-human abilities. The choice depends on the variety of non-human backgrounds between your players:
+
+    - **High Variety:** If each player character has a different non-human background, then the simplest option is to use each character's History Stat to cover one or two simple actions, within reason, that characters of their non-human background could perform unaided that human characters couldn't.
+    - **Low Variety:** If player characters all come from just a few different non-human background options, then using History to cover this background would clog the scope of the Stat with details that aren't unique to each player. Instead, expand the scope of two or three of the other Stats to cover one or two simple actions each, within reason, that characters of their non-human backgrounds could perform unaided that human characters couldn't.
 
 ## Abilities
 
