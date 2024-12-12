@@ -51,12 +51,14 @@ All of your Basic Stat dice can be upgraded later in the [Session Shop](#Session
     > - **🎁 Holly Jolly:** Drawing from the magic of the season to bring people joy, operating devices from the North Pole, and interacting with reindeer, snowmen, yetis, and other such fantastical beasts. *E.g. for a winter wonderland style setting.*
     > - **🎧 Headline:** Performing music on stage, in a garage with your band, moving in sync with the beat. *E.g. for a Scott Pilgrim style setting.*
     > - **💀 Hardship:** Shared narrative touchstones of the story that represent the town's obstacles, troubles, and adversities. This Stat cannot be upgraded beyond a $d4$, but can still be involved in Spark Stat Checks and be boosted by Abilities like other Basic Stats. *E.g. for a Stephen King style setting.*
+    > - **🌳 Hardy:** Shared narrative touchstones emerging from each session's obstacles that represent the player's shared efforts against the challenges they have faced. This Stat is shared by all players at the table, and it cannot be upgraded by the normal means. Instead, it begins each session as a $d4$. When a player fails a Check or loses a Contest against a non-player character, this Stat upgrades to the next die size, to a maximum of a $d10$. Any player may choose to use the Hardy die instead of one of their other Stat dice for any roll; when they do, this Stat returns to a $d4$. *E.g. for a basic Kids on Bikes setting.*
     
     However, please note, if you want to create a new Stat, it must:
 
     - Not already be covered by the first six Stats: Head, Hand, Heart, Home, Hurt, Hurry. Otherwise, you risk increasing the number of confusing moments of when one Stat applies over the other, and you risk spreading the players' resources too thin when they go to upgrade their Stats.
-    - And be something all players would want to upgrade and function the same for all players. Otherwise, it would be simpler to cover this "Stat" with History and let the players decide who will specialize in it, how they will specialize in it, and who will leave it alone.
-    - And be the only new Stat you have added to your game. Otherwise, you risk creating a situation where players each have a large number of Stats that go relatively unused.
+    - Be something all players would want to upgrade and function the same for all players. Otherwise, it would be simpler to cover this "Stat" with History and let the players decide who will specialize in it, how they will specialize in it, and who will leave it alone.
+    - Be the only new Stat you have added to your game. Otherwise, you risk creating a situation where players each have a large number of Stats that go relatively unused.
+    - Not sound too similar to another Stat, such as "Handling" and "Hand." Otherwise, you risk confusing situations at the table where people mishear each other.
 
     Although Stats you create do not need to start with the letter "H," big kudos if you can keep the alliteration going!
 
