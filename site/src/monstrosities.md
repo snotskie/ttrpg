@@ -28,9 +28,11 @@ For higher level Endeavors, you may give your Monstrosities Abilities, choosing 
 
 Additionally, you may have your Monstrosities enter Endeavors with a number of Blessings.
 
-## Monstrous Abilities
+## Monstrous Evergreen Abilities
 
-Then this ability cannot be activated again until you spend ①②③④⑤Ⓧ to recharge it.
+Monstrosities can Help and Super-Help just as other characters. However, they cannot perform Preparedness Checks. 
+
+## Monstrous Abilities
 
 **$X$ Resistance:** Whenever you lose a Contest as the Defender against $X$, protect yourself for $+3$.
 
@@ -60,12 +62,16 @@ For each example Monstrosity, the following table shows their die cap, how many 
 
 ```@raw html
 <style>
-  td, th {
+  #monstrosities-table th {
+    border-bottom: 3px solid rgba(128, 128, 128, 0.5);
+  }
+
+  #monstrosities-table td {
     min-width: 15ch;
     border: 1px solid rgba(128, 128, 128, 0.5);
   }
 </style>
-<table>
+<table id="monstrosities-table">
   <tr>
     <th scope="col"><span>$dcX$</span></th>
     <th scope="col">Blessings</th>
@@ -75,20 +81,20 @@ For each example Monstrosity, the following table shows their die cap, how many 
     <th scope="col">Description</th>
   </tr>
   <tr>
-    <td><span>$X$</span></td>
-    <td><span>$X$</span></td>
-    <td><span>$X$</span></td>
-    <td><span>$X$</span></td>
+    <td><span>$2$</span></td>
+    <td><span>$0$</span></td>
+    <td><span>$15$</span></td>
+    <td><span>$3$</span></td>
     <td></td>
-    <td></td>
+    <td>A classic giant rat.</td>
   </tr>
   <tr>
-    <td><span>$X$</span></td>
-    <td><span>$X$</span></td>
-    <td><span>$X$</span></td>
-    <td><span>$X$</span></td>
-    <td></td>
-    <td></td>
+    <td><span>$3$</span></td>
+    <td><span>$0$</span></td>
+    <td><span>$16$</span></td>
+    <td><span>$1$</span></td>
+    <td>Resistance against ranged physical attacks</td>
+    <td>A low-level scout, with a high dexterity, perception, and skills with stalking and a basic ranged weapon</td>
   </tr>
   <tr>
     <td><span>$X$</span></td>
@@ -124,8 +130,3 @@ For each example Monstrosity, the following table shows their die cap, how many 
   </tr>
 </table>
 ```
-
-
-**Rat:** $dc2$ $b0$ $s15$ $mb3$. A classic giant rat.
-
-**Scout:** $dc3$ $b0$ $s16$ $mb1$, Resists Ranged Physical Violent Attacks. A low-level scout, with a high dexterity, perception, and skills with stalking and a basic ranged weapon.
