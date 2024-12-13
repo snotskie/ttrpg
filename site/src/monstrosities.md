@@ -36,17 +36,21 @@ It is also recommended that you do not give your Monstrosities many Abilities--o
 
 **Resistance vs. $X$:** Whenever you lose a Contest as the Defender against $X$, protect yourself for $+3$.
 
+**Revenge:** When you are Muddled, you may immediately perform a Contest as an Attacker against the character that Muddled you, as though this Contest were a Side Action.
+
 **Shield vs. $X$:** When you succeed a Home Stat Check during an Endeavor, you may have you and your allies receive Resistance vs. $X$ for a number of rounds equal to the number of spaces you moved forward as a result of the Check, to a maximum of $3$ rounds. Then this ability cannot be activated again until you spend ② to recharge it.
+
+**Tap:** When you succeed a Hand Contest against an opponent during an Endeavor, you may have that opponent move backwards a number of spaces equal to the number of spaces you moved forward as a result of the Contest. Then this ability cannot be activated again until you spend ③ to recharge it.
+
+**Debilitate $X$:** Perform a $X$ Contest against an opponent. The amount you move forward as a result of this Contest, that opponent’s $X$ rolls are made with a $-1$ modifier for that many rounds. Then this ability cannot be activated again until you spend ② to recharge it.
 
 **Clarity:** When you succeed a Home Stat Check during an Endeavor, you may have the muddle buttons of your allies move forward a number of spaces equal to the number of spaces you moved forward as a result of the Check. Then this ability cannot be activated again until you spend ③ to recharge it.
 
 **Immunity vs. $X$:** Whenever you lose a Contest as the Defender against $X$, you instead succeed by $1$.
 
+**Inspire:** Perform a Hurry Check and choose an ally. The amount you move forward as a result of this Check, the roll the chosen ally makes next round to take the focus increases by that amount. Then this ability cannot be activated again until you spend ④ to recharge it.
+
 **Mirror vs. $X$:** When you succeed a Home Stat Check during an Endeavor, you may have you and your allies receive Immunity vs. $X$ for a number of rounds equal to the number of spaces you moved forward as a result of the Check, to a maximum of $3$ rounds. Then this ability cannot be activated again until you spend ⑥ to recharge it.
-
-**Tap:** When you succeed a Hand Contest against an opponent during an Endeavor, you may have that opponent move backwards a number of spaces equal to the number of spaces you moved forward as a result of the Contest. Then this ability cannot be activated again until you spend ③ to recharge it.
-
-**Debilitate $X$:** Perform a $X$ Contest against an opponent. The amount you move forward as a result of this Contest, that opponent’s $X$ rolls are made with a $-1$ modifier for that many rounds. Then this ability cannot be activated again until you spend ② to recharge it.
 
 **Spark Rush $X$:** Perform a Check. The amount you move forward as a result of this Check, for that many rounds, to a maximum of $3$ rounds, you may Spark using $2dcX$. Then this ability cannot be activated again until you spend Ⓧ to recharge it.
 
@@ -68,7 +72,7 @@ These narratively reflective moments after a Monstrous Endeavor can be a great c
 
 ## Example Monstrosities
 
-The following table shows a variety of example Monstrosities. For each, it shows their die cap, how many Blessings they enter Endeavors with, their Stamina, at what position(s) the Monstrosity's muddle buttons are placed, their Abilities (if any), and a brief possible description. The purpose of this table is not to provide a compendium of Monstrosities to choose from, but to provide enough examples to give you a sense of mechanically balanced Monstrosities so that you can create memorable, fun Monstrous Encounters of your own.
+The following table shows a variety of example Monstrosity builds. For each, it shows their die cap, how many Blessings they enter Endeavors with, their Stamina, at what position(s) the Monstrosity's muddle buttons are placed, their Abilities (if any), and a brief comment about that build. The purpose of this table is not to provide a compendium of Monstrosities to choose from, but to provide enough examples to give you a sense of mechanically balanced Monstrosities so that you can create memorable, fun Monstrous Encounters of your own.
 
 ```@raw html
 <style>
@@ -88,7 +92,7 @@ The following table shows a variety of example Monstrosities. For each, it shows
     <th scope="col">Stamina</th>
     <th scope="col">Button(s) at</th>
     <th scope="col">Abilities</th>
-    <th scope="col">Description</th>
+    <th scope="col">Comment</th>
   </tr>
   <tr>
     <td><span>$2$</span></td>
@@ -103,104 +107,83 @@ The following table shows a variety of example Monstrosities. For each, it shows
     <td><span>$0$</span></td>
     <td><span>$16$</span></td>
     <td><span>$1$</span></td>
-    <td>Resistance vs. ranged physical attacks</td>
+    <td>Resistance vs. Ranged Physical Attacks</td>
     <td>A low-level scout, with a high dexterity, perception, and skills with stalking and a basic ranged weapon</td>
   </tr>
   <tr>
-    <td><span>$X$</span></td>
-    <td><span>$X$</span></td>
-    <td><span>$X$</span></td>
-    <td><span>$X$</span></td>
-    <td></td>
-    <td></td>
+    <td><span>$5$</span></td>
+    <td><span>$0$</span></td>
+    <td><span>$32$</span></td>
+    <td><span>$13$</span></td>
+    <td>Resistance vs. Spark Checks, Shield vs. Spark Checks, Tap</td>
+    <td>A tanky build proficient in slowing down player progress</td>
   </tr>
   <tr>
-    <td><span>$X$</span></td>
-    <td><span>$X$</span></td>
-    <td><span>$X$</span></td>
-    <td><span>$X$</span></td>
-    <td></td>
-    <td></td>
+    <td><span>$5$</span></td>
+    <td><span>$0$</span></td>
+    <td><span>$25$</span></td>
+    <td><span>$5$</span></td>
+    <td>Revenge</td>
+    <td>A weaker build designed for moving the Monstrous side toward their objective</td>
   </tr>
   <tr>
-    <td><span>$X$</span></td>
-    <td><span>$X$</span></td>
-    <td><span>$X$</span></td>
-    <td><span>$X$</span></td>
-    <td></td>
-    <td></td>
+    <td><span>$5$</span></td>
+    <td><span>$0$</span></td>
+    <td><span>$27$</span></td>
+    <td><span>$10$</span></td>
+    <td>Inspire</td>
+    <td>A weaker build designed to ensure an ally gets the focus</td>
   </tr>
   <tr>
-    <td><span>$X$</span></td>
-    <td><span>$X$</span></td>
-    <td><span>$X$</span></td>
-    <td><span>$X$</span></td>
-    <td></td>
-    <td></td>
+    <td><span>$8$</span></td>
+    <td><span>$0$</span></td>
+    <td><span>$34$</span></td>
+    <td><span>$9$</span></td>
+    <td>Resistance vs. Good and Evil</td>
+    <td>A large bat, fueled by a necromancer's magic</td>
   </tr>
   <tr>
-    <td><span>$X$</span></td>
-    <td><span>$X$</span></td>
-    <td><span>$X$</span></td>
-    <td><span>$X$</span></td>
-    <td></td>
-    <td></td>
+    <td><span>$8$</span></td>
+    <td><span>$0$</span></td>
+    <td><span>$21$</span></td>
+    <td><span>$8$</span></td>
+    <td>Resistance vs. Violence, Mirror vs. Violence, Spark Rush $4$</td>
+    <td>A usually peaceful spirit the party has provoked the anger of</td>
   </tr>
   <tr>
-    <td><span>$X$</span></td>
-    <td><span>$X$</span></td>
-    <td><span>$X$</span></td>
-    <td><span>$X$</span></td>
-    <td></td>
-    <td></td>
+    <td><span>$10$</span></td>
+    <td><span>$0$</span></td>
+    <td><span>$35$</span></td>
+    <td><span>$1$</span></td>
+    <td>Revenge, Resistance vs. Melee Physical Attacks, Spark Rush $6$</td>
+    <td>A usually belligerent spirit the party has provoked the anger of</td>
   </tr>
   <tr>
-    <td><span>$X$</span></td>
-    <td><span>$X$</span></td>
-    <td><span>$X$</span></td>
-    <td><span>$X$</span></td>
-    <td></td>
-    <td></td>
+    <td><span>$10$</span></td>
+    <td><span>$2$</span></td>
+    <td><span>$36$</span></td>
+    <td><span>$6$</span></td>
+    <td>Immune vs. Melee and Ranged Physical Attacks, Tap</td>
+    <td>A mid level tanky build proficient in wars of attrition when outnumbering their opponents</td>
   </tr>
   <tr>
-    <td><span>$X$</span></td>
-    <td><span>$X$</span></td>
-    <td><span>$X$</span></td>
-    <td><span>$X$</span></td>
-    <td></td>
-    <td></td>
+    <td><span>$10$</span></td>
+    <td><span>$2$</span></td>
+    <td><span>$42$</span></td>
+    <td><span>$20$</span></td>
+    <td>Resistance vs. Spark Checks, Mirror vs. Spark Checks, Spark Rush $5$</td>
+    <td>A mid level build designed to move the Monstrosities towards their objectives fast while preventing their opponents from doing the same</td>
   </tr>
   <tr>
-    <td><span>$X$</span></td>
-    <td><span>$X$</span></td>
-    <td><span>$X$</span></td>
-    <td><span>$X$</span></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td><span>$X$</span></td>
-    <td><span>$X$</span></td>
-    <td><span>$X$</span></td>
-    <td><span>$X$</span></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td><span>$X$</span></td>
-    <td><span>$X$</span></td>
-    <td><span>$X$</span></td>
-    <td><span>$X$</span></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td><span>$X$</span></td>
-    <td><span>$X$</span></td>
-    <td><span>$X$</span></td>
-    <td><span>$X$</span></td>
-    <td></td>
-    <td></td>
+    <td><span>$10$</span></td>
+    <td><span>$20$</span></td>
+    <td><span>$80$</span></td>
+    <td><span>$33$</span></td>
+    <td>Resistance vs. Good and Evil, Shield vs. Good and Evil, Spark Rush $2$</td>
+    <td>A end-game level tanky and supportive build</td>
   </tr>
 </table>
 ```
+
+## Monstrosity Equations
+
