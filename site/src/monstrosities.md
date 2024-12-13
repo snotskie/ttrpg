@@ -52,6 +52,8 @@ Monstrosities can Help and Super-Help just as other characters. However, they ca
 
 **Spark Rush $X$:** Perform a Check. The amount you move forward as a result of this Check, for that many rounds, to a maximum of $3$ rounds, you may Spark using $2dcX$. Then this ability cannot be activated again until you spend Ⓧ to recharge it.
 
+**Cursed Touch:** Perform a Head Contest against an opponent. The amount you move forward as a result of this Contest, the opponent is Cursed by you for that many rounds. (When you see that opponent perform a roll, you may choose to have them reroll it and take the new value, then the Curse ends. Otherwise, the Curse ends when that many rounds have passed.)  Then this ability cannot be activated again until you spend ③ to recharge it.
+
 **Unrelenting:** At the end of each round, move forward a number of spaces equal to the number of times you've been Muddled.
 
 **Merciless:** At the end of each round, gain a number of Blessings equal to the number of times you've been Muddled.
