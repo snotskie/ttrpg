@@ -8,7 +8,7 @@ makedocs(
           # "assets/script.js"
       ]
   ),
-  pages=["index.md", "playing.md"]
+  pages=["index.md", "characters.md", "playing.md"]
 )
 
 deploydocs(repo="github.com/snotskie/ttrpg.git")
