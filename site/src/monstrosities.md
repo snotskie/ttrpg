@@ -34,13 +34,13 @@ Monstrosities can Help and Super-Help just as other characters. However, they ca
 
 ## Monstrous Abilities
 
-**$X$ Resistance:** Whenever you lose a Contest as the Defender against $X$, protect yourself for $+3$.
+**Resistance vs. $X$:** Whenever you lose a Contest as the Defender against $X$, protect yourself for $+3$.
 
-**$X$ Immunity:** Whenever you lose a Contest as the Defender against $X$, you instead succeed by $1$.
+**Immunity vs. $X$:** Whenever you lose a Contest as the Defender against $X$, you instead succeed by $1$.
 
-**$X$ Shield:** When you succeed a Home Stat Check during an Endeavor, you may have your allies receive $X$ Resistance for a number of rounds equal to the number of spaces you moved forward as a result of the Check, to a maximum of $3$ rounds. Then this ability cannot be activated again until you spend ② to recharge it.
+**Shield vs. $X$:** When you succeed a Home Stat Check during an Endeavor, you may have your allies receive Resistance vs. $X$ for a number of rounds equal to the number of spaces you moved forward as a result of the Check, to a maximum of $3$ rounds. Then this ability cannot be activated again until you spend ② to recharge it.
 
-**$X$ Mirror:** When you succeed a Home Stat Check during an Endeavor, you may have your allies receive $X$ Immunity for a number of rounds equal to the number of spaces you moved forward as a result of the Check, to a maximum of $3$ rounds. Then this ability cannot be activated again until you spend ⑥ to recharge it.
+**Mirror vs. $X$:** When you succeed a Home Stat Check during an Endeavor, you may have your allies receive Immunity vs. $X$ for a number of rounds equal to the number of spaces you moved forward as a result of the Check, to a maximum of $3$ rounds. Then this ability cannot be activated again until you spend ⑥ to recharge it.
 
 **Debilitate $X$:** Perform a $X$ Contest against an opponent. The amount you move forward as a result of this Contest, that opponent’s $X$ rolls are made with a $-1$ modifier for that many rounds. Then this ability cannot be activated again until you spend ② to recharge it.
 
@@ -58,7 +58,7 @@ Monstrosities can Help and Super-Help just as other characters. However, they ca
 
 ## Example Monstrosities
 
-For each example Monstrosity, the following table shows their die cap, how many Blessings they enter Endeavors with, their Statmia, and at what position(s) the Monstrosity's muddle buttons are placed.
+The following table shows a variety of example Monstrosities. For each, it shows their die cap, how many Blessings they enter Endeavors with, their Stamina, at what position(s) the Monstrosity's muddle buttons are placed, their Abilities (if any), and a brief possible description.
 
 ```@raw html
 <style>
@@ -93,7 +93,7 @@ For each example Monstrosity, the following table shows their die cap, how many 
     <td><span>$0$</span></td>
     <td><span>$16$</span></td>
     <td><span>$1$</span></td>
-    <td>Resistance against ranged physical attacks</td>
+    <td>Resistance vs. ranged physical attacks</td>
     <td>A low-level scout, with a high dexterity, perception, and skills with stalking and a basic ranged weapon</td>
   </tr>
   <tr>
