@@ -1,34 +1,48 @@
 # Endeavor Monstrosities
 
-## End Conditions
+## What is a Monstrosity?
 
-## Die Caps
+A Monstrosity does not have a set of Stats or Abilities in the same way any other character would. While a Monstrosity is a "character" for the sake of wording in rules, Monstrosities feel somehow different, strange, more powerful, just "off," or so on compared to non-Monstrous things. And mechanically they reflect this.
 
-To allow a finer gradient of "weak" to "strong" Monstrosities, their Stat dice can be "capped" at smaller values.
+Even a non-Monstrous non-player character, once it becomes a Monstrosity for the sake of a Monstrous Endeavor, changes. This is to reflect that *thing* that makes Monstrosities narratively interesting in your setting.
+
+So when you create Monstrosities, take time to thing about what it means to be "Monstrous" in your setting, and then use Monstrous Endeavors as a way to play with that idea over a period of sustained tension.
+
+If your players are facing off against other non-Monstrous characters, then reflect that by using a non-Monstrous Endeavor.
+
+Reserve Monstrous Endeavors for encounters that are truly Monstrous.
+
+## Monstrous Stats
+
+Instead of a number of Stat dice, a Monstrosity has a single die shared by all their Stats. And to allow a finer gradient of "weak" to "strong" Monstrosities, their Stat dice can be "capped" at smaller values.
 
 For example, the notation $dc2$ represents a $d4$ that has been capped at the value $2$: If the die were to roll a value greater than $2$, it rolls a $2$ instead. Put another way, this represents a single die with four sides, $1$, $2$, $2$, and $2$. This is the smallest possible capped die.
 
-In general, the notation $dcX$ represents the smallest standard die in this game ($d4$, $d6$, $d8$, or $d10$) capable of rolling $X$, capped so that it cannot roll higher than $X$.
+In general, the notation $dcX$ represents the smallest standard die in this game ($d4$, $d6$, $d8$, or $d10$) capable of rolling $X$, capped so that it cannot roll higher than $X$. In this notation, $dc4$ just is a $d4$, and so on.
 
 ## Stronger Monstrosities
 
 The die cap $dc10$ is the strongest die cap a Monstrosity can have, and the player characters will, in just a few sessions, catch up to this point.
 
-For higher level Endeavors, you may give your Monstrosities Abilities, choosing from the list below or creating your own. Additionally, you may have your Monstrosities enter Endeavors with a number of Blessings.
+For higher level Endeavors, you may give your Monstrosities Abilities, choosing from the list below or creating your own.
+
+Additionally, you may have your Monstrosities enter Endeavors with a number of Blessings.
 
 ## Monstrous Abilities
 
 Then this ability cannot be activated again until you spend ①②③④⑤Ⓧ to recharge it.
 
-**Resists $X$:** Whenever you lose a Contest as the Defender against $X$, protect yourself for $+3$.
+**$X$ Resistance:** Whenever you lose a Contest as the Defender against $X$, protect yourself for $+3$.
 
-**Immune to $X$:** Whenever you lose a Contest as the Defender against $X$, you instead succeed by $1$.
+**$X$ Immunity:** Whenever you lose a Contest as the Defender against $X$, you instead succeed by $1$.
 
-**$X$ Shield:** When you succeed a Home Stat Check during an Endeavor, you may have your allies receive Resists $X$ for a number of rounds equal to the number of spaces you moved forward as a result of the Check, to a maximum of $3$ rounds. Then this ability cannot be activated again until you spend ② to recharge it.
+**$X$ Shield:** When you succeed a Home Stat Check during an Endeavor, you may have your allies receive $X$ Resistance for a number of rounds equal to the number of spaces you moved forward as a result of the Check, to a maximum of $3$ rounds. Then this ability cannot be activated again until you spend ② to recharge it.
 
-**$X$ Mirror:** When you succeed a Home Stat Check during an Endeavor, you may have your allies receive Immune to $X$ for a number of rounds equal to the number of spaces you moved forward as a result of the Check, to a maximum of $3$ rounds. Then this ability cannot be activated again until you spend ⑥ to recharge it.
+**$X$ Mirror:** When you succeed a Home Stat Check during an Endeavor, you may have your allies receive $X$ Immunity for a number of rounds equal to the number of spaces you moved forward as a result of the Check, to a maximum of $3$ rounds. Then this ability cannot be activated again until you spend ⑥ to recharge it.
 
 **Debilitate $X$:** Perform a $X$ Contest against an opponent. The amount you move forward as a result of this Contest, that opponent’s $X$ rolls are made with a $-1$ modifier for that many rounds. Then this ability cannot be activated again until you spend ② to recharge it.
+
+**Empower:** When you succeed a Home Stat Check during an Endeavor, you may have your allies increase their die caps by $1$ for a number of rounds equal to the number of spaces you moved forward as a result of the Check, to a maximum of $3$ rounds. Then this ability cannot be activated again until you spend ③ to recharge it. A character can only benefit from one instance of this Ability at a time.
 
 **Clarity:** When you succeed a Home Stat Check during an Endeavor, you may have the muddle buttons of your allies move forward a number of spaces equal to the number of spaces you moved forward as a result of the Check. Then this ability cannot be activated again until you spend ③ to recharge it.
 
@@ -38,7 +52,25 @@ Then this ability cannot be activated again until you spend ①②③④⑤Ⓧ t
 
 **Unrelenting:** At the end of each round, move forward a number of spaces equal to the number of times you've been Muddled.
 
+**Merciless:** At the end of each round, gain a number of Blessings equal to the number of times you've been Muddled.
+
 ## Example Monstrosities
+
+```@raw html
+<style>
+  td, th {min-width: 15ch}
+</style>
+<table>
+  <tr>
+    <th scope="col"><span>$dcX$</span></th>
+    <th scope="col">Blessings</th>
+    <th scope="col">Stamina</th>
+    <th scope="col">Buttons</th>
+    <th scope="col">Abilities</th>
+    <th scope="col">Description</th>
+  </tr>
+</table>
+```
 
 For compactness, the notation $dcX$ $bY$ $sZ$ $mbW$ represents that a Monstrosity has a die cap of $X$, enters Endeavors with $Y$ Blessings, has $Z$ Stamina, and has muddle buttons at positions $W$.
 
