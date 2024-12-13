@@ -100,12 +100,12 @@ The rules for more complex types of actions build up from there.
 
 To perform a Stat Check, roll the die for the action’s associated Stat. The DM will let you know which to use. Roll the die, and if the result meets or beats the DM’s target number, then the check succeeds. Otherwise, it fails.
 
-!!! details "DM Note: Setting Basic Stat Check Targets"
-    Use $4$ for an easy Basic Stat Check, $8$ for medium, $12$ for hard, $16$ for very hard, and $20$ for a trial the players will be greatly awarded for overcoming. The lowest possible Basic Stat Check is $2$.
+!!! details "DM Note: Setting Stat Check Targets"
+    Use $4$ for an easy Stat Check, $8$ for medium, $12$ for hard, $16$ for very hard, and $20$ for a trial the players will be greatly awarded for overcoming. The lowest possible Basic Stat Check is $2$.
     
     Medium is the average for rolls in most situations the players will get themselves into. For situations that you surprise your players with that they don't have the chance to prepare for before reacting, consider lowering the difficulty by $1$ to $3$. The reason is that surprise situations are more likely to use characters' lower Stat Dice.
     
-    Also keep in mind that $12$ is the lowest Basic Stat Check difficulty where a player can begin to fail bad enough for disastrous results.
+    Also keep in mind that $12$ is the lowest Stat Check difficulty where a player can begin to fail bad enough for disastrous results.
   
 ### Contests
 
