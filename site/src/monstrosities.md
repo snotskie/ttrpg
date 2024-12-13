@@ -76,7 +76,7 @@ The following table shows a variety of example Monstrosities. For each, it shows
     <th scope="col"><span>$dcX$</span></th>
     <th scope="col">Blessings</th>
     <th scope="col">Stamina</th>
-    <th scope="col">Button(s)</th>
+    <th scope="col">Button(s) at</th>
     <th scope="col">Abilities</th>
     <th scope="col">Description</th>
   </tr>
@@ -95,6 +95,70 @@ The following table shows a variety of example Monstrosities. For each, it shows
     <td><span>$1$</span></td>
     <td>Resistance vs. ranged physical attacks</td>
     <td>A low-level scout, with a high dexterity, perception, and skills with stalking and a basic ranged weapon</td>
+  </tr>
+  <tr>
+    <td><span>$X$</span></td>
+    <td><span>$X$</span></td>
+    <td><span>$X$</span></td>
+    <td><span>$X$</span></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><span>$X$</span></td>
+    <td><span>$X$</span></td>
+    <td><span>$X$</span></td>
+    <td><span>$X$</span></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><span>$X$</span></td>
+    <td><span>$X$</span></td>
+    <td><span>$X$</span></td>
+    <td><span>$X$</span></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><span>$X$</span></td>
+    <td><span>$X$</span></td>
+    <td><span>$X$</span></td>
+    <td><span>$X$</span></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><span>$X$</span></td>
+    <td><span>$X$</span></td>
+    <td><span>$X$</span></td>
+    <td><span>$X$</span></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><span>$X$</span></td>
+    <td><span>$X$</span></td>
+    <td><span>$X$</span></td>
+    <td><span>$X$</span></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><span>$X$</span></td>
+    <td><span>$X$</span></td>
+    <td><span>$X$</span></td>
+    <td><span>$X$</span></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><span>$X$</span></td>
+    <td><span>$X$</span></td>
+    <td><span>$X$</span></td>
+    <td><span>$X$</span></td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
     <td><span>$X$</span></td>
