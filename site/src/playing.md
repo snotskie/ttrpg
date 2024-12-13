@@ -66,7 +66,19 @@ All characters have two "evergreen" Abilities that they can spend their Blessing
 
 ### Helping
 
-Once per roll, whether your own or another character’s, you may Help by spending any number of ① to increase the result of that roll by $+1$ for each ① spent. You may only spend ① to Help other characters this way if your character is near enough to them to reasonably assist with the action.
+Once per roll, whether your own or another character’s, you may Help by spending any number of ① to increase the result of that roll by $+1$ for each ① spent. You may only Help other characters this way if your character is near enough to them to reasonably assist with the action.
+
+Additionally, once per another character's roll, but not your own, you may Super-Help by spending ⑥ to increase the severity of the outcome to one rank higher than it would have been otherwise, such as from Minor to Medium. If the character you are helping is a Defender who lost a contest, then the severity of the outcome decreases instead.
+
+!!! warning "Rules Note: Super-Help does not Stack and Can be Canceled"
+    If multiple characters Super-Help the same character, then the severity of the outcome is still only increased by one rank.
+
+    If the Attacker and Defender of a Contest are both Super-Helped, then the two forms of Super-Help cancel each other out, and no change happens to the severity of the outcome.
+
+!!! warning "Rules Note: Super-Help Can Cause or Prevent Fatality"
+    Because a violent Contest with a Maximum outcome leads to immediate death or grave injuries for the Defender, a Super-Help could be used to *cause* fatality by increasing an violent outcome from Very Major to Maximum.
+
+    However, a Super-Help could also be used to *prevent* fatality by decreasing a violent outcome from Maximum to Very Major instead, regardless of how much higher the Attacker rolled than the Defender.
 
 ### Preparedness
 
@@ -112,7 +124,7 @@ If the violence continues past this initial Contest, then the Attackers may choo
 
 In general, rolling higher leads to better outcomes.
 
-Some rules refer to the "severity" of an outcome, from **Very Minor** to **Very Major**, as determined by the table below.
+Some rules refer to the "severity" of an outcome, from Very Minor to Maximum, as determined by the table below.
 
 ```@raw html
 <table>
@@ -131,7 +143,7 @@ Some rules refer to the "severity" of an outcome, from **Very Minor** to **Very 
 ```
 
 !!! warning "Rules Note: Maximum Violence is Lethal"
-    Keep in mind that, regardless of the Attacker's intention, a violent Contest with a Maximum outcome is *always* leads to immediate death or grave injuries for the Defender.
+    Keep in mind that, regardless of the Attacker's intention, a violent Contest with a Maximum outcome *always* leads to immediate death or grave injuries for the Defender.
 
 !!! details "DM Note: Severity of Non-violent Effects"
     - **Minor-:** A Minor or lower outcome to a non-violent Contest represents the Attacker getting what they wanted, within reason, and with complications. Any advantage the Attacker gains is temporary.
