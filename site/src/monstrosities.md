@@ -56,23 +56,75 @@ Then this ability cannot be activated again until you spend ①②③④⑤Ⓧ t
 
 ## Example Monstrosities
 
+For each example Monstrosity, the following table shows their die cap, how many Blessings they enter Endeavors with, their Statmia, and at what position(s) the Monstrosity's muddle buttons are placed.
+
 ```@raw html
 <style>
-  td, th {min-width: 15ch}
+  td, th {
+    min-width: 15ch;
+    border: 1px solid rgba(128, 128, 128, 0.5);
+  }
 </style>
 <table>
   <tr>
     <th scope="col"><span>$dcX$</span></th>
     <th scope="col">Blessings</th>
     <th scope="col">Stamina</th>
-    <th scope="col">Buttons</th>
+    <th scope="col">Button(s)</th>
     <th scope="col">Abilities</th>
     <th scope="col">Description</th>
+  </tr>
+  <tr>
+    <td><span>$X$</span></td>
+    <td><span>$X$</span></td>
+    <td><span>$X$</span></td>
+    <td><span>$X$</span></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><span>$X$</span></td>
+    <td><span>$X$</span></td>
+    <td><span>$X$</span></td>
+    <td><span>$X$</span></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><span>$X$</span></td>
+    <td><span>$X$</span></td>
+    <td><span>$X$</span></td>
+    <td><span>$X$</span></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><span>$X$</span></td>
+    <td><span>$X$</span></td>
+    <td><span>$X$</span></td>
+    <td><span>$X$</span></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><span>$X$</span></td>
+    <td><span>$X$</span></td>
+    <td><span>$X$</span></td>
+    <td><span>$X$</span></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><span>$X$</span></td>
+    <td><span>$X$</span></td>
+    <td><span>$X$</span></td>
+    <td><span>$X$</span></td>
+    <td></td>
+    <td></td>
   </tr>
 </table>
 ```
 
-For compactness, the notation $dcX$ $bY$ $sZ$ $mbW$ represents that a Monstrosity has a die cap of $X$, enters Endeavors with $Y$ Blessings, has $Z$ Stamina, and has muddle buttons at positions $W$.
 
 **Rat:** $dc2$ $b0$ $s15$ $mb3$. A classic giant rat.
 
