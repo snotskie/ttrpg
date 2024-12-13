@@ -47,7 +47,7 @@ All of your Basic Stat dice can be upgraded later in the [Session Shop](#Session
     However, please note, if you want to create a new Stat, it must:
 
     - Not already be covered by the first six Stats: Head, Hand, Heart, Home, Hurt, Hurry. Otherwise, you risk increasing the number of confusing moments of when one Stat applies over the other, and you risk spreading the players' resources too thin when they go to upgrade their Stats.
-    - Be something all players would want to upgrade and function the same for all players. Otherwise, it would be simpler to cover this "Stat" with History and let the players decide who will specialize in it, how they will specialize in it, and who will leave it alone.
+    - Be something all players would want to upgrade (or intentionally keep low for story purposes) and function the same for all players. Otherwise, it would be simpler to cover this "Stat" with History and let the players decide who will specialize in it, how they will specialize in it, and who will leave it alone.
     - Be the only new Stat you have added to your game. Otherwise, you risk creating a situation where players each have a large number of Stats that go relatively unused.
     - Not sound too similar to another Stat, such as "Handling" and "Hand." Otherwise, you risk confusing situations at the table where people mishear each other.
 
