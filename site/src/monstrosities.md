@@ -48,7 +48,9 @@ It is also recommended that you do not give your Monstrosities many Abilities--o
 
 **Immunity vs. $X$:** Whenever you lose a Contest as the Defender against $X$, you instead succeed by $1$.
 
-**Inspire:** Perform a Hurry Check and choose an ally. The amount you move forward as a result of this Check, the roll the chosen ally makes next round to take the focus increases by that amount. Then this ability cannot be activated again until you spend ④ to recharge it.
+**Inspire:** When you succeed a Hurry Stat Check during an Endeavor, you may choose an ally and have the roll they make next round to take the focus increase by a number equal to the amount you moved forward as a result of the Check. Then this ability cannot be activated again until you spend ④ to recharge it.
+
+**Cursed Touch:** Perform a Head Contest against an opponent. The amount you move forward as a result of this Contest, the opponent is Cursed by you for that many rounds. (When you see that opponent perform a roll, you may choose to have them reroll it and take the new value, then the Curse ends. Otherwise, the Curse ends when that many rounds have passed.)  Then this ability cannot be activated again until you spend ③ to recharge it.
 
 **Mirror vs. $X$:** When you succeed a Home Stat Check during an Endeavor, you may have you and your allies receive Immunity vs. $X$ for a number of rounds equal to the number of spaces you moved forward as a result of the Check, to a maximum of $3$ rounds. Then this ability cannot be activated again until you spend ⑥ to recharge it.
 
@@ -56,7 +58,7 @@ It is also recommended that you do not give your Monstrosities many Abilities--o
 
 **Empower:** When you succeed a Home Stat Check during an Endeavor, you may have you and your allies increase their die caps by $1$ for a number of rounds equal to the number of spaces you moved forward as a result of the Check, to a maximum of $3$ rounds. Then this ability cannot be activated again until you spend ③ to recharge it. A character can only benefit from one instance of this Ability at a time.
 
-**Cursed Touch:** Perform a Head Contest against an opponent. The amount you move forward as a result of this Contest, the opponent is Cursed by you for that many rounds. (When you see that opponent perform a roll, you may choose to have them reroll it and take the new value, then the Curse ends. Otherwise, the Curse ends when that many rounds have passed.)  Then this ability cannot be activated again until you spend ③ to recharge it.
+**Fervor:** When you succeed a Heart Stat Check during an Endeavor, you may have you and your allies receive Revenge for a number of rounds equal to the number of spaces you moved forward as a result of the Check, to a maximum of $3$ rounds. Then this ability cannot be activated again until you spend ⑥ to recharge it.
 
 **Unrelenting:** At the end of each round, move forward a number of spaces equal to the number of times you've been Muddled.
 
@@ -187,3 +189,10 @@ The following table shows a variety of example Monstrosity builds. For each, it 
 
 ## Monstrosity Equations
 
+As another starting point, the following relationships between the parts of a Monstrosity's build tend to produce balanced, mechanically familiar builds:
+
+- Die caps range from $2$ to $10$, with die caps maxing out around the 33% mark of a campaign.
+- The number of Blessings a Monstrosity starts Endeavors with range from $0$ to $20$, with "everyday" Monstrosities starting to get Blessings around the 33% mark of a campaign, and maxing out toward the end of the campaign.
+- Stamina is typically $5$ times the Monstrosity's die cap, but ranging from roughly $3$ to $8$. Stamina around the low end of this range gives a "squishier" feel to the Monstrosity, and Stamina around the high end gives a "tankier" feel.
+- Almost all Monstrosities have only a single muddle button, placed on the number line at a point ranging form around one fifth to one half of the Stamina. Muddle button positions around the low end of this range give an "unprotected" feel, and positions around the high end give an "armored" feel. Also, pairing a low muddle button position with the Revenge ability gives a "hair trigger" feel.
+- For Monstrosities with a "boss" feel, give them multiple evenly spaced muddle buttons, paired with Unrelenting or Merciless.
