@@ -192,7 +192,7 @@ The following table shows a variety of example Monstrosity builds. For each, it 
 As another starting point, the following relationships between the parts of a Monstrosity's build tend to produce balanced, mechanically familiar builds:
 
 - Die caps range from $2$ to $10$, with die caps maxing out around the 33% mark of a campaign.
-- The number of Blessings a Monstrosity starts Endeavors with range from $0$ to $20$, with "everyday" Monstrosities starting to get Blessings around the 33% mark of a campaign, and maxing out toward the end of the campaign.
+- The number of Blessings a Monstrosity starts Endeavors with range from $0$ to $20$, with "everyday" Monstrosities starting to get Blessings around the 33% mark of a campaign, and maxing out toward the end of the campaign. For Monstrosities that have a "squad leader" feel earlier in the campaign, give them $1$ or $2$ Blessings.
 - Stamina is typically $5$ times the Monstrosity's die cap, but ranging from roughly $3$ to $8$. Stamina around the low end of this range gives a "squishier" feel to the Monstrosity, and Stamina around the high end gives a "tankier" feel.
 - Almost all Monstrosities have only a single muddle button, placed on the number line at a point ranging form around one fifth to one half of the Stamina. Muddle button positions around the low end of this range give an "unprotected" feel, and positions around the high end give an "armored" feel. Also, pairing a low muddle button position with the Revenge ability gives a "hair trigger" feel.
-- For Monstrosities with a "boss" feel, give them multiple evenly spaced muddle buttons, paired with Unrelenting or Merciless.
+- For Monstrosities with an "arc boss" feel, give them multiple evenly spaced muddle buttons, paired with Unrelenting or Merciless.
