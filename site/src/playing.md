@@ -84,7 +84,7 @@ Additionally, once per another character's roll, but not your own, you may Super
 
 When you need an item your character does not already have listed, it could still be narratively reasonable for your character to have that item on them anyway.
 
-Up to once per scene, to see if your character came prepared with just the item you need, within reason, spend ① and perform a Preparedness Check, which is performed as though rolling a Home Stat Check. If you roll equal to or greater than twice the number of items you have listed, then the Check succeeds and you may add the item to your list. Otherwise, the Check fails and you become Unprepared for the rest of the session.
+Up to once per scene, to see if your character came prepared with just the item you need, within reason, spend ① and perform a Preparedness Check, which is performed as though rolling a Home Stat Check. If the Check succeeds, you may add the item to your list. Otherwise, you become Unprepared for the rest of the session.
 
 While you are Unprepared, you cannot perform Preparedness Checks.
 
