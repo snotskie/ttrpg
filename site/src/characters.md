@@ -7,7 +7,7 @@ Each character in this game has a small number of Basic Stats, represented by th
 !!! tip "Character Creation: Step One!"
     Green boxes like these provide questions to help guide you as you create your first character!
     
-    Your first task is to decide which Stats your character are best (and worst) at. Rank your Stats for your character: What are they most capable at? least capable at? just middly capable at?
+    Your first task is to decide which Stats your character is best (and worst) at. Rank your Stats for your character: What are they most capable at? least capable at? just middly capable at?
     
     As you do, begin to think about the story your character takes on in your mind. Why are they good at this and not at that? Why is one important to them and not the other? What are they trying to improve? What do they like getting help from others on?
 
