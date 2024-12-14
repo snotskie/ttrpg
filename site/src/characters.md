@@ -263,4 +263,4 @@ You may also spend ①①① to receive an additional upgrade beyond the one you
 !!! compat "Ability Upgrade Options"
     You may use your upgrade to gain an additional Ability, to a maximum of five Abilites. If you do, you receive this upgrade at the end of the following session.
     
-    When you gain your final Ability, you may create one of your own and gain it, within reason.
+    When you gain your final Ability, you may instead create one of your own and gain it, within reason.
