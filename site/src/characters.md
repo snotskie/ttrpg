@@ -162,7 +162,7 @@ Characters in this game have a set of Abilities that grant them certain actions 
 
 **Blessed by Circumstance:** During a roll involving three or more characters, you may swap the results of two characters’ rolls. Then this ability cannot be activated again until you spend ⑤ to recharge it.
 
-**Blessed by Responsiveness:** During an Endeavor involving three or more characters, when attempting to take the focus, you may reduce the result of your own roll to $0$. Then this ability cannot be activated again until you spend ② to recharge it.
+**Blessed by Responsiveness:** During an Endeavor involving three or more characters, when determining the Focal Action, you may reduce the result of your own roll to $0$. Then this ability cannot be activated again until you spend ② to recharge it.
 
 **Blessed by Family:** You may attack recklessly, using Home for a violent Contest instead of Hurt as usual. This attack is potentially lethal to your target if you win, and you may sustain injuries if you lose. Then this ability cannot be activated again until you spend ④ to recharge it.
 
@@ -203,7 +203,7 @@ Characters in this game have a set of Abilities that grant them certain actions 
 There is not an appendix of items to choose from in this game. Instead, items in this game are narrative and help shape the course of the story. Each character tracks a list of items they typically carry with them, and other items they may have with them can be determined in the moment.
 
 !!! tip "Character Creation: Step Five!"
-    List three items that your character never leaves home without, within reason. These will be the items you start the game with.
+    List three items that your character always carries, within reason. These will be the items you start the game with.
 
 !!! details "DM Note: Creating NPCs"
     You do not need to go through the entire character creation process to create NPCs for your table. Instead, you only need the following and can improvise the rest:
@@ -261,6 +261,6 @@ You may also spend ①①① to receive an additional upgrade beyond the one you
     **💎 Lost:** You feel a disconnect from your own past or former sense of self, perhaps because of an exile from your home, an erased memory, or a period of transition or deep self-reflection. When you have sparks, they might take on an erratic or liminal aspect. When you perform Spark Stat Checks using History you may pay for it with ⑥① instead of $2$ dice of the same worth.
 
 !!! compat "Ability Upgrade Options"
-    You may use your upgrade to gain an additional Ability, to a maximum of five Abilites. If you do, you receive this upgrade at the end of the following session.
+    You may use your upgrade to gain an additional Ability, to a maximum of four Abilities gained this way. If you do, you receive this upgrade at the end of the following session.
     
-    When you gain your final Ability, you may instead create one of your own and gain it, within reason.
+    When you gain your final Ability this way, you may instead create one of your own and gain it, within reason.
