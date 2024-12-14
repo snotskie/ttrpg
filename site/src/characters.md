@@ -218,7 +218,7 @@ There is not an appendix of items to choose from in this game. Instead, items in
 
 At the end of each session, you receive one free upgrade for your character. Upgrade options are listed below. Some upgrades you receive immediately, and some you receive at the end of the following session.
 
-You may also spend ①①① to receive an additional upgrade beyond the one you receive for free. You can keep spending Blessings to receive additional upgrades this way, but each additional upgrade costs ①① than the last.
+You may also spend ①①① to receive an additional upgrade beyond the one you receive for free. You can keep spending Blessings to receive additional upgrades this way, but each additional upgrade costs ①① more than the last.
 
 !!! compat "Basic Stat Upgrade Options"
     You may upgrade a single Basic Stat's die one size, from a $d4$ to a $d6$, from a $d6$ to a $d8$, or a $d8$ to a $d10$. If you do, you receive this upgrade immediately.
