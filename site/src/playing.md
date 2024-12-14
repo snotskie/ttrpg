@@ -38,7 +38,7 @@ When you roll a $1$ on a Blessing Die, instead of rolling again to increase the 
 
     What this looks like can vary per DM, per table, or per scene.
 
-    Some DMs may prefer a “fail forward” approach like in *Kids on Bikes*, where Blessing Dice are given whenever a player fails a check. Others may prefer a "natural" approach like in *Dungeons and Dragons*, where they award them when the players roll the highest value on their die. Others still may prefer to award them when the players engage in cool roleplay, when they solve puzzles or complete quests, as a fixed supply at the start of each session or arc, or so on. And having the source of Blessing Dice suddenly dry up in grittier parts of the story can be a *very* effective way to put the pressure on.
+    Some DMs may prefer an approach where Blessing Dice are given whenever a player fails a check. Others may prefer an approach where they award them when the players roll the highest value on their die. Others still may prefer to award them when the players engage in cool roleplay, when they solve puzzles or complete quests, as a fixed supply at the start of each session or arc, or so on. And having the source of Blessing Dice suddenly dry up in grittier parts of the story can be a *very* effective way to put the pressure on.
 
     The way you award Blessing Dice is one of the most powerful tools in your toolbelt as a DM in this game! Use it well!
 
@@ -76,13 +76,13 @@ Additionally, once per another character's roll, but not your own, you may Super
     If the Attacker and Defender of a Contest are both Super-Helped, then the two forms of Super-Help cancel each other out, and no change happens to the severity of the outcome.
 
 !!! warning "Rules Note: Super-Help Can Cause or Prevent Fatality"
-    Because a violent Contest with a Maximum outcome leads to immediate death or grave injuries for the Defender, a Super-Help could be used to *cause* fatality by increasing an violent outcome from Very Major to Maximum.
+    Because a violent Contest with a Maximum outcome leads to immediate death or grave injuries for the Defender, a Super-Help could be used to *cause* fatality by increasing a violent outcome from Very Major to Maximum.
 
     However, a Super-Help could also be used to *prevent* fatality by decreasing a violent outcome from Maximum to Very Major instead, regardless of how much higher the Attacker rolled than the Defender.
 
 ### Preparedness
 
-When you need an item your character does not already have listed, it could still be narratively reasonable for your character to have that item on them anyway.
+When you need an item it's not yet been established that your character has, it could still be narratively reasonable for your character to have that item on them anyway.
 
 Up to once per scene, to see if your character came prepared with just the item you need, within reason, you may perform a Preparedness Check, which is performed as though rolling a Home Stat Check. If the Check succeeds, you may add the item to your list. Otherwise, you become Unprepared for the rest of the session.
 
