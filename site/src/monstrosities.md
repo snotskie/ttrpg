@@ -102,7 +102,7 @@ The following table shows a variety of example Monstrosity builds. For each, it 
     <td><span>$15$</span></td>
     <td><span>$3$</span></td>
     <td></td>
-    <td>A classic giant rat.</td>
+    <td>A classic giant rat</td>
   </tr>
   <tr>
     <td><span>$3$</span></td>
@@ -111,6 +111,14 @@ The following table shows a variety of example Monstrosity builds. For each, it 
     <td><span>$1$</span></td>
     <td>Resistance vs. Ranged Physical Attacks</td>
     <td>A low-level scout, with a high dexterity, perception, and skills with stalking and a basic ranged weapon</td>
+  </tr>
+  <tr>
+    <td><span>$4$</span></td>
+    <td><span>$0$</span></td>
+    <td><span>$22$</span></td>
+    <td><span>$3$</span></td>
+    <td></td>
+    <td>A bigger giant rat</td>
   </tr>
   <tr>
     <td><span>$5$</span></td>
@@ -135,6 +143,14 @@ The following table shows a variety of example Monstrosity builds. For each, it 
     <td><span>$10$</span></td>
     <td>Inspire</td>
     <td>A weaker build designed to ensure an ally gets the focus</td>
+  </tr>
+  <tr>
+    <td><span>$8$</span></td>
+    <td><span>$0$</span></td>
+    <td><span>$34$</span></td>
+    <td><span>$9$</span></td>
+    <td></td>
+    <td>An even bigger giant rat</td>
   </tr>
   <tr>
     <td><span>$8$</span></td>
@@ -175,6 +191,14 @@ The following table shows a variety of example Monstrosity builds. For each, it 
     <td><span>$20$</span></td>
     <td>Resistance vs. Spark Checks, Mirror vs. Spark Checks, Spark Rush $5$</td>
     <td>A mid level build designed to move the Monstrosities towards their objectives fast while preventing their opponents from doing the same</td>
+  </tr>
+  <tr>
+    <td><span>$10$</span></td>
+    <td><span>$5$</span></td>
+    <td><span>$50$</span></td>
+    <td><span>$21$</span></td>
+    <td></td>
+    <td>Our biggest example giant rat</td>
   </tr>
   <tr>
     <td><span>$10$</span></td>
