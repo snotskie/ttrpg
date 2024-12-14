@@ -162,7 +162,7 @@ Characters in this game have a set of Abilities that grant them certain actions 
 
 **Blessed by Circumstance:** During a roll involving three or more characters, you may swap the results of two characters’ rolls. Then this ability cannot be activated again until you spend ⑤ to recharge it.
 
-**Blessed by Self-Sacrifice:** During an Endeavor involving three or more characters, when attempting to take the focus, you may reduce the result of your own roll to $0$. Then this ability cannot be activated again until you spend ② to recharge it.
+**Blessed by Responsiveness:** During an Endeavor involving three or more characters, when attempting to take the focus, you may reduce the result of your own roll to $0$. Then this ability cannot be activated again until you spend ② to recharge it.
 
 **Blessed by Voices:** You may learn more about a character, place, or fact than would normally be possible, and this knowledge may come with consequences. Then this ability cannot be activated again until you spend ④ to recharge it.
 
