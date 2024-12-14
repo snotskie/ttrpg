@@ -32,17 +32,17 @@ All of your Basic Stat dice can be upgraded later in the [Session Shop](#Session
 !!! details "DM Note: Creating Other Stats"
     For your campaign setting, you may find it helpful to create a new Stat for your players. For example:
     
-    > - **🐦‍🔥 Hex:** Use of wands, spells, potions, and other magical instruments, traps, lore, and knowledge. *E.g., for a Misfits and Magic style setting.*
-    > - **🥕 Ham:** Use of outlandish solutions, cartoonish items, and pun-based bends of reality. *E.g., for a Roger Rabbit style setting.*
-    > - **🦾 Hardware:** Use of machines, robotics, and cybernetic implants. *E.g. for a Cyberpunk style setting.*
+    > - **🐦‍🔥 Hex:** Use of wands, spells, potions, and other magical instruments, traps, lore, and knowledge. *E.g., for a magic or fantasy style setting.*
+    > - **🥕 Ham:** Use of outlandish solutions, cartoonish items, and pun-based bends of reality. *E.g., for a cartoon style setting.*
+    > - **🦾 Hardware:** Use of machines, robotics, and cybernetic implants. *E.g. for a cyberpunk style setting.*
     > - **🔎 Hunch:** Locating clues, guessing the right solution to a puzzle, being in the right place at the right time. *E.g. for a film noir style setting.*
-    > - **👾 Hologram:** Investigating, interacting with, noticing inconsistencies in, and reshaping the simulation the characters exist within directly. *E.g. for a Matrix style setting.*
-    > - **💰 Hireling:** Acquiring employees, minions, or quest companions, and effectively delegating tasks and operating a business. *E.g. for an Acquisitions Incorporated style setting.*
+    > - **👾 Hologram:** Investigating, interacting with, noticing inconsistencies in, and reshaping the simulation the characters exist within directly. *E.g. for a futuristic style setting.*
+    > - **💰 Hireling:** Acquiring employees, minions, or quest companions, and effectively delegating tasks and operating a business. *E.g. for an absurd capitalist style setting.*
     > - **🎁 Holly Jolly:** Drawing from the magic of the season to bring people joy, operating devices from the North Pole, and interacting with reindeer, snowmen, yetis, and other such fantastical beasts. *E.g. for a winter wonderland style setting.*
-    > - **🎧 Headline:** Performing music on stage, in a garage with your band, moving in sync with the beat. *E.g. for a Scott Pilgrim style setting.*
-    > - **💀 Hardship:** Shared narrative touchstones of the story setting that represent the town's obstacles, troubles, and adversities. This Stat cannot be upgraded beyond a $d4$, but can still be involved in Spark Stat Checks and be boosted by Abilities like other Basic Stats. *E.g. for a Stephen King style setting.*
+    > - **🎧 Headline:** Performing music on stage, in a garage with your band, moving in sync with the beat. *E.g. for a battle of the bands style setting.*
+    > - **💀 Hardship:** Shared narrative touchstones of the story setting that represent the town's obstacles, troubles, and adversities. This Stat cannot be upgraded beyond a $d4$, but can still be involved in Spark Stat Checks and be boosted by Abilities like other Basic Stats. *E.g. for a suspense horror style setting.*
     > - **👻 Haunted:** Dark narrative touchstones representing a character's fears, a curse they can't escape, or a malevolent force that haunts them. This Stat begins the game as a $d10$, yet can be decreased in the same way other Stats are normally increased, down to a minimum of a $d4$. Players do not choose to use this Stat. Instead, whenever the thing that haunts them is present (whether the character is aware of its presence or not), after the character has performed a roll, they then roll their Haunted Stat and subtract its value from the original roll's result. This Stat's die bumps as normal. *E.g. for a Poe style setting.*
-    > - **🌳 Hardy:** Shared narrative touchstones emerging from each session's obstacles that represent the players' combined efforts against the challenges they have faced. This Stat is shared by all players at the table, and it cannot be upgraded by the normal means. Instead, it begins each session as a $d4$. When a player fails a Check or loses a Contest against a non-player character, this Stat upgrades to the next die size, to a maximum of a $d10$. Any player may choose to use the Hardy die instead of one of their other Stat dice for any roll; when they do, this Stat returns to a $d4$. *E.g. for a basic Kids on Bikes style setting.*
+    > - **🌳 Hardy:** Shared narrative touchstones emerging from each session's obstacles that represent the players' combined efforts against the challenges they have faced. This Stat is shared by all players at the table, and it cannot be upgraded by the normal means. Instead, it begins each session as a $d4$. When a player fails a Check or loses a Contest against a non-player character, this Stat upgrades to the next die size, to a maximum of a $d10$. Any player may choose to use the Hardy die instead of one of their other Stat dice for any roll; when they do, this Stat returns to a $d4$. *E.g. for a coming of age style setting.*
     
     However, please note, if you want to create a new Stat, it must:
 
@@ -62,11 +62,11 @@ Each character in this game starts with one of three Lifestyles, described below
 !!! tip "Character Creation: Step Two!"
     Begin to describe the Lifestyle your character had growing up or their current outlook on life. As you do, pick one of the following Lifestyles to start the game with. These can be changed later in the [Session Shop](#Session-Shop).
 
-**🍀 Carefree:** Your character lives a relatively carefree life, perhaps because of your young age, wealthy upbringing, or optimistic demeanor. Your choice of your Heart or Hurry Stat begins the game one die size larger.
+**🍀 Carefree:** Your character lives a relatively carefree life, perhaps because of your naivete, wealthy upbringing, or optimistic demeanor. Your choice of your Heart or Hurry Stat begins the game one die size larger.
 
-**🔥 Eager:** Your character is eager for more out of life, perhaps because of a teenage rebellious phase, a yearning to accomplish your dreams, or a person you want to impress. Your choice of your Hand or Hurt Stat begins the game one die size larger.
+**🔥 Eager:** Your character is eager for more out of life, perhaps because of a rebellious phase, a yearning to accomplish your dreams, or a person you want to impress. Your choice of your Hand or Hurt Stat begins the game one die size larger.
 
-**🧘‍♀️ Wisened:** Life has not been easy on your character, but as a result you’ve come out wiser and tougher, perhaps because you’ve gotten older, been shaped by unfortunate events, or dedicated yourself to your work. Your choice of your Head or Home Stat begins the game one die size larger.
+**🧘‍♀️ Wisened:** Life has not been easy on your character, but as a result you’ve come out wiser and tougher, perhaps because you've been shaped by unfortunate events or dedicated yourself to your work. Your choice of your Head or Home Stat begins the game one die size larger.
 
 ## History
 
@@ -203,7 +203,7 @@ Characters in this game have a set of Abilities that grant them certain actions 
 There is not an appendix of items to choose from in this game. Instead, items in this game are narrative and help shape the course of the story. Each character tracks a list of items they typically carry with them, and other items they may have with them can be determined in the moment.
 
 !!! tip "Character Creation: Step Five!"
-    List three items that your character always carries, within reason. These will be the items you start the game with.
+    List three or four items your character always carries, within reason. These will be the items you start the game with.
 
 !!! details "DM Note: Creating NPCs"
     You do not need to go through the entire character creation process to create NPCs for your table. Instead, you only need the following and can improvise the rest:
