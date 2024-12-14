@@ -2,7 +2,7 @@
 
 ## Basic Stats
 
-Each character in this game has a small number of Basic Stats, represented by the "H’s of Humanity" described below. Together, these few Basic Stats describe a character's general capabilities at a wide range of tasks and situations.
+Each character in this game has a small number of Basic Stats, represented by the "H’s of Humanity" described below. Together, these describe a character's general capabilities at a wide range of tasks and situations.
 
 !!! tip "Character Creation: Step One!"
     Green boxes like these provide questions to help guide you as you create your first character!
@@ -17,7 +17,7 @@ Each character in this game has a small number of Basic Stats, represented by th
 
 **💕 Heart:** Speaking with passion, understanding others, reading emotions, playing music improvisationally. With a high Heart Stat you understand others' intentions easily and can act accordingly. With a low Heart Stat others maybe just aren't as enthused about your interests as you are
 
-**🩹 Home:** Protecting yourself and loved ones, taking hits, tending to wounds, haggling, survival skills, cooking, navigating towns and dwellings, remaining calm, staying alert, coming prepared. With a high Home Stat you can easily be depended upon in situations both mundane and dire. With a low Home Stat your estimates of health and money matters might frequently be off or you always seem to always misplace items
+**🩹 Home:** Protecting yourself and loved ones, taking hits, tending to wounds, shopping, scavenging, survival skills, cooking, navigating towns and dwellings, remaining calm, staying alert, coming prepared. With a high Home Stat you can easily be depended upon in situations both mundane and dire. With a low Home Stat your estimates of health and money matters might frequently be off or you seem to always misplace items
 
 **👿 Hurt:** Nerve and willingness to inflict harm on others. With a high Hurt Stat you can easily steel your resolve when the time calls for violent answers. With a low Hurt Stat your caring for others' well-being seems to extend even to your enemies
 
@@ -62,15 +62,15 @@ Each character in this game starts with one of three Lifestyles, described below
 !!! tip "Character Creation: Step Two!"
     Begin to describe the Lifestyle your character had growing up or their current outlook on life. As you do, pick one of the following Lifestyles to start the game with. These can be changed later in the [Session Shop](#Session-Shop).
 
-**🍀 Carefree:** Your character lives a relatively carefree life, perhaps because of your young age, wealthy upbringing, or optimistic demeanor. Your Heart and Hurry Stats each begin the game one die size larger.
+**🍀 Carefree:** Your character lives a relatively carefree life, perhaps because of your young age, wealthy upbringing, or optimistic demeanor. Your choice of your Heart or Hurry Stat begins the game one die size larger.
 
-**🔥 Eager:** Your character is eager for more out of life, perhaps because of a teenage rebellious phase, a yearning to accomplish your dreams, or a person you want to impress. Your Hand and Hurt Stats each begin the game one die size larger.
+**🔥 Eager:** Your character is eager for more out of life, perhaps because of a teenage rebellious phase, a yearning to accomplish your dreams, or a person you want to impress. Your choice of your Hand or Hurt Stat begins the game one die size larger.
 
-**🧘‍♀️ Wisened:** Life has not been easy on your character, but as a result you’ve come out wiser and tougher, perhaps because you’ve gotten older, been shaped by unfortunate events, or dedicated yourself to your work. Your Head and Home Stats each begin the game one die size larger.
+**🧘‍♀️ Wisened:** Life has not been easy on your character, but as a result you’ve come out wiser and tougher, perhaps because you’ve gotten older, been shaped by unfortunate events, or dedicated yourself to your work. Your choice of your Head or Home Stat begins the game one die size larger.
 
 ## History
 
-Each character has a History Basic Stat, made up of a number of narrative touchstones. This Stat is used to perform actions more related to the character's backstory more than to the other Basic Stats. And even though every character has a History Basic Stat, what their History covers is unique to them and only them!
+Each character has a History Basic Stat, made up of a number of narrative touchstones. This Stat is used to perform actions related to the character's backstory more than to the other Basic Stats. And even though every character has a History Basic Stat, what their History covers is unique to them and only them!
 
 !!! tip "Character Creation: Step Three!"
     Begin to describe your character's backstory. Answer the following prompts, or others given to you by your DM. These background details will help you and your DM build the story and set the scope of the narrative touchstones your History Stat Checks cover.
@@ -112,7 +112,7 @@ Each character has a History Basic Stat, made up of a number of narrative touchs
 Characters in this game have a set of Abilities that grant them certain actions or bonuses over the course of the game. These Abilities work together with characters' Stats, Lifestyle, and Backstory to flesh out their key defining traits!
 
 !!! tip "Character Creation: Step Four!"
-    Begin to imagine the kind of character taking shape in your mind. Have you seen characters like them before in movies, TV shows, and books? Were they the bully in school? Do they get drawn into conspiracy theories? Are they so laid-back that others think they're a slacker? Are they beautiful and popular? Are they quiet and hardworking? Etc. Try to envision the tropes from your favorite fictional stories that your character takes after.
+    Begin to imagine the kind of character taking shape in your mind. Have you seen characters like them before in movies, TV shows, and books? Try to envision the people from your favorite fictional stories that your character takes after.
 
     With that in mind, pick two of the following Abilities to start the game with. As you do, you may also want to consult the [Playing the Game](playing.md) page to learn more about the rules these Abilities interact with.
     
@@ -133,9 +133,9 @@ Characters in this game have a set of Abilities that grant them certain actions 
     
     When an effect describes a failed Check or lost Contest and says to “protect yourself for $+X$,” you suffer the results as though you had rolled $+X$ higher. This cannot turn the failure into a success or loss into a win, but it can reduce the severity of the outcome.
 
-**Careful Resolve:** Whenever you fail a Check while performing dangerous stunts or procedures, protect yourself for $+3$.
+**Careful Resolve:** Whenever you fail a Check while performing dangerous actions, protect yourself for $+3$.
 
-**Tactful Speech:** Whenever you lose a Contest trying to persuade others, protect yourself for $+3$.
+**Tactful Speech:** Whenever you lose a Contest trying to persuade, influence, inspire, or deceive others, protect yourself for $+3$.
 
 **Quickly Acclimated:** Whenever you fail a Check against natural effects such as weather and disease, protect yourself for $+3$.
 
