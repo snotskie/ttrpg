@@ -47,7 +47,7 @@ When you roll a $1$ on a Blessing Die, instead of rolling again to increase the 
     - Award $3$ Blessing Dice near the start of the first session, such as after the player has introduced their character
     - Award a Blessing Die the first time each session the player succeeds a Check or wins a Contest by $5$ or more, and award each other player whose character witnessed or heard about that high win or success a Blessing Dice as well
     - Award a Blessing Die for good role play and creative solutions
-    - Award a Blessing Die each time the player rolls the "lucky number" for the session. To determine the lucky number, at the start of each session, roll two $d10$ and use the higher value as the lucky number for the session. If a $1$ is rolled on both dice this way, then there is no lucky number for the session, as it is impossible to score lower than a $2$ on rolls in this game; such sessions take place narratively on an "unlucky day"
+    - Award a Blessing Die each time the player rolls the "lucky number" for the session, before modifications to the roll from effects or Abilities. To determine the lucky number, at the start of each session, roll two $d10$ and use the higher value as the lucky number for the session. If a $1$ is rolled on both dice this way, then there is no lucky number for the session, as it is impossible to score lower than a $2$ on rolls in this game; such sessions take place narratively on an "unlucky day"
     - Award a number of Blessing Dice at the end of sessions where players completed important milestones in the story
 
 ### Spending Blessing Dice
@@ -56,7 +56,7 @@ Some actions can only be performed by first "spending" some number of dice from 
 
 The notation ① represents a single die from your pool of Blessing Dice worth $1$ or more. The notation ② represents a single die from your pool of Blessing Dice worth $2$ or more. And so on.
 
-The notation ①① represents two dice from your pool of Blessing Dice, each worth $1$ or more. The notation ②② represents two dice from your pool of Blessing Dice, each worth $2$ or more. And so on.
+The notation ①① represents two dice from your pool of Blessing Dice each worth $1$ or more. The notation ②② represents two dice from your pool of Blessing Dice each worth $2$ or more. And so on.
 
 When a Blessing Die is spent, it is removed from your pool of Blessing Dice.
 
@@ -98,7 +98,7 @@ The rules for more complex types of actions build up from there.
 
 ### Stat Checks
 
-To perform a Stat Check, roll the die for the action’s associated Stat. The DM will let you know which to use. Roll the die, and if the result meets or beats the DM’s target number, then the check succeeds. Otherwise, it fails.
+To perform a Stat Check, roll the die for the action’s associated Stat. The DM will let you know which to use. If the result of the roll meets or beats the DM’s target number, then the check succeeds. Otherwise, it fails.
 
 !!! details "DM Note: Setting Stat Check Targets"
     Use $4$ for an easy Stat Check, $8$ for medium, $12$ for hard, $16$ for very hard, and $20$ for a trial the players will be greatly awarded for overcoming. The lowest possible Basic Stat Check is $2$.
@@ -210,6 +210,11 @@ To resolve simultaneous actions, follow these steps:
 
 For example, if two characters are attacking one another at the same time, then each character first rolls as Attackers, narrating how they attempt to attack. Then only the higher roll goes through as an attack and as the Focal Action--the lower roll has been interrupted, neither winning, losing, failing, or succeeding. Then the lower roller rolls as a Defender against the attack, narrating how they respond, and effects are determined as usual. And as there were only two characters in this exchange, there were no opportunities for Side Actions by other characters.
 
+!!! warning "Rules Note: Groups within Simultaneous Actions"
+    If multiple characters perform a grouped Check or Contest as Attackers together when determining the Focal Action, then they remain grouped for the rest of the simultaneous action.
+
+    Likewise, if multiple characters perform separate actions when determining the Focal Action, then they remain separate and cannot perform a grouped Check or Contest as Attackers together for the rest of the simultaneous action.
+
 ### Endeavors
 
 Endeavors are series of simultaneous actions during which the characters involved race to be the first to reach some destination, to be the first to acheive some action, to escape without being caught, to advance an objective before time runs out, or so on. Many scenes where the tension is drawn out can be run as Endeavors.
@@ -241,7 +246,7 @@ To perform an Endeavor:
 ```
 
 !!! warning "Rules Note: Movement as a Result of a Check or Contest"
-    If a character moves forward as a result of taking the focus, that movement is separate from the amount they move forward as a result of the Check or Contest when it subsequently resolves.
+    If a character moves forward as a result of rolling the highest when determining the Focal Action, that movement is separate from the amount they move forward as a result of the Check or Contest when the Focal Action subsequently resolves.
     
     Moreover, even if that character subsequently fails that Check or loses that Contest, the character still gains their movement from driving the Focal Action in the first place.
 
@@ -301,19 +306,19 @@ While you are Uncool, all rolls you make are modified by $-1$. Once during each 
 
     Equally important is how you give the players opportunities to *remove* this condition. Each attempt should be a fun, satisfying story beat that helps shape the narrative of how the player's character grows.
 
-    So when you build the narrative of around how a character becomes Uncool and what this means for their connections to other characters, keep in the back of your head how you could use these same connections later to remove the condition and offer the player a chance to roleplay growth from their earlier failure.
+    So when you build the narrative around how a character becomes Uncool and what this means for their connections to other characters, keep in the back of your head how you could use these same connections later to remove the condition and offer the player a chance to roleplay growth from their earlier failure.
 
 ### Example Conditions
 
 While most effects help shape the narrative of the game, your DM may find it appropriate to apply conditions to characters when the situation calls for it. Some example conditions are given below:
 
-- **Headache/Handcramp/Heartache/Homesick:** Rolls you make with the affected Stat are made with a $-1$ modifier. This condition lasts until the end of the scene.
-- **Weakened:** Rolls you make as a Defender in violent Contests are made with a $-2$ modifier. Resting or tending to your wounds ends this condition.
-- **Agreeable to $X$:** Rolls you make as a Defender in non-violent Contests where $X$ is an Attacker are made with a $-2$ modifier. If $X$ does an action or makes a request that would bring you harm, this condition ends.
+- **Headache/Handcramp/Heartache/Homesick:** Rolls you make with the affected Stat that would roll the highest value on the die instead roll the second highest. This condition lasts until the end of the scene.
+- **Weakened:** Rolls you make as a Defender in violent Contests that would roll the highest value on the die instead roll the second highest. Resting or tending to your wounds ends this condition.
+- **Agreeable to $X$:** Rolls you make as a Defender in non-violent Contests where $X$ is an Attacker that would roll the highest value on the die instead roll the second highest. If $X$ does an action or makes a request that would bring you harm, this condition ends.
 - **Head/Hand/Heart/Home Cursed by $X$:** When $X$ witnesses you perform a roll using the affected Stat, $X$ may have you perform the roll again and use the new value. If they do, this condition ends.
-- **Muddled:** The next roll you make to take the focus in an Endeavor is made with a $-2$ modifier. Then, this condition ends.
+- **Muddled:** The next roll you make when determining the Focal Action in an Endeavor is made with a $-2$ modifier. Then, this condition ends.
 - **Exhausted/Cursed:** Dice in your pool of Blessing Dice are each worth $1$ less, to a minimum of $0$. This condition ends when you remove its cause.
 - **Distracted:** Rolls you make do not bump. This condition ends when you remove its cause.
-- **Disarmed:** If you would win a violent Contest as the Attacker by $10$ or more, you win by $9$ instead. When you find a new weapon or take a moment to recompose yourself, this condition ends.
+- **Disarmed:** If you would win a violent Contest as the Attacker with Maximum severity, you win with Very Major severity instead. When you find a new weapon or take a moment to recompose yourself, this condition ends.
 - **Taxed:** You cannot perform Spark Stat Checks. Spending ①① ends this condition.
-- **Robbed:** You cannot perform Preparedness Checks. This condition ends when you spend time in a place where items could be restocked.
+- **Robbed:** You are Unprepared. This condition ends when you spend time in a place where items could be restocked.
