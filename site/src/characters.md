@@ -164,8 +164,6 @@ Characters in this game have a set of Abilities that grant them certain actions 
 
 **Blessed by Responsiveness:** During an Endeavor involving three or more characters, when attempting to take the focus, you may reduce the result of your own roll to $0$. Then this ability cannot be activated again until you spend ② to recharge it.
 
-**Blessed by Voices:** You may learn more about a character, place, or fact than would normally be possible, and this knowledge may come with consequences. Then this ability cannot be activated again until you spend ④ to recharge it.
-
 **Blessed by Family:** You may attack recklessly, using Home for a violent Contest instead of Hurt as usual. This attack is potentially lethal to your target if you win, and you may sustain injuries if you lose. Then this ability cannot be activated again until you spend ④ to recharge it.
 
 **Blessed by Charity:** When you visit a place of religious or spiritual importance, you may spend any number of ① as a donation or act of service to the place. The more spent this way, the greater a possible later boon may be, determined by the DM.
