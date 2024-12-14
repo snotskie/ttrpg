@@ -30,7 +30,7 @@ Additionally, you may have your Monstrosities enter Endeavors with a number of B
 
 ## Monstrous Abilities
 
-Monstrosities can Help and Super-Help just as other characters. However, they cannot perform Preparedness Checks. You may also give your Monstrosities any of the following Monstrous Abilities or create your own. These Abilities are listed in a rough order from "weakest" to "strongest."
+Monstrosities can Help and Super-Help just as other characters can. However, they cannot perform Preparedness Checks. You may also give your Monstrosities any of the following Monstrous Abilities or create your own. These Abilities are listed in a rough order from "weakest" to "strongest."
 
 It is also recommended that you do not give your Monstrosities many Abilities--one or two well-placed Abilities are plenty to make a Monstrosity memorable! Consider adding multiple Monstrosities to a Monstrous Endeavor that have complementary skills to create sessions that feel engaging and strategic. And for Monstrosities that use "magic" or wield some other kind of powerful force, we recommend using the Spark Rush $X$ Ability, flavoring it for the occasion.
 
