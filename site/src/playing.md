@@ -72,9 +72,12 @@ All characters have two "evergreen" Abilities that they can spend their Blessing
 
 ### Helping
 
-Once per roll, whether your own or another character’s, you may Help by spending up to $10$ Blessing Dice to increase the result of that roll by $+dcX$, where $X$ is the number of Blessing Dice spent this way. You may only Help other characters this way if your character is near enough to them to reasonably assist with the action.
+Up to once per roll, whether your own or another character’s, you may Help by spending up to $10$ Blessing Dice to increase the result of that roll by $+dcX$, where $X$ is the number of Blessing Dice spent this way. You may only Help other characters this way if your character is near enough to them to reasonably assist with the action.
 
-Additionally, once per another character's roll, but not your own, you may Super-Help by spending ⑥ to increase the severity of the outcome to one rank higher than it would have been otherwise, such as from Minor to Medium. If the character you are helping is a Defender who lost a contest, then the severity of the outcome decreases instead. You may only Super-Help other characters this way if your character is near enough to them to reasonably assist with the action.
+!!! warning "Rules Note: Many Hands Make Light Work"
+    It is more cost effective, for example, for two characters to spend $2$ Blessing Dice each and both of them Help on an action than for one character to spend $4$ Blessing Dice and do all the Helping by themself.
+
+Additionally, up to once per another character's roll, but not your own, you may Super-Help by spending ⑥ to increase the severity of the outcome to one rank higher than it would have been otherwise, such as from Minor to Medium. If the character you are helping is a Defender who lost a contest, then the severity of the outcome decreases instead. You may only Super-Help other characters this way if your character is near enough to them to reasonably assist with the action.
 
 !!! warning "Rules Note: Super-Help does not Stack and Can be Canceled"
     If multiple characters Super-Help the same character, then the severity of the outcome is still only increased by one rank.
