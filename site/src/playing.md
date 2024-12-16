@@ -60,13 +60,19 @@ The notation ①① represents two dice from your pool of Blessing Dice each wor
 
 When a Blessing Die is spent, it is removed from your pool of Blessing Dice.
 
+### Capped Dice
+
+Some rules in this game refer to "capped" dice. These are the standard dice of the game ($d4$ through $d10$), but "capped" at smaller values.
+
+For example, the notation $dc2$ represents a $d4$ that has been capped at the value $2$: If the die were to roll a value greater than $2$, it rolls a $2$ instead. Put another way, this represents a single die with four sides, $1$, $2$, $2$, and $2$. This is the smallest possible capped die. In general, the notation $dcX$ represents the smallest standard die in this game ($d4$, $d6$, $d8$, or $d10$) capable of rolling $X$, capped so that it cannot roll higher than $X$. In this notation, $dc4$ just is a $d4$, and so on. $dc1$ is simply the value $1$ and cannot bump.
+
 ## Evergreen Abilities
 
 All characters have two "evergreen" Abilities that they can spend their Blessing Dice to activate: Helping one another, and performing Preparedness Checks.
 
 ### Helping
 
-Once per roll, whether your own or another character’s, you may Help by spending any number of ① to increase the result of that roll by $+1$ for each ① spent. You may only Help other characters this way if your character is near enough to them to reasonably assist with the action.
+Once per roll, whether your own or another character’s, you may Help by spending up to $10$ Blessing Dice to increase the result of that roll by $+dcX$, where $X$ is the number of Blessing Dice spent this way. You may only Help other characters this way if your character is near enough to them to reasonably assist with the action.
 
 Additionally, once per another character's roll, but not your own, you may Super-Help by spending ⑥ to increase the severity of the outcome to one rank higher than it would have been otherwise, such as from Minor to Medium. If the character you are helping is a Defender who lost a contest, then the severity of the outcome decreases instead. You may only Super-Help other characters this way if your character is near enough to them to reasonably assist with the action.
 
