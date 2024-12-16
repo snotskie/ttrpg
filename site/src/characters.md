@@ -118,8 +118,6 @@ Characters in this game have a set of Abilities that grant them certain actions 
     
     You can gain additional Abilities later in the [Session Shop](#Session-Shop).
 
-**Survival Instinct:** When a ① is spent to Help one of your rolls using your Hurry Stat, the result of your roll is increased by $+2$ instead of $+1$.
-
 **Focused Determination:** Each time you bump your dice, increase the result of the roll by an additional $+1$.
 
 **Efficiently Packed:** When you perform a Preparedness Check, you may have the roll bump when you roll a $2$ on the die.
@@ -132,6 +130,8 @@ Characters in this game have a set of Abilities that grant them certain actions 
     Blue boxes like these provide explanation for common shorthanded wordings for effects in this game.
     
     When an effect describes a possibly failed Check or lost Contest and says to “protect yourself for $+dcX$,” you gain a $+dcX$ bonus to the roll, as though you were Helped by the trait that protected you, possibly turning the failure into a success or loss into a win.
+
+**Survival Instinct:** Whenever you would fail a Check or lose a Contest while rolling your Hurry Stat, protect yourself for $+dc2$.
 
 **Careful Resolve:** Whenever you would fail a Check while performing non-Violent dangerous actions, protect yourself for $+dc2$.
 
