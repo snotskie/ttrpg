@@ -126,20 +126,20 @@ Characters in this game have a set of Abilities that grant them certain actions 
 
 **Past Repeated:** Up to once per session, when you fail a non-violent Check or lose a non-violent Contest, you may choose to channel a past memory to guide you. If you do, for the rest of the scene, you may use your History Stat in place of the Stat you failed the Check or lost the Contest with, even for actions not typically covered by your History Stat.
 
-**Armored Skin:** Whenever you lose a violent Contest as the Defender, protect yourself for $+3$.
+**Armored Skin:** Whenever you would lose a violent Contest as the Defender, protect yourself for $+dc2$.
 
-!!! note "Effect Wording: Protect Yourself for $+X$"
+!!! note "Effect Wording: Protect Yourself for $+dcX$"
     Blue boxes like these provide explanation for common shorthanded wordings for effects in this game.
     
-    When an effect describes a failed Check or lost Contest and says to “protect yourself for $+X$,” you suffer the results as though you had rolled $+X$ higher. This cannot turn the failure into a success or loss into a win, but it can reduce the severity of the outcome.
+    When an effect describes a possibly failed Check or lost Contest and says to “protect yourself for $+dcX$,” you gain a $+dcX$ bonus to the roll, as though you were Helped by the trait that protected you, possibly turning the failure into a success or loss into a win.
 
-**Careful Resolve:** Whenever you fail a Check while performing dangerous actions, protect yourself for $+3$.
+**Careful Resolve:** Whenever you would fail a Check while performing non-Violent dangerous actions, protect yourself for $+dc2$.
 
-**Tactful Speech:** Whenever you lose a Contest trying to persuade, influence, inspire, or deceive others, protect yourself for $+3$.
+**Tactful Speech:** Whenever you would lose a Contest trying to persuade, influence, inspire, or deceive others, protect yourself for $+dc2$.
 
-**Quickly Acclimated:** Whenever you fail a Check against natural effects such as weather and disease, protect yourself for $+3$.
+**Quickly Acclimated:** Whenever you would fail a Check against natural effects such as weather and disease, protect yourself for $+dc2$.
 
-**Licensed Driver:** Whenever you fail a Check or lose a Contest while transporting others, protect yourself for $+3$.
+**Licensed Driver:** Whenever you would fail a Check or lose a Contest while transporting others, protect yourself for $+dc2$.
 
 **Optimal Solution:** Up to twice per session, when you or a nearby ally attempt a roll for a non-violent Check or Contest, you may roll $4d6$; these dice do not bump. Group those dice into two piles of two dice such that a simple operation (addition or multiplication) could be performed to each pile so that the two operations' results would be equal. For example, if you rolled $1$, $1$, $1$, and $2$, you could group the piles such that $1×2=1+1$. If you are able to arrange the $4d6$ in such a way, you or your ally increases the result of their attempted roll by $+5$.
 
