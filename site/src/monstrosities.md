@@ -30,7 +30,7 @@ Monstrosities can Help and Super-Help just as other characters can. However, the
 
 It is also recommended that you do not give your Monstrosities many Abilities--one or two well-placed Abilities are plenty to make a Monstrosity memorable! Consider adding multiple Monstrosities to a Monstrous Endeavor that have complementary skills to create sessions that feel engaging and strategic. And for Monstrosities that use "magic" or wield some other kind of powerful force, we recommend using the Spark Rush $X$ Ability, flavoring it for the occasion.
 
-**Resistance vs. $X$:** Whenever you lose a Contest as the Defender against $X$, protect yourself for $+3$.
+**Resistance vs. $X$:** Whenever you lose a Contest as the Defender against $X$, protect yourself for $+dc2$.
 
 **Revenge:** When you are Muddled, you may immediately perform a Contest as an Attacker against the character that Muddled you, as though this Contest were a Side Action.
 
