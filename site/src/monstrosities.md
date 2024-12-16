@@ -14,11 +14,7 @@ Reserve Monstrous Endeavors for encounters that are truly Monstrous.
 
 ## Monstrous Stats
 
-Instead of a number of Stat dice, a Monstrosity has a single die shared by all their Stats. And to allow a finer gradient of "weak" to "strong" Monstrosities, their Stat dice can be "capped" at smaller values.
-
-For example, the notation $dc2$ represents a $d4$ that has been capped at the value $2$: If the die were to roll a value greater than $2$, it rolls a $2$ instead. Put another way, this represents a single die with four sides, $1$, $2$, $2$, and $2$. This is the smallest possible capped die.
-
-In general, the notation $dcX$ represents the smallest standard die in this game ($d4$, $d6$, $d8$, or $d10$) capable of rolling $X$, capped so that it cannot roll higher than $X$. In this notation, $dc4$ just is a $d4$, and so on.
+Instead of a number of Stat dice, a Monstrosity has a single die shared by all their Stats. And to allow a finer gradient of "weak" to "strong" Monstrosities, their Stat dice is a capped die, from $dc2$ to $dc10$.
 
 ## Stronger Monstrosities
 
