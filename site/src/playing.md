@@ -83,12 +83,17 @@ Up to once per roll, whether your own or another character’s, you may Help by 
   <tr> <td>①</td> <td><span>$+1$</span></td> </tr>
   <tr> <td>①①</td> <td><span>$+dc2$</span></td> </tr>
   <tr> <td>①①①</td> <td><span>$+dc3$</span></td> </tr>
-  <tr> <td>①<span>$\times 4$</span></td> <td><span>$+dc4$</span></td> </tr>
+  <tr> <td>①①①①</span></td> <td><span>$+dc4$</span></td> </tr>
   <tr> <td>①<span>$\times 5$</span></td> <td><span>$+dc5$</span></td> </tr>
   <tr> <td><span>$\ldots$</span></td> <td><span>$\ldots$</span></td> </tr>
   <tr> <td>①<span>$\times 10$</span></td> <td><span>$+dc10$</span></td> </tr>
 </table>
 ```
+
+!!! warning "Rules Note: Many Hands Make Light Work"
+    It is more cost effective, for example, for two characters to each spend ①① and both of them Help on an action than for one character to spend ①①①① and do all the Helping by themself!
+
+    This is because the Blessing Dice spent to Help yield diminishing returns: each additional Blessing Die spent this way, on average, provides a smaller bonus than the previous one.
 
 ### Preparedness
 
