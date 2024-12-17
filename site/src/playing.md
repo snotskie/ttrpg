@@ -23,7 +23,7 @@ Some rules in this game refer to "capped" dice. These are the standard dice of t
 
 For example, the notation $dc2$ represents a $d4$ that has been capped at the value $2$: If the die were to roll a value greater than $2$, it rolls a $2$ instead. Put another way, this represents a single die with four sides, $1$, $2$, $2$, and $2$. This is the smallest possible capped die, and is the most common used in this game.
 
-In general, the notation $dcX$ represents the smallest standard die in this game ($d4$, $d6$, $d8$, or $d10$) capable of rolling $X$, capped so that it cannot roll higher than $X$. In this notation, $dc4$ just is a $d4$, and so on. And as a special case, the notation $dc1$ is simply a die that always rolls $1$ and cannot bump.
+In general, the notation $dcX$ represents the smallest standard die in this game capable of rolling $X$, capped so that it cannot roll higher than $X$. In this notation, $dc4$ just is a $d4$, and so on. And as a special case, the notation $dc1$ is simply a die that always rolls $1$ and cannot bump.
 
 !!! details "DM Note: Bumping Die Statistics"
     If you need to estimate the average result of a roll of a die that bumps, follow this process.
