@@ -1,11 +1,6 @@
 # Playing the Game
 
-## Your Dice
-
-You play this game with two sets of dice:
-
-- Your Stat Dice, representing your general capabilities
-- Your pool of Blessing Dice, which are spent to activate different Abilities
+## Special Rules about Dice in *Humanity, Blessed*
 
 ### Bumping Dice
 
@@ -20,7 +15,43 @@ Succeeding on a Check or winning a Contest without bumping represents natural or
 !!! warning "Rules Note: Group of Dice"
     In this game, $2d6$ is different from $1d6+1d6$. Only when an effect explicitly groups dice together are they considered a group for bumping. For example, both dice of the $2d6$ group are rerolled when either rolls a $1$. However, the dice of the $1d6+1d6$ are considered separate groups, so rolling a $1$ on one of the dice only affects that one die.
 
-### Blessing Dice
+### Capped Dice
+
+Some rules in this game refer to "capped" dice. These are the standard dice of the game ($d4$ through $d10$), but "capped" at smaller values.
+
+For example, the notation $dc2$ represents a $d4$ that has been capped at the value $2$: If the die were to roll a value greater than $2$, it rolls a $2$ instead. Put another way, this represents a single die with four sides, $1$, $2$, $2$, and $2$. This is the smallest possible capped die, and is the most common used in this game.
+
+In general, the notation $dcX$ represents the smallest standard die in this game ($d4$, $d6$, $d8$, or $d10$) capable of rolling $X$, capped so that it cannot roll higher than $X$. In this notation, $dc4$ just is a $d4$, and so on. And as a special case, the notation $dc1$ is simply a die that always rolls $1$ and cannot bump.
+
+!!! details "DM Note: Bumping Die Statistics"
+    If you need to estimate the average result of a roll of a die that bumps, follow this process.
+
+    Let $a$ be the average value of the die if it *doesn't* roll a number that bumps. Normally this means the average when not rolling a $1$, but some Abilities modify this.
+
+    Let $b$ be the average value if the die if it *does* roll a number that bumps. Normally this means just the value $1$, but some Abilities modify this.
+
+    Let $c$ be the number of values on the die that *don't* cause it to bump. Normally this means one less than the size of the die, but some Abilities modify this.
+
+    Let $k$ be the number of values on the die that *do* cause it to bump. Normally this means just $1$, but some Abilities modify this.
+
+    Then, the average value of rolling the die would be:
+
+    $a + \frac{bk}{c}$
+
+    For example:
+    
+    - the average of a $dc2$ is $2 + \frac{1}{3}$
+    - the average of a $d6$ with the Focused Determination Ability is $4 + \frac{2}{5}$
+
+## Your Dice
+
+You play this game with three sets of dice:
+
+- Your Stat Dice, representing your general capabilities. You will likely need $2d4$, $2d6$, $2d8$, and $2d10$ over the course of the game 
+- Your pool of Blessing Dice, which are spent to activate different Abilities. Your DM will likely provide this, either as a pool of several small $d6$ or as a deck of cards only containing several copies of the numbers $1$ through $6$
+- Any special dice used within the rules of your Abilities, if any. You may use your same Stat Dice, or carry a few extra dice as used by your Abilities. Most common is a $dc4$, so a few extra $d4$ will likely do the trick
+
+## Blessing Dice
 
 Characters in this game each have a pool of Blessing Dice, representing a pool of resources they can draw upon to recharge their abilities and help their friends.
 
@@ -60,33 +91,7 @@ The notation ①① represents two dice from your pool of Blessing Dice each wor
 
 When a Blessing Die is spent, it is removed from your pool of Blessing Dice.
 
-### Capped Dice
-
-Some rules in this game refer to "capped" dice. These are the standard dice of the game ($d4$ through $d10$), but "capped" at smaller values.
-
-For example, the notation $dc2$ represents a $d4$ that has been capped at the value $2$: If the die were to roll a value greater than $2$, it rolls a $2$ instead. Put another way, this represents a single die with four sides, $1$, $2$, $2$, and $2$. This is the smallest possible capped die. In general, the notation $dcX$ represents the smallest standard die in this game ($d4$, $d6$, $d8$, or $d10$) capable of rolling $X$, capped so that it cannot roll higher than $X$. In this notation, $dc4$ just is a $d4$, and so on. $dc1$ is simply the value $1$ and cannot bump.
-
-!!! details "DM Note: Bumping Die Statistics"
-    If you need to estimate the average result of a roll of a die that bumps, follow this process.
-
-    Let $a$ be the average value of the die if it *doesn't* roll a number that bumps. Normally this means the average when not rolling a $1$, but some Abilities modify this.
-
-    Let $b$ be the average value if the die if it *does* roll a number that bumps. Normally this means just the value $1$, but some Abilities modify this.
-
-    Let $c$ be the number of values on the die that *don't* cause it to bump. Normally this means one less than the size of the die, but some Abilities modify this.
-
-    Let $k$ be the number of values on the die that *do* cause it to bump. Normally this means just $1$, but some Abilities modify this.
-
-    Then, the average value of rolling the die would be:
-
-    $a + \frac{bk}{c}$
-
-    For example:
-    
-    - the average of a $dc2$ is $2 + \frac{1}{3}$
-    - the average of a $d6$ with the Focused Determination Ability is $4 + \frac{2}{5}$
-
-## Actions
+## Actions: Level 1
 
 An "action" is anything you choose for your character to do.
 
@@ -104,7 +109,41 @@ To perform a Stat Check, roll the die for the action’s associated Stat. The DM
     Medium is the average for rolls in most situations the players will get themselves into. For situations that you surprise your players with that they don't have the chance to prepare for before reacting, consider lowering the difficulty by $1$ to $3$. The reason is that surprise situations are more likely to use characters' lower Stat Dice.
     
     Also keep in mind that $12$ is the lowest Stat Check difficulty where a player can begin to fail bad enough for disastrous results.
-  
+
+### Spark Stat Checks
+
+When two of a character's Stats use the same die, those Stats are "balanced."
+
+You may spend $2$ dice from your pool of Blessing Dice of the same worth to perform a Spark Stat Check instead of a Basic Stat Check, which combines the dice of two balanced Stats into a single group, such as $2d6$ formed from two balanced Stats using a $d6$ each. These Spark Stat Checks represent a character's momentary "spark," that hint of magic or ability to achieve amazing feats, that penchant for pulling out surprising wins, and so on. These "sparks" are what allow characters to perform far beyond what is normally possible by the laws of nature, limited only by their imagination -- and ability to control powerful and strange forces!
+
+Any bonuses or effects that would apply to the balanced Stats used in the Spark Stat Check also apply to the Spark Stat Check itself.
+
+!!! warning "Rules Note: You Can Spark After First Roll"
+    You can decide to turn a Basic Stat Check into a Spark Stat Check before or after you've made your first roll for the Check.
+
+    For example, when you roll your first $1$ on the die, you can decide to take extra advantage of this opportunity. If you do, pay the Blessing Die cost to Spark, roll your second die, then reroll both for the bump, and add it all together.
+
+!!! details "DM Note: Spark Statistics"
+    *This note continues from the previous statistics note.*
+
+    The equation for finding the average of a Sparked roll is similar to before, but finding the values to plug in takes a few extra steps.
+
+    Let $d$ be the size of the dice used for the Sparked roll.
+
+    Let $n$ be the number of dice used for the Sparked roll. Normally this is just $2$, but some Abilities modify this.
+
+    Let $a_s$ be the average value of the dice if *none* of them rolls a value that would bump: $a_s = n a$.
+
+    Let $b_s$ be the average value of the dice if *any* of them rolls a value that would bump: $b_s = b + a \frac{c}{d} + b \frac{k}{d}$
+
+    Let $k_s$ be the number of possible rolls where *any* of the dice rolls a value that would bump: $k_s = k^n + n (d-k) k^{n-1}$
+
+    Let $c_s$ be the number of possible rolls where *none* of the dice rolls a value that would bump: $c_s = d^n - k_s$
+
+    Then, the average value of rolling the Sparked dice would be:
+
+    $a_s + \frac{b_s k_s}{c_s}$
+
 ### Contests
 
 A non-violent Contest is when a character performs an action against another character’s will using any Stat besides Hurt. To perform a non-violent Contest, first the Attacker rolls as though performing the appropriate Stat Check, then the Defender rolls as though performing a Stat Check using the same Stat as the Attacker. The action’s effect is only successful if the Attacker rolls higher than the Defender. The severity of the effect is determined by the difference between their scores. If the Attacker uses a Spark Stat Check, then the Defender may roll a Spark Stat Check using the same Stats, or a Stat Check using either of the Stats used in the Attacker's Spark Stat Check.
@@ -117,6 +156,40 @@ If the violence continues past this initial Contest, then the Attackers may choo
 
 !!! warning "Rules Note: Checks vs. Contests"
     Checks use the terms “fail” and “succeed,” while Contests use “lose” and “win” instead. When an effect only mentions failing or succeeding Checks, it does not affect losing or winning Contests. And when an effect only mentions losing or winning Contests, it does not affect failing or succeeding Checks. A Contest itself is not a Check, though it does involve a series of rolls similar to Checks made against one another. For example, the "Blessed by Luck" Ability allows you to turn a failed Check into a success. However, it does not allow you to turn a lost Contest into a win. The Uncool condition on the other hand does affect both Checks and Contests, because it modifies the results of rolls performed, without mentioning success, failure, win, or loss directly.
+
+### Helping
+
+All characters may can spend their Blessing Dice to Help one another complete Checks and Contests. And your Abilities or events in the story may also "Help" you in similar ways.
+
+Up to once per roll, whether your own or another character’s, you may Help by spending a number of Blessing Dice, then that character rolls a capped die and adds the result to their roll. The more Blessing Dice spent this way, the larger the capped die rolled, according to the table below. You may only Help other characters this way if your character is near enough to them to reasonably assist with the action and your character is not currently engaged in another action.
+
+```@raw html
+<table>
+  <tr>
+    <th scope="col">Blessing Dice Spent</th>
+    <th scope="col">Bonus Added</th>
+  </tr>
+  <tr> <td>①</td> <td><span>$+1$</span></td> </tr>
+  <tr> <td>①①</td> <td><span>$+dc2$</span></td> </tr>
+  <tr> <td>①①①</td> <td><span>$+dc3$</span></td> </tr>
+  <tr> <td>①①①①</span></td> <td><span>$+dc4$</span></td> </tr>
+  <tr> <td>①<span>$\times 5$</span></td> <td><span>$+dc5$</span></td> </tr>
+  <tr> <td><span>$\ldots$</span></td> <td><span>$\ldots$</span></td> </tr>
+  <tr> <td>①<span>$\times 10$</span></td> <td><span>$+dc10$</span></td> </tr>
+</table>
+```
+
+!!! warning "Rules Note: Many Hands Make Light Work"
+    It is more cost effective, for example, for two characters to each spend ①① and both of them Help on an action than for one character to spend ①①①① and do all the Helping by themself!
+
+    This is because the Blessing Dice spent to Help yield diminishing returns: each additional Blessing Die spent this way, on average, provides a smaller bonus than the previous one.
+
+!!! details "DM Note: Situational Help"
+    Events may occur where it would be reasonable for characters to receive situational "Help" from the environment, items, careful planning, or so on.
+
+    One approach to representing such situations is to lower the target for the Check or Contest involved.
+
+    Another is to keep the target the same, but offer the player a $+dc2$ bonus to their Check or Contest instead. You can offer this as a flat bonus on top of their roll, regardless of the result; or you could offer this only if the roll would have failed, similar to "protect yourself" Abilities.
 
 ### Outcome Severity
 
@@ -153,75 +226,9 @@ Some rules refer to the "severity" of an outcome, from Very Minor to Maximum, as
     - **Medium/Major:** A Medium, Major, or Very Major outcome to a violent Contest represents a nontrivial, but non-life-threatening wound that will need medical attention, possibly changing the narrative arc of the session to treat it, granting lasting effects if not treated successfully and in a timely manner.
     - **Maximum:** And a Maximum outcome to a violent Contest represents a serious wound, resulting in immediate death or grave injuries to the Defender needing immediate attention or a miracle.
 
-## More Actions
+## Actions: Level 2
 
-### Helping
-
-All characters may can spend their Blessing Dice to Help one another. Other Abilities or events in the story may also "Help" you in similar ways.
-
-Up to once per roll, whether your own or another character’s, you may Help by spending a number of Blessing Dice, then that character rolls a capped die and adds the result to their roll. The more Blessing Dice spent this way, the larger the capped die rolled, according to the table below. You may only Help other characters this way if your character is near enough to them to reasonably assist with the action and your character is not currently engaged in another action.
-
-```@raw html
-<table>
-  <tr>
-    <th scope="col">Blessing Dice Spent</th>
-    <th scope="col">Bonus Added</th>
-  </tr>
-  <tr> <td>①</td> <td><span>$+1$</span></td> </tr>
-  <tr> <td>①①</td> <td><span>$+dc2$</span></td> </tr>
-  <tr> <td>①①①</td> <td><span>$+dc3$</span></td> </tr>
-  <tr> <td>①①①①</span></td> <td><span>$+dc4$</span></td> </tr>
-  <tr> <td>①<span>$\times 5$</span></td> <td><span>$+dc5$</span></td> </tr>
-  <tr> <td><span>$\ldots$</span></td> <td><span>$\ldots$</span></td> </tr>
-  <tr> <td>①<span>$\times 10$</span></td> <td><span>$+dc10$</span></td> </tr>
-</table>
-```
-
-!!! warning "Rules Note: Many Hands Make Light Work"
-    It is more cost effective, for example, for two characters to each spend ①① and both of them Help on an action than for one character to spend ①①①① and do all the Helping by themself!
-
-    This is because the Blessing Dice spent to Help yield diminishing returns: each additional Blessing Die spent this way, on average, provides a smaller bonus than the previous one.
-
-!!! details "DM Note: Situational Help"
-    Events may occur where it would be reasonable for characters to receive situational "Help" from the environment, items, careful planning, or so on.
-
-    One approach to representing such situations is to lower the target for the Check or Contest involved.
-
-    Another is to keep the target the same, but offer the player a $+dc2$ bonus to their Check or Contest instead. You can offer this as a flat bonus on top of their roll, regardless of the result; or you could offer this only if the roll would have failed, similar to "protect yourself" Abilities.
-
-### Spark Stat Checks
-
-When two of a character's Stats use the same die, those Stats are "balanced."
-
-You may spend $2$ dice from your pool of Blessing Dice of the same worth to perform a Spark Stat Check instead of a Basic Stat Check, which combines the dice of two balanced Stats into a single group, such as $2d6$ formed from two balanced Stats using a $d6$ each. These Spark Stat Checks represent a character's momentary "spark," that hint of magic or ability to achieve amazing feats, that penchant for pulling out surprising wins, and so on. These "sparks" are what allow characters to perform far beyond what is normally possible by the laws of nature, limited only by their imagination -- and ability to control powerful and strange forces!
-
-Any bonuses or effects that would apply to the balanced Stats used in the Spark Stat Check also apply to the Spark Stat Check itself.
-
-!!! warning "Rules Note: You Can Spark After First Roll"
-    You can decide to turn a Basic Stat Check into a Spark Stat Check before or after you've made your first roll for the Check.
-
-    For example, when you roll your first $1$ on the die, you can decide to take extra advantage of this opportunity. If you do, pay the Blessing Die cost to Spark, roll your second die, then reroll both for the bump, and add it all together.
-
-!!! details "DM Note: Spark Statistics"
-    *This note continues from the previous statistics note.*
-
-    The equation for finding the average of a Sparked roll is similar to before, but finding the values to plug in takes a few extra steps.
-
-    Let $d$ be the size of the dice used for the Sparked roll.
-
-    Let $n$ be the number of dice used for the Sparked roll. Normally this is just $2$, but some Abilities modify this.
-
-    Let $a_s$ be the average value of the dice if *none* of them rolls a value that would bump: $a_s = n a$.
-
-    Let $b_s$ be the average value of the dice if *any* of them rolls a value that would bump: $b_s = b + a \frac{c}{d} + b \frac{k}{d}$
-
-    Let $k_s$ be the number of possible rolls where *any* of the dice rolls a value that would bump: $k_s = k^n + n (d-k) k^{n-1}$
-
-    Let $c_s$ be the number of possible rolls where *none* of the dice rolls a value that would bump: $c_s = d^n - k_s$
-
-    Then, the average value of rolling the Sparked dice would be:
-
-    $a_s + \frac{b_s k_s}{c_s}$
+There are special rules for when characters perform complex actions while attacking at the same time, and for when characters work together on Checks or Contests as a group.
 
 ### Complex Attacks
 
@@ -241,24 +248,34 @@ If multiple characters are Attackers together in a Contest, then they each perfo
 
 If multiple characters are Defenders together in a Contest, or are performing a coordinated Check, then they each perform their respective rolls, and if at least half would succeed the Check or win the Contest, then the group as a whole succeeds or wins.
 
+In general, once characters become a group as part of a Check or Contest, they remain a group until the end of the Check or Contest.
+
 !!! warning "Rules Note: Group Defenders"
-    A character cannot, as part of their attack, force other characters to become a group of Defenders, unless an Ability, item, or situation would allow.
+    A character cannot force other characters to become a group of Defenders, unless an Ability, item, or situation would allow.
+
+## Actions: Level 3
+
+There are special rules for when several characters are working towards competing aims at the same time.
+
+### The Camera Rule
+
+To resolve complex situations where several actions are competing for control of the narrative, *Humanity, Blessed* follows The "Camera Rule," inspired by how complex scenes are handled in film and television.
+
+The "Camera Rule" has three parts:
+
+- A character cannot be a part of multiple Contests or Checks at the same time.
+- When multiple characters attempt to perform actions that would require Checks or Contests at the same time, only one of these actions can drive the central narrative. This is the Focal Action.
+- Other actions that were attempted at the same moment, the Side Actions, could still occur. However, they could also be interrupted, muddled by the chaos of the situation, abandoned by the character in response to the results of the Focal Action, or so on; such actions are not considered wins, losses, failures, or successes, they simply don't go all the way from idea to execution.
 
 ### Simultaneous Actions
 
-Other times, several characters want to complete conflicting actions, all at the same time, as they compete towards their respective goals.
+When several characters want to complete conflicting actions, all at the same time, as they compete towards their respective goals, this requires a round of simultaneous actions.
 
-However, a character cannot be a part of multiple Contests or Checks at the same time.
-
-And when multiple characters attempt to perform actions that would require Checks or Contests at the same time, only one of these actions can drive the central narrative. This is the Focal Action.
-
-Other actions that were attempted at the same moment, the Side Actions, could still occur. However, they could also be interrupted, muddled by the chaos of the situation, abandoned by the character in response to the results of the Focal Action, or so on; such actions are not considered wins, losses, failures, or successes, they simply don't go all the way from idea to execution.
-
-To resolve simultaneous actions, follow these steps:
+To resolve a round of simultaneous actions, follow these steps:
 
 1. **Determine the Focal Action:** All characters roll for their attempted actions, as though they were performing their Check or performing their Contest as the Attacker. Only the highest of these rolls continues through as the Focal Action, with the DM resolving ties.
 2. **Resolve the Focal Action:** The Focal Action is then resolved. If the Focal Action had Defenders, they perform their rolls as Defenders for that Contest.
-3. **Determine and Resolve any Side Actions:** Side Actions are then determined and resolved. Starting with the character that rolled the lowest in step 1, if that character has already been involved in another Check or Contest this simultaneous action, regardless if it was for a Check or as an Attacker or Defender, that character no longer has the opportunity to act this simultaneous action. Otherwise, the character decides: Do they continue with their original idea, adapt it to the new situation around them, follow a brand new idea, or abandon acting altogether? If they choose to act, the character then performs their Check or Contest as usual to resolve their chosen course of action. If this action involves other characters, those characters cannot have already been involved in another Check or Contest already this simultaneous action. Then repeat this process with the character who rolled the next lowest in step 1.
+3. **Determine and Resolve any Side Actions:** Side Actions are then determined and resolved. Starting with the character that rolled the lowest in step 1, if that character has already been involved in another Check or Contest this simultaneous action, regardless if it was by choice, that character no longer has the opportunity to act this simultaneous action. Otherwise, the character decides: Do they continue with their original idea, adapt it to the new situation around them, follow a brand new idea, or abandon acting altogether? If they choose to act, the character then performs their Check or Contest as usual to resolve their chosen course of action. If this action involves other characters, those characters cannot have already been involved in another Check or Contest already this simultaneous action. Then repeat this process with the character who rolled the next lowest in step 1.
 4. **End:** Once all characters have either been involved in a Check, Contest, or chosen not to act, the simultaneous action is resolved.
 
 For example, if two characters are attacking one another at the same time, then each character first rolls as Attackers, narrating how they attempt to attack. Then only the higher roll goes through as an attack and as the Focal Action--the lower roll has been interrupted, neither winning, losing, failing, or succeeding. Then the lower roller rolls as a Defender against the attack, narrating how they respond, and effects are determined as usual. And as there were only two characters in this exchange, there were no opportunities for Side Actions by other characters.
@@ -277,7 +294,7 @@ Endeavors are carried out as a number of rounds in which the characters attempt 
 To perform an Endeavor:
 
 1. **Setup:** The DM places a token representing each character involved in the Endeavor on a number line, starting at position $0$. Then, the DM describes the winning and losing conditions of the Endeavor, such as being the first to reach at least space $20$ at the end of a round, to have moved the furthest at the end of $3$ rounds, to be the last one standing by avoiding environmental hazards, or so on or some combination of conditions.
-2. **Focal Action Advantage:** At the top of each round, determine the Focal Action for the round's simultaneous action. Characters may choose to sit out this phase of the Endeavor. The highest rolling character then moves forward on the number line a number of spaces equal to the result of their roll. This represents the advantage gained towards their objectives as their proposed course of action directs the narrative tension. If there is a tie for highest roll, then no character moves forward on the number line during this step, though the DM still resolves the tie to determine the Focal Action.
+2. **Focal Action Advantage Movement:** At the top of each round, determine the Focal Action for the round's simultaneous action. Characters may choose to sit out this phase of the Endeavor. The highest rolling character then moves forward on the number line a number of spaces equal to the result of their roll. This represents the advantage gained towards their objectives as their proposed course of action directs the narrative tension. If there is a tie for highest roll, then no character moves forward on the number line during this step, though the DM still resolves the tie to determine the Focal Action.
 4. **Focal Action Movement:** Next, resolve the Focal Action. If the Focal Action had Defenders, they roll to defend against it. Then the winning or succeeding side moves forward, and the severity of the outcome determines the number of spaces moved, according to the table below.
 5. **Side Action Movements:** Then, determine and resolve Side Actions, starting with those who sat out at the start of the round, then those who rolled the lowest at the start of the round, with the DM resolving ties. For each of these Side Actions, the winning or succeeding side moves forward, and the severity of the outcome determines the number of spaces moved, according to the table below.
 6. **Hazards:** At the end of the round, the DM may describe an environmental hazard that could affect all or some of the leading characters involved the Endeavor, asking them to perform a Check to avoid the effects.
@@ -298,10 +315,10 @@ To perform an Endeavor:
 </table>
 ```
 
-!!! warning "Rules Note: Movement as a Result of a Check or Contest"
-    If a character moves forward as a result of rolling the highest when determining the Focal Action, that movement is separate from the amount they move forward as a result of the Check or Contest when the Focal Action subsequently resolves.
+!!! warning "Rules Note: Focal Action Always Gets the Advantage"
+    The advantage movement a character gets as a result of rolling the highest when determining the Focal Action is separate from the movement of resolving the Focal Action.
     
-    Moreover, even if that character subsequently fails that Check or loses that Contest, the character still gains their movement from driving the Focal Action in the first place.
+    They get their advantage movement whether or not the Focal Action goes on to fail, succeed, win, or lose.
 
 !!! warning "Rules Note: Group Movement"
     If a winning or succeeding side in any of the steps above is a group performing a Group Check or Group Contest, then when they move forward an amount, they move a total of that amount. How the group distributes this movement among its members is up to the group to decide: they may distribute the movement evenly, give it all to one member, or any other arrangement the group agrees on.
