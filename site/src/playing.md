@@ -202,6 +202,27 @@ Any bonuses or effects that would apply to the balanced Stats used in the Spark 
 
     For example, when you roll your first $1$ on the die, you can decide to take extra advantage of this opportunity. If you do, pay the Blessing Die cost to Spark, roll your second die, then reroll both for the bump, and add it all together.
 
+!!! details "DM Note: Spark Statistics"
+    *This note continues from the previous statistics note.*
+
+    The equation for finding the average of a Sparked roll is similar to before, but finding the values to plug in takes a few extra steps.
+
+    Let $d$ be the size of the dice used for the Sparked roll.
+
+    Let $n$ be the number of dice used for the Sparked roll. Normally this is just $2$, but some Abilities modify this.
+
+    Let $a_s$ be the average value of the dice if *none* of them rolls a value that would bump: $a_s = n a$.
+
+    Let $b_s$ be the average value of the dice if *any* of them rolls a value that would bump: $b_s = b + a \frac{c}{d} + b \frac{k}{d}$
+
+    Let $k_s$ be the number of possible rolls where *any* of the dice rolls a value that would bump: $k_s = dkn - k^n$
+
+    Let $c_s$ be the number of possible rolls where *none* of the dice rolls a value that would bump: $c_s = d^n - k_s$
+
+    Then, the average value of rolling the Sparked dice would be:
+
+    $a_s + \frac{b_s k_s}{c_s}$
+
 ### Complex Attacks
 
 Sometimes a character's attack in a Contest is itself a complex action requiring a Check, such as striking a foe while also jumping over a wide chasm.
