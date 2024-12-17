@@ -66,43 +66,6 @@ Some rules in this game refer to "capped" dice. These are the standard dice of t
 
 For example, the notation $dc2$ represents a $d4$ that has been capped at the value $2$: If the die were to roll a value greater than $2$, it rolls a $2$ instead. Put another way, this represents a single die with four sides, $1$, $2$, $2$, and $2$. This is the smallest possible capped die. In general, the notation $dcX$ represents the smallest standard die in this game ($d4$, $d6$, $d8$, or $d10$) capable of rolling $X$, capped so that it cannot roll higher than $X$. In this notation, $dc4$ just is a $d4$, and so on. $dc1$ is simply the value $1$ and cannot bump.
 
-## Evergreen Abilities
-
-All characters have two "evergreen" Abilities that they can spend their Blessing Dice to activate: Helping one another, and performing Preparedness Checks.
-
-### Helping
-
-Up to once per roll, whether your own or another character’s, you may Help by spending a number of Blessing Dice, then that character rolls a capped die and adds the result to their roll. The more Blessing Dice spent this way, the larger the capped die rolled, according to the table below. You may only Help other characters this way if your character is near enough to them to reasonably assist with the action.
-
-```@raw html
-<table>
-  <tr>
-    <th scope="col">Blessing Dice Spent</th>
-    <th scope="col">Bonus Added</th>
-  </tr>
-  <tr> <td>①</td> <td><span>$+1$</span></td> </tr>
-  <tr> <td>①①</td> <td><span>$+dc2$</span></td> </tr>
-  <tr> <td>①①①</td> <td><span>$+dc3$</span></td> </tr>
-  <tr> <td>①①①①</span></td> <td><span>$+dc4$</span></td> </tr>
-  <tr> <td>①<span>$\times 5$</span></td> <td><span>$+dc5$</span></td> </tr>
-  <tr> <td><span>$\ldots$</span></td> <td><span>$\ldots$</span></td> </tr>
-  <tr> <td>①<span>$\times 10$</span></td> <td><span>$+dc10$</span></td> </tr>
-</table>
-```
-
-!!! warning "Rules Note: Many Hands Make Light Work"
-    It is more cost effective, for example, for two characters to each spend ①① and both of them Help on an action than for one character to spend ①①①① and do all the Helping by themself!
-
-    This is because the Blessing Dice spent to Help yield diminishing returns: each additional Blessing Die spent this way, on average, provides a smaller bonus than the previous one.
-
-### Preparedness
-
-When you need an item it's not yet been established that your character has, it could still be narratively reasonable for your character to have that item on them anyway.
-
-Up to once per scene, to see if your character came prepared with just the item you need, within reason, you may perform a Preparedness Check, which is performed as though rolling a Home Stat Check. If the Check succeeds, you may add the item to your list. Otherwise, you become Unprepared for the rest of the session.
-
-While you are Unprepared, you cannot perform Preparedness Checks.
-
 ## Actions
 
 An "action" is anything you choose for your character to do.
@@ -171,6 +134,40 @@ Some rules refer to the "severity" of an outcome, from Very Minor to Maximum, as
     - **Maximum:** And a Maximum outcome to a violent Contest represents a serious wound, resulting in immediate death or grave injuries to the Defender needing immediate attention or a miracle.
 
 ## More Actions
+
+### Helping
+
+All characters may can spend their Blessing Dice to activate to Help one another. Other Abilities or events in the story may also "Help" you in similar ways.
+
+Up to once per roll, whether your own or another character’s, you may Help by spending a number of Blessing Dice, then that character rolls a capped die and adds the result to their roll. The more Blessing Dice spent this way, the larger the capped die rolled, according to the table below. You may only Help other characters this way if your character is near enough to them to reasonably assist with the action and your character is not currently engaged in another action.
+
+```@raw html
+<table>
+  <tr>
+    <th scope="col">Blessing Dice Spent</th>
+    <th scope="col">Bonus Added</th>
+  </tr>
+  <tr> <td>①</td> <td><span>$+1$</span></td> </tr>
+  <tr> <td>①①</td> <td><span>$+dc2$</span></td> </tr>
+  <tr> <td>①①①</td> <td><span>$+dc3$</span></td> </tr>
+  <tr> <td>①①①①</span></td> <td><span>$+dc4$</span></td> </tr>
+  <tr> <td>①<span>$\times 5$</span></td> <td><span>$+dc5$</span></td> </tr>
+  <tr> <td><span>$\ldots$</span></td> <td><span>$\ldots$</span></td> </tr>
+  <tr> <td>①<span>$\times 10$</span></td> <td><span>$+dc10$</span></td> </tr>
+</table>
+```
+
+!!! warning "Rules Note: Many Hands Make Light Work"
+    It is more cost effective, for example, for two characters to each spend ①① and both of them Help on an action than for one character to spend ①①①① and do all the Helping by themself!
+
+    This is because the Blessing Dice spent to Help yield diminishing returns: each additional Blessing Die spent this way, on average, provides a smaller bonus than the previous one.
+
+!!! details "DM Note: Situational Help"
+    Events may occur where it would be reasonable for characters to receive situational "Help" from the environment, items, careful planning, or so on.
+
+    One approach to representing such situations is to lower the target for the Check or Contest involved.
+
+    Another is to keep the target the same, but offer the player a $+dc2$ bonus to their Check or Contest instead. You can offer this as a flat bonus on top of their roll, regardless of the result; or you could offer this only if the roll would have failed, similar to "protect yourself" Abilities.
 
 ### Spark Stat Checks
 
@@ -336,4 +333,3 @@ While most effects help shape the narrative of the game, your DM may find it app
 - **Distracted:** Rolls you make do not bump. This condition ends when you remove its cause.
 - **Disarmed:** If you would win a violent Contest as the Attacker with Maximum severity, you win with Very Major severity instead. When you find a new weapon or take a moment to recompose yourself, this condition ends.
 - **Taxed:** You cannot perform Spark Stat Checks. Spending ①① ends this condition.
-- **Robbed:** You are Unprepared. This condition ends when you spend time in a place where items could be restocked.
