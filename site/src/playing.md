@@ -69,15 +69,17 @@ For example, the notation $dc2$ represents a $d4$ that has been capped at the va
 !!! details "DM Note: Bumping Die Statistics"
     If you need to estimate the average result of a roll of a die that bumps, follow this process.
 
-    Let $a$ be the average value of the die if it *doesn't* roll a number that bumps. Normally this means not rolling a $1$, but some Abilities modify this.
+    Let $a$ be the average value of the die if it *doesn't* roll a number that bumps. Normally this means the average when not rolling a $1$, but some Abilities modify this.
 
-    Let $b$ be the average value if the due if it *does* roll a number that bumps. Normally this means just the value $1$, but some Abilities modify this.
+    Let $b$ be the average value if the die if it *does* roll a number that bumps. Normally this means just the value $1$, but some Abilities modify this.
 
-    Let $c$ be the number of values on the die that *don't* cause it to bump.
+    Let $c$ be the number of values on the die that *don't* cause it to bump. Normally this means one less than the size of the die, but some Abilities modify this.
+
+    Let $k$ be the number of values on the die that *do* cause it to bump. Normally this means just $1$, but some Abilities modify this.
 
     Then, the average value of rolling the die would be:
 
-    $a + \frac{b}{c}$
+    $a + \frac{bk}{c}$
 
     For example:
     
