@@ -77,7 +77,6 @@ Up to once per roll, whether your own or another character’s, you may Help by 
 ```@raw html
 <table>
   <tr>
-    <td></td>
     <th scope="col">Blessing Dice Spent</th>
     <th scope="col">Bonus Added</th>
   </tr>
