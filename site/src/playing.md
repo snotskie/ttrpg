@@ -66,6 +66,24 @@ Some rules in this game refer to "capped" dice. These are the standard dice of t
 
 For example, the notation $dc2$ represents a $d4$ that has been capped at the value $2$: If the die were to roll a value greater than $2$, it rolls a $2$ instead. Put another way, this represents a single die with four sides, $1$, $2$, $2$, and $2$. This is the smallest possible capped die. In general, the notation $dcX$ represents the smallest standard die in this game ($d4$, $d6$, $d8$, or $d10$) capable of rolling $X$, capped so that it cannot roll higher than $X$. In this notation, $dc4$ just is a $d4$, and so on. $dc1$ is simply the value $1$ and cannot bump.
 
+!!! details "DM Note: Bumping Die Statistics"
+    If you need to estimate the average result of a roll of a die that bumps, follow this process.
+
+    Let $a$ be the average value of the die if it *doesn't* roll a number that bumps. Normally this means not rolling a $1$, but some Abilities modify this.
+
+    Let $b$ be the average value if the due if it *does* roll a number that bumps. Normally this means just the value $1$, but some Abilities modify this.
+
+    Let $c$ be the number of values on the die that *don't* cause it to bump.
+
+    Then, the average value of rolling the die would be:
+
+    $a + \frac{b}{c}$
+
+    For example:
+    
+    - the average of a $dc2$ is $2 + \frac{1}{3}$
+    - the average of a $d6$ with the Focused Determination Ability is $4 + \frac{2}{5}$
+
 ## Actions
 
 An "action" is anything you choose for your character to do.
