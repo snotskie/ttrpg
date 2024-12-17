@@ -26,7 +26,7 @@ Additionally, you may have your Monstrosities enter Endeavors with a number of B
 
 ## Monstrous Abilities
 
-Monstrosities have the same evergreen Abilities as other characters, except they cannot perform Preparedness Checks.
+Monstrosities have the same evergreen Abilities as other characters.
 
 You may also give your Monstrosities any of the following Monstrous Abilities or create your own. These Abilities are listed in a rough order from "weakest" to "strongest."
 
