@@ -153,7 +153,7 @@ Characters in this game have a set of Abilities that grant them certain actions 
 
 **Radical Self-Acceptance:** While you are Uncool, you may roll Checks using a different Basic Stat than normal. Then once a Check succeeds this way, you are no longer Uncool.
 
-**Honorable Combat:** You may attack honorably, using Hand for a violent Contest instead of Hurt as usual. If you would win the Contest with a Maximum severity outcome, you win with a Very Major severity outcome instead, which cannot be increased by other effects. Moreover, you leave yourself open to dirty tricks; if the Defender attacks you with Hurt at the same time, the result of their attack's roll is increased by $+2$.
+**Honorable Combat:** You may attack honorably, using Hand for a violent Contest instead of Hurt as usual. If you would win the Contest with a Maximum severity outcome, you win with a Very Major severity outcome instead, which cannot be increased by other effects. Moreover, you leave yourself open to dirty tricks; if the Defender attacks you with Hurt at the same time, they gain a $+dc2$ bonus to the roll, as though Helped by your attempt at honorable combat.
 
 **Blessed by Luck:** When you fail a Check, you may attempt the Check again, using the newer result instead. Then this ability cannot be activated again until you spend ⑤ to recharge it.
 
