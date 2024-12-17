@@ -120,8 +120,6 @@ Characters in this game have a set of Abilities that grant them certain actions 
 
 **Focused Determination:** Each time you bump your dice, increase the result of the roll by an additional $+1$.
 
-**Efficiently Packed:** When you perform a Preparedness Check, you may have the roll bump when you roll a $2$ on the die.
-
 **Past Repeated:** Up to once per session, when you fail a non-violent Check or lose a non-violent Contest, you may choose to channel a past memory to guide you. If you do, for the rest of the scene, you may use your History Stat in place of the Stat you failed the Check or lost the Contest with, even for actions not typically covered by your History Stat.
 
 **Armored Skin:** Whenever you would lose a violent Contest as the Defender, protect yourself for $+dc2$.
@@ -129,9 +127,11 @@ Characters in this game have a set of Abilities that grant them certain actions 
 !!! note "Effect Wording: Protect Yourself for $+dcX$"
     Blue boxes like these provide explanation for common shorthanded wordings for effects in this game.
     
-    When an effect describes a possibly failed Check or lost Contest and says to “protect yourself for $+dcX$,” you gain a $+dcX$ bonus to the roll, as though you were Helped by the trait that protected you, possibly turning the failure into a success or loss into a win.
+    When an effect describes a possibly failed Check or lost Contest and says to “protect yourself for $+dcX$,” you gain a $+dcX$ bonus to the roll, as though you were Helped by the trait that protected you, possibly turning the failure into a success or loss into a win. If multiple effects would protect you this way during the same roll, only one of them applies and you choose which one to use.
 
 **Survival Instinct:** Whenever you would fail a Check or lose a Contest while rolling your Hurry Stat, protect yourself for $+dc2$.
+
+**Efficiently Packed:** Whenever you would fail a Check to see if you already have an item on you, protect yourself for $+dc2$.
 
 **Careful Resolve:** Whenever you would fail a Check while performing non-Violent dangerous actions, protect yourself for $+dc2$.
 
@@ -189,7 +189,7 @@ Characters in this game have a set of Abilities that grant them certain actions 
 
 **Epic Storytelling:** Up to once per session, when your pool of Blessing Dice has a total combined worth of at least $10$, you may tell a rousing story or give a rousing speech. Each other character who hears the story or speech gains a Blessing Die.
 
-**Epic Inventory:** Up to once per session, when your pool of Blessing Dice has a total combined worth of at least $10$, you may declare boldly that you have exactly the item you need in the situation. You may perform a Preparedness Check even if you are Unprepared, and you may perform this Check using any Basic Stat.
+**Epic Fortitude:** Up to once per session, when your pool of Blessing Dice has a total combined worth of at least $10$, you may declare boldly that you have exactly the right item or idea you need for the situation. When you succeed your next Check during the same scene, increase the severity of the outcome to one rank higher than it would have been otherwise, such as from Minor to Medium.
 
 **Epic Awkwardness:** Up to once per session, when your pool of Blessing Dice has a total combined worth of at least $10$, you may tell an cringy joke or perform an embarrassing dance. Each other character who hears the joke or witnesses the dance becomes Uncool.
 
@@ -200,7 +200,7 @@ Characters in this game have a set of Abilities that grant them certain actions 
 
 ## Items
 
-There is not an appendix of items to choose from in this game. Instead, items in this game are narrative and help shape the course of the story. Each character tracks a list of items they typically carry with them, and other items they may have with them can be determined in the moment.
+There is not an appendix of items to choose from in this game. Instead, items in this game are narrative and help shape the course of the story. Each character tracks a list of items they typically carry with them, and other items they may have with them can be determined in the moment. Over the course of the story, characters may perform checks to find new items, create new items, purchase and sell items, and even see if they already have items that could be narratively reasonable for them have.
 
 !!! tip "Character Creation: Step Five!"
     List three or four items your character always carries, within reason. These will be the items you start the game with.
@@ -238,7 +238,7 @@ You may also spend ①①① to receive an additional upgrade beyond the one you
 !!! compat "Eager Upgrade Options"
     If your starting Lifestyle was Eager, you may upgrade your Lifestyle to Driven, Chosen, or Wired. If you do, you receive this upgrade at the end of the following session.
 
-    **⚜️ Driven:** Your eager drive has found purchase in a great mission or calling. When you have sparks, they might take on an incorrigible or resolute aspect. When you perform Spark Stat Checks using Hand or Hurt, you gain a $+dc2$ bonus to the roll, as though you were Helped by your own faith in your mission. You also gain the "Epic Inventory" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
+    **⚜️ Driven:** Your eager drive has found purchase in a great mission or calling. When you have sparks, they might take on an incorrigible or resolute aspect. When you perform Spark Stat Checks using Hand or Hurt, you gain a $+dc2$ bonus to the roll, as though you were Helped by your own faith in your mission. You also gain the "Epic Fortitude" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
 
     **✨ Chosen:** You draw inspiration from the community around you, setting out on your journeys blessed, favored, or even cursed. When you have sparks, they might take on a divine or noble aspect. When you perform Spark Stat Checks using Heart or Home, you gain a $+dc2$ bonus to the roll, as though you were Helped by the will of the people whose lives you've touched. You also gain the "Blessed by Charity" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
 
