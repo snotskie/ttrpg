@@ -2,6 +2,8 @@
 
 ## Special Rules about Dice in *Humanity, Blessed*
 
+There are two special rules to know about dice in this game: dice "bump," meaning they are rerolled when they roll a $1$, and some dice are "capped," meaning if they would roll a number higher than their cap, they roll the cap instead.
+
 ### Bumping Dice
 
 Dice in this game “bump.”
