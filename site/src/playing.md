@@ -215,7 +215,7 @@ Any bonuses or effects that would apply to the balanced Stats used in the Spark 
 
     Let $b_s$ be the average value of the dice if *any* of them rolls a value that would bump: $b_s = b + a \frac{c}{d} + b \frac{k}{d}$
 
-    Let $k_s$ be the number of possible rolls where *any* of the dice rolls a value that would bump: $k_s = dkn - k^n$
+    Let $k_s$ be the number of possible rolls where *any* of the dice rolls a value that would bump: $k_s = k^n + n (d-k) k^{n-1}$
 
     Let $c_s$ be the number of possible rolls where *none* of the dice rolls a value that would bump: $c_s = d^n - k_s$
 
