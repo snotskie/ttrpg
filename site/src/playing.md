@@ -137,7 +137,7 @@ Some rules refer to the "severity" of an outcome, from Very Minor to Maximum, as
 
 ### Helping
 
-All characters may can spend their Blessing Dice to activate to Help one another. Other Abilities or events in the story may also "Help" you in similar ways.
+All characters may can spend their Blessing Dice to Help one another. Other Abilities or events in the story may also "Help" you in similar ways.
 
 Up to once per roll, whether your own or another character’s, you may Help by spending a number of Blessing Dice, then that character rolls a capped die and adds the result to their roll. The more Blessing Dice spent this way, the larger the capped die rolled, according to the table below. You may only Help other characters this way if your character is near enough to them to reasonably assist with the action and your character is not currently engaged in another action.
 
