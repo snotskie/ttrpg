@@ -72,22 +72,24 @@ All characters have two "evergreen" Abilities that they can spend their Blessing
 
 ### Helping
 
-Up to once per roll, whether your own or another character’s, you may Help by spending up to $10$ Blessing Dice to increase the result of that roll by $+dcX$, where $X$ is the number of Blessing Dice spent this way. You may only Help other characters this way if your character is near enough to them to reasonably assist with the action.
+Up to once per roll, whether your own or another character’s, you may Help by spending a number of Blessing Dice, then that character rolls a capped die and adds the result to their roll. The more Blessing Dice spent this way, the larger the capped die rolled, according to the table below. You may only Help other characters this way if your character is near enough to them to reasonably assist with the action.
 
-!!! warning "Rules Note: Many Hands Make Light Work"
-    It is more cost effective, for example, for two characters to spend $2$ Blessing Dice each and both of them Help on an action than for one character to spend $4$ Blessing Dice and do all the Helping by themself.
-
-Additionally, up to once per another character's roll, but not your own, you may Super-Help by spending ⑥ to increase the severity of the outcome to one rank higher than it would have been otherwise, such as from Minor to Medium. If the character you are helping is a Defender who lost a contest, then the severity of the outcome decreases instead. You may only Super-Help other characters this way if your character is near enough to them to reasonably assist with the action.
-
-!!! warning "Rules Note: Super-Help does not Stack and Can be Canceled"
-    If multiple characters Super-Help the same character, then the severity of the outcome is still only increased by one rank.
-
-    If the Attacker and Defender of a Contest are both Super-Helped, then the two forms of Super-Help cancel each other out, and no change happens to the severity of the outcome.
-
-!!! warning "Rules Note: Super-Help Can Cause or Prevent Fatality"
-    Because a violent Contest with a Maximum outcome leads to immediate death or grave injuries for the Defender, a Super-Help could be used to *cause* fatality by increasing a violent outcome from Very Major to Maximum.
-
-    However, a Super-Help could also be used to *prevent* fatality by decreasing a violent outcome from Maximum to Very Major instead, regardless of how much higher the Attacker rolled than the Defender.
+```@raw html
+<table>
+  <tr>
+    <td></td>
+    <th scope="col">Blessing Dice Spent</th>
+    <th scope="col">Bonus Added</th>
+  </tr>
+  <tr> <td>①</td> <td><span>$+1$</span></td> </tr>
+  <tr> <td>①①</td> <td><span>$+dc2$</span></td> </tr>
+  <tr> <td>①①①</td> <td><span>$+dc3$</span></td> </tr>
+  <tr> <td>①<span>$\times 4$</span></td> <td><span>$+dc4$</span></td> </tr>
+  <tr> <td>①<span>$\times 5$</span></td> <td><span>$+dc5$</span></td> </tr>
+  <tr> <td><span>$\ldots$</span></td> <td><span>$\ldots$</span></td> </tr>
+  <tr> <td>①<span>$\times 10$</span></td> <td><span>$+dc10$</span></td> </tr>
+</table>
+```
 
 ### Preparedness
 
