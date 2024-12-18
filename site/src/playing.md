@@ -394,6 +394,7 @@ While you are Uncool, all rolls you make are modified by $-1$. Once during each 
 While most effects help shape the narrative of the game, your DM may find it appropriate to apply conditions to characters when the situation calls for it. Some example conditions are given below:
 
 - **Headache/Handcramp/Heartache/Homesick:** Rolls you make with the affected Stat that would roll the highest value on the die instead roll the second highest. This condition lasts until the end of the scene.
+- **Confused/Exhausted/Dejected/Ill:** Rolls you make with the affected Stat cannot receive Help, including Help from items, Abilities, or situations.
 - **Weakened:** Rolls you make as a Defender in violent Contests that would roll the highest value on the die instead roll the second highest. Resting or tending to your wounds ends this condition.
 - **Agreeable to $X$:** Rolls you make as a Defender in non-violent Contests where $X$ is an Attacker that would roll the highest value on the die instead roll the second highest. If $X$ does an action or makes a request that would bring you harm, this condition ends.
 - **Head/Hand/Heart/Home Cursed by $X$:** When $X$ witnesses you perform a roll using the affected Stat, $X$ may have you perform the roll again and use the new value. If they do, this condition ends.
