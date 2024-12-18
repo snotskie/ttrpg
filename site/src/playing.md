@@ -242,9 +242,9 @@ When the Defender rolls, if the Defender rolls lower than the DM's target, the a
 
 This way, even if the Defender rolls low, they still win the Contest if the Attacker fails to meet the target.
 
-### Group Contests
+### Group Checks and Contests
 
-Sometimes characters want to complete actions together as a group.
+Sometimes characters want to complete actions together as a group. One way is to provide Help to one character leading the action. Another is for each character to attempt the action, using the median of their rolls.
 
 If multiple characters are Attackers together in a Contest, then they each perform their respective rolls and the median of their results is used to determine the group’s shared result.
 
@@ -275,17 +275,15 @@ When several characters want to complete conflicting actions, all at the same ti
 
 To resolve a round of simultaneous actions, follow these steps:
 
-1. **Determine the Focal Action:** All characters roll for their attempted actions, as though they were performing their Check or performing their Contest as the Attacker. Only the highest of these rolls continues through as the Focal Action, with the DM resolving ties.
+1. **Determine the Focal Action:** All characters roll for their attempted actions, as though they were performing their desired Check or performing their desired Contest as the Attacker. Only the highest of these rolls continues through as the Focal Action, with the DM resolving ties.
 2. **Resolve the Focal Action:** The Focal Action is then resolved. If the Focal Action had Defenders, they perform their rolls as Defenders for that Contest.
-3. **Determine and Resolve any Side Actions:** Side Actions are then determined and resolved. Starting with the character that rolled the lowest in step 1, if that character has already been involved in another Check or Contest this simultaneous action, regardless if it was by choice, that character no longer has the opportunity to act this simultaneous action. Otherwise, the character decides: Do they continue with their original idea, adapt it to the new situation around them, follow a brand new idea, or abandon acting altogether? If they choose to act, the character then performs their Check or Contest as usual to resolve their chosen course of action. If this action involves other characters, those characters cannot have already been involved in another Check or Contest already this simultaneous action. Then repeat this process with the character who rolled the next lowest in step 1.
+3. **Determine and Resolve any Side Actions:** Side Actions are then determined and resolved. Starting with those that rolled the lowest in step 1, if they have already been involved in another Check or Contest this simultaneous action, regardless if it was by choice, they no longer have the opportunity to act this simultaneous action. Otherwise, they decide: Do they continue with their original idea, adapt it to the new situation around them, follow a brand new idea, or abandon acting altogether? If they choose to act, they then perform and resolve their desired Check or Contest. If this action involves other characters, those characters cannot have already been involved in another Check or Contest already this simultaneous action. Then repeat this process with those who rolled the next lowest in step 1.
 4. **End:** Once all characters have either been involved in a Check, Contest, or chosen not to act, the simultaneous action is resolved.
 
 For example, if two characters are attacking one another at the same time, then each character first rolls as Attackers, narrating how they attempt to attack. Then only the higher roll goes through as an attack and as the Focal Action--the lower roll has been interrupted, neither winning, losing, failing, or succeeding. Then the lower roller rolls as a Defender against the attack, narrating how they respond, and effects are determined as usual. And as there were only two characters in this exchange, there were no opportunities for Side Actions by other characters.
 
 !!! warning "Rules Note: Groups within Simultaneous Actions"
-    If multiple characters perform a grouped Check or Contest as Attackers together when determining the Focal Action, then they remain grouped for the rest of the simultaneous action.
-
-    Likewise, if multiple characters perform separate actions when determining the Focal Action, then they remain separate and cannot perform a grouped Check or Contest as Attackers together for the rest of the simultaneous action.
+    Once characters become grouped together for a Check or Contest, they remain grouped for the rest of the simultaneous action.
 
 ### Endeavors
 
@@ -296,7 +294,7 @@ Endeavors are carried out as a number of rounds in which the characters attempt 
 To perform an Endeavor:
 
 1. **Setup:** The DM places a token representing each character involved in the Endeavor on a number line, starting at position $0$. Then, the DM describes the winning and losing conditions of the Endeavor, such as being the first to reach at least space $20$ at the end of a round, to have moved the furthest at the end of $3$ rounds, to be the last one standing by avoiding environmental hazards, or so on or some combination of conditions.
-2. **Focal Action Advantage Movement:** At the top of each round, determine the Focal Action for the round's simultaneous action. Characters may choose to sit out this phase of the Endeavor. The highest rolling character then moves forward on the number line a number of spaces equal to the result of their roll. This represents the advantage gained towards their objectives as their proposed course of action directs the narrative tension. If there is a tie for highest roll, then no character moves forward on the number line during this step, though the DM still resolves the tie to determine the Focal Action.
+2. **Focal Action Advantage Movement:** At the top of each round, determine the Focal Action for the round's simultaneous action. Characters may choose to sit out this phase of the Endeavor. Whoever rolled the highest moves forward on the number line a number of spaces equal to the result of their roll. This represents the advantage gained towards their objectives as their proposed course of action directs the narrative tension. If there is a tie for highest roll, then no one gains this advantage movement during this step, though the DM still resolves the tie to determine the Focal Action for the next step.
 4. **Focal Action Movement:** Next, resolve the Focal Action. If the Focal Action had Defenders, they roll to defend against it. Then the winning or succeeding side moves forward, and the severity of the outcome determines the number of spaces moved, according to the table below.
 5. **Side Action Movements:** Then, determine and resolve Side Actions, starting with those who sat out at the start of the round, then those who rolled the lowest at the start of the round, with the DM resolving ties. For each of these Side Actions, the winning or succeeding side moves forward, and the severity of the outcome determines the number of spaces moved, according to the table below.
 6. **Hazards:** At the end of the round, the DM may describe an environmental hazard that could affect all or some of the leading characters involved the Endeavor, asking them to perform a Check to avoid the effects.
