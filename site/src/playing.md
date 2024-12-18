@@ -338,6 +338,11 @@ To perform an Endeavor:
 
     Keep in mind how your players actually think about the Endeavor and what their goals are! Simplifying the Focal Action this way removes player autonomy, but it also (a) lowers the cognitive load of thinking up a narrative for one's actions and (b) creates rules around the Endeavor that can make it feel distinct from other Endeavors in the campaign.
 
+!!! details "DM Note: Simplified Endeavor Check Targets"
+    Instead of determining a target for each Check in an Endeavor, for most Checks you may allow characters to automatically succeed, but then compare the severity of their outcome to the effect they wanted to achieve. Based on that, award them a weaker or stronger or moreorless complete version of that intended effect.
+
+    This allows you to reserve setting targets for Checks where failure would be interesting or that would change the arc of the Endeavor.
+
 ### Monstrous Endeavors
 
 Some campaigns or sessions may involve the player characters and their allies facing off against Monstrosities, like zombies, robots, or the manifestation of someone's fear!
