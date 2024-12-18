@@ -51,7 +51,7 @@ You play this game with three sets of dice:
 
 - Your Stat Dice, representing your general capabilities. You will likely need $2d4$, $2d6$, $2d8$, and $2d10$ over the course of the game 
 - Your pool of Blessing Dice, which are spent to activate different Abilities. Your DM will likely provide this, either as a pool of several small $d6$ or as a deck of cards only containing several copies of the numbers $1$ through $6$
-- Any special dice used within the rules of your Abilities, if any. You may use your same Stat Dice, or carry a few extra dice as used by your Abilities. Most common is a $dc4$, so a few extra $d4$ will likely do the trick
+- Any special dice used within the rules of your Abilities, if any. You may use your same Stat Dice, or carry a few extra dice as used by your Abilities. Most common is a $dc2$, so a few extra $d4$ will likely do the trick
 
 ## Blessing Dice
 
