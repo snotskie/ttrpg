@@ -26,7 +26,9 @@ Additionally, you may have your Monstrosities enter Endeavors with a number of B
 
 ## Monstrous Abilities
 
-Monstrosities have the same evergreen Abilities as other characters.
+Monstrosities have the same evergreen Abilities as other characters, as well as the Capture Ability.
+
+**Capture:** When you gain advantage movement, if your value on the number line is equal to or greater than half the sum of a foe's Stat dice sizes, you may move backward on the number line that amount (rounding up). If you do, you non-lethally remove that foe from the Endeavor and advance toward your objectives. Then, the round immediately ends.
 
 You may also give your Monstrosities any of the following Monstrous Abilities or create your own. These Abilities are listed in a rough order from "weakest" to "strongest."
 
@@ -34,7 +36,7 @@ It is also recommended that you do not give your Monstrosities many Abilities--o
 
 **Resistance vs. $X$:** Whenever you lose a Contest as the Defender against $X$, protect yourself for $+dc2$.
 
-**Revenge:** When you are Muddled, you may immediately perform a Contest as an Attacker against the character that Muddled you, as though this Contest were a Side Action.
+**Revenge:** When you are Muddled, you may immediately perform a Contest as an Attacker against the character that Muddled you, as though this Contest were a Side Action, even if you or the Defender have already acted this round.
 
 **Shield vs. $X$:** When you succeed a Home Stat Check during an Endeavor, you may have you and your allies receive Resistance vs. $X$ for a number of rounds equal to the number of spaces you moved forward as a result of the Check, to a maximum of $3$ rounds. Then this ability cannot be activated again until you spend ② to recharge it.
 
@@ -42,13 +44,15 @@ It is also recommended that you do not give your Monstrosities many Abilities--o
 
 **Debilitate $X$:** Perform a $X$ Contest against an opponent. The amount you move forward as a result of this Contest, that opponent’s $X$ rolls are made with a $-1$ modifier for that many rounds. Then this ability cannot be activated again until you spend ② to recharge it.
 
+**Propel:** When determining the Focal Action, you may exchange the result of your own roll with that of an ally who rolled lower than you. Then this ability cannot be activated again until you spend ② to recharge it.
+
 **Clarity:** When you succeed a Home Stat Check during an Endeavor, you may have the muddle buttons of your allies move forward a number of spaces equal to the number of spaces you moved forward as a result of the Check. Then this ability cannot be activated again until you spend ③ to recharge it.
 
 **Immunity vs. $X$:** Whenever you lose a Contest as the Defender against $X$, you instead succeed by $1$.
 
-**Inspire:** When you succeed a Hurry Stat Check during an Endeavor, you may choose an ally and have the roll they make next round to take the focus increase by a number equal to the amount you moved forward as a result of the Check. Then this ability cannot be activated again until you spend ④ to recharge it.
+**Inspire:** When you succeed a Hurry Stat Check during an Endeavor, you may choose an ally and have the roll they make next round to take the focus increase by $+3$ or a number equal to the amount you moved forward as a result of the Check, whichever is lower. Then this ability cannot be activated again until you spend ④ to recharge it.
 
-**Cursed Touch:** Perform a Head Contest against an opponent. The amount you move forward as a result of this Contest, the opponent is Cursed by you for that many rounds. (When you see that opponent perform a roll, you may choose to have them reroll it and take the new value, then the Curse ends. Otherwise, the Curse ends when that many rounds have passed.)  Then this ability cannot be activated again until you spend ③ to recharge it.
+**Curse:** Perform a Head Contest against an opponent. The amount you move forward as a result of this Contest, the opponent is Cursed by you for that many rounds. (When you see that opponent perform a roll, you may choose to have them reroll it and take the new value, then the Curse ends. Otherwise, the Curse ends when that many rounds have passed.)  Then this ability cannot be activated again until you spend ③ to recharge it.
 
 **Mirror vs. $X$:** When you succeed a Home Stat Check during an Endeavor, you may have you and your allies receive Immunity vs. $X$ for a number of rounds equal to the number of spaces you moved forward as a result of the Check, to a maximum of $3$ rounds. Then this ability cannot be activated again until you spend ⑥ to recharge it.
 
@@ -66,7 +70,7 @@ It is also recommended that you do not give your Monstrosities many Abilities--o
 
 Characters do not level up or gain experience points for defeating Monstrosities. Instead, like any other important moment in the narrative, you may choose to award your players Blessings for progressing through a milestone or for creative or cooperative gameplay during the Monstrous Endeavor. 
 
-Additionally, at the end of a Monstrous Endeavor, you may permit your players to perform Preparedness Checks without spending a Blessing to find items of interest to them along the "spoils" of their victory. For example, players may look for parts they can reuse when they defeat murderous robots, a clue revealing the location of the mad scientist's hideout when they calm and befriend one of her creations, or so on.
+Additionally, at the end of a Monstrous Endeavor, you may permit your players to perform Checks to find items of interest to them along the "spoils" of their victory. For example, players may look for parts they can reuse when they defeat murderous robots, a clue revealing the location of the mad scientist's hideout when they calm and befriend one of her creations, or so on.
 
 These narratively reflective moments after a Monstrous Endeavor can be a great chance to rebalance the narrative tension while giving your players agency in thinking about where the story goes next.
 
@@ -139,7 +143,7 @@ The following table shows a variety of example Monstrosity builds. For each, it 
     <td><span>$0$</span></td>
     <td><span>$27$</span></td>
     <td><span>$10$</span></td>
-    <td>Inspire</td>
+    <td>Inspire, Propel</td>
     <td>A weaker build designed to ensure an ally gets the focus</td>
   </tr>
   <tr>
