@@ -112,6 +112,12 @@ To perform a Stat Check, roll the die for the action’s associated Stat. The DM
     
     Also keep in mind that $12$ is the lowest Stat Check difficulty where a player can begin to fail bad enough for disastrous results.
 
+!!! details "DM Note: Resolving Long Actions"
+    When a character performs a long, multi-step action that involves the scope of multiple Stats, consider using one of the following two approaches:
+
+    - Determine which single Stat the success of the long action most turns on and ask for a single Check with that Stat, setting the target a little higher than you normally would.
+    - Determine which three or four Stats the success of the long action most turns on and ask for a Check for each one, setting one target shared by all of them. Then, determine how many of those Checks must succeed in order for the overall long action to succeed.
+
 ### Spark Stat Checks
 
 When two of a character's Stats use the same die, those Stats are "balanced."
