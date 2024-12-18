@@ -197,7 +197,7 @@ Up to once per roll, whether your own or another character’s, you may Help by 
 
     One approach to representing such situations is to lower the target for the Check or Contest involved.
 
-    Another is to keep the target the same, but offer the player a $+dc2$ bonus to their Check or Contest instead. You can offer this as a flat bonus on top of their roll, regardless of the result; or you could offer this only if the roll would have failed, similar to "protect yourself" Abilities.
+    Another is to keep the target the same, but offer the player a $+dc2$ bonus to relevant Checks or Contests instead. You can offer this as a flat bonus on top of the relevant rolls, regardless of the result; or you could offer this only if a relevant roll would have failed, as though it were a "protect yourself" Ability. Note though, a small flat bonus is much more powerful than a large "protect yourself."
 
 ### Outcome Severity
 
