@@ -185,7 +185,7 @@ Characters in this game have a set of Abilities that grant them certain actions 
 
 **Blessed by Wits:** When you lose a non-violent Contest against a single Attacker, you may have the Attacker receive a less severe version of the same effect you received from losing the Contest. Then this ability cannot be activated again until you spend ③ to recharge it.
 
-**Blessed by Steadfastness:** When you fail a Check or lose a Contest by $5$ or more, gain a Blessing.
+**Blessed by Steadfastness:** Up to once per session, when you fail a Check or lose a Contest by $5$ or more, gain a Blessing.
 
 **Blessed by Disruption:** When another character succeeds a Check or wins a Contest, you may modify that character’s result by $-3$, possibly turning their success into a failure or win into a loss. Then this ability cannot be activated again until you spend ⑤ to recharge it.
 
