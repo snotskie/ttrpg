@@ -153,7 +153,7 @@ Characters in this game have a set of Abilities that grant them certain actions 
 
 **Advanced Training:** Increase the result of your rolls using a $d8$ or larger by $+1$.
 
-**Ease of Focus:** Up to once per scene, you may have one of your rolls using a $d8$ or larger bump when you roll a $2$ on the die.
+**Ease of Focus:** Up to once per roll, you may have one of your rolls using a $d8$ or larger bump when you roll a $2$ on the die.
 
 **Radical Self-Acceptance:** While you are Uncool, you may roll Checks using a different Basic Stat than normal. Then once a Check succeeds this way, you are no longer Uncool.
 
