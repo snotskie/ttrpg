@@ -199,6 +199,10 @@ Up to once per roll, whether your own or another character’s, you may Help by 
 
     Another is to keep the target the same, but offer the player a $+dc2$ bonus to relevant Checks or Contests instead. You can offer this as a flat bonus on top of the relevant rolls, regardless of the result; or you could offer this only if a relevant roll would have failed, as though it were a "protect yourself" Ability. Note though, a small flat bonus is much more powerful than a large "protect yourself."
 
+    For example, an invisibility cloak in a setting with the Hex Stat could be ruled as:
+
+    > Whenever you would fail a Check or lose a Contest while wearing this cloak and attempting to move or perform an action unseen, protect yourself for $+dc2$. Moreover, you may roll for such actions using your Hex Stat instead of your Hand Stat as usual.
+
 ### Outcome Severity
 
 In general, rolling higher leads to better outcomes.
