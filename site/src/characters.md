@@ -191,6 +191,8 @@ Characters in this game have a set of Abilities that grant them certain actions 
 
 **Blessed by Insurance:** When a character fails a Check or loses a Contest to tend to your wounds, that character may turn the failure into a success or the loss into a win. Then this ability cannot be activated again until you spend ①①① to recharge it, and when it is recharged, increase the cost to recharge it by ①①.
 
+**Blessed by Collaboration:** Whenever you spend ①① or more to Help another character, they gain a bonus as though you had spent an addition ①. You may gain this Ability multiple times; however if you do, each instance counts separately towards your number of Abilities.
+
 **Epic Storytelling:** Up to once per session, when your pool of Blessing Dice has a total combined worth of at least $10$, you may tell a rousing story or give a rousing speech. Each other character who hears the story or speech gains a Blessing Die.
 
 **Epic Fortitude:** Up to once per session, when your pool of Blessing Dice has a total combined worth of at least $10$, you may declare boldly that you have exactly the right item or idea you need for the situation. When you succeed your next Check during the same scene, increase the severity of the outcome to one rank higher than it would have been otherwise, such as from Minor to Medium.
