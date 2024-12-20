@@ -19,9 +19,9 @@ Succeeding on a Check or winning a Contest without bumping represents natural or
 
 ### Capped Dice
 
-Some rules in this game refer to "capped" dice. These are the standard dice of the game ($d4$ through $d10$), but "capped" at smaller values.
+Some rules in this game refer to "capped" dice---those related to Helping and Monstrosities. These dice are the standard dice of the game ($d4$ through $d10$), but "capped" at smaller values.
 
-For example, the notation $dc2$ represents a $d4$ that has been capped at the value $2$: If the die were to roll a value greater than $2$, it rolls a $2$ instead. Put another way, this represents a single die with four sides, $1$, $2$, $2$, and $2$. This is the smallest possible capped die, and is the most common used in this game.
+For example, the notation $dc2$ represents a $d4$ that has been capped at the value $2$: If the die were to roll a value greater than $2$, it rolls a $2$ instead. Put another way, this represents a single die with four sides, $1$, $2$, $2$, and $2$. This is the smallest possible capped die, as well as the most commonly used.
 
 In general, the notation $dcX$ represents the smallest standard die in this game capable of rolling $X$, capped so that it cannot roll higher than $X$. In this notation, $dc4$ just is a $d4$, and so on. And as a special case, the notation $dc1$ is simply a die that always rolls $1$ and cannot bump.
 
@@ -167,7 +167,7 @@ If the violence continues past this initial Contest, then the Attackers may choo
 
 ### Helping
 
-All characters may can spend their Blessing Dice to Help one another complete Checks and Contests. And your Abilities or events in the story may also "Help" you in similar ways.
+All characters may can spend their Blessing Dice to Help one another complete Checks and Contests. And your Abilities or events or items in the story may also Help you in similar ways.
 
 Up to once per roll, whether your own or another character’s, you may Help by spending a number of Blessing Dice, then that character rolls a capped die and adds the result to their roll. The more Blessing Dice spent this way, the larger the capped die rolled, according to the table below. You may only Help other characters this way if your character is near enough to them to reasonably assist with the action and your character is not currently engaged in another action.
 
