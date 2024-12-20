@@ -347,6 +347,8 @@ To perform an Endeavor:
 
     This allows you to reserve setting targets for Checks where failure would be interesting or that would change the arc of the Endeavor.
 
+    If you use this approach, characters would be unable to activate "protect yourself" Abilities for Checks. So, make it clear the start of the Endeavor if, for the sake of the Endeavor, such Abilities (a) always activate, even without explicit failure, or (b) never activate because of the dire pressure of the situation.
+
 ### Monstrous Endeavors
 
 Some campaigns or sessions may involve the player characters and their allies facing off against Monstrosities, like zombies, robots, or the manifestation of someone's fear!
