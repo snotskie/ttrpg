@@ -2,7 +2,7 @@
 
 ## Basic Stats
 
-Each character in this game has a small number of Basic Stats, represented by the "H’s of Humanity" described below. Together, these describe a character's general capabilities at a wide range of tasks and situations.
+Each character in this game has a small number of Basic Stats, the "H’s of Humanity" described below. Together, these represent a character's general capabilities at a wide range of tasks and situations.
 
 !!! tip "Character Creation: Step One!"
     Green boxes like these provide questions to help guide you as you create your first character!
@@ -13,11 +13,11 @@ Each character in this game has a small number of Basic Stats, represented by th
 
 **🧠 Head:** Intellectual pursuits, problem solving, puzzles, riddles, scanning for information, recalling facts, insight, reasoning, operating and building complex machines, playing practiced music. With a high Head Stat you can tackle intellectual puzzles with ease. With a low Head Stat you may find yourself confounded easily or solutions to puzzles just outside your reach
 
-**✌️ Hand:** Athletic pursuits, sleight of hand, activities that require physical training, raw non-violent strength, moving quietly. With a high Hand Stat you are in complete control of your physical efforts. With a low Hand Stat you may tire easily or loud and clanky obstacles might somehow always be in your way
+**✌️ Hand:** Athletic pursuits, sleight of hand, activities that require physical training, raw non-violent strength, moving quietly. With a high Hand Stat you are in complete control of your physical efforts. With a low Hand Stat you may tire easily or loud, clanky obstacles might somehow always be in your way
 
 **💕 Heart:** Speaking with passion, understanding others, reading emotions, playing music improvisationally. With a high Heart Stat you understand others' intentions easily and can act accordingly. With a low Heart Stat others maybe just aren't as enthused about your interests as you are
 
-**🩹 Home:** Protecting yourself and loved ones, taking hits, tending to wounds, shopping, scavenging, survival skills, cooking, navigating towns and dwellings, remaining calm, staying alert, coming prepared. With a high Home Stat you can easily be depended upon in situations both mundane and dire. With a low Home Stat your estimates of health and money matters might frequently be off or you seem to always misplace items
+**🩹 Home:** Protecting yourself and loved ones, taking hits, tending to wounds, shopping, scavenging, survival skills, cooking, navigating towns and dwellings, remaining calm, staying alert, coming prepared. With a high Home Stat you can easily be depended upon in situations both mundane and dire. With a low Home Stat your estimates of health and money matters might frequently be off or you seem to always misplace things
 
 **👿 Hurt:** Nerve and willingness to inflict harm on others. With a high Hurt Stat you can easily steel your resolve when the time calls for violent answers. With a low Hurt Stat your caring for others' well-being seems to extend even to your enemies
 
@@ -30,17 +30,22 @@ When you begin the game, most of your Basic Stats are equal, using a $d4$ for th
 All of your Basic Stat dice can be upgraded later in the [Session Shop](#Session-Shop).
 
 !!! details "DM Note: Creating Other Stats"
-    For your campaign setting, you may find it helpful to create a new Stat for your players. For example:
+    For your campaign setting, you may find it helpful to create a new Stat for your players.
+    
+    For example, you might create a Stat to represent the "magic" of the setting:
     
     > - **🐦‍🔥 Hex:** Use of wands, spells, potions, and other magical instruments, traps, lore, and knowledge. *E.g., for a magic or fantasy style setting.*
     > - **🥕 Ham:** Use of outlandish solutions, cartoonish items, and pun-based bends of reality. *E.g., for a cartoon style setting.*
     > - **🦾 Hardware:** Use of machines, robotics, and cybernetic implants. *E.g. for a cyberpunk style setting.*
     > - **🔎 Hunch:** Locating clues, guessing the right solution to a puzzle, being in the right place at the right time. *E.g. for a film noir style setting.*
-    > - **👾 Hologram:** Investigating, interacting with, noticing inconsistencies in, and reshaping the simulation the characters exist within directly. *E.g. for a futuristic style setting.*
+    > - **👾 Hologram:** Directly investigating, interacting with, noticing inconsistencies in, and reshaping the simulation the characters exist within. *E.g. for a futuristic style setting.*
     > - **💰 Hireling:** Acquiring employees, minions, or quest companions, and effectively delegating tasks and operating a business. *E.g. for an absurd capitalist style setting.*
     > - **🎁 Holly Jolly:** Drawing from the magic of the season to bring people joy, operating devices from the North Pole, and interacting with reindeer, snowmen, yetis, and other such fantastical beasts. *E.g. for a winter wonderland style setting.*
     > - **🎧 Headline:** Performing music on stage, in a garage with your band, moving in sync with the beat. *E.g. for a battle of the bands style setting.*
     > - **🦠 Host:** Drawing on the power of your symbiote to push beyond your normal capabilities. Whenever you would fail a Check or lose a Contest while using this Stat, protect yourself for $+dc2$. There may be consequences. *E.g. for an alien paranormal suspense style setting.*
+
+    Or you might create a Stat to represent how characters relate to a unique obstacle of the setting:
+    
     > - **💀 Hardship:** Shared narrative touchstones of the story setting that represent the town's obstacles, troubles, and adversities. This Stat cannot be upgraded beyond a $d4$, but can still be involved in Spark Stat Checks and be boosted by Abilities like other Basic Stats. *E.g. for a suspense horror style setting.*
     > - **👻 Haunted:** Dark narrative touchstones representing a character's fears, a curse they can't escape, or a malevolent force that haunts them. This Stat begins the game as a $d10$, yet can be decreased in the same way other Stats are normally increased, down to a minimum of a $d4$. Players do not choose to use this Stat. Instead, whenever the thing that haunts them is present (whether the character is aware of its presence or not), after the character has performed a roll, they then roll their Haunted Stat and subtract its value from the original roll's result. This Stat's die bumps as normal. *E.g. for a Poe style setting.*
     > - **🌳 Hardy:** Shared narrative touchstones emerging from each session's obstacles that represent the players' combined efforts against the challenges they have faced. This Stat is shared by all players at the table, and it cannot be upgraded by the normal means. Instead, it begins each session as a $d4$. When a player fails a Check or loses a Contest against a non-player character, this Stat upgrades to the next die size, to a maximum of a $d10$. Any player may choose to use the Hardy die instead of one of their other Stat dice for any roll; when they do, this Stat returns to a $d4$. *E.g. for a coming of age style setting.*
@@ -103,10 +108,10 @@ Each character has a History Basic Stat, made up of a number of narrative touchs
     Consider what *unique* skills, proficiencies, traits, and backstory elements each character brings to the story. Also consider the *variety* of a character's narrative touchstones: if all or most of them would be covered already by another Basic Stat, then the player would have no reason to use or upgrade their History Basic Stat!
 
 !!! details "DM Note: Non-Human Characters"
-    If your game's setting allows your players to create non-human characters, there are generally two approaches for how to resolve non-human abilities. The choice depends on the variety of non-human backgrounds between your players:
+    If your game's setting allows your players to create non-human characters, there are generally two approaches for how to represent non-human details. The choice depends on the variety of non-human backgrounds between your players:
 
     - **High Variety:** If each player character has a different non-human background, then the simplest option is to use each character's History Stat to cover one or two simple actions, within reason, that characters of their non-human background could perform unaided that human characters couldn't.
-    - **Low Variety:** If player characters all come from just a few different non-human background options, then using History to cover this background would clog the scope of the Stat with details that aren't unique to each player. Instead, expand the scope of two or three of the other Stats to cover one or two simple actions each, within reason, that characters of their non-human backgrounds could perform unaided that human characters couldn't.
+    - **Low Variety:** If player characters all come from just a few non-human background options, then using History to cover this background would clog the scope of the Stat with details that aren't unique to each player. Instead, expand the scope of two or three of the other Stats to cover one or two simple actions each, within reason, that characters of their non-human backgrounds could perform unaided that human characters couldn't.
 
 ## Abilities
 
@@ -121,7 +126,7 @@ Characters in this game have a set of Abilities that grant them certain actions 
 
 **Focused Determination:** Each time you bump your dice, increase the result of the roll by an additional $+1$.
 
-**Past Repeated:** Up to once per session, when you fail a non-violent Check or lose a non-violent Contest, you may choose to channel a past memory to guide you. If you do, for the rest of the scene, you may use your History Stat in place of the Stat you failed the Check or lost the Contest with, even for actions not typically covered by your History Stat.
+**Past Repeated:** Up to once per session, when you fail a Check or lose a non-violent Contest, you may choose to channel a past memory to guide you. If you do, for the rest of the scene, you may use your History Stat in place of the Stat you failed the Check or lost the Contest with, even for actions not typically covered by your History Stat.
 
 **Armored Skin:** Whenever you would lose a violent Contest as the Defender, protect yourself for $+dc2$.
 
@@ -134,11 +139,11 @@ Characters in this game have a set of Abilities that grant them certain actions 
 
 **Efficiently Packed:** Whenever you would fail a Check to see if you already have an item on you, protect yourself for $+dc2$.
 
-**Careful Resolve:** Whenever you would fail a Check while performing non-Violent dangerous actions, protect yourself for $+dc2$.
+**Careful Resolve:** Whenever you would fail a Check while performing dangerous actions, protect yourself for $+dc2$.
 
 **Tactful Speech:** Whenever you would lose a Contest trying to persuade, influence, inspire, or deceive others, protect yourself for $+dc2$.
 
-**Sharp Recall:** Whenever you would lose a Contest trying to recall information, protect yourself for $+dc2$.
+**Sharp Recall:** Whenever you would fail a Check trying to recall information, protect yourself for $+dc2$.
 
 **Quickly Acclimated:** Whenever you would fail a Check against natural effects such as weather and disease, protect yourself for $+dc2$.
 
@@ -146,7 +151,7 @@ Characters in this game have a set of Abilities that grant them certain actions 
 
 **Optimal Solution:** Up to twice per session, when you or a nearby ally attempt a roll for a non-violent Check or Contest, you may roll $4d6$; these dice do not bump. Group those dice into two piles of two dice such that a simple operation (addition or multiplication) could be performed to each pile so that the two operations' results would be equal. For example, if you rolled $1$, $1$, $1$, and $2$, you could group the piles such that $1×2=1+1$. If you are able to arrange the $4d6$ in such a way, you or your ally increases the result of their attempted roll by $+5$.
 
-**Shower Thoughts:** Up to once per session, when you are resting or performing leisure activity in a safe place, you may perform a roll using Head or Home. Then up to once before the end of the session, you may use the value of that roll instead of rolling for a Check or non-Violent Contest using any Stat.
+**Shower Thoughts:** Up to once per session, when you are resting or performing leisure activity in a safe place, you may perform a roll using Head or Home. Then up to once before the end of the session, you may use the value of that roll instead of rolling for a Check or non-violent Contest using any Stat.
 
 **Synchronized Spark:** You may perform a Spark Stat Check using one of your Stats and one of the Stats of another willing character in the scene, so long as the chosen Stats are balanced, both characters have this ability, and the Blessing Die cost is paid between the two characters.
 
@@ -158,7 +163,7 @@ Characters in this game have a set of Abilities that grant them certain actions 
 
 **Radical Self-Acceptance:** While you are Uncool, you may roll Checks using a different Basic Stat than normal. Then once a Check succeeds this way, you are no longer Uncool.
 
-**Honorable Combat:** You may attack honorably, using Hand for a violent Contest instead of Hurt as usual. If you would win the Contest with a Maximum severity outcome, you win with a Very Major severity outcome instead, which cannot be increased by other effects. Moreover, you leave yourself open to dirty tricks; if the Defender attacks you with Hurt at the same time, they gain a $+dc2$ bonus to the roll, as though Helped by your attempt at honorable combat.
+**Honorable Combat:** You may attack honorably, using Hand for a violent Contest instead of Hurt as usual. If you would win the Contest with a Maximum outcome, you win with a Very Major outcome instead, which cannot be increased by other effects. Moreover, you leave yourself open to dirty tricks; if the Defender attacks you with Hurt at the same time, they gain a $+dc2$ bonus to the roll, as though Helped by your attempt at honorable combat.
 
 **Blessed by Luck:** When you fail a Check, you may attempt the Check again, using the newer result instead. Then this ability cannot be activated again until you spend ⑤ to recharge it.
 
@@ -190,13 +195,15 @@ Characters in this game have a set of Abilities that grant them certain actions 
 
 **Blessed by Disruption:** When another character succeeds a Check or wins a Contest, you may modify that character’s result by $-3$, possibly turning their success into a failure or win into a loss. Then this ability cannot be activated again until you spend ⑤ to recharge it.
 
+**Blessed by Voices:** You may call upon a higher power, a criminal underground, a book of forbidden knowledge, or so on to gain access to secret information or an answer to a question that you wouldn't normally be able to do. This information may come with consequences. Then this ability cannot be activated again until you spend ④ to recharge it.
+
 **Blessed by Insurance:** When a character fails a Check or loses a Contest to tend to your wounds, that character may turn the failure into a success or the loss into a win. Then this ability cannot be activated again until you spend ①①① to recharge it, and when it is recharged, increase the cost to recharge it by ①①.
 
 **Blessed by Collaboration:** Whenever you spend ①① or more to Help another character, they gain a bonus as though you had spent an additional ①①. You may gain this Ability multiple times, with all instances of it counting as one total towards your number of Abilities.
 
 **Epic Storytelling:** Up to once per session, when your pool of Blessing Dice has a total combined worth of at least $10$, you may tell a rousing story or give a rousing speech. Each other character who hears the story or speech gains a Blessing Die.
 
-**Epic Fortitude:** Up to once per session, when your pool of Blessing Dice has a total combined worth of at least $10$, you may declare boldly that you have exactly the right item or idea you need for the situation. When you succeed your next Check during the same scene, increase the severity of the outcome to one rank higher than it would have been otherwise, such as from Minor to Medium.
+**Epic Fortitude:** Up to once per session, when your pool of Blessing Dice has a total combined worth of at least $10$, you may declare boldly that you have exactly the right item or idea you need for the situation. When you succeed your next Check during the same scene, increase the size of the outcome to one rank higher than it would have been otherwise, such as from Minor to Medium.
 
 **Epic Awkwardness:** Up to once per session, when your pool of Blessing Dice has a total combined worth of at least $10$, you may tell an cringy joke or perform an embarrassing dance. Each other character who hears the joke or witnesses the dance becomes Uncool.
 
@@ -207,7 +214,7 @@ Characters in this game have a set of Abilities that grant them certain actions 
 
 ## Items
 
-There is not an appendix of items to choose from in this game. Instead, items in this game are narrative and help shape the course of the story. Each character tracks a list of items they typically carry with them, and other items they may have with them can be determined in the moment. Over the course of the story, characters may perform checks to find new items, create new items, purchase and sell items, and even see if they already have items that could be narratively reasonable for them have.
+There is not an appendix of items to choose from in this game. Instead, items are narrative and help shape the course of the story. Each character tracks a list of items they typically carry with them, and other items they may have with them can be determined in the moment. Over the course of the story, characters may perform Checks to find new items, create new items, purchase and sell items, and even see if they already have items that could be narratively reasonable for them have.
 
 !!! tip "Character Creation: Step Five!"
     List three or four items your character always carries, within reason. These will be the items you start the game with.
@@ -231,7 +238,7 @@ You may also spend ①①① to receive an additional upgrade beyond the one you
     You may upgrade a single Basic Stat's die one size, from a $d4$ to a $d6$, from a $d6$ to a $d8$, or a $d8$ to a $d10$. If you do, you receive this upgrade immediately.
 
 !!! compat "History Upgrade Options"
-    You may upgrade your History Basic Stat based on the events of the session by making two changes, two additions, or one of each to the scope of that Stat; in any case, this scope may not have more than seven narrative touchstones listed. If you do, you receive this upgrade immediately.
+    You may upgrade your History Basic Stat based on the events of the session by making two changes, two additions, or one of each to the scope of that Stat; in any case, this scope may not have more than seven narrative touchstones listed. If you do choose this upgrade, you receive this upgrade immediately.
 
 !!! compat "Carefree Upgrade Options"
     If your starting Lifestyle was Carefree, you may upgrade your Lifestyle to Blossomed, Prodigious, or Crafty. If you do, you receive this upgrade at the end of the following session.
@@ -252,7 +259,7 @@ You may also spend ①①① to receive an additional upgrade beyond the one you
     **⚡ Wired:** Your mind is quick and analytical, and you can see solutions to problems that are unimaginably complex. When you have sparks, they might take on a calculating or duplicative aspect. Whenever you would fail a Check or lose a Contest while performing a Spark Stat Check using Head or Hurry, protect yourself for $+dc2$, as though you were Helped by your own mind palace. You also gain the "Ease of Focus" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
 
 !!! compat "Wisened Upgrade Options"
-    If your starting Lifestyle was Wisened, you may upgrade your Lifestyle to Steadfast, Warry, or Compelling.
+    If your starting Lifestyle was Wisened, you may upgrade your Lifestyle to Steadfast, Warry, or Compelling. If you do, you receive this upgrade at the end of the following session.
 
     **🪬 Steadfast:** Your wise steadiness and alertness have made you adept at warding off harm and protecting your loved ones. When you have sparks, they might take on a firm or dispelling aspect. Whenever you would fail a Check or lose a Contest while performing a Spark Stat Check using Head or Home, protect yourself for $+dc2$, as though you were Helped by your care for others. You also gain the "Epic Awkwardness" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
 
