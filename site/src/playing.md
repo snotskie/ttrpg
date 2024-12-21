@@ -80,7 +80,7 @@ When you roll a $1$ on a Blessing Die, instead of rolling again to increase the 
     - Award $3$ Blessing Dice near the start of the first session, such as after the player has introduced their character
     - Award a Blessing Die the first time each session the player succeeds a Check or wins a Contest by $5$ or more, and award each other player whose character witnessed or heard about that high win or success a Blessing Dice as well
     - Award a Blessing Die for good role play and creative solutions
-    - Award a Blessing Die each time the player rolls the "lucky number" for the session, before modifications to the roll from effects or Abilities. To determine the lucky number, at the start of each session, roll two $d10$ and use the higher value as the lucky number for the session. If a $1$ is rolled on both dice this way, then there is no lucky number for the session, as it is impossible to score lower than a $2$ on rolls in this game; such sessions take place narratively on an "unlucky day"
+    - Award a Blessing Die each time the player rolls the "lucky number" for the session, before modifications to the roll from effects or Abilities. To determine the lucky number, at the start of each session, roll two $d10$ and use the higher value as the lucky number for the session. If a $1$ is rolled on both dice this way, then there is no lucky number for the session, as it is almost impossible to score lower than a $2$ on rolls in this game; such sessions take place narratively on an "unlucky day"
     - Award a number of Blessing Dice at the end of sessions where players completed important milestones in the story
 
 ### Spending Blessing Dice
@@ -122,7 +122,7 @@ To perform a Stat Check, roll the die for the action’s associated Stat. The DM
 
 When two of a character's Stats use the same die, those Stats are "balanced."
 
-You may spend $2$ dice from your pool of Blessing Dice of the same worth to perform a Spark Stat Check instead of a Basic Stat Check, which combines the dice of two balanced Stats into a single group, such as $2d6$ formed from two balanced Stats using a $d6$ each. These Spark Stat Checks represent a character's momentary "spark," that hint of magic or ability to achieve amazing feats, that penchant for pulling out surprising wins, and so on. These "sparks" are what allow characters to perform far beyond what is normally possible by the laws of nature, limited only by their imagination -- and ability to control powerful and strange forces!
+You may spend $2$ dice from your pool of Blessing Dice of the same worth to perform a Spark Stat Check instead of a Basic Stat Check, which combines the dice of two balanced Stats into a single group, such as $2d6$ formed from two balanced Stats using a $d6$ each. These Spark Stat Checks represent a character's momentary "spark," that hint of magic or ability to achieve amazing feats, that penchant for pulling out surprising wins, and so on. These "sparks" are what allow characters to perform far beyond what is normally possible by the laws of nature, limited only by their imagination--and ability to control powerful and strange forces!
 
 Any bonuses or effects that would apply to the balanced Stats used in the Spark Stat Check also apply to the Spark Stat Check itself.
 
@@ -154,11 +154,11 @@ Any bonuses or effects that would apply to the balanced Stats used in the Spark 
 
 ### Contests
 
-A non-violent Contest is when a character performs an action against another character’s will using any Stat besides Hurt. To perform a non-violent Contest, first the Attacker rolls as though performing the appropriate Stat Check, then the Defender rolls as though performing a Stat Check using the same Stat as the Attacker. The action’s effect is only successful if the Attacker rolls higher than the Defender. The severity of the effect is determined by the difference between their scores. If the Attacker uses a Spark Stat Check, then the Defender may roll a Spark Stat Check using the same Stats, or a Stat Check using either of the Stats used in the Attacker's Spark Stat Check.
+A non-violent Contest is when a character performs an action against another character’s will using any Stat besides Hurt. To perform a non-violent Contest, first the Attacker rolls as though performing the appropriate Stat Check, then the Defender rolls as though performing a Stat Check using the same Stat as the Attacker. The action’s effect is only successful if the Attacker rolls higher than the Defender. The size of the effect is determined by the difference between their scores. If the Attacker uses a Spark Stat Check, then the Defender may roll a Spark Stat Check using either or both of the Stats used in the Attacker's Spark Stat Check, so long as the Defender pays the Blessing Die cost.
 
 A violent Contest is when an Attacker performs an action against another character’s will using their Hurt Stat. All Contests involving Hurt are potentially deadly. Unexpected things can happen and things can get out of hand quickly.
 
-To perform a violent Contest, the Attacker first rolls as though performing a Hurt Stat Check or Spark Stat Check that involves Hurt, then the Defender rolls as though performing a Hurry Stat Check or Spark Stat Check that involves Hurry, representing their immediate instinctive reaction in the scene. If the Attacker rolls higher, then the Defender could be trivially injured, in need of immediate medical attention, or even dead. The amount that the Attacker rolled higher than the Defender determines the extent of the injury, regardless if that was what the Attacker intended. If the Defender rolls the same or higher number than the Attacker, then no injury occurs.
+To perform a violent Contest, the Attacker first rolls as though performing a Hurt Stat Check or Spark Stat Check that involves Hurt. Then the Defender rolls as though performing a Hurry Stat Check or Spark Stat Check that involves Hurry, representing their immediate instinctive reaction in the scene. If the Attacker rolls higher, then the Defender could be trivially injured, in need of immediate medical attention, or even dead. The amount that the Attacker rolled higher than the Defender determines the extent of the injury, regardless if that was what the Attacker intended. If the Defender rolls the same or higher number than the Attacker, then no injury occurs.
 
 If the violence continues past this initial Contest, then the Attackers may choose to change tactics, such as performing a non-violent Contest to shift subsequent rounds in their favor. Additionally, Defenders may choose to respond to these attacks with a greater range of options than just Hurry, such as outwitting (Head), calling on honor (Hand), destroying a part of the environment (Hand), calling for a truce (Heart), or repositioning oneself (Head or Home).
 
@@ -167,7 +167,7 @@ If the violence continues past this initial Contest, then the Attackers may choo
 
 ### Helping
 
-All characters may can spend their Blessing Dice to Help one another complete Checks and Contests. And your Abilities or events or items in the story may also Help you in similar ways.
+All characters may can spend their Blessing Dice to Help one another complete Checks and Contests. And your Abilities, events, and items in the story may also Help you in similar ways.
 
 Up to once per roll, whether your own or another character’s, you may Help by spending a number of Blessing Dice, then that character rolls a capped die and adds the result to their roll. The more Blessing Dice spent this way, the larger the capped die rolled, according to the table below. You may only Help other characters this way if your character is near enough to them to reasonably assist with the action and your character is not currently engaged in another action.
 
@@ -203,11 +203,11 @@ Up to once per roll, whether your own or another character’s, you may Help by 
 
     > Whenever you would fail a Check or lose a Contest while wearing this cloak and attempting to move or perform an action unseen, protect yourself for $+dc2$. Moreover, you may roll for such actions using your Hex Stat instead of your Hand Stat as usual.
 
-### Outcome Severity
+### Size of Outcomes
 
 In general, rolling higher leads to better outcomes.
 
-Some rules refer to the "severity" of an outcome, from Very Minor to Maximum, as determined by the table below.
+Some rules refer to the "size" of an outcome, from Very Minor to Maximum, as determined by the table below.
 
 ```@raw html
 <table>
@@ -228,12 +228,12 @@ Some rules refer to the "severity" of an outcome, from Very Minor to Maximum, as
 !!! warning "Rules Note: Maximum Violence is Lethal"
     Keep in mind that, regardless of the Attacker's intention, a violent Contest with a Maximum outcome *always* leads to immediate death or grave injuries for the Defender.
 
-!!! details "DM Note: Severity of Non-violent Effects"
+!!! details "DM Note: Size of Non-violent Outcomes"
     - **Minor-:** A Minor or lower outcome to a non-violent Contest represents the Attacker getting what they wanted, within reason, and with complications. Any advantage the Attacker gains is temporary.
     - **Medium:** A Medium outcome to a non-violent Contest represents a lack of complications. Any advantage the Attacker gains lasts for several rolls by or against the Defender.
     - **Major+:** A Major or higher outcome to a non-violent Contest can change the narrative arc of the session or even campaign.
 
-!!! details "DM Note: Severity of Violent Effects"
+!!! details "DM Note: Size of Violent Outcomes"
     - **Minor-:** As with non-violent Contests, a Minor or lower outcome to a violent Contest represents a trivial wound that grants the Attacker only a temporary advantage, possibly with complications.
     - **Medium/Major:** A Medium, Major, or Very Major outcome to a violent Contest represents a nontrivial, but non-life-threatening wound that will need medical attention, possibly changing the narrative arc of the session to treat it, granting lasting effects if not treated successfully and in a timely manner.
     - **Maximum:** And a Maximum outcome to a violent Contest represents a serious wound, resulting in immediate death or grave injuries to the Defender needing immediate attention or a miracle.
@@ -248,7 +248,7 @@ Sometimes a character's attack in a Contest is itself a complex action requiring
 
 In such cases, the DM may set a target the Attacker needs to beat. The attack's effect is only successful if the Attacker rolls higher than both the Defender's roll and the DM's target.
 
-When the Defender rolls, if the Defender rolls lower than the DM's target, the attack is resolved as though the Defender had rolled that target instead.
+When the Defender rolls, if the Defender rolls lower than the DM's target, the Contest is resolved as though the Defender had rolled that target instead.
 
 This way, even if the Defender rolls low, they still win the Contest if the Attacker fails to meet the target.
 
@@ -277,36 +277,38 @@ The "Camera Rule" has three parts:
 
 - A character cannot be a part of multiple Contests or Checks at the same time.
 - When multiple characters attempt to perform actions that would require Checks or Contests at the same time, only one of these actions can drive the central narrative. This is the Focal Action.
-- Other actions that were attempted at the same moment, the Side Actions, could still occur. However, they could also be interrupted, muddled by the chaos of the situation, abandoned by the character in response to the results of the Focal Action, or so on; such actions are not considered wins, losses, failures, or successes, they simply don't go all the way from idea to execution.
+- Other actions that were attempted at the same moment, the Side Actions, could still occur. However, they could also be interrupted, muddled by the chaos of the situation, abandoned by the character in response to the results of the Focal Action, or so on; such incomplete actions are not considered wins, losses, failures, or successes, they simply don't go all the way from idea to execution.
 
 ### Simultaneous Actions
 
-When several characters want to complete conflicting actions, all at the same time, as they compete towards their respective goals, this requires a round of simultaneous actions.
+When several characters want to complete conflicting actions, all at the same time as they compete towards their respective goals, this requires a round of simultaneous actions.
 
 To resolve a round of simultaneous actions, follow these steps:
 
 1. **Determine the Focal Action:** All characters roll for their attempted actions, as though they were performing their desired Check or performing their desired Contest as the Attacker. Only the highest of these rolls continues through as the Focal Action, with the DM resolving ties.
 2. **Resolve the Focal Action:** The Focal Action is then resolved. If the Focal Action had Defenders, they perform their rolls as Defenders for that Contest.
-3. **Determine and Resolve any Side Actions:** Side Actions are then determined and resolved. Starting with those that rolled the lowest in step 1, if they have already been involved in another Check or Contest this simultaneous action, regardless if it was by choice, they no longer have the opportunity to act this simultaneous action. Otherwise, they decide: Do they continue with their original idea, adapt it to the new situation around them, follow a brand new idea, or abandon acting altogether? If they choose to act, they then perform and resolve their desired Check or Contest. If this action involves other characters, those characters cannot have already been involved in another Check or Contest already this simultaneous action. Then repeat this process with those who rolled the next lowest in step 1.
-4. **End:** Once all characters have either been involved in a Check, Contest, or chosen not to act, the simultaneous action is resolved.
+3. **Determine and Resolve any Side Actions:** Side Actions are then determined and resolved. Starting with those that rolled the lowest in step 1, if they have already been involved in another Check or Contest this round, regardless if it was by choice, they no longer have the opportunity to act this round. Otherwise, they decide: Do they continue with their original idea, adapt it to the new situation around them, follow a brand new idea, or abandon acting altogether? If they choose to act, they then perform and resolve their desired Check or Contest. If this action involves other characters, those characters cannot have already been involved in another Check or Contest already this round. Then continue this process with those who rolled the next lowest in step 1.
+4. **End:** Once all characters have either been involved in a Check, Contest, or chosen not to act, the round of simultaneous actions is resolved.
 
-For example, if two characters are attacking one another at the same time, then each character first rolls as Attackers, narrating how they attempt to attack. Then only the higher roll goes through as an attack and as the Focal Action--the lower roll has been interrupted, neither winning, losing, failing, or succeeding. Then the lower roller rolls as a Defender against the attack, narrating how they respond, and effects are determined as usual. And as there were only two characters in this exchange, there were no opportunities for Side Actions by other characters.
+For example, if two characters are attacking one another at the same time, then each character first rolls as Attackers, narrating how they attempt to attack. Then only the higher roll goes through as both an attack and the Focal Action--the lower roll has been interrupted, neither winning, losing, failing, or succeeding. Then the lower roller rolls as a Defender against the attack, narrating how they respond, and effects are determined as usual. And as there were only two characters in this exchange, there were no opportunities for Side Actions by other characters.
+
+For another example, two groups are competing in a battle of the bands, the *Dropkicks* and the *Blast Offffs!*, while a groupie named Sam cheers for the *Dropkicks* from the stands. First, the two groups roll Headline (a special Stat for the setting) and the groupie rolls Heart, all narrating how they attempt to act. Then only the highest of these three rolls goes through as the Focal Action. Let's say it's the *Dropkicks*, and with their music they attempted to summon a dragon of pure music to attack the *Blast Offffs!*. So, the *Blast Offffs!* now roll as a Defender against that attack, and their original plan has been interrupted. Finally, as a Side Action, Sam can continue with their original plan of cheering from the stands, or they can adjust their strategy and choose a different roll in response to the outcome of the *Dropkicks*'s attack.
 
 !!! warning "Rules Note: Groups within Simultaneous Actions"
-    Once characters become grouped together for a Check or Contest, they remain grouped for the rest of the simultaneous action.
+    Once characters become grouped together for a Check or Contest in a round of simultaneous actions, they remain grouped for the rest of the round.
 
 ### Endeavors
 
-Endeavors are series of simultaneous actions during which the characters involved race to be the first to reach some destination, to be the first to acheive some action, to escape without being caught, to advance an objective before time runs out, or so on. Many scenes where the tension is drawn out can be run as Endeavors.
+Endeavors are multiple rounds of simultaneous actions during which the characters involved race to be the first to reach some destination, to be the first to acheive some action, to escape without being caught, to advance an objective before time runs out, or so on. Many scenes where the tension is drawn out can be run as Endeavors.
 
 Endeavors are carried out as a number of rounds in which the characters attempt actions and perform Contests and Checks to drive the narrative tension, progress themselves, and slow their opponents. Additionally, characters involved may be asked to perform Stat Checks to overcome hazards in the environment. Each round, the narrative primarily follows a single Focal Action, then resolves smaller Side Actions before resolving hazards.
 
 To perform an Endeavor:
 
 1. **Setup:** The DM places a token representing each character involved in the Endeavor on a number line, starting at position $0$. Then, the DM describes the winning and losing conditions of the Endeavor, such as being the first to reach at least space $20$ at the end of a round, to have moved the furthest at the end of $3$ rounds, to be the last one standing by avoiding environmental hazards, or so on or some combination of conditions.
-2. **Focal Action Advantage Movement:** At the top of each round, determine the Focal Action for the round's simultaneous action. Characters may choose to sit out this phase of the Endeavor. Whoever rolled the highest moves forward on the number line a number of spaces equal to the result of their roll. This represents the advantage gained towards their objectives as their proposed course of action directs the narrative tension. If there is a tie for highest roll, then no one gains this advantage movement during this step, though the DM still resolves the tie to determine the Focal Action for the next step.
-4. **Focal Action Movement:** Next, resolve the Focal Action. If the Focal Action had Defenders, they roll to defend against it. Then the winning or succeeding side moves forward, and the severity of the outcome determines the number of spaces moved, according to the table below.
-5. **Side Action Movements:** Then, determine and resolve Side Actions, starting with those who sat out at the start of the round, then those who rolled the lowest at the start of the round, with the DM resolving ties. For each of these Side Actions, the winning or succeeding side moves forward, and the severity of the outcome determines the number of spaces moved, according to the table below.
+2. **Focal Action Advantage Movement:** At the top of each round, determine the Focal Action. Characters may choose to sit out this phase of the Endeavor. Whoever rolled the highest moves forward on the number line a number of spaces equal to the result of their roll. This represents the advantage gained towards their objectives as their proposed course of action directs the narrative tension. If there is a tie for highest roll, then no one gains this advantage movement during this step, though the DM still resolves the tie to determine the Focal Action for the next step.
+4. **Focal Action Movement:** Next, resolve the Focal Action. If the Focal Action had Defenders, they roll to defend against it. Then the winning or succeeding side moves forward, and the size of the outcome determines the number of spaces moved, according to the table below.
+5. **Side Action Movements:** Then, determine and resolve Side Actions, starting with those who sat out at the start of the round, then those who rolled the lowest at the start of the round, with the DM resolving ties. For each of these Side Actions, the winning or succeeding side moves forward, and the size of the outcome determines the number of spaces moved, according to the table below.
 6. **Hazards:** At the end of the round, the DM may describe an environmental hazard that could affect all or some of the leading characters involved the Endeavor, asking them to perform a Check to avoid the effects.
 7. **End:** Repeat rounds until the Endeavor has been won, lost, ends in a draw, or gets interrupted.
 
@@ -343,7 +345,7 @@ To perform an Endeavor:
     Keep in mind how your players actually think about the Endeavor and what their goals are! Simplifying the Focal Action this way removes player autonomy, but it also (a) lowers the cognitive load of thinking up a narrative for one's actions and (b) creates rules around the Endeavor that can make it feel distinct from other Endeavors in the campaign.
 
 !!! details "DM Note: Simplified Endeavor Check Targets"
-    Instead of determining a target for each Check in an Endeavor, for most Checks you may allow characters to automatically succeed, but then compare the severity of their outcome to the effect they wanted to achieve. Based on that, award them a weaker or stronger or moreorless complete version of that intended effect.
+    Instead of determining a target for each Check in an Endeavor, for most Checks you may allow characters to automatically succeed, but then compare the size of their outcome to the effect they wanted to achieve. Based on that, award them a weaker or stronger or moreorless complete version of that intended effect.
 
     This allows you to reserve setting targets for Checks where failure would be interesting or that would change the arc of the Endeavor.
 
@@ -355,7 +357,7 @@ Some campaigns or sessions may involve the player characters and their allies fa
 
 These sorts of Endeavors are run like any other Endeavor, with the following additions:
 
-- **Muddle Buttons:** When each Monstrosity joins the Endeavor, it adds one or more "muddle buttons" to the number line. When a player character or one of their allies reaches one of these points on the number line, that Monstrosity is Muddled (see [Example Conditions](#Example-Conditions)) for the next round, representing a momentary crack in the Monstrosity's defenses -- literally or figuratively. Then, the button is removed. If a player character or one of their allies would activate multiple muddle buttons as part of the same movement, that character instead chooses just one to activate. Be warned though, as some Monstrosities have Abilities that grow in power the more times they've been muddled this way!
+- **Muddle Buttons:** When each Monstrosity joins the Endeavor, it adds one or more "muddle buttons" to the number line. When a player character or one of their allies reaches one of these points on the number line, that Monstrosity is Muddled (see [Example Conditions](#Example-Conditions)) for the next round, representing a momentary crack in the Monstrosity's defenses--literally or figuratively. Then, the button is removed. If a player character or one of their allies would activate multiple muddle buttons as part of the same movement, that character instead chooses just one to activate. Be warned though, as some Monstrosities have Abilities that grow in power the more times they've been muddled this way!
 - **Stamina:** Each Monstrosity has an amount of "stamina." At the end of each round, if the player characters and their allies have a combined value on the number line equal to or greater than a Monstrosity's stamina, those characters may move backwards on the number line a total amount equal to the Monstrosity's stamina. If they do, they non-lethally remove that Monstrosity from the Endeavor and narrate what happens.
 
 !!! details "DM Note: Endeavor Monstrosities"
@@ -407,5 +409,5 @@ While most effects help shape the narrative of the game, your DM may find it app
 - **Muddled:** The next roll you make when determining the Focal Action in an Endeavor is made with a $-2$ modifier. Then, this condition ends.
 - **Exhausted/Cursed:** Dice in your pool of Blessing Dice are each worth $1$ less, to a minimum of $0$. This condition ends when you remove its cause.
 - **Distracted:** Rolls you make do not bump. This condition ends when you remove its cause.
-- **Disarmed:** If you would win a violent Contest as the Attacker with Maximum severity, you win with Very Major severity instead. When you find a new weapon or take a moment to recompose yourself, this condition ends.
+- **Disarmed:** If you would win a violent Contest as the Attacker with a Maximum outcome, you win with a Very Major outcome instead. When you find a new weapon or take a moment to recompose yourself, this condition ends.
 - **Taxed:** You cannot perform Spark Stat Checks. Spending ①① ends this condition.
