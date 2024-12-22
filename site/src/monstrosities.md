@@ -28,7 +28,7 @@ Additionally, you may have your Monstrosities enter Endeavors with a number of B
 
 All Monstrosities have the Capture Ability.
 
-**Capture:** When you gain advantage movement, you may move backward on the number line any amount. If you do, choose an opponent. That opponent then performs a Check where the target is equal to the number of spaces you moved backward. If they fail, you non-lethally remove that opponent from the Endeavor and advance toward your objectives, and at the end of subsequent rounds they may attempt this Check again to re-enter the Endeavor. Then regardless of the Check's result, the current round immediately ends.
+**Capture:** When you gain advantage movement, you may move backward on the number line any amount. If you do, choose an opponent. That opponent then performs a Check where the target is equal to the number of spaces you moved backward. If they fail, you non-lethally remove that opponent from the Endeavor and advance toward your objectives. Then regardless of the Check's result, the current round immediately ends. At the end of subsequent rounds, that opponent may attempt this Check again to re-enter the Endeavor.
 
 You may also give your Monstrosities any of the following Monstrous Abilities or create your own. These Abilities are listed in a rough order from "weakest" to "strongest."
 
