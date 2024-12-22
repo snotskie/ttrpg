@@ -222,3 +222,20 @@ As another starting point, the following relationships between the parts of a Mo
 - Stamina is typically $5$ times the Monstrosity's die cap, but ranging from roughly $3$ to $8$ times. Stamina around the low end of this range gives a "squishier" feel to the Monstrosity, and Stamina around the high end gives a "tankier" feel. For Monstrosities with an "arc boss" feel, give them closer to $5$ times the *sum* of their die caps and number of Blessings.
 - Almost all Monstrosities have only a single muddle button, placed on the number line at a point ranging form around one fifth to one half of their Stamina. Muddle button positions around the low end of this range give an "unprotected" feel, and positions around the high end give an "armored" feel. Also, pairing a low muddle button position with the Revenge ability gives a "hair trigger" feel.
 - For Monstrosities with an "arc boss" feel, give them multiple evenly spaced muddle buttons, paired with Unrelenting or Merciless.
+
+## Optional: Experience Points
+
+If you *do* want to use an experience points (XP) system for your campaign, we recommend the following:
+
+- A Monstrosity's XP ranges from one half to five times the sum of their die cap and number of Blessings.
+    - One half: Monstrosity feels underpowered for the current tier of play
+    - One times: Monstrosity feels about right for a typical foe at this tier of play
+    - Two times: Monstrosity feels a little more powered than its peers, such as having a higher Muddle button or more Abilities than the typical foe at that tier of play
+    - Three times: A surprising strong foe for this tier of play, a trial to be overcome but not an arc boss
+    - Four times: An arc boss
+    - Five times: Endgame
+- Total the XP for all Monstrosities in the Endeavor to get the Endeavor's XP
+- Track the Endeavor XP high score the party has achieved. This is instead of tracking the total of all XP ever gained, as is common in many combat-based RPGs
+- When the party gains a new Endeavor XP high score, award them a total prize relative to the *increase* in that high score from its previous value. For example, when the party increases their high score from $3$ to $6$, you might award them $3$ Blessings divided among them
+
+This approach allows you to represent larger spoils consistently for larger-feeling Endeavors, while not outpacing the game's linear progression system (the Session Shop).
