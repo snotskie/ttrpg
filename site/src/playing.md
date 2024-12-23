@@ -351,6 +351,13 @@ To perform an Endeavor:
 
     If you use this approach, characters would be unable to activate "protect yourself" Abilities for Checks. So, make it clear the start of the Endeavor if, for the sake of the Endeavor, such Abilities (a) always activate, even without explicit failure, or (b) never activate because of the dire pressure of the situation.
 
+!!! details "DM Note: Multiple Number Lines"
+    In Endeavors covering a larger playing field where it would be narratively unsatisfying for characters in different regions of the field to affect one another, you can split the Endeavor into two, at most three, number lines.
+
+    Depending on the situation, characters may be able to change the number line they are on, may be able to only if they succeed a Check or pay a movement cost, or may be able to only if the situation allows.
+
+    Regardless, the Endeavor still only has one Focal Action per round. What changes is that characters are limited in who they can interact with based on which number line they are on.
+
 ### Monstrous Endeavors
 
 Some campaigns or sessions may involve the player characters and their allies facing off against Monstrosities, like zombies, robots, or the manifestation of someone's fear!
