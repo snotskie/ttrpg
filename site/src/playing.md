@@ -145,7 +145,7 @@ To perform a Stat Check, roll the die for the action’s associated Stat. The DM
     - **High-Quality Mundane:** Provides a "protect yourself for $+1$" effect. Typically requires a Medium outcome
     - **Powered:** Provides a "protect yourself for $+dc2$" effect. Typically requires a Major or Very Major outcome
     - **Mythic:** Provides narrative fame or infamy in addition to a "protect yourself for $+dc4$" effect. Typically requires a Maximum outcome
-    - **Reality-Breaking Artifact:** Drives narrative arc in addition to providing a "protect yourself for $+dc6$" effecf. Typically not possible
+    - **Reality-Breaking Artifact:** Drives narrative arc in addition to providing a "protect yourself for $+2dc4$" effect. Typically not possible
 
     Finally, if you use the approach of requiring multiple Checks to resolve the long action, consider adding flaws or limitations to the created item if any of the failed Checks fail by a large amount. If you instead require only a single, harder Check, then consider allowing success if the player hits the base target, but only avoids flaws and limitations if they hit the harder target.
 
