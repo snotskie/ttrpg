@@ -129,6 +129,26 @@ To perform a Stat Check, roll the die for the action’s associated Stat. The DM
     - Determine which single Stat the success of the long action most turns on and ask for a single Check with that Stat, setting the target a little higher than you normally would.
     - Determine which three or four Stats the success of the long action most turns on and ask for a Check for each one, setting one target shared by all of them. Then, determine how many of those Checks must succeed in order for the overall long action to succeed.
 
+!!! details "DM Note: Setting Targets for Crafting"
+    Crafting new items from one's surroundings, tools, and supplies is a long action, in that it usually requires a number of tasks that span the scope of multiple Stats:
+
+    - Gathering high quality supplies (Home)
+    - Gaining knowledge of how to construct the desired object (Head)
+    - Gathering or constructing the necessary tools (Hand or Home)
+    - Constructing the desired object, which can involve multiple steps depending on the complexity (Hand)
+    - Improvising adjustments when tools or supplies break or when one's initial plans were imperfect (Heart)
+    - Meddling with the forces of the universe (Hex, Ham, Hologram, etc. for settings that have a Stat for the "magic" of the world)
+
+    So, resolve crafting as you would any other long action. The intended "power" or effect of the item can help determine the target, for example:
+
+    - **Mundane:** Provides narrative function only. Typically requires a Very Minor or Minor outcome
+    - **High-Quality Mundane:** Provides a "protect yourself for $+1$" effect. Typically requires a Medium outcome
+    - **Powered:** Provides a "protect yourself for $+dc2$" effect. Typically requires a Major or Very Major outcome
+    - **Mythic:** Provides narrative fame or infamy in addition to a "protect yourself for $+dc4$" effect. Typically requires a Maximum outcome
+    - **Reality-Breaking Artifact:** Drives narrative arc in addition to providing a "protect yourself for $+dc6$" effecf. Typically not possible
+
+    Finally, if you use the approach of requiring multiple Checks to resolve the long action, consider adding flaws or limitations to the created item if any of the failed Checks fail by a large amount. If you instead require only a single, harder Check, then consider allowing success if the player hits the base target, but only avoids flaws and limitations if they hit the harder target.
+
 ### Spark Stat Checks
 
 When two of a character's Stats use the same die, those Stats are "balanced."
