@@ -112,6 +112,17 @@ To perform a Stat Check, roll the die for the action’s associated Stat. The DM
     
     Also keep in mind that $12$ is the lowest Stat Check difficulty where a player can begin to fail bad enough for disastrous results.
 
+!!! details "DM Note: Setting Targets for Magic"
+    If your setting has "magic" or other supernatural, reality-bending player capabilities, the way you set targets for these Checks depends on the nature of "magic" in your setting. 
+
+    We recommend providing your players a table that describes your "magic" targets for them:
+
+    - Each row of the table corresponds to an outcome size, from Very Minor to Maximum
+    - Each column corresponds to a "school" of "magic," a type of action, or an aspect of the desired effect such as duration and distance
+    - Each cell describes what a "magic" action of that outcome size and category might look like
+    - Players and you determine which cells are most like what the player wants to achieve with their "magic," and the highest outcome size among those cells is the outcome size their roll will need to meet, with you having final say on the exact Check target
+    - Each row also has a "limit" noted. If an action would meet more than a row's limit worth of cells across that row, then the roll would need to meet one outcome size higher
+
 !!! details "DM Note: Resolving Long Actions"
     When a character performs a long, multi-step action that involves the scope of multiple Stats, consider using one of the following two approaches:
 
