@@ -19,7 +19,7 @@ Succeeding on a Check or winning a Contest without bumping represents natural or
 
 ### Capped Dice
 
-Some rules in this game refer to "capped" dice---those related to Helping and Monstrosities. These dice are the standard dice of the game ($d4$ through $d10$), but "capped" at smaller values.
+Some rules in this game refer to "capped" dice--those related to Helping and Monstrosities. These dice are the standard dice of the game ($d4$ through $d10$), but "capped" at smaller values.
 
 For example, the notation $dc2$ represents a $d4$ that has been capped at the value $2$: If the die were to roll a value greater than $2$, it rolls a $2$ instead. Put another way, this represents a single die with four sides, $1$, $2$, $2$, and $2$. This is the smallest possible capped die, as well as the most commonly used.
 
