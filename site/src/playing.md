@@ -129,6 +129,8 @@ To perform a Stat Check, roll the die for the action’s associated Stat. The DM
     - Determine which single Stat the success of the long action most turns on and ask for a single Check with that Stat, setting the target a little higher than you normally would.
     - Determine which three or four Stats the success of the long action most turns on and ask for a Check for each one, setting one target shared by all of them. Then, determine how many of those Checks must succeed in order for the overall long action to succeed.
 
+    For even more narratively complex actions, such as the players proposing a course of action that in itself could be a session or campaign arc, you may ask for a set of rolls for multiple Stats in the same way, each corresponding to a different necessary step of their plan. Then, based on the results, you provide different amounts or types of information to set them off on their quest to complete those steps in full over the next several scenes or missions.
+
 !!! details "DM Note: Setting Targets for Crafting"
     Crafting new items from one's surroundings, tools, and supplies is a long action, in that it usually requires a number of tasks that span the scope of multiple Stats:
 
