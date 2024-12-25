@@ -236,6 +236,9 @@ Up to once per roll, whether your own or another character’s, you may Help by 
 
     > Whenever you would fail a Check or lose a Contest while wearing this cloak and attempting to move or perform an action unseen, protect yourself for $+dc2$. Moreover, you may roll for such actions using your Hex Stat instead of your Hand Stat as usual.
 
+!!! details "DM Note: Resolving Shopping"
+    You can resolve characters shopping for items in a similar way to how you resolve Checks to see if they already came prepared with the item they need. However, the difference is that if they are shopping in a place where it would be reasonable to find the item they want, and it would be reasonable for them to have the money or goods to trade for that item, then you may give them situational Help on the Check.
+
 ### Size of Outcomes
 
 In general, rolling higher leads to better outcomes.
