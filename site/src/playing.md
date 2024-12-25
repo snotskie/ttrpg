@@ -112,6 +112,17 @@ To perform a Stat Check, roll the die for the action’s associated Stat. The DM
     
     Also keep in mind that $12$ is the lowest Stat Check difficulty where a player can begin to fail bad enough for disastrous results.
 
+!!! details "DM Note: Setting Targets for Coming Prepared"
+    When setting targets for Home Stat Checks characters perform to see if they already came prepared with just the item they need, consider:
+
+    - How common, niche, specialized, rare, or unique in the world the desired item is
+    - How probable it would be to already have that item
+    - How many items the character already has listed
+
+    If it would not require much suspension of disbelief for the character to have the item in the scene, use an easy to medium target. Otherwise, use a hard or higher target.
+    
+    If a player fails a Check this way, you may decide that they can't perform more Checks this way until the end of the scene or session. Moreover, if they fail such a Check by a disastrous amount, perhaps they dropped and broke other items while digging around in their bag, alerted others to their location, or so on.
+
 !!! details "DM Note: Setting Targets for Magic"
     If your setting has "magic" or other supernatural, reality-bending player capabilities, the way you set targets for these Checks depends on the nature of "magic" in your setting. 
 
