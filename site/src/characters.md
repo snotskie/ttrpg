@@ -108,6 +108,11 @@ Each character has a History Basic Stat, made up of a number of narrative touchs
 
     Consider what *unique* skills, proficiencies, traits, and backstory elements each character brings to the story. Also consider the *variety* of a character's narrative touchstones: if all or most of them would be covered already by another Basic Stat, then the player would have no reason to use or upgrade their History Basic Stat!
 
+!!! details "DM Note: Party History"
+    While the party of player characters does not share a "group History," you may still find it useful to keep a short list of shared details over the course of the campaign, such as reputation, effect of the market on the party's business, shifting political tensions, or so on.
+    
+    This list can aid you when asking players to reflect on their character's own relationship to that "group History," which can help shape their own History scope, advance the development of their character, and inspire you for ideas for following scenes or sessions.
+
 !!! details "DM Note: Non-Human Characters"
     If your game's setting allows your players to create non-human characters, there are generally two approaches for how to represent non-human details. The choice depends on the variety of non-human backgrounds between your players:
 
