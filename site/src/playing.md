@@ -424,8 +424,8 @@ Similarly, some campaigns or sessions may involve prolonged tension where the pl
 These sorts of Endeavors are run like any other Endeavor, with the following additions:
 
 - **Made Buttons:** At the start of the Endeavor, the DM adds a number of "made buttons" throughout the number line. If a character ends any movement on the same space as a made button, then the character is "made" by the watchful eye they are trying to avoid. What happens when a character is made this way depends on the Encounter: the party immediately loses, the one character is removed from the Endeavor if they fail a Check whose target is equal to the button's position on the number line, a measure of "alertness" rises, or so on.
-- **Made Buttons Move:** And the end of each round, the made buttons move, according to some set pattern only the DM knows. Nothing happens if a made button ends its movement in the same space as a character.
-- **Negative Help:** Whenever a character receives Help, they may choose to subtract the bonus from their roll instead of adding it as usual.
+- **Made Buttons Move:** At the end of each round, the made buttons move, according to some set pattern only the DM knows. Nothing happens if a made button ends its movement in the same space as a character.
+- **Negative Help:** Whenever a character receives Help, they may choose to subtract the bonus from their roll instead of adding it as usual. However, they must make the choice to add or subtract before seeing the result of the Help die.
 
 ## Conditions
 
