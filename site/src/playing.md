@@ -134,12 +134,24 @@ To perform a Stat Check, roll the die for the action’s associated Stat. The DM
     - Players and you determine which cells are most like what the player wants to achieve with their "magic," and the highest outcome size among those cells is the outcome size their roll will need to meet, with you having final say on the exact Check target
     - Each row also has a "limit" noted. If an action would meet more than a row's limit worth of cells across that row, then the roll would need to meet one outcome size higher
 
-!!! details "DM Note: Resolving Long Actions"
-    When a character performs a long, multi-step action that involves the scope of multiple Stats, consider using one of the following two approaches:
+### Long Actions
 
-    - Determine which single Stat the success of the long action most turns on and ask for a single Check with that Stat, setting the target a little higher than you normally would.
-    - Determine which three or four Stats the success of the long action most turns on and ask for a Check for each one, setting one target shared by all of them. Then, determine how many of those Checks must succeed in order for the overall long action to succeed.
+A long action is any action that is multi-step, spans a longer period of time than most other actions, and involves the scope of multiple Stats.
 
+For example:
+
+- Formulating a plan for a heist
+- Engaging in political intrigue
+- Crafting or reparing specialized items
+- Navigating and piloting a crewed vessel
+- Running a business
+- Searching ruins for forbidden knowledge while avoiding bounty hunters' detection
+
+For simplicity, the DM may ask for a single Check or Contest, using only the single Stat that the long action's success or victory most turns on. The target for success or victory without difficulties may be higher than usual in this case.
+
+Alternatively, the DM may ask for three or four Checks or Contests, using the various Stats involved in the long action. For overall success or victory, at least half of these rolls will need to win or succeed. However, each failure or loss may incur difficulties on top of that success.
+
+!!! details "DM Note: Resolving Player-Driven Narrative"
     For even more narratively complex actions, such as the players proposing a course of action that in itself could be a session or campaign arc, you may ask for a set of rolls for multiple Stats in the same way, each corresponding to a different necessary step of their plan. Then, based on the results, you provide different amounts or types of information to set them off on their quest to complete those steps in full over the next several scenes or missions.
 
 !!! details "DM Note: Setting Targets for Crafting"
@@ -160,7 +172,9 @@ To perform a Stat Check, roll the die for the action’s associated Stat. The DM
     - **Mythic:** Provides narrative fame or infamy in addition to a "protect yourself for $+dc4$" effect. Typically requires a Maximum outcome
     - **Reality-Breaking Artifact:** Drives narrative arc in addition to providing a "protect yourself for $+2dc4$" effect. Typically not possible
 
-    Finally, if you use the approach of requiring multiple Checks to resolve the long action, consider adding flaws or limitations to the created item if any of the failed Checks fail by a large amount. If you instead require only a single, harder Check, then consider allowing success if the player hits the base target, but only avoids flaws and limitations if they hit the harder target.
+    If you use the approach of requiring multiple Checks to resolve the long action, consider adding flaws or limitations to the created item if any of the failed Checks fail by a large amount.
+    
+    If you instead require only a single, harder Check, then consider allowing success if the player hits the base target, but only avoids flaws and limitations if they hit the harder target.
 
 ### Spark Stat Checks
 
@@ -307,7 +321,7 @@ If multiple characters are Attackers together in a Contest, then they each perfo
 
 If multiple characters are Defenders together in a Contest, or are performing a coordinated Check, then they each perform their respective rolls, and if at least half would succeed the Check or win the Contest, then the group as a whole succeeds or wins.
 
-In general, once characters become a group as part of a Check or Contest, they remain a group until the end of the Check or Contest.
+In general, once characters become a group as part of a Check or Contest, they remain a group until the end of the Check or Contest and are treated as a single character for the sake of the rules, sharing benefits and risks.
 
 !!! warning "Rules Note: Group Defenders"
     A character cannot force other characters to become a group of Defenders, unless an Ability, item, or situation would allow.
