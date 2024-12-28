@@ -425,7 +425,7 @@ Some campaigns or sessions may involve the player characters and their allies fa
 
 These sorts of Endeavors are run like any other Endeavor, with the following additions:
 
-- **Muddle Buttons:** When each Monstrosity joins the Endeavor, it adds one or more "muddle buttons" to the number line. When a player character or one of their allies reaches one of these points on the number line, that Monstrosity is Muddled (see [Example Conditions](#Example-Conditions)) for the next round, representing a momentary crack in the Monstrosity's defenses--literally or figuratively. Then, the button is removed. If a player character or one of their allies would activate multiple muddle buttons as part of the same movement, that character instead chooses just one to activate. Be warned though, as some Monstrosities have Abilities that grow in power the more times they've been muddled this way!
+- **Muddle Buttons:** When each Monstrosity joins the Endeavor, it adds one or more "muddle buttons" to the number line. The first time each round a player character or one of their allies reaches one of these points on the number line, that Monstrosity is Muddled (see [Example Conditions](#Example-Conditions)) for the next round, representing a momentary crack in the Monstrosity's defenses--literally or figuratively. Then, the button is removed. If a player character or one of their allies would activate multiple muddle buttons as part of the same movement, that character instead chooses just one to activate. Be warned though, as some Monstrosities have Abilities that grow in power the more times they've been muddled this way!
 - **Stamina:** Each Monstrosity has an amount of "stamina." At the end of each round, if the player characters and their allies have a combined value on the number line equal to or greater than a Monstrosity's stamina, those characters may move backwards on the number line a total amount equal to the Monstrosity's stamina. If they do, they non-lethally remove that Monstrosity from the Endeavor and narrate what happens.
 
 !!! details "DM Note: Endeavor Monstrosities"
@@ -441,6 +441,29 @@ These sorts of Endeavors are run like any other Endeavor, with the following add
 - **Alarm Buttons Move:** At the end of each round, the alarm buttons move, according to some set pattern only the DM knows. Nothing happens immediately when an alarm button ends its movement in the same space as a character. However, if a character chooses to sit out of acting at the top of a round while sharing a space with an alarm button, then the chatacter is made just as though they had moved onto it.
 - **Failed Checks Increase Alertness:** Whenever a character fails a Check or loses a Contest while resolving a Focal Action or Side Action, the "alertness" of the Endeavor increases, represented by an additional alarm button being added to the number line.
 - **Negative Help:** Whenever a character receives Help, they may choose to subtract the bonus from their roll instead of adding it as usual.
+
+### Discovery Endeavors
+
+Finally, some campaigns or sessions may involve a prolonged scene where the player characters explore a mansion for clues, search through the rubble of a crashed spaceship, delve into a dungeon, or so on!
+
+These sorts of Endeavors are run like any other Endeavor, or added into any other Endeavor, with the following additions:
+
+- **Lay of the Land:** At the top of the first round, the DM will provide the lay of the land of the environment the characters are exploring, such as what rooms as available and how they relate. As the Endeavor progresses, additional areas may become available, each with their own number line and lay of the land. 
+- **Glimmer Buttons:** When the DM gives a lay of the land, a number of "glimmer buttons" are added throughout the number line. The first time each round a character reaches one of these points on the number line, that character can attempt to interact with that glimmer button. If a character would activate multiple glimmer buttons as part of the same movement, that character instead chooses just one to activate.
+- **Interacting with Glimmer Buttons:** To interact with a glimmer button and gain the discovery associated with it, a character must succeed a Check. The target for this Check is equal to the glimmer button's position on the number line. If the character's most recent roll in the Endeavor would have met this target, then the character automatically succeeds this Check. This Check is considered an extension to the character's current course of action and does not provide additional movement toward the Endeavor. When this Check is succeeded, the glimmer button is removed from the number line. It may also be removed when the Check is failed, at DM's discretion.
+- **Types of Glimmer Buttons:** The DM may add multiple types of glimmer buttons to the number line, representing different types of discoveries for the area, such as items, information, social interactions, or further areas to explore.
+
+!!! details "DM Note: Preparing Glimmer Buttons"
+    You do not need to specify ahead of time which discoveries correspond to each glimmer button. Instead, decide which categories of discoveries might be present in the area: items, information, social interactions, traps, or so on.
+
+    Then, for each, decide how copious it might be in the area:
+
+    - Rare: Roll $1d4$ and add that many glimmer buttons of that type to the number line. This die bumps as usual.
+    - Uncommon: Do the same, but with $1d6$.
+    - Common: Do the same, but with $1d8$.
+    - Abundant: Do the same, but with $1d10$.
+
+    Then, improvise following your players' choices: When they decide to interact with a "loot" glimmer at position $10$ instead of a "social" glimmer, what are they looking for, what Stat did they use to reach it, what would a "loot" of target $10$ look like, what might be available in this area, and what information can you present alongside it? And if the character will need to roll a new Check to interact with the glimmer, what Stat can you ask them to roll that will add new detail to the scene without being the same Stat they just rolled?
 
 ## Conditions
 
