@@ -458,12 +458,20 @@ These sorts of Endeavors are run like any other Endeavor, or added into any othe
 
     Then, for each, decide how copious it might be in the area:
 
-    - Rare: Roll $1d4$ and add that many glimmer buttons of that type to the number line. This die bumps as usual.
-    - Uncommon: Do the same, but with $1d6$.
-    - Common: Do the same, but with $1d8$.
-    - Abundant: Do the same, but with $1d10$.
+    - Rare: Roll $1d4-2$ and if the result is positive add that many glimmer buttons of that type to the number line. This die bumps as usual. (For even rarer discoveries, you can roll $1d4-3$ or $1d4-4$ instead.)
+    - Uncommon: Do the same as above, but with $1d4$.
+    - Common: Do the same as above, but with $1d6$.
+    - Abundant: Do the same as above, but with $1d8$.
+    - Copious: Do the same as above, but with $1d10$.
 
-    Then, improvise following your players' choices: When they decide to interact with a "loot" glimmer at position $10$ instead of a "social" glimmer, what are they looking for, what Stat did they use to reach it, what would a "loot" of target $10$ look like, what might be available in this area, and what information can you present alongside it? And if the character will need to roll a new Check to interact with the glimmer, what Stat can you ask them to roll that will add new detail to the scene without being the same Stat they just rolled?
+    Then, improvise following your players' choices. For example, when they decide to interact with a "loot" glimmer at position $10$ instead of a "social" glimmer, ask yourself:
+    
+    - What are they looking for?
+    - What Stat did they use to reach it?
+    - What would a "loot" of target $10$ look like?
+    - What might be available in this area?
+    - What information can you present alongside it?
+    - If the character will need to roll a new Check to interact with the glimmer, what Stat can you ask them to roll that will add new detail to the scene without being the same Stat they just rolled?
 
 ## Conditions
 
