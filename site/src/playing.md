@@ -419,13 +419,20 @@ To perform an Endeavor:
 
     Regardless, the Endeavor still only has one Focal Action per round. What changes is that characters are limited in who they can interact with based on which number line they are on.
 
+!!! details "DM Note: Large-Scale Endeavors"
+    Resolving actions that occur on massive scales, such as war, democracy, alien invasion, and farming during environmental disaster, requires shifting the scale of the narrative. This can be done in a similar way through one round of an Endeavor, before shifting back to its effects on the player character scale and the actions it makes available to them.
+
+    The details depend on your situation, but you may give the "sides" of the large-scale Endeavor several $d10$ and roll them as a group of dice that bump as usual, for example, $4d10$.
+
+    Then use the results to improvise the narrative at that scale before returning to the view of how that large-scale narrative makes itself known at the smaller player character scale.
+
 ### Monstrous Endeavors
 
 Some campaigns or sessions may involve the player characters and their allies facing off against Monstrosities, like zombies, robots, or the manifestation of someone's fear!
 
 These sorts of Endeavors are run like any other Endeavor, with the following additions:
 
-- **Muddle Buttons:** When each Monstrosity joins the Endeavor, it adds one or more "muddle buttons" to the number line. The first time each round a player character or one of their allies reaches one of these points on the number line, that Monstrosity is Muddled (see [Example Conditions](#Example-Conditions)) for the next round, representing a momentary crack in the Monstrosity's defenses--literally or figuratively. Then, the button is removed. If a player character or one of their allies would activate multiple muddle buttons as part of the same movement, that character instead chooses just one to activate. Be warned though, as some Monstrosities have Abilities that grow in power the more times they've been muddled this way!
+- **Muddle Buttons:** When each Monstrosity joins the Endeavor, it adds one or more "muddle buttons" to the number line. When the movement of a player character or one of their allies moves over one of these points on the number line, that Monstrosity is Muddled (see [Example Conditions](#Example-Conditions)) for the next round, representing a momentary crack in the Monstrosity's defenses--literally or figuratively. Then, the button is removed. If a player character or one of their allies would activate multiple muddle buttons in one round, that character instead chooses just one to activate. Be warned though, as some Monstrosities have Abilities that grow in power the more times they've been muddled this way!
 - **Stamina:** Each Monstrosity has an amount of "stamina." At the end of each round, if the player characters and their allies have a combined value on the number line equal to or greater than a Monstrosity's stamina, those characters may move backwards on the number line a total amount equal to the Monstrosity's stamina. If they do, they non-lethally remove that Monstrosity from the Endeavor and narrate what happens.
 
 !!! details "DM Note: Endeavor Monstrosities"
@@ -449,7 +456,7 @@ Finally, some campaigns or sessions may involve a prolonged scene where the play
 These sorts of Endeavors are run like any other Endeavor, or added into any other Endeavor, with the following additions:
 
 - **Lay of the Land:** At the top of the first round, the DM will provide the lay of the land of the environment the characters are exploring, such as what rooms are available and how they relate. As the Endeavor progresses, additional areas may become available, each with their own number line and lay of the land. 
-- **Glimmer Buttons:** When the DM gives a lay of the land, a number of "glimmer buttons" are added throughout the number line. The first time each round a character reaches one of these points on the number line, that character can attempt to interact with that glimmer button. If a character would activate multiple glimmer buttons as part of the same movement, that character instead chooses just one to activate.
+- **Glimmer Buttons:** When the DM gives a lay of the land, a number of "glimmer buttons" are added throughout the number line. When the moment of a character moves over one of these points on the number line, that character can attempt to interact with that glimmer button. If a character would activate multiple glimmer buttons in one round, that character instead chooses just one to activate.
 - **Interacting with Glimmer Buttons:** To interact with a glimmer button and gain the discovery associated with it, a character must succeed a Check. The target for this Check is equal to the glimmer button's position on the number line. If the character's most recent roll in the Endeavor would have met this target, then the character automatically succeeds this Check. This Check is considered an extension to the character's current course of action and does not provide additional movement toward the Endeavor. When this Check is succeeded, the glimmer button is removed from the number line. It may also be removed when the Check is failed, at DM's discretion.
 - **Types of Glimmer Buttons:** The DM may add multiple types of glimmer buttons to the number line, representing different types of discoveries for the area, such as items, information, social interactions, or further areas to explore.
 
