@@ -315,11 +315,13 @@ This way, even if the Defender rolls low, they still win the Contest if the Atta
 
 ### Group Checks and Contests
 
-Sometimes characters want to complete actions together as a group. One way is to provide Help to one character leading the action. Another is for each character to attempt the action, using the median of their rolls.
+Sometimes characters want to complete actions together as a group.
 
-If multiple characters are Attackers together in a Contest, then they each perform their respective rolls and the median of their results is used to determine the group’s shared result.
+One way is to provide Help to one roll that leads the group's action. Some members of the group may decide not to roll and instead wait for the group leader to roll, then provide Help to the leader by spending Blessings to increase the result of the roll.
 
-If multiple characters are Defenders together in a Contest, or are performing a coordinated Check, then they each perform their respective rolls, and if at least half would succeed the Check or win the Contest, then the group as a whole succeeds or wins.
+Another way is for each character to attempt the action, using the median of their rolls. If multiple characters are Attackers together in a Contest, Defenders together in a Contest, or are performing a coordinated Check, then they may each perform their respective rolls and use the median of their results as the group's shared result. If the group roll had an even number of individual rolls, then the higher of the two median rolls is used.
+
+These two approaches may even be combined, with some members rolling and taking their median, and the other members providing Help on top of that median. However, a group member cannot both roll and Help for the same action.
 
 In general, once characters become a group as part of a Check or Contest, they remain a group until the end of the Check or Contest and are treated as a single character for the sake of the rules, sharing benefits and risks.
 
@@ -395,6 +397,11 @@ To perform an Endeavor:
 
 !!! warning "Rules Note: Group Movement"
     If a winning or succeeding side in any of the steps above is a group, then when they move forward an amount, they only move a total of that amount. How the group distributes this movement among its members is up to the group to decide: they may distribute the movement evenly, give it all to one member, or any other arrangement the group agrees on.
+
+!!! warning "Group up and Roll for Focus"
+    You cannot roll and provide Help at the same time, so don't rush to roll at the top of the round.
+    
+    If you and your allies would like to provide Help to one another, first decide how you will form groups. Then act as a group accordingly from there.
 
 !!! details "DM Note: Simplified Focal Action Rolls"
     You may decide to simplify the process of determining the Focal Action by limiting the types of Stats that are applicable each round. For example:
