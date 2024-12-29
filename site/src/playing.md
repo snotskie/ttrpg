@@ -529,6 +529,7 @@ While most effects help shape the narrative of the game, your DM may find it app
 - **Confused/Exhausted/Dejected/Ill:** Rolls you make with the affected Stat cannot receive Help, including Help from items, Abilities, or situations.
 - **Weakened:** Rolls you make as a Defender in violent Contests that would roll the highest value on the die instead roll the second highest. Resting or tending to your wounds ends this condition.
 - **Agreeable to $X$:** Rolls you make as a Defender in non-violent Contests where $X$ is an Attacker that would roll the highest value on the die instead roll the second highest. If $X$ does an action or makes a request that would bring you harm, this condition ends.
+- **Famous:** You may exert your fame over a character who is less famous than you, gaining a $+dc2$ bonus in a Contest against them. You may not do so against the same character twice or while you are Uncool.
 - **Head/Hand/Heart/Home Cursed by $X$:** When $X$ witnesses you perform a roll using the affected Stat, $X$ may have you perform the roll again and use the new value. If they do, this condition ends.
 - **Muddled:** The next roll you make when determining the Focal Action in an Endeavor is made with a $-2$ modifier. Then, this condition ends.
 - **Exhausted/Cursed:** Dice in your pool of Blessing Dice are each worth $1$ less, to a minimum of $0$. This condition ends when you remove its cause.
