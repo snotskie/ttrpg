@@ -203,6 +203,8 @@ Characters in this game have a set of Abilities that grant them certain actions 
 
 **Blessed by Disruption:** When another character succeeds a Check or wins a Contest, you may modify that character’s result by $-3$, possibly turning their success into a failure or win into a loss. Then this ability cannot be activated again until you spend ⑤ to recharge it.
 
+**Blessed by Intrigue:** Up to once per scene, you may end, begin, or modify one rumor. Then this ability cannot be activated again until you spend ⑤ to recharge it.
+
 **Blessed by Voices:** You may call upon a higher power, a criminal underground, a book of forbidden knowledge, or so on to gain access to secret information or an answer to a question that you wouldn't normally be able to do. This information may come with consequences. Then this ability cannot be activated again until you spend ④ to recharge it.
 
 **Blessed by Insurance:** When a character fails a Check or loses a Contest to tend to your wounds, that character may turn the failure into a success or the loss into a win. Then this ability cannot be activated again until you spend ①①① to recharge it, and when it is recharged, increase the cost to recharge it by ①①.
