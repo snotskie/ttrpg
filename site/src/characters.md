@@ -173,6 +173,10 @@ Characters in this game have a set of Abilities that grant them certain actions 
 
 **Ambidexterity:** In a Monstrous Endeavor you may activate two muddle buttons per round.
 
+**Calling Card:** Up to once per Stealth Endeavor, when you would be made you instead increase the alertness of the Endeavor.
+
+**Quick Scan:** Up to once per Discovery Endeavor, when a lay of the land is given, you may choose a type of glimmer button. More of that type will be added to the number line than usual.
+
 **Blessed by Luck:** When you fail a Check, you may attempt the Check again, using the newer result instead. Then this ability cannot be activated again until you spend ⑤ to recharge it.
 
 !!! note "Effect Wording: Spend Ⓧ to Recharge"
