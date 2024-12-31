@@ -41,7 +41,7 @@ This page provides quick reminders for the most referenced information.
 ## Endeavors
 
 1. **Focal Action Advantage Movement:** Highest roller moves equal to their roll. Reminder: Declare if you are grouping with others or Helping before you roll; if you Help you don't roll.
-2. **Other Movements:** Resolve all actions one at a time. First the highest roller above, then lowest, second-lowest, and so on. Succeed a Check or win a Contest to move according to Endeavor Movement Table. If someone else attacks you before you can act, your action is interrupted.
+2. **Other Movements:** Resolve all actions one at a time. First the highest roller above, then lowest, second-lowest, and so on. Succeed a Check or win a Contest to move according to Endeavor Movement Table. If someone else attacks you before you can act, your action is interrupted. You cannot attack someone who has already acted or already been attacked.
 
 ## Endeavor Movement Table
 
