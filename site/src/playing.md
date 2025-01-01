@@ -490,6 +490,13 @@ These sorts of Endeavors are run like any other Endeavor, or added into any othe
     - What item, result, or information could be given for free based on the character's History scope?
     - If the character will need to roll a new Check to interact with the glimmer, what Stat can you ask them to roll that will add new detail to the scene without being the same Stat they just rolled?
 
+!!! details "DM Note: Automatic Glimmer Button Success"
+    While it is up to your discretion, here is a good rule of thumb for how large a character's History Stat die needs to be to automatically succeed a glimmer button's Check: double the largest number on the character's History Stat die then subtract $2$. Any glimmer button whose target is at most that number and also related to the character's History Stat scope could reasonably be automatically succeeded.
+
+    For example, a $d6$ History Stat die could automatically succeed targets $10$ or less for related glimmer buttons.
+
+    Moreover, you can use this rule of thumb to provide information when a character fails a glimmer button's Check: What would a character's History Stat die and scope need to be to automatically succeed, and who in the narrative meets those requirements that the character could turn to for help? This moves the story forward by creating a new "side quest" and expanding the world, without giving away the glimmer button's information right away.
+
 ## Conditions
 
 ### Wounds
