@@ -466,6 +466,7 @@ These sorts of Endeavors are run like any other Endeavor, or added into any othe
 - **Glimmer Buttons:** When the DM gives a lay of the land, a number of "glimmer buttons" are added throughout the number line. When the movement of a character moves over one of these points on the number line, that character can attempt to interact with that glimmer button. If a character would activate multiple glimmer buttons in one round, that character instead chooses just one to activate.
 - **Interacting with Glimmer Buttons:** To interact with a glimmer button and gain the discovery associated with it, a character must succeed a Check. The target for this Check is equal to the glimmer button's position on the number line. If the character's most recent roll in the Endeavor would have met this target, then the character automatically succeeds this Check. This Check is considered an extension to the character's current course of action and does not provide additional movement toward the Endeavor. When this Check is succeeded, the glimmer button is removed from the number line. It may also be removed when the Check is failed, at DM's discretion.
 - **Types of Glimmer Buttons:** The DM may add multiple types of glimmer buttons to the number line, representing different types of discoveries for the area, such as items, information, social interactions, or further areas to explore.
+- **History and Glimmer Buttons:** A character may also automatically succeed the Check to interact with a glimmer button if their History Stat die is high enough (at DM discretion) and the scope of their History Stat is relevant enough to the glimmer button in question. In such case, the DM may alternatively use a success on the glimmer button's Check to provide extra benefit or to give the character narrative control for a moment.
 
 !!! details "DM Note: Preparing Glimmer Buttons"
     You do not need to specify ahead of time which discoveries correspond to each glimmer button. Instead, decide which categories of discoveries might be present in the area: items, information, social interactions, traps, or so on.
@@ -484,7 +485,9 @@ These sorts of Endeavors are run like any other Endeavor, or added into any othe
     - What Stat did they use to reach it?
     - What would a "loot" of target $10$ look like?
     - What might be available in this area?
+    - How does this area relate to the larger area and events of the story?
     - What information can you present alongside it?
+    - What item, result, or information could be given for free based on the character's History scope?
     - If the character will need to roll a new Check to interact with the glimmer, what Stat can you ask them to roll that will add new detail to the scene without being the same Stat they just rolled?
 
 ## Conditions
