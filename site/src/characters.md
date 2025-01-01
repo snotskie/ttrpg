@@ -294,3 +294,6 @@ You may also spend ①①① to receive an additional upgrade beyond the one you
     You may use your upgrade to gain an additional Ability, to a maximum of four Abilities gained this way. If you do, you receive this upgrade at the end of the following session.
     
     When you gain your final Ability this way, you may instead create one of your own and gain it, within reason.
+
+!!! details "DM Note: Catching Players Up"
+    Offer players two upgrades at the end of sessions when they would have fewer total upgrades than the player with the most total upgrades.
