@@ -296,4 +296,4 @@ You may also spend ①①① to receive an additional upgrade beyond the one you
     When you gain your final Ability this way, you may instead create one of your own and gain it, within reason.
 
 !!! details "DM Note: Catching Players Up"
-    Offer players two upgrades at the end of sessions when they would have fewer total upgrades than the player with the most total upgrades.
+    Offer players one additional free upgrade at the end of sessions when they would have fewer total upgrades than the player with the most total upgrades.
