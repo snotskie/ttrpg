@@ -96,7 +96,7 @@ Each character in this game starts with one of three Lifestyles, described below
 
     - **Virtue and Vice** settings are those where personal traits and virtues naturally align with roles in harmonious or mystical worlds---and vices run counter to it, manifesting as a "dark side" to the good in the world. *E.g. for high fantasy, optimistic post-apocalyptic worlds, and allegorical fables.*
     - **Fate and Knowledge** settings are those where individuals' traits connect them to mystical or supernatural forces, shaping their destinies through divine, cursed, or esoteric interactions. *E.g. for dark fantasy, occult fiction, and supernatural horror.*
-    - **Cunning and Capability** settings are those where creativity, intellect, and guile define roles in intricate, high-stakes environments focused on survival, power, or ingenuity. **E.g. for  cyberpunk, spy fiction, and dystopian or noir worlds.*
+    - **Cunning and Capability** settings are those where creativity, intellect, and guile define roles in intricate, high-stakes environments focused on survival, power, or ingenuity. *E.g. for  cyberpunk, spy fiction, and dystopian or noir worlds.*
 
     In any case, provide your players with a small set of default Stat bonuses to choose from that both have in-game flavor and balance the first three Stats (Head, Hand, Heart) with the second three Stats (Home, Hurt, Hurry). These default Stat bonuses allow players to get into the game quicker, while setting them up for character growth later when (or if) they choose to upgrade their Lifestyle in the Session Shop.
 
