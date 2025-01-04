@@ -69,11 +69,36 @@ Each character in this game starts with one of three Lifestyles, described below
 !!! tip "Character Creation: Step Two!"
     Begin to describe the Lifestyle your character had growing up or their current outlook on life. As you do, pick one of the following Lifestyles to start the game with. These can be changed later in the [Session Shop](#Session-Shop).
 
-**🍀 Carefree:** Your character lives a relatively carefree life, perhaps because of your naivete, wealthy upbringing, or optimistic demeanor. Your choice of your Heart or Hurry Stat begins the game one die size larger.
+**🍀 Carefree:** Your character lives a relatively carefree life, perhaps because of your naivete, wealthy upbringing, or optimistic demeanor. Two of your Stats begin the game one die size larger, according to the table below. Work with your DM to know which column to use.
 
-**🔥 Eager:** Your character is eager for more out of life, perhaps because of a rebellious phase, a yearning to accomplish your dreams, or a person you want to impress. Your choice of your Hand or Hurt Stat begins the game one die size larger.
+**🔥 Eager:** Your character is eager for more out of life, perhaps because of a rebellious phase, a yearning to accomplish your dreams, or a person you want to impress. Two of your Stats begin the game one die size larger, according to the table below. Work with your DM to know which column to use.
 
-**🧘‍♀️ Wisened:** Life has not been easy on your character, but as a result you’ve come out wiser and tougher, perhaps because you've been shaped by unfortunate events or dedicated yourself to your work. Your choice of your Head or Home Stat begins the game one die size larger.
+**🧘‍♀️ Wisened:** Life has not been easy on your character, but as a result you’ve come out wiser and tougher, perhaps because you've been shaped by unfortunate events or dedicated yourself to your work. Two of your Stats begin the game one die size larger, according to the table below. Work with your DM to know which column to use.
+
+```@raw html
+<table>
+  <tr>
+    <td></td>
+    <th scope="col">Virtue and Vice</th>
+    <th scope="col">Fate and Knowledge</th>
+    <th scope="col">Cunning and Capability</th>
+  </tr>
+  <tr> <th scope="row">Carefree</th> <td>Heart and Hurry</td> <td>Head and Hurt</td> <td>Hand and Home</td> </tr>
+  <tr> <th scope="row">Eager</th> <td>Hand and Hurt</td> <td>Heart and Home</td> <td>Head and Hurry</td> </tr>
+  <tr> <th scope="row">Wisened</th> <td>Head and Home</td> <td>Hand and Hurry</td> <td>Heart and Hurt</td> </tr>
+</table>
+```
+
+!!! details "DM Note: Campaign Genre Archetype"
+    The default Stat bonuses characters in your campaign setting receive as a result of their Lifestyle help give shape and flavor to the narrative---before the game has even begun!
+
+    To help you make the choice of what default Stat bonuses to give, consider the following:
+
+    - **Virtue and Vice** settings are those where personal traits and virtues naturally align with roles in harmonious or mystical worlds---and vices run counter to it, manifesting as a "dark side" to the good in the world. *E.g. for high fantasy, optimistic post-apocalyptic worlds, and allegorical fables.*
+    - **Fate and Knowledge** settings are those where individuals' traits connect them to mystical or supernatural forces, shaping their destinies through divine, cursed, or esoteric interactions. *E.g. for dark fantasy, occult fiction, and supernatural horror.*
+    - **Cunning and Capability** settings are those where creativity, intellect, and guile define roles in intricate, high-stakes environments focused on survival, power, or ingenuity. **E.g. for  cyberpunk, spy fiction, and dystopian or noir worlds.*
+
+    In any case, provide your players with a small set of default Stat bonuses to choose from that both have in-game flavor and balance the first three Stats (Head, Hand, Heart) with the second three Stats (Home, Hurt, Hurry). These default Stat bonuses allow players to get into the game quicker, while setting them up for character growth later when (or if) they choose to upgrade their Lifestyle in the Session Shop.
 
 ## History
 
