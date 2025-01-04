@@ -90,11 +90,11 @@ Each character in this game starts with one of three Lifestyles, described below
 ```
 
 !!! details "DM Note: Campaign Genre Archetype"
-    The default Stat bonuses characters in your campaign setting receive as a result of their Lifestyle help give shape and flavor to the narrative---before the game has even begun!
+    The default Stat bonuses characters in your campaign setting receive as a result of their Lifestyle help give shape and flavor to the narrative. This happens by creating a sense of what life looks like in the setting, or is assumed to look like in the stories characters tell one another, all before the first session has even begun!
 
     To help you make the choice of what default Stat bonuses to give, consider the following:
 
-    - **Virtue and Vice** settings are those where personal traits and virtues naturally align with roles in harmonious or mystical worlds---and vices run counter to it, manifesting as a "dark side" to the good in the world. *E.g. for high fantasy, optimistic post-apocalyptic worlds, and allegorical fables.*
+    - **Virtue and Vice** settings are those where personal traits and virtues naturally align with roles in harmonious or mystical worlds--and vices run counter to it, manifesting as a "dark side" to the good in the world. *E.g. for high fantasy, optimistic post-apocalyptic worlds, and allegorical fables.*
     - **Fate and Knowledge** settings are those where individuals' traits connect them to mystical or supernatural forces, shaping their destinies through divine, cursed, or esoteric interactions. *E.g. for dark fantasy, occult fiction, and supernatural horror.*
     - **Cunning and Capability** settings are those where creativity, intellect, and guile define roles in intricate, high-stakes environments focused on survival, power, or ingenuity. *E.g. for  cyberpunk, spy fiction, and dystopian or noir worlds.*
 
