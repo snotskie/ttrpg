@@ -69,11 +69,11 @@ Each character in this game starts with one of three Lifestyles, described below
 !!! tip "Character Creation: Step Two!"
     Begin to describe the Lifestyle your character had growing up or their current outlook on life. As you do, pick one of the following Lifestyles to start the game with. These can be changed later in the [Session Shop](#Session-Shop).
 
-**🍀 Carefree:** Your character lives a relatively carefree life, perhaps because of your naivete, wealthy upbringing, or optimistic demeanor. Two of your Stats begin the game one die size larger, according to the table below. Work with your DM to know which column to use.
+**🍀 Carefree:** Your character lives a relatively carefree life, perhaps because of your naivete, wealthy upbringing, optimistic demeanor, or (in a darker setting) a nihilistic worldview. Two of your Stats begin the game one die size larger, according to the table below. Work with your DM to know which column to use.
 
-**🔥 Eager:** Your character is eager for more out of life, perhaps because of a rebellious phase, a yearning to accomplish your dreams, or a person you want to impress. Two of your Stats begin the game one die size larger, according to the table below. Work with your DM to know which column to use.
+**🔥 Eager:** Your character is eager for more out of life, perhaps because of a rebellious phase, a yearning to accomplish your dreams, a person you want to impress, or a mission or faith you believe strongly in. Two of your Stats begin the game one die size larger, according to the table below. Work with your DM to know which column to use.
 
-**🧘‍♀️ Wisened:** Life has not been easy on your character, but as a result you’ve come out wiser and tougher, perhaps because you've been shaped by unfortunate events or dedicated yourself to your work. Two of your Stats begin the game one die size larger, according to the table below. Work with your DM to know which column to use.
+**🧘‍♀️ Wisened:** Maybe life has not been easy on your character, but if so you’ve come out wiser and tougher. Perhaps you've been shaped by unfortunate events, you've dedicated yourself to your work, or (in some settings) you could take advantage of others easily because you understand how people work. Two of your Stats begin the game one die size larger, according to the table below. Work with your DM to know which column to use.
 
 ```@raw html
 <table>
