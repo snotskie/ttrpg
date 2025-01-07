@@ -206,7 +206,11 @@ Once per action, you may ignore the negative effects of one of your injuries or 
 
 ### Licensed Driver
 
-Whenever you would fail a Check or lose a Contest while transporting others, protect yourself for $+dc2$.
+Whenever you would fail a Check or lose a Contest to transport supplies or other characters, protect yourself for $+dc2$.
+
+### Transport Authority
+
+You gain access to a vehicle of your choice appropriate to the setting and within reason. Whenever you would fail a Check or lose a Contest while operating this vehicle, protect yourself. The amount you protect yourself by depends on the vehicle and the Stat used, ranging from $+0$ to $+dc4$. If this vehicle is lost, stolen, or destroyed, replacing it may require time and effort. *This Ability requires and extends Licensed Driver.*
 
 ---
 
