@@ -11,3 +11,9 @@ body, button, input, optgroup, select, textarea {
 body, html.theme--documenter-dark body, .admonition, html.theme--documenter-dark .admonition {
   font-size: 16pt;
 }
+
+/* Tweak hr style */
+hr {
+  background: rgba(180, 180, 180, 0.3) !important;
+  height: 0.28em !important;
+}
