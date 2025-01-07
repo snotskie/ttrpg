@@ -155,6 +155,8 @@ Characters in this game have a set of Abilities that grant them certain actions 
     
     You can gain additional Abilities later in the [Session Shop](#Session-Shop).
 
+---
+
 ### Survival Instinct
 
 Whenever you would fail a Check or lose a Contest while rolling your Hurry Stat, protect yourself for $+dc2$.
