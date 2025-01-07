@@ -155,65 +155,70 @@ Characters in this game have a set of Abilities that grant them certain actions 
     
     You can gain additional Abilities later in the [Session Shop](#Session-Shop).
 
-**Focused Determination:** Each time you bump your dice, increase the result of the roll by an additional $+1$.
+### Survival Instinct
 
-**Past Repeated:** Up to once per session, when you fail a Check or lose a non-violent Contest, you may choose to channel a past memory to guide you. If you do, for the rest of the scene, you may use your History Stat in place of the Stat you failed the Check or lost the Contest with, even for actions not typically covered by your History Stat.
-
-**Armored Skin:** Whenever you would lose a violent Contest as the Defender, protect yourself for $+dc2$.
+Whenever you would fail a Check or lose a Contest while rolling your Hurry Stat, protect yourself for $+dc2$.
 
 !!! note "Effect Wording: Protect Yourself for $+dcX$"
     Blue boxes like these provide explanation for common shorthanded wordings for effects in this game.
     
     When an effect describes a possibly failed Check or lost Contest and says to “protect yourself for $+dcX$,” you gain a $+dcX$ bonus to the roll, as though you were Helped by the trait that protected you, possibly turning the failure into a success or loss into a win. You can only be protected this way once per roll. If multiple effects would protect you this way during the same roll, only one of them applies and you choose which one to use.
 
-**Survival Instinct:** Whenever you would fail a Check or lose a Contest while rolling your Hurry Stat, protect yourself for $+dc2$.
+### Careful Resolve
 
-**Efficiently Packed:** Whenever you would fail a Check to see if you already have an item on you, protect yourself for $+dc2$.
+Whenever you would fail a Check while performing dangerous actions, protect yourself for $+dc2$. *This Ability requires and extends Survival Instinct.*
 
-**Careful Resolve:** Whenever you would fail a Check while performing dangerous actions, protect yourself for $+dc2$.
+!!! note "Effect Wording: Requires and Extends"
+    Some Abilities "require" another Ability. Such Abilities cannot be gained until you've first gained the required Ability.
 
-**Tactful Speech:** Whenever you would lose a Contest trying to persuade, influence, inspire, or deceive others, protect yourself for $+dc2$.
+    Some Abilities also "extend" another Ability. When you gain such an Ability, it does not count against your total number of Abilities. However, you can only extend any particular Ability once this way. If an Ability would extend an already extended Ability, it still does count against your total number of Abilities.
 
-**Sharp Recall:** Whenever you would fail a Check trying to recall information, protect yourself for $+dc2$.
+### Blessed by Responsiveness
 
-**Quickly Acclimated:** Whenever you would fail a Check against natural effects such as weather and disease, protect yourself for $+dc2$.
-
-**Licensed Driver:** Whenever you would fail a Check or lose a Contest while transporting others, protect yourself for $+dc2$.
-
-**Optimal Solution:** Up to twice per session, when you or a nearby ally attempt a roll for a non-violent Check or Contest, you may roll $4d6$; these dice do not bump. Group those dice into two piles of two dice such that a simple operation (addition or multiplication) could be performed to each pile so that the two operations' results would be equal. For example, if you rolled $1$, $1$, $1$, and $2$, you could group the piles such that $1×2=1+1$. If you are able to arrange the $4d6$ in such a way, you or your ally increases the result of their attempted roll by $+5$.
-
-**Shower Thoughts:** Up to once per session, when you are resting or performing leisure activity in a safe place, you may perform a roll using Head or Home. Then up to once before the end of the session, you may use the value of that roll instead of rolling for a Check or non-violent Contest using any Stat.
-
-**Synchronized Spark:** You may perform a Spark Stat Check using one of your Stats and one of the Stats of another willing character in the scene, so long as the chosen Stats are balanced, both characters have this ability, and the Blessing Die cost is paid between the two characters.
-
-**Ascendant Spark:** You may perform a non-violent Spark Stat Check using three Stats instead of two, so long as those Stats each use a $d8$ or larger and you pay double the Blessing Die cost as usual.
-
-**Advanced Training:** Increase the result of your rolls using a $d8$ or larger by $+1$.
-
-**Ease of Focus:** Up to once per roll, you may have one of your rolls using a $d8$ or larger bump when you roll a $2$ on the die.
-
-**Radical Self-Acceptance:** While you are Uncool, you may roll Checks using a different Basic Stat than normal. Then once a Check succeeds this way, you are no longer Uncool.
-
-**Honorable Combat:** You may attack honorably, using Hand for a violent Contest instead of Hurt as usual. If you would win the Contest with a Maximum outcome, you win with a Very Major outcome instead, which cannot be increased by other effects. Moreover, you leave yourself open to dirty tricks; if the Defender attacks you with Hurt at the same time, they gain a $+dc2$ bonus to the roll, as though Helped by your attempt at honorable combat.
-
-**Ambidexterity:** In a Monstrous Endeavor you may activate two muddle buttons per round.
-
-**Calling Card:** Up to once per Stealth Endeavor, when you would be made you may instead increase the alertness of the Endeavor.
-
-**Quick Scan:** Up to once per Discovery Endeavor, when a lay of the land is given, you may choose a type of glimmer button. More of that type will be added to the number line than usual.
-
-**Blessed by Luck:** When you fail a Check, you may attempt the Check again, using the newer result instead. Then this ability cannot be activated again until you spend ⑤ to recharge it.
+During an Endeavor involving three or more characters, when determining the Focal Action, you may reduce the result of your own roll to $0$. Then this ability cannot be activated again until you spend ② to recharge it. *This Ability requires and extends Survival Instinct.*
 
 !!! note "Effect Wording: Spend Ⓧ to Recharge"
-    Some abilities, once activated, cannot be activated again until they have been "recharged" by spending Ⓧ from your pool of Blessing Dice.
+    Some Abilities, once activated, cannot be activated again until they have been "recharged" by spending Ⓧ from your pool of Blessing Dice.
 
-**Blessed by Circumstance:** During a roll involving three or more characters, you may swap the results of two characters’ rolls. Then this ability cannot be activated again until you spend ⑤ to recharge it.
+---
 
-**Blessed by Responsiveness:** During an Endeavor involving three or more characters, when determining the Focal Action, you may reduce the result of your own roll to $0$. Then this ability cannot be activated again until you spend ② to recharge it.
+### Armored Skin
 
-**Blessed by Family:** You may attack recklessly, using Home for a violent Contest instead of Hurt as usual. This attack is potentially lethal to your target if you win, and you may sustain injuries if you lose. Then this ability cannot be activated again until you spend ④ to recharge it.
+Whenever you would lose a violent Contest as the Defender, protect yourself for $+dc2$.
 
-**Blessed by Charity:** When you visit a place of religious or spiritual importance, you may spend any number of ① as a donation or act of service to the place. The more spent this way, the greater a possible later boon may be, determined by the DM.
+### Blessed by Thorns
+
+When you lose a violent Contest at a close distance, you may have your Attackers receive a less severe version of the same injury you received from losing the Contest. Then this ability cannot be activated again until you spend ③ to recharge it. *This Ability requires and extends Armored Skin.*
+
+---
+
+### Quickly Acclimated
+
+Whenever you would fail a Check against natural effects such as weather and disease, protect yourself for $+dc2$.
+
+### Blessed by Conviction
+
+Once per action, you may ignore the negative effects of one of your injuries or conditions. Then this ability cannot be activated again until you spend ③ to recharge it.  *This Ability requires and extends Quickly Acclimated.*
+
+---
+
+### Licensed Driver
+
+Whenever you would fail a Check or lose a Contest while transporting others, protect yourself for $+dc2$.
+
+---
+
+### Blessed by Steadfastness
+
+Up to once per session, when you fail a Check or lose a Contest by $5$ or more, gain a Blessing.
+
+### Blessed by Family
+
+You may attack recklessly, using Home for a violent Contest instead of Hurt as usual. This attack is potentially lethal to your target if you win, and you may sustain injuries if you lose. Then this ability cannot be activated again until you spend ④ to recharge it. *This Ability requires and extends Blessed by Steadfastness.*
+
+### Blessed by Charity
+
+When you visit a place of religious or spiritual importance, you may spend any number of ① as a donation or act of service to the place. The more spent this way, the greater a possible later boon may be, determined by the DM. *This Ability requires and extends Blessed by Steadfastness.*
 
 !!! details "DM Note: Blessed by Charity's Boon"
     How you rule the boon given by the "Blessed by Charity" ability may vary by session, setting, scene, or even be determined in the moment when the players need it most.
@@ -224,29 +229,137 @@ Characters in this game have a set of Abilities that grant them certain actions 
     - Grant the player a $+2$ bonus to a roll in their time of need for each Blessing Dice donated. This is the simplest option presented here, and depending on the situation may feel satisfying or underwhelming.
     - Grant the player a $+X$ bonus to a roll in their time of need, where $X$ is the number of Blessing Dice donated. Then, have them roll $Xd6$; if they roll a $1$ on any of those dice, they gain the $+X$ bonus again and repeat this step. This option likely guarantees success on a vital roll, requires no prior planning, and can feel satisfyingly chaotic.
 
-**Blessed by Thorns:** When you lose a violent Contest at a close distance, you may have your Attackers receive a less severe version of the same injury you received from losing the Contest. Then this ability cannot be activated again until you spend ③ to recharge it.
+---
 
-**Blessed by Wits:** When you lose a non-violent Contest against a single Attacker, you may have the Attacker receive a less severe version of the same effect you received from losing the Contest. Then this ability cannot be activated again until you spend ③ to recharge it.
+### Blessed by Collaboration
 
-**Blessed by Steadfastness:** Up to once per session, when you fail a Check or lose a Contest by $5$ or more, gain a Blessing.
+Whenever you spend ①① or more to Help another character, they gain a bonus as though you had spent an additional ①①.
 
-**Blessed by Disruption:** When another character succeeds a Check or wins a Contest, you may modify that character’s result by $-3$, possibly turning their success into a failure or win into a loss. Then this ability cannot be activated again until you spend ⑤ to recharge it.
+### Synchronized Spark
 
-**Blessed by Intrigue:** Up to once per scene, you may end, begin, or modify one rumor. Then this ability cannot be activated again until you spend ⑤ to recharge it.
+You may perform a Spark Stat Check using one of your Stats and one of the Stats of another willing character in the scene, so long as the chosen Stats are balanced, both characters have this ability, and the Blessing Die cost is paid between the two characters. *This Ability requires and extends Blessed by Collaboration.*
 
-**Blessed by Drama:** Up to twice per session, when your character is not present in the scene, you may introduce something into the narrative, such as an item, a friend, an enemy, an event, a description, or so on. The DM will then improvise or riff on your idea. Then this ability cannot be activated again until you spend ⑤⑤ to recharge it.
+### Epic Storytelling
 
-**Blessed by Voices:** You may call upon a higher power, a criminal underground, a book of forbidden knowledge, or so on to gain access to secret information or an answer to a question that you wouldn't normally be able to do. This information may come with consequences. Then this ability cannot be activated again until you spend ④ to recharge it.
+Up to once per session, when your pool of Blessing Dice has a total combined worth of at least $10$, you may tell a rousing story or give a rousing speech. Each other character who hears the story or speech gains a Blessing Die. *This Ability requires and extends Blessed by Collaboration.*
 
-**Blessed by Insurance:** When a character fails a Check or loses a Contest to tend to your wounds, that character may turn the failure into a success or the loss into a win. Then this ability cannot be activated again until you spend ①①① to recharge it, and when it is recharged, increase the cost to recharge it by ①①.
+---
 
-**Blessed by Collaboration:** Whenever you spend ①① or more to Help another character, they gain a bonus as though you had spent an additional ①①. You may gain this Ability multiple times, with all instances of it counting as one total towards your number of Abilities.
+### Radical Self-Acceptance
 
-**Epic Storytelling:** Up to once per session, when your pool of Blessing Dice has a total combined worth of at least $10$, you may tell a rousing story or give a rousing speech. Each other character who hears the story or speech gains a Blessing Die.
+While you are Uncool, you may roll Checks using a different Basic Stat than normal. Then once a Check succeeds this way, you are no longer Uncool.
 
-**Epic Fortitude:** Up to once per session, when your pool of Blessing Dice has a total combined worth of at least $10$, you may declare boldly that you have exactly the right item or idea you need for the situation. When you succeed your next Check during the same scene, increase the size of the outcome to one rank higher than it would have been otherwise, such as from Minor to Medium.
+### Ascendant Spark
 
-**Epic Awkwardness:** Up to once per session, when your pool of Blessing Dice has a total combined worth of at least $10$, you may tell an cringy joke or perform an embarrassing dance. Each other character who hears the joke or witnesses the dance becomes Uncool.
+You may perform a non-violent Spark Stat Check using three Stats instead of two, so long as those Stats each use a $d8$ or larger and you pay double the Blessing Die cost as usual. *This Ability requires and extends Radical Self-Acceptance.*
+
+### Epic Awkwardness
+
+Up to once per session, when your pool of Blessing Dice has a total combined worth of at least $10$, you may tell an cringy joke or perform an embarrassing dance. Each other character who hears the joke or witnesses the dance becomes Uncool. *This Ability requires and extends Radical Self-Acceptance.*
+
+---
+
+### Efficiently Packed
+
+Whenever you would fail a Check to see if you already have an item on you, protect yourself for $+dc2$.
+
+### Blessed by Luck
+
+When you fail a Check, you may attempt the Check again, using the newer result instead. Then this ability cannot be activated again until you spend ⑤ to recharge it. *This Ability requires and extends Efficiently Packed.*
+
+### Epic Fortitude
+
+Up to once per session, when your pool of Blessing Dice has a total combined worth of at least $10$, you may declare boldly that you have exactly the right item or idea you need for the situation. When you succeed your next Check during the same scene, increase the size of the outcome to one rank higher than it would have been otherwise, such as from Minor to Medium. *This Ability requires and extends Efficiently Packed.*
+
+---
+
+### Tactful Speech
+
+Whenever you would lose a Contest trying to persuade, influence, inspire, or deceive others, protect yourself for $+dc2$.
+
+### Blessed by Wits
+
+When you lose a non-violent Contest against a single Attacker, you may have the Attacker receive a less severe version of the same effect you received from losing the Contest. Then this ability cannot be activated again until you spend ③ to recharge it. *This Ability requires and extends Tactful Speech.*
+
+### Blessed by Intrigue
+
+Up to once per scene, you may end, begin, or modify one rumor. Then this ability cannot be activated again until you spend ⑤ to recharge it. *This Ability requires and extends Tactful Speech.*
+
+---
+
+### Line of Credit
+
+Whenever you would fail a Check or lose a Contest while purchasing goods or services, protect yourself for $+dc2$.
+
+### Blessed by Insurance
+
+When a character fails a Check or loses a Contest to tend to your wounds, that character may turn the failure into a success or the loss into a win. Then this ability cannot be activated again until you spend ①①① to recharge it, and when it is recharged, increase the cost to recharge it by ①①. *This Ability requires and extends Line of Credit.*
+
+### Blessed by Voices
+
+You may call upon a higher power, a criminal underground, a book of forbidden knowledge, or so on to gain access to secret information or an answer to a question that you wouldn't normally be able to do. This information may come with consequences. Then this ability cannot be activated again until you spend ④ to recharge it. *This Ability requires and extends Line of Credit.*
+
+---
+
+### Sharp Recall
+
+Whenever you would fail a Check trying to recall information, protect yourself for $+dc2$.
+
+### Optimal Solution
+
+Up to twice per session, when you or a nearby ally attempt a roll for a non-violent Check or Contest, you may roll $4d6$; these dice do not bump. Group those dice into two piles of two dice such that a simple operation (addition or multiplication) could be performed to each pile so that the two operations' results would be equal. For example, if you rolled $1$, $1$, $1$, and $2$, you could group the piles such that $1×2=1+1$. If you are able to arrange the $4d6$ in such a way, you or your ally increases the result of their attempted roll by $+5$. *This Ability requires and extends Sharp Recall.*
+
+### Shower Thoughts
+
+Up to once per session, when you are resting or performing leisure activity in a safe place, you may perform a roll using Head or Home. Then up to once before the end of the session, you may use the value of that roll instead of rolling for a Check or non-violent Contest using any Stat. *This Ability requires and extends Sharp Recall.*
+
+---
+
+### Advanced Training
+
+Increase the result of your rolls using a $d8$ or larger by $+1$.
+
+### Ease of Focus
+
+Your rolls using a $d8$ or larger also bump when you roll a $2$ on the die. *This Ability requires and extends Advanced Training.*
+
+### Focused Determination
+
+Each time you bump your dice, increase the result of the roll by an additional $+1$. *This Ability requires and extends Advanced Training.*
+
+### Ambidexterity
+
+In a Monstrous Endeavor you may activate two muddle buttons per round. *This Ability requires and extends Advanced Training.*
+
+### Calling Card
+
+Up to once per Stealth Endeavor, when you would be made you may instead increase the alertness of the Endeavor. *This Ability requires and extends Advanced Training.*
+
+### Quick Scan
+
+Up to once per Discovery Endeavor, when a lay of the land is given, you may choose a type of glimmer button. More of that type will be added to the number line than usual. *This Ability requires and extends Advanced Training.*
+
+### Honorable Combat
+
+You may attack honorably, using Hand for a violent Contest instead of Hurt as usual. If you would win the Contest with a Maximum outcome, you win with a Very Major outcome instead, which cannot be increased by other effects. Moreover, you leave yourself open to dirty tricks; if the Defender attacks you with Hurt at the same time, they gain a $+dc2$ bonus to the roll, as though Helped by your attempt at honorable combat. *This Ability requires and extends Advanced Training.*
+
+---
+
+### Blessed by Circumstance
+
+During a roll involving three or more characters, you may swap the results of two characters’ rolls. Then this ability cannot be activated again until you spend ⑤ to recharge it. *This Ability requires a $d8$ or larger in Head or Hurry.*
+
+### Blessed by Disruption
+
+When another character succeeds a Check or wins a Contest, you may modify that character’s result by $-3$, possibly turning their success into a failure or win into a loss. Then this ability cannot be activated again until you spend ⑤ to recharge it. *This Ability requires a $d8$ or larger in Hand or Hurt.*
+
+### Blessed by Drama
+
+Up to twice per session, when your character is not present in the scene, you may introduce something into the narrative, such as an item, a friend, an enemy, an event, a description, or so on. The DM will then improvise or riff on your idea. Then this ability cannot be activated again until you spend ⑤⑤ to recharge it. *This Ability requires a $d8$ or larger in Heart or Home.*
+
+### Past Repeated
+
+Up to once per session, when you fail a Check or lose a non-violent Contest, you may choose to channel a past memory to guide you. If you do, for the rest of the scene, you may use your History Stat in place of the Stat you failed the Check or lost the Contest with, even for actions not typically covered by your History Stat. *This Ability requires a $d8$ or larger in History.*
 
 !!! details "DM Note: Replacing Abilities"
     Mechanically, there is no way for a character to lose or replace a Ability. However, you and your player may feel it is narratively appropriate to reflect their character's growth in response to powerful story events. How you rule the change of Abilities is up to you, as the best approach can vary from story to story.
@@ -284,29 +397,29 @@ You may also spend ①①① to receive an additional upgrade beyond the one you
 !!! compat "Carefree Upgrade Options"
     If your starting Lifestyle was Carefree, you may upgrade your Lifestyle to Blossomed, Prodigious, or Crafty. If you do, you receive this upgrade at the end of the following session.
 
-    **🌼 Blossomed:** Your carefree nature has kept you safe from harm and surrounded by friends. When you have sparks, they might take on a free and connected aspect. Whenever you would fail a Check or lose a Contest while performing a Spark Stat Check using Heart or Hurry, protect yourself for $+dc2$, as though you were Helped by the love and connectedness you feel for those around you. You also gain the "Epic Storytelling" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
+    **🌼 Blossomed:** Your carefree nature has kept you safe from harm and surrounded by friends. When you have sparks, they might take on a free and connected aspect. Whenever you would fail a Check or lose a Contest while performing a Spark Stat Check using Heart or Hurry, protect yourself for $+dc2$, as though you were Helped by the love and connectedness you feel for those around you.
     
-    **🔮 Prodigious:** Your studies have come effortlessly to you, and secrets almost seem to just reveal themselves to you. When you have sparks, they might take on a sorcerous or uninhibited aspect. Whenever you would fail a Check or lose a Contest while performing a Spark Stat Check using Head or Hurt, protect yourself for $+dc2$, as though you were Helped by a raw innate power. You also gain the "Blessed by Voices" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
+    **🔮 Prodigious:** Your studies have come effortlessly to you, and secrets almost seem to just reveal themselves to you. When you have sparks, they might take on a sorcerous or uninhibited aspect. Whenever you would fail a Check or lose a Contest while performing a Spark Stat Check using Head or Hurt, protect yourself for $+dc2$, as though you were Helped by a raw innate power.
 
-    **🧶 Crafty:** You can envision amazing designs and, it seems, to bring them to life. When you have sparks, they might take on an autonomous or lucky aspect. Whenever you would fail a Check or lose a Contest while performing a Spark Stat Check using Hand or Home, protect yourself for $+dc2$, as though you were Helped by your own sudden creativity. You also gain the "Efficiently Packed" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
+    **🧶 Crafty:** You can envision amazing designs and, it seems, to bring them to life. When you have sparks, they might take on an autonomous or lucky aspect. Whenever you would fail a Check or lose a Contest while performing a Spark Stat Check using Hand or Home, protect yourself for $+dc2$, as though you were Helped by your own sudden creativity.
 
 !!! compat "Eager Upgrade Options"
     If your starting Lifestyle was Eager, you may upgrade your Lifestyle to Driven, Chosen, or Wired. If you do, you receive this upgrade at the end of the following session.
 
-    **⚜️ Driven:** Your eager drive has found purchase in a great mission or calling. When you have sparks, they might take on an incorrigible or resolute aspect. Whenever you would fail a Check or lose a Contest while performing a Spark Stat Check using Hand or Hurt, protect yourself for $+dc2$, as though you were Helped by your own faith in your mission. You also gain the "Epic Fortitude" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
+    **⚜️ Driven:** Your eager drive has found purchase in a great mission or calling. When you have sparks, they might take on an incorrigible or resolute aspect. Whenever you would fail a Check or lose a Contest while performing a Spark Stat Check using Hand or Hurt, protect yourself for $+dc2$, as though you were Helped by your own faith in your mission.
 
-    **✨ Chosen:** You draw inspiration from the community around you, setting out on your journeys blessed, favored, or even cursed. When you have sparks, they might take on a divine or noble aspect. Whenever you would fail a Check or lose a Contest while performing a Spark Stat Check using Heart or Home, protect yourself for $+dc2$, as though you were Helped by the will of the people whose lives you've touched. You also gain the "Blessed by Charity" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
+    **✨ Chosen:** You draw inspiration from the community around you, setting out on your journeys blessed, favored, or even cursed. When you have sparks, they might take on a divine or noble aspect. Whenever you would fail a Check or lose a Contest while performing a Spark Stat Check using Heart or Home, protect yourself for $+dc2$, as though you were Helped by the will of the people whose lives you've touched.
 
-    **⚡ Wired:** Your mind is quick and analytical, and you can see solutions to problems that are unimaginably complex. When you have sparks, they might take on a calculating or duplicative aspect. Whenever you would fail a Check or lose a Contest while performing a Spark Stat Check using Head or Hurry, protect yourself for $+dc2$, as though you were Helped by your own mind palace. You also gain the "Ease of Focus" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
+    **⚡ Wired:** Your mind is quick and analytical, and you can see solutions to problems that are unimaginably complex. When you have sparks, they might take on a calculating or duplicative aspect. Whenever you would fail a Check or lose a Contest while performing a Spark Stat Check using Head or Hurry, protect yourself for $+dc2$, as though you were Helped by your own mind palace.
 
 !!! compat "Wisened Upgrade Options"
     If your starting Lifestyle was Wisened, you may upgrade your Lifestyle to Steadfast, Warry, or Compelling. If you do, you receive this upgrade at the end of the following session.
 
-    **🪬 Steadfast:** Your wise steadiness and alertness have made you adept at warding off harm and protecting your loved ones. When you have sparks, they might take on a firm or dispelling aspect. Whenever you would fail a Check or lose a Contest while performing a Spark Stat Check using Head or Home, protect yourself for $+dc2$, as though you were Helped by your care for others. You also gain the "Epic Awkwardness" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
+    **🪬 Steadfast:** Your wise steadiness and alertness have made you adept at warding off harm and protecting your loved ones. When you have sparks, they might take on a firm or dispelling aspect. Whenever you would fail a Check or lose a Contest while performing a Spark Stat Check using Head or Home, protect yourself for $+dc2$, as though you were Helped by your care for others.
 
-    **👁️ Warry:** You are one with the natural and supernatural worlds around you, and you have a keen sense of danger and safety. When you have sparks, they might take on an astral or prophetic aspect. Whenever you would fail a Check or lose a Contest while performing a Spark Stat Check using Hand or Hurry, protect yourself for $+dc2$, as though you were Helped by knowledge only you could know in that moment. You also gain the "Past Repeated" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
+    **👁️ Warry:** You are one with the natural and supernatural worlds around you, and you have a keen sense of danger and safety. When you have sparks, they might take on an astral or prophetic aspect. Whenever you would fail a Check or lose a Contest while performing a Spark Stat Check using Hand or Hurry, protect yourself for $+dc2$, as though you were Helped by knowledge only you could know in that moment.
 
-    **👄 Compelling:** You seem able to spin any loss into a win--or vice versa--, and you are a sly, tactical force to be reckoned with. When you have sparks, they might take on an illusory or vicious aspect. Whenever you would fail a Check or lose a Contest while performing a Spark Stat Check using Heart or Hurt, protect yourself for $+dc2$, as though you were Helped by your own ambition. You also gain the "Tactful Speech" Ability and it does not count against the number of Abilities you have; if you already have this Ability you may gain another instead.
+    **👄 Compelling:** You seem able to spin any loss into a win--or vice versa--, and you are a sly, tactical force to be reckoned with. When you have sparks, they might take on an illusory or vicious aspect. Whenever you would fail a Check or lose a Contest while performing a Spark Stat Check using Heart or Hurt, protect yourself for $+dc2$, as though you were Helped by your own ambition.
 
 !!! compat "Lost Upgrade Options"
     Regardless of your starting Lifestyle, you may upgrade your Lifestyle to Lost. If you do, you receive this upgrade at the end of the following session.
@@ -316,7 +429,7 @@ You may also spend ①①① to receive an additional upgrade beyond the one you
     **💎 Lost:** You feel a disconnect from your own past or former sense of self, perhaps because of an exile from your home, an erased memory, or a period of transition or deep self-reflection. When you have sparks, they might take on an erratic or liminal aspect. Whenever you would fail a Check or lose a Contest while performing a Spark Stat Check using History, protect yourself for $+dc2$, as though you were Helped by your quest for self-discovery.
 
 !!! compat "Ability Upgrade Options"
-    You may use your upgrade to gain an additional Ability, to a maximum of four Abilities gained this way. If you do, you receive this upgrade at the end of the following session.
+    You may use your upgrade to gain an additional Ability, up to a maximum of five total Abilities. If you do, you receive this upgrade at the end of the following session.
     
     When you gain your final Ability this way, you may instead create one of your own and gain it, within reason.
 
