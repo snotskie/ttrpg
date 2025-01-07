@@ -192,15 +192,23 @@ Whenever you would lose a violent Contest as the Defender, protect yourself for 
 
 When you lose a violent Contest at a close distance, you may have your Attackers receive a less severe version of the same injury you received from losing the Contest. Then this ability cannot be activated again until you spend ③ to recharge it. *This Ability requires and extends Armored Skin.*
 
+### Blessed by Sentry
+
+When another nearby character would be the Defender in a violent Contest, before they roll, you may become the Defender in that Contest instead. Then this ability cannot be activated again until you spend ③ to recharge it. *This Ability requires and extends Armored Skin.*
+
 ---
 
-### Quickly Acclimated
+### Quick Acclimation
 
 Whenever you would fail a Check against natural effects such as weather and disease, protect yourself for $+dc2$.
 
+### Best Friend
+
+You gain access to a creature companion of your choice appropriate to the setting and within reason. Whenever you would fail a Check or lose a Contest while working with and alongside your companion, protect yourself. The amount you protect yourself by depends on the companion and the Stat used, ranging from $+0$ to $+dc4$. If this companion is lost, stolen, destroyed, or you lose its loyalty, replacing it may require time and effort. *This Ability requires and extends Quick Acclimation.*
+
 ### Blessed by Conviction
 
-Once per action, you may ignore the negative effects of one of your injuries or conditions. Then this ability cannot be activated again until you spend ③ to recharge it.  *This Ability requires and extends Quickly Acclimated.*
+Once per action, you may ignore the negative effects of one of your injuries or conditions. Then this ability cannot be activated again until you spend ③ to recharge it.  *This Ability requires and extends Quick Acclimation.*
 
 ---
 
@@ -211,6 +219,10 @@ Whenever you would fail a Check or lose a Contest to transport supplies or other
 ### Transport Authority
 
 You gain access to a vehicle of your choice appropriate to the setting and within reason. Whenever you would fail a Check or lose a Contest while operating this vehicle, protect yourself. The amount you protect yourself by depends on the vehicle and the Stat used, ranging from $+0$ to $+dc4$. If this vehicle is lost, stolen, or destroyed, replacing it may require time and effort. *This Ability requires and extends Licensed Driver.*
+
+### Blessed by Copilots
+
+While transporting others, you may designate one or more other characters you are transporting. When they Help you during that transport, their costs to do so are reduced by ①. *This Ability requires and extends Licensed Driver.*
 
 ---
 
