@@ -452,7 +452,7 @@ Work with your DM to know which to expect in your campaign:
 
 - [Discovery Endeavors](endeavors/discovery.md)
 - [Monstrous Endeavors](endeavors/monstrous.md)
-- [Race Endeavors]()
+- [Race Endeavors](endeavors/race.md)
 - [Stealth Endeavors](endeavors/stealth.md)
 
 ## Conditions
