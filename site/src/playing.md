@@ -444,16 +444,17 @@ To perform an Endeavor:
 
     Then use the results to improvise the narrative at that scale before returning to the view of how that large-scale narrative makes itself known at the smaller player character scale.
 
-### Special Types of Endeavors
+## Special Endeavors
 
 There are a number of special types of Endeavors in this game, which add additional obstacles, actions, restrictions, and win conditions to the basic rules for Endeavors described above.
 
 Work with your DM to know which to expect in your campaign:
 
-- [Discovery Endeavors](endeavors/discovery.md)
-- [Monstrous Endeavors](endeavors/monstrous.md)
-- [Race Endeavors](endeavors/race.md)
-- [Stealth Endeavors](endeavors/stealth.md)
+- [🛡️ Clash Endeavors]()
+- [🔎 Discovery Endeavors](endeavors/discovery.md)
+- [🧟 Monstrous Endeavors](endeavors/monstrous.md)
+- [🏇 Race Endeavors](endeavors/race.md)
+- [💣 Stealth Endeavors](endeavors/stealth.md)
 
 ## Conditions
 
