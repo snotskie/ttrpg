@@ -1,6 +1,6 @@
 # Clash Endeavors
 
-Some campaigns or sessions may involve the player characters summoning, rallying, or inspiring allies to face off against an opposing side's summoned, rallied, or inspired allies--such as soldiers in your command, athletes you are coaching, creature companions one has befriended, knights dueling as your champions, spirits you are channeling, or spectral monsters you've summoned by playing music so well!
+Some campaigns or sessions may involve the player characters summoning, rallying, or inspiring allies to face off against an opposing side's summoned, rallied, or inspired allies--such as soldiers in your command, athletes you are coaching, creature companions you have befriended, knights dueling as your champions, spirits you are channeling, or spectral monsters you've summoned by playing music so well!
 
 These sorts of Endeavors are run like any other Endeavor, with the following additions:
 
