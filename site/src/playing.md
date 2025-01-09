@@ -450,7 +450,7 @@ There are a number of special types of Endeavors in this game, which add additio
 
 Work with your DM to know which to expect in your campaign:
 
-- [🛡️ Clash Endeavors]()
+- [🛡️ Clash Endeavors](endeavors/clash.md)
 - [🔎 Discovery Endeavors](endeavors/discovery.md)
 - [🧟 Monstrous Endeavors](endeavors/monstrous.md)
 - [🏇 Race Endeavors](endeavors/race.md)
