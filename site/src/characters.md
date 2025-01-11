@@ -11,19 +11,19 @@ Each character in this game has a small number of Basic Stats, the "H’s of Hum
     
     As you do, begin to think about the story your character takes on in your mind. Why are they good at this and not at that? Why is one important to them and not the other? What are they trying to improve? What do they like getting help from others on?
 
-**🧠 Head:** Intellectual pursuits, problem solving, puzzles, riddles, scanning for information, recalling facts, insight, reasoning, operating and building complex machines, playing practiced music. With a high Head Stat you can tackle intellectual puzzles with ease. With a low Head Stat you may find yourself confounded easily or solutions to puzzles just outside your reach
+**🧠 Head:** Intellectual pursuits, problem solving, puzzles, riddles, scanning for information, recalling facts, insight, reasoning, operating and building complex machines, playing practiced music, picking locks. With a high Head Stat you can tackle intellectual puzzles with ease. With a low Head Stat you may find yourself confounded easily or solutions to puzzles just outside your reach.
 
-**✌️ Hand:** Athletic pursuits, sleight of hand, activities that require physical training, raw non-violent strength, moving quietly. With a high Hand Stat you are in complete control of your physical efforts. With a low Hand Stat you may tire easily or loud, clanky obstacles might somehow always be in your way
+**✌️ Hand:** Athletic pursuits, endurance, activities that require physical training, raw non-violent strength, moving quietly, pickpocketing. With a high Hand Stat you are in complete control of your physical efforts. With a low Hand Stat you may tire easily or loud, clanky obstacles might somehow always be in your way.
 
-**💕 Heart:** Speaking with passion, understanding others, reading emotions, playing music improvisationally. With a high Heart Stat you understand others' intentions easily and can act accordingly. With a low Heart Stat others maybe just aren't as enthused about your interests as you are
+**💕 Heart:** Speaking with passion, understanding others, reading emotions, playing music improvisationally, creating expressive art, performing sleights of hand for an audience. With a high Heart Stat you understand others' intentions easily and can act accordingly. With a low Heart Stat others maybe just aren't as enthused about your interests as you are.
 
-**🩹 Home:** Protecting yourself and loved ones, taking hits, tending to wounds, shopping, scavenging, survival skills, cooking, navigating towns and dwellings, remaining calm, staying alert, coming prepared. With a high Home Stat you can easily be depended upon in situations both mundane and dire. With a low Home Stat your estimates of health and money matters might frequently be off or you seem to always misplace things
+**🩹 Home:** Protecting yourself and loved ones, tending to illness and wounds, shopping, crafting, scavenging, camping, cooking, remaining calm, staying alert, coming prepared. With a high Home Stat you can easily be depended upon in situations both mundane and dire. With a low Home Stat your estimates of health and money matters might frequently be off or you seem to always misplace things.
 
-**👿 Hurt:** Nerve and willingness to inflict harm on others. With a high Hurt Stat you can easily steel your resolve when the time calls for violent answers. With a low Hurt Stat your caring for others' well-being seems to extend even to your enemies
+**👿 Hurt:** Nerve and willingness to inflict harm on others. With a high Hurt Stat you can easily steel your resolve when the time calls for violent answers. With a low Hurt Stat your caring for others' well-being seems to extend even to your enemies.
 
-**⚠️ Hurry:** Escaping danger, reacting by instinct, surges of adrenaline. With a high Hurry Stat you find that your body moves easily to keep you safe from danger. With a low Hurry Stat you might freeze up more often than you'd like
+**⚠️ Hurry:** Escaping danger, reacting by instinct, surges of adrenaline. With a high Hurry Stat you find that your body moves easily to keep you safe from danger. With a low Hurry Stat you might freeze up more often than you'd like.
 
-**⏳ History:** Narrative touchstones representing your unique specializations, skills, proficiencies, hardships, and other aspects covered by your character's backstory and the history of their people, but not covered by or more specific than the other Basic Stats above. With a high History Stat you have achieved the specialized training you set out to achieve. With a low History Stat your specific worries and weaknesses seem to creep up more often
+**⏳ History:** Narrative touchstones representing your unique specializations, skills, proficiencies, hardships, and other aspects covered by your character's backstory and the history of their people, but not covered by or more specific than the other Basic Stats above. With a high History Stat you have achieved the specialized training you set out to achieve. With a low History Stat your specific worries and weaknesses seem to creep up more often.
 
 When you begin the game, most of your Basic Stats are equal, using a $d4$ for their Basic Stat Checks. However, the Basic Stat you ranked as your highest Stat begins the game one die size larger. Your Lifestyle also increases your starting Basic Stat dice.
 
@@ -232,7 +232,7 @@ Up to once per session, when you fail a Check or lose a Contest by $5$ or more, 
 
 ### Blessed by Family
 
-You may attack recklessly, using Home for a violent Contest instead of Hurt as usual. This attack is potentially lethal to your target if you win, and you may sustain injuries if you lose. Then this ability cannot be activated again until you spend ④ to recharge it. *This Ability requires and extends Blessed by Steadfastness.*
+You may attack recklessly to defend your loved ones, using Home for a violent Contest instead of Hurt as usual. This attack is potentially lethal to your target if you win, and you may sustain injuries if you lose. Then this ability cannot be activated again until you spend ④ to recharge it. *This Ability requires and extends Blessed by Steadfastness.*
 
 ### Blessed by Charity
 
