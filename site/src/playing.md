@@ -460,7 +460,9 @@ Work with your DM to know which to expect in your campaign:
 
 ### Wounds
 
-You do not have "hit points" in this game. Instead, wounds shape the narrative arcs of the game; the worse the wound, the greater and longer lasting the impact.
+You do not have "hit points" in this game. Nor do you have any "defensive" Stats. When you're hit, you're hit.
+
+In this game, wounds shape narrative arcs. The worse the wound, the longer lasting the impact and the greater lengths you may have to go to treat them.
 
 !!! details "DM Note: Describing Wounds"
     When describing the results of wounds dealt to or by the player characters, don't only rely on status conditions or descriptions of injuries.
@@ -490,18 +492,23 @@ While you are Uncool, all rolls you make are modified by $-1$. Once during each 
 
     So when you build the narrative around how a character becomes Uncool and what this means for their connections to other characters, keep in the back of your head how you could use these same connections later to remove the condition and offer the player a chance to roleplay growth from their earlier failure.
 
+### Aches, Pains, Weaknesses, and Vulnerabilities
+
+Injuries you receive may affect specific Stats, and these effects may range in degree. The lowest degree are "aches," and the worst are "vulnerabilities."
+
+- **Ache:** For example, Headache, Handcramp, Heartache, and Homesick. Rolls you make with the affected Stat that would roll the highest value on the die instead roll the second highest. This condition lasts until the end of the scene.
+- **Pain:** For example, Migraine, Soreness, Sadness, and Robbery. Rolls you make with the affected Stat are made with a $-1$ modifier. This condition lasts until you rest in a safe place.
+- **Weakness:** For example, Confusion, Exhaustion, Dejection, and Illness. Rolls you make with the affected Stat cannot receive Help, including Help from items, Abilities, or situations. This condition lasts until it is treated.
+- **Vulnerability:** For example, Memory Loss, Numbness, Wretchedness, and Destitution. When an opposing character witnesses you perform a roll using the affected Stat, they may have you perform the roll again and use the new value. This condition lasts until it is treated.
+
 ### Example Conditions
 
-While most effects help shape the narrative of the game, your DM may find it appropriate to apply conditions to characters when the situation calls for it. Some example conditions are given below:
+While most effects help shape the narrative of the game, your DM may find it appropriate to apply other conditions to characters when the situation calls for it. Some example conditions are given below:
 
-- **Headache/Handcramp/Heartache/Homesick:** Rolls you make with the affected Stat that would roll the highest value on the die instead roll the second highest. This condition lasts until the end of the scene.
-- **Confused/Exhausted/Dejected/Ill:** Rolls you make with the affected Stat cannot receive Help, including Help from items, Abilities, or situations.
-- **Weakened:** Rolls you make as a Defender in violent Contests that would roll the highest value on the die instead roll the second highest. Resting or tending to your wounds ends this condition.
 - **Agreeable to $X$:** Rolls you make as a Defender in non-violent Contests where $X$ is an Attacker that would roll the highest value on the die instead roll the second highest. If $X$ does an action or makes a request that would bring you harm, this condition ends.
 - **Famous:** You may exert your fame over a character who is less famous than you, gaining a $+dc2$ bonus in a Contest against them. You may not do so against the same character twice or while you are Uncool.
-- **Head/Hand/Heart/Home Cursed by $X$:** When $X$ witnesses you perform a roll using the affected Stat, $X$ may have you perform the roll again and use the new value. If they do, this condition ends.
 - **Muddled:** The next roll you make when determining the Focal Action in an Endeavor is made with a $-2$ modifier. Then, this condition ends.
-- **Exhausted/Cursed:** Dice in your pool of Blessing Dice are each worth $1$ less, to a minimum of $0$. This condition ends when you remove its cause.
+- **Cursed:** Dice in your pool of Blessing Dice are each worth $1$ less, to a minimum of $0$. This condition ends when you remove its cause.
 - **Distracted:** Rolls you make do not bump. This condition ends when you remove its cause.
 - **Disarmed:** If you would win a violent Contest as the Attacker with a Maximum outcome, you win with a Very Major outcome instead. When you find a new weapon or take a moment to recompose yourself, this condition ends.
 - **Taxed:** You cannot perform Spark Stat Checks. Spending ①① ends this condition.
