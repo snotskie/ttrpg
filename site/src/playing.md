@@ -330,7 +330,22 @@ Sometimes characters want to complete actions together as a group.
 
 One way is to provide Help to one roll that leads the group's action. Some members of the group may decide not to roll and instead wait for the group leader to roll, then provide Help to the leader by spending Blessings to increase the result of the roll.
 
-Another way is for each character to attempt the action, using the median of their rolls. If multiple characters are Attackers together in a Contest, Defenders together in a Contest, or are performing a coordinated Check, then they may each perform their respective rolls and use the median of their results as the group's shared result. If the group roll had an even number of individual rolls, then the higher of the two median rolls is used.
+Another way is for each character to attempt the action, using the median of their rolls. If multiple characters are Attackers together in a Contest, Defenders together in a Contest, or are performing a coordinated Check, then they may each perform their respective rolls and use the median of their results as the group's shared result. If the group roll had an even number of individual rolls, then the higher of the two median rolls is used. The table below provides a quick reference.
+
+```@raw html
+<table>
+  <tr>
+    <th scope="col">Group size</th>
+    <th scope="col">Roll used</th>
+  </tr>
+  <tr> <td>$2$</td> <td>Highest</td> </tr>
+  <tr> <td>$3$</td> <td>Second highest</td> </tr>
+  <tr> <td>$4$</td> <td>Second highest</td> </tr>
+  <tr> <td>$5$</td> <td>Third highest</td> </tr>
+  <tr> <td>$6$</td> <td>Third highest</td> </tr>
+  <tr> <td>$7$</td> <td>Fourth highest</td> </tr>
+</table>
+```
 
 These two approaches may even be combined, with some members rolling and taking their median, and the other members providing Help on top of that median. However, a group member cannot both roll and Help for the same action.
 
@@ -392,12 +407,12 @@ To perform an Endeavor:
     <td></td>
     <th scope="col">Spaces Moved</th>
   </tr>
-  <tr> <th scope="row">Very Minor</th> <td>1</td> </tr>
-  <tr> <th scope="row">Minor</th> <td>2</td> </tr>
-  <tr> <th scope="row">Medium</th> <td>3</td> </tr>
-  <tr> <th scope="row">Major</th> <td>5</td> </tr>
-  <tr> <th scope="row">Very Major</th> <td>8</td> </tr>
-  <tr> <th scope="row">Maximum</th> <td>13</td> </tr>
+  <tr> <th scope="row">Very Minor</th> <td>$1$</td> </tr>
+  <tr> <th scope="row">Minor</th> <td>$2$</td> </tr>
+  <tr> <th scope="row">Medium</th> <td>$3$</td> </tr>
+  <tr> <th scope="row">Major</th> <td>$5$</td> </tr>
+  <tr> <th scope="row">Very Major</th> <td>$8$</td> </tr>
+  <tr> <th scope="row">Maximum</th> <td>$13$</td> </tr>
 </table>
 ```
 
