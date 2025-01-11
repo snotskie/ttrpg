@@ -494,7 +494,7 @@ While you are Uncool, all rolls you make are modified by $-1$. Once during each 
 
 ### Aches, Pains, Weaknesses, and Vulnerabilities
 
-Injuries you receive may affect specific Stats, and these effects may range in degree. The lowest degree are "aches," and the worst are "vulnerabilities."
+Injuries you receive may affect specific Stats, and these effects may range in degree. The lowest degree injury conditions are "aches," and the worst are "vulnerabilities."
 
 - **Ache:** For example, Headache, Handcramp, Heartache, and Homesick. Rolls you make with the affected Stat that would roll the highest value on the die instead roll the second highest. This condition lasts until the end of the scene.
 - **Pain:** For example, Migraine, Soreness, Sadness, and Robbery. Rolls you make with the affected Stat are made with a $-1$ modifier. This condition lasts until you rest in a safe place.
@@ -506,7 +506,7 @@ Injuries you receive may affect specific Stats, and these effects may range in d
 While most effects help shape the narrative of the game, your DM may find it appropriate to apply other conditions to characters when the situation calls for it. Some example conditions are given below:
 
 - **Agreeable to $X$:** Rolls you make as a Defender in non-violent Contests where $X$ is an Attacker that would roll the highest value on the die instead roll the second highest. If $X$ does an action or makes a request that would bring you harm, this condition ends.
-- **Famous:** You may exert your fame over a character who is less famous than you, gaining a $+dc2$ bonus in a Contest against them. You may not do so against the same character twice or while you are Uncool.
+- **Famous:** You may exert your fame over a character who is less famous than you, gaining a $+dc2$ bonus in a Contest against them. You may not do so against the same character more than once during the same session or while you are Uncool.
 - **Muddled:** The next roll you make when determining the Focal Action in an Endeavor is made with a $-2$ modifier. Then, this condition ends.
 - **Cursed:** Dice in your pool of Blessing Dice are each worth $1$ less, to a minimum of $0$. This condition ends when you remove its cause.
 - **Distracted:** Rolls you make do not bump. This condition ends when you remove its cause.
