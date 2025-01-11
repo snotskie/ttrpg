@@ -247,7 +247,7 @@ Whenever you would fail a Check or lose a Contest to transport supplies or other
 
 You gain access to a vehicle of your choice appropriate to the setting and within reason. Whenever you would fail a Check or lose a Contest while operating this vehicle, protect yourself. The amount you protect yourself by depends on the vehicle and the Stat used, ranging from $+0$ to $+dc4$. If this vehicle is lost, stolen, or destroyed, replacing it may require time and effort. *This Ability requires and extends Licensed Driver.*
 
-### Blessèd Convey
+### Blessèd Convoy
 
 While transporting others, you may designate one or more other characters you are transporting. When they Help you during that transport, their costs to do so are reduced by ①. *This Ability requires and extends Licensed Driver.*
 
@@ -257,7 +257,7 @@ While transporting others, you may designate one or more other characters you ar
 
 Up to once per session, when you fail a Check or lose a Contest by $5$ or more, gain a Blessing.
 
-### Blessèd Family
+### Blessèd Anger
 
 You may attack recklessly to defend your loved ones, using Home for a violent Contest instead of Hurt as usual. This attack is potentially lethal to your target if you win, and you may sustain injuries if you lose. Then this ability cannot be activated again until you spend ④ to recharge it. *This Ability requires and extends Blessèd Steadfastness.*
 
