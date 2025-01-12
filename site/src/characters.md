@@ -17,7 +17,7 @@ Each character in this game has a small number of Basic Stats, the "H’s of Hum
 
 **💕 Heart:** Speaking with passion, understanding others, reading emotions, playing music improvisationally, creating expressive art, performing sleights of hand for an audience. With a high Heart Stat you understand others' intentions easily and can act accordingly. With a low Heart Stat others maybe just aren't as enthused about your interests as you are.
 
-**🩹 Home:** Protecting yourself and loved ones, tending to illness and wounds, shopping, crafting, scavenging, camping, cooking, remaining calm, staying alert, coming prepared. With a high Home Stat you can easily be depended upon in situations both mundane and dire. With a low Home Stat your estimates of health and money matters might frequently be off or you seem to always misplace things.
+**☕ Home:** Protecting yourself and loved ones, tending to illness and wounds, shopping, crafting, scavenging, camping, cooking, remaining calm, staying alert, coming prepared. With a high Home Stat you can easily be depended upon in situations both mundane and dire. With a low Home Stat your estimates of health and money matters might frequently be off or you seem to always misplace things.
 
 **👿 Hurt:** Nerve and willingness to inflict harm on others. With a high Hurt Stat you can easily steel your resolve when the time calls for violent answers. With a low Hurt Stat your caring for others' well-being seems to extend even to your enemies.
 
