@@ -157,8 +157,6 @@ Characters in this game have a set of Abilities that grant them certain actions 
 
 ---
 
-> testing something
-
 ### Survival Instinct
 
 Whenever you would fail a Check or lose a Contest while rolling your Hurry Stat, protect yourself for $+dc2$.
@@ -177,7 +175,7 @@ Whenever you would fail a Check while performing dangerous actions, protect your
 
     Some Abilities also "extend" another Ability. When you gain such an Ability, it does not count against your total number of Abilities. However, you can only extend any particular Ability once this way. If an Ability would extend an already extended Ability, it still does count against your total number of Abilities.
 
-### Blessèd Responsiveness
+### Blessèd Agility
 
 During an Endeavor involving three or more characters, when determining the Focal Action, you may reduce the result of your own roll to $0$. Then this ability cannot be activated again until you spend ② to recharge it. *This Ability requires and extends Survival Instinct.*
 
@@ -217,27 +215,27 @@ Whenever you would fail a Check against natural effects such as weather and dise
 
 You gain access to a creature companion of your choice appropriate to the setting and within reason. Whenever you would fail a Check or lose a Contest while working with and alongside your companion, protect yourself. The amount you protect yourself by depends on the companion and the Stat used, ranging from $+0$ to $+dc4$. If this companion is lost, stolen, destroyed, or you lose its loyalty, replacing it may require time and effort. *This Ability requires and extends Quick Acclimation.*
 
-### Blessèd Conviction
+### Blessèd Determination
 
 Once per action, you may ignore the negative effects of one of your injuries or conditions. Then this ability cannot be activated again until you spend ③ to recharge it.  *This Ability requires and extends Quick Acclimation.*
 
 ---
 
-### Blessèd Token
+### Intuitive Eye
 
-Up to once per scene, when you can spend time inspecting an object carefully, you may recall or intuit information about where it has been, events that have occurred around it, or so on. Then this ability cannot be activated again until you spend ③ to recharge it.
+Whenever you would fail a Check to inspect an object carefully, identify where the object has been, or intuit information about events that have occurred around it, protect yourself for $+dc2$.
 
-### Tea Leaves
+### Perfect Divination
 
-Up to once per session, when you spend time with another willing character in a safe place, you may learn more about their fate or another question the character has. This information may require a Check to gain further clarity. *This Ability requires and extends Blessèd Token.*
+Whenever you succeed a Check to decrypt an encoded or cryptic message, increase the size of the outcome to one rank higher than it would have been otherwise, such as from Minor to Medium. *This Ability requires and extends Intuitive Eye.*
 
 ### Imbued Trait
 
-Up to once per session, you may destroy an object in your possession. For up to a few minutes or until the end of the scene, whichever comes first, you adopt the properties of the object or the properties of a concept associated with the object. *This Ability requires and extends Blessèd Token.*
+Up to once per session, you may destroy an object in your possession. For up to a few minutes or until the end of the scene, whichever comes first, you adopt the properties of the object or the properties of a concept associated with the object. *This Ability requires and extends Intuitive Eye.*
 
 ### Calling Card
 
-Up to once per Stealth Endeavor, when you would be made you may instead increase the alertness of the Endeavor. *This Ability requires and extends Blessèd Token.*
+Up to once per Stealth Endeavor, when you would be made you may instead increase the alertness of the Endeavor. *This Ability requires and extends Intuitive Eye.*
 
 ---
 
@@ -322,6 +320,10 @@ When you fail a Check, you may attempt the Check again, using the newer result i
 
 Up to once per session, when your pool of Blessing Dice has a total combined worth of at least $10$, you may declare boldly that you have exactly the right item or idea you need for the situation. When you succeed your next Check during the same scene, increase the size of the outcome to one rank higher than it would have been otherwise, such as from Minor to Medium. *This Ability requires and extends Efficiently Packed.*
 
+### Blessèd Distraction
+
+When another character succeeds a Check or wins a Contest, you may distract them using an item in your possession, modifying that character’s result by $-3$, possibly turning their success into a failure or win into a loss. Then this ability cannot be activated again until you spend ⑤ to recharge it. *This Ability requires and extends Efficiently Packed.*
+
 ---
 
 ### Tactful Speech
@@ -335,6 +337,10 @@ When you lose a non-violent Contest against a single Attacker, you may have the 
 ### Blessèd Intrigue
 
 Up to once per scene, you may end, begin, or modify one rumor. Then this ability cannot be activated again until you spend ⑤ to recharge it. *This Ability requires and extends Tactful Speech.*
+
+### Blessèd Circumstance
+
+When determining the Focal Action during an Endeavor or Simultaneous Action involving three or more characters, you may swap the results of two characters' rolls. Then this ability cannot be activated again until you spend ⑤ to recharge it. *This Ability requires and extends Tactful Speech.*
 
 ---
 
@@ -368,6 +374,10 @@ Up to twice per session, when you or a nearby ally attempt a roll for a non-viol
 
 Up to once per session, when you are resting or performing leisure activity in a safe place, you may perform a roll using Head or Home. Then up to once before the end of the session, you may use the value of that roll instead of rolling for a Check or non-violent Contest using any Stat. *This Ability requires and extends Sharp Recall.*
 
+### Blessèd Pragmatism
+
+While determining the Focal Action during an Endeavor, you may choose to roll the same value you rolled when determining the Focal Action the previous round. This does not include any bonuses or modifications applied to that roll, you must be attempting the same action as the previous round, and if the previous roll was a Spark roll you must pay the Blessing Die cost again. Then this ability cannot be activated again until you spend ④ to recharge it. *This Ability requires and extends Sharp Recall.*
+
 ---
 
 ### Advanced Training
@@ -388,25 +398,17 @@ In a Monstrous Endeavor you may activate two muddle buttons per round. *This Abi
 
 ---
 
-### Blessèd Circumstance
-
-During a roll involving three or more characters, you may swap the results of two characters’ rolls. Then this ability cannot be activated again until you spend ⑤ to recharge it. *This Ability requires a $d8$ or larger in Head or Hurry.*
-
-### Blessèd Disruption
-
-When another character succeeds a Check or wins a Contest, you may modify that character’s result by $-3$, possibly turning their success into a failure or win into a loss. Then this ability cannot be activated again until you spend ⑤ to recharge it. *This Ability requires a $d8$ or larger in Hand or Hurt.*
-
-### Blessèd Drama
-
-Up to twice per session, when your character is not present in the scene, you may introduce something into the narrative, such as an item, a friend, an enemy, an event, a description, or so on. The DM will then improvise or riff on your idea. Then this ability cannot be activated again until you spend ⑤⑤ to recharge it. *This Ability requires a $d8$ or larger in Heart or Home.*
-
-### Past Repeated
-
-Up to once per session, when you fail a Check or lose a non-violent Contest, you may choose to channel a past memory to guide you. If you do, for the rest of the scene, you may use your History Stat in place of the Stat you failed the Check or lost the Contest with, even for actions not typically covered by your History Stat. *This Ability requires a $d8$ or larger in History.*
-
 ### Synchronized Spark
 
-You may perform a Spark roll using one of your Stats and one of the Stats of another willing character in the scene, so long as the chosen Stats are balanced, both characters have this ability, and the Blessing Die cost is paid between the two characters.
+You may perform a Spark roll using one of your Stats and one of the Stats of another willing character in the scene, so long as the chosen Stats are balanced, both characters have this Ability, and the Blessing Die cost is paid between the two characters.
+
+### Synchronized Skill
+
+You may spend two Blessing Dice of same worth to loan one of your Abilities to another willing character in the scene. This effect lasts until the end of the scene or sooner if you choose. *This Ability requires and extends Synchronized Spark.*
+
+### Synchronized Enmity
+
+During a Contest against another character, before either character rolls, you may spend two Blessing Dice of the same worth to act synchronously with your opponent. If you do, the two of you perform your rolls at the same time. When either of you would bump, you both bump. You both still maintain your own separate roll totals. This Ability may not be used when determining Focal Actions. *This Ability requires and extends Synchronized Spark.*
 
 !!! details "DM Note: Replacing Abilities"
     Mechanically, there is no way for a character to lose or replace a Ability. However, you and your player may feel it is narratively appropriate to reflect their character's growth in response to powerful story events. How you rule the change of Abilities is up to you, as the best approach can vary from story to story.
