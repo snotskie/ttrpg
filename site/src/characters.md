@@ -400,7 +400,7 @@ In a Monstrous Endeavor you may activate two muddle buttons per round. *This Abi
 
 ### Synchronized Spark
 
-You may perform a Spark roll using one of your Stats and one of the Stats of another willing character in the scene, so long as the chosen Stats are balanced, both characters have this Ability, and the Blessing Die cost is paid between the two characters.
+You may perform a Spark roll using one of your Stats and one of the Stats of another willing character in the scene, so long as the chosen Stats are balanced, both characters have this Ability, and the Blessing Die cost is paid between the two characters. Doing so is considered acting as a group.
 
 ### Synchronized Skill
 
