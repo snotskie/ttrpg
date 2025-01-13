@@ -11,19 +11,13 @@ Each character in this game has a small number of Basic Stats, the "H’s of Hum
     
     As you do, begin to think about the story your character takes on in your mind. Why are they good at this and not at that? Why is one important to them and not the other? What are they trying to improve? What do they like getting help from others on?
 
-**🧠 Head:** Intellectual pursuits, problem solving, puzzles, riddles, scanning for information, recalling facts, insight, reasoning, operating and building complex machines, playing practiced music, picking locks. With a high Head Stat you can tackle intellectual puzzles with ease. With a low Head Stat you may find yourself confounded easily or solutions to puzzles just outside your reach.
-
-**✌️ Hand:** Athletic pursuits, endurance, activities that require physical training, raw non-violent strength, moving quietly, pickpocketing. With a high Hand Stat you are in complete control of your physical efforts. With a low Hand Stat you may tire easily or loud, clanky obstacles might somehow always be in your way.
-
-**💕 Heart:** Speaking with passion, understanding others, reading emotions, playing music improvisationally, creating expressive art, performing sleights of hand for an audience. With a high Heart Stat you understand others' intentions easily and can act accordingly. With a low Heart Stat others maybe just aren't as enthused about your interests as you are.
-
-**☕ Home:** Protecting yourself and loved ones, tending to illness and wounds, shopping, crafting, scavenging, camping, cooking, remaining calm, staying alert, coming prepared. With a high Home Stat you can easily be depended upon in situations both mundane and dire. With a low Home Stat your estimates of health and money matters might frequently be off or you seem to always misplace things.
-
-**👿 Hurt:** Nerve and willingness to inflict harm on others. With a high Hurt Stat you can easily steel your resolve when the time calls for violent answers. With a low Hurt Stat your caring for others' well-being seems to extend even to your enemies.
-
-**⚠️ Hurry:** Escaping danger, reacting by instinct, surges of adrenaline. With a high Hurry Stat you find that your body moves easily to keep you safe from danger. With a low Hurry Stat you might freeze up more often than you'd like.
-
-**⏳ History:** Narrative touchstones representing your unique specializations, skills, proficiencies, hardships, and other aspects covered by your character's backstory and the history of their people, but not covered by or more specific than the other Basic Stats above. With a high History Stat you have achieved the specialized training you set out to achieve. With a low History Stat your specific worries and weaknesses seem to creep up more often.
+- **🧠 Head:** Intellectual pursuits, problem solving, puzzles, riddles, scanning for information, recalling facts, insight, reasoning, operating and building complex machines, playing practiced music, picking locks. With a high Head Stat you can tackle intellectual puzzles with ease. With a low Head Stat you may find yourself confounded easily or solutions to puzzles just outside your reach.
+- **✌️ Hand:** Athletic pursuits, endurance, activities that require physical training, raw non-violent strength, moving quietly, pickpocketing. With a high Hand Stat you are in complete control of your physical efforts. With a low Hand Stat you may tire easily or loud, clanky obstacles might somehow always be in your way.
+- **💕 Heart:** Speaking with passion, understanding others, reading emotions, playing music improvisationally, creating expressive art, performing sleights of hand for an audience. With a high Heart Stat you understand others' intentions easily and can act accordingly. With a low Heart Stat others maybe just aren't as enthused about your interests as you are.
+- **☕ Home:** Protecting yourself and loved ones, tending to illness and wounds, shopping, crafting, scavenging, camping, cooking, remaining calm, staying alert, coming prepared. With a high Home Stat you can easily be depended upon in situations both mundane and dire. With a low Home Stat your estimates of health and money matters might frequently be off or you seem to always misplace things.
+- **👿 Hurt:** Nerve and willingness to inflict harm on others. With a high Hurt Stat you can easily steel your resolve when the time calls for violent answers. With a low Hurt Stat your caring for others' well-being seems to extend even to your enemies.
+- **⚠️ Hurry:** Escaping danger, reacting by instinct, surges of adrenaline. With a high Hurry Stat you find that your body moves easily to keep you safe from danger. With a low Hurry Stat you might freeze up more often than you'd like.
+- **⏳ History:** Narrative touchstones representing your unique specializations, skills, proficiencies, hardships, and other aspects covered by your character's backstory and the history of their people, but not covered by or more specific than the other Basic Stats above. With a high History Stat you have achieved the specialized training you set out to achieve. With a low History Stat your specific worries and weaknesses seem to creep up more often.
 
 When you begin the game, most of your Basic Stats are equal, using a $d4$ for their Basic Stat Checks. However, the Basic Stat you ranked as your highest Stat begins the game one die size larger. Your Lifestyle also increases your starting Basic Stat dice.
 
@@ -62,18 +56,26 @@ All of your Basic Stat dice can be upgraded later in the [Session Shop](#Session
 
     Finally, if you create a new Stat, the Lifestyle options as written will not benefit your new Stat. So, when your players upgrade their Lifestyle and receive a benefit to one of the first six Basic Stats, they may have that Lifestyle benefit your new Stat instead.
 
-## Lifestyle
+## Lifestyle and Value System
 
-Each character in this game starts with one of three Lifestyles, described below. Lifestyle upgrade options are described in the [Session Shop](#Session-Shop). A character's Lifestyle represents their general background and goals, and can change over the course of the story.
+Each character in this game starts with one of three Lifestyles and one of three Value Systems, described below. Lifestyle upgrade options are described in the [Session Shop](#Session-Shop). A character's Lifestyle and Value System represents their general background, goals, and beliefs about the world, and these can change over the course of the story.
 
 !!! tip "Character Creation: Step Two!"
-    Begin to describe the Lifestyle your character had growing up or their current outlook on life. As you do, pick one of the following Lifestyles to start the game with. These can be changed later in the [Session Shop](#Session-Shop).
+    Begin to describe the life your character had growing up and their current outlook on the world. As you do, pick one of the following Lifestyles and one of the following Value Systems to start the game with. These can be changed later in the [Session Shop](#Session-Shop).
 
-**🍀 Carefree:** Your character lives a relatively carefree life, perhaps because of your naivete, wealthy upbringing, optimistic demeanor, or (in a darker setting) a nihilistic worldview. Two of your Stats begin the game one die size larger, according to the table below. Work with your DM to know which column to use.
+Lifestyle options:
 
-**🔥 Eager:** Your character is eager for more out of life, perhaps because of a rebellious phase, a yearning to accomplish your dreams, a person you want to impress, or a mission or faith you believe strongly in. Two of your Stats begin the game one die size larger, according to the table below. Work with your DM to know which column to use.
+- **🍀 Carefree:** Your character lives a relatively carefree life, perhaps because of your naivete, wealthy upbringing, optimistic demeanor, or (in a darker setting) a nihilistic worldview.
+- **🔥 Eager:** Your character is eager for more out of life, perhaps because of a rebellious phase, a yearning to accomplish your dreams, a person you want to impress, or a mission or faith you believe strongly in.
+- **🧘‍♀️ Wisened:** Maybe life has not been easy on your character, but if so you’ve come out wiser and tougher. Perhaps you've been shaped by unfortunate events, you've dedicated yourself to your work, or (in some settings) you could take advantage of others easily because you understand how people work.
 
-**🧘‍♀️ Wisened:** Maybe life has not been easy on your character, but if so you’ve come out wiser and tougher. Perhaps you've been shaped by unfortunate events, you've dedicated yourself to your work, or (in some settings) you could take advantage of others easily because you understand how people work. Two of your Stats begin the game one die size larger, according to the table below. Work with your DM to know which column to use.
+Value System options:
+
+- **⚔️ Virtue and Vice:** Deep down, you may believe that there is good in the world and that, no matter how terrible the world gets, the people who are good will win in the end. You may also believe that people who live with virtue are able to live in harmony together, while excess vice manifests itself as a clear and knowable "darkness."
+- **🌒 Fate and Knowledge:** What drives your actions may be a firm belief that your personal traits dictate your destiny, not whether you are "good," and personal traits can never really be changed. You may also believe that your destiny can be altered to your looking by making the right deal, adhering to the right discipline, or acquiring the right knowledge--ends justify the means after all.
+- **⚙️ Cunning and Capability:** At the end of the day, you may believe that the only person you can really trust is yourself. You may also believe that the world is unfair, "good" and "fate" are just made up ideas, and you'd do whatever it takes to get by.
+
+Two of your Stats begin the game one die size larger, according to the table below and what choices you made above:
 
 ```@raw html
 <table>
@@ -89,16 +91,12 @@ Each character in this game starts with one of three Lifestyles, described below
 </table>
 ```
 
-!!! details "DM Note: Campaign Genre Archetype"
-    The default Stat bonuses characters in your campaign setting receive as a result of their Lifestyle help give shape and flavor to the narrative. This happens by creating a sense of what life looks like in the setting, or is assumed to look like in the stories characters tell one another, all before the first session has even begun!
-
-    To help you make the choice of what default Stat bonuses to give, consider the following as you imagine the genre you want to provide your players and the value systems entrenched in the game setting's world:
+!!! details "DM Note: Campaign Value System"
+    Consider the following as you imagine the genre you want to provide your players and the value systems entrenched in the campaign's world itself:
 
     - **Virtue and Vice** settings are those where well-developed virtues naturally align with roles in harmonious or mystical worlds--and vices run counter to it, manifesting as a "dark side" to the good in the world. This is likely the most familiar genre archetype, especially for good vs. evil stories. *E.g. for high fantasy, utopian sci-fi, shonen, optimistic post-apocalyptic worlds, mythological, magical realism, allegorical fables, urban fantasy, and children's stories.* The Blossomed, Driven, and Steadfast upgrade options are the most "default" in such settings, and deviation from them could represent character growth away from the default expectations of the setting's world.
     - **Fate and Knowledge** settings are those where characters' personal traits connect them to mystical or supernatural forces, shaping their destinies through divine, cursed, or esoteric interactions. This genre archetype resists feeling familiar as it often subverts familiarity in order to invoke unsettling feelings. *E.g. for dark fantasy, gothic fiction, mystical post-apocalypse, psy-fi, cosmic horror, occult fiction, dystopian fiction, and supernatural horror.* The Prodigious, Chosen, and Warry upgrade options are the most "default" in such settings, and deviation from them could represent character growth away from the default expectations of the setting's world.
     - **Cunning and Capability** settings are those where creativity, intellect, and guile define roles in intricate, high-stakes environments focused on survival, power, or ingenuity. This genre archetype is likely familiar, and fits stories well that have high stakes without necessarily a clear good vs. evil component. *E.g. for  cyberpunk, steam punk, hard sci-fi, spy fiction, heist fiction, josei, surveillance-state fiction, noir, and antihero/villain stories.* The Crafty, Wired, and Compelling upgrade options are the most "default" in such settings, and deviation from them could represent character growth away from the default expectations of the setting's world.
-
-    In any case, provide your players with a small set of default Stat bonuses to choose from that both have in-game flavor and balance the first three Stats (Head, Hand, Heart) with the second three Stats (Home, Hurt, Hurry). These default Stat bonuses allow players to get into the game quicker, while setting them up for character growth later when (or if) they choose to upgrade their Lifestyle in the Session Shop.
 
 ## History
 
