@@ -72,7 +72,7 @@ Lifestyle options:
 Value System options:
 
 - **⚔️ Virtue and Vice:** Deep down, you may believe that there is good in the world and that, no matter how terrible the world gets, the people who are good will win in the end. You may also believe that people who live with virtue are able to live in harmony together, while excess vice manifests itself as a clear and knowable "darkness."
-- **🌒 Fate and Knowledge:** What drives your actions may be a firm belief that your personal traits dictate your destiny, not whether you are "good," and personal traits can never really be changed. You may also believe that your destiny can be altered to your looking by making the right deal, adhering to the right discipline, or acquiring the right knowledge--ends justify the means after all.
+- **🌒 Fate and Knowledge:** What drives your actions may be a firm belief that your personal traits dictate your destiny, not whether you are "good," and personal traits can never really be changed. You may also believe that your destiny can be altered to your liking by making the right deal, adhering to the right discipline, or acquiring the right knowledge--ends justify the means after all.
 - **⚙️ Cunning and Capability:** At the end of the day, you may believe that the only person you can really trust is yourself. You may also believe that the world is unfair, "good" and "fate" are just made up ideas, and you'd do whatever it takes to get by.
 
 Two of your Stats begin the game one die size larger, according to the table below and what choices you made above:
