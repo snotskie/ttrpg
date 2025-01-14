@@ -1,0 +1,8 @@
+{
+    "name": "ttrpg",
+    "version": "0.0.0",
+    "author": "snotskie <snotskie@gmail.com>",
+    "devDependencies": {
+      "@marp-team/marp-cli": "^3.4.0"
+    }
+  }

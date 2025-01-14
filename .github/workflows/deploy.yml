@@ -1,24 +1,55 @@
-name: CI
+# Based on: https://github.com/yhatt/marp-cli-example/blob/da954e14354bc4b37891cce6998c5ec50f7eb2c9/.github/workflows/github-pages.yml
+name: GitHub Pages
+
 on:
-  - push
-  - pull_request
-env:
-  JULIA_NUM_THREADS: 2
+  push:
+    branches:
+      - main
+
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
 jobs:
-  site:
-    name: Build the Site
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: julia-actions/setup-julia@v1
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
         with:
-          version: '1'
-      - run: |
-          julia --project=site -e '
-            import Pkg
-            Pkg.add("Documenter")
-            Pkg.instantiate()'
-      - run: julia --project=site site/make.jl
+          cache: npm
+          node-version: 20.11.1
+          cache-dependency-path: package-lock.json
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Build Marp slide deck
+        run: npx marp --html --input-dir ./md -o ./public
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          DOCUMENTER_KEY: ${{ secrets.DOCUMENTER_KEY }}
+          # Please update URL if you want to use custom domain
+          URL: https://${{ github.event.repository.owner.name }}.github.io/${{ github.event.repository.name }}
+
+          # Recommend to set lang for your deck to get better rendering for Open Graph image
+          LANG: en-US
+
+      - name: Upload page artifacts
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

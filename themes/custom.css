@@ -1,0 +1,92 @@
+/**
+* @theme custom
+* @size a4 8.5in 11in
+* @size half-a4 5.5in 8.5in
+* @size sixth-a4 3.3333in 4.25in
+* @size 4:3 10in 7.5in
+* @size 16:9 10in 5.63in
+* @size 16:10 10in 6.25in
+*/
+
+@import "uncover";
+
+/* Rescaling */
+svg[data-marpit-svg]{
+    max-height: 100vh;
+    display: block;
+    margin: 0 auto;
+}
+
+body {background: black}
+
+/* Font */
+:root {
+    font-size: 16pt;
+    letter-spacing: 0;
+    text-align: left;
+}
+
+/* Page alignment */
+section:not(.center) {
+    align-content: start;
+    padding: 1in;
+}
+
+/* Remove pagination corner triangle */
+section:after {
+    --color-background-paginate: transparent;
+    --color-background: transparent;
+    font-size: 14pt;
+    font-weight: bold;
+}
+
+/* Styled page types */
+:root {
+    --color-major: var(--color-foreground);
+    --color-creation: green;
+    --color-guide: grey;
+    --color-ability: gold;
+    --color-rules: blue;
+    --color-quick: teal;
+}
+
+section.major h1 {
+    border: .1in solid var(--color-major);
+    text-align: center;
+    padding: .1in;
+}
+
+section.creation {
+    border-left: .5in solid var(--color-creation);
+    padding-left: .5in;
+}
+
+section.guide {
+    border-left: .5in solid var(--color-guide);
+    padding-left: .5in;
+}
+
+section.ability {
+    border-left: .5in solid var(--color-ability);
+    padding-left: .5in;
+}
+
+section.rules {
+    border-left: .5in solid var(--color-rules);
+    padding-left: .5in;
+}
+
+section.quick {
+    border-left: .5in solid var(--color-quick);
+    padding-left: .5in;
+}
+
+/* Light/Dark mode button */
+button {
+    font-size: 16pt;
+    background: var(--color-foreground);
+    color: var(--color-background);
+    border: 0;
+    border-radius: 6px;
+    padding: 1em;
+}
