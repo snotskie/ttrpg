@@ -37,7 +37,7 @@ jobs:
         run: npm install
 
       - name: Build Marp slide deck
-        run: npx marp --html --input-dir ./md -o ./public
+        run: npx marp --html --template=bare --input-dir ./md -o ./public
         env:
           # Please update URL if you want to use custom domain
           URL: https://${{ github.event.repository.owner.name }}.github.io/${{ github.event.repository.name }}

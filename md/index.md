@@ -6,28 +6,44 @@ theme: custom
 size: a4
 paginate: true
 headingDivider: 2
-transition: wipe
 ---
 
 # Humanity, Blessed: TTRPG
 <!-- _class: center -->
+<!-- _paginate: skip -->
 
 <script>
     function toggleModes(){
-        document.querySelectorAll('section').forEach((e) => e.classList.toggle('invert'));
+        document.querySelectorAll('section').forEach(
+            (e) => e.classList.toggle('invert')
+        );
     }
 
-    if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
-        toggleModes();
+    function toggleGuides(){
+        document.querySelectorAll('section.guide').forEach(
+            (e) => e.closest("svg").classList.toggle('secret')
+        );
     }
+
+    window.addEventListener("load", function(){
+        
+        if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches){
+            toggleModes();
+        }
+
+        toggleGuides();
+    });
 </script>
 
 <button onclick="toggleModes()">Toggle Light/Dark Mode</button>
+
+<label for="guide-hider">Toggle GM Guide <input id="guide-hider" type="checkbox" onchange="toggleGuides()" /></label>
 
 [Humanity, Blessed](https://snotskie.github.io/ttrpg/) © 2024 [snotskie](https://snotskie.com/) is licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1)
 
 ---
 <!-- _class: center -->
+<!-- _paginate: skip -->
 
 > Tiny bit of humanity,  
 > Blessed with your mother’s face,  
@@ -70,7 +86,7 @@ Your first task is to decide which Stats your character is best (and worst) at. 
 
 As you do, begin to think about the story your character takes on in your mind. **Why are they good at this and not at that?** Why is one important to them and not the other? What are they trying to improve? What do they like getting help from others on?
 
-When you begin the game, most of your Basic Stats are equal, using a $d4$ for their Basic Stat Checks. However, the Basic Stat you ranked as your highest Stat begins the game one die size larger. Your Lifestyle also increases your starting Basic Stat dice.
+When you begin the game, most of your Basic Stats are equal, using a $d4$ for their Basic Stat Checks. However, the Basic Stat you ranked as your **highest Stat begins the game one die size larger**. Your Lifestyle also increases your starting Basic Stat dice.
 
 All of your Basic Stat dice can be upgraded later in the Session Shop section at the end of this chapter.
 
@@ -81,7 +97,7 @@ For your campaign setting, you may find it helpful to create a new Stat for your
 
 For example, you might create a Stat to represent the "magic" of the setting:
 
-- **🐦‍🔥 Hex:** Use of wands, spells, potions, and other magical instruments, traps, lore, and knowledge. *E.g., for a magic or fantasy style setting.*
+- **🪶 Hex:** Use of wands, spells, potions, and other magical instruments, traps, lore, and knowledge. *E.g., for a magic or fantasy style setting.*
 - **🥕 Ham:** Use of outlandish solutions, cartoonish items, and pun-based bends of reality. *E.g., for a cartoon style setting.*
 - **🦾 Hardware:** Use of machines, robotics, and cybernetic implants. *E.g. for a cyberpunk style setting.*
 - **🔎 Hunch:** Locating clues, guessing the right solution to a puzzle, being in the right place at the right time. *E.g. for a film noir style setting.*
@@ -123,7 +139,7 @@ Finally, if you create a new Stat, the Lifestyle options as written will not ben
 
 ## Lifestyle and Value System
 
-Each character in this game has one of twelve Lifestyles and one of three Value Systems. These represents characters' general **backgrounds, goals, and beliefs** about the world, and these can change over the course of the story.
+Each character in this game has one of thirteen Lifestyles and one of three Value Systems. These represents characters' general **backgrounds, goals, and beliefs** about the world, and these can change over the course of the story.
 
 Three Lifestyles you can choose from at the start of the game are described below, as well as the three Value Systems. Additional Lifestyle upgrade options are described in the Session Shop.
 
@@ -682,7 +698,7 @@ If you need to estimate the average result of a roll of a die that bumps, follow
 
 Let $a$ be the average value of the die if it *doesn't* roll a number that bumps. Normally this means the average when not rolling a $1$, but some Abilities modify this.
 
-Let $b$ be the average value if the die if it *does* roll a number that bumps. Normally this means just the value $1$, but some Abilities modify this.
+Let $b$ be the average value of the die if it *does* roll a number that bumps. Normally this means just the value $1$, but some Abilities modify this.
 
 Let $c$ be the number of values on the die that *don't* cause it to bump. Normally this means one less than the size of the die, but some Abilities modify this.
 
@@ -695,7 +711,7 @@ $a + \frac{bk}{c}$
 For example:
 
 - the average of a $dc2$ is $2 + \frac{1}{3}$
-- the average of a $d6$ with the Focused Determination Ability is $4 + \frac{2}{5}$
+- the average of a $d8$ with the Advanced Training Ability is $5 + \frac{2}{7}$
 
 ## Your Dice
 
@@ -892,7 +908,7 @@ If the violence continues past this initial Contest, then the Attackers may choo
 
 ---
 
-Also note, Checks use the terms “fail” and “succeed,” while Contests use “lose” and “win” instead. When an effect only mentions failing or succeeding Checks, it does not affect losing or winning Contests. And when an effect only mentions losing or winning Contests, it does not affect failing or succeeding Checks. A Contest itself is not a Check, though it does involve a series of rolls similar to Checks made against one another. For example, the "Blessed by Luck" Ability allows you to turn a failed Check into a success. However, it does not allow you to turn a lost Contest into a win. The Uncool condition on the other hand does affect both Checks and Contests, because it modifies the results of rolls performed, without mentioning success, failure, win, or loss directly.
+Also note, Checks use the terms “fail” and “succeed,” while Contests use “lose” and “win” instead. When an effect only mentions failing or succeeding Checks, it does not affect losing or winning Contests. And when an effect only mentions losing or winning Contests, it does not affect failing or succeeding Checks. A Contest itself is not a Check, though it does involve a series of rolls similar to Checks made against one another. For example, the "Blessèd Luck" Ability allows you to turn a failed Check into a success. However, it does not allow you to turn a lost Contest into a win. The Uncool condition on the other hand does affect both Checks and Contests, because it modifies the results of rolls performed, without mentioning success, failure, win, or loss directly.
 
 ## Helping
 
@@ -1211,7 +1227,7 @@ Some campaigns or sessions may involve the player characters and their allies fa
 
 These sorts of Endeavors are run like any other Endeavor, with the following additions:
 
-- **Muddle Buttons:** When each Monstrosity joins the Endeavor, it adds one or more "muddle buttons" to the number line. When the movement of a player character or one of their allies moves over one of these points on the number line, that Monstrosity is Muddled (see [Example Conditions](#Example-Conditions)) for the next round, representing a momentary crack in the Monstrosity's defenses&mdash;literally or figuratively. Then, the button is removed. If a player character or one of their allies would activate multiple muddle buttons in one round, that character instead chooses just one to activate. Be warned though, as some Monstrosities have Abilities that grow in power the more times they've been muddled this way!
+- **Muddle Buttons:** When each Monstrosity joins the Endeavor, it adds one or more "muddle buttons" to the number line. When the movement of a player character or one of their allies moves over one of these points on the number line, that Monstrosity is Muddled (see the Other Conditions section at the end of this chatper) for the next round, representing a momentary crack in the Monstrosity's defenses&mdash;literally or figuratively. Then, the button is removed. If a player character or one of their allies would activate multiple muddle buttons in one round, that character instead chooses just one to activate. Be warned though, as some Monstrosities have Abilities that grow in power the more times they've been muddled this way!
 - **Stamina:** Each Monstrosity has an amount of "stamina." At the end of each round, if the player characters and their allies have a combined value on the number line equal to or greater than a Monstrosity's stamina, those characters may move backwards on the number line a total amount equal to the Monstrosity's stamina. If they do, they non-lethally remove that Monstrosity from the Endeavor and narrate what happens.
 
 ## 🏇 Race Endeavors
@@ -1248,6 +1264,27 @@ These sorts of Endeavors are run like any other Endeavor, with the following add
 > *TODO*
 > *&mdash;snotskie*
 
+## Surprise Threat
+
+When a character is surprised by a threat, their first roll in response to it cannot bump and cannot be a Spark Stat Check.
+
+## Coolness
+
+Some events challenge your resolve, throw you off your game, cause you great embarrassment, or so on. When these happen, you may become Uncool.
+
+While you are Uncool, all rolls you make are modified by $-1$. Once during each scene that follows, you may attempt a Check to remove this condition.
+
+## GM Guide: Becoming Uncool
+<!-- _class: guide -->
+
+The Uncool mechanic is a way to break the tension and bring comedy to your game. It is also a way to represent small story arcs where characters feel bad after some failed action, and take action later to feel better about it. And it is a way to connect player characters more to the non-player characters watching them.
+
+How and when you dole out this condition depends on what is best for your table, players, and story. A suggestion is to help the player tell the story of how their character is feeling after a particularly bad roll (failing or losing by $5$ or more). Who else is around that saw it happen? How would their Hero feel? How does this relate to what they've established about their backstory, goal, Lifestyle, or connection to other characters?
+
+Equally important is how you give the players opportunities to *remove* this condition. Each attempt should be a fun, satisfying story beat that helps shape the narrative of how the player's character grows.
+
+So when you build the narrative around how a character becomes Uncool and what this means for their connections to other characters, keep in the back of your head how you could use these same connections later to remove the condition and offer the player a chance to roleplay growth from their earlier failure.
+
 ## Wounds
 
 You do not have "hit points" in this game. Nor do you have any "defensive" Stats. When you're hit, you're hit.
@@ -1272,28 +1309,7 @@ You can treat minor and medium wounds as ways the Attacker can get at what they 
 
 When a character suffers a major wound, it can be unsatisfying for them to be immediately removed from the game. Instead, you might draw the tension and possibility to respond out further. One way to do so is to provide the wounded character's allies opportunity to perform a Home Contest against the same roll that the Attacker used to inflict the major wound. If an ally wins the Contest by $5$ or more, then the wound is successfully treated, perhaps reducing it to a medium or minor wound. However, if the Attacker is able to roll $5$ or more on a Hurt Stat Check before the allies can successfully treat the wound, then the Attacker may deliver a *coup de grace* to finish off the wounded.
 
-## Surprise Threat
-
-When a character is surprised by a threat, their first roll in response to it cannot bump and cannot be a Spark Stat Check.
-
-## Coolness
-
-Some events challenge your resolve, throw you off your game, cause you great embarrassment, or so on. When these happen, you may become Uncool.
-
-While you are Uncool, all rolls you make are modified by $-1$. Once during each scene that follows, you may attempt a Check to remove this condition.
-
-## GM Guide: Becoming Uncool
-<!-- _class: guide -->
-
-The Uncool mechanic is a way to break the tension and bring comedy to your game. It is also a way to represent small story arcs where characters feel bad after some failed action, and take action later to feel better about it. And it is a way to connect player characters more to the non-player characters watching them.
-
-How and when you dole out this condition depends on what is best for your table, players, and story. A suggestion is to help the player tell the story of how their character is feeling after a particularly bad roll (failing or losing by $5$ or more). Who else is around that saw it happen? How would their Hero feel? How does this relate to what they've established about their backstory, goal, Lifestyle, or connection to other characters?
-
-Equally important is how you give the players opportunities to *remove* this condition. Each attempt should be a fun, satisfying story beat that helps shape the narrative of how the player's character grows.
-
-So when you build the narrative around how a character becomes Uncool and what this means for their connections to other characters, keep in the back of your head how you could use these same connections later to remove the condition and offer the player a chance to roleplay growth from their earlier failure.
-
-## Example Conditions
+## Other Conditions
 
 While most effects help shape the narrative of the game, your GM may find it appropriate to apply other conditions to characters when the situation calls for it. Some example conditions are given below:
 
@@ -1306,9 +1322,7 @@ While most effects help shape the narrative of the game, your GM may find it app
 - **Taxed:** You cannot perform Spark Stat Checks. Spending ①① ends this condition.
 
 # Quick Reference
-<!-- _class: center quick -->
-
-*This page provides quick reminders for the most referenced information.*
+<!-- _class: center major quick -->
 
 ## Endeavors
 <!-- _class: quick -->
