@@ -26,11 +26,18 @@ headingDivider: 2
     }
 
     window.addEventListener("load", function(){
-        
+        // match user preferred theme
         if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches){
             toggleModes();
         }
 
+        // escape marp containment
+        const e = document.createElement("style");
+        e.setAttribute("type", "text/css");
+        e.appendChild(document.createTextNode(".secret {display: none}"));
+        document.head.appendChild(e);
+
+        // hide guides
         toggleGuides();
     });
 </script>

@@ -87,6 +87,3 @@ button, label {
     margin-bottom: .5em;
     display: inline-block;
 }
-
-/* Show/hide GM Guide */
-.secret {height: 0} /* TODO marp always re-contextualizes CSS */
