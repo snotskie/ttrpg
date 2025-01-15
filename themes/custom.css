@@ -13,8 +13,12 @@
 /* Font */
 :root {
     font-size: 16pt;
-    letter-spacing: 0;
+    letter-spacing: normal;
     text-align: left;
+}
+
+h1, h2, h3 {
+    letter-spacing: normal;
 }
 
 /* Page alignment */
@@ -86,4 +90,10 @@ button, label {
     padding: 1em;
     margin-bottom: .5em;
     display: inline-block;
+}
+
+@media print {
+    button, label {
+        display: none;
+    }
 }
