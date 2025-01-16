@@ -930,19 +930,37 @@ $a_s + \frac{b_s k_s}{c_s}$
 
 ### Contests
 
-A non-violent Contest is when a character performs an action against another character’s will using any Stat besides Hurt. To perform a non-violent Contest, first the Attacker rolls as though performing the appropriate Stat Check, then the Defender rolls as though performing a Stat Check using the same Stat as the Attacker. The action’s effect is only successful if the Attacker rolls higher than the Defender. The size of the effect is determined by the difference between their scores. If the Attacker uses a Spark Stat Check, then the Defender may roll a Spark Stat Check using either or both of the Stats used in the Attacker's Spark Stat Check, so long as the Defender pays the Blessing Die cost.
+A non-violent Contest is when a character performs an action against another character’s will using any Stat besides Hurt.
+
+To perform a non-violent Contest:
+
+1. The Attacker rolls as though performing the appropriate Stat Check.
+2. The Defender rolls as though performing a Stat Check using the same Stat as the Attacker. If the Attacker uses a Spark Stat Check, then the Defender may roll a Spark Stat Check using either or both of the Stats used in the Attacker's Spark Stat Check, so long as the Defender pays the Blessing Die cost.
+3. The action's effect is only successful if the Attacker rolls higher than the Defender. The size of the effect is determined by the difference between their scores.
+
+---
 
 A violent Contest is when an Attacker performs an action against another character’s will using their Hurt Stat. All Contests involving Hurt are potentially deadly. Unexpected things can happen and things can get out of hand quickly.
 
+To perform a violent Contest:
+
+1. The Attacker first rolls as though performing a Hurt Stat Check or Spark Stat Check that involves Hurt.
+2. The Defender rolls as though performing a Hurry Stat Check or Spark Stat Check that involves Hurry, representing their immediate instinctive reaction in the scene.
+3. The action's effect is only successful if the Attacker rolls higher than the Defender. The extent of the injury is determined by the difference between their scores, regardless if that was what the Attacker intended.
+4. If the violence continues past this initial Contest, then the Attackers may choose to change tactics, such as performing a non-violent Contest to shift subsequent rounds in their favor.
+5. Additionally, Defenders may choose to respond to these continued attacks with a greater range of options than just Hurry, such as outwitting (Head), calling on honor (Hand), destroying a part of the environment (Hand), calling for a truce (Heart), or repositioning oneself (Head or Home).
+
 ---
 
-To perform a violent Contest, the Attacker first rolls as though performing a Hurt Stat Check or Spark Stat Check that involves Hurt. Then the Defender rolls as though performing a Hurry Stat Check or Spark Stat Check that involves Hurry, representing their immediate instinctive reaction in the scene. If the Attacker rolls higher, then the Defender could be trivially injured, in need of immediate medical attention, or even dead. The amount that the Attacker rolled higher than the Defender determines the extent of the injury, regardless if that was what the Attacker intended. If the Defender rolls the same or higher number than the Attacker, then no injury occurs.
+Also note, Checks use the terms "fail" and "succeed," while Contests use “lose” and “win” instead.
 
-If the violence continues past this initial Contest, then the Attackers may choose to change tactics, such as performing a non-violent Contest to shift subsequent rounds in their favor. Additionally, Defenders may choose to respond to these attacks with a greater range of options than just Hurry, such as outwitting (Head), calling on honor (Hand), destroying a part of the environment (Hand), calling for a truce (Heart), or repositioning oneself (Head or Home).
+When an effect only mentions failing or succeeding Checks, it does not affect losing or winning Contests. And when an effect only mentions losing or winning Contests, it does not affect failing or succeeding Checks.
 
----
+A Contest itself is not a Check, though it does involve a series of rolls similar to Checks made against one another.
 
-Also note, Checks use the terms “fail” and “succeed,” while Contests use “lose” and “win” instead. When an effect only mentions failing or succeeding Checks, it does not affect losing or winning Contests. And when an effect only mentions losing or winning Contests, it does not affect failing or succeeding Checks. A Contest itself is not a Check, though it does involve a series of rolls similar to Checks made against one another. For example, the "Blessèd Luck" Ability allows you to turn a failed Check into a success. However, it does not allow you to turn a lost Contest into a win. The Uncool condition on the other hand does affect both Checks and Contests, because it modifies the results of rolls performed, without mentioning success, failure, win, or loss directly.
+For example, the "Blessèd Luck" Ability allows you to turn a failed Check into a success. However, it does not allow you to turn a lost Contest into a win.
+
+The Uncool condition on the other hand does affect both Checks and Contests, because it modifies the results of rolls performed, without mentioning success, failure, win, or loss directly.
 
 ### Helping
 
