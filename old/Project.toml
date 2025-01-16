@@ -1,7 +1,0 @@
-name = "ttrpg"
-uuid = "2ca5cebf-df43-42e8-8f5a-08641abf11ac"
-authors = ["Mariah A. Knowles"]
-version = "0.0.0"
-
-[deps]
-Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
