@@ -46,7 +46,18 @@ headingDivider: 3
 
 <label for="guide-hider">Toggle GM Guide <input id="guide-hider" type="checkbox" onchange="toggleGuides()" /></label>
 
-[Humanity, Blessed](https://snotskie.github.io/ttrpg/) © 2024 [snotskie](https://snotskie.com/) is licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1)
+---
+<!-- _paginate: skip -->
+
+![width:2in](https://upload.wikimedia.org/wikipedia/commons/7/70/CC_BY-NC-ND.svg)
+
+This work is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. To view a copy of this license, visit [https://creativecommons.org/licenses/by-nc-nd/4.0/](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+&copy; 2024 snotskie
+
+[snotskie.com](https://snotskie.com)
+
+DOI: 10.5281/zenodo.14673714
 
 ---
 <!-- _class: center -->
