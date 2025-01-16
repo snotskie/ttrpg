@@ -1,0 +1,17 @@
+{
+    "access_right": "open",
+    "creators": [
+        {
+            "name": "snotskie",
+            "orcid": "0000-0002-1798-4830"
+        }
+    ],
+    "description": "Humanity, Blessed is a rules-light TTRPG system inspired by our favorite games, designed to tell stories, about what it means to be human, doing goofy, cool, fantastic little human things.",
+    "keywords": [
+        "ttrpg"
+    ],
+    "language": "md",
+    "license": "CC BY-NC-ND 4.0",
+    "title": "Humanity, Blessed: TTRPG",
+    "upload_type": "book"
+}
