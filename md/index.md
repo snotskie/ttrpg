@@ -190,15 +190,19 @@ Begin to describe the life your character had **growing up** and their **current
 Two of your Stats begin the game one die size larger, according to the table below and what choices you made above:
 
 <table>
-<tr>
-<td></td>
-<th scope="col">Virtue and Vice</th>
-<th scope="col">Fate and Knowledge</th>
-<th scope="col">Cunning and Capability</th>
-</tr>
-<tr> <th scope="row">Carefree</th> <td>Heart and Hurry</td> <td>Head and Hurt</td> <td>Hand and Home</td> </tr>
-<tr> <th scope="row">Eager</th> <td>Hand and Hurt</td> <td>Heart and Home</td> <td>Head and Hurry</td> </tr>
-<tr> <th scope="row">Wisened</th> <td>Head and Home</td> <td>Hand and Hurry</td> <td>Heart and Hurt</td> </tr>
+    <thead>
+        <tr>
+        <td></td>
+        <th scope="col">Virtue and Vice</th>
+        <th scope="col">Fate and Knowledge</th>
+        <th scope="col">Cunning and Capability</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr> <th scope="row">Carefree</th> <td>Heart and Hurry</td> <td>Head and Hurt</td> <td>Hand and Home</td> </tr>
+        <tr> <th scope="row">Eager</th> <td>Hand and Hurt</td> <td>Heart and Home</td> <td>Head and Hurry</td> </tr>
+        <tr> <th scope="row">Wisened</th> <td>Head and Home</td> <td>Hand and Hurry</td> <td>Heart and Hurt</td> </tr>
+    </tbody>
 </table>
 
 ### GM Guide: Campaign Value System

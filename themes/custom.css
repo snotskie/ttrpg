@@ -97,3 +97,13 @@ button, label {
         display: none;
     }
 }
+
+/* tables */
+th[scope=row] {
+    border: 0;
+    border-right: 3px solid var(--color-foreground);
+}
+
+td:empty {
+    border: 0;
+}
