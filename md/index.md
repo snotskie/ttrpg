@@ -40,6 +40,34 @@ headingDivider: 3
         // hide guides
         toggleGuides();
     });
+
+    window.addEventListener("load", function(){
+        const toc = document.getElementById("toc");
+        document.querySelectorAll("h1,h2").forEach(function(e){
+            console.log(e);
+            const page = e.closest("section").getAttribute("data-marpit-pagination");
+            if (page){
+                const toc_line = document.createElement("p");
+                toc.appendChild(toc_line);
+                if (e.nodeName === "H1"){
+                    const entry = document.createElement("strong");
+                    toc_line.appendChild(entry);
+                    toc_line.classList.add("chapter");
+                    entry.innerText = e.innerText;
+                } else if (e.nodeName === "H2"){
+                    const entry = document.createElement("em");
+                    toc_line.appendChild(entry);
+                    toc_line.classList.add("section");
+                    entry.innerText = e.innerText;
+                }
+
+                const page_no = document.createElement("a");
+                toc_line.appendChild(page_no);
+                page_no.innerText = page;
+                page_no.setAttribute("href", "#" + e.getAttribute("id"));
+            }
+        });
+    });
 </script>
 
 <button onclick="toggleModes()">Toggle Light/Dark Mode</button>
@@ -69,6 +97,11 @@ DOI: 10.5281/zenodo.14673714
 >
 > &mdash;[James Weldon Johnson](https://www.poetryfoundation.org/poems/49051/a-poet-to-his-baby-son)
 
+---
+<!-- _paginate: skip -->
+
+<div id="toc"></div>
+
 ## About
 
 *Humanity, Blessed* is a rules-light TTRPG system inspired by our favorite games, designed to tell stories, about what it means to be human, doing goofy, cool, fantastic little human things.
@@ -77,7 +110,7 @@ DOI: 10.5281/zenodo.14673714
 # Making Your First Character
 <!-- _class: center major -->
 
-## Step One
+## Step One: Stats
 <!-- _class: center -->
 
 > *Each character in this game has a small number of Basic Stats: the H’s of Humanity. Together, these represent a character's general capabilities at a wide range of tasks and situations.*
@@ -158,7 +191,7 @@ Although Stats you create do not need to start with the letter "H," big kudos if
 
 Finally, if you create a new Stat, the Lifestyle options as written will not benefit your new Stat. So, when your players upgrade their Lifestyle and receive a benefit to one of the first six Basic Stats, they may have that Lifestyle benefit your new Stat instead.
 
-## Step Two
+## Step Two: Background
 <!-- _class: center -->
 
 > *Each character in this game has one of thirteen Lifestyles and one of three Value Systems. These represents characters' general backgrounds, goals, and beliefs about the world, and these can change over the course of the story.*
@@ -216,13 +249,13 @@ As you begin to imagine the world and genre of your campaign, consider what it m
 
 **⚙️ Cunning and Capability** settings are well equipped for cyberpunk, steam punk, hard sci-fi, spy fiction, heist fiction, josei, surveillance-state fiction, noir, and antihero/villain stories. This genre is likely familiar, and fits stories well that have high stakes without necessarily a clear good vs. evil component. The Crafty, Wired, and Compelling upgrade options are the most "default" in such settings.
 
-## Step Three
+## Step Three: History
 <!-- _class: center -->
 
 > *Each character has a History Basic Stat, made up of a number of narrative touchstones unique to them and only them!*
 > *&mdash;snotskie*
 
-### History
+### History Stat
 
 A character's History Stat is used to perform actions more related to their **backstory** than to their other Basic Stats. And even though every character has a History Basic Stat, what their History covers can vary greatly.
 
@@ -271,7 +304,7 @@ If your game's setting allows your players to create non-human characters, there
 - **High Variety:** If each player character has a different non-human background, then the simplest option is to use each character's History Stat to cover one or two simple actions, within reason, that characters of their non-human background could perform unaided that human characters couldn't.
 - **Low Variety:** If player characters all come from just a few non-human background options, then using History to cover this background would clog the scope of the Stat with details that aren't unique to each player. Instead, expand the scope of two or three of the other Stats to cover one or two simple actions each, within reason, that characters of their non-human backgrounds could perform unaided that human characters couldn't.
 
-## Step Four
+## Step Four: Abilities
 <!-- _class: center -->
 
 > *Characters in this game have a set of Abilities that grant them certain actions or bonuses over the course of the game. These Abilities work together with characters' Stats, Lifestyle, Value System, and History to flesh out their key defining traits!*
@@ -596,7 +629,7 @@ Mechanically, there is no way for a character to lose or replace a Ability. Howe
 
 One suggestion is this: Whenever a player gains a new Ability, allow them the opportunity to also replace one of their existing Abilities.
 
-## Step Five
+## Step Five: Items
 <!-- _class: center -->
 
 > *There is not an appendix of items to choose from in this game. Instead, items are narrative and help shape the course of the story.*
@@ -691,7 +724,7 @@ You may also **spend ①①① to receive an additional** upgrade beyond the one
 
 - **💎 Lost:** You feel a disconnect from your own past or former sense of self, perhaps because of an exile from your home, an erased memory, or a period of transition or deep self-reflection. When you have sparks, they might take on an erratic or liminal aspect. Whenever you would fail a Check or lose a Contest while performing a Spark roll using History, protect yourself for $+dcX$, as though you were Helped by your quest for self-discovery, where $X$ is the same sized die used in the Spark roll.
 
-## GM Guide: Catching Players Up
+### GM Guide: Catching Players Up
 <!-- _class: guide -->
 
 Offer players one additional free upgrade at the end of sessions when they would have fewer total upgrades than the player with the most total upgrades.
@@ -699,7 +732,7 @@ Offer players one additional free upgrade at the end of sessions when they would
 # Playing the Game
 <!-- _class: center major -->
 
-## Special Rules about Dice in *Humanity, Blessed*
+## Dice
 <!-- _class: center -->
 
 > *There are two special rules to know about dice in this game: dice "bump," meaning they are rerolled when they roll a $1$, and some dice are "capped," meaning if they would roll a number higher than their cap, they roll the cap instead.*
@@ -1420,11 +1453,13 @@ Group Checks by size:
 | $6$ | Third highest |
 | $7$ | Fourth highest |
 
+<!--
+
 # Endeavor Monstrosities
-<!-- _class: center major guide -->
+<!-- _class: center major guide --
 
 ## What is a Monstrosity?
-<!-- _class: guide -->
+<!-- _class: guide --
 
 A Monstrosity does not have a set of Stats or Abilities in the same way any other character would. While a Monstrosity is a "character" for the sake of wording in rules, Monstrosities feel somehow different, strange, more powerful, just "off," or so on compared to non-Monstrous things. And mechanically they reflect this.
 
@@ -1663,6 +1698,8 @@ If you *do* want to use an experience points (XP) system for your campaign, we r
 This approach allows you to represent larger spoils consistently for larger-feeling Endeavors, while not outpacing the game's linear progression system (the Session Shop).
 
 ## GM Guide: Endeavor Monstrosities
-<!-- _class: guide -->
+<!-- _class: guide --
 
 See the [Endeavor Monstrosities](monstrosities.md) page for more details and samples for creating Monstrosities for Monstrous Endeavors.
+
+-->

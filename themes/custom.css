@@ -107,3 +107,13 @@ th[scope=row] {
 td:empty {
     border: 0;
 }
+
+/* toc */
+#toc a {
+    position: absolute;
+    right: 1in;
+}
+
+#toc .chapter {
+    border-bottom: 3px solid var(--color-foreground);
+}
