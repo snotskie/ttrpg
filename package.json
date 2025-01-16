@@ -3,6 +3,6 @@
     "version": "0.0.0",
     "author": "snotskie <snotskie@gmail.com>",
     "devDependencies": {
-      "@marp-team/marp-cli": "^4.0.4"
+      "@marp-team/marp-cli": "^4.1.0"
     }
   }
