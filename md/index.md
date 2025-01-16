@@ -8,8 +8,8 @@ paginate: true
 headingDivider: 3
 ---
 
-# Humanity, Blessed: TTRPG
-<!-- _class: center -->
+# Humanity, Blessed
+<!-- _class: title -->
 <!-- _paginate: skip -->
 
 <script>
@@ -70,9 +70,11 @@ headingDivider: 3
     });
 </script>
 
-<button onclick="toggleModes()">Toggle Light/Dark Mode</button>
+![bg left](bg.jpg)
 
-<label for="guide-hider">Toggle GM Guide <input id="guide-hider" type="checkbox" onchange="toggleGuides()" /></label>
+A tabletop roleplaying game
+
+snotskie.
 
 ---
 <!-- _paginate: skip -->
@@ -87,6 +89,12 @@ This work is licensed under the Creative Commons Attribution-NonCommercial-NoDer
 
 DOI: 10.5281/zenodo.14673714
 
+Cover typography: Bebas Neue, by Ryoichi Tsunekawa
+
+<button onclick="toggleModes()">Toggle Light/Dark Mode</button>
+
+<label for="guide-hider">Toggle GM Guide <input id="guide-hider" type="checkbox" onchange="toggleGuides()" /></label>
+
 ---
 <!-- _class: center -->
 <!-- _paginate: skip -->
@@ -95,7 +103,7 @@ DOI: 10.5281/zenodo.14673714
 > Blessed with your mother’s face,  
 > And cursed with your father’s mind.
 >
-> &mdash;[James Weldon Johnson](https://www.poetryfoundation.org/poems/49051/a-poet-to-his-baby-son)
+> &mdash;James Weldon Johnson, [*A Poet to His Baby Son*](https://www.poetryfoundation.org/poems/49051/a-poet-to-his-baby-son)
 
 ---
 <!-- _paginate: skip -->

@@ -1,4 +1,4 @@
 Manifest.toml
 site/build
-public
+public/*.html
 node_modules

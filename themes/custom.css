@@ -117,3 +117,23 @@ td:empty {
 #toc .chapter {
     border-bottom: 3px solid var(--color-foreground);
 }
+
+/* title page */
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+section.title {
+    padding-left: 1em;
+    font-family: "Bebas Neue", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+section.title h1 {
+    font-size: 65pt;
+}
+
+section.title p:last-child {
+    position: absolute;
+    bottom: 1in;
+    right: 1in;
+}
