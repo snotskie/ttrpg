@@ -9,6 +9,7 @@
 */
 
 @import "uncover";
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
 
 /* Font */
 :root {
@@ -119,8 +120,6 @@ section.index .chapter {
 }
 
 /* title page */
-@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
-
 section.title {
     padding-left: 1em;
     font-family: "Bebas Neue", serif;
@@ -137,3 +136,6 @@ section.title p:last-child {
     bottom: 1in;
     right: 1in;
 }
+
+/* styling that escapes marp containment */
+@import url("style.css");

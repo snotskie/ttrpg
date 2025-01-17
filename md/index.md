@@ -31,12 +31,6 @@ headingDivider: 3
             toggleModes();
         }
 
-        // escape marp containment
-        const e = document.createElement("style");
-        e.setAttribute("type", "text/css");
-        e.appendChild(document.createTextNode(".secret {display: none}"));
-        document.head.appendChild(e);
-
         // hide guides
         toggleGuides();
     });
@@ -681,13 +675,6 @@ However, some ideas are:
 - Grant the player a $+2$ bonus to a roll in their time of need for each Blessing Dice donated. This is the simplest option presented here, and depending on the situation may feel satisfying or underwhelming.
 - Grant the player a $+X$ bonus to a roll in their time of need, where $X$ is the number of Blessing Dice donated. Then, have them roll $Xd6$; if they roll a $1$ on any of those dice, they gain the $+X$ bonus again and repeat this step. This option likely guarantees success on a vital roll, requires no prior planning, and can feel satisfyingly chaotic.
 
-### GM Guide: Replacing Abilities
-<!-- _class: guide -->
-
-Mechanically, there is no way for a character to lose or replace a Ability. However, you and your player may feel it is narratively appropriate to reflect their character's growth in response to powerful story events. How you rule the change of Abilities is up to you, as the best approach can vary from story to story.
-
-One suggestion is this: Whenever a player gains a new Ability, allow them the opportunity to also replace one of their existing Abilities.
-
 ## Step Five: Items
 <!-- _class: center -->
 
@@ -716,7 +703,7 @@ You do not need to go through the entire character creation process to create NP
 - One Stat Die shared by all the other Stats
 - At most one Ability. If the Ability would require recharging to be used, instead roll a $d6$ as though gaining a Blessing Die. If the NPC would gain a Blessing Die worth enough to recharge the Ability, instead recharge the Ability immediately
 
-## Let's Play!
+## Session Shop
 <!-- _class: center -->
 
 > *Now that you've built your first character, let's play! And after your first session, keep reading to find out what upgrade options are available in the Session Shop!*
@@ -731,15 +718,15 @@ You may also **spend ①①① to receive an additional** upgrade beyond the one
 
 | Basic Stat Upgrade |
 | --- |
-| You may upgrade a single Basic Stat's die one size, from a $d4$ to a $d6$, from a $d6$ to a $d8$, or a $d8$ to a $d10$. If you do, you receive this upgrade immediately. |
-
-| History Upgrade |
-| --- |
-| You may upgrade your History Basic Stat based on the events of the session by making two changes, two additions, or one of each to the scope of that Stat; in any case, this scope may not have more than seven narrative touchstones listed. If you do choose this upgrade, you receive this upgrade immediately. |
+| You may upgrade a single Basic Stat's die one size, from a $d4$ to a $d6$, from a $d6$ to a $d8$, or a $d8$ to a $d10$. If you do, you receive this upgrade immediately. You may only receive this Upgrade $10$ times. |
 
 | Ability Upgrade |
 | --- |
-| You may use your upgrade to gain an additional Ability, up to a maximum of five total Abilities. If you do, you receive this upgrade at the end of the following session. When you gain your final Ability this way, you may instead create one of your own and gain it, within reason. |
+| You may use your upgrade to gain an additional Ability. If you do, you receive this upgrade at the end of the following session. You may only receive this Upgrade $3$ times. |
+
+| Free Adjustments |
+| --- |
+| Whenever you receive the Basic Stat Upgrade, you may, as a free adjustment, downgrade one of your Stat dice one size and upgrade a different Stat die one size instead. And whenever you receive the Ability Upgrade, you may, as a free adjustment, lose one Ability and replace it with another. |
 
 ---
 <!-- _class: ability -->
@@ -782,6 +769,10 @@ You may also **spend ①①① to receive an additional** upgrade beyond the one
 | Regardless of your starting Lifestyle, you may upgrade your Lifestyle to Lost. If you do, you receive this upgrade at the end of the following session. Then, once your Lifestyle is Lost, you may upgrade your Lifestyle to any other option. If you do, you receive this upgrade at the end of the following session. |
 
 - **💎 Lost:** You feel a disconnect from your own past or former sense of self, perhaps because of an exile from your home, an erased memory, or a period of transition or deep self-reflection. When you have sparks, they might take on an erratic or liminal aspect. Whenever you would fail a Check or lose a Contest while performing a Spark roll using History, protect yourself for $+dcX$, as though you were Helped by your quest for self-discovery, where $X$ is the same sized die used in the Spark roll.
+
+| History Upgrade |
+| --- |
+| You may upgrade the scope of your History Basic Stat based on the events of the session by making two changes, two additions, or one of each to the scope of that Stat. This scope may not have more than seven narrative touchstones listed. If you choose this upgrade, you receive this upgrade immediately. |
 
 ### GM Guide: Catching Players Up
 <!-- _class: guide -->

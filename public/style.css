@@ -1,0 +1,14 @@
+/* hide dm guide */
+.secret {
+    display: none;
+}
+
+/* boring scrolling */
+body {
+    scroll-snap-type: initial;
+}
+
+svg {
+    height: unset !important;
+    max-height: 100%;
+}
