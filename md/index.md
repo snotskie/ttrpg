@@ -38,7 +38,8 @@ headingDivider: 3
     window.addEventListener("load", function(){
         const toc = document.getElementById("toc");
         document.querySelectorAll("h1,h2").forEach(function(e){
-            const page = e.closest("section").getAttribute("data-marpit-pagination");
+            const section = e.closest("section");
+            const page = section.getAttribute("data-marpit-pagination");
             if (page){
                 const toc_line = document.createElement("p");
                 toc.appendChild(toc_line);
@@ -57,7 +58,7 @@ headingDivider: 3
                 const page_no = document.createElement("a");
                 toc_line.appendChild(page_no);
                 page_no.innerText = page;
-                page_no.setAttribute("href", "#" + e.getAttribute("id"));
+                page_no.setAttribute("href", "#" + section.getAttribute("id"));
             }
         });
 
@@ -1283,6 +1284,67 @@ The details depend on your situation, but you may give the "sides" of the large-
 
 Then use the results to improvise the narrative at that scale before returning to the view of how that large-scale narrative makes itself known at the smaller player character scale.
 
+## Conditions
+<!-- _class: center -->
+
+> *While most effects serve to shape the narrative of the game, your GM may find it appropriate to also apply conditions to characters when the situation calls for it.*
+> *&mdash;snotskie*
+
+### Surprise Threat
+
+When a character is surprised by a threat, their first roll in response to it cannot bump and cannot be a Spark Stat Check.
+
+### Coolness
+
+Some events challenge your resolve, throw you off your game, cause you great embarrassment, or so on. When these happen, you may become Uncool.
+
+While you are Uncool, all rolls you make are modified by $-1$. Once during each scene that follows, you may attempt a Check to remove this condition.
+
+### GM Guide: Becoming Uncool
+<!-- _class: guide -->
+
+The Uncool mechanic is a way to break the tension and bring comedy to your game. It is also a way to represent small story arcs where characters feel bad after some failed action, and take action later to feel better about it. And it is a way to connect player characters more to the non-player characters watching them.
+
+How and when you dole out this condition depends on what is best for your table, players, and story. A suggestion is to help the player tell the story of how their character is feeling after a particularly bad roll (failing or losing by $5$ or more). Who else is around that saw it happen? How would their Hero feel? How does this relate to what they've established about their backstory, goal, Lifestyle, or connection to other characters?
+
+Equally important is how you give the players opportunities to *remove* this condition. Each attempt should be a fun, satisfying story beat that helps shape the narrative of how the player's character grows.
+
+So when you build the narrative around how a character becomes Uncool and what this means for their connections to other characters, keep in the back of your head how you could use these same connections later to remove the condition and offer the player a chance to roleplay growth from their earlier failure.
+
+### Wounds
+
+You do not have "hit points" in this game. Nor do you have any "defensive" Stats. When you're hit, you're hit.
+
+In this game, wounds primarily serve to shape narrative arcs. The worse the wound, the longer lasting the impact and the greater lengths you may have to go to treat them.
+
+Additionally, injuries you receive may affect specific Stats, and these effects may range in degree. The lowest degree injury conditions are "aches," and the worst are "vulnerabilities."
+
+- **Ache:** Rolls you make with the affected Stat that would roll the highest value on the die instead roll the second highest. This condition lasts until the end of the scene. *For example, Headache, Handcramp, Heartache, and Homesick.*
+- **Pain:** Rolls you make with the affected Stat are made with a $-1$ modifier. This condition lasts until you rest in a safe place. *For example, Migraine, Soreness, Sadness, and Robbery.*
+- **Weakness:** Rolls you make with the affected Stat cannot receive Help, including Help from items, Abilities, or situations. This condition lasts until it is treated. *For example, Confusion, Exhaustion, Dejection, and Illness.*
+- **Vulnerability:** When an opposing character witnesses you perform a roll using the affected Stat, they may have you perform the roll again and use the new value. This condition lasts until it is treated. *For example, Memory Loss, Numbness, Wretchedness, and Destitution.*
+
+### GM Guide: Describing Wounds
+<!-- _class: guide -->
+
+When describing the results of wounds dealt to or by the player characters, don't only rely on status conditions or descriptions of injuries.
+
+Include variety over the course of the campaign: What does the Attacker *want*? The character's motivations should drive the narrative, not just the game mechanics.
+
+You can treat minor and medium wounds as ways the Attacker can get at what they want from the Defender in the scene, which is not always to just inflict injury on others. And you can treat major wounds as representing going too far using violent means to get what they want.
+
+When a character suffers a major wound, it can be unsatisfying for them to be immediately removed from the game. Instead, you might draw the tension and possibility to respond out further. One way to do so is to provide the wounded character's allies opportunity to perform a Home Contest against the same roll that the Attacker used to inflict the major wound. If an ally wins the Contest by $5$ or more, then the wound is successfully treated, perhaps reducing it to a medium or minor wound. However, if the Attacker is able to roll $5$ or more on a Hurt Stat Check before the allies can successfully treat the wound, then the Attacker may deliver a *coup de grace* to finish off the wounded.
+
+### Other Conditions
+
+- **Agreeable to $X$:** Rolls you make as a Defender in non-violent Contests where $X$ is an Attacker that would roll the highest value on the die instead roll the second highest. If $X$ does an action or makes a request that would bring you harm, this condition ends.
+- **Famous:** You may exert your fame over a character who is less famous than you, gaining a $+dc2$ bonus in a Contest against them. You may not do so against the same character more than once during the same session or while you are Uncool.
+- **Muddled:** The next roll you make when determining the Focal Action in an Endeavor is made with a $-2$ modifier. Then, this condition ends.
+- **Cursed:** Dice in your pool of Blessing Dice are each worth $1$ less, to a minimum of $0$. This condition ends when you remove its cause.
+- **Distracted:** Rolls you make do not bump. This condition ends when you remove its cause.
+- **Disarmed:** If you would win a violent Contest as the Attacker with a Maximum outcome, you win with a Very Major outcome instead. When you find a new weapon or take a moment to recompose yourself, this condition ends.
+- **Taxed:** You cannot perform Spark Stat Checks. Spending ①① ends this condition.
+
 ## Special Endeavors
 <!-- _class: center -->
 
@@ -1362,7 +1424,7 @@ Some campaigns or sessions may involve the player characters and their allies fa
 
 These sorts of Endeavors are run like any other Endeavor, with the following additions:
 
-- **Muddle Buttons:** When each Monstrosity joins the Endeavor, it adds one or more "muddle buttons" to the number line. When the movement of a player character or one of their allies moves over one of these points on the number line, that Monstrosity is Muddled (see the Other Conditions section at the end of this chatper) for the next round, representing a momentary crack in the Monstrosity's defenses&mdash;literally or figuratively. Then, the button is removed. If a player character or one of their allies would activate multiple muddle buttons in one round, that character instead chooses just one to activate. Be warned though, as some Monstrosities have Abilities that grow in power the more times they've been muddled this way!
+- **Muddle Buttons:** When each Monstrosity joins the Endeavor, it adds one or more "muddle buttons" to the number line. When the movement of a player character or one of their allies moves over one of these points on the number line, that Monstrosity is Muddled for the next round, representing a momentary crack in the Monstrosity's defenses&mdash;literally or figuratively. Then, the button is removed. If a player character or one of their allies would activate multiple muddle buttons in one round, that character instead chooses just one to activate. Be warned though, as some Monstrosities have Abilities that grow in power the more times they've been muddled this way!
 - **Stamina:** Each Monstrosity has an amount of "stamina." At the end of each round, if the player characters and their allies have a combined value on the number line equal to or greater than a Monstrosity's stamina, those characters may move backwards on the number line a total amount equal to the Monstrosity's stamina. If they do, they non-lethally remove that Monstrosity from the Endeavor and narrate what happens.
 
 ### 🏇 Race Endeavors
@@ -1393,122 +1455,17 @@ These sorts of Endeavors are run like any other Endeavor, with the following add
 - **Failed Checks Increase Alertness:** Whenever a character fails a Check or loses a Contest while resolving a Focal Action or Side Action, the "alertness" of the Endeavor increases, represented by an additional alarm button being added to the number line.
 - **Negative Help:** Whenever a character receives Help, they may choose to subtract the bonus from their roll instead of adding it as usual.
 
-## Conditions
-<!-- _class: center -->
-
-> *While most effects serve to shape the narrative of the game, your GM may find it appropriate to also apply conditions to characters when the situation calls for it.*
-> *&mdash;snotskie*
-
-### Surprise Threat
-
-When a character is surprised by a threat, their first roll in response to it cannot bump and cannot be a Spark Stat Check.
-
-### Coolness
-
-Some events challenge your resolve, throw you off your game, cause you great embarrassment, or so on. When these happen, you may become Uncool.
-
-While you are Uncool, all rolls you make are modified by $-1$. Once during each scene that follows, you may attempt a Check to remove this condition.
-
-### GM Guide: Becoming Uncool
-<!-- _class: guide -->
-
-The Uncool mechanic is a way to break the tension and bring comedy to your game. It is also a way to represent small story arcs where characters feel bad after some failed action, and take action later to feel better about it. And it is a way to connect player characters more to the non-player characters watching them.
-
-How and when you dole out this condition depends on what is best for your table, players, and story. A suggestion is to help the player tell the story of how their character is feeling after a particularly bad roll (failing or losing by $5$ or more). Who else is around that saw it happen? How would their Hero feel? How does this relate to what they've established about their backstory, goal, Lifestyle, or connection to other characters?
-
-Equally important is how you give the players opportunities to *remove* this condition. Each attempt should be a fun, satisfying story beat that helps shape the narrative of how the player's character grows.
-
-So when you build the narrative around how a character becomes Uncool and what this means for their connections to other characters, keep in the back of your head how you could use these same connections later to remove the condition and offer the player a chance to roleplay growth from their earlier failure.
-
-### Wounds
-
-You do not have "hit points" in this game. Nor do you have any "defensive" Stats. When you're hit, you're hit.
-
-In this game, wounds primarily serve to shape narrative arcs. The worse the wound, the longer lasting the impact and the greater lengths you may have to go to treat them.
-
-Additionally, injuries you receive may affect specific Stats, and these effects may range in degree. The lowest degree injury conditions are "aches," and the worst are "vulnerabilities."
-
-- **Ache:** Rolls you make with the affected Stat that would roll the highest value on the die instead roll the second highest. This condition lasts until the end of the scene. *For example, Headache, Handcramp, Heartache, and Homesick.*
-- **Pain:** Rolls you make with the affected Stat are made with a $-1$ modifier. This condition lasts until you rest in a safe place. *For example, Migraine, Soreness, Sadness, and Robbery.*
-- **Weakness:** Rolls you make with the affected Stat cannot receive Help, including Help from items, Abilities, or situations. This condition lasts until it is treated. *For example, Confusion, Exhaustion, Dejection, and Illness.*
-- **Vulnerability:** When an opposing character witnesses you perform a roll using the affected Stat, they may have you perform the roll again and use the new value. This condition lasts until it is treated. *For example, Memory Loss, Numbness, Wretchedness, and Destitution.*
-
-### GM Guide: Describing Wounds
-<!-- _class: guide -->
-
-When describing the results of wounds dealt to or by the player characters, don't only rely on status conditions or descriptions of injuries.
-
-Include variety over the course of the campaign: What does the Attacker *want*? The character's motivations should drive the narrative, not just the game mechanics.
-
-You can treat minor and medium wounds as ways the Attacker can get at what they want from the Defender in the scene, which is not always to just inflict injury on others. And you can treat major wounds as representing going too far using violent means to get what they want.
-
-When a character suffers a major wound, it can be unsatisfying for them to be immediately removed from the game. Instead, you might draw the tension and possibility to respond out further. One way to do so is to provide the wounded character's allies opportunity to perform a Home Contest against the same roll that the Attacker used to inflict the major wound. If an ally wins the Contest by $5$ or more, then the wound is successfully treated, perhaps reducing it to a medium or minor wound. However, if the Attacker is able to roll $5$ or more on a Hurt Stat Check before the allies can successfully treat the wound, then the Attacker may deliver a *coup de grace* to finish off the wounded.
-
-### Other Conditions
-
-- **Agreeable to $X$:** Rolls you make as a Defender in non-violent Contests where $X$ is an Attacker that would roll the highest value on the die instead roll the second highest. If $X$ does an action or makes a request that would bring you harm, this condition ends.
-- **Famous:** You may exert your fame over a character who is less famous than you, gaining a $+dc2$ bonus in a Contest against them. You may not do so against the same character more than once during the same session or while you are Uncool.
-- **Muddled:** The next roll you make when determining the Focal Action in an Endeavor is made with a $-2$ modifier. Then, this condition ends.
-- **Cursed:** Dice in your pool of Blessing Dice are each worth $1$ less, to a minimum of $0$. This condition ends when you remove its cause.
-- **Distracted:** Rolls you make do not bump. This condition ends when you remove its cause.
-- **Disarmed:** If you would win a violent Contest as the Attacker with a Maximum outcome, you win with a Very Major outcome instead. When you find a new weapon or take a moment to recompose yourself, this condition ends.
-- **Taxed:** You cannot perform Spark Stat Checks. Spending ①① ends this condition.
-
-# Quick Reference
-<!-- _class: center major quick -->
-
-### Endeavors
-<!-- _class: quick -->
-
-1. **Focal Action Advantage Movement:** Highest roller moves equal to their roll. Reminder: Declare if you are grouping with others or Helping before you roll; if you Help you don't roll.
-2. **Other Movements:** Resolve all actions one at a time. First the highest roller above, then lowest, second-lowest, and so on. Succeed a Check or win a Contest to move according to Endeavor Movement Table. If someone else attacks you before you can act, your action is interrupted. You cannot attack someone who has already acted or already been attacked.
-
-### Tables
-<!-- _class: quick -->
-
-Outcome Size and Endeavor Movement:
-
-| Outcome size | Succeed a Check by rolling at most... | Win a Contest by rolling at most...more than opponent | Endeavor spaces moved |
-| --- | --- | --- | --- |
-| Very Minor | 3 | 1 | 1 |
-| Minor | 7 | 3 | 2 |
-| Medium | 11 | 5 | 3 |
-| Major | 15 | 7 | 5 |
-| Very Major | 19 | 9 | 8 |
-| Maximum | 20 or more | 10 or more | 13 |
-
-Helping Cost:
-
-| Blessing Dice Spent | Bonus Added |
-| ------------------- | ----------- |
-| ① | $+1$ |
-| ①① | $+dc2$ |
-| ①①① | $+dc3$ |
-| ①①①① | $+dc4$ |
-| ① $\times 5$ | $+dc5$ |
-| $\ldots$ | $\ldots$ |
-| ① $\times 10$ | $+dc10$ |
-
----
-<!-- _class: quick -->
-
-Group Checks by size:
-
-| Group size | Roll used |
-| ---------- | --------- |
-| $2$ | Highest |
-| $3$ | Second highest |
-| $4$ | Second highest |
-| $5$ | Third highest |
-| $6$ | Third highest |
-| $7$ | Fourth highest |
+# GM Guide: Summons and Monstrosities
+<!-- _class: center major guide -->
 
 <!--
 
-# Endeavor Monstrosities
-<!-- _class: center major guide --
+### GM Guide: Endeavor Monstrosities
+<!-- _class: guide --
 
-## What is a Monstrosity?
+See the [Endeavor Monstrosities](monstrosities.md) page for more details and samples for creating Monstrosities for Monstrous Endeavors.
+
+### What is a Monstrosity?
 <!-- _class: guide --
 
 A Monstrosity does not have a set of Stats or Abilities in the same way any other character would. While a Monstrosity is a "character" for the sake of wording in rules, Monstrosities feel somehow different, strange, more powerful, just "off," or so on compared to non-Monstrous things. And mechanically they reflect this.
@@ -1521,11 +1478,11 @@ If your players are facing off against other non-Monstrous characters, then refl
 
 Reserve Monstrous Endeavors for encounters that are truly Monstrous.
 
-## Monstrous Stats
+### Monstrous Stats
 
 Instead of a number of Stat dice, a Monstrosity has a single die shared by all their Stats. And to allow a finer gradient of "weak" to "strong" Monstrosities, their Stat dice is a capped die, from $dc2$ to $dc10$.
 
-## Stronger Monstrosities
+### Stronger Monstrosities
 
 The die cap $dc10$ is the strongest die cap a Monstrosity can have, and the player characters will, in just a few sessions, catch up to this point.
 
@@ -1533,7 +1490,7 @@ For higher level Endeavors, you may give your Monstrosities Abilities, choosing 
 
 Additionally, you may have your Monstrosities enter Endeavors with a number of Blessings.
 
-## Monstrous Abilities
+### Monstrous Abilities
 
 All Monstrosities have the Capture Ability.
 
@@ -1575,7 +1532,7 @@ It is also recommended that you do not give your Monstrosities many Abilities&md
 
 **Merciless:** At the end of each round, gain a number of Blessings equal to the number of times you've been Muddled.
 
-## Spoils
+### Spoils
 
 Characters do not level up or gain experience points for defeating Monstrosities. Instead, like any other important moment in the narrative, you may choose to award your players Blessings for progressing through a milestone or for creative or cooperative gameplay during the Monstrous Endeavor. 
 
@@ -1583,7 +1540,7 @@ Additionally, at the end of a Monstrous Endeavor, you may permit your players to
 
 These narratively reflective moments after a Monstrous Endeavor can be a great chance to rebalance the narrative tension while giving your players agency in thinking about where the story goes next.
 
-## Example Monstrosities
+### Example Monstrosities
 
 The following table shows a variety of example Monstrosity builds. For each, it shows their die cap, how many Blessings they enter Endeavors with, their Stamina, at what position(s) the Monstrosity's muddle buttons are placed, their Abilities (if any), and a brief comment about that build. The purpose of this table is not to provide a compendium of Monstrosities to choose from, but to provide enough examples to give you a sense of mechanically balanced Monstrosities so that you can create memorable, fun Monstrous Encounters of your own.
 
@@ -1720,7 +1677,7 @@ border: 1px solid rgba(128, 128, 128, 0.5);
 </tr>
 </table>
 
-## Monstrosity Equations
+### Monstrosity Equations
 
 As another starting point, the following relationships between the parts of a Monstrosity's build tend to produce balanced, mechanically familiar builds:
 
@@ -1730,7 +1687,7 @@ As another starting point, the following relationships between the parts of a Mo
 - Almost all Monstrosities have only a single muddle button, placed on the number line at a point ranging form around one fifth to one half of their Stamina. Muddle button positions around the low end of this range give an "unprotected" feel, and positions around the high end give an "armored" feel. Also, pairing a low muddle button position with the Revenge ability gives a "hair trigger" feel.
 - For Monstrosities with an "arc boss" feel, give them multiple evenly spaced muddle buttons, paired with Unrelenting or Merciless.
 
-## Optional: Experience Points
+### Optional: Experience Points
 
 If you *do* want to use an experience points (XP) system for your campaign, we recommend the following:
 
@@ -1747,9 +1704,53 @@ If you *do* want to use an experience points (XP) system for your campaign, we r
 
 This approach allows you to represent larger spoils consistently for larger-feeling Endeavors, while not outpacing the game's linear progression system (the Session Shop).
 
-## GM Guide: Endeavor Monstrosities
-<!-- _class: guide --
-
-See the [Endeavor Monstrosities](monstrosities.md) page for more details and samples for creating Monstrosities for Monstrous Endeavors.
-
 -->
+
+# Quick Reference
+<!-- _class: center major quick -->
+
+### Endeavors
+<!-- _class: quick -->
+
+1. **Focal Action Advantage Movement:** Highest roller moves equal to their roll. Reminder: Declare if you are grouping with others or Helping before you roll; if you Help you don't roll.
+2. **Other Movements:** Resolve all actions one at a time. First the highest roller above, then lowest, second-lowest, and so on. Succeed a Check or win a Contest to move according to Endeavor Movement Table. If someone else attacks you before you can act, your action is interrupted. You cannot attack someone who has already acted or already been attacked.
+
+### Tables
+<!-- _class: quick -->
+
+Outcome Size and Endeavor Movement:
+
+| Outcome size | Succeed a Check by rolling at most... | Win a Contest by rolling at most...more than opponent | Endeavor spaces moved |
+| --- | --- | --- | --- |
+| Very Minor | 3 | 1 | 1 |
+| Minor | 7 | 3 | 2 |
+| Medium | 11 | 5 | 3 |
+| Major | 15 | 7 | 5 |
+| Very Major | 19 | 9 | 8 |
+| Maximum | 20 or more | 10 or more | 13 |
+
+Helping Cost:
+
+| Blessing Dice Spent | Bonus Added |
+| ------------------- | ----------- |
+| ① | $+1$ |
+| ①① | $+dc2$ |
+| ①①① | $+dc3$ |
+| ①①①① | $+dc4$ |
+| ① $\times 5$ | $+dc5$ |
+| $\ldots$ | $\ldots$ |
+| ① $\times 10$ | $+dc10$ |
+
+---
+<!-- _class: quick -->
+
+Group Checks by size:
+
+| Group size | Roll used |
+| ---------- | --------- |
+| $2$ | Highest |
+| $3$ | Second highest |
+| $4$ | Second highest |
+| $5$ | Third highest |
+| $6$ | Third highest |
+| $7$ | Fourth highest |
