@@ -44,7 +44,6 @@ headingDivider: 3
     window.addEventListener("load", function(){
         const toc = document.getElementById("toc");
         document.querySelectorAll("h1,h2").forEach(function(e){
-            console.log(e);
             const page = e.closest("section").getAttribute("data-marpit-pagination");
             if (page){
                 const toc_line = document.createElement("p");
@@ -65,6 +64,43 @@ headingDivider: 3
                 toc_line.appendChild(page_no);
                 page_no.innerText = page;
                 page_no.setAttribute("href", "#" + e.getAttribute("id"));
+            }
+        });
+
+        var abix = document.getElementById("abix");
+        var i = 0;
+        var prev_page = -1;
+        document.querySelectorAll(".ability th").forEach(function(e){
+            const section = e.closest("section");
+            const page = section.getAttribute("data-marpit-pagination");
+            if (page){
+                const abix_line = document.createElement("p");
+                abix.appendChild(abix_line);
+                if (page !== prev_page){
+                    const entry = document.createElement("strong");
+                    abix_line.appendChild(entry);
+                    abix_line.classList.add("chapter");
+                    entry.innerText = e.innerText;
+                } else {
+                    const entry = document.createElement("em");
+                    abix_line.appendChild(entry);
+                    abix_line.classList.add("section");
+                    entry.innerText = e.innerText;
+                }
+
+                const page_no = document.createElement("a");
+                abix_line.appendChild(page_no);
+                page_no.innerText = page;
+                page_no.setAttribute("href", "#" + section.getAttribute("id"));
+                ++i;
+                prev_page = page;
+                if (i === 18){
+                    abix = document.getElementById("abix2");
+                    // prev_page = -1;
+                } else if (i === 38){
+                    abix = document.getElementById("abix3");
+                    // prev_page = -1;
+                }
             }
         });
     });
@@ -107,8 +143,23 @@ Cover typography: Bebas Neue, by Ryoichi Tsunekawa
 
 ---
 <!-- _paginate: skip -->
+<!-- _class: index -->
+<div id="toc"><h3>Contents</h3></div>
 
-<div id="toc"></div>
+---
+<!-- _paginate: skip -->
+<!-- _class: index -->
+<div id="abix"><h3>Abilities &amp; Upgrades</h3></div>
+
+---
+<!-- _paginate: skip -->
+<!-- _class: index -->
+<div id="abix2"></div>
+
+---
+<!-- _paginate: skip -->
+<!-- _class: index -->
+<div id="abix3"></div>
 
 ## About
 

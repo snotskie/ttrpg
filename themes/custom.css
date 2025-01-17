@@ -109,12 +109,12 @@ td:empty {
 }
 
 /* toc */
-#toc a {
+section.index a {
     position: absolute;
     right: 1in;
 }
 
-#toc .chapter {
+section.index .chapter {
     border-bottom: 3px solid var(--color-foreground);
 }
 
