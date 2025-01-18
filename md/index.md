@@ -71,7 +71,7 @@ headingDivider: 3
             if (page){
                 const abix_line = document.createElement("p");
                 abix.appendChild(abix_line);
-                if (page !== prev_page){
+                if (page !== prev_page || e.innerText.endsWith("Upgrade")){
                     const entry = document.createElement("strong");
                     abix_line.appendChild(entry);
                     abix_line.classList.add("chapter");
@@ -167,10 +167,10 @@ Cover typography: Bebas Neue, by Ryoichi Tsunekawa
 ## Step One: Stats
 <!-- _class: center -->
 
-> *Each character in this game has a small number of Basic Stats: the H’s of Humanity. Together, these represent a character's general capabilities at a wide range of tasks and situations.*
+> *Each character in this game has a small number of Stats: the H’s of Humanity. Together, these represent a character's general capabilities at a wide range of tasks and situations.*
 > *&mdash;snotskie*
 
-### Basic Stats
+### Stats
 
 **🧠 Head:** Intellectual pursuits, problem solving, puzzles, riddles, scanning for information, recalling facts, insight, reasoning, operating and building complex machines, playing practiced music, picking locks. With a high Head Stat you can tackle intellectual puzzles with ease. With a low Head Stat you may find yourself confounded easily or solutions to puzzles just outside your reach.
 
@@ -186,7 +186,7 @@ Cover typography: Bebas Neue, by Ryoichi Tsunekawa
 
 **⚠️ Hurry:** Escaping danger, reacting by instinct, surges of adrenaline. With a high Hurry Stat you find that your body moves easily to keep you safe from danger. With a low Hurry Stat you might freeze up more often than you'd like.
 
-**⏳ History:** Narrative touchstones representing your unique specializations, skills, proficiencies, hardships, and other aspects covered by your character's backstory and the history of their people, but not covered by or more specific than the other Basic Stats above. With a high History Stat you have achieved the specialized training you set out to achieve. With a low History Stat your specific worries and weaknesses seem to creep up more often.
+**⏳ History:** Narrative touchstones representing your unique specializations, skills, proficiencies, hardships, and other aspects covered by your character's backstory and the history of their people, but not covered by or more specific than the other Stats above. With a high History Stat you have achieved the specialized training you set out to achieve. With a low History Stat your specific worries and weaknesses seem to creep up more often.
 
 ### Character Creation: Step One!
 <!-- _class: creation -->
@@ -195,9 +195,9 @@ Your first task is to decide which Stats your character is best (and worst) at. 
 
 As you do, begin to think about the story your character takes on in your mind. **Why are they good at this and not at that?** Why is one important to them and not the other? What are they trying to improve? What do they like getting help from others on?
 
-When you begin the game, most of your Basic Stats are equal, using a $d4$ for their Basic Stat Checks. However, the Basic Stat you ranked as your **highest Stat begins the game one die size larger**. Your Lifestyle also increases your starting Basic Stat dice.
+When you begin the game, most of your Stats are equal, using a $d4$ for their Checks. However, the Stat you ranked as your **highest Stat begins the game one die size larger**. Your Lifestyle also increases your starting Stat Dice.
 
-All of your Basic Stat dice can be upgraded later in the Session Shop section at the end of this chapter.
+All of your Stat Dice can be upgraded later in the Session Shop section at the end of this chapter.
 
 ### GM Guide: Creating Other Stats
 <!-- _class: guide -->
@@ -222,14 +222,14 @@ For example, you might create a Stat to represent the "magic" of the setting:
 
 Or you might create a Stat to represent how characters relate to a unique obstacle of the setting:
 
-- **💀 Hardship:** Shared narrative touchstones of the story setting that represent the town's obstacles, troubles, and adversities. This Stat cannot be upgraded beyond a $d4$, but can still be involved in Spark rolls and be boosted by Abilities like other Basic Stats. *E.g. for a suspense horror style setting.*
+- **💀 Hardship:** Shared narrative touchstones of the story setting that represent the town's obstacles, troubles, and adversities. This Stat cannot be upgraded beyond a $d4$, but can still be involved in Spark rolls and be boosted by Abilities like other Stats. *E.g. for a suspense horror style setting.*
 - **👻 Haunted:** Dark narrative touchstones representing a character's fears, a curse they can't escape, or a malevolent force that haunts them. This Stat begins the game as a $d10$, yet can be decreased in the same way other Stats are normally increased, down to a minimum of a $d4$. Players do not choose to use this Stat. Instead, whenever the thing that haunts them is present (whether the character is aware of its presence or not), after the character has performed a roll, they then roll their Haunted Stat and subtract its value from the original roll's result. This Stat's die bumps as normal. *E.g. for a Poe style setting.*
 
 ---
 <!-- _class: guide -->
 
-- **🌳 Hardy:** Shared narrative touchstones emerging from each session's obstacles that represent the players' combined efforts against the challenges they have faced. This Stat is shared by all players at the table, and it cannot be upgraded by the normal means. Instead, it begins each session as a $d4$. When a player fails a Check or loses a Contest against a non-player character, this Stat upgrades to the next die size, to a maximum of a $d10$. Any player may choose to use the Hardy die instead of one of their other Stat dice for any roll; when they do, this Stat returns to a $d4$. *E.g. for a coming of age style setting.*
-- **⚫ Haze:** Dark narrative touchstones representing a character's descent into madness or confusion. This die begins the game as a $dc1$ and is only increased when the character fails certain Checks or loses certain Contests against the ever-present darkness, at which point it increases by one capped die size. When another character makes an action against this character, that other character may choose to use this character's Haze Stat die instead of their own usual die for the roll. *E.g. for a psychological horror style setting.*
+- **🌳 Hardy:** Shared narrative touchstones emerging from each session's obstacles that represent the players' combined efforts against the challenges they have faced. This Stat is shared by all players at the table, and it cannot be upgraded by the normal means. Instead, it begins each session as a $d4$. When a player fails a Check or loses a Contest against a non-player character, this Stat upgrades to the next die size, to a maximum of a $d10$. Any player may choose to use the Hardy die instead of one of their other Stat Dice for any roll; when they do, this Stat returns to a $d4$. *E.g. for a coming of age style setting.*
+- **⚫ Haze:** Dark narrative touchstones representing a character's descent into madness or confusion. This die begins the game as a $dc1$ and is only increased when the character fails certain Checks or loses certain Contests against the ever-present darkness, at which point it increases by one capped die size. When another character makes an action against this character, that other character may choose to use this character's Haze Stat Die instead of their own usual die for the roll. *E.g. for a psychological horror style setting.*
 
 ---
 <!-- _class: guide -->
@@ -243,7 +243,7 @@ However, please note, if you want to create a new Stat, it must:
 
 Although Stats you create do not need to start with the letter "H," big kudos if you can keep the alliteration going!
 
-Finally, if you create a new Stat, the Lifestyle options as written will not benefit your new Stat. So, when your players upgrade their Lifestyle and receive a benefit to one of the first six Basic Stats, they may have that Lifestyle benefit your new Stat instead.
+Finally, if you create a new Stat, the Lifestyle options as written will not benefit your new Stat. So, when your players upgrade their Lifestyle and receive a benefit to one of the first six Stats, they may have that Lifestyle benefit your new Stat instead.
 
 ## Step Two: Background
 <!-- _class: center -->
@@ -306,19 +306,19 @@ As you begin to imagine the world and genre of your campaign, consider what it m
 ## Step Three: History
 <!-- _class: center -->
 
-> *Each character has a History Basic Stat, made up of a number of narrative touchstones unique to them and only them!*
+> *Each character has a History Stat, made up of a number of narrative touchstones unique to them and only them!*
 > *&mdash;snotskie*
 
 ### History Stat
 
-A character's History Stat is used to perform actions more related to their **backstory** than to their other Basic Stats. And even though every character has a History Basic Stat, what their History covers can vary greatly.
+A character's History Stat is used to perform actions more related to their **backstory** than to their other Stats. And even though every character has a History Stat, what their History covers can vary greatly.
 
-When both your History Stat and another Basic Stat would be applicable in a situation, the GM may decide which applies more. Otherwise, you choose which to use.
+When both your History Stat and another Stat would be applicable in a situation, the GM may decide which applies more. Otherwise, you choose which to use.
 
 ### Character Creation: Step Three!
 <!-- _class: creation -->
 
-Begin to describe your character's backstory. Answer the following prompts, or others given to you by your GM. These background details will help you and your GM build the story and set the scope of the narrative touchstones your History Stat Checks cover.
+Begin to describe your character's backstory. Answer the following prompts, or others given to you by your GM. These background details will help you and your GM build the story and set the scope of the narrative touchstones your History Checks cover.
 
 - Describe **who your character looks up to**, whose work they strive to emulate, who taught them everything they know, or so on. What would it look like to make their Hero happy? upset? What is their connection to their Hero, and what is their Hero up to in the world now?
 - List **three specific skills** that your character has proven their ability in, such as through schooling, study, training, specialization within their team, or so on.
@@ -341,7 +341,7 @@ As you work with your players to develop their backstory, come up with a list of
 - Friendly Interactions with the Empire (for someone raised in the Empire)
 - Unfriendly Interactions with the Rebels (for someone raised in the Empire)
 
-Consider what *unique* skills, proficiencies, traits, and backstory elements each character brings to the story. Also consider the *variety* of a character's narrative touchstones: if all or most of them would be covered already by another Basic Stat, then the player would have no reason to use or upgrade their History Basic Stat!
+Consider what *unique* skills, proficiencies, traits, and backstory elements each character brings to the story. Also consider the *variety* of a character's narrative touchstones: if all or most of them would be covered already by another Stat, then the player would have no reason to use or upgrade their History Stat!
 
 ### GM Guide: Party History
 <!-- _class: guide -->
@@ -370,7 +370,7 @@ As your read more about the Abilities that follow, you may want to consult the P
 
 Also note, several Abilities describe a possible failed Check or lost Contest and say to **protect yourself for $+dcX$** in response. When you do, you gain a $+dcX$ bonus to the roll, as though you were Helped by the trait that protected you, possibly turning the failure into a success or loss into a win. You can only be protected this way once per roll. If multiple effects would protect you this way during the same roll, only one of them applies and you choose which one to use.
 
-Some Abilities also **require and extend** another Ability. Such Abilities cannot be gained until you've first gained the required Ability. And when you gain such an Ability, it does not count against your total number of Abilities. However, you can only extend any particular Ability once this way. If an Ability would extend an already extended Ability, it still does count against your total number of Abilities.
+Some Abilities also **require and extend** another Ability. Such Abilities cannot be gained until you've first gained the required Ability. And when you gain such an Ability, it does not count against your number of Ability Upgrades received. However, you can only extend any particular Ability once this way. If an Ability would extend an already extended Ability, it still does count against your total number of Abilities.
 
 And finally, some Abilities, once activated, cannot be activated again until they have been **recharged** by spending Ⓧ from your pool of Blessing Dice.
 
@@ -527,7 +527,7 @@ With that in mind, **pick two** of the following Abilities with the **[Starter]*
 
 | Radical Self-Acceptance [Starter] |
 | --- |
-| While you are Uncool, you may roll Checks using a different Basic Stat than normal. Then once a Check succeeds this way, you are no longer Uncool. |
+| While you are Uncool, you may roll Checks using a different Stat than normal. Then once a Check succeeds this way, you are no longer Uncool. |
 
 | Ascendant Spark |
 | --- |
@@ -589,7 +589,7 @@ With that in mind, **pick two** of the following Abilities with the **[Starter]*
 
 | Line of Credit [Starter] |
 | --- |
-| Whenever you would fail a Check or lose a Contest while purchasing goods or services, protect yourself for $+dc2$. |
+| While you are attempting to purchase goods or services, each ① you spend to Help yourself is worth ①①. |
 
 | Blessèd Insurance |
 | --- |
@@ -631,7 +631,7 @@ With that in mind, **pick two** of the following Abilities with the **[Starter]*
 > *This pack of Abilities deals with training your mind and body.*
 > *&mdash;snotskie*
 
-| Advanced Training |
+| Advanced Training [Starter] |
 | --- |
 | Each time you bump your dice while using a $d8$ or larger, increase the result of the roll by an additional $+1$. |
 
@@ -717,17 +717,17 @@ At the end of each session, you receive **one free upgrade** for your character.
 
 You may also **spend ①①① to receive an additional** upgrade beyond the one you receive for free. You can keep spending Blessings to receive additional upgrades this way, but each additional upgrade **costs ①① more** than the last.
 
-| Basic Stat Upgrade |
+| Stat Upgrade |
 | --- |
-| You may upgrade a single Basic Stat's die one size, from a $d4$ to a $d6$, from a $d6$ to a $d8$, or a $d8$ to a $d10$. If you do, you receive this upgrade immediately. You may only receive this Upgrade $10$ times. |
+| You may upgrade a single Stat's die one size, from a $d4$ to a $d6$, from a $d6$ to a $d8$, or a $d8$ to a $d10$. If you do, you receive this upgrade immediately. You may only receive this Upgrade $10$ times. |
 
 | Ability Upgrade |
 | --- |
 | You may use your upgrade to gain an additional Ability. If you do, you receive this upgrade at the end of the following session. You may only receive this Upgrade $2$ times. |
 
-| Free Adjustments |
+| History Upgrade |
 | --- |
-| Whenever you receive the Basic Stat Upgrade, you may, as a free adjustment, downgrade one of your Stat dice one size and upgrade a different Stat die one size instead. And whenever you receive the Ability Upgrade, you may, as a free adjustment, lose one non-extended Ability and replace it with another. |
+| You may upgrade the scope of your History Stat based on the events of the session by making two changes, two additions, or one of each to the scope of that Stat. This scope may not have more than seven narrative touchstones listed. If you choose this upgrade, you receive this upgrade immediately. |
 
 ---
 <!-- _class: ability -->
@@ -771,9 +771,12 @@ You may also **spend ①①① to receive an additional** upgrade beyond the one
 
 - **💎 Lost:** You feel a disconnect from your own past or former sense of self, perhaps because of an exile from your home, an erased memory, or a period of transition or deep self-reflection. When you have sparks, they might take on an erratic or liminal aspect. Whenever you would fail a Check or lose a Contest while performing a Spark roll using History, protect yourself for $+dcX$, as though you were Helped by your quest for self-discovery, where $X$ is the same sized die used in the Spark roll.
 
-| History Upgrade |
+---
+<!-- _class: ability -->
+
+| Free Adjustments |
 | --- |
-| You may upgrade the scope of your History Basic Stat based on the events of the session by making two changes, two additions, or one of each to the scope of that Stat. This scope may not have more than seven narrative touchstones listed. If you choose this upgrade, you receive this upgrade immediately. |
+| Whenever you receive the Stat Upgrade, you may, as a free adjustment, downgrade one of your Stat Dice one size and upgrade a different Stat Die one size instead. Whenever you receive the Ability Upgrade, you may, as a free adjustment, lose one non-extended Ability and replace it with another. And whenever you upgrade or downgrade the size of your History Stat Die, you may receive the History Upgrade for free, limited to only one change or addition to the scope of your History Stat. |
 
 ### GM Guide: Catching Players Up
 <!-- _class: guide -->
@@ -886,14 +889,14 @@ All this being said, we recommend new GMs to this game use the following:
 ## Actions: Level 1
 <!-- _class: center -->
 
-> *An "action" is anything you choose for your character to do. Some actions require you to perform rolls to determine the outcome. The simplest of these are Stat Checks and Contests. The rules for more complex types of actions build up from there.*
+> *An "action" is anything you choose for your character to do. Some actions require you to perform rolls to determine the outcome. The simplest of these are Checks and Contests. The rules for more complex types of actions build up from there.*
 > *&mdash;snotskie*
 
-### Stat Checks
+### Basic Checks
 
-To perform a Stat Check, roll the die for the action’s associated Stat. The GM will let you know which to use. If the result of the roll meets or beats the GM’s target number, then the check succeeds. Otherwise, it fails.
+To perform a Basic Check, roll the die for the action’s associated Stat. The GM will let you know which to use. If the result of the roll meets or beats the GM’s target number, then the check succeeds. Otherwise, it fails.
 
-### GM Guide: Setting Stat Check Targets
+### GM Guide: Setting Check Targets
 <!-- _class: guide -->
 
 In the table below, Medium is the average for rolls in most situations the players will get themselves into. For situations that you surprise your players with that they don't have the chance to prepare for before reacting, consider lowering the difficulty by $1$ to $3$. The reason is that surprise situations are more likely to use characters' lower Stat Dice.
@@ -906,19 +909,6 @@ In the table below, Medium is the average for rolls in most situations the playe
 | Hard | $12$ | Major |
 | Very Hard | $16$ | Very Major |
 | Trial | $20$ | Maximum |
-
-### GM Guide: Setting Targets for Coming Prepared
-<!-- _class: guide -->
-
-When setting targets for Home Stat Checks characters perform to see if they already came prepared with just the item they need, consider:
-
-- How common, niche, specialized, rare, or unique in the world the desired item is
-- How probable it would be to already have that item
-- How many items the character already has listed
-
-If it would not require much suspension of disbelief for the character to have the item in the scene, use an easy to medium target. Otherwise, use a hard or higher target.
-
-If a player fails a Check this way, you may decide that they can't perform more Checks this way until the end of the scene or session. Moreover, if they fail such a Check by a disastrous amount, perhaps they dropped and broke other items while digging around in their bag, alerted others to their location, or so on.
 
 ### GM Guide: Setting Targets for Magic
 <!-- _class: guide -->
@@ -934,64 +924,15 @@ We recommend providing your players a table that describes your "magic" targets 
 - Increase the outcome size they need to hit if they are pushing the area, duration, or nature of the effect further than normal; if they are untrained in the effect or it is outside their "school of magic"; or if the effect requires forbidden knowledge
 - Performing supernatural effects requiring beyond a Maximum outcome size requires a "quest" to do so
 
-### Long Actions
-
-A long action is any action that is multi-step, spans a longer period of time than most other actions, and involves the scope of multiple Stats.
-
-For example:
-
-- Formulating a plan for a heist
-- Engaging in political intrigue
-- Crafting or reparing specialized items
-- Navigating and piloting a crewed vessel
-- Running a business
-- Searching ruins for forbidden knowledge while avoiding bounty hunters' detection
-
-For simplicity, the GM may ask for a single Check or Contest, using only the single Stat that the long action's success or victory most turns on. The target for success or victory without difficulties may be higher than usual in this case.
-
-Alternatively, the GM may ask for three or four Checks or Contests, using the various Stats involved in the long action. For overall success or victory, at least half of these rolls will need to win or succeed. However, each failure or loss may incur difficulties on top of that success.
-
-### GM Guide: Resolving Player-Driven Narrative
-<!-- _class: guide -->
-
-For even more narratively complex actions, such as the players proposing a course of action that in itself could be a session or campaign arc, you may ask for a set of rolls for multiple Stats in the same way, each corresponding to a different necessary step of their plan. Then, based on the results, you provide different amounts or types of information to set them off on their quest to complete those steps in full over the next several scenes or missions.
-
-### GM Guide: Setting Targets for Crafting
-<!-- _class: guide -->
-
-Crafting new items from one's surroundings, tools, and supplies is a long action, in that it usually requires a number of tasks that span the scope of multiple Stats:
-
-- Gathering high quality supplies (Home)
-- Gaining knowledge of how to construct the desired object (Head)
-- Gathering or constructing the necessary tools (Hand or Home)
-- Constructing the desired object, which can involve multiple steps depending on the complexity (Hand)
-- Improvising adjustments when tools or supplies break or when one's initial plans were imperfect (Heart)
-- Meddling with the forces of the universe (Hex, Ham, Hologram, etc. for settings that have a Stat for the "magic" of the world)
-
----
-<!-- _class: guide -->
-
-So, resolve crafting as you would any other long action. The intended "power" or effect of the item can help determine the target, for example:
-
-- **Mundane:** Provides narrative function only. Typically requires a Very Minor or Minor outcome
-- **High-Quality Mundane:** Provides a "protect yourself for $+1$" effect. Typically requires a Medium outcome
-- **Powered:** Provides a "protect yourself for $+dc2$" effect. Typically requires a Major or Very Major outcome
-- **Mythic:** Provides narrative fame or infamy in addition to a "protect yourself for $+dc4$" effect. Typically requires a Maximum outcome
-- **Reality-Breaking Artifact:** Drives narrative arc in addition to providing a "protect yourself for $+2dc4$" effect. Typically not possible
-
-If you use the approach of requiring multiple Checks to resolve the long action, consider adding flaws or limitations to the created item if any of the failed Checks fail by a large amount.
-
-If you instead require only a single, harder Check, then consider allowing success if the player hits the base target, but only avoids flaws and limitations if they hit the harder target.
-
-### Spark Stat Checks
+### Spark Checks
 
 When two of a character's Stats use the same die, those Stats are "balanced."
 
-You may spend $2$ dice from your pool of Blessing Dice of the same worth to perform a Spark Stat Check instead of a Basic Stat Check, which combines the dice of two balanced Stats into a single group, such as $2d6$ formed from two balanced Stats using a $d6$ each. These Spark Stat Checks represent a character's momentary "spark," that hint of magic or ability to achieve amazing feats, that penchant for pulling out surprising wins, and so on. These "sparks" are what allow characters to perform far beyond what is normally possible by the laws of nature, limited only by their imagination&mdash;and ability to control powerful and strange forces!
+You may spend $2$ dice from your pool of Blessing Dice of the same worth to perform a Spark Check instead of a Basic Check, which combines the dice of two balanced Stats into a single group, such as $2d6$ formed from two balanced Stats using a $d6$ each. These Spark Checks represent a character's momentary "spark," that hint of magic or ability to achieve amazing feats, that penchant for pulling out surprising wins, and so on. These "sparks" are what allow characters to perform far beyond what is normally possible by the laws of nature, limited only by their imagination&mdash;and ability to control powerful and strange forces!
 
-Any bonuses or effects that would apply to the balanced Stats used in the Spark Stat Check also apply to the Spark Stat Check itself.
+Any bonuses or effects that would apply to the balanced Stats used in the Spark Check also apply to the Spark Check itself.
 
-You can decide to turn a Basic Stat Check into a Spark Stat Check before or after you've made your first roll for the Check.
+You can decide to turn a Basic Check into a Spark Check before or after you've made your first roll for the Check.
 
 For example, when you roll your first $1$ on the die, you can decide to take extra advantage of this opportunity. If you do, pay the Blessing Die cost to Spark, roll your second die, then reroll both for the bump, and add it all together.
 
@@ -1024,8 +965,8 @@ A non-violent Contest is when a character performs an action against another cha
 
 To perform a non-violent Contest:
 
-1. The Attacker rolls as though performing the appropriate Stat Check.
-2. The Defender rolls as though performing a Stat Check using the same Stat as the Attacker. If the Attacker uses a Spark Stat Check, then the Defender may roll a Spark Stat Check using either or both of the Stats used in the Attacker's Spark Stat Check, so long as the Defender pays the Blessing Die cost.
+1. The Attacker rolls as though performing the appropriate Check.
+2. The Defender rolls as though performing a Check using the same Stat as the Attacker. If the Attacker uses a Spark Check, then the Defender may roll a Spark Check using either or both of the Stats used in the Attacker's Spark Check, so long as the Defender pays the Blessing Die cost.
 3. The action's effect is only successful if the Attacker rolls higher than the Defender. The size of the effect is determined by the difference between their scores.
 
 ---
@@ -1034,8 +975,8 @@ A violent Contest is when an Attacker performs an action against another charact
 
 To perform a violent Contest:
 
-1. The Attacker first rolls as though performing a Hurt Stat Check or Spark Stat Check that involves Hurt.
-2. The Defender rolls as though performing a Hurry Stat Check or Spark Stat Check that involves Hurry, representing their immediate instinctive reaction in the scene.
+1. The Attacker first rolls as though performing a Hurt Check or Spark Check that involves Hurt.
+2. The Defender rolls as though performing a Hurry Check or Spark Check that involves Hurry, representing their immediate instinctive reaction in the scene.
 3. The action's effect is only successful if the Attacker rolls higher than the Defender. The extent of the injury is determined by the difference between their scores, regardless if that was what the Attacker intended.
 4. If the violence continues past this initial Contest, then the Attackers may choose to change tactics, such as performing a non-violent Contest to shift subsequent rounds in their favor.
 5. Additionally, Defenders may choose to respond to these continued attacks with a greater range of options than just Hurry, such as outwitting (Head), calling on honor (Hand), destroying a part of the environment (Hand), calling for a truce (Heart), or repositioning oneself (Head or Home).
@@ -1051,6 +992,95 @@ A Contest itself is not a Check, though it does involve a series of rolls simila
 For example, the "Blessèd Luck" Ability allows you to turn a failed Check into a success. However, it does not allow you to turn a lost Contest into a win.
 
 The Uncool condition on the other hand does affect both Checks and Contests, because it modifies the results of rolls performed, without mentioning success, failure, win, or loss directly.
+
+### Size of Outcomes
+
+In general, rolling higher leads to better outcomes.
+
+Some rules refer to the "size" of an outcome, from Very Minor to Maximum, as determined by the table below.
+
+| Outcome size | Succeed a Check by rolling at most... | Win a Contest by rolling at most...more than opponent |
+| --- | --- | --- |
+| Very Minor | 3 | 1 |
+| Minor | 7 | 3 |
+| Medium | 11 | 5 |
+| Major | 15 | 7 |
+| Very Major | 19 | 9 |
+| Maximum | 20 or more | 10 or more |
+
+Also note, regardless of an Attacker's intention, a violent Contest with a Maximum outcome *always* leads to immediate death or grave injuries for the Defender.
+
+### GM Guide: Size of Non-violent Outcomes
+<!-- _class: guide -->
+
+- **Minor-:** A Minor or lower outcome to a non-violent Contest represents the Attacker getting what they wanted, within reason, and with complications. Any advantage the Attacker gains is temporary.
+- **Medium:** A Medium outcome to a non-violent Contest represents a lack of complications. Any advantage the Attacker gains lasts for several rolls by or against the Defender.
+- **Major+:** A Major or higher outcome to a non-violent Contest can change the narrative arc of the session or even campaign.
+
+### GM Guide: Size of Violent Outcomes
+<!-- _class: guide -->
+
+- **Minor-:** As with non-violent Contests, a Minor or lower outcome to a violent Contest represents a trivial wound that grants the Attacker only a temporary advantage, possibly with complications.
+- **Medium/Major:** A Medium, Major, or Very Major outcome to a violent Contest represents a nontrivial, but non-life-threatening wound that will need medical attention, possibly changing the narrative arc of the session to treat it, granting lasting effects if not treated successfully and in a timely manner.
+- **Maximum:** And a Maximum outcome to a violent Contest represents a serious wound, resulting in immediate death or grave injuries to the Defender needing immediate attention or a miracle.
+
+## Actions: Level 2
+<!-- _class: center -->
+
+> *There are special rules for when characters perform complex actions while attacking at the same time, and for when characters work together on Checks or Contests as a group. TODO revise*
+> *&mdash;snotskie*
+
+### Long Actions
+
+A long action is any action that is multi-step, spans a longer period of time than most other actions, and involves the scope of multiple Stats.
+
+For example:
+
+- Formulating a plan for a heist
+- Engaging in political intrigue
+- Crafting or reparing specialized items
+- Navigating and piloting a crewed vessel
+- Running a business
+- Searching ruins for forbidden knowledge while avoiding bounty hunters' detection
+
+For simplicity, the GM may ask for a single Check or Contest, using only the single Stat that the long action's success or victory most turns on. The target for success or victory without difficulties may be higher than usual in this case.
+
+Alternatively, the GM may ask for three or four Checks or Contests, using the various Stats involved in the long action. For overall success or victory, at least half of these rolls will need to win or succeed. However, each failure or loss may incur difficulties on top of that success.
+
+### Complex Attacks
+
+Sometimes a character's attack in a Contest is itself a complex action requiring a Check, such as striking a foe while also jumping over a wide chasm.
+
+In such cases, the GM may set a target the Attacker needs to beat. The attack's effect is only successful if the Attacker rolls higher than both the Defender's roll and the GM's target.
+
+When the Defender rolls, if the Defender rolls lower than the GM's target, the Contest is resolved as though the Defender had rolled that target instead.
+
+This way, even if the Defender rolls low, they still win the Contest if the Attacker fails to meet the target.
+
+### Group Checks and Contests
+
+Sometimes characters want to complete actions together as a group.
+
+One way is to provide Help to one roll that leads the group's action. Some members of the group may decide not to roll and instead wait for the group leader to roll, then provide Help to the leader by spending Blessings to increase the result of the roll.
+
+Another way is for each character to attempt the action, using the median of their rolls. If multiple characters are Attackers together in a Contest, Defenders together in a Contest, or are performing a coordinated Check, then they may each perform their respective rolls and use the median of their results as the group's shared result. If the group roll had an even number of individual rolls, then the higher of the two median rolls is used. The table below provides a quick reference.
+
+| Group size | Roll used |
+| ---------- | --------- |
+| $2$ | Highest |
+| $3$ | Second highest |
+| $4$ | Second highest |
+| $5$ | Third highest |
+| $6$ | Third highest |
+| $7$ | Fourth highest |
+
+---
+
+These two approaches may even be combined, with some members rolling and taking their median, and the other members providing Help on top of that median. However, a group member cannot both roll and Help for the same action.
+
+In general, once characters become a group as part of a Check or Contest, they remain a group until the end of the Check or Contest and are treated as a single character for the sake of the rules, sharing benefits and risks.
+
+Also note, a character cannot force other characters to become a group of Defenders, unless an Ability, item, or situation would allow.
 
 ### Helping
 
@@ -1101,82 +1131,59 @@ More complex items like vehicles that narratively have "Stats" of their own coul
 > - Hurt: $+1$
 > - Hurry: $+dc2$
 
-### GM Guide: Resolving Shopping
-<!-- _class: guide -->
+### Coming Prepared
+
+TODO
+
+When setting targets for Home Checks characters perform to see if they already came prepared with just the item they need, consider:
+
+- How common, niche, specialized, rare, or unique in the world the desired item is
+- How probable it would be to already have that item
+- How many items the character already has listed
+
+If it would not require much suspension of disbelief for the character to have the item in the scene, use an easy to medium target. Otherwise, use a hard or higher target.
+
+If a player fails a Check this way, you may decide that they can't perform more Checks this way until the end of the scene or session. Moreover, if they fail such a Check by a disastrous amount, perhaps they dropped and broke other items while digging around in their bag, alerted others to their location, or so on.
+
+### Shopping
+
+TODO
 
 You can resolve characters shopping for items in a similar way to how you resolve Checks to see if they already came prepared with the item they need. However, the difference is that if they are shopping in a place where it would be reasonable to find the item they want, and it would be reasonable for them to have the money or goods to trade for that item, then you may give them situational Help on the Check.
 
-### Size of Outcomes
+### Crafting
 
-In general, rolling higher leads to better outcomes.
+TODO
 
-Some rules refer to the "size" of an outcome, from Very Minor to Maximum, as determined by the table below.
+Crafting new items from one's surroundings, tools, and supplies is a long action, in that it usually requires a number of tasks that span the scope of multiple Stats:
 
-| Outcome size | Succeed a Check by rolling at most... | Win a Contest by rolling at most...more than opponent |
-| --- | --- | --- |
-| Very Minor | 3 | 1 |
-| Minor | 7 | 3 |
-| Medium | 11 | 5 |
-| Major | 15 | 7 |
-| Very Major | 19 | 9 |
-| Maximum | 20 or more | 10 or more |
+- Gathering high quality supplies (Home)
+- Gaining knowledge of how to construct the desired object (Head)
+- Gathering or constructing the necessary tools (Hand or Home)
+- Constructing the desired object, which can involve multiple steps depending on the complexity (Hand)
+- Improvising adjustments when tools or supplies break or when one's initial plans were imperfect (Heart)
+- Meddling with the forces of the universe (Hex, Ham, Hologram, etc. for settings that have a Stat for the "magic" of the world)
 
-Also note, regardless of an Attacker's intention, a violent Contest with a Maximum outcome *always* leads to immediate death or grave injuries for the Defender.
+### Making Plans
 
-### GM Guide: Size of Non-violent Outcomes
-<!-- _class: guide -->
+TODO
 
-- **Minor-:** A Minor or lower outcome to a non-violent Contest represents the Attacker getting what they wanted, within reason, and with complications. Any advantage the Attacker gains is temporary.
-- **Medium:** A Medium outcome to a non-violent Contest represents a lack of complications. Any advantage the Attacker gains lasts for several rolls by or against the Defender.
-- **Major+:** A Major or higher outcome to a non-violent Contest can change the narrative arc of the session or even campaign.
-
-### GM Guide: Size of Violent Outcomes
-<!-- _class: guide -->
-
-- **Minor-:** As with non-violent Contests, a Minor or lower outcome to a violent Contest represents a trivial wound that grants the Attacker only a temporary advantage, possibly with complications.
-- **Medium/Major:** A Medium, Major, or Very Major outcome to a violent Contest represents a nontrivial, but non-life-threatening wound that will need medical attention, possibly changing the narrative arc of the session to treat it, granting lasting effects if not treated successfully and in a timely manner.
-- **Maximum:** And a Maximum outcome to a violent Contest represents a serious wound, resulting in immediate death or grave injuries to the Defender needing immediate attention or a miracle.
-
-## Actions: Level 2
-<!-- _class: center -->
-
-> *There are special rules for when characters perform complex actions while attacking at the same time, and for when characters work together on Checks or Contests as a group.*
-> *&mdash;snotskie*
-
-### Complex Attacks
-
-Sometimes a character's attack in a Contest is itself a complex action requiring a Check, such as striking a foe while also jumping over a wide chasm.
-
-In such cases, the GM may set a target the Attacker needs to beat. The attack's effect is only successful if the Attacker rolls higher than both the Defender's roll and the GM's target.
-
-When the Defender rolls, if the Defender rolls lower than the GM's target, the Contest is resolved as though the Defender had rolled that target instead.
-
-This way, even if the Defender rolls low, they still win the Contest if the Attacker fails to meet the target.
-
-### Group Checks and Contests
-
-Sometimes characters want to complete actions together as a group.
-
-One way is to provide Help to one roll that leads the group's action. Some members of the group may decide not to roll and instead wait for the group leader to roll, then provide Help to the leader by spending Blessings to increase the result of the roll.
-
-Another way is for each character to attempt the action, using the median of their rolls. If multiple characters are Attackers together in a Contest, Defenders together in a Contest, or are performing a coordinated Check, then they may each perform their respective rolls and use the median of their results as the group's shared result. If the group roll had an even number of individual rolls, then the higher of the two median rolls is used. The table below provides a quick reference.
-
-| Group size | Roll used |
-| ---------- | --------- |
-| $2$ | Highest |
-| $3$ | Second highest |
-| $4$ | Second highest |
-| $5$ | Third highest |
-| $6$ | Third highest |
-| $7$ | Fourth highest |
+For even more narratively complex actions, such as the players proposing a course of action that in itself could be a session or campaign arc, you may ask for a set of rolls for multiple Stats in the same way, each corresponding to a different necessary step of their plan. Then, based on the results, you provide different amounts or types of information to set them off on their quest to complete those steps in full over the next several scenes or missions.
 
 ---
+<!-- _class: guide -->
 
-These two approaches may even be combined, with some members rolling and taking their median, and the other members providing Help on top of that median. However, a group member cannot both roll and Help for the same action.
+So, resolve crafting as you would any other long action. The intended "power" or effect of the item can help determine the target, for example:
 
-In general, once characters become a group as part of a Check or Contest, they remain a group until the end of the Check or Contest and are treated as a single character for the sake of the rules, sharing benefits and risks.
+- **Mundane:** Provides narrative function only. Typically requires a Very Minor or Minor outcome
+- **High-Quality Mundane:** Provides a "protect yourself for $+1$" effect. Typically requires a Medium outcome
+- **Powered:** Provides a "protect yourself for $+dc2$" effect. Typically requires a Major or Very Major outcome
+- **Mythic:** Provides narrative fame or infamy in addition to a "protect yourself for $+dc4$" effect. Typically requires a Maximum outcome
+- **Reality-Breaking Artifact:** Drives narrative arc in addition to providing a "protect yourself for $+2dc4$" effect. Typically not possible
 
-Also note, a character cannot force other characters to become a group of Defenders, unless an Ability, item, or situation would allow.
+If you use the approach of requiring multiple Checks to resolve the long action, consider adding flaws or limitations to the created item if any of the failed Checks fail by a large amount.
+
+If you instead require only a single, harder Check, then consider allowing success if the player hits the base target, but only avoids flaws and limitations if they hit the harder target.
 
 ## Actions: Level 3
 <!-- _class: center -->
@@ -1218,7 +1225,7 @@ Also note, once characters become grouped together for a Check or Contest in a r
 
 Endeavors are multiple rounds of simultaneous actions during which the characters involved race to be the first to reach some destination, to be the first to acheive some action, to escape without being caught, to advance an objective before time runs out, or so on. Many scenes where the tension is drawn out can be run as Endeavors.
 
-Endeavors are carried out as a number of rounds in which the characters attempt actions and perform Contests and Checks to drive the narrative tension, progress themselves, and slow their opponents. Additionally, characters involved may be asked to perform Stat Checks to overcome hazards in the environment. Each round, the narrative primarily follows a single Focal Action, then resolves smaller Side Actions before resolving hazards.
+Endeavors are carried out as a number of rounds in which the characters attempt actions and perform Contests and Checks to drive the narrative tension, progress themselves, and slow their opponents. Additionally, characters involved may be asked to perform Checks to overcome hazards in the environment. Each round, the narrative primarily follows a single Focal Action, then resolves smaller Side Actions before resolving hazards.
 
 ---
 
@@ -1298,7 +1305,7 @@ Then use the results to improvise the narrative at that scale before returning t
 
 ### Surprise Threat
 
-When a character is surprised by a threat, their first roll in response to it cannot bump and cannot be a Spark Stat Check.
+When a character is surprised by a threat, their first roll in response to it cannot bump and cannot be a Spark Check.
 
 ### Coolness
 
@@ -1339,7 +1346,7 @@ Include variety over the course of the campaign: What does the Attacker *want*? 
 
 You can treat minor and medium wounds as ways the Attacker can get at what they want from the Defender in the scene, which is not always to just inflict injury on others. And you can treat major wounds as representing going too far using violent means to get what they want.
 
-When a character suffers a major wound, it can be unsatisfying for them to be immediately removed from the game. Instead, you might draw the tension and possibility to respond out further. One way to do so is to provide the wounded character's allies opportunity to perform a Home Contest against the same roll that the Attacker used to inflict the major wound. If an ally wins the Contest by $5$ or more, then the wound is successfully treated, perhaps reducing it to a medium or minor wound. However, if the Attacker is able to roll $5$ or more on a Hurt Stat Check before the allies can successfully treat the wound, then the Attacker may deliver a *coup de grace* to finish off the wounded.
+When a character suffers a major wound, it can be unsatisfying for them to be immediately removed from the game. Instead, you might draw the tension and possibility to respond out further. One way to do so is to provide the wounded character's allies opportunity to perform a Home Contest against the same roll that the Attacker used to inflict the major wound. If an ally wins the Contest by $5$ or more, then the wound is successfully treated, perhaps reducing it to a medium or minor wound. However, if the Attacker is able to roll $5$ or more on a Hurt Check before the allies can successfully treat the wound, then the Attacker may deliver a *coup de grace* to finish off the wounded.
 
 ### Other Conditions
 
@@ -1349,7 +1356,7 @@ When a character suffers a major wound, it can be unsatisfying for them to be im
 - **Cursed:** Dice in your pool of Blessing Dice are each worth $1$ less, to a minimum of $0$. This condition ends when you remove its cause.
 - **Distracted:** Rolls you make do not bump. This condition ends when you remove its cause.
 - **Disarmed:** If you would win a violent Contest as the Attacker with a Maximum outcome, you win with a Very Major outcome instead. When you find a new weapon or take a moment to recompose yourself, this condition ends.
-- **Taxed:** You cannot perform Spark Stat Checks. Spending ①① ends this condition.
+- **Taxed:** You cannot perform Spark Checks. Spending ①① ends this condition.
 
 ## Special Endeavors
 <!-- _class: center -->
@@ -1386,7 +1393,7 @@ These sorts of Endeavors are run like any other Endeavor, or added into any othe
 
 - **Interacting with Glimmer Buttons:** To interact with a glimmer button and gain the discovery associated with it, a character must succeed a Check. The target for this Check is equal to the glimmer button's position on the number line. If the character's most recent roll in the Endeavor would have met this target, then the character automatically succeeds this Check. This Check is considered an extension to the character's current course of action and does not provide additional movement toward the Endeavor. When this Check is succeeded, the glimmer button is removed from the number line. It may also be removed when the Check is failed, at GM's discretion.
 - **Types of Glimmer Buttons:** The GM may add multiple types of glimmer buttons to the number line, representing different types of discoveries for the area, such as items, information, social interactions, or further areas to explore.
-- **History and Glimmer Buttons:** A character may also automatically succeed the Check to interact with a glimmer button if their History Stat die is high enough (at GM discretion) and the scope of their History Stat is relevant enough to the glimmer button in question. In such case, the GM may alternatively use a success on the glimmer button's Check to provide extra benefit or to give the character narrative control for a moment.
+- **History and Glimmer Buttons:** A character may also automatically succeed the Check to interact with a glimmer button if their History Stat Die is high enough (at GM discretion) and the scope of their History Stat is relevant enough to the glimmer button in question. In such case, the GM may alternatively use a success on the glimmer button's Check to provide extra benefit or to give the character narrative control for a moment.
 
 ### GM Guide: Preparing Glimmer Buttons
 <!-- _class: guide -->
@@ -1418,11 +1425,11 @@ Then, improvise following your players' choices. For example, when they decide t
 ### GM Guide: Automatic Glimmer Button Success
 <!-- _class: guide -->
 
-While it is up to your discretion, here is a good rule of thumb for how large a character's History Stat die needs to be to automatically succeed a glimmer button's Check: double the largest number on the character's History Stat die then subtract $2$. Any glimmer button whose target is at most that number and also related to the character's History Stat scope could reasonably be automatically succeeded.
+While it is up to your discretion, here is a good rule of thumb for how large a character's History Stat Die needs to be to automatically succeed a glimmer button's Check: double the largest number on the character's History Stat Die then subtract $2$. Any glimmer button whose target is at most that number and also related to the character's History Stat scope could reasonably be automatically succeeded.
 
-For example, a $d6$ History Stat die could automatically succeed targets $10$ or less for related glimmer buttons.
+For example, a $d6$ History Stat Die could automatically succeed targets $10$ or less for related glimmer buttons.
 
-Moreover, you can use this rule of thumb to provide information when a character fails a glimmer button's Check: What would a character's History Stat die and scope need to be to automatically succeed, and who in the narrative meets those requirements that the character could turn to for help? This moves the story forward by creating a new "side quest" and expanding the world, without giving away the glimmer button's information right away.
+Moreover, you can use this rule of thumb to provide information when a character fails a glimmer button's Check: What would a character's History Stat Die and scope need to be to automatically succeed, and who in the narrative meets those requirements that the character could turn to for help? This moves the story forward by creating a new "side quest" and expanding the world, without giving away the glimmer button's information right away.
 
 ### 🧟 Monstrous Endeavors
 
@@ -1486,7 +1493,7 @@ Reserve Monstrous Endeavors for encounters that are truly Monstrous.
 
 ### Monstrous Stats
 
-Instead of a number of Stat dice, a Monstrosity has a single die shared by all their Stats. And to allow a finer gradient of "weak" to "strong" Monstrosities, their Stat dice is a capped die, from $dc2$ to $dc10$.
+Instead of a number of Stat Dice, a Monstrosity has a single die shared by all their Stats. And to allow a finer gradient of "weak" to "strong" Monstrosities, their Stat Dice is a capped die, from $dc2$ to $dc10$.
 
 ### Stronger Monstrosities
 
@@ -1510,7 +1517,7 @@ It is also recommended that you do not give your Monstrosities many Abilities&md
 
 **Revenge:** When you become Muddled, you may immediately perform a Contest as an Attacker against the character that Muddled you, as though this Contest were a Side Action, even if you or the Defender have already acted this round.
 
-**Shield vs. $X$:** When you succeed a Home Stat Check during an Endeavor, you may have you and your allies receive Resistance vs. $X$ for a number of rounds equal to the number of spaces you moved forward as a result of the Check, to a maximum of $3$ rounds. Then this ability cannot be activated again until you spend ② to recharge it.
+**Shield vs. $X$:** When you succeed a Home Check during an Endeavor, you may have you and your allies receive Resistance vs. $X$ for a number of rounds equal to the number of spaces you moved forward as a result of the Check, to a maximum of $3$ rounds. Then this ability cannot be activated again until you spend ② to recharge it.
 
 **Flatten:** When you succeed a Hand Contest against an opponent during an Endeavor, you may have that opponent move backwards a number of spaces equal to the number of spaces you moved forward as a result of the Contest. Then this ability cannot be activated again until you spend ③ to recharge it.
 
@@ -1518,21 +1525,21 @@ It is also recommended that you do not give your Monstrosities many Abilities&md
 
 **Propel:** When determining the Focal Action, you may exchange the result of your own roll with that of an ally who rolled lower than you. Then this ability cannot be activated again until you spend ② to recharge it.
 
-**Clarity:** When you succeed a Home Stat Check during an Endeavor, you may have the muddle buttons of your allies move forward a number of spaces equal to the number of spaces you moved forward as a result of the Check. Then this ability cannot be activated again until you spend ③ to recharge it.
+**Clarity:** When you succeed a Home Check during an Endeavor, you may have the muddle buttons of your allies move forward a number of spaces equal to the number of spaces you moved forward as a result of the Check. Then this ability cannot be activated again until you spend ③ to recharge it.
 
 **Immunity vs. $X$:** Whenever you would lose a Contest as the Defender against $X$, you instead succeed by $1$.
 
-**Inspire:** When you succeed a Hurry Stat Check during an Endeavor, you may choose an ally and have the roll they make to determine the Focal Action next round increase by $+3$ or by a number equal to the amount you moved forward as a result of the Check, whichever is lower. Then this ability cannot be activated again until you spend ④ to recharge it.
+**Inspire:** When you succeed a Hurry Check during an Endeavor, you may choose an ally and have the roll they make to determine the Focal Action next round increase by $+3$ or by a number equal to the amount you moved forward as a result of the Check, whichever is lower. Then this ability cannot be activated again until you spend ④ to recharge it.
 
 **Curse:** Perform a Head Contest against an opponent. The amount you move forward as a result of this Contest, the opponent is Cursed by you for that many rounds. (When you see that opponent perform a roll, you may choose to have them reroll it and take the new value, then the Curse ends. Otherwise, the Curse ends when that many rounds have passed.)  Then this ability cannot be activated again until you spend ③ to recharge it.
 
-**Mirror vs. $X$:** When you succeed a Home Stat Check during an Endeavor, you may have you and your allies receive Immunity vs. $X$ for a number of rounds equal to the number of spaces you moved forward as a result of the Check, to a maximum of $3$ rounds. Then this ability cannot be activated again until you spend ⑥ to recharge it.
+**Mirror vs. $X$:** When you succeed a Home Check during an Endeavor, you may have you and your allies receive Immunity vs. $X$ for a number of rounds equal to the number of spaces you moved forward as a result of the Check, to a maximum of $3$ rounds. Then this ability cannot be activated again until you spend ⑥ to recharge it.
 
 **Spark Rush $X$:** Perform a Check. The amount you move forward as a result of this Check, for that many rounds, to a maximum of $3$ rounds, you may Spark using $2dcX$. Then this ability cannot be activated again until you spend Ⓧ to recharge it.
 
-**Empower:** When you succeed a Home Stat Check during an Endeavor, you may have you and your allies increase their die caps by $1$ for a number of rounds equal to the number of spaces you moved forward as a result of the Check, to a maximum of $3$ rounds. Then this ability cannot be activated again until you spend ③ to recharge it. A character can only benefit from one instance of this Ability at a time.
+**Empower:** When you succeed a Home Check during an Endeavor, you may have you and your allies increase their die caps by $1$ for a number of rounds equal to the number of spaces you moved forward as a result of the Check, to a maximum of $3$ rounds. Then this ability cannot be activated again until you spend ③ to recharge it. A character can only benefit from one instance of this Ability at a time.
 
-**Fervor:** When you succeed a Heart Stat Check during an Endeavor, you may have you and your allies receive Revenge for a number of rounds equal to the number of spaces you moved forward as a result of the Check, to a maximum of $3$ rounds. Then this ability cannot be activated again until you spend ⑥ to recharge it.
+**Fervor:** When you succeed a Heart Check during an Endeavor, you may have you and your allies receive Revenge for a number of rounds equal to the number of spaces you moved forward as a result of the Check, to a maximum of $3$ rounds. Then this ability cannot be activated again until you spend ⑥ to recharge it.
 
 **Unrelenting:** At the end of each round, move forward a number of spaces equal to the number of times you've been Muddled.
 
