@@ -379,7 +379,7 @@ And finally, some Abilities, once activated, cannot be activated again until the
 
 Begin to imagine the kind of character taking shape in your mind. **Have you seen characters like them before** in movies, TV shows, and books? Try to envision the people from your favorite fictional stories that your character takes after.
 
-With that in mind, **pick two** of the following Abilities to start the game with. You can gain additional Abilities later in the Session Shop.
+With that in mind, **pick two** of the following Abilities with the **[Starter]** label to start the game with. You can gain additional Abilities later in the Session Shop.
 
 ---
 <!-- _class: ability -->
@@ -387,7 +387,7 @@ With that in mind, **pick two** of the following Abilities to start the game wit
 > *This pack of Abilities deals with being quick and alert.*
 > *&mdash;snotskie*
 
-| Survival Instinct |
+| Survival Instinct [Starter] |
 | --- |
 | Whenever you would fail a Check or lose a Contest while rolling your Hurry Stat, protect yourself for $+dc2$. |
 
@@ -409,7 +409,7 @@ With that in mind, **pick two** of the following Abilities to start the game wit
 > *This pack of Abilities deals with having a thick skin.*
 > *&mdash;snotskie*
 
-| Armored Skin |
+| Armored Skin [Starter] |
 | --- |
 | Whenever you would lose a violent Contest as the Defender, protect yourself for $+dc2$. |
 
@@ -427,7 +427,7 @@ With that in mind, **pick two** of the following Abilities to start the game wit
 > *This pack of Abilities deals with disease and nature.*
 > *&mdash;snotskie*
 
-| Quick Acclimation |
+| Quick Acclimation [Starter] |
 | --- |
 | Whenever you would fail a Check against natural effects such as weather and disease, protect yourself for $+dc2$. |
 
@@ -445,7 +445,7 @@ With that in mind, **pick two** of the following Abilities to start the game wit
 > *This pack of Abilities deals with objects and cunning.*
 > *&mdash;snotskie*
 
-| Intuitive Eye |
+| Intuitive Eye [Starter] |
 | --- |
 | Whenever you would fail a Check to inspect an object carefully, identify where the object has been, or intuit information about events that have occurred around it, protect yourself for $+dc2$. |
 
@@ -467,7 +467,7 @@ With that in mind, **pick two** of the following Abilities to start the game wit
 > *This pack of Abilities deals with operating vehicles.*
 > *&mdash;snotskie*
 
-| Licensed Driver |
+| Licensed Driver [Starter] |
 | --- |
 | Whenever you would fail a Check or lose a Contest to transport supplies or other characters, protect yourself for $+dc2$. |
 
@@ -485,7 +485,7 @@ With that in mind, **pick two** of the following Abilities to start the game wit
 > *This pack of Abilities deals with how you respond to taking hits.*
 > *&mdash;snotskie*
 
-| Stalwart Stance |
+| Stalwart Stance [Starter] |
 | --- |
 | Up to once per session, when you fail a Check or lose a Contest by $5$ or more, gain a Blessing. |
 
@@ -503,7 +503,7 @@ With that in mind, **pick two** of the following Abilities to start the game wit
 > *This pack of Abilities deals with friendship.*
 > *&mdash;snotskie*
 
-| Blessèd Collaboration |
+| Blessèd Collaboration [Starter] |
 | --- |
 | Whenever you spend ①① or more to Help another character, they gain a bonus as though you had spent an additional ①①. |
 
@@ -525,7 +525,7 @@ With that in mind, **pick two** of the following Abilities to start the game wit
 > *This pack of Abilities deals with understanding yourself.*
 > *&mdash;snotskie*
 
-| Radical Self-Acceptance |
+| Radical Self-Acceptance [Starter] |
 | --- |
 | While you are Uncool, you may roll Checks using a different Basic Stat than normal. Then once a Check succeeds this way, you are no longer Uncool. |
 
@@ -543,7 +543,7 @@ With that in mind, **pick two** of the following Abilities to start the game wit
 > *This pack of Abilities deals with coming prepared.*
 > *&mdash;snotskie*
 
-| Efficiently Packed |
+| Efficiently Packed [Starter] |
 | --- |
 | Whenever you would fail a Check to see if you already have an item on you, protect yourself for $+dc2$. |
 
@@ -565,7 +565,7 @@ With that in mind, **pick two** of the following Abilities to start the game wit
 > *This pack of Abilities deals with manipulation.*
 > *&mdash;snotskie*
 
-| Tactful Speech |
+| Tactful Speech [Starter] |
 | --- |
 | Whenever you would lose a Contest trying to persuade, influence, inspire, or deceive others, protect yourself for $+dc2$. |
 
@@ -587,7 +587,7 @@ With that in mind, **pick two** of the following Abilities to start the game wit
 > *This pack of Abilities deals with shady dealings.*
 > *&mdash;snotskie*
 
-| Line of Credit |
+| Line of Credit [Starter] |
 | --- |
 | Whenever you would fail a Check or lose a Contest while purchasing goods or services, protect yourself for $+dc2$. |
 
@@ -609,7 +609,7 @@ With that in mind, **pick two** of the following Abilities to start the game wit
 > *This pack of Abilities deals with thought and reason.*
 > *&mdash;snotskie*
 
-| Sharp Recall |
+| Sharp Recall [Starter] |
 | --- |
 | Whenever you would fail a Check trying to recall information, protect yourself for $+dc2$. |
 
@@ -723,11 +723,11 @@ You may also **spend ①①① to receive an additional** upgrade beyond the one
 
 | Ability Upgrade |
 | --- |
-| You may use your upgrade to gain an additional Ability. If you do, you receive this upgrade at the end of the following session. You may only receive this Upgrade $3$ times. |
+| You may use your upgrade to gain an additional Ability. If you do, you receive this upgrade at the end of the following session. You may only receive this Upgrade $2$ times. |
 
 | Free Adjustments |
 | --- |
-| Whenever you receive the Basic Stat Upgrade, you may, as a free adjustment, downgrade one of your Stat dice one size and upgrade a different Stat die one size instead. And whenever you receive the Ability Upgrade, you may, as a free adjustment, lose one Ability and replace it with another. |
+| Whenever you receive the Basic Stat Upgrade, you may, as a free adjustment, downgrade one of your Stat dice one size and upgrade a different Stat die one size instead. And whenever you receive the Ability Upgrade, you may, as a free adjustment, lose one non-extended Ability and replace it with another. |
 
 ---
 <!-- _class: ability -->
@@ -896,11 +896,16 @@ To perform a Stat Check, roll the die for the action’s associated Stat. The GM
 ### GM Guide: Setting Stat Check Targets
 <!-- _class: guide -->
 
-Use $4$ for an easy Stat Check, $8$ for medium, $12$ for hard, $16$ for very hard, and $20$ for a trial the players will be greatly awarded for overcoming. The lowest possible Basic Stat Check is $2$.
+In the table below, Medium is the average for rolls in most situations the players will get themselves into. For situations that you surprise your players with that they don't have the chance to prepare for before reacting, consider lowering the difficulty by $1$ to $3$. The reason is that surprise situations are more likely to use characters' lower Stat Dice.
 
-Medium is the average for rolls in most situations the players will get themselves into. For situations that you surprise your players with that they don't have the chance to prepare for before reacting, consider lowering the difficulty by $1$ to $3$. The reason is that surprise situations are more likely to use characters' lower Stat Dice.
-
-Also keep in mind that $12$ is the lowest Stat Check difficulty where a player can begin to fail bad enough for disastrous results.
+| Difficulty | Target | Corresponding Outcome Size |
+| ---------- | ------ | -------------------------- |
+| Lowest Possible | $3$ | Very Minor |
+| Easy | $4$ | Minor |
+| Medium | $8$ | Medium |
+| Hard | $12$ | Major |
+| Very Hard | $16$ | Very Major |
+| Trial | $20$ | Maximum |
 
 ### GM Guide: Setting Targets for Coming Prepared
 <!-- _class: guide -->
@@ -923,10 +928,11 @@ If your setting has "magic" or other supernatural, reality-bending player capabi
 We recommend providing your players a table that describes your "magic" targets for them:
 
 - Each row of the table corresponds to an outcome size, from Very Minor to Maximum
-- Each column corresponds to a "school" of "magic," a type of action, or an aspect of the desired effect such as duration and distance
-- Each cell describes what a "magic" action of that outcome size and category might look like
-- Players and you determine which cells are most like what the player wants to achieve with their "magic," and the highest outcome size among those cells is the outcome size their roll will need to meet, with you having final say on the exact Check target
-- Each row also has a "limit" noted. If an action would meet more than a row's limit worth of cells across that row, then the roll would need to meet one outcome size higher
+- Each column corresponds to a "school of magic" or category of supernatural effect
+- Each cell describes examples of what a supernatural action of that outcome size and category might look like
+- Players and you determine which cells are most like what the player wants to achieve with their effect, and the highest outcome size among those cells is the outcome size their roll will need to meet, with you having final say on the exact Check target
+- Increase the outcome size they need to hit if they are pushing the area, duration, or nature of the effect further than normal; if they are untrained in the effect or it is outside their "school of magic"; or if the effect requires forbidden knowledge
+- Performing supernatural effects requiring beyond a Maximum outcome size requires a "quest" to do so
 
 ### Long Actions
 
