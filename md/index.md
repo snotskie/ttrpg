@@ -33,9 +33,8 @@ headingDivider: 3
 
         // hide guides
         toggleGuides();
-    });
 
-    window.addEventListener("load", function(){
+        // table of contents
         const toc = document.getElementById("toc");
         document.querySelectorAll("h1,h2").forEach(function(e){
             const section = e.closest("section");
@@ -62,6 +61,21 @@ headingDivider: 3
             }
         });
 
+        // clickable headings
+        document.querySelectorAll("h3").forEach(function(e){
+            const section = e.closest("section");
+            const page = section.getAttribute("data-marpit-pagination");
+            if (page){
+                const text = e.innerText;
+                e.innerText = "";
+                const a = document.createElement("a");
+                e.appendChild(a);
+                a.innerText = text;
+                a.setAttribute("href", "#" + section.getAttribute("id"));
+            }
+        });
+
+        // ability index
         var abix = document.getElementById("abix");
         var i = 0;
         var prev_page = -1;

@@ -137,5 +137,14 @@ section.title p:last-child {
     right: 1in;
 }
 
+/* hover of h3 */
+section[data-marpit-pagination] h3 a {
+    color: var(--color-foreground);
+}
+
+section[data-marpit-pagination] h3 a:hover:after {
+    content: " #";
+}
+
 /* styling that escapes marp containment */
 @import url("style.css");
