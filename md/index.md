@@ -1625,7 +1625,7 @@ As another starting point, the following relationships between the parts of a Mo
 - Die caps ($C$) range from $2$ to $10$, with die caps maxing out around the 33% mark of a campaign.
 - The number of Blessings ($B$) a Monstrosity starts Endeavors with range from $0$ to $20$, with "everyday" Monstrosities starting to get Blessings around the 33% mark of a campaign, and maxing out toward the end of the campaign. For Monstrosities that have a "squad leader" feel earlier in the campaign, give them $1$ or $2$ Blessings.
 - Stamina ($S$) is typically $5 \times C$, but ranging from roughly $3 \times C$ to $8 \times C$. Stamina around the low end of this range gives a "squishier" feel to the Monstrosity, and Stamina around the high end gives a "tankier" feel. For Monstrosities with an "arc boss" feel, give them closer to $5 \times (B+C)$.
-- Almost all Monstrosities have only a single muddle button, placed on the number line at a point ranging form around $S/5$ to $S/2$. Muddle button positions around the low end of this range give an "unprotected" feel, and positions around the high end give an "armored" feel. Also, pairing a low muddle button position with the Revenge ability gives a "hair trigger" feel.
+- Almost all Monstrosities have only a single muddle button, placed on the number line at a point ranging from around $S/5$ to $S/2$. Muddle button positions around the low end of this range give an "unprotected" feel, and positions around the high end give an "armored" feel. Also, pairing a low muddle button position with the Revenge ability gives a "hair trigger" feel.
 - For Monstrosities with an "arc boss" feel, give them multiple evenly spaced muddle buttons, paired with Unrelenting or Merciless.
 
 ### GM Guide: Spoils
