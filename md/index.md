@@ -131,8 +131,8 @@ Cover typography: Bebas Neue, by Ryoichi Tsunekawa
 <!-- _paginate: skip -->
 
 > Tiny bit of humanity,  
-> Blessed with your mother’s face,  
-> And cursed with your father’s mind.
+> Blessed with your mother's face,  
+> And cursed with your father's mind.
 >
 > &mdash;James Weldon Johnson, [*A Poet to His Baby Son*](https://www.poetryfoundation.org/poems/49051/a-poet-to-his-baby-son)
 
@@ -160,14 +160,13 @@ Cover typography: Bebas Neue, by Ryoichi Tsunekawa
 
 *Humanity, Blessed* is a rules-light TTRPG system inspired by our favorite games, designed to tell stories, about what it means to be human, doing goofy, cool, fantastic little human things.
 
-
 # Making Your First Character
 <!-- _class: center major -->
 
 ## Step One: Stats
 <!-- _class: center -->
 
-> *Each character in this game has a small number of Stats: the H’s of Humanity. Together, these represent a character's general capabilities at a wide range of tasks and situations.*
+> *Each character in this game has a small number of Stats: the H's of Humanity. Together, these represent a character's general capabilities at a wide range of tasks and situations.*
 > *&mdash;snotskie*
 
 ### Stats
@@ -248,33 +247,23 @@ Finally, if you create a new Stat, the Lifestyle options as written will not ben
 ## Step Two: Background
 <!-- _class: center -->
 
-> *Each character in this game has one of thirteen Lifestyles and one of three Value Systems. These represents characters' general backgrounds, goals, and beliefs about the world, and these can change over the course of the story.*
+> *Each character in this game has a Lifestyle and a Value System. These represents characters' general backgrounds, goals, and beliefs about the world, and these can change over the course of the story.*
 > *&mdash;snotskie*
 
 ### Lifestyle and Value System
 
-Three Lifestyles you can choose from at the start of the game are described below, as well as the three Value Systems. Additional Lifestyle upgrade options are described in the Session Shop.
+All characters have one of **thirteen Lifestyles** and one of **three Value Systems**. Descriptions for each of these can be found on the following pages.
 
-**Starter Lifestyles:**
-
-- **🍀 Carefree:** Your character lives a relatively carefree life, perhaps because of your naivete, wealthy upbringing, optimistic demeanor, or (in a darker setting) a nihilistic worldview.
-- **🔥 Eager:** Your character is eager for more out of life, perhaps because of a rebellious phase, a yearning to accomplish your dreams, a person you want to impress, or a mission or faith you believe strongly in.
-- **🧘‍♀️ Wisened:** Maybe life has not been easy on your character, but if so you’ve come out wiser and tougher. Perhaps you've been shaped by unfortunate events, you've dedicated yourself to your work, or (in some settings) you could take advantage of others easily because you understand how people work.
-
----
-
-**Value Systems:**
-
-- **⚔️ Virtue and Vice:** Deep down, you may believe that there is good in the world and that, no matter how terrible the world gets, the people who are good will win in the end. You may also believe that people who live with virtue are able to live in harmony together, while excess vice manifests itself as a clear and knowable "darkness."
-- **🌒 Fate and Knowledge:** What drives your actions may be a firm belief that your personal traits dictate your destiny, not whether you are "good," and personal traits can never really be changed. You may also believe that your destiny can be altered to your liking by making the right deal, adhering to the right discipline, or acquiring the right knowledge&mdash;ends justify the means after all.
-- **⚙️ Cunning and Capability:** At the end of the day, you may believe that the only person you can really trust is yourself. You may also believe that the world is unfair, "good" and "fate" are just made up ideas, and you'd do whatever it takes to get by.
+Note, some Lifestyles are upgrade options you will not have access to when the game begins. As you preview these upgraded Lifestyles, you may want to consult the Playing the Game chapter to learn more about the rules they interact with. This is because all upgraded Lifestyles **overcharge** one or two of your Stats. Whenever you would fail a Check or lose a Contest while performing a Spark roll using an overcharged Stat, protect yourself for $+dcX$, where $X$ is the same sized die used in the Spark roll.
 
 ### Character Creation: Step Two!
 <!-- _class: creation -->
 
-Begin to describe the life your character had **growing up** and their **current outlook** on the world. As you do, pick one of the **Starter Lifestyles** and one of the **Value Systems** above. These can be changed later in the Session Shop.
+Begin to describe the life your character had **growing up** and their **current outlook** on the world.
 
-Two of your Stats begin the game one die size larger, according to the table below and what choices you made above:
+As you do, pick one of the **Lifestyles** with the **[Starter]** label and one of the **Value Systems** to begin the game with. These can be changed later in the Session Shop.
+
+Two of your Stats begin the game one die size larger, according to the table below and your choice of starter Lifestyle and Value System:
 
 <table>
     <thead>
@@ -292,10 +281,84 @@ Two of your Stats begin the game one die size larger, according to the table bel
     </tbody>
 </table>
 
+### Lifestyles
+
+| 🍀 Carefree [Starter] | 
+| --- |
+| Your character lives a relatively carefree life, perhaps because of your naivete, wealthy upbringing, optimistic demeanor, or (in a darker setting) a nihilistic worldview. |
+
+| 🌼 Blossomed | 
+| --- |
+| Your carefree nature has kept you safe from harm and surrounded by friends. When you have sparks, they might take on a free and connected aspect. This Lifestyle overcharges your Heart and Hurry Stats, as though you were Helped by the love and connectedness you feel for those around you. |
+
+| 🔮 Prodigious | 
+| --- |
+| Your studies have come effortlessly to you, and secrets almost seem to just reveal themselves to you. When you have sparks, they might take on a sorcerous or uninhibited aspect. This Lifestyle overcharges your Head and Hurt Stats, as though you were Helped by a raw innate power. |
+
+| 🧶 Crafty | 
+| --- |
+| You can envision amazing designs and, it seems, to bring them to life. When you have sparks, they might take on an autonomous or lucky aspect. This Lifestyle overcharges your Hand and Home Stats, as though you were Helped by your own sudden creativity. |
+
+---
+
+| 🔥 Eager [Starter] | 
+| --- |
+| Your character is eager for more out of life, perhaps because of a rebellious phase, a yearning to accomplish your dreams, a person you want to impress, or a mission or faith you believe strongly in. |
+
+| ⚜️ Driven | 
+| --- |
+| Your eager drive has found purchase in a great mission or calling. When you have sparks, they might take on an incorrigible or resolute aspect. This Lifestyle overcharges your Hand and Hurt Stats, as though you were Helped by your own faith in your mission. |
+
+| ✨ Chosen | 
+| --- |
+| You draw inspiration from the community around you, setting out on your journeys blessed, favored, or even cursed. When you have sparks, they might take on a divine or noble aspect. This Lifestyle overcharges your Heart and Home Stats, as though you were Helped by the will of the people whose lives you've touched. |
+
+| ⚡ Wired | 
+| --- |
+| Your mind is quick and analytical, and you can see solutions to problems that are unimaginably complex. When you have sparks, they might take on a calculating or duplicative aspect. This Lifestyle overcharges your Head and Hurry Stats, as though you were Helped by your own mind palace. |
+
+---
+
+| 🧘‍♀️ Wisened [Starter] | 
+| --- |
+| Maybe life has not been easy on your character, but if so you've come out wiser and tougher. Perhaps you've been shaped by unfortunate events, you've dedicated yourself to your work, or (in some settings) you could take advantage of others easily because you understand how people work. |
+
+| 🪬 Steadfast | 
+| --- |
+| Your wise steadiness and alertness have made you adept at warding off harm and protecting your loved ones. When you have sparks, they might take on a firm or dispelling aspect. This Lifestyle overcharges your Head and Home Stats, as though you were Helped by your care for others. |
+
+| 👁️ Warry | 
+| --- |
+| You are one with the natural and supernatural worlds around you, and you have a keen sense of danger and safety. When you have sparks, they might take on an astral or prophetic aspect. This Lifestyle overcharges your Hand and Hurry Stats, as though you were Helped by knowledge only you could know in that moment. |
+
+| 👄 Compelling | 
+| --- |
+| You seem able to spin any loss into a win&mdash;or vice versa&mdash;, and you are a sly, tactical force to be reckoned with. When you have sparks, they might take on an illusory or vicious aspect. This Lifestyle overcharges your Heart and Hurt Stats, as though you were Helped by your own ambition. |
+
+---
+
+| 💎 Lost |
+| --- |
+| You feel a disconnect from your own past or former sense of self, perhaps because of an exile from your home, an erased memory, or a period of transition or deep self-reflection. When you have sparks, they might take on an erratic or liminal aspect. This Lifestyle overcharges your History Stat, as though you were Helped by your quest for self-discovery. |
+
+### Value Systems
+
+| ⚔️ Virtue and Vice | 
+| --- |
+| Deep down, you may believe that there is good in the world and that, no matter how terrible the world gets, the people who are good will win in the end. You may also believe that people who live with virtue are able to live in harmony together, while excess vice manifests itself as a clear and knowable "darkness." |
+
+| 🌒 Fate and Knowledge | 
+| --- |
+| What drives your actions may be a firm belief that your personal traits dictate your destiny, not whether you are "good," and personal traits can never really be changed. You may also believe that your destiny can be altered to your liking by making the right deal, adhering to the right discipline, or acquiring the right knowledge&mdash;ends justify the means after all. |
+
+| ⚙️ Cunning and Capability | 
+| --- |
+| At the end of the day, you may believe that the only person you can really trust is yourself. You may also believe that the world is unfair, "good" and "fate" are just made up ideas, and you'd do whatever it takes to get by. |
+
 ### GM Guide: Campaign Value System
 <!-- _class: guide -->
 
-As you begin to imagine the world and genre of your campaign, consider what it means to be "Carefree," "Eager," or "Wisened" in your setting. Doing so requires thinking about the Value System of the world itself.
+As you begin to imagine the world and genre of your campaign, consider what it means to be "Carefree," "Eager," or "Wisened" in your setting. Doing so requires making assumptions about the Value System of the world itself!
 
 **⚔️ Virtue and Vice** settings are well equipped for high fantasy, utopian sci-fi, shonen, optimistic post-apocalyptic worlds, mythological, magical realism, allegorical fables, urban fantasy, and children's stories. This is likely the most familiar genre for your players, especially for good vs. evil stories. The Blossomed, Driven, and Steadfast upgrade options are the most "default" in such settings.
 
@@ -306,7 +369,7 @@ As you begin to imagine the world and genre of your campaign, consider what it m
 ## Step Three: History
 <!-- _class: center -->
 
-> *Each character has a History Stat, made up of a number of narrative touchstones unique to them and only them!*
+> *Each character has a History Stat, made up of a number of narrative touchstones unique to only them!*
 > *&mdash;snotskie*
 
 ### History Stat
@@ -338,8 +401,8 @@ As you work with your players to develop their backstory, come up with a list of
 - Acting (for a theater kid)
 - Manipulating Technology (for a hacker)
 - Stunt Driving (for a stunt performer)
-- Friendly Interactions with the Empire (for someone raised in the Empire)
-- Unfriendly Interactions with the Rebels (for someone raised in the Empire)
+- Friendly Interactions with the Empire (for someone raised in the empire)
+- Unfriendly Interactions with the Rebels (for someone raised in the empire)
 
 Consider what *unique* skills, proficiencies, traits, and backstory elements each character brings to the story. Also consider the *variety* of a character's narrative touchstones: if all or most of them would be covered already by another Stat, then the player would have no reason to use or upgrade their History Stat!
 
@@ -497,6 +560,17 @@ With that in mind, **pick two** of the following Abilities with the **[Starter]*
 | --- |
 | When you visit a place of religious or spiritual importance, you may spend any number of ① as a donation or act of service to the place. The more spent this way, the greater a possible later boon may be, determined by the GM. *This Ability requires and extends Stalwart Stance.* |
 
+### GM Guide: Blessèd Charity's Boon
+<!-- _class: guide -->
+
+How you rule the boon given by the "Blessèd Charity" ability may vary by session, setting, scene, or even be determined in the moment when the players need it most.
+
+However, some ideas are:
+
+- Create a tiered scale ahead of time, where the player unlocks different tiers of a boon as more Blessing Dice are donated. This is the simplest option, but requires prior planning creating the tiered scale.
+- Grant the player a $+2$ bonus to a roll in their time of need for each Blessing Dice donated. This is the simplest option presented here, and depending on the situation may feel satisfying or underwhelming.
+- Grant the player a $+X$ bonus to a roll in their time of need, where $X$ is the number of Blessing Dice donated. Then, have them roll $Xd6$; if they roll a $1$ on any of those dice, they gain the $+X$ bonus again and repeat this step. This option likely guarantees success on a vital roll, requires no prior planning, and can feel satisfyingly chaotic.
+
 ---
 <!-- _class: ability -->
 
@@ -557,7 +631,7 @@ With that in mind, **pick two** of the following Abilities with the **[Starter]*
 
 | Blessèd Distraction |
 | --- |
-| When another character succeeds a Check or wins a Contest, you may distract them using an item in your possession, modifying that character’s result by $-3$, possibly turning their success into a failure or win into a loss. Then this ability cannot be activated again until you spend ⑤ to recharge it. *This Ability requires and extends Efficiently Packed.* |
+| When another character succeeds a Check or wins a Contest, you may distract them using an item in your possession, modifying that character's result by $-3$, possibly turning their success into a failure or win into a loss. Then this ability cannot be activated again until you spend ⑤ to recharge it. *This Ability requires and extends Efficiently Packed.* |
 
 ---
 <!-- _class: ability -->
@@ -665,17 +739,6 @@ With that in mind, **pick two** of the following Abilities with the **[Starter]*
 | --- |
 | During a Contest against another character, before either character rolls, you may spend two Blessing Dice of the same worth to act synchronously with your opponent. If you do, the two of you perform your rolls at the same time. When either of you would bump, you both bump. You both still maintain your own separate roll totals. This Ability may not be used when determining Focal Actions. *This Ability requires and extends Synchronized Spark.* |
 
-### GM Guide: Blessèd Charity's Boon
-<!-- _class: guide -->
-
-How you rule the boon given by the "Blessèd Charity" ability may vary by session, setting, scene, or even be determined in the moment when the players need it most.
-
-However, some ideas are:
-
-- Create a tiered scale ahead of time, where the player unlocks different tiers of a boon as more Blessing Dice are donated. This is the simplest option, but requires prior planning creating the tiered scale.
-- Grant the player a $+2$ bonus to a roll in their time of need for each Blessing Dice donated. This is the simplest option presented here, and depending on the situation may feel satisfying or underwhelming.
-- Grant the player a $+X$ bonus to a roll in their time of need, where $X$ is the number of Blessing Dice donated. Then, have them roll $Xd6$; if they roll a $1$ on any of those dice, they gain the $+X$ bonus again and repeat this step. This option likely guarantees success on a vital roll, requires no prior planning, and can feel satisfyingly chaotic.
-
 ## Step Five: Items
 <!-- _class: center -->
 
@@ -704,7 +767,7 @@ You do not need to go through the entire character creation process to create NP
 - One Stat Die shared by all the other Stats
 - At most one Ability. If the Ability would require recharging to be used, instead roll a $d6$ as though gaining a Blessing Die. If the NPC would gain a Blessing Die worth enough to recharge the Ability, instead recharge the Ability immediately
 
-## Session Shop
+## Afterwards: Session Shop
 <!-- _class: center -->
 
 > *Now that you've built your first character, let's play! And after your first session, keep reading to find out what upgrade options are available in the Session Shop!*
@@ -736,40 +799,17 @@ You may also **spend ①①① to receive an additional** upgrade beyond the one
 | --- |
 | If your starting Lifestyle was Carefree, you may upgrade your Lifestyle to Blossomed, Prodigious, or Crafty. If you do, you receive this upgrade at the end of the following session. |
 
-- **🌼 Blossomed:** Your carefree nature has kept you safe from harm and surrounded by friends. When you have sparks, they might take on a free and connected aspect. Whenever you would fail a Check or lose a Contest while performing a Spark roll using Heart or Hurry, protect yourself for $+dcX$, as though you were Helped by the love and connectedness you feel for those around you, where $X$ is the same sized die used in the Spark roll.
-- **🔮 Prodigious:** Your studies have come effortlessly to you, and secrets almost seem to just reveal themselves to you. When you have sparks, they might take on a sorcerous or uninhibited aspect. Whenever you would fail a Check or lose a Contest while performing a Spark roll using Head or Hurt, protect yourself for $+dcX$, as though you were Helped by a raw innate power, where $X$ is the same sized die used in the Spark roll.
-- **🧶 Crafty:** You can envision amazing designs and, it seems, to bring them to life. When you have sparks, they might take on an autonomous or lucky aspect. Whenever you would fail a Check or lose a Contest while performing a Spark roll using Hand or Home, protect yourself for $+dcX$, as though you were Helped by your own sudden creativity, where $X$ is the same sized die used in the Spark roll.
-
----
-<!-- _class: ability -->
-
 | Eager Upgrade |
 | --- |
 | If your starting Lifestyle was Eager, you may upgrade your Lifestyle to Driven, Chosen, or Wired. If you do, you receive this upgrade at the end of the following session. |
-
-- **⚜️ Driven:** Your eager drive has found purchase in a great mission or calling. When you have sparks, they might take on an incorrigible or resolute aspect. Whenever you would fail a Check or lose a Contest while performing a Spark roll using Hand or Hurt, protect yourself for $+dcX$, as though you were Helped by your own faith in your mission, where $X$ is the same sized die used in the Spark roll.
-- **✨ Chosen:** You draw inspiration from the community around you, setting out on your journeys blessed, favored, or even cursed. When you have sparks, they might take on a divine or noble aspect. Whenever you would fail a Check or lose a Contest while performing a Spark roll using Heart or Home, protect yourself for $+dcX$, as though you were Helped by the will of the people whose lives you've touched, where $X$ is the same sized die used in the Spark roll.
-- **⚡ Wired:** Your mind is quick and analytical, and you can see solutions to problems that are unimaginably complex. When you have sparks, they might take on a calculating or duplicative aspect. Whenever you would fail a Check or lose a Contest while performing a Spark roll using Head or Hurry, protect yourself for $+dcX$, as though you were Helped by your own mind palace, where $X$ is the same sized die used in the Spark roll.
-
----
-<!-- _class: ability -->
 
 | Wisened Upgrade |
 | --- |
 | If your starting Lifestyle was Wisened, you may upgrade your Lifestyle to Steadfast, Warry, or Compelling. If you do, you receive this upgrade at the end of the following session. |
 
-- **🪬 Steadfast:** Your wise steadiness and alertness have made you adept at warding off harm and protecting your loved ones. When you have sparks, they might take on a firm or dispelling aspect. Whenever you would fail a Check or lose a Contest while performing a Spark roll using Head or Home, protect yourself for $+dcX$, as though you were Helped by your care for others, where $X$ is the same sized die used in the Spark roll.
-- **👁️ Warry:** You are one with the natural and supernatural worlds around you, and you have a keen sense of danger and safety. When you have sparks, they might take on an astral or prophetic aspect. Whenever you would fail a Check or lose a Contest while performing a Spark roll using Hand or Hurry, protect yourself for $+dcX$, as though you were Helped by knowledge only you could know in that moment, where $X$ is the same sized die used in the Spark roll.
-- **👄 Compelling:** You seem able to spin any loss into a win&mdash;or vice versa&mdash;, and you are a sly, tactical force to be reckoned with. When you have sparks, they might take on an illusory or vicious aspect. Whenever you would fail a Check or lose a Contest while performing a Spark roll using Heart or Hurt, protect yourself for $+dcX$, as though you were Helped by your own ambition, where $X$ is the same sized die used in the Spark roll.
-
----
-<!-- _class: ability -->
-
 | Lost Upgrade |
 | --- |
 | Regardless of your starting Lifestyle, you may upgrade your Lifestyle to Lost. If you do, you receive this upgrade at the end of the following session. Then, once your Lifestyle is Lost, you may upgrade your Lifestyle to any other option. If you do, you receive this upgrade at the end of the following session. |
-
-- **💎 Lost:** You feel a disconnect from your own past or former sense of self, perhaps because of an exile from your home, an erased memory, or a period of transition or deep self-reflection. When you have sparks, they might take on an erratic or liminal aspect. Whenever you would fail a Check or lose a Contest while performing a Spark roll using History, protect yourself for $+dcX$, as though you were Helped by your quest for self-discovery, where $X$ is the same sized die used in the Spark roll.
 
 ---
 <!-- _class: ability -->
@@ -867,7 +907,7 @@ When a Blessing Die is spent, it is removed from your pool of Blessing Dice.
 ### GM Guide: When to Award Blessing Dice
 <!-- _class: guide -->
 
-You as a GM should award players Blessing Dice consistently and throughout each session, as many characters’ abilities depend on them.
+You should award players Blessing Dice consistently and throughout each session, as many characters' abilities depend on them.
 
 What this looks like can vary per GM, per table, or per scene.
 
@@ -880,13 +920,13 @@ The way you award Blessing Dice is one of the most powerful tools in your toolbe
 
 All this being said, we recommend new GMs to this game use the following:
 
-- Award $3$ Blessing Dice near the start of the first session, such as after the player has introduced their character
-- Award a Blessing Die the first time each session the player succeeds a Check or wins a Contest by $5$ or more, and award each other player whose character witnessed or heard about that high win or success a Blessing Dice as well
-- Award a Blessing Die for good role play and creative solutions
-- Award a Blessing Die each time the player rolls the "lucky number" for the session, before modifications to the roll from effects or Abilities. To determine the lucky number, at the start of each session, roll two $d10$ and use the higher value as the lucky number for the session. If a $1$ is rolled on both dice this way, then there is no lucky number for the session, as it is almost impossible to score lower than a $2$ on rolls in this game; such sessions take place narratively on an "unlucky day"
-- Award a number of Blessing Dice at the end of sessions where players completed important milestones in the story
+- Award $3$ Blessing Dice near the start of the first session, such as after the player has introduced their character.
+- Award a Blessing Die for good role play and creative solutions.
+- Award a number of Blessing Dice at the end of sessions where players completed important milestones in the story.
+- Award a Blessing Die the first time each session the player succeeds a Check or wins a Contest by $6$ or more, and award each other player whose character witnessed or heard about that high win or success a Blessing Dice as well.
+- Award a Blessing Die each time the player rolls the "lucky number" for the session, before modifications to the roll from effects or Abilities. To determine the lucky number, at the start of each session, roll two $d10$ and use the higher value as the lucky number for the session. If a $1$ is rolled on both dice this way, then there is no lucky number for the session, as it is almost impossible to score lower than a $2$ on rolls in this game; such sessions take place narratively on an "unlucky day."
 
-## Actions: Level 1
+## Checks and Contests
 <!-- _class: center -->
 
 > *An "action" is anything you choose for your character to do. Some actions require you to perform rolls to determine the outcome. The simplest of these are Checks and Contests. The rules for more complex types of actions build up from there.*
@@ -894,7 +934,7 @@ All this being said, we recommend new GMs to this game use the following:
 
 ### Basic Checks
 
-To perform a Basic Check, roll the die for the action’s associated Stat. The GM will let you know which to use. If the result of the roll meets or beats the GM’s target number, then the check succeeds. Otherwise, it fails.
+To perform a Basic Check, roll the die for the action's associated Stat. The GM will let you know which to use. If the result of the roll meets or beats the GM's target number, then the check succeeds. Otherwise, it fails.
 
 ### GM Guide: Setting Check Targets
 <!-- _class: guide -->
@@ -961,7 +1001,7 @@ $a_s + \frac{b_s k_s}{c_s}$
 
 ### Contests
 
-A non-violent Contest is when a character performs an action against another character’s will using any Stat besides Hurt.
+A non-violent Contest is when a character performs an action against another character's will using any Stat besides Hurt.
 
 To perform a non-violent Contest:
 
@@ -971,7 +1011,7 @@ To perform a non-violent Contest:
 
 ---
 
-A violent Contest is when an Attacker performs an action against another character’s will using their Hurt Stat. All Contests involving Hurt are potentially deadly. Unexpected things can happen and things can get out of hand quickly.
+A violent Contest is when an Attacker performs an action against another character's will using their Hurt Stat. All Contests involving Hurt are potentially deadly. Unexpected things can happen and things can get out of hand quickly.
 
 To perform a violent Contest:
 
@@ -1008,26 +1048,37 @@ Some rules refer to the "size" of an outcome, from Very Minor to Maximum, as det
 | Very Major | 19 | 9 |
 | Maximum | 20 or more | 10 or more |
 
-Also note, regardless of an Attacker's intention, a violent Contest with a Maximum outcome *always* leads to immediate death or grave injuries for the Defender.
-
-### GM Guide: Size of Non-violent Outcomes
+### GM Guide: Effect of Contest Outcomes
 <!-- _class: guide -->
 
-- **Minor-:** A Minor or lower outcome to a non-violent Contest represents the Attacker getting what they wanted, within reason, and with complications. Any advantage the Attacker gains is temporary.
-- **Medium:** A Medium outcome to a non-violent Contest represents a lack of complications. Any advantage the Attacker gains lasts for several rolls by or against the Defender.
-- **Major+:** A Major or higher outcome to a non-violent Contest can change the narrative arc of the session or even campaign.
+| Outcome size | Contest effect |
+| ------------ | -------------- |
+| Minor or lower | Attacker gets what they want, with complications, and the advantage is momentary. For violent Contests, the Defender could gain an Ache. |
+| Medium | Attacker gets what they want, without complications, and the advantage lasts several rolls or shifts the narrative of the scene. For violent Contests, the Defender could gain an Ache or Pain. |
+| Major or Very Major | Attacker gets what they want, and the ramifications may be serious though not life-threathening, shifting the narrative arc of the session or several sessions. For violent Contests, the Defender could gain a Weakness or Vulnerability. |
+| Maximum | Attacker has likely gone too far for what they intended. Effects are serious, possibly needing immediate attention or miracle, shifting the narrative arc of several sessions or the campaign. For violent Contests, the Defender could gain multiple Weaknesses or Vulnerabilities |
 
-### GM Guide: Size of Violent Outcomes
+### GM Guide: Describing Violent Effects
 <!-- _class: guide -->
 
-- **Minor-:** As with non-violent Contests, a Minor or lower outcome to a violent Contest represents a trivial wound that grants the Attacker only a temporary advantage, possibly with complications.
-- **Medium/Major:** A Medium, Major, or Very Major outcome to a violent Contest represents a nontrivial, but non-life-threatening wound that will need medical attention, possibly changing the narrative arc of the session to treat it, granting lasting effects if not treated successfully and in a timely manner.
-- **Maximum:** And a Maximum outcome to a violent Contest represents a serious wound, resulting in immediate death or grave injuries to the Defender needing immediate attention or a miracle.
+When describing the results of violent effects dealt to or by the player characters, don't only rely on status conditions or descriptions of injuries.
 
-## Actions: Level 2
+Include variety over the course of the campaign: What does the Attacker *want*? The character's motivations should drive the narrative, not just the game mechanics.
+
+You can treat Minor and Medium violent effects as ways the Attacker can get at what they want from the Defender in the scene, which is not always to just inflict injury on others.
+
+And you can treat Major violent effects as representing going too far using violent means to get what one wants.
+
+When a character suffers a Major violent effect, it can be unsatisfying for them to be immediately incapacitated or, in the extreme, removed from the game.
+
+Instead, you might draw the tension and possibility to respond out further. One way to do so is to provide the affected character's allies opportunity to perform a Home Contest against the same roll that the Attacker used to inflict the Major violent effect.
+
+If an ally wins the Contest by $4$ or more, then the violent effect is successfully mitigated, perhaps reducing it to a Medium or Minor effect. However, if the Attacker is able to roll $8$ or more on a Hurt Check before the allies can successfully treat the effect, then the Attacker may deliver a *coup de grace*.
+
+## Complex Actions, Helping, and Shopping
 <!-- _class: center -->
 
-> *There are special rules for when characters perform complex actions while attacking at the same time, and for when characters work together on Checks or Contests as a group. TODO revise*
+> *There are special rules or considerations for when characters perform complex actions, for when characters work together as a group, and for when characters give and receive Help.*
 > *&mdash;snotskie*
 
 ### Long Actions
@@ -1043,9 +1094,10 @@ For example:
 - Running a business
 - Searching ruins for forbidden knowledge while avoiding bounty hunters' detection
 
-For simplicity, the GM may ask for a single Check or Contest, using only the single Stat that the long action's success or victory most turns on. The target for success or victory without difficulties may be higher than usual in this case.
+There are two approaches the GM may take to resolving long actions:
 
-Alternatively, the GM may ask for three or four Checks or Contests, using the various Stats involved in the long action. For overall success or victory, at least half of these rolls will need to win or succeed. However, each failure or loss may incur difficulties on top of that success.
+- **Simple:** The GM may ask for a single Check or Contest, using only the single Stat that the long action's success or victory most turns on. The target for success or victory without difficulties or complications may be higher than usual in this case.
+- **Thorough:** The GM may ask for multiple Checks or Contests using the various Stats involved in the long action. For overall success or victory, at least half of these rolls will need to win or succeed. However, each failure or loss may incur difficulties or complications on top of that success.
 
 ### Complex Attacks
 
@@ -1059,13 +1111,12 @@ This way, even if the Defender rolls low, they still win the Contest if the Atta
 
 ### Group Checks and Contests
 
-Sometimes characters want to complete actions together as a group.
+Sometimes characters want to complete actions together as a group. There are two general approaches:
 
-One way is to provide Help to one roll that leads the group's action. Some members of the group may decide not to roll and instead wait for the group leader to roll, then provide Help to the leader by spending Blessings to increase the result of the roll.
+- **Provide Help:** One way is to provide Help to one roll that leads the group's action, as described later in this section. Some members of the group may decide not to roll and instead wait for the group leader to roll, then provide Help to the leader by spending Blessings to increase the result of the roll.
+- **Median Roll:** Another way is for each character to roll for the action, using the median of their rolls as the group's shared result. If the group roll had an even number of individual rolls, then the higher of the two median rolls is used. The table below provides a quick reference.
 
-Another way is for each character to attempt the action, using the median of their rolls. If multiple characters are Attackers together in a Contest, Defenders together in a Contest, or are performing a coordinated Check, then they may each perform their respective rolls and use the median of their results as the group's shared result. If the group roll had an even number of individual rolls, then the higher of the two median rolls is used. The table below provides a quick reference.
-
-| Group size | Roll used |
+| Rolls made | Roll used |
 | ---------- | --------- |
 | $2$ | Highest |
 | $3$ | Second highest |
@@ -1086,7 +1137,7 @@ Also note, a character cannot force other characters to become a group of Defend
 
 All characters may can spend their Blessing Dice to Help one another complete Checks and Contests. And your Abilities, events, and items in the story may also Help you in similar ways.
 
-Up to once per roll, whether your own or another character’s, you may Help by spending a number of Blessing Dice, then that character rolls a capped die and adds the result to their roll. The more Blessing Dice spent this way, the larger the capped die rolled, according to the table below. You may only Help other characters this way if your character is near enough to them to reasonably assist with the action and your character is not currently engaged in another action.
+Up to once per roll, whether your own or another character's, you may Help by spending a number of Blessing Dice, then that character rolls a capped die and adds the result to their roll. The more Blessing Dice spent this way, the larger the capped die rolled, according to the table below. You may only Help other characters this way if your character is near enough to them to reasonably assist with the action and your character is not currently engaged in another action.
 
 | Blessing Dice Spent | Bonus Added |
 | ------------------- | ----------- |
@@ -1111,7 +1162,7 @@ Events may occur where it would be reasonable for characters to receive situatio
 
 One approach to representing such situations is to lower the target for the Check or Contest involved.
 
-Another is to keep the target the same, but offer the player a $+dc2$ bonus to relevant Checks or Contests instead. You can offer this as a flat bonus on top of the relevant rolls, regardless of the result; or you could offer this only if a relevant roll would have failed, as though it were a "protect yourself" Ability. Note though, a small flat bonus is much more powerful than a large "protect yourself."
+Another is to keep the target the same, but offer the player a $+dc2$ bonus to relevant Checks or Contests instead if a relevant roll would have failed, as though it were a "protect yourself" Ability.
 
 ---
 <!-- _class: guide -->
@@ -1133,59 +1184,56 @@ More complex items like vehicles that narratively have "Stats" of their own coul
 
 ### Coming Prepared
 
-TODO
+You may perform a Home Check to see if you already came prepared with just the item you need.
 
-When setting targets for Home Checks characters perform to see if they already came prepared with just the item they need, consider:
+The target you will need to reach may depend on details such as:
 
-- How common, niche, specialized, rare, or unique in the world the desired item is
-- How probable it would be to already have that item
-- How many items the character already has listed
+- How common, niche, specialized, rare, or unique in the world the desired item is.
+- How probable it would be to already have that item.
+- How many items your character already has listed.
 
-If it would not require much suspension of disbelief for the character to have the item in the scene, use an easy to medium target. Otherwise, use a hard or higher target.
-
-If a player fails a Check this way, you may decide that they can't perform more Checks this way until the end of the scene or session. Moreover, if they fail such a Check by a disastrous amount, perhaps they dropped and broke other items while digging around in their bag, alerted others to their location, or so on.
+Also, when you fail a Check to see if you already came prepared with an item, you may be unable to perform these Checks again until the end of the scene or session. And if you fail by a large amount, you may drop or break other items in your possession while digging around in your bag, alert others to your location, or so on.
 
 ### Shopping
 
-TODO
+Performing Home Checks to shop, trade, or so on is similar to performing Home Checks to see if you already came prepared with an item.
 
-You can resolve characters shopping for items in a similar way to how you resolve Checks to see if they already came prepared with the item they need. However, the difference is that if they are shopping in a place where it would be reasonable to find the item they want, and it would be reasonable for them to have the money or goods to trade for that item, then you may give them situational Help on the Check.
+The difference is that if you are shopping in a place where it would be reasonable to find the desired item, and if would be reasonable for you to have the money or goods to trade for that item, then you may receive situational Help on the Check.
 
 ### Crafting
 
-TODO
-
-Crafting new items from one's surroundings, tools, and supplies is a long action, in that it usually requires a number of tasks that span the scope of multiple Stats:
+Crafting new items from your surroundings, tools, and supplies is a long action. This is because crafting usually requires a number of tasks that span the scope of multiple Stats:
 
 - Gathering high quality supplies (Home)
 - Gaining knowledge of how to construct the desired object (Head)
 - Gathering or constructing the necessary tools (Hand or Home)
 - Constructing the desired object, which can involve multiple steps depending on the complexity (Hand)
 - Improvising adjustments when tools or supplies break or when one's initial plans were imperfect (Heart)
-- Meddling with the forces of the universe (Hex, Ham, Hologram, etc. for settings that have a Stat for the "magic" of the world)
+- Meddling with the forces of the universe (Hex, Ham, Hologram, or so on, for settings that have a Stat for the "magic" of the world)
+
+---
+
+The target you will need to hit for this craft long action will depend on the intended "quality" or effect of your desired item:
+
+| Item quality | Typical outcome size | Description |
+| ------------ | -------------------- | ----------- |
+| Mundane | Very Minor or Minor | Narrative function only |
+| High-Quality Mundane | Medium | Provides a "protect yourself for $+1$" effect |
+| Powered | Major or Very Major | Provides a "protect yourself for $+dc2$" effect |
+| Mythic | Maximum | Provides narrative fame or infamy in addition to a "protect yourself for $+dc4$" effect |
+
+Also note, crafted items may come with flaws, even if you succeed overall. How flaws are introduced depends on how the GM chooses to resolve the craft long action:
+
+- **Simple:** The GM may provide two targets for you to hit. To succeed you will need to hit the lower target, but to succeed without flaws or limitations you will need to hit the higher target.
+- **Thorough:** The GM may require you to make multiple Checks. To succeed at crafting you will need to succeed on at least half of the individual Checks, with each failed Check introducing the chance for a flaw or limitation.
 
 ### Making Plans
 
-TODO
+When you and your fellow players propose plans that could direct sessions, several sessions, or whole campaigns, the GM may ask for a set of rolls similar to a group long action.
 
-For even more narratively complex actions, such as the players proposing a course of action that in itself could be a session or campaign arc, you may ask for a set of rolls for multiple Stats in the same way, each corresponding to a different necessary step of their plan. Then, based on the results, you provide different amounts or types of information to set them off on their quest to complete those steps in full over the next several scenes or missions.
+Each roll in this group long action will correspond to a different necessary step of your group's plans. Then, based on the results, the GM may provide different amounts or types of information to set you off on your "quest," representing your group's capabilities at planning and preparation.
 
----
-<!-- _class: guide -->
-
-So, resolve crafting as you would any other long action. The intended "power" or effect of the item can help determine the target, for example:
-
-- **Mundane:** Provides narrative function only. Typically requires a Very Minor or Minor outcome
-- **High-Quality Mundane:** Provides a "protect yourself for $+1$" effect. Typically requires a Medium outcome
-- **Powered:** Provides a "protect yourself for $+dc2$" effect. Typically requires a Major or Very Major outcome
-- **Mythic:** Provides narrative fame or infamy in addition to a "protect yourself for $+dc4$" effect. Typically requires a Maximum outcome
-- **Reality-Breaking Artifact:** Drives narrative arc in addition to providing a "protect yourself for $+2dc4$" effect. Typically not possible
-
-If you use the approach of requiring multiple Checks to resolve the long action, consider adding flaws or limitations to the created item if any of the failed Checks fail by a large amount.
-
-If you instead require only a single, harder Check, then consider allowing success if the player hits the base target, but only avoids flaws and limitations if they hit the harder target.
-
-## Actions: Level 3
+## Simultaneous Actions and Endeavors
 <!-- _class: center -->
 
 > *There are special rules for when several characters are working towards competing aims at the same time.*
@@ -1330,23 +1378,12 @@ You do not have "hit points" in this game. Nor do you have any "defensive" Stats
 
 In this game, wounds primarily serve to shape narrative arcs. The worse the wound, the longer lasting the impact and the greater lengths you may have to go to treat them.
 
-Additionally, injuries you receive may affect specific Stats, and these effects may range in degree. The lowest degree injury conditions are "aches," and the worst are "vulnerabilities."
+However, some injuries you receive may affect specific Stats, and these effects may range in degree. The lowest degree injury conditions are "aches," and the worst are "vulnerabilities."
 
 - **Ache:** Rolls you make with the affected Stat that would roll the highest value on the die instead roll the second highest. This condition lasts until the end of the scene. *For example, Headache, Handcramp, Heartache, and Homesick.*
 - **Pain:** Rolls you make with the affected Stat are made with a $-1$ modifier. This condition lasts until you rest in a safe place. *For example, Migraine, Soreness, Sadness, and Robbery.*
 - **Weakness:** Rolls you make with the affected Stat cannot receive Help, including Help from items, Abilities, or situations. This condition lasts until it is treated. *For example, Confusion, Exhaustion, Dejection, and Illness.*
 - **Vulnerability:** When an opposing character witnesses you perform a roll using the affected Stat, they may have you perform the roll again and use the new value. This condition lasts until it is treated. *For example, Memory Loss, Numbness, Wretchedness, and Destitution.*
-
-### GM Guide: Describing Wounds
-<!-- _class: guide -->
-
-When describing the results of wounds dealt to or by the player characters, don't only rely on status conditions or descriptions of injuries.
-
-Include variety over the course of the campaign: What does the Attacker *want*? The character's motivations should drive the narrative, not just the game mechanics.
-
-You can treat minor and medium wounds as ways the Attacker can get at what they want from the Defender in the scene, which is not always to just inflict injury on others. And you can treat major wounds as representing going too far using violent means to get what they want.
-
-When a character suffers a major wound, it can be unsatisfying for them to be immediately removed from the game. Instead, you might draw the tension and possibility to respond out further. One way to do so is to provide the wounded character's allies opportunity to perform a Home Contest against the same roll that the Attacker used to inflict the major wound. If an ally wins the Contest by $5$ or more, then the wound is successfully treated, perhaps reducing it to a medium or minor wound. However, if the Attacker is able to roll $5$ or more on a Hurt Check before the allies can successfully treat the wound, then the Attacker may deliver a *coup de grace* to finish off the wounded.
 
 ### Other Conditions
 
@@ -1402,11 +1439,11 @@ You do not need to specify ahead of time which discoveries correspond to each gl
 
 Then, for each, decide how copious it might be in the area:
 
-- Rare: Roll $1d4-2$ and if the result is positive add that many glimmer buttons of that type to the number line. This die bumps as usual. (For even rarer discoveries, you can roll $1d4-3$ or $1d4-4$ instead.)
-- Uncommon: Do the same as above, but with $1d4$.
-- Common: Do the same as above, but with $1d6$.
-- Abundant: Do the same as above, but with $1d8$.
-- Copious: Do the same as above, but with $1d10$.
+- **Rare:** Roll $1d4-2$ and if the result is positive add that many glimmer buttons of that type to the number line. This die bumps as usual. (For even rarer discoveries, you can roll $1d4-3$ or $1d4-4$ instead.)
+- **Uncommon:** Do the same as above, but with $1d4$.
+- **Common:** Do the same as above, but with $1d6$.
+- **Abundant:** Do the same as above, but with $1d8$.
+- **Copious:** Do the same as above, but with $1d10$.
 
 ---
 <!-- _class: guide -->
@@ -1521,7 +1558,7 @@ It is also recommended that you do not give your Monstrosities many Abilities&md
 
 **Flatten:** When you succeed a Hand Contest against an opponent during an Endeavor, you may have that opponent move backwards a number of spaces equal to the number of spaces you moved forward as a result of the Contest. Then this ability cannot be activated again until you spend ③ to recharge it.
 
-**Debilitate $X$:** Perform a $X$ Contest against an opponent. The amount you move forward as a result of this Contest, that opponent’s $X$ rolls are made with a $-1$ modifier for that many rounds. Then this ability cannot be activated again until you spend ② to recharge it.
+**Debilitate $X$:** Perform a $X$ Contest against an opponent. The amount you move forward as a result of this Contest, that opponent's $X$ rolls are made with a $-1$ modifier for that many rounds. Then this ability cannot be activated again until you spend ② to recharge it.
 
 **Propel:** When determining the Focal Action, you may exchange the result of your own roll with that of an ally who rolled lower than you. Then this ability cannot be activated again until you spend ② to recharge it.
 
