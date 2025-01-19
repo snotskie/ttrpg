@@ -23,6 +23,8 @@ headingDivider: 3
         document.querySelectorAll('section.guide').forEach(
             (e) => e.closest("svg").classList.toggle('secret')
         );
+
+        localStorage.setItem("view", (localStorage.getItem("view")==="GM")? "Player" : "GM");
     }
 
     window.addEventListener("load", function(){
@@ -32,7 +34,13 @@ headingDivider: 3
         }
 
         // hide guides
-        toggleGuides();
+        if (localStorage.getItem("view") !== "GM"){
+            toggleGuides();
+            localStorage.setItem("view", "Player");
+        } else {
+            document.getElementById("guide-hider").checked = true;
+            localStorage.setItem("view", "GM");
+        }
 
         // table of contents
         const toc = document.getElementById("toc");
@@ -66,11 +74,11 @@ headingDivider: 3
             const section = e.closest("section");
             const page = section.getAttribute("data-marpit-pagination");
             if (page){
-                const text = e.innerText;
-                e.innerText = "";
+                const html = e.innerHTML;
+                e.innerHTML = "";
                 const a = document.createElement("a");
                 e.appendChild(a);
-                a.innerText = text;
+                a.innerHTML = html;
                 a.setAttribute("href", "#" + section.getAttribute("id"));
             }
         });
@@ -204,13 +212,13 @@ Cover typography: Bebas Neue, by Ryoichi Tsunekawa
 ### Character Creation: Step One!
 <!-- _class: creation -->
 
-Your first task is to decide which Stats your character is best (and worst) at. **Rank your Stats** for your character: What are they most capable at? least capable at? just middly at?
+Your first task is to decide **which Stat your character is best at**.
 
 As you do, begin to think about the story your character takes on in your mind. **Why are they good at this and not at that?** Why is one important to them and not the other? What are they trying to improve? What do they like getting help from others on?
 
 When you begin the game, most of your Stats are equal, using a $d4$ for their Checks. However, the Stat you ranked as your **highest Stat begins the game one die size larger**. Your Lifestyle also increases your starting Stat Dice.
 
-All of your Stat Dice can be upgraded later in the Session Shop section at the end of this chapter.
+All of your Stat Dice can be **upgraded later in the Session Shop** section at the end of this chapter.
 
 ### GM Guide: Creating Other Stats
 <!-- _class: guide -->
@@ -261,7 +269,7 @@ Finally, if you create a new Stat, the Lifestyle options as written will not ben
 ## Step Two: Background
 <!-- _class: center -->
 
-> *Each character in this game has a Lifestyle and a Value System. These represents characters' general backgrounds, goals, and beliefs about the world, and these can change over the course of the story.*
+> *Each character in this game has a Lifestyle and a Value System. These represent characters' general backgrounds, goals, and beliefs about the world, and these can change over the course of the story.*
 > *&mdash;snotskie*
 
 ### Lifestyle and Value System
@@ -359,15 +367,15 @@ Two of your Stats begin the game one die size larger, according to the table bel
 
 | ⚔️ Virtue and Vice | 
 | --- |
-| Deep down, you may believe that there is good in the world and that, no matter how terrible the world gets, the people who are good will win in the end. You may also believe that people who live with virtue are able to live in harmony together, while excess vice manifests itself as a clear and knowable "darkness." |
+| Deep down, you may believe that there is good in the world and that no matter how terrible the world gets, the people who are good will win in the end. You may also believe that people who live with virtue are able to live in harmony together, while excess vice manifests itself as a clear and knowable "darkness." |
 
 | 🌒 Fate and Knowledge | 
 | --- |
-| What drives your actions may be a firm belief that your personal traits dictate your destiny, not whether you are "good," and personal traits can never really be changed. You may also believe that your destiny can be altered to your liking by making the right deal, adhering to the right discipline, or acquiring the right knowledge&mdash;ends justify the means after all. |
+| What drives your actions may be a firm belief that your personal traits dictate your destiny, not whether you are "good," and that personal traits can never really be changed. You may also believe that your destiny can be altered to your liking by making the right deal, adhering to the right discipline, or acquiring the right knowledge—ends justify the means after all. |
 
 | ⚙️ Cunning and Capability | 
 | --- |
-| At the end of the day, you may believe that the only person you can really trust is yourself. You may also believe that the world is unfair, "good" and "fate" are just made up ideas, and you'd do whatever it takes to get by. |
+| At the end of the day, you may believe that the only person you can really trust is yourself. You may also believe that the world is unfair, "good" and "fate" are made up ideas, and you'd do whatever it takes to just get by. |
 
 ### GM Guide: Campaign Value System
 <!-- _class: guide -->
@@ -376,7 +384,7 @@ As you begin to imagine the world and genre of your campaign, consider what it m
 
 **⚔️ Virtue and Vice** settings are well equipped for high fantasy, utopian sci-fi, shonen, optimistic post-apocalyptic worlds, mythological, magical realism, allegorical fables, urban fantasy, and children's stories. This is likely the most familiar genre for your players, especially for good vs. evil stories. The Blossomed, Driven, and Steadfast upgrade options are the most "default" in such settings.
 
-**🌒 Fate and Knowledge** settings are well equipped fordark fantasy, gothic fiction, mystical post-apocalypse, psy-fi, cosmic horror, occult fiction, dystopian fiction, and supernatural horror. This genre resists feeling familiar, as it often subverts familiarity in order to invoke unsettling feelings. The Prodigious, Chosen, and Warry upgrade options are the most "default" in such settings.
+**🌒 Fate and Knowledge** settings are well equipped for dark fantasy, gothic fiction, mystical post-apocalypse, psy-fi, cosmic horror, occult fiction, dystopian fiction, and supernatural horror. This genre resists feeling familiar, as it often subverts familiarity in order to invoke unsettling feelings. The Prodigious, Chosen, and Warry upgrade options are the most "default" in such settings.
 
 **⚙️ Cunning and Capability** settings are well equipped for cyberpunk, steam punk, hard sci-fi, spy fiction, heist fiction, josei, surveillance-state fiction, noir, and antihero/villain stories. This genre is likely familiar, and fits stories well that have high stakes without necessarily a clear good vs. evil component. The Crafty, Wired, and Compelling upgrade options are the most "default" in such settings.
 
@@ -591,21 +599,21 @@ However, some ideas are:
 > *This pack of Abilities deals with friendship.*
 > *&mdash;snotskie*
 
-| Blessèd Collaboration [Starter] |
+| Concerted Effort [Starter] |
 | --- |
 | Whenever you spend ①① or more to Help another character, they gain a bonus as though you had spent an additional ①①. |
 
 | Blessèd Ambience |
 | --- |
-| Up to once per scene, you may adjust the "vibe" or "background music" of a space or situation subtly, such as making it feel cozier, more intense, or eerily calm. Others are unable to pinpoint what changed in the space or situation, but the atmosphere shifts to suit your intent. Then this ability cannot be activated again until you spend ④ to recharge it. *This Ability requires and extends Blessèd Collaboration.* |
+| You may adjust the "vibe" or "background music" of a space or situation subtly, such as making it feel cozier, more intense, or eerily calm. Others are unable to pinpoint what changed in the space or situation, but the atmosphere shifts to suit your intent. Then this ability cannot be activated again until you spend ④ to recharge it. *This Ability requires and extends Concerted Effort.* |
 
 | Epic Storytelling |
 | --- |
-| Up to once per session, when your pool of Blessing Dice has a total combined worth of at least $10$, you may tell a rousing story or give a rousing speech. Each other character who hears the story or speech gains a Blessing Die. *This Ability requires and extends Blessèd Collaboration.* |
+| Up to once per session, when your pool of Blessing Dice has a total combined worth of at least $10$, you may tell a rousing story or give a rousing speech. Each other character who hears the story or speech gains a Blessing Die. *This Ability requires and extends Concerted Effort.* |
 
 | Double Trouble |
 | --- |
-| During a Clash Endeavor, your summons may perform Spark rolls by working together in pairs, using one Stat from each, so long as the chosen Stats are balanced and you pay the Blessing die cost. *This Ability requires and extends Blessèd Collaboration.* |
+| During a Clash Endeavor, your summons may perform Spark rolls by working together in pairs, using one Stat from each, so long as the chosen Stats are balanced and you pay the Blessing die cost. *This Ability requires and extends Concerted Effort.* |
 
 ---
 <!-- _class: ability -->
@@ -639,13 +647,13 @@ However, some ideas are:
 | --- |
 | When you fail a Check, you may attempt the Check again, using the newer result instead. Then this ability cannot be activated again until you spend ⑤ to recharge it. *This Ability requires and extends Efficiently Packed.* |
 
-| Epic Fortitude |
-| --- |
-| Up to once per session, when your pool of Blessing Dice has a total combined worth of at least $10$, you may declare boldly that you have exactly the right item or idea you need for the situation. When you succeed your next Check during the same scene, increase the size of the outcome to one rank higher than it would have been otherwise, such as from Minor to Medium. *This Ability requires and extends Efficiently Packed.* |
-
 | Blessèd Distraction |
 | --- |
 | When another character succeeds a Check or wins a Contest, you may distract them using an item in your possession, modifying that character's result by $-3$, possibly turning their success into a failure or win into a loss. Then this ability cannot be activated again until you spend ⑤ to recharge it. *This Ability requires and extends Efficiently Packed.* |
+
+| Epic Fortitude |
+| --- |
+| Up to once per session, when your pool of Blessing Dice has a total combined worth of at least $10$, you may declare boldly that you have exactly the right item or idea you need for the situation. When you succeed your next Check during the same scene, increase the size of the outcome to one rank higher than it would have been otherwise, such as from Minor to Medium. *This Ability requires and extends Efficiently Packed.* |
 
 ---
 <!-- _class: ability -->
@@ -711,7 +719,7 @@ However, some ideas are:
 
 | Blessèd Pragmatism |
 | --- |
-| While determining the Focal Action during an Endeavor, you may choose to roll any value you rolled the previous round. This does not include any modifications applied to that roll, you must be attempting the same action as before, and if the previous roll was a Spark roll you must pay the Blessing Die cost again. Then this ability cannot be activated again until you spend ④ to recharge it. *This Ability requires and extends Sharp Recall.* |
+| While determining the Focal Action of an Endeavor, you may choose to roll any value you rolled the previous round. This does not include any modifications applied to that roll, you must be attempting the same action as before, and if the previous roll was a Spark roll you must pay the Blessing Die cost again. Then this ability cannot be activated again until you spend ④ to recharge it. *This Ability requires and extends Sharp Recall.* |
 
 ---
 <!-- _class: ability -->
@@ -796,11 +804,11 @@ You may also **spend ①①① to receive an additional** upgrade beyond the one
 
 | Stat Upgrade |
 | --- |
-| You may upgrade a single Stat's die one size, from a $d4$ to a $d6$, from a $d6$ to a $d8$, or a $d8$ to a $d10$. If you do, you receive this upgrade immediately. You may only receive this Upgrade $10$ times. |
+| You may upgrade a single Stat's die one size, from a $d4$ to a $d6$, from a $d6$ to a $d8$, or a $d8$ to a $d10$. If you do, you receive this upgrade immediately. You may only receive this upgrade $10$ times. |
 
 | Ability Upgrade |
 | --- |
-| You may use your upgrade to gain an additional Ability. If you do, you receive this upgrade at the end of the following session. You may only receive this Upgrade $2$ times. |
+| You may use your upgrade to gain an additional Ability. If you do, you receive this upgrade at the end of the following session. You may only receive this upgrade $2$ times. |
 
 | History Upgrade |
 | --- |
@@ -892,9 +900,9 @@ For example:
 
 You play this game with three sets of dice:
 
-- Your Stat Dice, representing your general capabilities. You will likely need $2d4$, $2d6$, $2d8$, and $2d10$ over the course of the game 
-- Your pool of Blessing Dice, which are spent to activate different Abilities. Your GM will likely provide this, either as a pool of several small $d6$ or as a deck of cards only containing several copies of the numbers $1$ through $6$
-- Any special dice used within the rules of your Abilities, if any. You may use your same Stat Dice, or carry a few extra dice as used by your Abilities. Most common is a $dc2$, so a few extra $d4$ will likely do the trick
+- Your Stat Dice, representing your general capabilities. You will likely need $2d4$, $2d6$, $2d8$, and $2d10$ over the course of the game.
+- Your pool of Blessing Dice, which are spent to activate different Abilities. Your GM will likely provide this, either as a pool of several small $d6$ or as a deck of cards only containing several copies of the numbers $1$ through $6$.
+- Any special dice used within the rules of your Abilities, if any. You may use your same Stat Dice, or carry a few extra dice as used by your Abilities. Most common is a $dc2$, so a few extra $d4$ will likely do the trick.
 
 ### Blessing Dice
 
@@ -971,12 +979,12 @@ If your setting has "magic" or other supernatural, reality-bending player capabi
 
 We recommend providing your players a table that describes your "magic" targets for them:
 
-- Each row of the table corresponds to an outcome size, from Very Minor to Maximum
-- Each column corresponds to a "school of magic" or category of supernatural effect
-- Each cell describes examples of what a supernatural action of that outcome size and category might look like
-- Players and you determine which cells are most like what the player wants to achieve with their effect, and the highest outcome size among those cells is the outcome size their roll will need to meet, with you having final say on the exact Check target
-- Increase the outcome size they need to hit if they are pushing the area, duration, or nature of the effect further than normal; if they are untrained in the effect or it is outside their "school of magic"; or if the effect requires forbidden knowledge
-- Performing supernatural effects requiring beyond a Maximum outcome size requires a "quest" to do so
+- Each row of the table corresponds to an outcome size, from Very Minor to Maximum.
+- Each column corresponds to a "school of magic" or category of supernatural effect.
+- Each cell describes examples of what a supernatural action of that outcome size and category might look like.
+- Players and you determine which cells are most like what the player wants to achieve with their effect, and the highest outcome size among those cells is the outcome size their roll will need to meet, with you having final say on the exact Check target.
+- Increase the outcome size they need to hit if they are pushing the area, duration, or nature of the effect further than normal; if they are untrained in the effect or it is outside their "school of magic"; or if the effect requires forbidden knowledge.
+- Performing supernatural effects requiring beyond a Maximum outcome size requires a "quest" to do so.
 
 ### Spark Checks
 
@@ -1067,7 +1075,7 @@ Some rules refer to the "size" of an outcome, from Very Minor to Maximum, as det
 
 | Outcome size | Contest effect |
 | ------------ | -------------- |
-| Minor or lower | Attacker gets what they want, with complications, and the advantage is momentary. For violent Contests, the Defender could gain an Ache. |
+| Very Minor or Minor | Attacker gets what they want, with complications, and the advantage is momentary. For violent Contests, the Defender could gain an Ache. |
 | Medium | Attacker gets what they want, without complications, and the advantage lasts several rolls or shifts the narrative of the scene. For violent Contests, the Defender could gain an Ache or Pain. |
 | Major or Very Major | Attacker gets what they want, and the ramifications may be serious though not life-threathening, shifting the narrative arc of the session or several sessions. For violent Contests, the Defender could gain a Weakness or Vulnerability. |
 | Maximum | Attacker has likely gone too far for what they intended. Effects are serious, possibly needing immediate attention or miracle, shifting the narrative arc of several sessions or the campaign. For violent Contests, the Defender could gain multiple Weaknesses or Vulnerabilities |
@@ -1092,7 +1100,7 @@ If an ally wins the Contest by $4$ or more, then the violent effect is successfu
 ## Complex Actions, Helping, and Shopping
 <!-- _class: center -->
 
-> *There are special rules or considerations for when characters perform complex actions, for when characters work together as a group, and for when characters give and receive Help.*
+> *There are special rules or considerations for when characters perform complex actions, work together as a group, and give and receive Help.*
 > *&mdash;snotskie*
 
 ### Long Actions
@@ -1243,7 +1251,7 @@ Also note, crafted items may come with flaws, even if you succeed overall. How f
 
 ### Making Plans
 
-When you and your fellow players propose plans that could direct sessions, several sessions, or whole campaigns, the GM may ask for a set of rolls similar to a group long action.
+When you and your fellow players propose plans that could direct sessions or whole campaigns, the GM may ask for a set of rolls similar to a group long action.
 
 Each roll in this group long action will correspond to a different necessary step of your group's plans. Then, based on the results, the GM may provide different amounts or types of information to set you off on your "quest," representing your group's capabilities at planning and preparation.
 
@@ -1431,6 +1439,24 @@ These sorts of Endeavors are run like any other Endeavor, with the following add
 - **Initial Summons:** Each summoner begins the Endeavor with two summons aiding them at position $0$ on the number line. Moreover, if a summoner goes an entire round without a summon aiding them on the number line, they add one at position $0$ at the end of the round.
 - **End Condition:** The end condition for the Endeavor depends on the scene in question. However, generally a summoner wins a Clash Endeavor when one of their summons reaches at least a predetermined point on the number line, or when their summons have captured at least a predetermined number of opposing summons.
 
+### GM Guide: Stats for Summons
+<!-- _class: guide -->
+
+For simplicity, Summons may use Stats similar to how Monstrosities use them. You may use the following table as a starting point for converting advantage movement gained to summon Stats.
+
+| Advantage movement | Description |
+| ------------ | ----------- |
+| $3$ or less | Summon fails. |
+| $4$ to $7$ | Summon uses $dc2$ for Stats. |
+| $8$ to $11$ | Summon uses $dc4$ for Stats. |
+| $12$ to $15$ | Summon uses $dc6$ for Stats. Or, summon uses $dc4$ and has an extra Ability. |
+| $16$ to $19$ | Summon uses $dc8$ for Stats. Or, summon uses $dc6$ and has an extra Ability. |
+| $20$ or more | Summon uses $dc10$ for Stats. Or, summon uses $dc8$ and has an extra Ability. Or, summon uses $dc6$ and has two extra Abilities. |
+
+You may also allow your players to determine their "pool" of summons ahead of time through roleplay, if it makes sense for the campaign setting.
+
+In any case, getting summons their Stats and onto the number line should be a *quick* process.
+
 ### 🔎 Discovery Endeavors
 
 Some campaigns or sessions may involve a prolonged scene where the player characters explore a mansion for clues, search through the rubble of a crashed spaceship, delve into a dungeon, or so on!
@@ -1491,6 +1517,139 @@ These sorts of Endeavors are run like any other Endeavor, with the following add
 - **Muddle Buttons:** When each Monstrosity joins the Endeavor, it adds one or more "muddle buttons" to the number line. When the movement of a player character or one of their allies moves over one of these points on the number line, that Monstrosity is Muddled for the next round, representing a momentary crack in the Monstrosity's defenses&mdash;literally or figuratively. Then, the button is removed. If a player character or one of their allies would activate multiple muddle buttons in one round, that character instead chooses just one to activate. Be warned though, as some Monstrosities have Abilities that grow in power the more times they've been muddled this way!
 - **Stamina:** Each Monstrosity has an amount of "stamina." At the end of each round, if the player characters and their allies have a combined value on the number line equal to or greater than a Monstrosity's stamina, those characters may move backwards on the number line a total amount equal to the Monstrosity's stamina. If they do, they non-lethally remove that Monstrosity from the Endeavor and narrate what happens.
 
+### GM Guide: Monstrous Abilities
+<!-- _class: guide -->
+
+All Monstrosities have the Capture Ability.
+
+| Capture |
+| --- |
+| When you gain advantage movement, you may move backward on the number line any amount. If you do, choose an opponent. That opponent then performs a Check where the target is equal to the number of spaces you moved backward. If they fail, you non-lethally remove that opponent from the Endeavor and advance toward your objectives. Then regardless of the Check's result, the current round immediately ends. At the end of subsequent rounds, that opponent may attempt this Check again to re-enter the Endeavor. |
+
+---
+<!-- _class: guide -->
+
+You may also give your Monstrosities any of the following Monstrous Abilities or create your own. These Abilities are listed in a rough order from "weakest" to "strongest."
+
+It is also recommended that you do not give your Monstrosities many Abilities&mdash;one or two well-placed Abilities are plenty to make a Monstrosity memorable! Consider adding multiple Monstrosities to a Monstrous Endeavor that have complementary skills to create sessions that feel engaging and strategic. And for Monstrosities that use "magic" or wield some other kind of powerful force, we recommend using the Spark Rush $X$ Ability, flavoring it for the occasion.
+
+| Resistance vs. $X$ |
+| --- |
+| Whenever you would lose a Contest as the Defender against $X$, protect yourself for $+dc2$. |
+
+| Revenge |
+| --- |
+| When you become Muddled, you may immediately perform a Contest as an Attacker against the character that Muddled you, as though this Contest were a Side Action, even if you or the Defender have already acted this round. |
+
+| Shield vs. $X$ |
+| --- |
+| When you succeed a Home Check during an Endeavor, you may have you and your allies receive Resistance vs. $X$ for a number of rounds equal to the number of spaces you moved forward as a result of the Check, to a maximum of $3$ rounds. Then this ability cannot be activated again until you spend ② to recharge it. |
+
+---
+<!-- _class: guide -->
+
+| Flatten |
+| --- |
+| When you succeed a Hand Contest against an opponent during an Endeavor, you may have that opponent move backwards a number of spaces equal to the number of spaces you moved forward as a result of the Contest. Then this ability cannot be activated again until you spend ③ to recharge it. |
+
+| Debilitate $X$ |
+| --- |
+| Perform a $X$ Contest against an opponent. The amount you move forward as a result of this Contest, that opponent's $X$ rolls are made with a $-1$ modifier for that many rounds. Then this ability cannot be activated again until you spend ② to recharge it. |
+
+| Propel |
+| --- |
+| When determining the Focal Action, you may exchange the result of your own roll with that of an ally who rolled lower than you. Then this ability cannot be activated again until you spend ② to recharge it. |
+
+| Clarity |
+| --- |
+| When you succeed a Home Check during an Endeavor, you may have the muddle buttons of your allies move forward a number of spaces equal to the number of spaces you moved forward as a result of the Check. Then this ability cannot be activated again until you spend ③ to recharge it. |
+
+| Immunity vs. $X$ |
+| --- |
+| Whenever you would lose a Contest as the Defender against $X$, you instead succeed by $1$. |
+
+---
+<!-- _class: guide -->
+
+| Inspire |
+| --- |
+| When you succeed a Hurry Check during an Endeavor, you may choose an ally and have the roll they make to determine the Focal Action next round increase by $+3$ or by a number equal to the amount you moved forward as a result of the Check, whichever is lower. Then this ability cannot be activated again until you spend ④ to recharge it. |
+
+| Curse |
+| --- |
+| Perform a Head Contest against an opponent. The amount you move forward as a result of this Contest, the opponent is Cursed by you for that many rounds. (When you see that opponent perform a roll, you may choose to have them reroll it and take the new value, then the Curse ends. Otherwise, the Curse ends when that many rounds have passed.)  Then this ability cannot be activated again until you spend ③ to recharge it. |
+
+| Mirror vs. $X$ |
+| --- |
+| When you succeed a Home Check during an Endeavor, you may have you and your allies receive Immunity vs. $X$ for a number of rounds equal to the number of spaces you moved forward as a result of the Check, to a maximum of $3$ rounds. Then this ability cannot be activated again until you spend ⑥ to recharge it. |
+
+| Spark Rush $X$ |
+| --- |
+| Perform a Check. The amount you move forward as a result of this Check, for that many rounds, to a maximum of $3$ rounds, you may Spark using $2dcX$. Then this ability cannot be activated again until you spend Ⓧ to recharge it. |
+
+---
+<!-- _class: guide -->
+
+| Empower |
+| --- |
+| When you succeed a Home Check during an Endeavor, you may have you and your allies increase their die caps by $1$ for a number of rounds equal to the number of spaces you moved forward as a result of the Check, to a maximum of $3$ rounds. Then this ability cannot be activated again until you spend ③ to recharge it. A character can only benefit from one instance of this Ability at a time. |
+
+| Fervor |
+| --- |
+| When you succeed a Heart Check during an Endeavor, you may have you and your allies receive Revenge for a number of rounds equal to the number of spaces you moved forward as a result of the Check, to a maximum of $3$ rounds. Then this ability cannot be activated again until you spend ⑥ to recharge it. |
+
+| Unrelenting |
+| --- |
+| At the end of each round, move forward a number of spaces equal to the number of times you've been Muddled. |
+
+| Merciless |
+| --- |
+| At the end of each round, gain a number of Blessings equal to the number of times you've been Muddled. |
+
+### GM Guide: Balanced Monstrosities
+<!-- _class: guide -->
+
+As another starting point, the following relationships between the parts of a Monstrosity's build tend to produce balanced, mechanically familiar builds:
+
+- Die caps ($C$) range from $2$ to $10$, with die caps maxing out around the 33% mark of a campaign.
+- The number of Blessings ($B$) a Monstrosity starts Endeavors with range from $0$ to $20$, with "everyday" Monstrosities starting to get Blessings around the 33% mark of a campaign, and maxing out toward the end of the campaign. For Monstrosities that have a "squad leader" feel earlier in the campaign, give them $1$ or $2$ Blessings.
+- Stamina ($S$) is typically $5 \times C$, but ranging from roughly $3 \times C$ to $8 \times C$. Stamina around the low end of this range gives a "squishier" feel to the Monstrosity, and Stamina around the high end gives a "tankier" feel. For Monstrosities with an "arc boss" feel, give them closer to $5 \times (B+C)$.
+- Almost all Monstrosities have only a single muddle button, placed on the number line at a point ranging form around $S/5$ to $S/2$. Muddle button positions around the low end of this range give an "unprotected" feel, and positions around the high end give an "armored" feel. Also, pairing a low muddle button position with the Revenge ability gives a "hair trigger" feel.
+- For Monstrosities with an "arc boss" feel, give them multiple evenly spaced muddle buttons, paired with Unrelenting or Merciless.
+
+### GM Guide: Spoils
+<!-- _class: guide -->
+
+Like any other important moment in the narrative, you may choose to award your players Blessings for progressing through a milestone or for creative or cooperative gameplay during the Monstrous Endeavor. 
+
+Additionally, at the end of a Monstrous Endeavor, you may permit your players to perform Checks to find items of interest along the "spoils" of their victory. For example, players may look for parts they can reuse when they defeat murderous robots, a clue revealing the location of the mad scientist's hideout when they calm and befriend one of her creations, or so on.
+
+These narratively reflective moments after a Monstrous Endeavor can be a great chance to rebalance the narrative tension while giving your players agency in thinking about where the story goes next.
+
+### GM Guide: Experience Points
+<!-- _class: guide -->
+
+You do not need to use experience points (XP) in your campaign, but if you do, we recommend the following:
+
+- A Monstrosity's XP ranges according to the following table.
+- Total the XP for all Monstrosities in the Endeavor to get the Endeavor's XP.
+- Track the Endeavor XP high score the party has achieved. This is instead of tracking the total of all XP ever gained, as is common in many combat-based RPGs.
+- When the party gains a new Endeavor XP high score, award them a total prize relative to the *increase* in that high score from its previous value. For example, when the party increases their high score from $3$ to $6$, you might award them $3$ Blessings divided among them.
+
+This approach allows you to represent larger spoils consistently for larger-feeling Endeavors, while not outpacing the game's linear progression system (the Session Shop).
+
+---
+<!-- _class: guide -->
+
+| XP | Description |
+| -- | ----------- |
+| $(B + C)/2$ | Monstrosity feels underpowered for the current tier of play |
+| $B + C$ | Monstrosity feels about right for a typical foe at this tier of play |
+| $2 \times (B + C)$ | Monstrosity feels a little more powered than its peers, such as having a higher Muddle button or more Abilities than the typical foe at that tier of play |
+| $3 \times (B + C)$ | A surprising strong foe for this tier of play, a trial to be overcome but not an arc boss |
+| $4 \times (B + C)$ | An arc boss |
+| $5 \times (B + C)$ | Endgame |
+
 ### 🏇 Race Endeavors
 
 Some campaigns or sessions may involve a prolonged scene where the player characters race against one another or their opponents, whether it be on foot, on horseback, in sleds, in cars, or even in spaceships!
@@ -1519,256 +1678,16 @@ These sorts of Endeavors are run like any other Endeavor, with the following add
 - **Failed Checks Increase Alertness:** Whenever a character fails a Check or loses a Contest while resolving a Focal Action or Side Action, the "alertness" of the Endeavor increases, represented by an additional alarm button being added to the number line.
 - **Negative Help:** Whenever a character receives Help, they may choose to subtract the bonus from their roll instead of adding it as usual.
 
-# GM Guide: Summons and Monstrosities
-<!-- _class: center major guide -->
+### GM Guide: Monstrous Stats
+<!-- _class: guide -->
 
-<!--
-
-### GM Guide: Endeavor Monstrosities
-<!-- _class: guide --
-
-See the [Endeavor Monstrosities](monstrosities.md) page for more details and samples for creating Monstrosities for Monstrous Endeavors.
-
-### What is a Monstrosity?
-<!-- _class: guide --
-
-A Monstrosity does not have a set of Stats or Abilities in the same way any other character would. While a Monstrosity is a "character" for the sake of wording in rules, Monstrosities feel somehow different, strange, more powerful, just "off," or so on compared to non-Monstrous things. And mechanically they reflect this.
-
-Even a non-Monstrous non-player character, once it becomes a Monstrosity for the sake of a Monstrous Endeavor, changes. This is to reflect that *thing* that makes Monstrosities narratively interesting in your setting.
-
-So when you create Monstrosities, take time to thing about what it means to be "Monstrous" in your setting, and then use Monstrous Endeavors as a way to play with that idea over a period of sustained tension.
-
-If your players are facing off against other non-Monstrous characters, then reflect that by using a non-Monstrous Endeavor.
-
-Reserve Monstrous Endeavors for encounters that are truly Monstrous.
-
-### Monstrous Stats
-
-Instead of a number of Stat Dice, a Monstrosity has a single die shared by all their Stats. And to allow a finer gradient of "weak" to "strong" Monstrosities, their Stat Dice is a capped die, from $dc2$ to $dc10$.
-
-### Stronger Monstrosities
+Instead of a number of Stat Dice, a Monstrosity typically has a single die shared by all their Stats. And to allow a finer gradient of "weak" to "strong" Monstrosities, their Stat Dice is a capped die, from $dc2$ to $dc10$.
 
 The die cap $dc10$ is the strongest die cap a Monstrosity can have, and the player characters will, in just a few sessions, catch up to this point.
 
-For higher level Endeavors, you may give your Monstrosities Abilities, choosing from the list below or creating your own.
+For higher level Endeavors, you may give your Monstrosities Abilities, choosing from the following or creating your own.
 
 Additionally, you may have your Monstrosities enter Endeavors with a number of Blessings.
-
-### Monstrous Abilities
-
-All Monstrosities have the Capture Ability.
-
-**Capture:** When you gain advantage movement, you may move backward on the number line any amount. If you do, choose an opponent. That opponent then performs a Check where the target is equal to the number of spaces you moved backward. If they fail, you non-lethally remove that opponent from the Endeavor and advance toward your objectives. Then regardless of the Check's result, the current round immediately ends. At the end of subsequent rounds, that opponent may attempt this Check again to re-enter the Endeavor.
-
-You may also give your Monstrosities any of the following Monstrous Abilities or create your own. These Abilities are listed in a rough order from "weakest" to "strongest."
-
-It is also recommended that you do not give your Monstrosities many Abilities&mdash;one or two well-placed Abilities are plenty to make a Monstrosity memorable! Consider adding multiple Monstrosities to a Monstrous Endeavor that have complementary skills to create sessions that feel engaging and strategic. And for Monstrosities that use "magic" or wield some other kind of powerful force, we recommend using the Spark Rush $X$ Ability, flavoring it for the occasion.
-
-**Resistance vs. $X$:** Whenever you would lose a Contest as the Defender against $X$, protect yourself for $+dc2$.
-
-**Revenge:** When you become Muddled, you may immediately perform a Contest as an Attacker against the character that Muddled you, as though this Contest were a Side Action, even if you or the Defender have already acted this round.
-
-**Shield vs. $X$:** When you succeed a Home Check during an Endeavor, you may have you and your allies receive Resistance vs. $X$ for a number of rounds equal to the number of spaces you moved forward as a result of the Check, to a maximum of $3$ rounds. Then this ability cannot be activated again until you spend ② to recharge it.
-
-**Flatten:** When you succeed a Hand Contest against an opponent during an Endeavor, you may have that opponent move backwards a number of spaces equal to the number of spaces you moved forward as a result of the Contest. Then this ability cannot be activated again until you spend ③ to recharge it.
-
-**Debilitate $X$:** Perform a $X$ Contest against an opponent. The amount you move forward as a result of this Contest, that opponent's $X$ rolls are made with a $-1$ modifier for that many rounds. Then this ability cannot be activated again until you spend ② to recharge it.
-
-**Propel:** When determining the Focal Action, you may exchange the result of your own roll with that of an ally who rolled lower than you. Then this ability cannot be activated again until you spend ② to recharge it.
-
-**Clarity:** When you succeed a Home Check during an Endeavor, you may have the muddle buttons of your allies move forward a number of spaces equal to the number of spaces you moved forward as a result of the Check. Then this ability cannot be activated again until you spend ③ to recharge it.
-
-**Immunity vs. $X$:** Whenever you would lose a Contest as the Defender against $X$, you instead succeed by $1$.
-
-**Inspire:** When you succeed a Hurry Check during an Endeavor, you may choose an ally and have the roll they make to determine the Focal Action next round increase by $+3$ or by a number equal to the amount you moved forward as a result of the Check, whichever is lower. Then this ability cannot be activated again until you spend ④ to recharge it.
-
-**Curse:** Perform a Head Contest against an opponent. The amount you move forward as a result of this Contest, the opponent is Cursed by you for that many rounds. (When you see that opponent perform a roll, you may choose to have them reroll it and take the new value, then the Curse ends. Otherwise, the Curse ends when that many rounds have passed.)  Then this ability cannot be activated again until you spend ③ to recharge it.
-
-**Mirror vs. $X$:** When you succeed a Home Check during an Endeavor, you may have you and your allies receive Immunity vs. $X$ for a number of rounds equal to the number of spaces you moved forward as a result of the Check, to a maximum of $3$ rounds. Then this ability cannot be activated again until you spend ⑥ to recharge it.
-
-**Spark Rush $X$:** Perform a Check. The amount you move forward as a result of this Check, for that many rounds, to a maximum of $3$ rounds, you may Spark using $2dcX$. Then this ability cannot be activated again until you spend Ⓧ to recharge it.
-
-**Empower:** When you succeed a Home Check during an Endeavor, you may have you and your allies increase their die caps by $1$ for a number of rounds equal to the number of spaces you moved forward as a result of the Check, to a maximum of $3$ rounds. Then this ability cannot be activated again until you spend ③ to recharge it. A character can only benefit from one instance of this Ability at a time.
-
-**Fervor:** When you succeed a Heart Check during an Endeavor, you may have you and your allies receive Revenge for a number of rounds equal to the number of spaces you moved forward as a result of the Check, to a maximum of $3$ rounds. Then this ability cannot be activated again until you spend ⑥ to recharge it.
-
-**Unrelenting:** At the end of each round, move forward a number of spaces equal to the number of times you've been Muddled.
-
-**Merciless:** At the end of each round, gain a number of Blessings equal to the number of times you've been Muddled.
-
-### Spoils
-
-Characters do not level up or gain experience points for defeating Monstrosities. Instead, like any other important moment in the narrative, you may choose to award your players Blessings for progressing through a milestone or for creative or cooperative gameplay during the Monstrous Endeavor. 
-
-Additionally, at the end of a Monstrous Endeavor, you may permit your players to perform Checks to find items of interest along the "spoils" of their victory. For example, players may look for parts they can reuse when they defeat murderous robots, a clue revealing the location of the mad scientist's hideout when they calm and befriend one of her creations, or so on.
-
-These narratively reflective moments after a Monstrous Endeavor can be a great chance to rebalance the narrative tension while giving your players agency in thinking about where the story goes next.
-
-### Example Monstrosities
-
-The following table shows a variety of example Monstrosity builds. For each, it shows their die cap, how many Blessings they enter Endeavors with, their Stamina, at what position(s) the Monstrosity's muddle buttons are placed, their Abilities (if any), and a brief comment about that build. The purpose of this table is not to provide a compendium of Monstrosities to choose from, but to provide enough examples to give you a sense of mechanically balanced Monstrosities so that you can create memorable, fun Monstrous Encounters of your own.
-
-<style>
-#monstrosities-table th {
-border-bottom: 3px solid rgba(128, 128, 128, 0.5);
-}
-
-#monstrosities-table td {
-min-width: 8ch;
-border: 1px solid rgba(128, 128, 128, 0.5);
-}
-</style>
-<table id="monstrosities-table">
-<tr>
-<th scope="col"><span>$dcX$</span></th>
-<th scope="col">Blessings</th>
-<th scope="col">Stamina</th>
-<th scope="col">Button(s) at</th>
-<th scope="col">Abilities</th>
-<th scope="col">Comment</th>
-</tr>
-<tr>
-<td><span>$2$</span></td>
-<td><span>$0$</span></td>
-<td><span>$15$</span></td>
-<td><span>$3$</span></td>
-<td></td>
-<td>A classic giant rat</td>
-</tr>
-<tr>
-<td><span>$3$</span></td>
-<td><span>$0$</span></td>
-<td><span>$16$</span></td>
-<td><span>$1$</span></td>
-<td>Resistance vs. Ranged Physical Attacks</td>
-<td>A low-level scout, with a high dexterity, perception, and skills with stalking and a basic ranged weapon</td>
-</tr>
-<tr>
-<td><span>$4$</span></td>
-<td><span>$0$</span></td>
-<td><span>$22$</span></td>
-<td><span>$3$</span></td>
-<td></td>
-<td>A bigger giant rat</td>
-</tr>
-<tr>
-<td><span>$5$</span></td>
-<td><span>$0$</span></td>
-<td><span>$32$</span></td>
-<td><span>$13$</span></td>
-<td>Resistance vs. Spark Checks, Shield vs. Spark Checks, Flatten</td>
-<td>A tanky build proficient in slowing down player progress</td>
-</tr>
-<tr>
-<td><span>$5$</span></td>
-<td><span>$0$</span></td>
-<td><span>$25$</span></td>
-<td><span>$5$</span></td>
-<td>Revenge</td>
-<td>A weaker build designed for moving the Monstrous side toward their objective</td>
-</tr>
-<tr>
-<td><span>$5$</span></td>
-<td><span>$0$</span></td>
-<td><span>$27$</span></td>
-<td><span>$10$</span></td>
-<td>Inspire, Propel</td>
-<td>A weaker build designed to ensure an ally gets the focus</td>
-</tr>
-<tr>
-<td><span>$8$</span></td>
-<td><span>$0$</span></td>
-<td><span>$34$</span></td>
-<td><span>$9$</span></td>
-<td></td>
-<td>An even bigger giant rat</td>
-</tr>
-<tr>
-<td><span>$8$</span></td>
-<td><span>$0$</span></td>
-<td><span>$34$</span></td>
-<td><span>$9$</span></td>
-<td>Resistance vs. Good and Evil</td>
-<td>A large bat, fueled by a necromancer's magic</td>
-</tr>
-<tr>
-<td><span>$8$</span></td>
-<td><span>$0$</span></td>
-<td><span>$21$</span></td>
-<td><span>$8$</span></td>
-<td>Resistance vs. Violence, Mirror vs. Violence, Spark Rush $4$</td>
-<td>A usually peaceful spirit the party has provoked the anger of</td>
-</tr>
-<tr>
-<td><span>$10$</span></td>
-<td><span>$0$</span></td>
-<td><span>$35$</span></td>
-<td><span>$1$</span></td>
-<td>Revenge, Resistance vs. Melee Physical Attacks, Spark Rush $6$</td>
-<td>A usually belligerent spirit the party has provoked the anger of</td>
-</tr>
-<tr>
-<td><span>$10$</span></td>
-<td><span>$2$</span></td>
-<td><span>$36$</span></td>
-<td><span>$6$</span></td>
-<td>Immune vs. Melee and Ranged Physical Attacks, Flatten</td>
-<td>A mid level tanky build proficient in wars of attrition when outnumbering their opponents</td>
-</tr>
-<tr>
-<td><span>$10$</span></td>
-<td><span>$2$</span></td>
-<td><span>$42$</span></td>
-<td><span>$20$</span></td>
-<td>Resistance vs. Spark Checks, Mirror vs. Spark Checks, Spark Rush $5$</td>
-<td>A mid level build designed to move the Monstrosities towards their objectives fast while preventing their opponents from doing the same</td>
-</tr>
-<tr>
-<td><span>$10$</span></td>
-<td><span>$5$</span></td>
-<td><span>$50$</span></td>
-<td><span>$21$</span></td>
-<td></td>
-<td>Our biggest example giant rat</td>
-</tr>
-<tr>
-<td><span>$10$</span></td>
-<td><span>$20$</span></td>
-<td><span>$80$</span></td>
-<td><span>$33$</span></td>
-<td>Resistance vs. Good and Evil, Shield vs. Good and Evil, Spark Rush $2$</td>
-<td>A end-game level tanky and supportive build</td>
-</tr>
-</table>
-
-### Monstrosity Equations
-
-As another starting point, the following relationships between the parts of a Monstrosity's build tend to produce balanced, mechanically familiar builds:
-
-- Die caps range from $2$ to $10$, with die caps maxing out around the 33% mark of a campaign.
-- The number of Blessings a Monstrosity starts Endeavors with range from $0$ to $20$, with "everyday" Monstrosities starting to get Blessings around the 33% mark of a campaign, and maxing out toward the end of the campaign. For Monstrosities that have a "squad leader" feel earlier in the campaign, give them $1$ or $2$ Blessings.
-- Stamina is typically $5$ times the Monstrosity's die cap, but ranging from roughly $3$ to $8$ times. Stamina around the low end of this range gives a "squishier" feel to the Monstrosity, and Stamina around the high end gives a "tankier" feel. For Monstrosities with an "arc boss" feel, give them closer to $5$ times the *sum* of their die caps and number of Blessings.
-- Almost all Monstrosities have only a single muddle button, placed on the number line at a point ranging form around one fifth to one half of their Stamina. Muddle button positions around the low end of this range give an "unprotected" feel, and positions around the high end give an "armored" feel. Also, pairing a low muddle button position with the Revenge ability gives a "hair trigger" feel.
-- For Monstrosities with an "arc boss" feel, give them multiple evenly spaced muddle buttons, paired with Unrelenting or Merciless.
-
-### Optional: Experience Points
-
-If you *do* want to use an experience points (XP) system for your campaign, we recommend the following:
-
-- A Monstrosity's XP ranges from one half to five times the sum of their die cap and number of Blessings.
-- One half: Monstrosity feels underpowered for the current tier of play
-- One times: Monstrosity feels about right for a typical foe at this tier of play
-- Two times: Monstrosity feels a little more powered than its peers, such as having a higher Muddle button or more Abilities than the typical foe at that tier of play
-- Three times: A surprising strong foe for this tier of play, a trial to be overcome but not an arc boss
-- Four times: An arc boss
-- Five times: Endgame
-- Total the XP for all Monstrosities in the Endeavor to get the Endeavor's XP
-- Track the Endeavor XP high score the party has achieved. This is instead of tracking the total of all XP ever gained, as is common in many combat-based RPGs
-- When the party gains a new Endeavor XP high score, award them a total prize relative to the *increase* in that high score from its previous value. For example, when the party increases their high score from $3$ to $6$, you might award them $3$ Blessings divided among them
-
-This approach allows you to represent larger spoils consistently for larger-feeling Endeavors, while not outpacing the game's linear progression system (the Session Shop).
-
--->
 
 # Quick Reference
 <!-- _class: center major quick -->
