@@ -1517,6 +1517,17 @@ These sorts of Endeavors are run like any other Endeavor, with the following add
 - **Muddle Buttons:** When each Monstrosity joins the Endeavor, it adds one or more "muddle buttons" to the number line. When the movement of a player character or one of their allies moves over one of these points on the number line, that Monstrosity is Muddled for the next round, representing a momentary crack in the Monstrosity's defenses&mdash;literally or figuratively. Then, the button is removed. If a player character or one of their allies would activate multiple muddle buttons in one round, that character instead chooses just one to activate. Be warned though, as some Monstrosities have Abilities that grow in power the more times they've been muddled this way!
 - **Stamina:** Each Monstrosity has an amount of "stamina." At the end of each round, if the player characters and their allies have a combined value on the number line equal to or greater than a Monstrosity's stamina, those characters may move backwards on the number line a total amount equal to the Monstrosity's stamina. If they do, they non-lethally remove that Monstrosity from the Endeavor and narrate what happens.
 
+### GM Guide: Monstrous Stats
+<!-- _class: guide -->
+
+Instead of a number of Stat Dice, a Monstrosity typically has a single die shared by all their Stats. And to allow a finer gradient of "weak" to "strong" Monstrosities, their Stat Dice is a capped die, from $dc2$ to $dc10$.
+
+The die cap $dc10$ is the strongest die cap a Monstrosity can have, and the player characters will, in just a few sessions, catch up to this point.
+
+For higher level Endeavors, you may give your Monstrosities Abilities, choosing from the following or creating your own.
+
+Additionally, you may have your Monstrosities enter Endeavors with a number of Blessings.
+
 ### GM Guide: Monstrous Abilities
 <!-- _class: guide -->
 
@@ -1677,17 +1688,6 @@ These sorts of Endeavors are run like any other Endeavor, with the following add
 
 - **Failed Checks Increase Alertness:** Whenever a character fails a Check or loses a Contest while resolving a Focal Action or Side Action, the "alertness" of the Endeavor increases, represented by an additional alarm button being added to the number line.
 - **Negative Help:** Whenever a character receives Help, they may choose to subtract the bonus from their roll instead of adding it as usual.
-
-### GM Guide: Monstrous Stats
-<!-- _class: guide -->
-
-Instead of a number of Stat Dice, a Monstrosity typically has a single die shared by all their Stats. And to allow a finer gradient of "weak" to "strong" Monstrosities, their Stat Dice is a capped die, from $dc2$ to $dc10$.
-
-The die cap $dc10$ is the strongest die cap a Monstrosity can have, and the player characters will, in just a few sessions, catch up to this point.
-
-For higher level Endeavors, you may give your Monstrosities Abilities, choosing from the following or creating your own.
-
-Additionally, you may have your Monstrosities enter Endeavors with a number of Blessings.
 
 # Quick Reference
 <!-- _class: center major quick -->
