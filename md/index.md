@@ -51,18 +51,16 @@ headingDivider: 3
         }
 
         // autoscale or not
-        if (localStorage.getItem("zoom") === null){
-            if (('ontouchstart' in window) || (navigator.maxTouchPoints > 0) || (navigator.msMaxTouchPoints > 0)){
-                toggleAutoscale();
-                localStorage.setItem("zoom", "auto");
-                document.getElementById("autoscaler").checked = true;
-            } else {
-                localStorage.setItem("zoom", "manual");
-            }
-        } else if (localStorage.getItem("zoom") === "auto"){
+        if (('ontouchstart' in window) || (navigator.maxTouchPoints > 0) || (navigator.msMaxTouchPoints > 0)){ // always on mobile
+            toggleAutoscale();
+            localStorage.setItem("zoom", "auto");
+            document.getElementById("autoscaler").style.display = "none";
+        } else if (localStorage.getItem("zoom") === "auto"){ // else only if user requested it
             toggleAutoscale();
             localStorage.setItem("zoom", "auto");
             document.getElementById("autoscaler").checked = true;
+        } else { // else just leave default: manual
+            localStorage.setItem("zoom", "manual");
         }
 
         // table of contents
