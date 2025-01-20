@@ -117,11 +117,14 @@ window.addEventListener("load", function(){
             page_no.setAttribute("href", "#" + section.getAttribute("id"));
             ++i;
             prev_page = page;
-            if (i === 18){
+            if (i === 17){
                 abix = document.getElementById("abix2");
                 // prev_page = -1;
-            } else if (i === 38){
+            } else if (i === 36){
                 abix = document.getElementById("abix3");
+                // prev_page = -1;
+            } else if (i === 55){
+                abix = document.getElementById("abix4");
                 // prev_page = -1;
             }
         }

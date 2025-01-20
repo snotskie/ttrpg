@@ -69,9 +69,14 @@ Cover typography: Bebas Neue, by Ryoichi Tsunekawa
 <!-- _class: index -->
 <div id="abix3"></div>
 
+---
+<!-- _paginate: skip -->
+<!-- _class: index -->
+<div id="abix4"></div>
+
 ## About
 
-*Humanity, Blessed* is a rules-light TTRPG system inspired by our favorite games, designed to tell stories, about what it means to be human, doing goofy, cool, fantastic little human things.
+*Humanity, Blessed* is a rules-light TTRPG system inspired by our favorite games, books, and TV. *Humanity, Blessed* is designed to tell stories about what it means to be human, doing goofy, cool, fantastic little human things.
 
 # Making Your First Character
 <!-- _class: center major -->
@@ -167,7 +172,7 @@ Finally, if you create a new Stat, the Lifestyle options as written will not ben
 
 All characters have one of **thirteen Lifestyles** and one of **three Value Systems**. Descriptions for each of these can be found on the following pages.
 
-Note, some Lifestyles are upgrade options you will not have access to when the game begins. As you preview these upgraded Lifestyles, you may want to consult the Playing the Game chapter to learn more about the rules they interact with. This is because all upgraded Lifestyles **overcharge** one or two of your Stats. Whenever you would fail a Check or lose a Contest while performing a Spark roll using an overcharged Stat, receive $+dcX$ in aid, where $X$ is the same sized die used in the Spark roll.
+Note, some Lifestyles are **upgrade options** you will not have access to when the game begins. As you preview these upgraded Lifestyles, you may want to consult the Playing the Game chapter to learn more about the rules they interact with. This is because all upgraded Lifestyles **overcharge** one or two of your Stats. Whenever you would fail a Check or lose a Contest while performing a Spark roll using an overcharged Stat, receive $+X$ in aid, where $X$ is the same sized die used in the Spark roll.
 
 ### Character Creation: Step Two!
 <!-- _class: creation -->
@@ -291,15 +296,11 @@ A character's History Stat is used to perform actions more related to their **ba
 
 When both your History Stat and another Stat would be applicable in a situation, the GM may decide which applies more. Otherwise, you choose which to use.
 
-### Party History
+### Group History
 
-TODO
+As you play, **keep notes**! These can help you reflect on you and your group's shared "Group History," as well as your **character's relationship to the Group History**. Maybe not everyone in the party is enthused about the items the party stole last time!
 
-While the party of player characters does not share a "group History," you may still find it useful to keep a short list of shared details over the course of the campaign, such as reputation, effect of the market on the party's business, shifting political tensions, or so on.
-
-This list can aid you when asking players to reflect on their character's own relationship to that "group History," which can help shape their own History scope, advance the development of their character, and inspire you for ideas for following scenes or sessions.
-
-can inform the choices you make and your adjustments to your History Stat over time.
+Such reflection can help you **shape the course** of your History Stat's scope and your character's development over the duration of the story, **make important character choices** during your sessions, and **inspire you and your GM** for ideas for future scenes and sessions.
 
 ### Character Creation: Step Three!
 <!-- _class: creation -->
@@ -349,7 +350,7 @@ As your read more about the Abilities that follow, you may want to consult the P
 
 Some Abilities **require and extend** another Ability. Such Abilities cannot be gained until you've first gained the required Ability. And when you gain such an Ability, it does not count against your number of Ability Upgrades received. However, you can only extend any particular Ability once this way. If an Ability would extend an already extended Ability, it still does count against your total number of Abilities.
 
-And finally, some Abilities, once activated, cannot be activated again until they have been **recharged** by spending Ⓧ from your pool of Blessing Dice.
+And some Abilities, once activated, cannot be activated again until they have been **recharged** by spending Ⓧ from your pool of Blessing Dice.
 
 ### Character Creation: Step Four!
 <!-- _class: creation -->
@@ -368,7 +369,7 @@ With that in mind, **pick two** of the following Abilities with the **[Starter]*
 | --- |
 | Whenever you would fail a Check or lose a Contest while rolling your Hurry Stat, receive $+dc2$ in aid. |
 
-| Careful Resolve |
+| Careful Practice |
 | --- |
 | Whenever you would fail a Check while performing dangerous actions, receive $+dc2$ in aid. *This Ability requires and extends Survival Instinct.* |
 
@@ -462,17 +463,17 @@ With that in mind, **pick two** of the following Abilities with the **[Starter]*
 > *This pack of Abilities deals with how you respond to taking hits.*
 > *&mdash;snotskie*
 
-| Stalwart Stance [Starter] |
+| Fearless Resolve [Starter] |
 | --- |
-| Up to once per session, when you fail a Check or lose a Contest by $5$ or more, gain a Blessing. |
+| Up to once per session, when you lose a Contest as the Defender, you may reduce the outcome size by one rank and gain a Blessing. |
 
 | Blessèd Anger |
 | --- |
-| You may attack recklessly to defend your loved ones, using Home for a violent Contest instead of Hurt as usual. This attack is potentially lethal to your target if you win, and you may sustain injuries if you lose. Then this ability cannot be activated again until you spend ④ to recharge it. *This Ability requires and extends Stalwart Stance.* |
+| You may attack recklessly to defend your loved ones, using Home for a violent Contest as the Attacker instead of Hurt as usual. If you lose the Contest, you receive injuries as though you were attacked instead. Then this ability cannot be activated again until you spend ④ to recharge it. *This Ability requires and extends Fearless Resolve.* |
 
 | Blessèd Charity |
 | --- |
-| When you visit a place of religious or spiritual importance, you may spend any number of ① as a donation or act of service to the place. The more spent this way, the greater a possible later boon may be, determined by the GM. *This Ability requires and extends Stalwart Stance.* |
+| When you visit a place of religious, spiritual, or community importance, you may spend any number of ① as a donation or act of service to the place. The more spent this way, the greater a possible later boon may be, determined by the GM. *This Ability requires and extends Fearless Resolve.* |
 
 ### GM Guide: Blessèd Charity's Boon
 <!-- _class: guide -->
@@ -663,7 +664,7 @@ However, some ideas are:
 
 Each character tracks a list of items they typically carry with them, and other items they may have with them can be **determined in the moment**.
 
-Over the course of the story, characters may perform Checks to **find** new items, **create** new items, **purchase and sell** items, and even see if they **already have** items that could be narratively reasonable for them have.
+Over the course of the story, characters may perform Checks to **find** new items, **create** new items, **purchase and sell** items, and even see if they **already have** items that could be narratively reasonable for them have. And while most items are narrative, some **higher quality items** you acquire along the way may provide aid or effects similar to some Abilities.
 
 ### Character Creation: Step Five!
 <!-- _class: creation -->
@@ -731,6 +732,10 @@ You may also **spend ①①① to receive an additional** upgrade beyond the one
 | Free Adjustments |
 | --- |
 | Whenever you receive the Stat Upgrade, you may, as a free adjustment, downgrade one of your Stat Dice one size and upgrade a different Stat Die one size instead. Whenever you receive the Ability Upgrade, you may, as a free adjustment, lose one non-extended Ability and replace it with another. And whenever you upgrade or downgrade the size of your History Stat Die, you may receive the History Upgrade for free, limited to only one change or addition to the scope of your History Stat. |
+
+| Item Upgrade |
+| ------------ |
+| You may upgrade one of your mundane items to a higher quality, within reason, so that it provides a "receive $+1$ in aid" effect. If you do, you receive this upgrade immediately. |
 
 ### GM Guide: Catching Players Up
 <!-- _class: guide -->
