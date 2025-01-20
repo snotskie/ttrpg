@@ -1,5 +1,5 @@
 /* hide dm guide */
-.secret {
+body > svg.secret {
     display: none;
 }
 
