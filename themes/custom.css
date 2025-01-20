@@ -84,13 +84,24 @@ section.quick {
 /* cover page buttons */
 button, label {
     font-size: 16pt;
-    background: var(--color-foreground);
-    color: var(--color-background);
-    border: 0;
+    border-width: 2px;
+    border-style: solid;
     border-radius: 6px;
     padding: 1em;
     margin-bottom: .5em;
     display: inline-block;
+}
+
+button {
+    background: var(--color-foreground);
+    color: var(--color-background);
+    border-color: var(--color-foreground);
+}
+
+label {
+    background: var(--color-background);
+    color: var(--color-foreground);
+    border-color: var(--color-foreground);
 }
 
 @media print {

@@ -27,6 +27,14 @@ headingDivider: 3
         localStorage.setItem("view", (localStorage.getItem("view")==="GM")? "Player" : "GM");
     }
 
+    function toggleAutoscale(){
+        document.querySelectorAll('body > svg').forEach(
+            (e) => e.classList.toggle('autoscale')
+        );
+
+        localStorage.setItem("zoom", (localStorage.getItem("zoom")==="manual")? "auto" : "manual");
+    }
+
     window.addEventListener("load", function(){
         // match user preferred theme
         if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches){
@@ -40,6 +48,21 @@ headingDivider: 3
         } else {
             document.getElementById("guide-hider").checked = true;
             localStorage.setItem("view", "GM");
+        }
+
+        // autoscale or not
+        if (localStorage.getItem("zoom") === null){
+            if (('ontouchstart' in window) || (navigator.maxTouchPoints > 0) || (navigator.msMaxTouchPoints > 0)){
+                toggleAutoscale();
+                localStorage.setItem("zoom", "auto");
+                document.getElementById("autoscaler").checked = true;
+            } else {
+                localStorage.setItem("zoom", "manual");
+            }
+        } else if (localStorage.getItem("zoom") === "auto"){
+            toggleAutoscale();
+            localStorage.setItem("zoom", "auto");
+            document.getElementById("autoscaler").checked = true;
         }
 
         // table of contents
@@ -147,6 +170,8 @@ Cover typography: Bebas Neue, by Ryoichi Tsunekawa
 <button onclick="toggleModes()">Toggle Light/Dark Mode</button>
 
 <label for="guide-hider">Toggle GM Guide <input id="guide-hider" type="checkbox" onchange="toggleGuides()" /></label>
+
+<label for="autoscaler">Toggle Autoscale <input id="autoscaler" type="checkbox" onchange="toggleAutoscale()" /></label>
 
 ---
 <!-- _class: center -->
@@ -400,6 +425,16 @@ A character's History Stat is used to perform actions more related to their **ba
 
 When both your History Stat and another Stat would be applicable in a situation, the GM may decide which applies more. Otherwise, you choose which to use.
 
+### Party History
+
+TODO
+
+While the party of player characters does not share a "group History," you may still find it useful to keep a short list of shared details over the course of the campaign, such as reputation, effect of the market on the party's business, shifting political tensions, or so on.
+
+This list can aid you when asking players to reflect on their character's own relationship to that "group History," which can help shape their own History scope, advance the development of their character, and inspire you for ideas for following scenes or sessions.
+
+can inform the choices you make and your adjustments to your History Stat over time.
+
 ### Character Creation: Step Three!
 <!-- _class: creation -->
 
@@ -427,13 +462,6 @@ As you work with your players to develop their backstory, come up with a list of
 - Unfriendly Interactions with the Rebels (for someone raised in the empire)
 
 Consider what *unique* skills, proficiencies, traits, and backstory elements each character brings to the story. Also consider the *variety* of a character's narrative touchstones: if all or most of them would be covered already by another Stat, then the player would have no reason to use or upgrade their History Stat!
-
-### GM Guide: Party History
-<!-- _class: guide -->
-
-While the party of player characters does not share a "group History," you may still find it useful to keep a short list of shared details over the course of the campaign, such as reputation, effect of the market on the party's business, shifting political tensions, or so on.
-
-This list can aid you when asking players to reflect on their character's own relationship to that "group History," which can help shape their own History scope, advance the development of their character, and inspire you for ideas for following scenes or sessions.
 
 ### GM Guide: Non-Human Characters
 <!-- _class: guide -->
