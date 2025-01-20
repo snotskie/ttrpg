@@ -130,7 +130,7 @@ For example, you might create a Stat to represent the "magic" of the setting:
 <!-- _class: guide -->
 
 - **🎧 Headline:** Performing music on stage, in a garage with your band, moving in sync with the beat. *E.g. for a battle of the bands style setting.*
-- **🦠 Host:** Drawing on the power of your symbiote to push beyond your normal capabilities. Whenever you would fail a Check or lose a Contest while using this Stat, protect yourself for $+dc2$. There may be consequences. *E.g. for an alien paranormal suspense style setting.*
+- **🦠 Host:** Drawing on the power of your symbiote to push beyond your normal capabilities. Whenever you would fail a Check or lose a Contest while using this Stat, receive $+dc2$ in aid. There may be consequences. *E.g. for an alien paranormal suspense style setting.*
 
 Or you might create a Stat to represent how characters relate to a unique obstacle of the setting:
 
@@ -167,7 +167,7 @@ Finally, if you create a new Stat, the Lifestyle options as written will not ben
 
 All characters have one of **thirteen Lifestyles** and one of **three Value Systems**. Descriptions for each of these can be found on the following pages.
 
-Note, some Lifestyles are upgrade options you will not have access to when the game begins. As you preview these upgraded Lifestyles, you may want to consult the Playing the Game chapter to learn more about the rules they interact with. This is because all upgraded Lifestyles **overcharge** one or two of your Stats. Whenever you would fail a Check or lose a Contest while performing a Spark roll using an overcharged Stat, protect yourself for $+dcX$, where $X$ is the same sized die used in the Spark roll.
+Note, some Lifestyles are upgrade options you will not have access to when the game begins. As you preview these upgraded Lifestyles, you may want to consult the Playing the Game chapter to learn more about the rules they interact with. This is because all upgraded Lifestyles **overcharge** one or two of your Stats. Whenever you would fail a Check or lose a Contest while performing a Spark roll using an overcharged Stat, receive $+dcX$ in aid, where $X$ is the same sized die used in the Spark roll.
 
 ### Character Creation: Step Two!
 <!-- _class: creation -->
@@ -347,9 +347,7 @@ If your game's setting allows your players to create non-human characters, there
 
 As your read more about the Abilities that follow, you may want to consult the Playing the Game chapter to learn more about the rules they interact with.
 
-Also note, several Abilities describe a possible failed Check or lost Contest and say to **protect yourself for $+dcX$** in response. When you do, you gain a $+dcX$ bonus to the roll, as though you were Helped by the trait that protected you, possibly turning the failure into a success or loss into a win. You can only be protected this way once per roll. If multiple effects would protect you this way during the same roll, only one of them applies and you choose which one to use.
-
-Some Abilities also **require and extend** another Ability. Such Abilities cannot be gained until you've first gained the required Ability. And when you gain such an Ability, it does not count against your number of Ability Upgrades received. However, you can only extend any particular Ability once this way. If an Ability would extend an already extended Ability, it still does count against your total number of Abilities.
+Some Abilities **require and extend** another Ability. Such Abilities cannot be gained until you've first gained the required Ability. And when you gain such an Ability, it does not count against your number of Ability Upgrades received. However, you can only extend any particular Ability once this way. If an Ability would extend an already extended Ability, it still does count against your total number of Abilities.
 
 And finally, some Abilities, once activated, cannot be activated again until they have been **recharged** by spending Ⓧ from your pool of Blessing Dice.
 
@@ -368,11 +366,11 @@ With that in mind, **pick two** of the following Abilities with the **[Starter]*
 
 | Survival Instinct [Starter] |
 | --- |
-| Whenever you would fail a Check or lose a Contest while rolling your Hurry Stat, protect yourself for $+dc2$. |
+| Whenever you would fail a Check or lose a Contest while rolling your Hurry Stat, receive $+dc2$ in aid. |
 
 | Careful Resolve |
 | --- |
-| Whenever you would fail a Check while performing dangerous actions, protect yourself for $+dc2$. *This Ability requires and extends Survival Instinct.* |
+| Whenever you would fail a Check while performing dangerous actions, receive $+dc2$ in aid. *This Ability requires and extends Survival Instinct.* |
 
 | Blessèd Agility |
 | --- |
@@ -390,7 +388,7 @@ With that in mind, **pick two** of the following Abilities with the **[Starter]*
 
 | Armored Skin [Starter] |
 | --- |
-| Whenever you would lose a violent Contest as the Defender, protect yourself for $+dc2$. |
+| Whenever you would lose a violent Contest as the Defender, receive $+dc2$ in aid. |
 
 | Blessèd Thorns |
 | --- |
@@ -408,11 +406,11 @@ With that in mind, **pick two** of the following Abilities with the **[Starter]*
 
 | Quick Acclimation [Starter] |
 | --- |
-| Whenever you would fail a Check against natural effects such as weather and disease, protect yourself for $+dc2$. |
+| Whenever you would fail a Check against natural effects such as weather and disease, receive $+dc2$ in aid. |
 
 | Best Friend |
 | --- |
-| You gain access to a creature companion of your choice appropriate to the setting and within reason. Whenever you would fail a Check or lose a Contest while working with and alongside your companion, protect yourself. The amount you protect yourself by depends on the companion and the Stat used, ranging from $+0$ to $+dc4$. If this companion is lost, stolen, destroyed, or you lose its loyalty, replacing it may require time and effort. *This Ability requires and extends Quick Acclimation.* |
+| You gain access to a creature companion of your choice appropriate to the setting and within reason. Whenever you would fail a Check or lose a Contest while working with and alongside your companion, receive $+X$ in aid, where $X$ depends on the companion and the Stat used, ranging from $0$ to $dc4$. If this companion is lost, stolen, destroyed, or you lose its loyalty, replacing it may require time and effort. *This Ability requires and extends Quick Acclimation.* |
 
 | Blessèd Determination |
 | --- |
@@ -426,7 +424,7 @@ With that in mind, **pick two** of the following Abilities with the **[Starter]*
 
 | Intuitive Eye [Starter] |
 | --- |
-| Whenever you would fail a Check to inspect an object carefully, identify where the object has been, or intuit information about events that have occurred around it, protect yourself for $+dc2$. |
+| Whenever you would fail a Check to inspect an object carefully, identify where the object has been, or intuit information about events that have occurred around it, receive $+dc2$ in aid. |
 
 | Perfect Divination |
 | --- |
@@ -448,11 +446,11 @@ With that in mind, **pick two** of the following Abilities with the **[Starter]*
 
 | Licensed Driver [Starter] |
 | --- |
-| Whenever you would fail a Check or lose a Contest to transport supplies or other characters, protect yourself for $+dc2$. |
+| Whenever you would fail a Check or lose a Contest to transport supplies or other characters, receive $+dc2$ in aid. |
 
 | Transport Authority |
 | --- |
-| You gain access to a vehicle of your choice appropriate to the setting and within reason. Whenever you would fail a Check or lose a Contest while operating this vehicle, protect yourself. The amount you protect yourself by depends on the vehicle and the Stat used, ranging from $+0$ to $+dc4$. If this vehicle is lost, stolen, or destroyed, replacing it may require time and effort. *This Ability requires and extends Licensed Driver.* |
+| You gain access to a vehicle of your choice appropriate to the setting and within reason. Whenever you would fail a Check or lose a Contest while operating this vehicle, receive $+X$ in aid, where $X$ depends on the vehicle and the Stat used, ranging from $+0$ to $+dc4$. If this vehicle is lost, stolen, or destroyed, replacing it may require time and effort. *This Ability requires and extends Licensed Driver.* |
 
 | Blessèd Convoy |
 | --- |
@@ -535,7 +533,7 @@ However, some ideas are:
 
 | Efficiently Packed [Starter] |
 | --- |
-| Whenever you would fail a Check to see if you already have an item on you, protect yourself for $+dc2$. |
+| Whenever you would fail a Check to see if you already have an item on you, receive $+dc2$ in aid. |
 
 | Blessèd Luck |
 | --- |
@@ -557,7 +555,7 @@ However, some ideas are:
 
 | Tactful Speech [Starter] |
 | --- |
-| Whenever you would lose a Contest trying to persuade, influence, inspire, or deceive others, protect yourself for $+dc2$. |
+| Whenever you would lose a Contest trying to persuade, influence, inspire, or deceive others, receive $+dc2$ in aid. |
 
 | Blessèd Wits |
 | --- |
@@ -601,7 +599,7 @@ However, some ideas are:
 
 | Sharp Recall [Starter] |
 | --- |
-| Whenever you would fail a Check trying to recall information, protect yourself for $+dc2$. |
+| Whenever you would fail a Check trying to recall information, receive $+dc2$ in aid. |
 
 | Optimal Solution |
 | --- |
@@ -1071,32 +1069,13 @@ Note, it is more cost effective, for example, for two characters to each spend �
 
 This is because the Blessing Dice spent to Help yield diminishing returns: each additional Blessing Die spent this way, on average, provides a smaller bonus than the previous one.
 
-### GM Guide: Situational Help
-<!-- _class: guide -->
+### Receiving Situational Aid
 
-Events may occur where it would be reasonable for characters to receive situational "Help" from the environment, items, careful planning, or so on.
+While you and your allies can spend Blessings to Help one another, in certain situations your Abilities, items, environment, careful planning, or so on can provide you additional "Help" as well--and for free!
 
-One approach to representing such situations is to lower the target for the Check or Contest involved.
+These effects describe a possible failed Check or lost Contest and say to receive $+X$ in aid in response. When you do, you gain a $+X$ bonus to the roll, as though you were Helped by the situation, possibly turning the failure into a success or loss into a win.
 
-Another is to keep the target the same, but offer the player a $+dc2$ bonus to relevant Checks or Contests instead if a relevant roll would have failed, as though it were a "protect yourself" Ability.
-
----
-<!-- _class: guide -->
-
-For example, an invisibility cloak in a setting with the Hex Stat could be ruled as:
-
-> Whenever you would fail a Check or lose a Contest while wearing this cloak and attempting to move or perform an action unseen, protect yourself for $+dc2$. Moreover, you may roll for such actions using your Hex Stat instead of your Hand Stat as usual.
-
-More complex items like vehicles that narratively have "Stats" of their own could be treated in similar ways, providing better or worse "protect yourself" bonuses depending on the Stat in question. For example, a semi-truck with red flame decals could be ruled as:
-
-> Whenever you would fail a Check or lose a Contest while operating this vehicle, protect yourself. The amount you protect yourself by depends on the Stat used:
->
-> - Head: $+0$
-> - Hand: $+dc2$
-> - Heart: $+1$
-> - Home: $+dc2$
-> - Hurt: $+1$
-> - Hurry: $+dc2$
+You can only receive situational aid once per roll. If multiple effects would provide situational aid during the same roll, you choose which one to use.
 
 ### Coming Prepared
 
@@ -1134,9 +1113,8 @@ The target you will need to hit for this craft long action will depend on the in
 | Item quality | Typical outcome size | Description |
 | ------------ | -------------------- | ----------- |
 | Mundane | Very Minor or Minor | Narrative function only |
-| High-Quality Mundane | Medium | Provides a "protect yourself for $+1$" effect |
-| Powered | Major or Very Major | Provides a "protect yourself for $+dc2$" effect |
-| Mythic | Maximum | Provides narrative fame or infamy in addition to a "protect yourself for $+dc4$" effect |
+| High-Quality Mundane | Medium | Provides a "receive $+1$ in aid" effect |
+| Powered | Major or Very Major | Provides a "receive $+dc2$ in aid" effect |
 
 Also note, crafted items may come with flaws, even if you succeed overall. How flaws are introduced depends on how the GM chooses to resolve the craft long action:
 
@@ -1241,7 +1219,7 @@ Instead of determining a target for each Check in an Endeavor, for most Checks y
 
 This allows you to reserve setting targets for Checks where failure would be interesting or that would change the arc of the Endeavor.
 
-If you use this approach, characters would be unable to activate "protect yourself" Abilities for Checks. So, make it clear the start of the Endeavor if, for the sake of the Endeavor, such Abilities (a) always activate, even without explicit failure, or (b) never activate because of the dire pressure of the situation.
+If you use this approach, characters would be unable to activate "receive aid" Abilities for Checks. So, make it clear the start of the Endeavor if, for the sake of the Endeavor, such Abilities (a) always activate, even without explicit failure, or (b) never activate because of the dire pressure of the situation.
 
 ### GM Guide: Multiple Number Lines
 <!-- _class: guide -->
@@ -1323,7 +1301,7 @@ Some campaigns or sessions may involve the player characters summoning, rallying
 
 These sorts of Endeavors are run like any other Endeavor, with the following additions:
 
-- **Summons:** For the sake of these rule additions, a "summon" is a character or other entity you have summoned to your aid for the Endeavor, and a "summoner" is any character or group summoning others to their aid. A summon is a character for the sake of wording in the rules, and they act in the Endeavor on their own, performing Check and Contest rolls as usual. And generally, a summon is considered to exist before they have been summoned to your aid&mdash;"being summoned" just places them into the game's evolving story.
+- **Summons:** For the sake of these rule additions, a "summon" is a character or other entity you have summoned to your side for the Endeavor, and a "summoner" is any character or group summoning others to their side. A summon is a character for the sake of wording in the rules, and they act in the Endeavor on their own, performing Check and Contest rolls as usual. And generally, a summon is considered to exist before they have been summoned to your side&mdash;"being summoned" just places them into the game's evolving story.
 - **Summons Capture:** When a summon wins a Contest against an opposing summon in a Contest, they may attempt to capture that opposing summon. And when a summon gains advantage movement, they may attempt to capture any summon.
 
 ---
@@ -1440,7 +1418,7 @@ It is also recommended that you do not give your Monstrosities many Abilities&md
 
 | Resistance vs. $X$ |
 | --- |
-| Whenever you would lose a Contest as the Defender against $X$, protect yourself for $+dc2$. |
+| Whenever you would lose a Contest as the Defender against $X$, receive $+dc2$ in aid. |
 
 | Revenge |
 | --- |
