@@ -54,7 +54,7 @@ headingDivider: 3
         if (('ontouchstart' in window) || (navigator.maxTouchPoints > 0) || (navigator.msMaxTouchPoints > 0)){ // always on mobile
             toggleAutoscale();
             localStorage.setItem("zoom", "auto");
-            document.getElementById("autoscaler").style.display = "none";
+            document.getElementById("autoscaler").closest("label").style.display = "none";
         } else if (localStorage.getItem("zoom") === "auto"){ // else only if user requested it
             toggleAutoscale();
             localStorage.setItem("zoom", "auto");
