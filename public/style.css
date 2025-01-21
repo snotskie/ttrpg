@@ -21,3 +21,22 @@ body > svg.autoscale {
     max-height: 100%;
     margin: 0;
 }
+
+/* loading... */
+body > svg {
+    display: none;
+}
+
+body.loaded > svg {
+    display: block;
+}
+
+body:not(.loaded)::after {
+    content: "Loading...";
+    color: white;
+    position: absolute;
+    top: 1em;
+    text-align: center;
+    width: 100%;
+    font-family: monospace;
+}
