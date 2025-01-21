@@ -885,7 +885,7 @@ We recommend providing your players a table that describes your "magic" targets 
 
 ### Automatic History Check Success
 
-At GM discretion, you may automatically succeed History Checks if the scope of your History Stat is relevant enough to the Check and your History Stat Die is high enough, according to the table below. If you choose to automatically succeed this way, you succeed as though you had rolled exactly the Check's target, and this roll cannot be modified by other effects.
+At GM discretion, you may automatically succeed History Checks if the scope of your History Stat is relevant enough to the Check and your History Stat Die is high enough, according to the table below.
 
 | History Stat Die | Maximum Check target for automatic success |
 | ---------------- | ------------------------------------------ |
@@ -893,6 +893,10 @@ At GM discretion, you may automatically succeed History Checks if the scope of y
 | $d6$  | $10$ |
 | $d8$  | $14$ |
 | $d10$ | $18$ |
+
+If you choose to automatically succeed this way, you succeed as though you had rolled exactly the Check's target, this roll cannot be modified by other effects, and the resulting outcome size (described later in this section) is reduced by one rank.
+
+You may not choose to automatically succeed Checks this way while determining the Focal Action of Endeavors (described later in this chapter).
 
 ### Spark Checks
 
