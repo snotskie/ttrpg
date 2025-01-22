@@ -457,6 +457,10 @@ With that in mind, **pick two** of the following Abilities with the **[Starter]*
 | --- |
 | While transporting others, you may designate one or more other characters you are transporting. When they Help you during that transport, their costs to do so are reduced by ①. *This Ability requires and extends Licensed Driver.* |
 
+| Uncommon Vehicle |
+| --- |
+| Vehicles you operate have their own backstory and they extend the scope of your History Stat while you operate them. *This Ability requires and extends Licensed Driver.* |
+
 ---
 <!-- _class: ability -->
 
@@ -469,7 +473,7 @@ With that in mind, **pick two** of the following Abilities with the **[Starter]*
 
 | Blessèd Anger |
 | --- |
-| You may attack recklessly to defend your loved ones, using Home for a violent Contest as the Attacker instead of Hurt as usual. If you lose the Contest, you receive injuries as though you were attacked instead. Then this ability cannot be activated again until you spend ④ to recharge it. *This Ability requires and extends Fearless Resolve.* |
+| You may attack to defend your honor or loved ones, using Hand or Home for a violent Contest as the Attacker instead of Hurt as usual. If you lose the Contest, you receive injuries as though you were attacked instead. Then this ability cannot be activated again until you spend ④ to recharge it. *This Ability requires and extends Fearless Resolve.* |
 
 | Blessèd Charity |
 | --- |
@@ -608,7 +612,7 @@ However, some ideas are:
 
 | Shower Thoughts |
 | --- |
-| Up to once per session, when you are in a safe place, you may perform a Check using Head or Home. Then up to once before the end of the session, you may use the value of that roll instead of rolling for another Check or non-violent Contest. *This Ability requires and extends Sharp Recall.* |
+| Up to once per session, when you are in a safe place, you may perform a Check using Head or Heart. Then up to once before the end of the session, you may use the value of that roll instead of rolling for another Check or non-violent Contest. *This Ability requires and extends Sharp Recall.* |
 
 | Blessèd Pragmatism |
 | --- |
@@ -628,9 +632,13 @@ However, some ideas are:
 | --- |
 | Your rolls using a $d8$ or larger also bump when you roll a $2$ on the die. *This Ability requires and extends Advanced Training.* |
 
-| Honorable Combat |
+<!-- | Honorable Combat |
 | --- |
-| You may attack honorably, using Hand for a violent Contest instead of Hurt as usual. If you would win the Contest with a Maximum outcome, you win with a Very Major outcome instead, which cannot be increased by other effects. Moreover, you leave yourself open to dirty tricks; if the Defender attacks you with Hurt at the same time, they gain a $+dc2$ bonus to the roll, as though Helped by your attempt at honorable combat. *This Ability requires and extends Advanced Training.* |
+| You may attack honorably, using Hand for a violent Contest instead of Hurt as usual. If you would win the Contest with a Maximum outcome, you win with a Very Major outcome instead, which cannot be increased by other effects. Moreover, you leave yourself open to dirty tricks; if the Defender attacks you with Hurt at the same time, they gain a $+dc2$ bonus to the roll, as though Helped by your attempt at honorable combat. *This Ability requires and extends Advanced Training.* | -->
+
+| Uncommon Attack |
+| --- |
+| When the scope of your History Stat is relevant enough to the action and you are the Attacker in a Contest, you may have your Defender roll first. If you do, the result is determined as though you had performed an automatic History Check against a Check target equal to the Defender's roll. But if you would be unable to succeed an automatic History Check with a target that high, you lose the Contest as though you had rolled $0$. You cannot activate this Ability while determining the Focal Action of Endeavors. *This Ability requires and extends Advanced Training.* |
 
 | Ambidexterity |
 | --- |
@@ -653,6 +661,10 @@ However, some ideas are:
 | Synchronized Enmity |
 | --- |
 | During a Contest against another character, before either character rolls, you may spend two Blessing Dice of the same worth to act synchronously with your opponent. If you do, the two of you perform your rolls at the same time. When either of you would bump, you both bump. You both still maintain your own separate roll totals. This Ability may not be used when determining Focal Actions. *This Ability requires and extends Synchronized Spark.* |
+
+| Synchronized Uncommonality |
+| --- |
+| You may spend two Blessing Dice of the same worth to exchange History scope elements with another willing character in the scene. This effect lasts until the end of the scene or sooner if you choose. *This Ability requires and extends Synchronized Spark.* |
 
 ## Step Five: Items
 <!-- _class: center -->
@@ -889,10 +901,10 @@ At GM discretion, you may automatically succeed History Checks if the scope of y
 
 | History Stat Die | Maximum Check target for automatic success |
 | ---------------- | ------------------------------------------ |
-| $d4$  | $6$  |
-| $d6$  | $10$ |
-| $d8$  | $14$ |
-| $d10$ | $18$ |
+| $d4$  | $4$  |
+| $d6$  | $8$ |
+| $d8$  | $12$ |
+| $d10$ | $16$ |
 
 If you choose to automatically succeed this way, you succeed as though you had rolled exactly the Check's target, this roll cannot be modified by other effects, and the resulting outcome size (described later in this section) is reduced by one rank.
 
@@ -1594,7 +1606,7 @@ Outcome Size and Endeavor Movement:
 | Very Major | 19 | 9 | 8 |
 | Maximum | 20 or more | 10 or more | 13 |
 
-Helping Cost:
+Helping cost:
 
 | Blessing Dice Spent | Bonus Added |
 | ------------------- | ----------- |
@@ -1608,6 +1620,15 @@ Helping Cost:
 
 ---
 <!-- _class: quick -->
+
+Automatic History Check success:
+
+| History Stat Die | Maximum Check target for automatic success |
+| ---------------- | ------------------------------------------ |
+| $d4$  | $4$  |
+| $d6$  | $8$ |
+| $d8$  | $12$ |
+| $d10$ | $16$ |
 
 Group Checks by size:
 
