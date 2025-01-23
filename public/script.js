@@ -71,6 +71,7 @@ window.addEventListener("load", function(){
             const page_no = document.createElement("a");
             toc_line.appendChild(page_no);
             page_no.innerText = page;
+            page_no.setAttribute("aria-label", e.innerText);
             page_no.setAttribute("href", "#" + section.getAttribute("id"));
         }
     });
@@ -92,40 +93,24 @@ window.addEventListener("load", function(){
     // ability index
     var abix = document.getElementById("abix");
     var i = 0;
-    var prev_page = -1;
     document.querySelectorAll(".ability th").forEach(function(e){
         const section = e.closest("section");
         const page = section.getAttribute("data-marpit-pagination");
         if (page){
-            const abix_line = document.createElement("p");
+            const abix_line = document.createElement("span");
             abix.appendChild(abix_line);
-            if (page !== prev_page || e.innerText.endsWith("Upgrade")){
-                const entry = document.createElement("strong");
-                abix_line.appendChild(entry);
-                abix_line.classList.add("chapter");
-                entry.innerText = e.innerText;
-            } else {
-                const entry = document.createElement("em");
-                abix_line.appendChild(entry);
-                abix_line.classList.add("section");
-                entry.innerText = e.innerText;
-            }
-
+            const entry = document.createElement("span");
+            abix_line.appendChild(entry);
+            entry.innerText = e.innerText.replace(" [Starter]", "");
             const page_no = document.createElement("a");
             abix_line.appendChild(page_no);
+            abix_line.appendChild(document.createElement("br"));
             page_no.innerText = page;
+            page_no.setAttribute("aria-label", e.innerText.replace(" [Starter]", ""));
             page_no.setAttribute("href", "#" + section.getAttribute("id"));
             ++i;
-            prev_page = page;
-            if (i === 17){
+            if (i === 53){
                 abix = document.getElementById("abix2");
-                // prev_page = -1;
-            } else if (i === 36){
-                abix = document.getElementById("abix3");
-                // prev_page = -1;
-            } else if (i === 55){
-                abix = document.getElementById("abix4");
-                // prev_page = -1;
             }
         }
     });

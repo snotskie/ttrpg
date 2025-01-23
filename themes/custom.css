@@ -43,11 +43,18 @@ section:after {
 /* Styled page types */
 :root {
     --color-major: var(--color-foreground);
-    --color-creation: green;
+    /* --color-creation: green;
     --color-guide: grey;
     --color-ability: gold;
-    --color-rules: blue;
-    --color-quick: teal;
+    --color-quick: teal; */
+    --color-creation: #0072b2;
+    --color-guide: #4d4d4d;
+    --color-ability: #009e73;
+    --color-quick: #ffd700;
+    --color-creation-2: #a6cee3;
+    --color-guide-2: #a9a9a9;
+    --color-ability-2: #b2df8a;
+    --color-quick-2: #f0e442;
 }
 
 section.major h1 {
@@ -58,26 +65,45 @@ section.major h1 {
 
 section.creation {
     border-left: .5in solid var(--color-creation);
+    border-image-slice: 27;
+    border-image-source: repeating-linear-gradient(
+        90deg,
+        var(--color-creation)   0,
+        var(--color-creation-2) .5in
+    );
     padding-left: .5in;
 }
 
 section.guide {
     border-left: .5in solid var(--color-guide);
+    border-image-slice: 27;
+    border-image-source: repeating-linear-gradient(
+        90deg,
+        var(--color-guide)   0,
+        var(--color-guide-2) .5in
+    );
     padding-left: .5in;
 }
 
 section.ability {
     border-left: .5in solid var(--color-ability);
-    padding-left: .5in;
-}
-
-section.rules {
-    border-left: .5in solid var(--color-rules);
+    border-image-slice: 27;    
+    border-image-source: repeating-linear-gradient(
+        90deg,
+        var(--color-ability)   0,
+        var(--color-ability-2) .5in
+    );
     padding-left: .5in;
 }
 
 section.quick {
     border-left: .5in solid var(--color-quick);
+    border-image-slice: 27;    
+    border-image-source: repeating-linear-gradient(
+        90deg,
+        var(--color-quick)   0,
+        var(--color-quick-2) .5in
+    );
     padding-left: .5in;
 }
 
@@ -121,13 +147,16 @@ td:empty {
 }
 
 /* toc */
-section.index a {
-    position: absolute;
-    right: 1in;
+section.index a, section.toc a {
+    float: right;
 }
 
-section.index .chapter {
+section.toc .chapter {
     border-bottom: 3px solid var(--color-foreground);
+}
+
+section.index {
+    columns: 2;
 }
 
 /* title page */

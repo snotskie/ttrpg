@@ -51,28 +51,18 @@ Cover typography: Bebas Neue, by Ryoichi Tsunekawa
 
 ---
 <!-- _paginate: skip -->
-<!-- _class: index -->
+<!-- _class: toc -->
 <div id="toc"><h3>Contents</h3></div>
 
 ---
 <!-- _paginate: skip -->
 <!-- _class: index -->
-<div id="abix"><h3>Abilities &amp; Upgrades</h3></div>
+<div id="abix"><h3>Character Options</h3></div>
 
 ---
 <!-- _paginate: skip -->
 <!-- _class: index -->
 <div id="abix2"></div>
-
----
-<!-- _paginate: skip -->
-<!-- _class: index -->
-<div id="abix3"></div>
-
----
-<!-- _paginate: skip -->
-<!-- _class: index -->
-<div id="abix4"></div>
 
 ## About
 
@@ -200,6 +190,7 @@ Two of your Stats begin the game one die size larger, according to the table bel
 </table>
 
 ### Lifestyles
+<!-- _class: ability -->
 
 | 🍀 Carefree [Starter] | 
 | --- |
@@ -218,6 +209,7 @@ Two of your Stats begin the game one die size larger, according to the table bel
 | You can envision amazing designs and, it seems, to bring them to life. When you have sparks, they might take on an autonomous or lucky aspect. This Lifestyle overcharges your Hand and Home Stats, as though you were Helped by your own sudden creativity. |
 
 ---
+<!-- _class: ability -->
 
 | 🔥 Eager [Starter] | 
 | --- |
@@ -236,6 +228,7 @@ Two of your Stats begin the game one die size larger, according to the table bel
 | Your mind is quick and analytical, and you can see solutions to problems that are unimaginably complex. When you have sparks, they might take on a calculating or duplicative aspect. This Lifestyle overcharges your Head and Hurry Stats, as though you were Helped by your own mind palace. |
 
 ---
+<!-- _class: ability -->
 
 | 🧘‍♀️ Wisened [Starter] | 
 | --- |
@@ -254,12 +247,14 @@ Two of your Stats begin the game one die size larger, according to the table bel
 | You seem able to spin any loss into a win&mdash;or vice versa&mdash;, and you are a sly, tactical force to be reckoned with. When you have sparks, they might take on an illusory or vicious aspect. This Lifestyle overcharges your Heart and Hurt Stats, as though you were Helped by your own ambition. |
 
 ---
+<!-- _class: ability -->
 
 | 💎 Lost |
 | --- |
 | You feel a disconnect from your own past or former sense of self, perhaps because of an exile from your home, an erased memory, or a period of transition or deep self-reflection. When you have sparks, they might take on an erratic or liminal aspect. This Lifestyle overcharges your History Stat, as though you were Helped by your quest for self-discovery. |
 
 ### Value Systems
+<!-- _class: ability -->
 
 | ⚔️ Virtue and Vice | 
 | --- |
@@ -662,7 +657,7 @@ However, some ideas are:
 | --- |
 | During a Contest against another character, before either character rolls, you may spend two Blessing Dice of the same worth to act synchronously with your opponent. If you do, the two of you perform your rolls at the same time. When either of you would bump, you both bump. You both still maintain your own separate roll totals. This Ability may not be used when determining Focal Actions. *This Ability requires and extends Synchronized Spark.* |
 
-| Synchronized Uncommonality |
+| Synchronized History |
 | --- |
 | You may spend two Blessing Dice of the same worth to exchange History scope elements with another willing character in the scene. This effect lasts until the end of the scene or sooner if you choose. *This Ability requires and extends Synchronized Spark.* |
 
