@@ -43,10 +43,6 @@ section:after {
 /* Styled page types */
 :root {
     --color-major: var(--color-foreground);
-    /* --color-creation: green;
-    --color-guide: grey;
-    --color-ability: gold;
-    --color-quick: teal; */
     --color-creation: #0072b2;
     --color-guide: #4d4d4d;
     --color-ability: #009e73;

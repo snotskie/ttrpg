@@ -357,104 +357,83 @@ With that in mind, **pick two** of the following Abilities with the **[Starter]*
 ---
 <!-- _class: ability -->
 
-> *This pack of Abilities deals with being quick and alert.*
-> *&mdash;snotskie*
-
 | Survival Instinct [Starter] |
 | --- |
-| Whenever you would fail a Check or lose a Contest while rolling your Hurry Stat, receive $+dc2$ in aid. |
+| Your reflexes have kept you safe. Whenever you would fail a Check or lose a Contest while rolling your Hurry Stat, receive $+dc2$ in aid. |
 
-| Careful Practice |
+| Careful Instinct |
 | --- |
-| Whenever you would fail a Check while performing dangerous actions, receive $+dc2$ in aid. *This Ability requires and extends Survival Instinct.* |
+| And you've honed those reflexes to help you at tasks that would frighten others. Whenever you would fail a Check while performing dangerous actions related enough to the scope of your History Stat, receive $+dc2$ in aid. *This Ability requires and extends Survival Instinct.* |
 
-| Blessèd Agility |
+| Perceptive Instinct |
 | --- |
-| During an Endeavor involving three or more characters, when determining the Focal Action, you may reduce the result of your own roll to $0$. Then this ability cannot be activated again until you spend ② to recharge it. *This Ability requires and extends Survival Instinct.* |
-
-| Quick Scan |
-| --- |
-| Up to once per Discovery Endeavor, when a lay of the land is given, you may choose a type of glimmer button. More of that type will be added to the number line than usual. *This Ability requires and extends Survival Instinct.* |
+| And like those reflexes, you've always got an eye out for trouble or treasure. Up to once per Discovery Endeavor, when a lay of the land is given, you may choose a type of glimmer button. More of that type will be added to the number line than usual. *This Ability requires and extends Survival Instinct.* |
 
 ---
 <!-- _class: ability -->
 
-> *This pack of Abilities deals with having a thick skin.*
-> *&mdash;snotskie*
-
-| Armored Skin [Starter] |
+| Protective Armor [Starter] |
 | --- |
-| Whenever you would lose a violent Contest as the Defender, receive $+dc2$ in aid. |
+| You've had to learn how to protect yourself in a fight. Whenever you would lose a violent Contest as the Defender, receive $+dc2$ in aid. |
 
-| Blessèd Thorns |
+| Barbed Armor |
 | --- |
-| When you lose a violent Contest as the Defender at a close distance, you may have your Attackers receive a less severe version of the same injury you received from losing the Contest. Then this ability cannot be activated again until you spend ③ to recharge it. *This Ability requires and extends Armored Skin.* |
+| And when you get hit, you know how to hit back. When you lose a violent Contest as the Defender at a close distance, you may have your Attackers receive a less severe version of the same injury you received from losing the Contest. Then this ability cannot be activated again until you spend ③ to recharge it. *This Ability requires and extends Protective Armor.* |
 
-| Blessèd Sentry |
+| Sentry's Armor |
 | --- |
-| When another nearby character would be the Defender in a violent Contest, before they roll, you may become the Defender in that Contest instead. Then this ability cannot be activated again until you spend ③ to recharge it. *This Ability requires and extends Armored Skin.* |
+| And you know how to use that protection to keep your friends safe too. When another nearby character would be the Defender in a violent Contest, before they roll, you may become the Defender in that Contest instead. Then this ability cannot be activated again until you spend ③ to recharge it. *This Ability requires and extends Protective Armor.* |
 
 ---
 <!-- _class: ability -->
 
-> *This pack of Abilities deals with disease and nature.*
-> *&mdash;snotskie*
-
-| Quick Acclimation [Starter] |
+| Acclimated Nature [Starter] |
 | --- |
-| Whenever you would fail a Check against natural effects such as weather and disease, receive $+dc2$ in aid. |
+| Your travels have taught you how to calm your mind and body. Whenever you would fail a Check against natural effects such as weather and disease, receive $+dc2$ in aid. |
 
-| Best Friend |
+| Determined Nature |
 | --- |
-| You gain access to a creature companion of your choice appropriate to the setting and within reason. Whenever you would fail a Check or lose a Contest while working with and alongside your companion, receive $+X$ in aid, where $X$ depends on the companion and the Stat used, ranging from $0$ to $dc4$. If this companion is lost, stolen, destroyed, or you lose its loyalty, replacing it may require time and effort. *This Ability requires and extends Quick Acclimation.* |
+| And you can calm yourself to a sharp focus even in dire situations. Once per action, you may ignore the negative effects of one of your injuries or conditions. Then this ability cannot be activated again until you spend ③ to recharge it.  *This Ability requires and extends Acclimated Nature.* |
 
-| Blessèd Determination |
+| Friendly Nature |
 | --- |
-| Once per action, you may ignore the negative effects of one of your injuries or conditions. Then this ability cannot be activated again until you spend ③ to recharge it.  *This Ability requires and extends Quick Acclimation.* |
+| And you've collected friends along the way. You gain access to a creature companion of your choice appropriate to the setting and within reason. Whenever you would fail a Check or lose a Contest while working with your companion, receive $+X$ in aid, where $X$ depends on the companion and the Stat used, ranging from $-1$ to $dc4$. Moreover, this companion has its own backstory which extends the scope of your History Stat while you work with it. If this companion is lost, stolen, destroyed, or you lose its loyalty, replacing it may require time and effort. *This Ability requires and extends Acclimated Nature.* |
 
 ---
 <!-- _class: ability -->
-
-> *This pack of Abilities deals with objects and cunning.*
-> *&mdash;snotskie*
 
 | Intuitive Eye [Starter] |
 | --- |
-| Whenever you would fail a Check to inspect an object carefully, identify where the object has been, or intuit information about events that have occurred around it, receive $+dc2$ in aid. |
+| You have a keen sense with objects and surroundings that most others don't. Whenever you would fail a Check to inspect an object carefully, identify where the object has been, or intuit information about events that have occurred around it, receive $+dc2$ in aid. |
 
-| Perfect Divination |
+| Divining Eye |
 | --- |
-| Whenever you succeed a Check to decrypt an encoded or cryptic message, increase the size of the outcome to one rank higher than it would have been otherwise, such as from Minor to Medium. *This Ability requires and extends Intuitive Eye.* |
+| And because of your deductive or intuitive skills, secrets have a hard time hiding from you. Whenever you succeed a Check to decrypt an encoded or cryptic message, increase the size of the outcome by one rank. *This Ability requires and extends Intuitive Eye.* |
 
-| Imbued Trait |
+| Ambitious Eye |
 | --- |
-| Up to once per session, you may destroy an object in your possession. For up to a few minutes or until the end of the scene, whichever comes first, you adopt the properties of the object, the properties of a concept associated with the object, or push the item to its breaking point. *This Ability requires and extends Intuitive Eye.* |
+| And you don't mind using items up to achieve your goals. Up to once per session, you may destroy an object in your possession. Until the end of the scene, you adopt the properties of the object, the properties of a concept associated with the object, or push the item to its breaking point. *This Ability requires and extends Intuitive Eye.* |
 
-| Calling Card |
+| Roguish Eye |
 | --- |
-| Up to once per Stealth Endeavor, when you would be made you may instead increase the alertness of the Endeavor. *This Ability requires and extends Intuitive Eye.* |
+| And this keeness has helped you narrowly escape trouble on multiple occasions. Up to once per Stealth Endeavor, when you would be made you may instead increase the alertness of the Endeavor. *This Ability requires and extends Intuitive Eye.* |
 
 ---
 <!-- _class: ability -->
 
-> *This pack of Abilities deals with operating vehicles.*
-> *&mdash;snotskie*
+TODO flavor
 
 | Licensed Driver [Starter] |
 | --- |
-| Whenever you would fail a Check or lose a Contest to transport supplies or other characters, receive $+dc2$ in aid. |
+| Whenever you would fail a Check or lose a Contest to use a vehicle to transport supplies or other characters, receive $+dc2$ in aid. |
 
-| Transport Authority |
-| --- |
-| You gain access to a vehicle of your choice appropriate to the setting and within reason. Whenever you would fail a Check or lose a Contest while operating this vehicle, receive $+X$ in aid, where $X$ depends on the vehicle and the Stat used, ranging from $+0$ to $+dc4$. If this vehicle is lost, stolen, or destroyed, replacing it may require time and effort. *This Ability requires and extends Licensed Driver.* |
-
-| Blessèd Convoy |
+| Getaway Driver |
 | --- |
 | While transporting others, you may designate one or more other characters you are transporting. When they Help you during that transport, their costs to do so are reduced by ①. *This Ability requires and extends Licensed Driver.* |
 
-| Uncommon Vehicle |
+| Professional Driver |
 | --- |
-| Vehicles you operate have their own backstory and they extend the scope of your History Stat while you operate them. *This Ability requires and extends Licensed Driver.* |
+| You gain access to a vehicle of your choice appropriate to the setting and within reason. Whenever you would fail a Check or lose a Contest while operating this vehicle, receive $+X$ in aid, where $X$ depends on the vehicle and the Stat used, ranging from $-1$ to $+dc4$. Moreover, this vehicle has its own backstory which extends the scope of your History Stat while you operate it. If this vehicle is lost, stolen, or destroyed, replacing it may require time and effort. *This Ability requires and extends Licensed Driver.* |
 
 ---
 <!-- _class: ability -->
