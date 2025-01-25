@@ -376,13 +376,13 @@ With that in mind, **pick two** of the following Abilities with the **[Starter]*
 | --- |
 | You've had to learn how to protect yourself in a fight. Whenever you would lose a violent Contest as the Defender, receive $+dc2$ in aid. |
 
-| Barbed Armor |
-| --- |
-| And when you get hit, you know how to hit back. When you lose a violent Contest as the Defender at a close distance, you may have your Attackers receive a less severe version of the same injury you received from losing the Contest. Then this ability cannot be activated again until you spend ③ to recharge it. *This Ability requires and extends Protective Armor.* |
-
 | Sentry's Armor |
 | --- |
 | And you know how to use that protection to keep your friends safe too. When another nearby character would be the Defender in a violent Contest, before they roll, you may become the Defender in that Contest instead. Then this ability cannot be activated again until you spend ③ to recharge it. *This Ability requires and extends Protective Armor.* |
+
+| Barbed Armor |
+| --- |
+| And when you get hit, you know how to hit back. When you lose a violent Contest as the Defender at a close distance, you may have your Attackers receive a less severe version of the same injury you received from losing the Contest. Then this ability cannot be activated again until you spend ③ to recharge it. *This Ability requires and extends Protective Armor.* |
 
 ---
 <!-- _class: ability -->
@@ -406,6 +406,10 @@ With that in mind, **pick two** of the following Abilities with the **[Starter]*
 | --- |
 | You have a keen sense with objects and surroundings that most others don't. Whenever you would fail a Check to inspect an object carefully, identify where the object has been, or intuit information about events that have occurred around it, receive $+dc2$ in aid. |
 
+| Roguish Eye |
+| --- |
+| And this keeness has helped you narrowly escape trouble on multiple occasions. Up to once per Stealth Endeavor, when you would be made you may instead increase the alertness of the Endeavor. *This Ability requires and extends Intuitive Eye.* |
+
 | Divining Eye |
 | --- |
 | And because of your deductive or intuitive skills, secrets have a hard time hiding from you. Whenever you succeed a Check to decrypt an encoded or cryptic message, increase the size of the outcome by one rank. *This Ability requires and extends Intuitive Eye.* |
@@ -414,49 +418,40 @@ With that in mind, **pick two** of the following Abilities with the **[Starter]*
 | --- |
 | And you don't mind using items up to achieve your goals. Up to once per session, you may destroy an object in your possession. Until the end of the scene, you adopt the properties of the object, the properties of a concept associated with the object, or push the item to its breaking point. *This Ability requires and extends Intuitive Eye.* |
 
-| Roguish Eye |
-| --- |
-| And this keeness has helped you narrowly escape trouble on multiple occasions. Up to once per Stealth Endeavor, when you would be made you may instead increase the alertness of the Endeavor. *This Ability requires and extends Intuitive Eye.* |
-
 ---
 <!-- _class: ability -->
-
-TODO flavor
 
 | Licensed Driver [Starter] |
 | --- |
-| Whenever you would fail a Check or lose a Contest to use a vehicle to transport supplies or other characters, receive $+dc2$ in aid. |
+| You've gotten lots of practice or training operating vehicles. Whenever you would fail a Check or lose a Contest to use a vehicle to transport supplies or other characters, receive $+dc2$ in aid. |
 
 | Getaway Driver |
 | --- |
-| While transporting others, you may designate one or more other characters you are transporting. When they Help you during that transport, their costs to do so are reduced by ①. *This Ability requires and extends Licensed Driver.* |
+| And it doesn't hurt to have your friends around when it's time to drive dangerously. While transporting others, you may designate characters you are transporting as your copilots. When they Help you during that transport, their costs to do so are reduced by ①. *This Ability requires and extends Licensed Driver.* |
 
 | Professional Driver |
 | --- |
-| You gain access to a vehicle of your choice appropriate to the setting and within reason. Whenever you would fail a Check or lose a Contest while operating this vehicle, receive $+X$ in aid, where $X$ depends on the vehicle and the Stat used, ranging from $-1$ to $+dc4$. Moreover, this vehicle has its own backstory which extends the scope of your History Stat while you operate it. If this vehicle is lost, stolen, or destroyed, replacing it may require time and effort. *This Ability requires and extends Licensed Driver.* |
+| And almost nothing is stronger than the bond you have with your own ride. You gain access to a vehicle of your choice appropriate to the setting and within reason. Whenever you would fail a Check or lose a Contest while operating this vehicle, receive $+X$ in aid, where $X$ depends on the vehicle and the Stat used, ranging from $-1$ to $+dc4$. Moreover, this vehicle has its own backstory which extends the scope of your History Stat while you operate it. If this vehicle is lost, stolen, or destroyed, replacing it may require time and effort. *This Ability requires and extends Licensed Driver.* |
 
 ---
 <!-- _class: ability -->
 
-> *This pack of Abilities deals with how you respond to taking hits.*
-> *&mdash;snotskie*
-
 | Fearless Resolve [Starter] |
 | --- |
-| Up to once per session, when you lose a Contest as the Defender, you may reduce the outcome size by one rank and gain a Blessing. |
+| You understand that not every loss is necessarily a bad thing. Up to once per session, when you lose a Contest as the Defender, you may reduce the outcome size by one rank and gain a Blessing. |
 
-| Blessèd Anger |
+| Charitable Resolve |
 | --- |
-| You may attack to defend your honor or loved ones, using Hand or Home for a violent Contest as the Attacker instead of Hurt as usual. If you lose the Contest, you receive injuries as though you were attacked instead. Then this ability cannot be activated again until you spend ④ to recharge it. *This Ability requires and extends Fearless Resolve.* |
+| And what matters most is forgiveness and paying our blessings forward. When you visit a place of religious, spiritual, or community importance, you may spend any number of ① as a donation or act of service to the place. The more spent this way, the greater a possible later boon may be, determined by the GM. *This Ability requires and extends Fearless Resolve.* |
 
-| Blessèd Charity |
+| Honorable Resolve |
 | --- |
-| When you visit a place of religious, spiritual, or community importance, you may spend any number of ① as a donation or act of service to the place. The more spent this way, the greater a possible later boon may be, determined by the GM. *This Ability requires and extends Fearless Resolve.* |
+| And it's okay to risk a loss when it means protecting what you care about. You may attack to defend your honor or loved ones, using Hand or Home for a violent Contest as the Attacker instead of Hurt as usual. If you lose the Contest, you receive injuries as though you were attacked instead. Then this ability cannot be activated again until you spend ④ to recharge it. *This Ability requires and extends Fearless Resolve.* |
 
-### GM Guide: Blessèd Charity's Boon
+### GM Guide: Charitable Resolve's Boon
 <!-- _class: guide -->
 
-How you rule the boon given by the "Blessèd Charity" ability may vary by session, setting, scene, or even be determined in the moment when the players need it most.
+How you rule the boon given by the "Charitable Resolve" ability may vary by session, setting, scene, or even be determined in the moment when the players need it most.
 
 However, some ideas are:
 
@@ -467,178 +462,134 @@ However, some ideas are:
 ---
 <!-- _class: ability -->
 
-> *This pack of Abilities deals with friendship.*
-> *&mdash;snotskie*
-
 | Concerted Effort [Starter] |
 | --- |
-| Whenever you spend ①① or more to Help another character, they gain a bonus as though you had spent an additional ①①. |
+| It comes naturally to you to read situations to know exactly what other people need. Whenever you spend ①① or more to Help another character, they gain a bonus as though you had spent an additional ①①. |
 
-| Blessèd Ambience |
+| Rousing Effort |
 | --- |
-| You may adjust the "vibe" or "background music" of a space or situation subtly, such as making it feel cozier, more intense, or eerily calm. Others are unable to pinpoint what changed in the space or situation, but the atmosphere shifts to suit your intent. Then this ability cannot be activated again until you spend ④ to recharge it. *This Ability requires and extends Concerted Effort.* |
+| And people often turn to you for guidance or leadership. Up to once per session, when your pool of Blessing Dice has a total combined worth of at least $10$, you may tell a moving story or give an inspiring speech. Each other character who hears the story or speech gains a Blessing Die. *This Ability requires and extends Concerted Effort.* |
 
-| Epic Storytelling |
+| Delegated Effort |
 | --- |
-| Up to once per session, when your pool of Blessing Dice has a total combined worth of at least $10$, you may tell a rousing story or give a rousing speech. Each other character who hears the story or speech gains a Blessing Die. *This Ability requires and extends Concerted Effort.* |
+| And your skills reading others helps you screen potential allies for teams that work well together. During a Clash Endeavor, your summons may perform Spark rolls by working together in pairs, using one Stat from each, so long as the chosen Stats are balanced and you pay the Blessing die cost. *This Ability requires and extends Concerted Effort.* |
 
-| Double Trouble |
+| Background Effort |
 | --- |
-| During a Clash Endeavor, your summons may perform Spark rolls by working together in pairs, using one Stat from each, so long as the chosen Stats are balanced and you pay the Blessing die cost. *This Ability requires and extends Concerted Effort.* |
+| And you don't mind fading into the background for a moment to give a situation just the nudge it needs. You may adjust the "vibe" or "music" of a situation subtly. Others are unable to pinpoint what changed, but the atmosphere shifts to suit your intent. Then this ability cannot be activated again until you spend ④ to recharge it. *This Ability requires and extends Concerted Effort.* |
 
 ---
 <!-- _class: ability -->
-
-> *This pack of Abilities deals with understanding yourself.*
-> *&mdash;snotskie*
 
 | Radical Self-Acceptance [Starter] |
 | --- |
-| While you are Uncool, you may roll Checks using a different Stat than normal. Then once a Check succeeds this way, you are no longer Uncool. |
+| You've never been bothered by having your own way of doing things. While you are Uncool, you may roll Checks using a different Stat than normal. Then once a Check succeeds this way, you are no longer Uncool. |
 
-| Ascendant Spark |
+| Ascendant Self-Acceptance |
 | --- |
-| You may perform a non-violent Spark roll using three Stats instead of two, so long as those Stats each use a $d8$ or larger and you pay double the Blessing Die cost as usual. *This Ability requires and extends Radical Self-Acceptance.* |
+| And this deep sense of trust in yourself has been a wellspring of power for you. You may perform a non-violent Spark roll using $3$ Stat Dice, so long as those Stats each use a $d8$ or larger and you pay double the Blessing Die cost as usual. *This Ability requires and extends Radical Self-Acceptance.* |
 
-| Epic Awkwardness |
+| Shameless Self-Acceptance |
 | --- |
-| Up to once per session, when your pool of Blessing Dice has a total combined worth of at least $10$, you may tell an cringy joke or perform an embarrassing dance. Each other character who hears the joke or witnesses the dance becomes Uncool. *This Ability requires and extends Radical Self-Acceptance.* |
+| And life's taught you that laughing in the face of obstacles is a great first step in getting through them. Up to once per session, when your pool of Blessing Dice has a total combined worth of at least $10$, you may tell an cringy joke or perform an embarrassing dance. Each other character who hears the joke or witnesses the dance becomes Uncool. *This Ability requires and extends Radical Self-Acceptance.* |
 
 ---
 <!-- _class: ability -->
 
-> *This pack of Abilities deals with coming prepared.*
-> *&mdash;snotskie*
-
-| Efficiently Packed [Starter] |
+| Efficient Bounty [Starter] |
 | --- |
-| Whenever you would fail a Check to see if you already have an item on you, receive $+dc2$ in aid. |
+| You're known in almost any situation for coming prepared or being conveniently light-fingered. Whenever you would fail a Check to see if you already have an item on you, receive $+dc2$ in aid. |
 
-| Blessèd Luck |
+| Fortune's Bounty |
 | --- |
-| When you fail a Check, you may attempt the Check again, using the newer result instead. Then this ability cannot be activated again until you spend ⑤ to recharge it. *This Ability requires and extends Efficiently Packed.* |
+| And you know that if you want to be successful, then you need to make your own luck. When you fail a Check, you may attempt the Check again, using the newer result instead. Then this ability cannot be activated again until you spend ⑤ to recharge it. *This Ability requires and extends Efficient Bounty.* |
 
-| Blessèd Distraction |
+| Trickster's Bounty |
 | --- |
-| When another character succeeds a Check or wins a Contest, you may distract them using an item in your possession, modifying that character's result by $-3$, possibly turning their success into a failure or win into a loss. Then this ability cannot be activated again until you spend ⑤ to recharge it. *This Ability requires and extends Efficiently Packed.* |
-
-| Epic Fortitude |
-| --- |
-| Up to once per session, when your pool of Blessing Dice has a total combined worth of at least $10$, you may declare boldly that you have exactly the right item or idea you need for the situation. When you succeed your next Check during the same scene, increase the size of the outcome to one rank higher than it would have been otherwise, such as from Minor to Medium. *This Ability requires and extends Efficiently Packed.* |
+| And what's the harm in being prepared for a little razzle-dazzle every now and then? When another character succeeds a Check or wins a Contest, you may distract them using an item in your possession, modifying that character's result by $-3$, possibly turning their success into a failure or win into a loss. Then this ability cannot be activated again until you spend ⑤ to recharge it. *This Ability requires and extends Efficient Bounty.* |
 
 ---
 <!-- _class: ability -->
-
-> *This pack of Abilities deals with manipulation.*
-> *&mdash;snotskie*
 
 | Tactful Speech [Starter] |
 | --- |
-| Whenever you would lose a Contest trying to persuade, influence, inspire, or deceive others, receive $+dc2$ in aid. |
+| You're well-versed in idle chatter, spinning conversation, or navigating social milieu. Whenever you would lose a Contest trying to persuade, influence, inspire, or deceive others, receive $+dc2$ in aid. |
 
-| Blessèd Wits |
+| Popular Speech |
 | --- |
-| When you lose a non-violent Contest against a single Attacker, you may have the Attacker receive a less severe version of the same effect you received from losing the Contest. Then this ability cannot be activated again until you spend ③ to recharge it. *This Ability requires and extends Tactful Speech.* |
+| And you know that, truth or fiction, word travels fast. Up to once per scene, you may end, begin, or modify one rumor. It will spread quickly, within reason, but others are not guaranteed to believe it. Then this ability cannot be activated again until you spend ⑤ to recharge it. *This Ability requires and extends Tactful Speech.* |
 
-| Blessèd Intrigue |
+| Rebutted Speech |
 | --- |
-| Up to once per scene, you may end, begin, or modify one rumor. Then this ability cannot be activated again until you spend ⑤ to recharge it. *This Ability requires and extends Tactful Speech.* |
-
-| Blessèd Circumstance |
-| --- |
-| When determining the Focal Action during an Endeavor or Simultaneous Action involving three or more characters, you may swap the results of two characters' rolls. Then this ability cannot be activated again until you spend ⑤ to recharge it. *This Ability requires and extends Tactful Speech.* |
+| And for you a conversational loss is never a *total* loss. When you lose a non-violent Contest as the Defender and the Attacker's action was related enough to the scope of your History Stat, you may have the Attacker receive a less severe version of the same effect you received from losing the Contest. Then this ability cannot be activated again until you spend ③ to recharge it. *This Ability requires and extends Tactful Speech.* |
 
 ---
 <!-- _class: ability -->
 
-> *This pack of Abilities deals with shady dealings.*
-> *&mdash;snotskie*
-
-| Line of Credit [Starter] |
+| Creditor's Deal [Starter] |
 | --- |
-| While you are attempting to purchase goods or services, each ① you spend to Help yourself is worth ①①. |
+| You always know where to make a deal, even if it's not the most sound decision. While you are attempting to purchase goods or services, each ① you spend to Help yourself is worth ①①. |
 
-| Blessèd Insurance |
+| Wheel Deal |
 | --- |
-| When a character fails a Check or loses a Contest to tend to your wounds, that character may turn the failure into a success or the loss into a win. Then this ability cannot be activated again until you spend ①①① to recharge it, and when it is recharged, increase the cost to recharge it by ①①. *This Ability requires and extends Line of Credit.* |
+| And you'd break a few rules if it means settling debts. Whenever you gain advantage movement in a Race Endeavor, you may create a terrain button anywhere along that movement. Then remove that terrain button once a character begins their movement on the same space as it. *This Ability requires and extends Creditor's Deal.* |
 
-| Blessèd Voices |
+| Lifesaving Deal |
 | --- |
-| You may call upon a higher power, a criminal underground, a book of forbidden knowledge, or so on to gain access to secret information or an answer to a question that you wouldn't normally be able to do. This information may come with consequences. Then this ability cannot be activated again until you spend ④ to recharge it. *This Ability requires and extends Line of Credit.* |
+| And what's better than a good deal that keeps you alive? A character may automatically succeed a Check to tend to your wounds, even after they've rolled. Then this ability cannot be activated again until you spend ①①① to recharge it, and when it is recharged, increase the cost to recharge it by ①①. *This Ability requires and extends Creditor's Deal.* |
 
-| Dirty Trick |
+| Shrouded Deal |
 | --- |
-| Whenever you gain advantage movement in a Race Endeavor, you may create a terrain button behind you at any position along that movement. Then remove that terrain button once a character begins their movement on the same space as it. *This Ability requires and extends Line of Credit.* |
+| And you know that nothing's more valuable than good info. You may call upon a higher power, criminal underground, book of forbidden knowledge, or so on to gain access to secret information or an answer to a question. This information may come with consequences. Then this ability cannot be activated again until you spend ④ to recharge it. *This Ability requires and extends Creditor's Deal.* |
 
 ---
 <!-- _class: ability -->
 
-> *This pack of Abilities deals with thought and reason.*
-> *&mdash;snotskie*
-
-| Sharp Recall [Starter] |
+| Organized Thoughts [Starter] |
 | --- |
-| Whenever you would fail a Check trying to recall information, receive $+dc2$ in aid. |
-
-| Optimal Solution |
-| --- |
-| Up to twice per session, you may provide Help by rolling four $d6$. Group those dice into two piles of two dice such that addition or multiplication could make the piles equal. For example, if you rolled $1$, $1$, $1$, and $2$, you could group the piles such that $1×2=1+1$. If you are able to arrange the dice in such a way, increase the result of the roll you are Helping by $+5$. *This Ability requires and extends Sharp Recall.* |
+| Your memory is like a steel trap&mdash;once you learn something, you almost never forget. Whenever you would fail a Check trying to recall information, receive $+dc2$ in aid. |
 
 | Shower Thoughts |
 | --- |
-| Up to once per session, when you are in a safe place, you may perform a Check using Head or Heart. Then up to once before the end of the session, you may use the value of that roll instead of rolling for another Check or non-violent Contest. *This Ability requires and extends Sharp Recall.* |
+| And you find that your best ideas often come while you're performing your regular duties or self-care. Up to once per session, when you are in a safe place, you may perform a Check using Head or Heart. Then up to once before the end of the session, you may use the value of that roll instead of rolling for another Check or non-violent Contest. *This Ability requires and extends Organized Thoughts.* |
 
-| Blessèd Pragmatism |
+| Optimal Thoughts |
 | --- |
-| While determining the Focal Action of an Endeavor, you may choose to roll any value you rolled the previous round. This does not include any modifications applied to that roll, you must be attempting the same action as before, and if the previous roll was a Spark roll you must pay the Blessing Die cost again. Then this ability cannot be activated again until you spend ④ to recharge it. *This Ability requires and extends Sharp Recall.* |
+| And you think it's never a bad idea to back up and analyze the situation before charging forward. Up to twice per session, you may provide Help by rolling four $d6$ and group those dice into two piles of two. If addition or multiplication could make the piles equal, increase the result of the roll you are Helping by $+5$. For example, $1$, $1$, $1$, and $2$, could be grouped this way as $1×2=1+1$. *This Ability requires and extends Organized Thoughts.* |
 
 ---
 <!-- _class: ability -->
 
-> *This pack of Abilities deals with training your mind and body.*
-> *&mdash;snotskie*
-
-| Advanced Training [Starter] |
+| Advanced Training |
 | --- |
-| Each time you bump your dice while using a $d8$ or larger, increase the result of the roll by an additional $+1$. |
+| You aren't just good at what you do&mdash;you've dedicated yourself to it. Each time you bump your dice while using a $d8$ or larger, increase the result of the roll by an additional $+1$. *This Ability requires a $d8$ or larger in at least one Stat.* |
 
-| Ease of Focus |
+| Concentration Training |
 | --- |
-| Your rolls using a $d8$ or larger also bump when you roll a $2$ on the die. *This Ability requires and extends Advanced Training.* |
+| And your dedication is clear in the level of focus you bring to your tasks. Your rolls using a $d8$ or larger also bump when you roll a $2$ on the die. *This Ability requires and extends Advanced Training.* |
 
-<!-- | Honorable Combat |
+| Ambidexterity Training |
 | --- |
-| You may attack honorably, using Hand for a violent Contest instead of Hurt as usual. If you would win the Contest with a Maximum outcome, you win with a Very Major outcome instead, which cannot be increased by other effects. Moreover, you leave yourself open to dirty tricks; if the Defender attacks you with Hurt at the same time, they gain a $+dc2$ bonus to the roll, as though Helped by your attempt at honorable combat. *This Ability requires and extends Advanced Training.* | -->
-
-| Uncommon Attack |
-| --- |
-| When the scope of your History Stat is relevant enough to the action and you are the Attacker in a Contest, you may have your Defender roll first. If you do, the result is determined as though you had performed an automatic History Check against a Check target equal to the Defender's roll. But if you would be unable to succeed an automatic History Check with a target that high, you lose the Contest as though you had rolled $0$. You cannot activate this Ability while determining the Focal Action of Endeavors. *This Ability requires and extends Advanced Training.* |
-
-| Ambidexterity |
-| --- |
-| In a Monstrous Endeavor you may activate two muddle buttons per round. *This Ability requires and extends Advanced Training.* |
+| And your studies have helped you slow down and understand your foes twice as fast. In a Monstrous Endeavor you may activate two muddle buttons per round. *This Ability requires and extends Advanced Training.* |
 
 ---
 <!-- _class: ability -->
 
-> *This pack of Abilities deals with the Spark mechanic.*
-> *&mdash;snotskie*
+| Ability Synchrony |
+| --- |
+| You may spend $2$ Blessing Dice of same worth to loan one of your Abilities to another willing character in the scene. This effect lasts until the end of the scene or sooner if you choose. |
 
-| Synchronized Spark |
+| History Synchrony |
+| --- |
+| You may spend $2$ Blessing Dice of the same worth to exchange History scope elements with another willing character in the scene. This effect lasts until the end of the scene or sooner if you choose. |
+
+| Spark Synchrony |
 | --- |
 | You may perform a Spark roll using one of your Stats and one of the Stats of another willing character in the scene, so long as the chosen Stats are balanced, both characters have this Ability, and the Blessing Die cost is paid between the two characters. Doing so is considered acting as a group. |
 
-| Synchronized Skill |
+| Enmity Synchrony |
 | --- |
-| You may spend two Blessing Dice of same worth to loan one of your Abilities to another willing character in the scene. This effect lasts until the end of the scene or sooner if you choose. *This Ability requires and extends Synchronized Spark.* |
-
-| Synchronized Enmity |
-| --- |
-| During a Contest against another character, before either character rolls, you may spend two Blessing Dice of the same worth to act synchronously with your opponent. If you do, the two of you perform your rolls at the same time. When either of you would bump, you both bump. You both still maintain your own separate roll totals. This Ability may not be used when determining Focal Actions. *This Ability requires and extends Synchronized Spark.* |
-
-| Synchronized History |
-| --- |
-| You may spend two Blessing Dice of the same worth to exchange History scope elements with another willing character in the scene. This effect lasts until the end of the scene or sooner if you choose. *This Ability requires and extends Synchronized Spark.* |
+| During a Contest between, before either character rolls, you may spend $2$ Blessing Dice of the same worth to act synchronously with your opponent. If you do, the two of you perform your rolls at the same time. When either of you would bump, you both bump. You both still maintain your own separate roll totals. This Ability may not be used when determining Focal Actions. |
 
 ## Step Five: Items
 <!-- _class: center -->
@@ -751,7 +702,7 @@ Also note, $2d6$ is different from $1d6+1d6$. Only when an effect explicitly gro
 
 ### Capped Dice
 
-Some rules in this game refer to "capped" dice&mdash;those related to Helping and Monstrosities. These dice are the standard dice of the game ($d4$ through $d10$), but "capped" at smaller values.
+Some rules in this game refer to "capped" dice&mdash;those related to Helping and Monstrosities. These dice are the standard dice of the game ($d4$ through $d10$), but "capped" at smaller values. Capped dice bump in the same manner as Stat Dice.
 
 For example, the notation $dc2$ represents a $d4$ that has been capped at the value $2$: If the die were to roll a value greater than $2$, it rolls a $2$ instead. Put another way, this represents a single die with four sides, $1$, $2$, $2$, and $2$. This is the smallest possible capped die, as well as the most commonly used.
 
@@ -884,15 +835,15 @@ If you choose to automatically succeed this way, you succeed as though you had r
 
 You may not choose to automatically succeed Checks this way while determining the Focal Action of Endeavors (described later in this chapter).
 
-### Spark Checks
+### Spark Rolls
 
 When two of a character's Stats use the same die, those Stats are "balanced."
 
-You may spend $2$ dice from your pool of Blessing Dice of the same worth to perform a Spark Check instead of a Basic Check, which combines the dice of two balanced Stats into a single group, such as $2d6$ formed from two balanced Stats using a $d6$ each. These Spark Checks represent a character's momentary "spark," that hint of magic or ability to achieve amazing feats, that penchant for pulling out surprising wins, and so on. These "sparks" are what allow characters to perform far beyond what is normally possible by the laws of nature, limited only by their imagination&mdash;and ability to control powerful and strange forces!
+When rolling a Stat Die, you may spend $2$ dice from your pool of Blessing Dice of the same worth to perform a Spark roll instead, which combines the dice of two balanced Stats into a single group, such as $2d6$ formed from two balanced Stats using a $d6$ each. These Spark rolls represent a character's momentary "spark," that hint of magic or ability to achieve amazing feats, that penchant for pulling out surprising wins, and so on. These "sparks" are what allow characters to perform far beyond what is normally possible by the laws of nature, limited only by their imagination&mdash;and ability to control powerful and strange forces!
 
-Any bonuses or effects that would apply to the balanced Stats used in the Spark Check also apply to the Spark Check itself.
+Any bonuses or effects that would apply to the balanced Stats used in the Spark roll also apply to the Spark roll itself.
 
-You can decide to turn a Basic Check into a Spark Check before or after you've made your first roll for the Check.
+You can decide to turn a roll into a Spark roll before or after you've made your first roll for the action.
 
 For example, when you roll your first $1$ on the die, you can decide to take extra advantage of this opportunity. If you do, pay the Blessing Die cost to Spark, roll your second die, then reroll both for the bump, and add it all together.
 
@@ -926,7 +877,7 @@ A non-violent Contest is when a character performs an action against another cha
 To perform a non-violent Contest:
 
 1. The Attacker rolls as though performing the appropriate Check.
-2. The Defender rolls as though performing a Check using the same Stat as the Attacker. If the Attacker uses a Spark Check, then the Defender may roll a Spark Check using either or both of the Stats used in the Attacker's Spark Check, so long as the Defender pays the Blessing Die cost.
+2. The Defender rolls as though performing a Check using the same Stat as the Attacker. If the Attacker uses a Spark roll, then the Defender may roll a Spark roll using either or both of the Stats used in the Attacker's Spark roll, so long as the Defender pays the Blessing Die cost.
 3. The action's effect is only successful if the Attacker rolls higher than the Defender. The size of the effect is determined by the difference between their scores.
 
 ---
@@ -935,8 +886,8 @@ A violent Contest is when an Attacker performs an action against another charact
 
 To perform a violent Contest:
 
-1. The Attacker first rolls as though performing a Hurt Check or Spark Check that involves Hurt.
-2. The Defender rolls as though performing a Hurry Check or Spark Check that involves Hurry, representing their immediate instinctive reaction in the scene.
+1. The Attacker first rolls as though performing a Hurt Check or Spark roll that involves Hurt.
+2. The Defender rolls as though performing a Hurry Check or Spark roll that involves Hurry, representing their immediate instinctive reaction in the scene.
 3. The action's effect is only successful if the Attacker rolls higher than the Defender. The extent of the injury is determined by the difference between their scores, regardless if that was what the Attacker intended.
 4. If the violence continues past this initial Contest, then the Attackers may choose to change tactics, such as performing a non-violent Contest to shift subsequent rounds in their favor.
 5. Additionally, Defenders may choose to respond to these continued attacks with a greater range of options than just Hurry, such as outwitting (Head), calling on honor (Hand), destroying a part of the environment (Hand), calling for a truce (Heart), or repositioning oneself (Head or Home).
@@ -1253,7 +1204,7 @@ Then use the results to improvise the narrative at that scale before returning t
 
 ### Surprise Threat
 
-When a character is surprised by a threat, their first roll in response to it cannot bump and cannot be a Spark Check.
+When a character is surprised by a threat, their first roll in response to it cannot bump and cannot be a Spark roll.
 
 ### Coolness
 
@@ -1293,7 +1244,7 @@ However, some injuries you receive may affect specific Stats, and these effects 
 - **Cursed:** Dice in your pool of Blessing Dice are each worth $1$ less, to a minimum of $0$. This condition ends when you remove its cause.
 - **Distracted:** Rolls you make do not bump. This condition ends when you remove its cause.
 - **Disarmed:** If you would win a violent Contest as the Attacker with a Maximum outcome, you win with a Very Major outcome instead. When you find a new weapon or take a moment to recompose yourself, this condition ends.
-- **Taxed:** You cannot perform Spark Checks. Spending ①① ends this condition.
+- **Taxed:** You cannot perform Spark rolls. Spending ①① ends this condition.
 
 ## Special Endeavors
 <!-- _class: center -->
@@ -1560,11 +1511,43 @@ These sorts of Endeavors are run like any other Endeavor, with the following add
 # Quick Reference
 <!-- _class: center major quick -->
 
-### Endeavors
+### Stats &amp; Dice
 <!-- _class: quick -->
 
-1. **Focal Action Advantage Movement:** Highest roller moves equal to their roll. Reminder: Declare if you are grouping with others or Helping before you roll; if you Help you don't roll.
-2. **Other Movements:** Resolve all actions one at a time. First the highest roller above, then lowest, second-lowest, and so on. Succeed a Check or win a Contest to move according to Endeavor Movement Table. If someone else attacks you before you can act, your action is interrupted. You cannot attack someone who has already acted or already been attacked.
+Stats:
+
+- **Head:** Intellect &amp; tools
+- **Hand:** Athleticism &amp; stealth
+- **Heart:** Passion &amp; performance
+- **Home:** Protection &amp; preparedness
+- **Hurt:** Inflicting harm
+- **Hurry:** Reflexes
+- **History:** Unique for each character
+    - Can automatically succeed some Checks related to your History, depending on size of History Die. Lower payout than if you rolled normally.
+
+Dice:
+
+- Stat Dice range from $d4$ to $d10$ for each Stat. Used for Checks and Contests.
+- Blessing Dice are $d6$ you gain to your Pool of Blessing Dice. Spend for Abilities and Helping.
+- Capped dice like $dc2$ cannot roll higher than their cap. Used for some effects.
+- Stat Dice and capped dice bump. On a $1$, roll again and add to the result.
+- Blessing Dice bump. On a $1$, gain another Blessing Die.
+- Spend $2$ Blessing Dice of the same worth to Spark a Stat roll. Roll two Stats of the same size at the same time. If either bumps, they both reroll.
+
+### Actions
+<!-- _class: quick -->
+
+- **Checks:** Meet or beat the Check target to succeed.
+- **Contests:** Higher roller wins. Defender wins ties.
+    - *Violent Contest:* Attacker uses Hurt. Defender uses Hurry.
+    - *Non-violent Contest:* Attacker uses Stat other than Hurt. Defender uses same Stat as Attacker.
+- **Simultaneous Actions:** Several competing actions at once.
+    1. *Group &amp; Roll:* Declare if you are grouping with others or Helping before you roll; if you Help you don't roll.
+    2. *Focal Action:* Highest roller drives Focal Action. This resolves first. GM resolves ties.
+    3. *Side Actions:* Lowest roller above reacts first, then second-lowest, and so on. Can change action and reroll when reacting. If someone attacks you before you can act, your action is interrupted. You cannot attack someone who has already acted or already been attacked.
+- **Endeavors:** Rounds of Simultaneous Actions racing to a goal.
+    1. *Focal Action Advantage Movement:* Highest roller when determining Focal Action moves equal to their roll. If tied, no one gets this movement.
+    2. *Other Movements:* Succeed a Check or win a Contest to move according to Endeavor Movement Table.
 
 ### Tables
 <!-- _class: quick -->
@@ -1580,7 +1563,7 @@ Outcome Size and Endeavor Movement:
 | Very Major | 19 | 9 | 8 |
 | Maximum | 20 or more | 10 or more | 13 |
 
-Helping cost:
+Helping:
 
 | Blessing Dice Spent | Bonus Added |
 | ------------------- | ----------- |

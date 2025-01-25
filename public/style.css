@@ -40,3 +40,10 @@ body:not(.loaded)::after {
     width: 100%;
     font-family: monospace;
 }
+
+/* page breaks */
+@media not print {
+    body > svg {
+        padding-bottom: 1em;
+    }
+}
