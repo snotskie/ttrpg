@@ -47,10 +47,12 @@ section:after {
     --color-guide: #4d4d4d;
     --color-ability: #009e73;
     --color-quick: #ffd700;
+    --color-rules: #2c3e50;
     --color-creation-2: #a6cee3;
     --color-guide-2: #a9a9a9;
     --color-ability-2: #b2df8a;
     --color-quick-2: #f0e442;
+    --color-rules-2: #7f8c8d;
 }
 
 section.major h1 {
@@ -99,6 +101,17 @@ section.quick {
         90deg,
         var(--color-quick)   0,
         var(--color-quick-2) .5in
+    );
+    padding-left: .5in;
+}
+
+section.rules {
+    border-left: .5in solid var(--color-rules);
+    border-image-slice: 27;    
+    border-image-source: repeating-linear-gradient(
+        90deg,
+        var(--color-rules)   0,
+        var(--color-rules-2) .5in
     );
     padding-left: .5in;
 }

@@ -69,31 +69,13 @@ Cover typography: Bebas Neue, by Ryoichi Tsunekawa
 *Humanity, Blessed* is a rules-light TTRPG system inspired by our favorite games, books, and TV. *Humanity, Blessed* is designed to tell stories about what it means to be human, doing goofy, cool, fantastic little human things.
 
 # Making Your First Character
-<!-- _class: center major -->
+<!-- _class: center major creation -->
 
 ## Step One: Stats
-<!-- _class: center -->
+<!-- _class: center creation -->
 
 > *Each character in this game has a small number of Stats: the H's of Humanity. Together, these represent a character's general capabilities at a wide range of tasks and situations.*
 > *&mdash;snotskie*
-
-### Stats
-
-**🧠 Head:** Intellectual pursuits, problem solving, puzzles, riddles, scanning for information, recalling facts, insight, reasoning, operating and building complex machines, playing practiced music, picking locks. With a high Head Stat you can tackle intellectual puzzles with ease. With a low Head Stat you may find yourself confounded easily or solutions to puzzles just outside your reach.
-
-**✌️ Hand:** Athletic pursuits, endurance, activities that require physical training, raw non-violent strength, moving quietly, pickpocketing. With a high Hand Stat you are in complete control of your physical efforts. With a low Hand Stat you may tire easily or loud, clanky obstacles might somehow always be in your way.
-
-**💕 Heart:** Speaking with passion, understanding others, reading emotions, playing music improvisationally, creating expressive art, performing sleights of hand for an audience. With a high Heart Stat you understand others' intentions easily and can act accordingly. With a low Heart Stat others maybe just aren't as enthused about your interests as you are.
-
----
-
-**☕ Home:** Protecting yourself and loved ones, tending to illness and wounds, shopping, crafting, scavenging, camping, cooking, remaining calm, staying alert, coming prepared. With a high Home Stat you can easily be depended upon in situations both mundane and dire. With a low Home Stat your estimates of health and money matters might frequently be off or you seem to always misplace things.
-
-**👿 Hurt:** Nerve and willingness to inflict harm on others. With a high Hurt Stat you can easily steel your resolve when the time calls for violent answers. With a low Hurt Stat your caring for others' well-being seems to extend even to your enemies.
-
-**⚠️ Hurry:** Escaping danger, reacting by instinct, surges of adrenaline. With a high Hurry Stat you find that your body moves easily to keep you safe from danger. With a low Hurry Stat you might freeze up more often than you'd like.
-
-**⏳ History:** Narrative touchstones representing your unique specializations, skills, proficiencies, hardships, and other aspects covered by your character's backstory and the history of their people, but not covered by or more specific than the other Stats above. With a high History Stat you have achieved the specialized training you set out to achieve. With a low History Stat your specific worries and weaknesses seem to creep up more often.
 
 ### Character Creation: Step One!
 <!-- _class: creation -->
@@ -105,6 +87,26 @@ As you do, begin to think about the story your character takes on in your mind. 
 When you begin the game, most of your Stats are equal, using a $d4$ for their Checks. However, the Stat you ranked as your **highest Stat begins the game one die size larger**. Your Lifestyle also increases your starting Stat Dice.
 
 All of your Stat Dice can be **upgraded later in the Session Shop** section at the end of this chapter.
+
+### Stats
+<!-- _class: rules -->
+
+**🧠 Head:** Intellectual pursuits, problem solving, puzzles, riddles, scanning for information, recalling facts, insight, reasoning, operating and building complex machines, playing practiced music, picking locks. With a high Head Stat you can tackle intellectual puzzles with ease. With a low Head Stat you may find yourself confounded easily or solutions to puzzles just outside your reach.
+
+**✌️ Hand:** Athletic pursuits, endurance, activities that require physical training, raw non-violent strength, moving quietly, pickpocketing. With a high Hand Stat you are in complete control of your physical efforts. With a low Hand Stat you may tire easily or loud, clanky obstacles might somehow always be in your way.
+
+**💕 Heart:** Speaking with passion, understanding others, reading emotions, playing music improvisationally, creating expressive art, performing sleights of hand for an audience. With a high Heart Stat you understand others' intentions easily and can act accordingly. With a low Heart Stat others maybe just aren't as enthused about your interests as you are.
+
+---
+<!-- _class: rules -->
+
+**☕ Home:** Protecting yourself and loved ones, tending to illness and wounds, shopping, crafting, scavenging, camping, cooking, remaining calm, staying alert, coming prepared. With a high Home Stat you can easily be depended upon in situations both mundane and dire. With a low Home Stat your estimates of health and money matters might frequently be off or you seem to always misplace things.
+
+**👿 Hurt:** Nerve and willingness to inflict harm on others. With a high Hurt Stat you can easily steel your resolve when the time calls for violent answers. With a low Hurt Stat your caring for others' well-being seems to extend even to your enemies.
+
+**⚠️ Hurry:** Escaping danger, reacting by instinct, surges of adrenaline. With a high Hurry Stat you find that your body moves easily to keep you safe from danger. With a low Hurry Stat you might freeze up more often than you'd like.
+
+**⏳ History:** Narrative touchstones representing your unique specializations, skills, proficiencies, hardships, and other aspects covered by your character's backstory and the history of their people, but not covered by or more specific than the other Stats above. With a high History Stat you have achieved the specialized training you set out to achieve. With a low History Stat your specific worries and weaknesses seem to creep up more often.
 
 ### GM Guide: Creating Other Stats
 <!-- _class: guide -->
@@ -153,16 +155,10 @@ Although Stats you create do not need to start with the letter "H," big kudos if
 Finally, if you create a new Stat, the Lifestyle options as written will not benefit your new Stat. So, when your players upgrade their Lifestyle and receive a benefit to one of the first six Stats, they may have that Lifestyle benefit your new Stat instead.
 
 ## Step Two: Background
-<!-- _class: center -->
+<!-- _class: center creation -->
 
 > *Each character in this game has a Lifestyle and a Value System. These represent characters' general backgrounds, goals, and beliefs about the world, and these can change over the course of the story.*
 > *&mdash;snotskie*
-
-### Lifestyle and Value System
-
-All characters have one of **thirteen Lifestyles** and one of **three Value Systems**. Descriptions for each of these can be found on the following pages.
-
-Note, some Lifestyles are **upgrade options** you will not have access to when the game begins. As you preview these upgraded Lifestyles, you may want to consult the Playing the Game chapter to learn more about the rules they interact with. This is because all upgraded Lifestyles **overcharge** one or two of your Stats. Whenever you would fail a Check or lose a Contest while performing a Spark roll using an overcharged Stat, receive $+X$ in aid, where $X$ is the same sized die used in the Spark roll.
 
 ### Character Creation: Step Two!
 <!-- _class: creation -->
@@ -188,6 +184,13 @@ Two of your Stats begin the game one die size larger, according to the table bel
         <tr> <th scope="row">Wisened</th> <td>Head and Home</td> <td>Hand and Hurry</td> <td>Heart and Hurt</td> </tr>
     </tbody>
 </table>
+
+### Lifestyle and Value System
+<!-- _class: rules -->
+
+All characters have one of **thirteen Lifestyles** and one of **three Value Systems**. Descriptions for each of these can be found on the following pages.
+
+Note, some Lifestyles are **upgrade options** you will not have access to when the game begins. As you preview these upgraded Lifestyles, you may want to consult the Playing the Game chapter to learn more about the rules they interact with. This is because all upgraded Lifestyles **overcharge** one or two of your Stats. Whenever you would fail a Check or lose a Contest while performing a Spark roll using an overcharged Stat, receive $+X$ in aid, where $X$ is the same sized die used in the Spark roll.
 
 ### Lifestyles
 <!-- _class: ability -->
@@ -280,22 +283,10 @@ As you begin to imagine the world and genre of your campaign, consider what it m
 **⚙️ Cunning and Capability** settings are well equipped for cyberpunk, steam punk, hard sci-fi, spy fiction, heist fiction, josei, surveillance-state fiction, noir, and antihero/villain stories. This genre is likely familiar, and fits stories well that have high stakes without necessarily a clear good vs. evil component. The Crafty, Wired, and Compelling upgrade options are the most "default" in such settings.
 
 ## Step Three: History
-<!-- _class: center -->
+<!-- _class: center creation -->
 
 > *Each character has a History Stat, made up of a number of narrative touchstones unique to only them!*
 > *&mdash;snotskie*
-
-### History Stat
-
-A character's History Stat is used to perform actions more related to their **backstory** than to their other Stats. And even though every character has a History Stat, what their History covers can vary greatly.
-
-When both your History Stat and another Stat would be applicable in a situation, the GM may decide which applies more. Otherwise, you choose which to use.
-
-### Group History
-
-As you play, **keep notes**! These can help you reflect on you and your group's shared "Group History," as well as your **character's relationship to the Group History**. Maybe not everyone in the party is enthused about the items the party stole last time!
-
-Such reflection can help you **shape the course** of your History Stat's scope and your character's development over the duration of the story, **make important character choices** during your sessions, and **inspire you and your GM** for ideas for future scenes and sessions.
 
 ### Character Creation: Step Three!
 <!-- _class: creation -->
@@ -307,6 +298,21 @@ Begin to describe your character's backstory. Answer the following prompts, or o
 - List **three specific people or groups** that your character regularly interacts with or have connections to, whether "good" or "bad" connections
 - Describe **where your character could be found** on an average Tuesday afternoon before the action of the story gets underway.
 - If your game's setting has **non-human characters** and your character is one of them, work with your GM to determine how your non-human background affects the scope of your Stats.
+
+---
+<!-- _class: creation -->
+
+And as you play, **keep notes**! These can help you reflect on you and your group's shared "Group History," as well as your **character's relationship to the Group History**. Maybe not everyone in the party is enthused about the items the party stole last time!
+
+Such reflection can help you **shape the course** of your History Stat's scope and your character's development over the duration of the story, **make important character choices** during your sessions, and **inspire you and your GM** for ideas for future scenes and sessions.
+
+
+### History Stat
+<!-- _class: rules -->
+
+A character's History Stat is used to perform actions more related to their **backstory** than to their other Stats. And even though every character has a History Stat, what their History covers can vary greatly.
+
+When both your History Stat and another Stat would be applicable in a situation, the GM may decide which applies more. Otherwise, you choose which to use.
 
 ### GM Guide: Scope of History Stat
 <!-- _class: guide -->
@@ -334,18 +340,10 @@ If your game's setting allows your players to create non-human characters, there
 - **Low Variety:** If player characters all come from just a few non-human background options, then using History to cover this background would clog the scope of the Stat with details that aren't unique to each player. Instead, expand the scope of two or three of the other Stats to cover one or two simple actions each, within reason, that characters of their non-human backgrounds could perform unaided that human characters couldn't.
 
 ## Step Four: Abilities
-<!-- _class: center -->
+<!-- _class: center creation -->
 
 > *Characters in this game have a set of Abilities that grant them certain actions or bonuses over the course of the game. These Abilities work together with characters' Stats, Lifestyle, Value System, and History to flesh out their key defining traits!*
 > *&mdash;snotskie*
-
-### Abilities
-
-As your read more about the Abilities that follow, you may want to consult the Playing the Game chapter to learn more about the rules they interact with.
-
-Some Abilities **require and extend** another Ability. Such Abilities cannot be gained until you've first gained the required Ability. And when you gain such an Ability, it does not count against your number of Ability Upgrades received. However, you can only extend any particular Ability once this way. If an Ability would extend an already extended Ability, it still does count against your total number of Abilities.
-
-And some Abilities, once activated, cannot be activated again until they have been **recharged** by spending Ⓧ from your pool of Blessing Dice.
 
 ### Character Creation: Step Four!
 <!-- _class: creation -->
@@ -353,6 +351,15 @@ And some Abilities, once activated, cannot be activated again until they have be
 Begin to imagine the kind of character taking shape in your mind. **Have you seen characters like them before** in movies, TV shows, and books? Try to envision the people from your favorite fictional stories that your character takes after.
 
 With that in mind, **pick two** of the following Abilities with the **[Starter]** label to start the game with. You can gain additional Abilities later in the Session Shop.
+
+### Abilities
+<!-- _class: rules -->
+
+As your read more about the Abilities that follow, you may want to consult the Playing the Game chapter to learn more about the rules they interact with.
+
+Some Abilities **require and extend** another Ability. Such Abilities cannot be gained until you've first gained the required Ability. And when you gain such an Ability, it does not count against your number of Ability Upgrades received. However, you can only extend any particular Ability once this way. If an Ability would extend an already extended Ability, it still does count against your total number of Abilities.
+
+And some Abilities, once activated, cannot be activated again until they have been **recharged** by spending Ⓧ from your pool of Blessing Dice.
 
 ---
 <!-- _class: ability -->
@@ -592,21 +599,22 @@ However, some ideas are:
 | During a Contest between, before either character rolls, you may spend $2$ Blessing Dice of the same worth to act synchronously with your opponent. If you do, the two of you perform your rolls at the same time. When either of you would bump, you both bump. You both still maintain your own separate roll totals. This Ability may not be used when determining Focal Actions. |
 
 ## Step Five: Items
-<!-- _class: center -->
+<!-- _class: center creation -->
 
 > *There is not an appendix of items to choose from in this game. Instead, items are narrative and help shape the course of the story.*
 > *&mdash;snotskie*
-
-### Items
-
-Each character tracks a list of items they typically carry with them, and other items they may have with them can be **determined in the moment**.
-
-Over the course of the story, characters may perform Checks to **find** new items, **create** new items, **purchase and sell** items, and even see if they **already have** items that could be narratively reasonable for them have. And while most items are narrative, some **higher quality items** you acquire along the way may provide aid or effects similar to some Abilities.
 
 ### Character Creation: Step Five!
 <!-- _class: creation -->
 
 List **three or four items** your character always carries, within reason. These will be the items you start the game with.
+
+### Items
+<!-- _class: rules -->
+
+Each character tracks a list of items they typically carry with them, and other items they may have with them can be **determined in the moment**.
+
+Over the course of the story, characters may perform Checks to **find** new items, **create** new items, **purchase and sell** items, and even see if they **already have** items that could be narratively reasonable for them have. And while most items are narrative, some **higher quality items** you acquire along the way may provide aid or effects similar to some Abilities.
 
 ### GM Guide: Creating NPCs
 <!-- _class: guide -->
@@ -620,7 +628,7 @@ You do not need to go through the entire character creation process to create NP
 - At most one Ability. If the Ability would require recharging to be used, instead roll a $d6$ as though gaining a Blessing Die. If the NPC would gain a Blessing Die worth enough to recharge the Ability, instead recharge the Ability immediately
 
 ## Afterwards: Session Shop
-<!-- _class: center -->
+<!-- _class: center ability -->
 
 > *Now that you've built your first character, let's play! And after your first session, keep reading to find out what upgrade options are available in the Session Shop!*
 > *&mdash;snotskie*
@@ -680,15 +688,16 @@ You may also **spend ①①① to receive an additional** upgrade beyond the one
 Offer players one additional free upgrade at the end of sessions when they would have fewer total upgrades than the player with the most total upgrades.
 
 # Playing the Game
-<!-- _class: center major -->
+<!-- _class: center major rules -->
 
 ## Dice
-<!-- _class: center -->
+<!-- _class: center rules -->
 
 > *There are two special rules to know about dice in this game: dice "bump," meaning they are rerolled when they roll a $1$, and some dice are "capped," meaning if they would roll a number higher than their cap, they roll the cap instead.*
 > *&mdash;snotskie*
 
 ### Bumping Dice
+<!-- _class: rules -->
 
 Dice in this game “bump.”
 
@@ -701,6 +710,7 @@ Succeeding on a Check or winning a Contest without bumping represents natural or
 Also note, $2d6$ is different from $1d6+1d6$. Only when an effect explicitly groups dice together are they considered a group for bumping. For example, both dice of the $2d6$ group are rerolled when either rolls a $1$. However, the dice of the $1d6+1d6$ are considered separate groups, so rolling a $1$ on one of the dice only affects that one die.
 
 ### Capped Dice
+<!-- _class: rules -->
 
 Some rules in this game refer to "capped" dice&mdash;those related to Helping and Monstrosities. These dice are the standard dice of the game ($d4$ through $d10$), but "capped" at smaller values. Capped dice bump in the same manner as Stat Dice.
 
@@ -731,6 +741,7 @@ For example:
 - the average of a $d8$ with the Advanced Training Ability is $5 + \frac{2}{7}$
 
 ### Your Dice
+<!-- _class: rules -->
 
 You play this game with three sets of dice:
 
@@ -739,6 +750,7 @@ You play this game with three sets of dice:
 - Any special dice used within the rules of your Abilities, if any. You may use your same Stat Dice, or carry a few extra dice as used by your Abilities. Most common is a $dc2$, so a few extra $d4$ will likely do the trick.
 
 ### Blessing Dice
+<!-- _class: rules -->
 
 Characters in this game each have a pool of Blessing Dice, representing a pool of resources they can draw upon to recharge their abilities and help their friends.
 
@@ -751,6 +763,7 @@ When you roll a $1$ on a Blessing Die, instead of rolling again to increase the 
 If you gain multiple Blessing Dice from a single effect, gain each of those dice separately. They do not form a group for the purposes of bumping.
 
 ### Spending Blessing Dice
+<!-- _class: rules -->
 
 Some actions can only be performed by first "spending" some number of dice from your pool of Blessing Dice each worth some value or more.
 
@@ -783,12 +796,13 @@ All this being said, we recommend new GMs to this game use the following:
 - Award a Blessing Die each time the player rolls the "lucky number" for the session, before modifications to the roll from effects or Abilities. To determine the lucky number, at the start of each session, roll two $d10$ and use the higher value as the lucky number for the session. If a $1$ is rolled on both dice this way, then there is no lucky number for the session, as it is almost impossible to score lower than a $2$ on rolls in this game; such sessions take place narratively on an "unlucky day."
 
 ## Checks and Contests
-<!-- _class: center -->
+<!-- _class: center rules -->
 
 > *An "action" is anything you choose for your character to do. Some actions require you to perform rolls to determine the outcome. The simplest of these are Checks and Contests. The rules for more complex types of actions build up from there.*
 > *&mdash;snotskie*
 
 ### Basic Checks
+<!-- _class: rules -->
 
 To perform a Basic Check, roll the die for the action's associated Stat. The GM will let you know which to use. If the result of the roll meets or beats the GM's target number, then the check succeeds. Otherwise, it fails.
 
@@ -821,6 +835,7 @@ We recommend providing your players a table that describes your "magic" targets 
 - Performing supernatural effects requiring beyond a Maximum outcome size requires a "quest" to do so.
 
 ### Automatic History Check Success
+<!-- _class: rules -->
 
 At GM discretion, you may automatically succeed History Checks if the scope of your History Stat is relevant enough to the Check and your History Stat Die is high enough, according to the table below.
 
@@ -836,6 +851,7 @@ If you choose to automatically succeed this way, you succeed as though you had r
 You may not choose to automatically succeed Checks this way while determining the Focal Action of Endeavors (described later in this chapter).
 
 ### Spark Rolls
+<!-- _class: rules -->
 
 When two of a character's Stats use the same die, those Stats are "balanced."
 
@@ -871,6 +887,7 @@ Then, the average value of rolling the Sparked dice would be:
 $a_s + \frac{b_s k_s}{c_s}$
 
 ### Contests
+<!-- _class: rules -->
 
 A non-violent Contest is when a character performs an action against another character's will using any Stat besides Hurt.
 
@@ -881,6 +898,7 @@ To perform a non-violent Contest:
 3. The action's effect is only successful if the Attacker rolls higher than the Defender. The size of the effect is determined by the difference between their scores.
 
 ---
+<!-- _class: rules -->
 
 A violent Contest is when an Attacker performs an action against another character's will using their Hurt Stat. All Contests involving Hurt are potentially deadly. Unexpected things can happen and things can get out of hand quickly.
 
@@ -893,6 +911,7 @@ To perform a violent Contest:
 5. Additionally, Defenders may choose to respond to these continued attacks with a greater range of options than just Hurry, such as outwitting (Head), calling on honor (Hand), destroying a part of the environment (Hand), calling for a truce (Heart), or repositioning oneself (Head or Home).
 
 ---
+<!-- _class: rules -->
 
 Also note, Checks use the terms "fail" and "succeed," while Contests use “lose” and “win” instead.
 
@@ -905,6 +924,7 @@ For example, the "Blessèd Luck" Ability allows you to turn a failed Check into 
 The Uncool condition on the other hand does affect both Checks and Contests, because it modifies the results of rolls performed, without mentioning success, failure, win, or loss directly.
 
 ### Size of Outcomes
+<!-- _class: rules -->
 
 In general, rolling higher leads to better outcomes.
 
@@ -947,12 +967,13 @@ Instead, you might draw the tension and possibility to respond out further. One 
 If an ally wins the Contest by $4$ or more, then the violent effect is successfully mitigated, perhaps reducing it to a Medium or Minor effect. However, if the Attacker is able to roll $8$ or more on a Hurt Check before the allies can successfully treat the effect, then the Attacker may deliver a *coup de grace*.
 
 ## Complex Actions, Helping, and Shopping
-<!-- _class: center -->
+<!-- _class: center rules -->
 
 > *There are special rules or considerations for when characters perform complex actions, work together as a group, and give and receive Help.*
 > *&mdash;snotskie*
 
 ### Long Actions
+<!-- _class: rules -->
 
 A long action is any action that is multi-step, spans a longer period of time than most other actions, and involves the scope of multiple Stats.
 
@@ -971,6 +992,7 @@ There are two approaches the GM may take to resolving long actions:
 - **Thorough:** The GM may ask for multiple Checks or Contests using the various Stats involved in the long action. For overall success or victory, at least half of these rolls will need to win or succeed. However, each failure or loss may incur difficulties or complications on top of that success.
 
 ### Complex Attacks
+<!-- _class: rules -->
 
 Sometimes a character's attack in a Contest is itself a complex action requiring a Check, such as striking a foe while also jumping over a wide chasm.
 
@@ -981,6 +1003,7 @@ When the Defender rolls, if the Defender rolls lower than the GM's target, the C
 This way, even if the Defender rolls low, they still win the Contest if the Attacker fails to meet the target.
 
 ### Group Checks and Contests
+<!-- _class: rules -->
 
 Sometimes characters want to complete actions together as a group. There are two general approaches:
 
@@ -997,6 +1020,7 @@ Sometimes characters want to complete actions together as a group. There are two
 | $7$ | Fourth highest |
 
 ---
+<!-- _class: rules -->
 
 These two approaches may even be combined, with some members rolling and taking their median, and the other members providing Help on top of that median. However, a group member cannot both roll and Help for the same action.
 
@@ -1005,6 +1029,7 @@ In general, once characters become a group as part of a Check or Contest, they r
 Also note, a character cannot force other characters to become a group of Defenders, unless an Ability, item, or situation would allow.
 
 ### Helping
+<!-- _class: rules -->
 
 All characters may can spend their Blessing Dice to Help one another complete Checks and Contests. And your Abilities, events, and items in the story may also Help you in similar ways.
 
@@ -1021,12 +1046,14 @@ Up to once per roll, whether your own or another character's, you may Help by sp
 | ① $\times 10$ | $+dc10$ |
 
 ---
+<!-- _class: rules -->
 
 Note, it is more cost effective, for example, for two characters to each spend ①① and both of them Help on an action than for one character to spend ①①①① and do all the Helping by themself!
 
 This is because the Blessing Dice spent to Help yield diminishing returns: each additional Blessing Die spent this way, on average, provides a smaller bonus than the previous one.
 
 ### Receiving Situational Aid
+<!-- _class: rules -->
 
 While you and your allies can spend Blessings to Help one another, in certain situations your Abilities, items, environment, careful planning, or so on can provide you additional "Help" as well--and for free!
 
@@ -1035,6 +1062,7 @@ These effects describe a possible failed Check or lost Contest and say to receiv
 You can only receive situational aid once per roll. If multiple effects would provide situational aid during the same roll, you choose which one to use.
 
 ### Coming Prepared
+<!-- _class: rules -->
 
 You may perform a Home Check to see if you already came prepared with just the item you need.
 
@@ -1047,12 +1075,14 @@ The target you will need to reach may depend on details such as:
 Also, when you fail a Check to see if you already came prepared with an item, you may be unable to perform these Checks again until the end of the scene or session. And if you fail by a large amount, you may drop or break other items in your possession while digging around in your bag, alert others to your location, or so on.
 
 ### Shopping
+<!-- _class: rules -->
 
 Performing Home Checks to shop, trade, or so on is similar to performing Home Checks to see if you already came prepared with an item.
 
 The difference is that if you are shopping in a place where it would be reasonable to find the desired item, and if would be reasonable for you to have the money or goods to trade for that item, then you may receive situational Help on the Check.
 
 ### Crafting
+<!-- _class: rules -->
 
 Crafting new items from your surroundings, tools, and supplies is a long action. This is because crafting usually requires a number of tasks that span the scope of multiple Stats:
 
@@ -1064,6 +1094,7 @@ Crafting new items from your surroundings, tools, and supplies is a long action.
 - Meddling with the forces of the universe (Hex, Ham, Hologram, or so on, for settings that have a Stat for the "magic" of the world)
 
 ---
+<!-- _class: rules -->
 
 The target you will need to hit for this craft long action will depend on the intended "quality" or effect of your desired item:
 
@@ -1079,18 +1110,20 @@ Also note, crafted items may come with flaws, even if you succeed overall. How f
 - **Thorough:** The GM may require you to make multiple Checks. To succeed at crafting you will need to succeed on at least half of the individual Checks, with each failed Check introducing the chance for a flaw or limitation.
 
 ### Making Plans
+<!-- _class: rules -->
 
 When you and your fellow players propose plans that could direct sessions or whole campaigns, the GM may ask for a set of rolls similar to a group long action.
 
 Each roll in this group long action will correspond to a different necessary step of your group's plans. Then, based on the results, the GM may provide different amounts or types of information to set you off on your "quest," representing your group's capabilities at planning and preparation.
 
 ## Simultaneous Actions and Endeavors
-<!-- _class: center -->
+<!-- _class: center rules -->
 
 > *There are special rules for when several characters are working towards competing aims at the same time.*
 > *&mdash;snotskie*
 
 ### The Camera Rule
+<!-- _class: rules -->
 
 To resolve complex situations where several actions are competing for control of the narrative, *Humanity, Blessed* follows The "Camera Rule," inspired by how complex scenes are handled in film and television.
 
@@ -1101,6 +1134,7 @@ The "Camera Rule" has three parts:
 - Other actions that were attempted at the same moment, the Side Actions, could still occur. However, they could also be interrupted, muddled by the chaos of the situation, abandoned by the character in response to the results of the Focal Action, or so on; such incomplete actions are not considered wins, losses, failures, or successes, they simply don't go all the way from idea to execution.
 
 ### Simultaneous Actions
+<!-- _class: rules -->
 
 When several characters want to complete conflicting actions, all at the same time as they compete towards their respective goals, this requires a round of simultaneous actions.
 
@@ -1111,6 +1145,7 @@ To resolve a round of simultaneous actions, follow these steps:
 3. **Determine and Resolve any Side Actions:** Side Actions are then determined and resolved. Starting with those that rolled the lowest in step 1, if they have already been involved in another Check or Contest this round, regardless if it was by choice, they no longer have the opportunity to act this round. Otherwise, they decide: Do they continue with their original idea, adapt it to the new situation around them, follow a brand new idea, hold their action until during or after another character's action, or abandon acting altogether? If they choose to act, they then perform and resolve their desired Check or Contest. If this action involves other characters, those characters cannot have already been involved in another Check or Contest already this round. Then continue this process with those who rolled the next lowest in step 1.
 
 ---
+<!-- _class: rules -->
 
 4. **End:** Once all characters have either been involved in a Check, Contest, or chosen not to act, the round of simultaneous actions is resolved.
 
@@ -1121,12 +1156,14 @@ For another example, two groups are competing in a battle of the bands, the *Dro
 Also note, once characters become grouped together for a Check or Contest in a round of simultaneous actions, they remain grouped for the rest of the round.
 
 ### Endeavors
+<!-- _class: rules -->
 
 Endeavors are multiple rounds of simultaneous actions during which the characters involved race to be the first to reach some destination, to be the first to acheive some action, to escape without being caught, to advance an objective before time runs out, or so on. Many scenes where the tension is drawn out can be run as Endeavors.
 
 Endeavors are carried out as a number of rounds in which the characters attempt actions and perform Contests and Checks to drive the narrative tension, progress themselves, and slow their opponents. Additionally, characters involved may be asked to perform Checks to overcome hazards in the environment. Each round, the narrative primarily follows a single Focal Action, then resolves smaller Side Actions before resolving hazards.
 
 ---
+<!-- _class: rules -->
 
 To perform an Endeavor:
 
@@ -1134,6 +1171,7 @@ To perform an Endeavor:
 2. **Focal Action Advantage Movement:** At the top of each round, determine the Focal Action. Characters may choose to sit out this phase of the Endeavor. Whoever rolled the highest moves forward on the number line a number of spaces equal to the result of their roll. This represents the advantage gained towards their objectives as their proposed course of action directs the narrative tension. If there is a tie for highest roll, then no one gains this advantage movement during this step, though the GM still resolves the tie to determine the Focal Action for the next step.
 
 ---
+<!-- _class: rules -->
 
 4. **Focal Action Movement:** Next, resolve the Focal Action. If the Focal Action had Defenders, they roll to defend against it. Then the winning or succeeding side moves forward, and the size of the outcome determines the number of spaces moved, according to the table below.
 5. **Side Action Movements:** Then, determine and resolve Side Actions, starting with those who sat out at the start of the round, then those who rolled the lowest at the start of the round, with the GM resolving ties. For each of these Side Actions, the winning or succeeding side moves forward, and the size of the outcome determines the number of spaces moved, according to the table below.
@@ -1148,6 +1186,7 @@ To perform an Endeavor:
 | Maximum | 13 |
 
 ---
+<!-- _class: rules -->
 
 6. **Hazards:** At the end of the round, the GM may describe an environmental hazard that could affect all or some of the leading characters involved the Endeavor, asking them to perform a Check to avoid the effects.
 7. **End:** Repeat rounds until the Endeavor has been won, lost, ends in a draw, or gets interrupted.
@@ -1197,16 +1236,18 @@ The details depend on your situation, but you may give the "sides" of the large-
 Then use the results to improvise the narrative at that scale before returning to the view of how that large-scale narrative makes itself known at the smaller player character scale.
 
 ## Conditions
-<!-- _class: center -->
+<!-- _class: center rules -->
 
 > *While most effects serve to shape the narrative of the game, your GM may find it appropriate to also apply conditions to characters when the situation calls for it.*
 > *&mdash;snotskie*
 
 ### Surprise Threat
+<!-- _class: rules -->
 
 When a character is surprised by a threat, their first roll in response to it cannot bump and cannot be a Spark roll.
 
 ### Coolness
+<!-- _class: rules -->
 
 Some events challenge your resolve, throw you off your game, cause you great embarrassment, or so on. When these happen, you may become Uncool.
 
@@ -1224,6 +1265,7 @@ Equally important is how you give the players opportunities to *remove* this con
 So when you build the narrative around how a character becomes Uncool and what this means for their connections to other characters, keep in the back of your head how you could use these same connections later to remove the condition and offer the player a chance to roleplay growth from their earlier failure.
 
 ### Wounds
+<!-- _class: rules -->
 
 You do not have "hit points" in this game. Nor do you have any "defensive" Stats. When you're hit, you're hit.
 
@@ -1237,6 +1279,7 @@ However, some injuries you receive may affect specific Stats, and these effects 
 - **Vulnerability:** When an opposing character witnesses you perform a roll using the affected Stat, they may have you perform the roll again and use the new value. This condition lasts until it is treated. *For example, Memory Loss, Numbness, Wretchedness, and Destitution.*
 
 ### Other Conditions
+<!-- _class: rules -->
 
 - **Agreeable to $X$:** Rolls you make as a Defender in non-violent Contests where $X$ is an Attacker that would roll the highest value on the die instead roll the second highest. If $X$ does an action or makes a request that would bring you harm, this condition ends.
 - **Famous:** You may exert your fame over a character who is less famous than you, gaining a $+dc2$ bonus in a Contest against them. You may not do so against the same character more than once during the same session or while you are Uncool.
@@ -1247,12 +1290,13 @@ However, some injuries you receive may affect specific Stats, and these effects 
 - **Taxed:** You cannot perform Spark rolls. Spending ①① ends this condition.
 
 ## Special Endeavors
-<!-- _class: center -->
+<!-- _class: center rules -->
 
 > *There are a number of special types of Endeavors in this game, which add additional obstacles, actions, restrictions, and win conditions to the basic rules for Endeavors described above. Work with your GM to know which to expect in your campaign.*
 > *&mdash;snotskie*
 
 ### 🛡️ Clash Endeavors
+<!-- _class: rules -->
 
 Some campaigns or sessions may involve the player characters summoning, rallying, or inspiring allies to face off against an opposing side's summoned, rallied, or inspired allies&mdash;such as soldiers in your command, athletes you are coaching, creature companions you have befriended, knights dueling as your champions, spirits you are channeling, or spectral monsters you've summoned by playing music so well!
 
@@ -1262,6 +1306,7 @@ These sorts of Endeavors are run like any other Endeavor, with the following add
 - **Summons Capture:** When a summon wins a Contest against an opposing summon in a Contest, they may attempt to capture that opposing summon. And when a summon gains advantage movement, they may attempt to capture any summon.
 
 ---
+<!-- _class: rules -->
 
 - **Attempting Capture:** When a summon attempts to capture an opposing summon, they move backward on the number line any amount. Then, that opposing summon performs a Check where the target is equal to the number of spaces moved backward. If they fail, they are non-lethally removed from the Endeavor. Then regardless of the Check's result, the current round immediately ends.
 - **Summoners Summon but Don't Move:**  Summoners do not have a position on the number line, but they still act in the Endeavor, performing Check and Contest rolls as usual. If a summoner would gain advantage movement, they instead add another summon aiding them to the number line at position $0$. The more advantage movement a summoner would have gained, the more powerful the summon added. Any other movement a summoner would gain, such as from resolving Focal or Side Actions, they choose a summon aiding them to gain that movement instead.
@@ -1287,6 +1332,7 @@ You may also allow your players to determine their "pool" of summons ahead of ti
 In any case, getting summons their Stats and onto the number line should be a *quick* process.
 
 ### 🔎 Discovery Endeavors
+<!-- _class: rules -->
 
 Some campaigns or sessions may involve a prolonged scene where the player characters explore a mansion for clues, search through the rubble of a crashed spaceship, delve into a dungeon, or so on!
 
@@ -1296,6 +1342,7 @@ These sorts of Endeavors are run like any other Endeavor, or added into any othe
 - **Glimmer Buttons:** When the GM gives a lay of the land, a number of "glimmer buttons" are added throughout the number line. When the movement of a character moves over one of these points on the number line, that character can attempt to interact with that glimmer button. If a character would activate multiple glimmer buttons in one round, that character instead chooses just one to activate.
 
 ---
+<!-- _class: rules -->
 
 - **Interacting with Glimmer Buttons:** To interact with a glimmer button and gain the discovery associated with it, a character must succeed a Check. The target for this Check is equal to the glimmer button's position on the number line. If the character's most recent roll in the Endeavor would have met this target, then the character automatically succeeds this Check. This Check is considered an extension to the character's current course of action and does not provide additional movement toward the Endeavor. When this Check is succeeded, the glimmer button is removed from the number line. It may also be removed when the Check is failed, at GM's discretion.
 - **Types of Glimmer Buttons:** The GM may add multiple types of glimmer buttons to the number line, representing different types of discoveries for the area, such as items, information, social interactions, or further areas to explore.
@@ -1328,6 +1375,7 @@ Then, improvise following your players' choices. For example, when they decide t
 - If the character will need to roll a new Check to interact with the glimmer, what Stat can you ask them to roll that will add new detail to the scene without being the same Stat they just rolled?
 
 ### 🧟 Monstrous Endeavors
+<!-- _class: rules -->
 
 Some campaigns or sessions may involve the player characters and their allies facing off against Monstrosities, like zombies, robots, or the manifestation of someone's fear!
 
@@ -1481,6 +1529,7 @@ This approach allows you to represent larger spoils consistently for larger-feel
 | $5 \times (B + C)$ | Endgame |
 
 ### 🏇 Race Endeavors
+<!-- _class: rules -->
 
 Some campaigns or sessions may involve a prolonged scene where the player characters race against one another or their opponents, whether it be on foot, on horseback, in sleds, in cars, or even in spaceships!
 
@@ -1491,10 +1540,12 @@ These sorts of Endeavors are run like any other Endeavor, with the following add
 - **Escape Bonus:** If a character gains advantage movement as a result of rolling the highest when determining the Focal Action, and they began that movement on the same space as a terrain button, they gain two bonuses to their advantage movement. First, they move forward on the number line an additional $+2$. And second, they may ignore up to one terrain button they would move past during this movement.
 
 ---
+<!-- _class: rules -->
 
 - **Types of Terrain Buttons:** The GM may add multiple types of terrain buttons to the number line, representing different types of terrain obstacles for the area, such as hills, stampedes, quantum puzzles, or trolley problem moral dilemmas. When a character begins the round on a terrain button, the type of the terrain button may constrain what Stats they may roll or what actions they may take.
 
 ### 💣 Stealth Endeavors
+<!-- _class: rules -->
 
 Some campaigns or sessions may involve prolonged tension where the player characters attempt to sneak past guards, escape a prison, perform a heist, or so on!
 
@@ -1504,6 +1555,7 @@ These sorts of Endeavors are run like any other Endeavor, with the following add
 - **Alarm Buttons Move:** At the end of each round, the alarm buttons move, according to some set pattern only the GM knows. Nothing happens immediately when an alarm button ends its movement in the same space as a character. However, if a character chooses to sit out of acting at the top of a round while sharing a space with an alarm button, then the chatacter is made just as though they had moved onto it.
 
 ---
+<!-- _class: rules -->
 
 - **Failed Checks Increase Alertness:** Whenever a character fails a Check or loses a Contest while resolving a Focal Action or Side Action, the "alertness" of the Endeavor increases, represented by an additional alarm button being added to the number line.
 - **Negative Help:** Whenever a character receives Help, they may choose to subtract the bonus from their roll instead of adding it as usual.
