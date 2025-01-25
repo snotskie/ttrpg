@@ -71,14 +71,16 @@ Cover typography: Bebas Neue, by Ryoichi Tsunekawa
 # Making Your First Character
 <!-- _class: center major creation -->
 
-## Step One: Stats
+## Stats
 <!-- _class: center creation -->
 
-> *Each character in this game has a small number of Stats: the H's of Humanity. Together, these represent a character's general capabilities at a wide range of tasks and situations.*
+> *Each character in this game has a small number of Stats. Together, these represent a character's general capabilities at a wide range of tasks and situations.*
 > *&mdash;snotskie*
 
 ### Character Creation: Step One!
 <!-- _class: creation -->
+
+The following page describes the seven **Stats** used in *Humanity, Blessed*, known collectively as **the H's of Humanity**. Your GM may add an additional one as well.
 
 Your first task is to decide **which Stat your character is best at**.
 
@@ -90,6 +92,8 @@ All of your Stat Dice can be **upgraded later in the Session Shop** section at t
 
 ### Stats
 <!-- _class: rules -->
+
+All characters in this game have the following Stats:
 
 **🧠 Head:** Intellectual pursuits, problem solving, puzzles, riddles, scanning for information, recalling facts, insight, reasoning, operating and building complex machines, playing practiced music, picking locks. With a high Head Stat you can tackle intellectual puzzles with ease. With a low Head Stat you may find yourself confounded easily or solutions to puzzles just outside your reach.
 
@@ -107,6 +111,8 @@ All of your Stat Dice can be **upgraded later in the Session Shop** section at t
 **⚠️ Hurry:** Escaping danger, reacting by instinct, surges of adrenaline. With a high Hurry Stat you find that your body moves easily to keep you safe from danger. With a low Hurry Stat you might freeze up more often than you'd like.
 
 **⏳ History:** Narrative touchstones representing your unique specializations, skills, proficiencies, hardships, and other aspects covered by your character's backstory and the history of their people, but not covered by or more specific than the other Stats above. With a high History Stat you have achieved the specialized training you set out to achieve. With a low History Stat your specific worries and weaknesses seem to creep up more often.
+
+Each of a character's Stats are represented by a Stat Dice, using either a $d4$, $d6$, $d8$, or $d10$.
 
 ### GM Guide: Creating Other Stats
 <!-- _class: guide -->
@@ -154,7 +160,7 @@ Although Stats you create do not need to start with the letter "H," big kudos if
 
 Finally, if you create a new Stat, the Lifestyle options as written will not benefit your new Stat. So, when your players upgrade their Lifestyle and receive a benefit to one of the first six Stats, they may have that Lifestyle benefit your new Stat instead.
 
-## Step Two: Background
+## Lifestyle and Value System
 <!-- _class: center creation -->
 
 > *Each character in this game has a Lifestyle and a Value System. These represent characters' general backgrounds, goals, and beliefs about the world, and these can change over the course of the story.*
@@ -163,11 +169,16 @@ Finally, if you create a new Stat, the Lifestyle options as written will not ben
 ### Character Creation: Step Two!
 <!-- _class: creation -->
 
-Begin to describe the life your character had **growing up** and their **current outlook** on the world.
+The following pages describe **Lifestyle** and **Value System** options. Some Lifestyles are **upgrade options** you will not have access to when the game begins.
 
-As you do, pick one of the **Lifestyles** with the **[Starter]** label and one of the **Value Systems** to begin the game with. These can be changed later in the Session Shop.
+As you read them, begin to describe the life your character had **growing up** and their **current outlook** on the world. You may also want to consult the **Playing the Game chapter** to learn more about the rules Lifestyles interact with.
 
-Two of your Stats begin the game one die size larger, according to the table below and your choice of starter Lifestyle and Value System:
+Then, pick one of the **Lifestyles** with the **[Starter]** label and one of the **Value Systems** to begin the game with. These can be changed later in the Session Shop.
+
+---
+<!-- _class: creation -->
+
+Once you've chosen your starter Lifestyle and Value System, consult the table below. **Two of your Stats** begin the game an additional **die size larger**, according to your starter Lifestyle and Value System:
 
 <table>
     <thead>
@@ -184,13 +195,6 @@ Two of your Stats begin the game one die size larger, according to the table bel
         <tr> <th scope="row">Wisened</th> <td>Head and Home</td> <td>Hand and Hurry</td> <td>Heart and Hurt</td> </tr>
     </tbody>
 </table>
-
-### Lifestyle and Value System
-<!-- _class: rules -->
-
-All characters have one of **thirteen Lifestyles** and one of **three Value Systems**. Descriptions for each of these can be found on the following pages.
-
-Note, some Lifestyles are **upgrade options** you will not have access to when the game begins. As you preview these upgraded Lifestyles, you may want to consult the Playing the Game chapter to learn more about the rules they interact with. This is because all upgraded Lifestyles **overcharge** one or two of your Stats. Whenever you would fail a Check or lose a Contest while performing a Spark roll using an overcharged Stat, receive $+X$ in aid, where $X$ is the same sized die used in the Spark roll.
 
 ### Lifestyles
 <!-- _class: ability -->
@@ -282,16 +286,16 @@ As you begin to imagine the world and genre of your campaign, consider what it m
 
 **⚙️ Cunning and Capability** settings are well equipped for cyberpunk, steam punk, hard sci-fi, spy fiction, heist fiction, josei, surveillance-state fiction, noir, and antihero/villain stories. This genre is likely familiar, and fits stories well that have high stakes without necessarily a clear good vs. evil component. The Crafty, Wired, and Compelling upgrade options are the most "default" in such settings.
 
-## Step Three: History
+## History
 <!-- _class: center creation -->
 
-> *Each character has a History Stat, made up of a number of narrative touchstones unique to only them!*
+> *Each character has a History Stat, made up of a number of narrative touchstones that describe their unique backstory.*
 > *&mdash;snotskie*
 
 ### Character Creation: Step Three!
 <!-- _class: creation -->
 
-Begin to describe your character's backstory. Answer the following prompts, or others given to you by your GM. These background details will help you and your GM build the story and set the scope of the narrative touchstones your History Checks cover.
+Begin to describe your character's backstory. **Answer the following prompts** or others given to you by your GM. These background details will help you and your GM build the story and set the **scope** of the narrative touchstones your **History Stat** covers.
 
 - Describe **who your character looks up to**, whose work they strive to emulate, who taught them everything they know, or so on. What would it look like to make their Hero happy? upset? What is their connection to their Hero, and what is their Hero up to in the world now?
 - List **three specific skills** that your character has proven their ability in, such as through schooling, study, training, specialization within their team, or so on.
@@ -305,14 +309,6 @@ Begin to describe your character's backstory. Answer the following prompts, or o
 And as you play, **keep notes**! These can help you reflect on you and your group's shared "Group History," as well as your **character's relationship to the Group History**. Maybe not everyone in the party is enthused about the items the party stole last time!
 
 Such reflection can help you **shape the course** of your History Stat's scope and your character's development over the duration of the story, **make important character choices** during your sessions, and **inspire you and your GM** for ideas for future scenes and sessions.
-
-
-### History Stat
-<!-- _class: rules -->
-
-A character's History Stat is used to perform actions more related to their **backstory** than to their other Stats. And even though every character has a History Stat, what their History covers can vary greatly.
-
-When both your History Stat and another Stat would be applicable in a situation, the GM may decide which applies more. Otherwise, you choose which to use.
 
 ### GM Guide: Scope of History Stat
 <!-- _class: guide -->
@@ -339,7 +335,7 @@ If your game's setting allows your players to create non-human characters, there
 - **High Variety:** If each player character has a different non-human background, then the simplest option is to use each character's History Stat to cover one or two simple actions, within reason, that characters of their non-human background could perform unaided that human characters couldn't.
 - **Low Variety:** If player characters all come from just a few non-human background options, then using History to cover this background would clog the scope of the Stat with details that aren't unique to each player. Instead, expand the scope of two or three of the other Stats to cover one or two simple actions each, within reason, that characters of their non-human backgrounds could perform unaided that human characters couldn't.
 
-## Step Four: Abilities
+## Abilities
 <!-- _class: center creation -->
 
 > *Characters in this game have a set of Abilities that grant them certain actions or bonuses over the course of the game. These Abilities work together with characters' Stats, Lifestyle, Value System, and History to flesh out their key defining traits!*
@@ -348,14 +344,14 @@ If your game's setting allows your players to create non-human characters, there
 ### Character Creation: Step Four!
 <!-- _class: creation -->
 
-Begin to imagine the kind of character taking shape in your mind. **Have you seen characters like them before** in movies, TV shows, and books? Try to envision the people from your favorite fictional stories that your character takes after.
+The following pages describe **Ability** options. As your read more about them, you may want to consult the **Playing the Game** chapter to learn more about the rules they interact with.
 
-With that in mind, **pick two** of the following Abilities with the **[Starter]** label to start the game with. You can gain additional Abilities later in the Session Shop.
+To help you select your starter Abilities, begin to imagine the kind of character taking shape in your mind. **Have you seen characters like them before** in movies, TV shows, and books? Try to envision the people from your favorite fictional stories that your character takes after.
+
+Then with that in mind, **pick two** of the following Abilities with the **[Starter]** label to start the game with. You can gain additional Abilities later in the Session Shop.
 
 ### Abilities
 <!-- _class: rules -->
-
-As your read more about the Abilities that follow, you may want to consult the Playing the Game chapter to learn more about the rules they interact with.
 
 Some Abilities **require and extend** another Ability. Such Abilities cannot be gained until you've first gained the required Ability. And when you gain such an Ability, it does not count against your number of Ability Upgrades received. However, you can only extend any particular Ability once this way. If an Ability would extend an already extended Ability, it still does count against your total number of Abilities.
 
@@ -368,13 +364,15 @@ And some Abilities, once activated, cannot be activated again until they have be
 | --- |
 | Your reflexes have kept you safe. Whenever you would fail a Check or lose a Contest while rolling your Hurry Stat, receive $+dc2$ in aid. |
 
+Careful and Perceptive Instinct each require and extend Survival Instinct.
+
 | Careful Instinct |
 | --- |
-| And you've honed those reflexes to help you at tasks that would frighten others. Whenever you would fail a Check while performing dangerous actions related enough to the scope of your History Stat, receive $+dc2$ in aid. *This Ability requires and extends Survival Instinct.* |
+| And you've honed those reflexes to help you at tasks that would frighten others. Whenever you would fail a Check while performing dangerous actions related enough to the scope of your History Stat, receive $+dc2$ in aid. |
 
 | Perceptive Instinct |
 | --- |
-| And like those reflexes, you've always got an eye out for trouble or treasure. Up to once per Discovery Endeavor, when a lay of the land is given, you may choose a type of glimmer button. More of that type will be added to the number line than usual. *This Ability requires and extends Survival Instinct.* |
+| And like those reflexes, you've always got an eye out for trouble or treasure. Up to once per Discovery Endeavor, when a lay of the land is given, you may choose a type of glimmer button. More of that type will be added to the number line than usual. |
 
 ---
 <!-- _class: ability -->
@@ -383,13 +381,15 @@ And some Abilities, once activated, cannot be activated again until they have be
 | --- |
 | You've had to learn how to protect yourself in a fight. Whenever you would lose a violent Contest as the Defender, receive $+dc2$ in aid. |
 
+Sentry's and Barbed Armor each require and extend Protective Armor.
+
 | Sentry's Armor |
 | --- |
-| And you know how to use that protection to keep your friends safe too. When another nearby character would be the Defender in a violent Contest, before they roll, you may become the Defender in that Contest instead. Then this ability cannot be activated again until you spend ③ to recharge it. *This Ability requires and extends Protective Armor.* |
+| And you know how to use that protection to keep your friends safe too. When another nearby character would be the Defender in a violent Contest, before they roll, you may become the Defender in that Contest instead. Then this ability cannot be activated again until you spend ③ to recharge it. |
 
 | Barbed Armor |
 | --- |
-| And when you get hit, you know how to hit back. When you lose a violent Contest as the Defender at a close distance, you may have your Attackers receive a less severe version of the same injury you received from losing the Contest. Then this ability cannot be activated again until you spend ③ to recharge it. *This Ability requires and extends Protective Armor.* |
+| And when you get hit, you know how to hit back. When you lose a violent Contest as the Defender at a close distance, you may have your Attackers receive a less severe version of the same injury you received from losing the Contest. Then this ability cannot be activated again until you spend ③ to recharge it. |
 
 ---
 <!-- _class: ability -->
@@ -398,13 +398,15 @@ And some Abilities, once activated, cannot be activated again until they have be
 | --- |
 | Your travels have taught you how to calm your mind and body. Whenever you would fail a Check against natural effects such as weather and disease, receive $+dc2$ in aid. |
 
+Determined and Friendly Nature each require and extend Acclimated Nature.
+
 | Determined Nature |
 | --- |
-| And you can calm yourself to a sharp focus even in dire situations. Once per action, you may ignore the negative effects of one of your injuries or conditions. Then this ability cannot be activated again until you spend ③ to recharge it.  *This Ability requires and extends Acclimated Nature.* |
+| And you can calm yourself to a sharp focus even in dire situations. Once per action, you may ignore the negative effects of one of your injuries or conditions. Then this ability cannot be activated again until you spend ③ to recharge it. |
 
 | Friendly Nature |
 | --- |
-| And you've collected friends along the way. You gain access to a creature companion of your choice appropriate to the setting and within reason. Whenever you would fail a Check or lose a Contest while working with your companion, receive $+X$ in aid, where $X$ depends on the companion and the Stat used, ranging from $-1$ to $dc4$. Moreover, this companion has its own backstory which extends the scope of your History Stat while you work with it. If this companion is lost, stolen, destroyed, or you lose its loyalty, replacing it may require time and effort. *This Ability requires and extends Acclimated Nature.* |
+| And you've collected friends along the way. You gain access to a creature companion of your choice appropriate to the setting and within reason. Whenever you would fail a Check or lose a Contest while working with your companion, receive $+X$ in aid, where $X$ depends on the companion and the Stat used, ranging from $-1$ to $dc4$. Moreover, this companion has its own backstory which extends the scope of your History Stat while you work with it. If this companion is lost, stolen, destroyed, or you lose its loyalty, replacing it may require time and effort. |
 
 ---
 <!-- _class: ability -->
@@ -413,17 +415,19 @@ And some Abilities, once activated, cannot be activated again until they have be
 | --- |
 | You have a keen sense with objects and surroundings that most others don't. Whenever you would fail a Check to inspect an object carefully, identify where the object has been, or intuit information about events that have occurred around it, receive $+dc2$ in aid. |
 
+Roguish, Divining, and Ambitious Eye each require and extend Intuitive Eye.
+
 | Roguish Eye |
 | --- |
-| And this keeness has helped you narrowly escape trouble on multiple occasions. Up to once per Stealth Endeavor, when you would be made you may instead increase the alertness of the Endeavor. *This Ability requires and extends Intuitive Eye.* |
+| And this keeness has helped you narrowly escape trouble on multiple occasions. Up to once per Stealth Endeavor, when you would be made you may instead increase the alertness of the Endeavor. |
 
 | Divining Eye |
 | --- |
-| And because of your deductive or intuitive skills, secrets have a hard time hiding from you. Whenever you succeed a Check to decrypt an encoded or cryptic message, increase the size of the outcome by one rank. *This Ability requires and extends Intuitive Eye.* |
+| And because of your deductive or intuitive skills, secrets have a hard time hiding from you. Whenever you succeed a Check to decrypt an encoded or cryptic message, increase the size of the outcome by one rank. |
 
 | Ambitious Eye |
 | --- |
-| And you don't mind using items up to achieve your goals. Up to once per session, you may destroy an object in your possession. Until the end of the scene, you adopt the properties of the object, the properties of a concept associated with the object, or push the item to its breaking point. *This Ability requires and extends Intuitive Eye.* |
+| And you don't mind using items up to achieve your goals. Up to once per session, you may destroy an object in your possession. Until the end of the scene, you adopt the properties of the object, the properties of a concept associated with the object, or push the item to its breaking point. |
 
 ---
 <!-- _class: ability -->
@@ -432,13 +436,15 @@ And some Abilities, once activated, cannot be activated again until they have be
 | --- |
 | You've gotten lots of practice or training operating vehicles. Whenever you would fail a Check or lose a Contest to use a vehicle to transport supplies or other characters, receive $+dc2$ in aid. |
 
+Getaway and Professional Driver each require and extend Licensed Driver.
+
 | Getaway Driver |
 | --- |
-| And it doesn't hurt to have your friends around when it's time to drive dangerously. While transporting others, you may designate characters you are transporting as your copilots. When they Help you during that transport, their costs to do so are reduced by ①. *This Ability requires and extends Licensed Driver.* |
+| And it doesn't hurt to have your friends around when it's time to drive dangerously. While transporting others, you may designate characters you are transporting as your copilots. When they Help you during that transport, their costs to do so are reduced by ①. |
 
 | Professional Driver |
 | --- |
-| And almost nothing is stronger than the bond you have with your own ride. You gain access to a vehicle of your choice appropriate to the setting and within reason. Whenever you would fail a Check or lose a Contest while operating this vehicle, receive $+X$ in aid, where $X$ depends on the vehicle and the Stat used, ranging from $-1$ to $+dc4$. Moreover, this vehicle has its own backstory which extends the scope of your History Stat while you operate it. If this vehicle is lost, stolen, or destroyed, replacing it may require time and effort. *This Ability requires and extends Licensed Driver.* |
+| And almost nothing is stronger than the bond you have with your own ride. You gain access to a vehicle of your choice appropriate to the setting and within reason. Whenever you would fail a Check or lose a Contest while operating this vehicle, receive $+X$ in aid, where $X$ depends on the vehicle and the Stat used, ranging from $-1$ to $+dc4$. Moreover, this vehicle has its own backstory which extends the scope of your History Stat while you operate it. If this vehicle is lost, stolen, or destroyed, replacing it may require time and effort. |
 
 ---
 <!-- _class: ability -->
@@ -447,13 +453,15 @@ And some Abilities, once activated, cannot be activated again until they have be
 | --- |
 | You understand that not every loss is necessarily a bad thing. Up to once per session, when you lose a Contest as the Defender, you may reduce the outcome size by one rank and gain a Blessing. |
 
+Charitable and Honorable Resolve each require and extend Fearless Resolve.
+
 | Charitable Resolve |
 | --- |
-| And what matters most is forgiveness and paying our blessings forward. When you visit a place of religious, spiritual, or community importance, you may spend any number of ① as a donation or act of service to the place. The more spent this way, the greater a possible later boon may be, determined by the GM. *This Ability requires and extends Fearless Resolve.* |
+| And what matters most is forgiveness and paying our blessings forward. When you visit a place of religious, spiritual, or community importance, you may spend any number of ① as a donation or act of service to the place. The more spent this way, the greater a possible later boon may be, determined by the GM. |
 
 | Honorable Resolve |
 | --- |
-| And it's okay to risk a loss when it means protecting what you care about. You may attack to defend your honor or loved ones, using Hand or Home for a violent Contest as the Attacker instead of Hurt as usual. If you lose the Contest, you receive injuries as though you were attacked instead. Then this ability cannot be activated again until you spend ④ to recharge it. *This Ability requires and extends Fearless Resolve.* |
+| And it's okay to risk a loss when it means protecting what you care about. You may attack to defend your honor or loved ones, using Hand or Home for a violent Contest as the Attacker instead of Hurt as usual. If you lose the Contest, you receive injuries as though you were attacked instead. Then this ability cannot be activated again until you spend ④ to recharge it. |
 
 ### GM Guide: Charitable Resolve's Boon
 <!-- _class: guide -->
@@ -473,17 +481,19 @@ However, some ideas are:
 | --- |
 | It comes naturally to you to read situations to know exactly what other people need. Whenever you spend ①① or more to Help another character, they gain a bonus as though you had spent an additional ①①. |
 
+Rousing, Delegated, and Background Effort each require and extend Concerted Effort.
+
 | Rousing Effort |
 | --- |
-| And people often turn to you for guidance or leadership. Up to once per session, when your pool of Blessing Dice has a total combined worth of at least $10$, you may tell a moving story or give an inspiring speech. Each other character who hears the story or speech gains a Blessing Die. *This Ability requires and extends Concerted Effort.* |
+| And people often turn to you for guidance or leadership. Up to once per session, when your pool of Blessing Dice has a total combined worth of at least $10$, you may tell a moving story or give an inspiring speech. Each other character who hears the story or speech gains a Blessing Die. |
 
 | Delegated Effort |
 | --- |
-| And your skills reading others helps you screen potential allies for teams that work well together. During a Clash Endeavor, your summons may perform Spark rolls by working together in pairs, using one Stat from each, so long as the chosen Stats are balanced and you pay the Blessing die cost. *This Ability requires and extends Concerted Effort.* |
+| And your skills reading others helps you screen potential allies for teams that work well together. During a Clash Endeavor, your summons may perform Spark rolls by working together in pairs, using one Stat from each, so long as the chosen Stats are balanced and you pay the Blessing die cost. |
 
 | Background Effort |
 | --- |
-| And you don't mind fading into the background for a moment to give a situation just the nudge it needs. You may adjust the "vibe" or "music" of a situation subtly. Others are unable to pinpoint what changed, but the atmosphere shifts to suit your intent. Then this ability cannot be activated again until you spend ④ to recharge it. *This Ability requires and extends Concerted Effort.* |
+| And you don't mind fading into the background to give a situation just the nudge it needs. You may adjust the "vibe" or "music" of a situation subtly. Others are unable to pinpoint what changed, but the atmosphere shifts to suit your intent. Then this ability cannot be activated again until you spend ④ to recharge it. |
 
 ---
 <!-- _class: ability -->
@@ -492,28 +502,32 @@ However, some ideas are:
 | --- |
 | You've never been bothered by having your own way of doing things. While you are Uncool, you may roll Checks using a different Stat than normal. Then once a Check succeeds this way, you are no longer Uncool. |
 
+Ascendant and Shameless Self-Acceptance each require and extend Radical Self-Acceptance.
+
 | Ascendant Self-Acceptance |
 | --- |
-| And this deep sense of trust in yourself has been a wellspring of power for you. You may perform a non-violent Spark roll using $3$ Stat Dice, so long as those Stats each use a $d8$ or larger and you pay double the Blessing Die cost as usual. *This Ability requires and extends Radical Self-Acceptance.* |
+| And this deep sense of trust in yourself has been a wellspring of power for you. You may perform a non-violent Spark roll using $3$ Stat Dice, so long as those Stats each use a $d8$ or larger and you pay double the Blessing Die cost as usual. |
 
 | Shameless Self-Acceptance |
 | --- |
-| And life's taught you that laughing in the face of obstacles is a great first step in getting through them. Up to once per session, when your pool of Blessing Dice has a total combined worth of at least $10$, you may tell an cringy joke or perform an embarrassing dance. Each other character who hears the joke or witnesses the dance becomes Uncool. *This Ability requires and extends Radical Self-Acceptance.* |
+| And life's taught you that laughing in the face of obstacles is a great first step in getting through them. Up to once per session, when your pool of Blessing Dice has a total combined worth of at least $10$, you may tell an cringy joke or perform an embarrassing dance. Each other character who hears the joke or witnesses the dance becomes Uncool. |
 
 ---
 <!-- _class: ability -->
 
-| Efficient Bounty [Starter] |
+| Personal Bounty [Starter] |
 | --- |
 | You're known in almost any situation for coming prepared or being conveniently light-fingered. Whenever you would fail a Check to see if you already have an item on you, receive $+dc2$ in aid. |
 
+Fortune's and Trickster's Bounty each require and extend Personal Bounty.
+
 | Fortune's Bounty |
 | --- |
-| And you know that if you want to be successful, then you need to make your own luck. When you fail a Check, you may attempt the Check again, using the newer result instead. Then this ability cannot be activated again until you spend ⑤ to recharge it. *This Ability requires and extends Efficient Bounty.* |
+| And you know that if you want to be successful, then you need to make your own luck. When you fail a Check, you may attempt the Check again, using the newer result instead. Then this ability cannot be activated again until you spend ⑤ to recharge it. |
 
 | Trickster's Bounty |
 | --- |
-| And what's the harm in being prepared for a little razzle-dazzle every now and then? When another character succeeds a Check or wins a Contest, you may distract them using an item in your possession, modifying that character's result by $-3$, possibly turning their success into a failure or win into a loss. Then this ability cannot be activated again until you spend ⑤ to recharge it. *This Ability requires and extends Efficient Bounty.* |
+| And what's the harm in being prepared for a little razzle-dazzle every now and then? When another character succeeds a Check or wins a Contest, you may distract them using an item in your possession, modifying that character's result by $-3$, possibly turning their success into a failure or win into a loss. Then this ability cannot be activated again until you spend ⑤ to recharge it. |
 
 ---
 <!-- _class: ability -->
@@ -522,13 +536,15 @@ However, some ideas are:
 | --- |
 | You're well-versed in idle chatter, spinning conversation, or navigating social milieu. Whenever you would lose a Contest trying to persuade, influence, inspire, or deceive others, receive $+dc2$ in aid. |
 
+Popular and Rebutted Speech each require and extend Tactful Speech.
+
 | Popular Speech |
 | --- |
-| And you know that, truth or fiction, word travels fast. Up to once per scene, you may end, begin, or modify one rumor. It will spread quickly, within reason, but others are not guaranteed to believe it. Then this ability cannot be activated again until you spend ⑤ to recharge it. *This Ability requires and extends Tactful Speech.* |
+| And you know that, truth or fiction, word travels fast. Up to once per scene, you may end, begin, or modify one rumor. It will spread quickly, within reason, but others are not guaranteed to believe it. Then this ability cannot be activated again until you spend ⑤ to recharge it. |
 
 | Rebutted Speech |
 | --- |
-| And for you a conversational loss is never a *total* loss. When you lose a non-violent Contest as the Defender and the Attacker's action was related enough to the scope of your History Stat, you may have the Attacker receive a less severe version of the same effect you received from losing the Contest. Then this ability cannot be activated again until you spend ③ to recharge it. *This Ability requires and extends Tactful Speech.* |
+| And for you a conversational loss is never a *total* loss. When you lose a non-violent Contest as the Defender and the Attacker's action was related enough to the scope of your History Stat, you may have the Attacker receive a less severe version of the same effect you received from losing the Contest. Then this ability cannot be activated again until you spend ③ to recharge it. |
 
 ---
 <!-- _class: ability -->
@@ -537,17 +553,19 @@ However, some ideas are:
 | --- |
 | You always know where to make a deal, even if it's not the most sound decision. While you are attempting to purchase goods or services, each ① you spend to Help yourself is worth ①①. |
 
+Wheel, Lifesaving, and Shrouded Deal each require and extend Creditor's Deal.
+
 | Wheel Deal |
 | --- |
-| And you'd break a few rules if it means settling debts. Whenever you gain advantage movement in a Race Endeavor, you may create a terrain button anywhere along that movement. Then remove that terrain button once a character begins their movement on the same space as it. *This Ability requires and extends Creditor's Deal.* |
+| And you'd break a few rules if it means settling debts. Whenever you gain advantage movement in a Race Endeavor, you may create a terrain button anywhere along that movement. Then remove that terrain button once a character begins their movement on the same space as it. |
 
 | Lifesaving Deal |
 | --- |
-| And what's better than a good deal that keeps you alive? A character may automatically succeed a Check to tend to your wounds, even after they've rolled. Then this ability cannot be activated again until you spend ①①① to recharge it, and when it is recharged, increase the cost to recharge it by ①①. *This Ability requires and extends Creditor's Deal.* |
+| And what's better than a good deal that keeps you alive? A character may automatically succeed a Check to tend to your wounds, even after they've rolled. Then this ability cannot be activated again until you spend ①①① to recharge it, and when it is recharged, increase the cost to recharge it by ①①. |
 
 | Shrouded Deal |
 | --- |
-| And you know that nothing's more valuable than good info. You may call upon a higher power, criminal underground, book of forbidden knowledge, or so on to gain access to secret information or an answer to a question. This information may come with consequences. Then this ability cannot be activated again until you spend ④ to recharge it. *This Ability requires and extends Creditor's Deal.* |
+| And you know that nothing's more valuable than good info. You may call upon a higher power, criminal underground, book of forbidden knowledge, or so on to gain access to secret information or an answer to a question. This information may come with consequences. Then this ability cannot be activated again until you spend ④ to recharge it. |
 
 ---
 <!-- _class: ability -->
@@ -556,28 +574,32 @@ However, some ideas are:
 | --- |
 | Your memory is like a steel trap&mdash;once you learn something, you almost never forget. Whenever you would fail a Check trying to recall information, receive $+dc2$ in aid. |
 
+Shower and Optimal Thoughts each require and extend Organized Thoughts.
+
 | Shower Thoughts |
 | --- |
-| And you find that your best ideas often come while you're performing your regular duties or self-care. Up to once per session, when you are in a safe place, you may perform a Check using Head or Heart. Then up to once before the end of the session, you may use the value of that roll instead of rolling for another Check or non-violent Contest. *This Ability requires and extends Organized Thoughts.* |
+| And you find that your best ideas often come while you're performing your regular duties or self-care. Up to once per session, when you are in a safe place, you may perform a Check using Head or Heart. Then up to once before the end of the session, you may use the value of that roll instead of rolling for another Check or non-violent Contest. |
 
 | Optimal Thoughts |
 | --- |
-| And you think it's never a bad idea to back up and analyze the situation before charging forward. Up to twice per session, you may provide Help by rolling four $d6$ and group those dice into two piles of two. If addition or multiplication could make the piles equal, increase the result of the roll you are Helping by $+5$. For example, $1$, $1$, $1$, and $2$, could be grouped this way as $1×2=1+1$. *This Ability requires and extends Organized Thoughts.* |
+| And you think it's never a bad idea to back up and analyze the situation before charging forward. Up to twice per session, you may provide Help by rolling four $d6$ and group those dice into two piles of two. If addition or multiplication could make the piles equal, increase the result of the roll you are Helping by $+5$. For example, $1$, $1$, $1$, and $2$, could be grouped this way as $1×2=1+1$. |
 
 ---
 <!-- _class: ability -->
 
 | Advanced Training |
 | --- |
-| You aren't just good at what you do&mdash;you've dedicated yourself to it. Each time you bump your dice while using a $d8$ or larger, increase the result of the roll by an additional $+1$. *This Ability requires a $d8$ or larger in at least one Stat.* |
+| You aren't just good at what you do&mdash;you've dedicated yourself to it. Each time you bump your dice while using a $d8$ or larger, increase the result of the roll by an additional $+1$. *This Ability requires a $d8$ or larger in at least one Stat.* |Advanced Training
+
+Concentration and Ambidexterity Training each require and extend Advanced Training.
 
 | Concentration Training |
 | --- |
-| And your dedication is clear in the level of focus you bring to your tasks. Your rolls using a $d8$ or larger also bump when you roll a $2$ on the die. *This Ability requires and extends Advanced Training.* |
+| And your dedication is clear in the level of focus you bring to your tasks. Your rolls using a $d8$ or larger also bump when you roll a $2$ on the die. |
 
 | Ambidexterity Training |
 | --- |
-| And your studies have helped you slow down and understand your foes twice as fast. In a Monstrous Endeavor you may activate two muddle buttons per round. *This Ability requires and extends Advanced Training.* |
+| And your studies have helped you slow down and understand your foes twice as fast. In a Monstrous Endeavor you may activate two muddle buttons per round. |
 
 ---
 <!-- _class: ability -->
@@ -598,7 +620,7 @@ However, some ideas are:
 | --- |
 | During a Contest between, before either character rolls, you may spend $2$ Blessing Dice of the same worth to act synchronously with your opponent. If you do, the two of you perform your rolls at the same time. When either of you would bump, you both bump. You both still maintain your own separate roll totals. This Ability may not be used when determining Focal Actions. |
 
-## Step Five: Items
+## Items
 <!-- _class: center creation -->
 
 > *There is not an appendix of items to choose from in this game. Instead, items are narrative and help shape the course of the story.*
@@ -607,14 +629,11 @@ However, some ideas are:
 ### Character Creation: Step Five!
 <!-- _class: creation -->
 
-List **three or four items** your character always carries, within reason. These will be the items you start the game with.
+Finally, **describe your character's appearance** and list **three or four items** your character always carries, within reason. These will be the items you start the game with.
 
-### Items
-<!-- _class: rules -->
+You'll track a list of items that you typically carry with you, and other items they may have can be **determined in the moment**: Over the course of the story, you may perform Checks to **find** new items, **create** new items, **purchase and sell** items, and even see if you **already have** items that could be narratively reasonable for you to have.
 
-Each character tracks a list of items they typically carry with them, and other items they may have with them can be **determined in the moment**.
-
-Over the course of the story, characters may perform Checks to **find** new items, **create** new items, **purchase and sell** items, and even see if they **already have** items that could be narratively reasonable for them have. And while most items are narrative, some **higher quality items** you acquire along the way may provide aid or effects similar to some Abilities.
+And while most items are narrative, some **higher quality items** you acquire along the way may provide aid or effects similar to some Abilities.
 
 ### GM Guide: Creating NPCs
 <!-- _class: guide -->
@@ -805,6 +824,10 @@ All this being said, we recommend new GMs to this game use the following:
 <!-- _class: rules -->
 
 To perform a Basic Check, roll the die for the action's associated Stat. The GM will let you know which to use. If the result of the roll meets or beats the GM's target number, then the check succeeds. Otherwise, it fails.
+
+Also note, character's History Stat is used to perform actions more related to their backstory than to their other Stats. And even though each character has a History Stat, what their History covers can vary greatly.
+
+When both your History Stat and another Stat would be applicable in a situation, the GM may decide which applies more. Otherwise, you choose which to use.
 
 ### GM Guide: Setting Check Targets
 <!-- _class: guide -->
@@ -1060,6 +1083,13 @@ While you and your allies can spend Blessings to Help one another, in certain si
 These effects describe a possible failed Check or lost Contest and say to receive $+X$ in aid in response. When you do, you gain a $+X$ bonus to the roll, as though you were Helped by the situation, possibly turning the failure into a success or loss into a win.
 
 You can only receive situational aid once per roll. If multiple effects would provide situational aid during the same roll, you choose which one to use.
+
+### Overcharged Stats
+<!-- _class: rules -->
+
+Lifestyle upgrade options overcharge one or two of a character's Stats.
+
+Whenever you would fail a Check or lose a Contest while performing a Spark roll using an overcharged Stat, receive $+X$ in aid, where $X$ is the same sized die used in the Spark roll.
 
 ### Coming Prepared
 <!-- _class: rules -->

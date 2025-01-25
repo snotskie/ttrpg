@@ -34,8 +34,8 @@ section:not(.center) {
 
 /* Remove pagination corner triangle */
 section:after {
-    --color-background-paginate: transparent;
-    --color-background: transparent;
+    --color-background-paginate: var(--color-background);
+    --color-background: var(--color-background);
     font-size: 14pt;
     font-weight: bold;
 }
@@ -44,15 +44,15 @@ section:after {
 :root {
     --color-major: var(--color-foreground);
     --color-creation: #0072b2;
-    --color-guide: #4d4d4d;
+    --color-guide: #111111;
     --color-ability: #009e73;
     --color-quick: #ffd700;
-    --color-rules: #5b2c6f;
+    --color-rules: #2c3e50;
     --color-creation-2: #a6cee3;
-    --color-guide-2: #a9a9a9;
+    --color-guide-2: #555555;
     --color-ability-2: #b2df8a;
     --color-quick-2: #f0e442;
-    --color-rules-2: #d2b4de;
+    --color-rules-2: #7f8c8d;
 }
 
 section.major h1 {
@@ -63,55 +63,55 @@ section.major h1 {
 
 section.creation {
     border-left: .5in solid var(--color-creation);
-    border-image-slice: 27;
+    border-image-slice: 20;
     border-image-source: repeating-linear-gradient(
         90deg,
         var(--color-creation)   0,
-        var(--color-creation-2) .5in
+        var(--color-creation-2) 20px
     );
     padding-left: .5in;
 }
 
 section.guide {
     border-left: .5in solid var(--color-guide);
-    border-image-slice: 27;
+    border-image-slice: 20;
     border-image-source: repeating-linear-gradient(
         90deg,
         var(--color-guide)   0,
-        var(--color-guide-2) .5in
+        var(--color-guide-2) 20px
     );
     padding-left: .5in;
 }
 
 section.ability {
     border-left: .5in solid var(--color-ability);
-    border-image-slice: 27;    
+    border-image-slice: 20;    
     border-image-source: repeating-linear-gradient(
         90deg,
         var(--color-ability)   0,
-        var(--color-ability-2) .5in
+        var(--color-ability-2) 20px
     );
     padding-left: .5in;
 }
 
 section.quick {
     border-left: .5in solid var(--color-quick);
-    border-image-slice: 27;    
+    border-image-slice: 20;    
     border-image-source: repeating-linear-gradient(
         90deg,
         var(--color-quick)   0,
-        var(--color-quick-2) .5in
+        var(--color-quick-2) 20px
     );
     padding-left: .5in;
 }
 
 section.rules {
     border-left: .5in solid var(--color-rules);
-    border-image-slice: 27;    
+    border-image-slice: 20;    
     border-image-source: repeating-linear-gradient(
         90deg,
         var(--color-rules)   0,
-        var(--color-rules-2) .5in
+        var(--color-rules-2) 20px
     );
     padding-left: .5in;
 }
@@ -187,10 +187,12 @@ section.title p:last-child {
 }
 
 /* hover of h3 */
+section[data-marpit-pagination] h2 a,
 section[data-marpit-pagination] h3 a {
     color: var(--color-foreground);
 }
 
+section[data-marpit-pagination] h2 a:hover:after,
 section[data-marpit-pagination] h3 a:hover:after {
     content: " #";
 }

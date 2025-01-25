@@ -77,7 +77,7 @@ window.addEventListener("load", function(){
     });
 
     // clickable headings
-    document.querySelectorAll("h3").forEach(function(e){
+    document.querySelectorAll("h2,h3").forEach(function(e){
         const section = e.closest("section");
         const page = section.getAttribute("data-marpit-pagination");
         if (page){
@@ -115,5 +115,11 @@ window.addEventListener("load", function(){
         }
     });
 
+    // loading...
     document.body.classList.add("loaded");
+
+    // force hashes to work after loading
+    if (this.location.hash){
+        document.getElementById(location.hash.substring(1)).scrollIntoView();
+    }
 });
