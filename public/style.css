@@ -23,12 +23,8 @@ body > svg.autoscale {
 }
 
 /* loading... */
-body > svg {
+body:not(.loaded) > svg {
     display: none;
-}
-
-body.loaded > svg {
-    display: block;
 }
 
 body:not(.loaded)::after {
