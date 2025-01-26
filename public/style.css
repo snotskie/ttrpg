@@ -40,6 +40,6 @@ body:not(.loaded)::after {
 /* page breaks */
 @media not print {
     body > svg {
-        padding-bottom: 1em;
+        padding-bottom: 3px;
     }
 }

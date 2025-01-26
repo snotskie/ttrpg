@@ -204,12 +204,14 @@ section[data-marpit-pagination].ability th a:hover:before {
 }
 
 /* ability table style */
-section.ability table {
+section.ability table,
+section.guideability table {
     width: 100%;
     border: 3px solid var(--color-foreground);
 }
 
-section.ability tbody td {
+section.ability tbody td,
+section.guideability tbody td {
     border-bottom: 0 !important;
 }
 
