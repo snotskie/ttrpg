@@ -20,6 +20,13 @@ function toggleAutoscale(){
     localStorage.setItem("zoom", (localStorage.getItem("zoom")==="manual")? "auto" : "manual");
 }
 
+function restyleIndexEntry(name){
+    const parts = name.trim().split(" ");
+    const last = parts[parts.length-1];
+    const first = parts.slice(0, parts.length-1).join(" ");
+    return `${last}, ${first}`;
+}
+
 window.addEventListener("load", function(){
     // match user preferred theme
     if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches){
@@ -77,7 +84,7 @@ window.addEventListener("load", function(){
     });
 
     // clickable headings
-    document.querySelectorAll("h2,h3").forEach(function(e){
+    document.querySelectorAll("h1,h2,h3,.ability th").forEach(function(e){
         const section = e.closest("section");
         const page = section.getAttribute("data-marpit-pagination");
         if (page){
@@ -91,30 +98,38 @@ window.addEventListener("load", function(){
     });
 
     // ability index
-    var abix = document.getElementById("abix");
-    var i = 0;
+    abix_entry_map = {};
+    abix_entry_keys = [];
     document.querySelectorAll(".ability th").forEach(function(e){
         const section = e.closest("section");
         const page = section.getAttribute("data-marpit-pagination");
         if (page){
             const abix_line = document.createElement("span");
-            abix.appendChild(abix_line);
             const entry = document.createElement("span");
             abix_line.appendChild(entry);
-            entry.innerText = e.innerText.replace(" [Starter]", "");
+            entry.innerText = restyleIndexEntry(e.innerText.replace(" [Starter]", ""));
             const page_no = document.createElement("a");
             abix_line.appendChild(page_no);
             abix_line.appendChild(document.createElement("br"));
             page_no.innerText = page;
             page_no.setAttribute("aria-label", e.innerText.replace(" [Starter]", ""));
             page_no.setAttribute("href", "#" + section.getAttribute("id"));
-            ++i;
-            if (i === 53){
-                abix = document.getElementById("abix2");
-            }
+            abix_entry_map[entry.innerHTML] = abix_line;
+            abix_entry_keys.push(entry.innerHTML);
         }
     });
 
+    var i = 0;
+    var abix = document.getElementById("abix");
+    abix_entry_keys.sort();
+    for (const key of abix_entry_keys){
+        abix.appendChild(abix_entry_map[key]);
+        ++i;
+        if (i === 53){
+            abix = document.getElementById("abix2");
+        }
+    }
+    
     // loading...
     document.body.classList.add("loaded");
 

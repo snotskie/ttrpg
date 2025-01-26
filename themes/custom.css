@@ -187,14 +187,37 @@ section.title p:last-child {
 }
 
 /* hover of h3 */
+section[data-marpit-pagination] h1 a,
 section[data-marpit-pagination] h2 a,
-section[data-marpit-pagination] h3 a {
+section[data-marpit-pagination] h3 a,
+section[data-marpit-pagination].ability th a {
     color: var(--color-foreground);
 }
 
-section[data-marpit-pagination] h2 a:hover:after,
-section[data-marpit-pagination] h3 a:hover:after {
-    content: " #";
+section[data-marpit-pagination] h1 a:hover:before,
+section[data-marpit-pagination] h2 a:hover:before,
+section[data-marpit-pagination] h3 a:hover:before,
+section[data-marpit-pagination].ability th a:hover:before {
+    content: "#";
+    position: absolute;
+    left: .2in;
+}
+
+/* ability table style */
+section.ability table {
+    width: 100%;
+    border: 3px solid var(--color-foreground);
+}
+
+section.ability tbody td {
+    border-bottom: 0 !important;
+}
+
+/* dont color anchors on print */
+@media print {
+    a {
+        color: var(--color-foreground) !important;
+    }
 }
 
 /* styling that escapes marp containment */
