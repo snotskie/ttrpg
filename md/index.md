@@ -1192,6 +1192,12 @@ To perform a scrambling Contest:
 3. Repeat the above step until a character has no Stats left to roll.
 4. The final rolls performed this way are used to determine the result the Contest, with the highest roller Attacking, all other characters Defending, and the GM resolving ties. All other rolls performed this way are ignore. However, if the Attacker rolled low on one of those rolls, then their victory may have complications.
 
+Also note, if a character Sparks a roll during a scrambling Contest:
+
+- The Spark roll must involve the Stat chosen for the character to use.
+- The Spark roll may not involve a Stat the character has already rolled for that Contest.
+- The Spark roll uses up both Stats involved for that Contest.
+
 ### Coming Prepared
 <!-- _class: rules -->
 
