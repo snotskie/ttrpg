@@ -942,7 +942,10 @@ For example, when you roll your first $1$ on the die, you may decide to take ext
 ### Checks
 <!-- _class: rules -->
 
-To perform a Check, roll the die for the action's associated Stat. The GM will let you know which to use. If the result of the roll meets or beats the GM's target number, then the check succeeds. Otherwise, it fails.
+To perform a Check:
+
+1. **Roll:** Roll the die for the action's associated Stat. The GM will let you know which to use.
+2. **Outcome:** If the result of the roll meets or beats the GM's target number, then the check succeeds. Otherwise, it fails.
 
 Also note, your History Stat is used to perform actions more related to your backstory than your other Stats. When both your History Stat and another Stat would be applicable in a situation, the GM may decide which applies more. Otherwise, you choose which to use.
 
@@ -998,9 +1001,9 @@ A non-violent Contest is when a character performs an action against another cha
 
 To perform a non-violent Contest:
 
-1. The Attacker rolls the appropriate Stat.
-2. The Defender rolls the same Stat as the Attacker. If the Attacker uses a Spark roll, then the Defender may roll a Spark roll using either or both of the Stats used in the Attacker's Spark roll, so long as the Defender pays the Blessing Die cost.
-3. The action's effect is only successful if the Attacker rolls higher than the Defender. The size of the effect is determined by the difference between their scores.
+1. **Attack:** The Attacker rolls the appropriate Stat.
+2. **Defense:** The Defender rolls the same Stat as the Attacker. If the Attacker uses a Spark roll, then the Defender may roll a Spark roll using either or both of the Stats used in the Attacker's Spark roll, so long as the Defender pays the Blessing Die cost.
+3. **Outcome:** The action's effect is only successful if the Attacker rolls higher than the Defender. The size of the effect is determined by the difference between their scores.
 
 ---
 <!-- _class: rules -->
@@ -1009,11 +1012,11 @@ A violent Contest is when an Attacker performs an action against another charact
 
 To perform a violent Contest:
 
-1. The Attacker first rolls their Hurt Stat or a Spark roll that involves Hurt.
-2. The Defender rolls their Hurry Stat or Spark roll that involves Hurry, representing their immediate instinctive reaction in the scene.
-3. The action's effect is only successful if the Attacker rolls higher than the Defender. The extent of the injury is determined by the difference between their scores, regardless if that was what the Attacker intended.
-4. If the violence continues past this initial Contest, then the Attackers may choose to change tactics, such as performing a non-violent Contest to shift subsequent rounds in their favor.
-5. Additionally, Defenders may choose to respond to these continued Attacks with a greater range of options than just Hurry, such as outwitting (Head), calling on honor (Hand), destroying a part of the environment (Hand), calling for a truce (Heart), or repositioning oneself (Head or Home).
+1. **Attack:** The Attacker first rolls their Hurt Stat or a Spark roll that involves Hurt.
+2. **Defense:** The Defender rolls their Hurry Stat or Spark roll that involves Hurry, representing their immediate instinctive reaction in the scene.
+3. **Outcome:** The action's effect is only successful if the Attacker rolls higher than the Defender. The extent of the injury is determined by the difference between their scores, regardless if that was what the Attacker intended.
+4. **Additional Attacks:** If the violence continues past this initial Contest, then the Attackers may choose to change tactics, such as performing a non-violent Contest to shift subsequent rounds in their favor.
+5. **Additional Defenses:** Additionally, Defenders may choose to respond to these continued Attacks with a greater range of options than just Hurry, such as outwitting (Head), calling on honor (Hand), destroying a part of the environment (Hand), calling for a truce (Heart), or repositioning oneself (Head or Home).
 
 ---
 <!-- _class: rules -->
@@ -1033,13 +1036,13 @@ In general, rolling higher leads to bigger outcomes.
 
 Some rules refer to the "size" of an outcome, from Very Minor to Maximum, as determined by the table below.
 
-| Outcome size | Succeed a Check by rolling at most... | Win a Contest by rolling at most...more than opponent |
+| Outcome size | Succeed a Check by rolling: | Win a Contest by rolling this much more than your opponent: |
 | --- | --- | --- |
-| Very Minor | 3 | 1 |
-| Minor | 7 | 3 |
-| Medium | 11 | 5 |
-| Major | 15 | 7 |
-| Very Major | 19 | 9 |
+| Very Minor | 1&ndash;3 | 0&ndash;1 |
+| Minor | 4&ndash;7 | 2&ndash;3 |
+| Medium | 8&ndash;11 | 4&ndash;5 |
+| Major | 12&ndash;15 | 6&ndash;7 |
+| Very Major | 16&ndash;19 | 8&ndash;9 |
 | Maximum | 20 or more | 10 or more |
 
 These outcome sizes help your GM rule what happens as a result of Checks and Contests.
@@ -1157,9 +1160,10 @@ Sometimes Attacks are made that are Defended against at a later time, such as se
 
 Such delayed Attacks are performed as Contests as usual with the following adjustments:
 
-- The Attacker performs their roll, decribes what condition would activate the Attack, and writes these both down.
-- The Defender rolls against the Attacker's roll whenever the Attack would be activated.
-- The Attacker cannot activate "receive aid" effects if they are not present when the Attack is activated. The Defender can still activate "receive aid" effects as usual.
+- **Delay:** The Attacker performs their roll, decribes what condition would activate the Attack, and writes these both down.
+- **Activate:** The Defender rolls against the Attacker's roll whenever the Attack would be activated.
+
+Also note, the Attacker cannot activate "receive aid" effects if they are not present when the Attack is activated. The Defender can still activate "receive aid" effects as usual.
 
 ### Long Actions
 <!-- _class: rules -->
@@ -1183,14 +1187,18 @@ There are two approaches the GM may take to resolve long actions:
 ### Scrambling Contests
 <!-- _class: rules -->
 
-Some Contests are fast and chaotic, with both sides rapidly changing their plans and the Stats that would be involved&mdash;yet without amounting to the level of tension covered by Simultaneous Actions and Eneavors described later in this chapter.
+Some Contests are fast and chaotic, with both sides rapidly changing their plans and the Stats that would be involved&mdash;yet without amounting to the level of tension covered by Simultaneous Actions and Eneavors described later in this chapter. For example: quick bouts, fisticuffs, cartoonish outbreaks of "violence," or short and dramatic card games.
 
 To perform a scrambling Contest:
 
-1. Both sides choose a Stat to roll, as though they were Attacking.
-2. Whoever rolls highest chooses which Stats are used for the next roll. They may choose different Stats for different characters. However, they cannot choose a Stat for a character that the character has already rolled this Contest. The GM may also limit which Stats may be chosen for this Contest.
-3. Repeat the above step until a character has no Stats left to roll.
-4. The final rolls performed this way are used to determine the result the Contest, with the highest roller Attacking, all other characters Defending, and the GM resolving ties. All other rolls performed this way are ignore. However, if the Attacker rolled low on one of those rolls, then their victory may have complications.
+1. **Half-Baked Attacks:** Quickly choose a Stat to roll, as though you were Attacking. The narrative for your Attacks do not have to be fully formed&mdash;just what Stat to use. The GM may limit which Stats may be chosen for this Contest.
+2. **Scramble:** If you rolled highest, you choose how to "scramble" the Contest. Choose which Stats everyone uses for the next roll, and you may choose different Stats for different characters. You just can't choose a Stat for a character that the character has already rolled this Contest. 
+3. **Repeat:** Repeat the above step until a character has no Stats left to roll.
+4. **Final Round:** If you rolled the highest during the final round of rolls, you win the overall Contest. But if you rolled very low on any of your rolls in previous rounds, then your victory may have complications.
+5. **Outcome Size:** Narrate and determine the final outcome of the Contest. The outcome is determined using your final roll as an Attack and everyone else's rolls as a group Defense.
+
+---
+<!-- _class: rules -->
 
 Also note, if a character Sparks a roll during a scrambling Contest:
 
