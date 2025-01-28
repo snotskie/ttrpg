@@ -701,7 +701,7 @@ Background, Rousing, and Delegated Effort each require and extend Concerted Effo
 
 | Delegated Effort |
 | --- |
-| And your skills reading others helps you screen potential allies for teams that work well together. During a Clash Endeavor, your summons may perform Spark rolls by working together in pairs, using one Stat from each, so long as the chosen Stats are balanced and you pay the Blessing die cost. |
+| And your skills reading others helps you screen potential allies for teams that work well together. During a Clash Endeavor, your summons may perform Spark rolls by working together in pairs, using one Stat from each, so long as the chosen Stats are balanced and you pay the Blessing Die cost. |
 
 ---
 <!-- _class: ability -->
@@ -809,7 +809,7 @@ Concentration and Ambidexterity Training each require and extend Advanced Traini
 
 | Ambidexterity Training |
 | --- |
-| And your studies have helped you slow down and understand your foes twice as fast. In a Monstrous Endeavor you may activate two muddle buttons per round. |
+| And your studies have helped you take down your foes ever faster. In a Monstrous Endeavor, when an opponent activates a recovery or revenge button as a result of your Attack, after resolving that button it continues moving however much movement would have been prevented. |
 
 ---
 <!-- _class: ability -->
@@ -1021,7 +1021,7 @@ To perform a violent Contest:
 ---
 <!-- _class: rules -->
 
-Also note, Checks use the terms "fail" and "succeed," while Contests use "lose" and "win" instead.
+Also note, Checks use the terms "fail," "succeed," and "target," while Contests use "lose," "win," "Attack," and "Defend" instead.
 
 When an effect only mentions failing or succeeding Checks, it does not affect losing or winning Contests. And when an effect only mentions losing or winning Contests, it does not affect failing or succeeding Checks.
 
@@ -1313,86 +1313,6 @@ For example, if two characters are Attacking one another at the same time, then 
 
 For another example, two groups are competing in a battle of the bands, the *Dropkicks* and the *Blast Offffs!*, while a groupie named Sam cheers for the *Dropkicks* from the stands. First, the two groups roll Headline (a special Stat for the setting) and the groupie rolls Heart, all narrating how they attempt to act. Then only the highest of these three rolls directs the Focal Action. Let's say it's the *Dropkicks*, and with their music they attempted to summon a dragon of pure music to Attack the *Blast Offffs!*. So, the *Blast Offffs!* now Defend against that Attack, with their original plan now interrupted. Finally, as a Side Action, Sam may continue with their original plan of cheering from the stands, or they may adjust their strategy and choose a different roll in response to the outcome of the *Dropkicks*'s Attack.
 
-### Endeavors
-<!-- _class: rules -->
-
-Endeavors are multiple rounds of simultaneous actions during which the characters involved race to be the first to reach some destination, to be the first to acheive some action, to escape without being caught, to advance an objective before time runs out, or so on. Many scenes where the tension is drawn out can be run as Endeavors.
-
-Endeavors are carried out as a number of rounds in which the characters attempt actions and perform Contests and Checks to drive the narrative tension, progress themselves, and slow their opponents. Additionally, characters involved may be asked to perform Checks to overcome hazards in the environment. Each round, the narrative primarily follows a single Focal Action, then resolves smaller Side Actions before resolving hazards.
-
----
-<!-- _class: rules -->
-
-To perform an Endeavor, follow the steps for a Simultaneous Action each round, with the following additions:
-
-- **Setup:** Before the first round, the GM places a token representing each character involved in the Endeavor on a number line, starting at position $0$. Then, the GM describes the winning and losing conditions of the Endeavor, such as being the first to reach at least space $20$ at the end of a round, to have moved the furthest at the end of $3$ rounds, to be the last one standing by avoiding environmental hazards, or so on or some combination of conditions.
-- **Advantage Movement:** At the top of each round, whoever directed the Focal Action moves forward on the number line. The number of spaces they move equals the amount they just rolled. This represents the advantage gained towards their objectives as their proposed course of action directs the narrative tension. If there is a tie for highest roll, then no one gains this advantage movement, though the GM still resolves the tie to direct the Focal Action.
-
-*Continued on next page.*
-
----
-<!-- _class: rules -->
-
-- **Other Movements:** Next, resolve the Focal Action and Side Actions. For each, the winning or succeeding side moves forward, and their outcome size determines the number of spaces moved, according to the table below.
-
-| Outcome Size | Spaces Moved |
-| ------------ | ------------ |
-| Very Minor | 1 |
-| Minor | 2 |
-| Medium | 3 |
-| Major | 5 |
-| Very Major | 8 |
-| Maximum | 13 |
-
-- **Advantage Doesn't Need Success or Win:** The advantage movement a character gets from *directing* the Focal Action is separate from the movement of *resolving* the Focal Action. They get their advantage movement whether or not the Focal Action goes on to fail, succeed, win, or lose.
-
-*Continued on next page.*
-
----
-<!-- _class: rules -->
-
-- **Group Movement:** If a winning or succeeding side in any of the steps above is a group, then when they move forward an amount, they only move a total of that amount. How the group distributes this movement among its members is up to the group to decide: they may distribute the movement evenly, give it all to one member, or any other arrangement the group agrees on.
-- **Hazards:** At the end of the round, the GM may describe an environmental hazard that could affect all or some of the leading characters involved the Endeavor, asking them to perform a Check to avoid the effects.
-- **End:** Repeat rounds until the Endeavor has been won, lost, ends in a draw, or gets interrupted.
-
-### GM Guide: Simplified Focal Action Rolls
-<!-- _class: guide -->
-
-You may decide to simplify the process of determining the Focal Action by limiting the types of Stats that are applicable each round. For example:
-
-- The party is ambushed. Ambushers roll Hurt, and the ambushed roll Hurry.
-- The party is playing a game of giant magic chess. Each round, characters must roll Head or sit out from directing the Focal Action.
-- Two bands and their groupies are competing in a battle of the bands. Band members must roll Headline (a custom Stat for the setting), and groupies must sit out from directing the Focal Action.
-
-Keep in mind how your players actually think about the Endeavor and what their goals are! Simplifying the Focal Action this way removes player autonomy, but it also (a) lowers the cognitive load of thinking up a narrative for one's actions and (b) creates rules around the Endeavor that can make it feel distinct from other Endeavors in the campaign.
-
-### GM Guide: Simplified Endeavor Check Targets
-<!-- _class: guide -->
-
-Instead of determining a target for each Check in an Endeavor, for most Checks you may allow characters to automatically succeed, but then compare the size of their outcome to the effect they wanted to achieve. Based on that, award them a weaker or stronger or moreorless complete version of that intended effect.
-
-This allows you to reserve setting targets for Checks where failure would be interesting or that would change the arc of the Endeavor.
-
-If you use this approach, characters would be unable to activate "receive aid" Abilities for Checks. So, make it clear the start of the Endeavor if, for the sake of the Endeavor, such Abilities (a) always activate, even without explicit failure, or (b) never activate because of the dire pressure of the situation.
-
-### GM Guide: Multiple Number Lines
-<!-- _class: guide -->
-
-In Endeavors covering a larger playing field where it would be narratively unsatisfying for characters in different regions of the field to affect one another, you may split the Endeavor into two, at most three, number lines.
-
-Depending on the situation, characters may be able to change the number line they are on, may be able to only if they succeed a Check or pay a movement cost, or may be able to only if the situation allows.
-
-Regardless, the Endeavor still only has one Focal Action per round. What changes is that characters are limited in who they can interact with based on which number line they are on.
-
-### GM Guide: Large-Scale Endeavors
-<!-- _class: guide -->
-
-Resolving actions that occur on massive scales, such as war, democracy, alien invasion, and farming during environmental disaster, requires shifting the scale of the narrative. This may be done in a similar way through one round of an Endeavor, before shifting back to its effects on the player character scale and the actions it makes available to them.
-
-The details depend on your situation, but you may give the "sides" of the large-scale Endeavor several $d10$ and roll them as a group of dice that bump as usual, for example, $4d10$.
-
-Then use the results to improvise the narrative at that scale before returning to the view of how that large-scale narrative makes itself known at the smaller player character scale.
-
 ## Conditions
 <!-- _class: center rules -->
 
@@ -1453,61 +1373,190 @@ However, some injuries you receive may affect specific Stats, and these effects 
 > *There are a number of special types of Endeavors in this game, which add additional obstacles, actions, restrictions, and win conditions to the basic rules for Endeavors described above. Work with your GM to know which to expect in your campaign.*
 > *&mdash;snotskie*
 
-### 🛡️ Clash Endeavors
+### 
 <!-- _class: rules -->
 
-Some campaigns or sessions may involve the player characters summoning, rallying, or inspiring allies to face off against an opposing side's summoned, rallied, or inspired allies&mdash;such as soldiers in your command, athletes you are coaching, creature companions you have befriended, knights dueling as your champions, spirits you are channeling, or spectral monsters you've summoned by playing music so well!
+Some campaigns or sessions may involve a prolonged scene where the player characters race against one another or their opponents, whether it be on foot, on horseback, in sleds, in cars, or even in spaceships!
 
 These sorts of Endeavors are run like any other Endeavor, with the following additions:
 
-- **Summons:** For the sake of these rule additions, a "summon" is a character or other entity you have summoned to your side for the Endeavor, and a "summoner" is any character or group summoning others to their side. A summon is a character for the sake of wording in the rules, and they act in the Endeavor on their own, performing Check and Contest rolls as usual. And generally, a summon is considered to exist before they have been summoned to your side&mdash;"being summoned" just places them into the game's evolving story.
-- **Summons Capture:** When a summon wins a Contest against an opposing summon in a Contest, they may attempt to capture that opposing summon. And when a summon gains advantage movement, they may attempt to capture any summon.
+- **Endurance Checks:** At the end of each round, if a character spent Blessings that round, they must succeed a Check to remain in the race, representing the character's endurance to keep racing after a hard push. The target for this Check is equal to the total number of Blessings the character has spent this Endeavor.
+- **Terrain Buttons:** At the top of the first round, the GM will describe the shape of the race course, adding a number of "terrain buttons" to the number line to represent hills, brush, holes, asteroid fields, or so on that slow the racers down. The first time a character would pass a terrain button's position on the number line, they instead end that movement on the same space as the button.
 
 *Continued on next page.*
 
 ---
 <!-- _class: rules -->
 
-- **Attempting Capture:** When a summon attempts to capture an opposing summon, they move backward on the number line any amount. Then, that opposing summon performs a Check where the target is equal to the number of spaces moved backward. If they fail, they are non-lethally removed from the Endeavor. Then regardless of the Check's result, the current round immediately ends.
-- **Summoners Summon but Don't Move:**  Summoners do not have a position on the number line, but they still act in the Endeavor, performing Check and Contest rolls as usual. If a summoner would gain advantage movement, they instead add another summon on their side, placing it on the number line at position $0$. The more advantage movement a summoner would have gained, the more powerful the summon added. Any other movement a summoner would gain, such as from resolving Focal or Side Actions, they choose a summon on their side to gain that movement instead.
-- **Initial Summons:** Each summoner begins the Endeavor with two summons on their side at position $0$ on the number line. Moreover, if a summoner goes an entire round without a summon on their side, they add one at position $0$ at the end of the round.
-- **End Condition:** The end condition for the Endeavor depends on the scene in question. However, generally a summoner wins a Clash Endeavor when one of their summons reaches at least a predetermined point on the number line, or when their summons have captured at least a predetermined number of opposing summons.
+- **Escape Bonus:** If a character gains advantage movement, and they began that movement on the same space as a terrain button, they gain two bonuses to their advantage movement. First, they move forward on the number line an additional $+2$. And second, they may ignore up to one terrain button they would pass during this movement.
+- **Types of Terrain Buttons:** The GM may add multiple types of terrain buttons to the number line, representing different types of terrain obstacles for the area, such as hills, stampedes, quantum puzzles, or trolley problem moral dilemmas. When a character begins the round on a terrain button, the type of the terrain button may constrain what Stats they may roll or what actions they may take.
+
+### 
+<!-- _class: rules -->
+
+Some campaigns or sessions may involve prolonged tension where the player characters attempt to sneak past guards, escape a prison, perform a heist, or so on!
+
+These sorts of Endeavors are run like any other Endeavor, with the following additions:
+
+- **Alarm Buttons:** At the start of the Endeavor, the GM adds a number of "alarm buttons" throughout the number line. If a character ends its first movement of the round on the same space as an alarm button, then the character is "made" by the watchful eye they are trying to avoid. What happens when a character is made this way depends on the Encounter. For example, the party immediately loses when any character is made. Or after a number of times being made, the Endeavor changes. Or when a character is made, they perform a Check whose target is equal to the button's position on the number line, and the character is removed from the Endeavor if they fail that Check. Or so on.
+
+*Continued on next page.*
+
+---
+<!-- _class: rules -->
+
+- **Alarm Buttons Move:** At the end of each round, the alarm buttons move, according to some set pattern only the GM knows. Nothing happens immediately when an alarm button ends its movement in the same space as a character. However, if a character chooses to sit out from directing the Focal Action while sharing a space with an alarm button, then the chatacter is made just as though they had moved onto it.
+- **Failed Checks Increase Alertness:** When a character fails a Check or loses a Contest while resolving a Focal Action or Side Action, the "alertness" of the Endeavor increases, represented by an additional alarm button being added to the number line.
+- **Negative Help:** When a character receives Help, they may choose to subtract the bonus from their roll instead of adding it as usual.
+
+## Endeavors
+<!-- _class: center rules -->
+
+> *There are a number of special types of Endeavors in this game, which add additional obstacles, actions, restrictions, and win conditions to the basic rules for Endeavors described above. Work with your GM to know which to expect in your campaign.*
+> *&mdash;snotskie*
+
+### General Endeavor Rules
+<!-- _class: rules -->
+
+Sometimes, the player characters will need to race to be the first to reach some destination, to be the first to acheive some action, to escape without being caught, to advance an objective before time runs out, or so on! Many such scenes where the tension is drawn out can be run as Endeavors.
+
+Endeavors are carried out as a number of rounds in which the characters attempt actions and perform Contests and Checks to drive the narrative tension, progress themselves, and slow their opponents.
+
+Different types of Endeavors build on these same general rules:
+
+- **Roll:** At the start of each round, choose a Stat to roll. The narrative for your rolls do not have to be fully formed, just what Stat to use. The GM may limit which Stats you can choose from in certain situations.
+- **Actions:** Endeavors describe a set of actions characters may choose from when it is their turn to act. Some actions use your roll from the start of the round, some have other characters roll a new value, and some ignore these rolls altogether. The GM may limit the actions you can choose from in certain situations.
+- **Special Actions:** Some actions have the **[Special Action]** label. You may only use these actions if you rolled the highest at the start of the round.
+
+*Continued on next page.*
+
+---
+<!-- _class: rules -->
+
+- **Turn Order:** After rolls are made for the round, whoever rolled highest acts first, using a special action if they wish. Then, all other characters act in order from lowest roll and up.
+- **Interruptions:** Each round you may only take one action. Additionally, if you are Attacked by an opponent, then you lose your action for the round.
+- **Movement:** Endeavors use a number line to track character positions, scores, progress towards goals, or so on. The Endeavor's setup instructions will describe where characters begin on the number line and its actions will describe when and how you move.
+- **Group Movement:** If a winning or succeeding side in any of the steps above is a group, then when they move forward an amount, they only move a total of that amount. How the group distributes this movement among its members is up to the group to decide: they may distribute the movement evenly, give it all to one member, or any other arrangement the group agrees on.
+- **Buttons:** Endeavors add a number of buttons to the number line. There are two types of buttons, personal and global. Personal buttons can only be activated by the character who added them, whereas global buttons can be activated by any character. If an Endeavor uses buttons, it will describe how each is activated and the effect that happens as a result.
+
+### GM Guide: Simplified Endeavor Rolls
+<!-- _class: guide -->
+
+Occassionaly limiting the Stats that are applicable each round can help provide structure and flavor for your Endeavors. For example:
+
+- The party is ambushed. Ambushers roll Hurt, and the ambushed roll Hurry.
+- The party is playing a game of giant magic chess and each round must roll Head or Hand.
+- Two bands and their groupies are competing in a battle of the bands. Band members must roll Headline, and groupies must roll something else.
+- An avalanche occurs mid-Endeavor. All characters must roll Hurry. Anyone who fails to clear a threshold cannot act this round.
+
+In any case, keep in mind how your players actually think about the Endeavor and what their goals are!
+
+Simplifying Endeavor rolls this way removes player autonomy, but it also (a) lowers the cognitive load of thinking up a narrative for one's actions and (b) creates rules around the Endeavor that can make it feel distinct from other Endeavors in the campaign.
+
+### GM Guide: Simplified Endeavor Check Targets
+<!-- _class: guide -->
+
+Instead of determining a target for each Check in an Endeavor, for most Checks you may allow characters to automatically succeed, but then compare the size of their outcome to the effect they wanted to achieve. Based on that, award them a weaker or stronger or moreorless complete version of that intended effect.
+
+This allows you to reserve setting targets for Checks where failure would be interesting or that would change the arc of the Endeavor.
+
+If you use this approach, characters would be unable to activate "receive aid" Abilities for Checks. So, make it clear the start of the Endeavor if, for the sake of the Endeavor, such Abilities (a) always activate, even without explicit failure, or (b) never activate because of the dire pressure of the situation.
+
+### GM Guide: Multiple Number Lines
+<!-- _class: guide -->
+
+In Endeavors covering a larger playing field where it would be narratively unsatisfying for characters in different regions of the field to affect one another, you may split the Endeavor into two, at most three, number lines.
+
+Depending on the situation, characters may be able to change the number line they are on, may be able to only if they succeed a Check or pay a movement cost, or may be able to only if the situation allows.
+
+Regardless, the Endeavor still only has one Focal Action per round. What changes is that characters are limited in who they can interact with based on which number line they are on.
+
+### GM Guide: Large-Scale Endeavors
+<!-- _class: guide -->
+
+Resolving actions that occur on massive scales&mdash;such as war, democracy, alien invasion, and farming during environmental disaster&mdash;requires shifting the scale of the narrative.
+
+This may be done in an Endeavor by spending one round at the large-scale action before shifting back to its effects on the player character scale and the actions it makes available to them for the next several rounds.
+
+The details depend on your situation, but you may give the "sides" of the large-scale Endeavor several $d10$ and roll them as a group of dice that bump as usual, for example, $4d10$.
+
+Then use the results to improvise the narrative at that scale before returning to the view of how that large-scale narrative makes itself known at the smaller player character scale.
+
+### 🛡️ Clash Endeavors
+<!-- _class: rules -->
+
+Some campaigns or sessions may involve the player characters summoning, rallying, or inspiring allies to face off against an opposing side's summoned, rallied, or inspired allies&mdash;such as soldiers in your command, athletes you are coaching, creature companions you have befriended, knights dueling as your champions, spirits you are channeling, or spectral monsters you've summoned by playing music so well!
+
+- **Setup:** You, your allies, and your opponents do not have a position. Instead, both sides begin the Endeavor with two "summons" on their side at position $0$. A "summon" is a character or other entity you have summoned to your side for the Endeavor, and a "summoner" is any character or group summoning others to their side. A summon is a character for the sake of wording in the rules, and generally a summon is considered to have existed before they were summoned to your side&mdash;"being summoned" just places them into the game's evolving story.
+- **Goal:** How you win depends on the scene in question. It could be when one of your summons activates a certain number of victory buttons or when you've captured enough of the opposing side's summons.
+
+*Continued on next page.*
+
+---
+<!-- _class: rules -->
+
+- **Actions:** There are a number of actions that summons and summoners may choose from during the Endeavor, described in the Summon Action and Summoner Action tables below. At GM discretion, some summons' Abilities may grant them additional actions.
+- **Buttons:** Some Clash Endeavors begin with a number of victory buttons, described in the Button table below.
+
+| Summon Action | Description |
+| ------------- | ----------- |
+| Perform&nbsp;an Attack | Use your roll to perform an Attack against an opposing summon who has not acted this round. They roll a new value to Defend with. Whoever loses this Contest moves down by the amount they lost by. |
+| Perform&nbsp;a Check | Use your roll to perform a Check to advance your team's objectives. Move up equal to half your roll, rounded down. |
+| Attempt&nbsp;a Capture | [Special Action] Move up equal to half your roll, rounded down. Then choose an opposing summon and move yourself down any amount. That opposing summon then rolls a new value to Defend against the number of spaces you moved down. If they lose this Contest, they are "captured" and removed from the Endeavor. |
+
+---
+<!-- _class: rules -->
+
+| Summoner Action | Description |
+| --------------- | ----------- |
+| Perform&nbsp;a Check | Use your roll to perform a Check to advance your team's objectives. Move one of your summons up equal to half your roll, rounded down. |
+| Provide Help | Ignore your roll. Choose one of your summons who has not acted this round to form a group with. On their action, you may provide Help to increase their roll. |
+| Summon&nbsp;an Ally | [Special Action] Use your roll to perform a Check to call a new summon to your side at position $0$. The larger the outcome size of this Check, the more powerful the summon called |
+
+| Button | Description |
+| ------ | ----------- |
+| Victory | *Type:* Global. *Activation:* Activate this button when you move over it. *Effect:* End your movement and remove this button. |
 
 ### GM Guide: Stats for Summons
 <!-- _class: guide -->
 
-For simplicity, Summons may use Stats similar to how Monstrosities use them. You may use the following table as a starting point for converting advantage movement gained to summon Stats.
+For simplicity, Summons may use Stats similar to how Monstrosities use them. You may use the following table as a starting point for converting rolls to summon Stats.
 
-| Advantage movement | Description |
-| ------------ | ----------- |
+| Roll | Description |
+| ---- | ----------- |
 | $3$ or less | Summon fails. |
-| $4$ to $7$ | Summon uses $d2$ for Stats. |
+| $4$ to $7$ | Summon uses $d4$ and $d2$ for Stats. |
 | $8$ to $11$ | Summon uses $d4$ for Stats. |
-| $12$ to $15$ | Summon uses $d6$ for Stats. Or, summon uses $d4$ and has an extra Ability. |
-| $16$ to $19$ | Summon uses $d8$ for Stats. Or, summon uses $d6$ and has an extra Ability. |
-| $20$ or more | Summon uses $d10$ for Stats. Or, summon uses $d8$ and has an extra Ability. Or, summon uses $d6$ and has two extra Abilities. |
+| $12$ to $15$ | Summon uses $d6$ and $d4$ for Stats. Or, summon uses $d4$ and has an extra Ability. |
+| $16$ to $19$ | Summon uses $d8$ and $d6$ for Stats. Or, summon uses $d6$ and has an extra Ability. |
+| $20$ or more | Summon uses $d10$ and $d8$ for Stats. Or, summon uses $d8$ and $d6$ and has an extra Ability. Or, summon uses $d6$ and has two extra Abilities. |
 
 You may also allow your players to determine their "pool" of summons ahead of time through roleplay, if it makes sense for the campaign setting.
 
-In any case, getting summons their Stats and onto the number line should be a *quick* process.
+In any case, giving summons their Stats and getting them onto the number line should be a *quick* process.
 
 ### 🔎 Discovery Endeavors
 <!-- _class: rules -->
 
 Some campaigns or sessions may involve a prolonged scene where the player characters explore a mansion for clues, search through the rubble of a crashed spaceship, delve into a dungeon, or so on!
 
-These sorts of Endeavors are run like any other Endeavor, or added into any other Endeavor, with the following additions:
-
-- **Lay of the Land:** At the top of the first round, the GM will provide the lay of the land of the environment the characters are exploring, such as what rooms are available and how they relate. As the Endeavor progresses, additional areas may become available, each with their own number line and lay of the land. 
-- **Glimmer Buttons:** When the GM gives a lay of the land, a number of "glimmer buttons" are added throughout the number line. When the movement of a character moves over one of these points on the number line, that character may attempt to interact with that glimmer button. If a character would activate multiple glimmer buttons in one round, that character instead chooses just one to activate.
-
-*Continued on next page.*
+- **Setup:** You and your allies begin at position $0$. At the top of the first round, the GM will provide the lay of the land of the environment you're exploring, such as what rooms are available and how they relate. As the Endeavor progresses, additional areas may become available, each with their own number line and lay of the land. 
+- **Goal:** Exploration.
+- **Actions:** There are two normal actions and one special action you and your allies may choose from during the Endeavor, described in the Action table below.
+- **Buttons:** When the GM gives a lay of the land, a number of glimmer buttons of will be added, described in the Button table below. The GM may add multiple types of glimmer buttons to the number line, representing different types of discoveries for the area, such as items, information, social interactions, or further areas to explore.
 
 ---
 <!-- _class: rules -->
 
-- **Interacting with Glimmer Buttons:** To interact with a glimmer button and gain the discovery associated with it, a character must succeed a Check. The target for this Check is equal to the glimmer button's position on the number line. If the character's most recent roll in the Endeavor would have met this target, then the character automatically succeeds this Check. This Check is considered an extension to the character's current course of action and does not provide additional movement toward the Endeavor. When this Check is succeeded, the glimmer button is removed from the number line. It may also be removed when the Check is failed, at GM's discretion.
-- **Types of Glimmer Buttons:** The GM may add multiple types of glimmer buttons to the number line, representing different types of discoveries for the area, such as items, information, social interactions, or further areas to explore.
+| Action | Description |
+| ------ | ----------- |
+| Perform&nbsp;a Check | Use your roll to perform a Check to advance your team's objectives. Move up equal to half your roll, rounded down. You may choose to end this movement early. |
+| Provide Help | Ignore your roll. Choose an ally who has not acted this round to form a group with. On their action, you may provide Help to increase their roll. |
+| Inspect&nbsp;a Glimmer | **[Special Action]** Move up equal to your roll. You may choose to end this movement early. If you activate a glimmer button this round with a Check related to your roll, you may use your roll for the Check instead of rolling a new value. |
+
+| Button | Description |
+| ------ | ----------- |
+| Glimmer | *Type:* Global. *Activation:* You may activate this button when you end your turn on it. *Effect:* Remove this button and perform any Checks or other actions associated with it. If this button has a Check, roll a new value for the Check, and the target for the Check will be equal to the glimmer button's position. |
 
 ### GM Guide: Preparing Glimmer Buttons
 <!-- _class: guide -->
@@ -1536,126 +1585,83 @@ Then, improvise following your players' choices. For example, when they decide t
 - What item, result, or information could be given for free based on the character's Focus?
 - If the character will need to roll a new Check to interact with the glimmer, what Stat can you ask them to roll that will add new detail to the scene without being the same Stat they just rolled?
 
+
+
 ### 🧟 Monstrous Endeavors
 <!-- _class: rules -->
 
 Some campaigns or sessions may involve the player characters and their allies facing off against Monstrosities, like zombies, robots, or the manifestation of someone's fear!
 
-These sorts of Endeavors are run like any other Endeavor, with the following additions:
+- **Setup:** You and your allies begin at position $0$. Your opponents begin higher up, each add defeat buttons at position $0$, and each add recovery buttons somewhere else. Stronger opponents begin further from $0$, may have Abilities, and may enter the Endeavor with Blessing Dice of their own.
+- **Goal:** To win, move all your opponents to position $0$ without your team being captured first.
+- **Actions:** There are three normal actions and one special action you and your allies may choose from during the Endeavor, described in the Player Action table below. Your opponents also have a number of actions, described in the Monstrosity Action table below. Some Monstrosity's Abilities grant them additional actions.
+- **Buttons:** Your opponents enter the Endeavor with a number of buttons, described in the Monstrosity Button table below.
 
-- **Muddle Buttons:** When each Monstrosity joins the Endeavor, it adds one or more "muddle buttons" to the number line. When the movement of a player character or one of their allies moves over one of these points on the number line, that Monstrosity is Muddled for the next round, representing a momentary crack in the Monstrosity's defenses&mdash;literally or figuratively. Then, the button is removed. If a player character or one of their allies would activate multiple muddle buttons in one round, that character instead chooses just one to activate. Be warned though, as some Monstrosities have Abilities that grow in power the more times they've been muddled this way!
-- **Stamina:** Each Monstrosity has an amount of "stamina." At the end of each round, if the player characters and their allies have a combined value on the number line equal to or greater than a Monstrosity's stamina, those characters may move backwards on the number line a total amount equal to the Monstrosity's stamina. If they do, they non-lethally remove that Monstrosity from the Endeavor and narrate what happens.
+---
+<!-- _class: rules -->
+
+| Player Action | Description |
+| ------------- | ----------- |
+| Perform&nbsp;an Attack | Use your roll to perform an Attack against an opponent who has not acted this round. They roll a new value to Defend with. Whoever loses this Contest moves down by the amount they lost by. |
+| Perform&nbsp;a Check | Use your roll to perform a Check to advance your team's objectives. Move up equal to half your roll, rounded down. |
+| Provide Help | Ignore your roll. Choose an ally who has not acted this round to form a group with. On their action, you may provide Help to increase their roll. |
+| Perform&nbsp;a Combo | **[Special Action]** Move up equal to your roll. Then, you and your allies may move down any total amount. Choose an opponent to move down by that same total amount. Allies who move down with you may not act this round. |
+
+---
+<!-- _class: rules -->
+
+| Monstrosity Action | Description |
+| ------------------ | ----------- |
+| Perform&nbsp;an Attack | Use your roll to perform an Attack against an opponent who has not acted this round. They roll a new value to Defend with. Whoever loses this Contest moves down by the amount they lost by. |
+| Perform&nbsp;a Capture | **[Special Action]** Ignore your roll. Choose an opponent at position $0$ to roll a new value to Defend against your Capture Roll with. If they lose, they are unable to act for the rest of the Endeavor. At the end of later rounds, they may attempt to Defend against your Capture Roll again to end this effect early. |
+
+---
+<!-- _class: rules -->
+
+| Monstrosity Button | Description |
+| ------------------ | ----------- |
+| Recovery | *Type:* Personal. *Activation:* Activate this button when you move over it. *Effect:* End your movement, remove this button, and return to your starting position. |
+| Revenge | *Type:* Personal. *Activation:* Activate this button when you move over it. *Effect:* End your movement, remove this button, and immediately use Perform an Attack against an opponent who caused you to move down this round, even if you or the opponent have already acted this round. |
+| Defeat | *Type:* Personal. *Activation:* Activate this button when you move over it. *Effect:* End your movement, remove this button, and you are unable to act for the rest of the Endeavor. |
 
 ### GM Guide: Monstrous Stats
 <!-- _class: guide -->
 
-Instead of a number of Stat Dice, a Monstrosity typically has a single die shared by all their Stats.
-
-A $d10$ is the strongest Stat Die a Monstrosity can have, and the player characters will, in just a few sessions, catch up to this point.
-
-For higher level Endeavors, you may give your Monstrosities Abilities, choosing from the following or creating your own.
-
-Additionally, you may have your Monstrosities enter Endeavors with a number of Blessings.
-
-### GM Guide: Monstrous Abilities
-<!-- _class: guide guideability -->
-
-All Monstrosities have the Capture Ability.
-
-| Capture |
-| --- |
-| When you gain advantage movement, you may move backward on the number line any amount. If you do, choose an opponent. That opponent then performs a Check where the target is equal to the number of spaces you moved backward. If they fail, you non-lethally remove that opponent from the Endeavor and advance toward your objectives. Then regardless of the Check's result, the current round immediately ends. At the end of subsequent rounds, that opponent may attempt this Check again to re-enter the Endeavor. |
+- **Stats:** A Monstrosity's has only two Stat Dice, a higher dice (HD) shared between all their strongest Stats and a lower die (LD) shared between all the rest.
+- **Defenses:** A Monstrosity also has a starting position (SP) and one or two recovery buttons (RB). For compactness, if a Monstrosity is said to have an RB of $5$, then it enters with a recovery button at $5$ below its starting position. Together, these represent a Monstrosity's defenses, similar to the concept of "hit points" and "shields" used in other games.
+- **Offenses:** A Monstrosity has a Capture Roll (CR) value. When a Monstrosity uses Perform a Capture, instead of rolling for the Attack, it automatically rolls its CR value. This provides a more consistent difficulty level. A Monstrosity may also have one or two Abilities that provide additional offensive actions.
+- **Resources:** Finally, a Monstrosity may enter the Endeavor with a number of Blessing Dice (B). These are only used by a Monstrosity to provide Help or Spark a roll.
 
 ---
-<!-- _class: guide guideability -->
-
-You may also give your Monstrosities any of the following Monstrous Abilities or create your own. These Abilities are listed in a rough order from "weakest" to "strongest."
-
-It is also recommended that you do not give your Monstrosities many Abilities&mdash;one or two well-placed Abilities are plenty to make a Monstrosity memorable! Consider adding multiple Monstrosities to a Monstrous Endeavor that have complementary skills to create sessions that feel engaging and strategic. And for Monstrosities that use "magic" or wield some other kind of powerful force, we recommend using the Spark Rush $X$ Ability, flavoring it for the occasion.
-
-| Resistance vs. $X$ |
-| --- |
-| When you would lose against an Attack involving $X$, receive $+d2$ in aid. |
-
-| Revenge |
-| --- |
-| When you become Muddled, you may immediately perform an Attack against the character that Muddled you, as though this Contest were a Side Action, even if you or the Defender have already acted this round. |
-
-| Shield vs. $X$ |
-| --- |
-| When you succeed a Home Check during an Endeavor, you may have you and your allies receive Resistance vs. $X$ for a number of rounds equal to the number of spaces you moved forward as a result of the Check, to a maximum of $3$ rounds. Recharge: ②. |
-
----
-<!-- _class: guide guideability -->
-
-| Flatten |
-| --- |
-| When you succeed a Hand Contest against an opponent during an Endeavor, you may have that opponent move backwards a number of spaces equal to the number of spaces you moved forward as a result of the Contest. Recharge: ③. |
-
-| Debilitate $X$ |
-| --- |
-| Perform a $X$ Contest against an opponent. The amount you move forward as a result of this Contest, that opponent's $X$ rolls are made with a $-1$ modifier for that many rounds. Recharge: ②. |
-
-| Propel |
-| --- |
-| When rolling to direct the Focal Action, you may exchange the result of your own roll with that of an ally who rolled lower than you. Recharge: ②. |
-
-| Clarity |
-| --- |
-| When you succeed a Home Check during an Endeavor, you may have the muddle buttons of your allies move forward a number of spaces equal to the number of spaces you moved forward as a result of the Check. Recharge: ③. |
-
-| Immunity vs. $X$ |
-| --- |
-| When you would lose against an Attack involving $X$, you instead win by $1$. |
-
----
-<!-- _class: guide guideability -->
-
-| Inspire |
-| --- |
-| When you succeed a Hurry Check during an Endeavor, you may choose an ally and have their next roll to direct the Focal Action increase by $+3$ or by a number equal to the amount you moved forward as a result of the Check, whichever is lower. Recharge: ④. |
-
-| Curse |
-| --- |
-| Perform a Head Contest against an opponent. The amount you move forward as a result of this Contest, the opponent is Cursed by you for that many rounds. (When you see that opponent perform a roll, you may choose to have them reroll it and take the new value, then the Curse ends. Otherwise, the Curse ends when that many rounds have passed.)  Recharge: ③. |
-
-| Mirror vs. $X$ |
-| --- |
-| When you succeed a Home Check during an Endeavor, you may have you and your allies receive Immunity vs. $X$ for a number of rounds equal to the number of spaces you moved forward as a result of the Check, to a maximum of $3$ rounds. Recharge: ⑥. |
-
-| Spark Rush $X$ |
-| --- |
-| Perform a Check. The amount you move forward as a result of this Check, for that many rounds, to a maximum of $3$ rounds, you may Spark using $2dcX$. Recharge: Ⓧ. |
-
----
-<!-- _class: guide guideability -->
-
-| Empower |
-| --- |
-| When you succeed a Home Check during an Endeavor, you may have you and your allies gain a $+1$ bonus to rolls for a number of rounds equal to the number of spaces you moved forward as a result of the Check, to a maximum of $3$ rounds. Recharge: ③. A character may only benefit from one instance of this Ability at a time. |
-
-| Fervor |
-| --- |
-| When you succeed a Heart Check during an Endeavor, you may have you and your allies receive Revenge for a number of rounds equal to the number of spaces you moved forward as a result of the Check, to a maximum of $3$ rounds. Recharge: ⑥. |
-
-| Unrelenting |
-| --- |
-| At the end of each round, move forward a number of spaces equal to the number of times you've been Muddled. |
-
-| Merciless |
-| --- |
-| At the end of each round, gain a number of Blessings equal to the number of times you've been Muddled. |
-
-### GM Guide: Balanced Monstrosities
 <!-- _class: guide -->
 
-As another starting point, the following relationships between the parts of a Monstrosity's build tend to produce balanced, mechanically familiar builds:
+The following tables provide a starting point for creating Monstrosities at different tiers of play:
 
-- Stat Die ($C$) ranges from $2$ to $10$, with Stat Dice maxing out around the 33% mark of a campaign.
-- The number of Blessings ($B$) a Monstrosity starts Endeavors with range from $0$ to $20$, with "everyday" Monstrosities starting to get Blessings around the 33% mark of a campaign, and maxing out toward the end of the campaign. For Monstrosities that have a "squad leader" feel earlier in the campaign, give them $1$ or $2$ Blessings.
-- Stamina ($S$) is typically $5 \times C$, but ranging from roughly $3 \times C$ to $8 \times C$. Stamina around the low end of this range gives a "squishier" feel to the Monstrosity, and Stamina around the high end gives a "tankier" feel. For Monstrosities with an "arc boss" feel, give them closer to $5 \times (B+C)$.
-- Almost all Monstrosities have only a single muddle button, placed on the number line at a point ranging from around $S/5$ to $S/2$. Muddle button positions around the low end of this range give an "unprotected" feel, and positions around the high end give an "armored" feel. Also, pairing a low muddle button position with the Revenge ability gives a "hair trigger" feel.
-- For Monstrosities with an "arc boss" feel, give them multiple evenly spaced muddle buttons, paired with Unrelenting or Merciless.
+| Difficulty | HD | LD | SP | RB | CR | B |
+| ---------- | -- | -- | -- | --- | -- | - |
+| Very Easy | $d4$ | $d2$ | $10$ to $15$ | $5$ to $10$ | $4$ | $0$ |
+| Easy | $d6$ | $d4$ | $15$ to $20$ | $5$ to $15$ | $6$ | $0$ |
+| Medium | $d6$ | $d4$ | $15$ to $20$ | $5$ to $15$ | $8$ | $0$ |
+| Hard | $d8$ | $d6$ | $20$ to $25$ | $5$ to $15$ | $10$ | $3$ |
+| Very Hard | $d8$ | $d6$ | $20$ to $30$ |$15$ to $20$ | $12$ | $3$ |
+| Trial | $d10$ | $d8$ | $20$ to $30$ | $5$ to $10$ and $15$ to $20$ | $14$ | $5$ |
+
+| Difficulty | Ability | Description |
+| ---------- | ------- | ----------- |
+| Easy | Resistance | When you would lose a Contest against the type of effect you have resistance against, receive $+d2$ in aid. |
+| Medium | Propel | You gain the action: If you rolled Hand or Hurry, before the highest roller is determined, you may exchange your roll value with one of your allies. |
+| Medium | Revenge | You begin the Endeavor with a Revenge button at $3$ below your starting position. |
+
+---
+<!-- _class: guide -->
+
+| Difficulty | Ability | Description |
+| ---------- | ------- | ----------- |
+| Hard | Drain | If you rolled Heart or Hurt, you may use your roll to use Perform an Attack. If you win the Contest, move up by half the amount you won the Contest by, rounded down, up to a maximum of your starting position. |
+| Hard | Shield | You gain the action: **[Special Action]** If you rolled Head or Home, your allies gain Resistance for a number of turns equal to half your roll rounded down. |
+| Very Hard | Fervor | You gain the action: **[Special Action]** If you rolled Heart or Hurt, your allies each gain a Revenge button at $3$ below their current position. |
+| Very Hard | Immunity | When you would lose a Contest against the type of effect you have immunity against, you succeed by $1$ instead. |
+| Trial | Unrelenting | At the end of each round, perform a new roll and use Perform an Attack for each time you've activated a recovery button. |
 
 ### GM Guide: Spoils
 <!-- _class: guide -->
@@ -1666,65 +1672,9 @@ Additionally, at the end of a Monstrous Endeavor, you may permit your players to
 
 These narratively reflective moments after a Monstrous Endeavor can be a great chance to rebalance the narrative tension while giving your players agency in thinking about where the story goes next.
 
-### GM Guide: Experience Points
-<!-- _class: guide -->
-
-You do not need to use experience points (XP) in your campaign, but if you do, we recommend the following:
-
-- A Monstrosity's XP ranges according to the following table.
-- Total the XP for all Monstrosities in the Endeavor to get the Endeavor's XP.
-- Track the Endeavor XP high score the party has achieved. This is instead of tracking the total of all XP ever gained, as is common in many combat-based RPGs.
-- When the party gains a new Endeavor XP high score, award them a total prize relative to the *increase* in that high score from its previous value. For example, when the party increases their high score from $3$ to $6$, you might award them $3$ Blessings divided among them.
-
-This approach allows you to represent larger spoils consistently for larger-feeling Endeavors, while not outpacing the game's linear progression system (the Session Shop).
-
----
-<!-- _class: guide -->
-
-| XP | Description |
-| -- | ----------- |
-| $(B + C)/2$ | Monstrosity feels underpowered for the current tier of play |
-| $B + C$ | Monstrosity feels about right for a typical foe at this tier of play |
-| $2 \times (B + C)$ | Monstrosity feels a little more powered than its peers, such as having a higher Muddle button or more Abilities than the typical foe at that tier of play |
-| $3 \times (B + C)$ | A surprising strong foe for this tier of play, a trial to be overcome but not an arc boss |
-| $4 \times (B + C)$ | An arc boss |
-| $5 \times (B + C)$ | Endgame |
-
 ### 🏇 Race Endeavors
-<!-- _class: rules -->
-
-Some campaigns or sessions may involve a prolonged scene where the player characters race against one another or their opponents, whether it be on foot, on horseback, in sleds, in cars, or even in spaceships!
-
-These sorts of Endeavors are run like any other Endeavor, with the following additions:
-
-- **Endurance Checks:** At the end of each round, if a character spent Blessings that round, they must succeed a Check to remain in the race, representing the character's endurance to keep racing after a hard push. The target for this Check is equal to the total number of Blessings the character has spent this Endeavor.
-- **Terrain Buttons:** At the top of the first round, the GM will describe the shape of the race course, adding a number of "terrain buttons" to the number line to represent hills, brush, holes, asteroid fields, or so on that slow the racers down. The first time a character would pass a terrain button's position on the number line, they instead end that movement on the same space as the button.
-
-*Continued on next page.*
-
----
-<!-- _class: rules -->
-
-- **Escape Bonus:** If a character gains advantage movement, and they began that movement on the same space as a terrain button, they gain two bonuses to their advantage movement. First, they move forward on the number line an additional $+2$. And second, they may ignore up to one terrain button they would pass during this movement.
-- **Types of Terrain Buttons:** The GM may add multiple types of terrain buttons to the number line, representing different types of terrain obstacles for the area, such as hills, stampedes, quantum puzzles, or trolley problem moral dilemmas. When a character begins the round on a terrain button, the type of the terrain button may constrain what Stats they may roll or what actions they may take.
 
 ### 💣 Stealth Endeavors
-<!-- _class: rules -->
-
-Some campaigns or sessions may involve prolonged tension where the player characters attempt to sneak past guards, escape a prison, perform a heist, or so on!
-
-These sorts of Endeavors are run like any other Endeavor, with the following additions:
-
-- **Alarm Buttons:** At the start of the Endeavor, the GM adds a number of "alarm buttons" throughout the number line. If a character ends its first movement of the round on the same space as an alarm button, then the character is "made" by the watchful eye they are trying to avoid. What happens when a character is made this way depends on the Encounter. For example, the party immediately loses when any character is made. Or after a number of times being made, the Endeavor changes. Or when a character is made, they perform a Check whose target is equal to the button's position on the number line, and the character is removed from the Endeavor if they fail that Check. Or so on.
-
-*Continued on next page.*
-
----
-<!-- _class: rules -->
-
-- **Alarm Buttons Move:** At the end of each round, the alarm buttons move, according to some set pattern only the GM knows. Nothing happens immediately when an alarm button ends its movement in the same space as a character. However, if a character chooses to sit out from directing the Focal Action while sharing a space with an alarm button, then the chatacter is made just as though they had moved onto it.
-- **Failed Checks Increase Alertness:** When a character fails a Check or loses a Contest while resolving a Focal Action or Side Action, the "alertness" of the Endeavor increases, represented by an additional alarm button being added to the number line.
-- **Negative Help:** When a character receives Help, they may choose to subtract the bonus from their roll instead of adding it as usual.
 
 # Quick Reference
 <!-- _class: center major quick -->
