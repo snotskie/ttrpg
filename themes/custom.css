@@ -125,17 +125,14 @@ button, label {
     padding: 1em;
     margin-bottom: .5em;
     display: inline-block;
-}
-
-button {
-    background: var(--color-foreground);
-    color: var(--color-background);
+    background: var(--color-background);
+    color: var(--color-foreground);
     border-color: var(--color-foreground);
 }
 
-label {
-    background: var(--color-background);
-    color: var(--color-foreground);
+button.fliptheme, label.fliptheme {
+    background: var(--color-foreground);
+    color: var(--color-background);
     border-color: var(--color-foreground);
 }
 
@@ -219,6 +216,28 @@ section.guideability tbody td {
 @media print {
     a {
         color: var(--color-foreground) !important;
+    }
+}
+
+/* b&w for printing */
+@media print {
+    section.bw {
+        --color-foreground: black;
+        --color-background: white;
+        --color-highlight: black;
+        border-left: none !important;
+    }
+
+    section.bw:not(.title){
+        padding-left: 1in !important;
+    }
+
+    section.bw figure {
+        background: none !important;
+    }
+
+    section.bw img.emoji {
+        display: none;
     }
 }
 

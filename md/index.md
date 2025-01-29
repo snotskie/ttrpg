@@ -1,7 +1,7 @@
 ---
 marp: true
 lang: en-US
-title: Humanity, Blessed: TTRPG
+title: "Humanity, Blessed: TTRPG, CC BY:NC:ND Version"
 theme: custom
 size: a4
 paginate: true
@@ -15,6 +15,10 @@ headingDivider: 3
 ![bg left](bg.jpg)
 
 A tabletop roleplaying game
+
+CC BY:NC:ND Version
+
+{{ TAG }}
 
 snotskie.
 
@@ -33,11 +37,13 @@ DOI: 10.5281/zenodo.14673714
 
 Cover typography: Bebas Neue, by Ryoichi Tsunekawa
 
-<button onclick="toggleModes()">Toggle Light/Dark Mode</button>
+<button class="fliptheme" onclick="toggleModes()">Toggle Light/Dark Mode</button>
 
 <label for="guide-hider">Toggle GM Guide <input id="guide-hider" type="checkbox" onchange="toggleGuides()" /></label>
 
 <label for="autoscaler">Toggle Autoscale <input id="autoscaler" type="checkbox" onchange="toggleAutoscale()" /></label>
+
+<button onclick="bwprint()">Friendly Print 🖨️</button>
 
 ---
 <!-- _class: center -->

@@ -2,9 +2,12 @@
 name: GitHub Pages
 
 on:
-  push:
-    branches:
-      - main
+  release:
+    types:
+        - published
+  # push:
+  #   branches:
+  #     - main
 
   workflow_dispatch:
 
@@ -44,6 +47,9 @@ jobs:
 
           # Recommend to set lang for your deck to get better rendering for Open Graph image
           LANG: en-US
+
+          # The release version
+          TAG: ${{ github.event.release.tag_name }}
 
       - name: Upload page artifacts
         uses: actions/upload-pages-artifact@v3

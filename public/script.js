@@ -4,6 +4,30 @@ function toggleModes(){
     );
 }
 
+function bwbeforeprint(){
+    document.querySelectorAll('section').forEach(
+        (e) => e.classList.add('bw')
+    );
+}
+
+function bwafterprint(){
+    document.querySelectorAll('section').forEach(
+        (e) => e.classList.remove('bw')
+    );
+}
+
+function bwprint(){
+    window.addEventListener("beforeprint", bwbeforeprint);
+    window.addEventListener("afterprint", bwafterprint);
+    window.addEventListener("afterprint", function(){
+        window.removeEventListener("beforeprint", bwbeforeprint);
+        window.removeEventListener("afterprint", bwafterprint);
+        window.removeEventListener("afterprint", this);
+    });
+    
+    window.print();
+}
+
 function toggleGuides(){
     document.querySelectorAll('section.guide').forEach(
         (e) => e.closest("svg").classList.toggle('secret')
