@@ -18,7 +18,7 @@
     text-align: left;
 }
 
-h1, h2, h3 {
+h1, h2, h3, h4 {
     letter-spacing: normal;
 }
 
@@ -187,6 +187,7 @@ section.title p:last-child {
 section[data-marpit-pagination] h1 a,
 section[data-marpit-pagination] h2 a,
 section[data-marpit-pagination] h3 a,
+section[data-marpit-pagination] h4 a,
 section[data-marpit-pagination].ability th a {
     color: var(--color-foreground);
 }
@@ -194,6 +195,7 @@ section[data-marpit-pagination].ability th a {
 section[data-marpit-pagination] h1 a:hover:before,
 section[data-marpit-pagination] h2 a:hover:before,
 section[data-marpit-pagination] h3 a:hover:before,
+section[data-marpit-pagination] h4 a:hover:before,
 section[data-marpit-pagination].ability th a:hover:before {
     content: "#";
     position: absolute;
@@ -239,6 +241,18 @@ section.guideability tbody td {
     section.bw img.emoji {
         display: none;
     }
+}
+
+/* h4 for tables */
+h4 {
+    font-size: inherit;
+    font-weight: normal;
+    margin-bottom: 15px;
+}
+
+h4:before {
+    content: "Table: ";
+    font-weight: bold;
 }
 
 /* styling that escapes marp containment */
