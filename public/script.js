@@ -162,12 +162,12 @@ window.addEventListener("load", function(){
             const abix_line = document.createElement("span");
             const entry = document.createElement("span");
             abix_line.appendChild(entry);
-            entry.innerText = restyleIndexEntry(e.innerText.replace(" [Starter]", ""));
+            entry.innerText = restyleIndexEntry(e.innerText.replace(" Starter", ""));
             const page_no = document.createElement("a");
             abix_line.appendChild(page_no);
             abix_line.appendChild(document.createElement("br"));
             page_no.innerText = page;
-            page_no.setAttribute("aria-label", e.innerText.replace(" [Starter]", ""));
+            page_no.setAttribute("aria-label", e.innerText.replace(" Starter", ""));
             page_no.setAttribute("href", "#" + section.getAttribute("id"));
             abix_entry_map[entry.innerHTML] = abix_line;
             abix_entry_keys.push(entry.innerHTML);

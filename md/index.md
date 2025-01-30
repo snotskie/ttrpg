@@ -235,7 +235,7 @@ The following pages describe **Lifestyle** and **Ethic** options. Some Lifestyle
 
 As you read them, begin to describe the life your character had **growing up** and their **current outlook** on the world. You may also want to consult the **Playing the Game chapter** to learn more about the rules Lifestyles interact with.
 
-Then, pick one of the **Lifestyles** with the **[Starter]** label and one of the **Ethics** to begin the game with. These can be changed later in the Session Shop.
+Then, pick one of the **Lifestyles** with the `Starter` label and one of the **Ethics** to begin the game with. These can be changed later in the Session Shop.
 
 ---
 <!-- _class: creation -->
@@ -261,7 +261,7 @@ Once you've chosen your starter Lifestyle and Ethic, consult the table below. **
 ### Lifestyles
 <!-- _class: ability -->
 
-| 🍀 Carefree Lifestyle [Starter] | 
+| 🍀 Carefree Lifestyle `Starter` | 
 | --- |
 | *Description:* Your character lives a relatively carefree life, perhaps because of your naivete, wealthy upbringing, optimistic demeanor, or (in a darker setting) a nihilistic worldview. |
 
@@ -280,7 +280,7 @@ Once you've chosen your starter Lifestyle and Ethic, consult the table below. **
 ---
 <!-- _class: ability -->
 
-| 🔥 Eager Lifestyle [Starter] | 
+| 🔥 Eager Lifestyle `Starter` | 
 | --- |
 | *Description:* Your character is eager for more out of life, perhaps because of a rebellious phase, a yearning to accomplish your dreams, a person you want to impress, or a mission or faith you believe strongly in. |
 
@@ -299,7 +299,7 @@ Once you've chosen your starter Lifestyle and Ethic, consult the table below. **
 ---
 <!-- _class: ability -->
 
-| 🧘‍♀️ Wisened Lifestyle [Starter] | 
+| 🧘‍♀️ Wisened Lifestyle `Starter` | 
 | --- |
 | *Description:* Maybe life has not been easy on your character, but if so you've come out wiser and tougher. Perhaps you've been shaped by unfortunate events, you've dedicated yourself to your work, or (in some settings) you could take advantage of others easily because you understand how people work. |
 
@@ -400,7 +400,7 @@ The following pages describe another type of dice in this game, **Blessing Dice*
 
 To help you select your starter Abilities, begin to imagine the kind of character taking shape in your mind. **Have you seen characters like them before** in movies, TV shows, and books? Try to envision the people from your favorite fictional stories that your character takes after.
 
-Then with that in mind, **pick two** of the following Abilities with the **[Starter]** label to begin the game with. You may gain additional Abilities later in the Session Shop.
+Then with that in mind, **pick two** of the following Abilities with the `Starter` label to begin the game with. You may gain additional Abilities later in the Session Shop.
 
 ### Blessing Dice
 <!-- _class: rules -->
@@ -466,7 +466,7 @@ The following pages list Ability options. These Abilities refer to a number of r
 ---
 <!-- _class: ability -->
 
-| Protective Armor [Starter] |
+| Protective Armor `Starter` |
 | --- |
 | You've had to learn how to protect yourself in a fight. *Effect:* When you would lose against a violent Attack, receive $+d2$ in aid. |
 
@@ -483,7 +483,7 @@ Sentry's and Barbed Armor each require and extend Protective Armor.
 ---
 <!-- _class: ability -->
 
-| Personal Bounty [Starter] |
+| Personal Bounty `Starter` |
 | --- |
 | You're known in almost any situation for coming prepared or being conveniently light-fingered. *Effect:* When you would fail a Check to see if you already have an item on you, receive $+d2$ in aid. |
 
@@ -500,7 +500,7 @@ Fortune's and Trickster's Bounty each require and extend Personal Bounty.
 ---
 <!-- _class: ability -->
 
-| Contract Deal [Starter] |
+| Contract Deal `Starter` |
 | --- |
 | You always know where to make a deal, even if it's not the most sound decision. *Effect:* While you are attempting to purchase goods or services, each ① you spend to Help yourself is worth ①①. |
 
@@ -521,7 +521,7 @@ Lifesaving, Wheel, and Shrouded Deal each require and extend Contract Deal.
 ---
 <!-- _class: ability -->
 
-| Licensed Driver [Starter] |
+| Licensed Driver `Starter` |
 | --- |
 | You've gotten lots of practice or training operating vehicles. *Effect:* When you would fail a Check or lose a Contest to use a vehicle to transport supplies or other characters, receive $+d2$ in aid. |
 
@@ -538,7 +538,7 @@ Getaway and Professional Driver each require and extend Licensed Driver.
 ---
 <!-- _class: ability -->
 
-| Concerted Effort [Starter] |
+| Concerted Effort `Starter` |
 | --- |
 | It comes naturally to you to read situations to know exactly what other people need. *Effect:* When you spend ①① or more to Help another character, they gain a bonus as though you had spent an additional ①①. |
 
@@ -559,7 +559,7 @@ Background, Rousing, and Delegated Effort each require and extend Concerted Effo
 ---
 <!-- _class: ability -->
 
-| Intuitive Eye [Starter] |
+| Intuitive Eye `Starter` |
 | --- |
 | You have a keen sense with objects and surroundings that most others don't. *Effect:* When you would fail a Check to inspect an object carefully, identify where the object has been, or intuit information about events that have occurred around it, receive $+d2$ in aid. |
 
@@ -580,7 +580,7 @@ Roguish, Divining, and Ambitious Eye each require and extend Intuitive Eye.
 ---
 <!-- _class: ability -->
 
-| Survival Instinct [Starter] |
+| Survival Instinct `Starter` |
 | --- |
 | Your reflexes have kept you safe. *Effect:* When you would fail a Check or lose a Contest while rolling your Hurry Stat, receive $+d2$ in aid. |
 
@@ -597,7 +597,7 @@ Careful and Perceptive Instinct each require and extend Survival Instinct.
 ---
 <!-- _class: ability -->
 
-| Acclimated Nature [Starter] |
+| Acclimated Nature `Starter` |
 | --- |
 | Your travels have taught you how to calm your mind and body. *Effect:* When you would fail a Check against natural effects such as weather and disease, receive $+d2$ in aid. |
 
@@ -614,7 +614,7 @@ Determined and Friendly Nature each require and extend Acclimated Nature.
 ---
 <!-- _class: ability -->
 
-| Fearless Resolve [Starter] |
+| Fearless Resolve `Starter` |
 | --- |
 | You understand that not every loss is necessarily a bad thing. *Effect:* Once per session, when you lose against an Attack, you may reduce the outcome size one rank and gain a Blessing. |
 
@@ -642,7 +642,7 @@ However, some ideas are:
 ---
 <!-- _class: ability -->
 
-| Radical Self-Acceptance [Starter] |
+| Radical Self-Acceptance `Starter` |
 | --- |
 | You've never been bothered by having your own way of doing things. *Effect:* While you are Uncool, you may roll Checks using a different Stat than normal. Then once a Check succeeds this way, you are no longer Uncool. |
 
@@ -659,7 +659,7 @@ Ascendant and Shameless Self-Acceptance each require and extend Radical Self-Acc
 ---
 <!-- _class: ability -->
 
-| Tactful Speech [Starter] |
+| Tactful Speech `Starter` |
 | --- |
 | You're well-versed in idle chatter, spinning conversation, or navigating social milieu. *Effect:* When you would lose a Contest trying to persuade, influence, inspire, or deceive others, receive $+d2$ in aid. |
 
@@ -680,7 +680,7 @@ Popular, Rebutted, and Director's Speech each require and extend Tactful Speech.
 ---
 <!-- _class: ability -->
 
-| Organized Thoughts [Starter] |
+| Organized Thoughts `Starter` |
 | --- |
 | Your memory is like a steel trap&mdash;once you learn something, you almost never forget. *Effect:* When you would fail a Check trying to recall information, receive $+d2$ in aid. |
 
@@ -826,7 +826,7 @@ Also note:
 | Easy | $4$ |
 | Medium | $8$ |
 | Hard | $12$ |
-| Very Hard | $16$ |
+| Severe | $16$ |
 | Trial | $20$ |
 
 ### GM Guide | Setting Targets for Magic
@@ -836,12 +836,12 @@ If your setting has "magic" or other supernatural, reality-bending player capabi
 
 We recommend providing your players a table that describes your "magic" targets for them:
 
-- Each row of the table corresponds to a Check target, from Easy to Very Hard.
+- Each row of the table corresponds to a Check target, from Easy to Severe.
 - Each column corresponds to a "school of magic" or category of supernatural effect.
 - Each cell describes examples of what a supernatural action of that Check target and category might look like.
 - Players and you determine which cells are most like what the player wants to achieve with their effect, and the highest Check target among those cells is the Check target their roll will need to meet, with you having final say on the exact Check target.
 - Increase the Check target they need to hit if they are pushing the area, duration, or nature of the effect further than normal; if they are untrained in the effect or it is outside their "school of magic"; or if the effect requires forbidden knowledge.
-- Performing supernatural effects requiring beyond a Very Hard Check target requires a "quest" to do so.
+- Performing supernatural effects requiring beyond a Severe Check target requires a "quest" to do so.
 
 ### Automatic History Check Success
 <!-- _class: rules -->
@@ -892,12 +892,12 @@ To perform a non-violent Contest:
 
 | Outcome size | Roll this much more than your opponent |
 | --- | --- |
-| Very Minor | 0 to 1 |
-| Minor | 2 to 3 |
-| Medium | 4 to 5 |
-| Major | 6 to 7 |
-| Very Major | 8 to 9 |
-| Maximum | 10 or more |
+| Very Minor | $0-1$ |
+| Minor | $2-3$ |
+| Medium | $4-5$ |
+| Major | $6-7$ |
+| Very Major | $8-9$ |
+| Maximum | $10+$ |
 
 #### Contest Effects
 
@@ -1105,7 +1105,7 @@ In general:
 | ------------ | -------------------- | ----------- |
 | Mundane | Easy or Medium | Narrative function only |
 | High-Quality Mundane | Medium or Hard | Provides a "receive $+1$ in aid" effect |
-| Powered | Very Hard | Provides a "receive $+d2$ in aid" effect |
+| Powered | Severe | Provides a "receive $+d2$ in aid" effect |
 
 ### Setting Out
 <!-- _class: rules -->
@@ -1157,7 +1157,7 @@ There are several different types of Endeavors depending on the scenario. Howeve
 ---
 <!-- _class: rules -->
 
-- **Special Actions:** Some actions have the **[Special Action]** label. You may only use these actions if you rolled the highest at the start of the round, with the GM resolving ties.
+- **Special Actions:** Some actions have the `Special Action` label. You may only use these special actions if you rolled the highest at the start of the round, with the GM resolving ties.
 - **Turn Order:** After rolls are made for the round, whoever rolled highest acts first, using a special action if they wish. Then, all other characters act in order from lowest roll and up. If an effect has you roll a new value, your turn order may change: if you roll higher you may act later, and if you roll lower you may act sooner.
 - **Movement:** Endeavors use a number line to track character positions, scores, progress towards goals, or so on. The Endeavor's setup instructions will describe where characters begin on the number line and its actions will describe when and how you move.
 - **Group Movement:** If a group moves together an amount, they only move a total of that amount. How the group distributes this movement among its members is up to the group to decide: they may distribute the movement evenly, give it all to one member, or any other arrangement the group agrees on.
@@ -1190,16 +1190,16 @@ Then use the results to improvise the narrative at that scale before returning t
 
 Some campaigns or sessions may involve the player characters summoning, rallying, or inspiring allies to face off against an opposing side's summoned, rallied, or inspired allies&mdash;such as soldiers in your command, athletes you are coaching, creature companions you have befriended, knights dueling as your champions, spirits you are channeling, or spectral monsters you've summoned by playing music so well!
 
-- **Setup:** You, your allies, and your opponents do not have a position. Instead, both sides begin the Endeavor with two "summons" on their side at position $0$. A "summon" is a character or other entity you have summoned to your side for the Endeavor, and a "summoner" is any character or group summoning others to their side. A summon is a character for the sake of wording in the rules, and generally a summon is considered to have existed before they were summoned to your side&mdash;"being summoned" just places them into the game's evolving story.
-- **Goal:** You win when your summons activate enough victory buttons or when captured enough of opposing summons.
+- **Setup:** You, your allies, and your opponents do not have a position. Instead, both sides begin the Endeavor with two "summons" on their side at position $0$. A "summon" is a character or other entity you have summoned to your side for the Endeavor, and a "summoner" is any character or group summoning others to their side. Generally a summon is considered to have existed before they were summoned to your side&mdash;"being summoned" just places them into the game's evolving story.
+- **Goal:** You win when your summons activate enough victory buttons or captured enough opposing summons.
 
 *Continued on next page.*
 
 ---
 <!-- _class: rules -->
 
-- **Actions:** There are a number of actions that summons and summoners may choose from during the Endeavor, described in the Summon Action and Summoner Action tables below. At GM discretion, some summons' Abilities may grant them additional actions.
-- **Buttons:** Some Clash Endeavors begin with a number of victory buttons, described in the Button table below.
+- **Actions:** There are a number of actions that summons and summoners may choose from during the Endeavor, described in the Summon Actions and Summoner Actions tables below. At GM discretion, some summons' Abilities may grant them additional actions.
+- **Buttons:** Some Clash Endeavors begin with a number of victory buttons, described in the Clash Buttons table below.
 
 #### Summon Actions
 
@@ -1207,8 +1207,8 @@ Some campaigns or sessions may involve the player characters summoning, rallying
 | ------ | ----------- |
 | Perform&nbsp;an Attack | Use your roll to perform an Attack against an opposing summon who has not acted this round. They roll a new value and Defend with it. If they lose this Contest, they move down by the amount they lost by. |
 | Perform&nbsp;a Check | Use your roll to perform a Check to advance your team's objectives. Move up equal to half your roll, rounded down. |
-| Attempt&nbsp;a Capture | **[Special Action]** Use your roll to perform an Attack against an opposing summon who has not acted this round. They roll a new value and Defend with it. If they lose this Contest by $5$ or more, they are "captured" and removed from the Endeavor. If they lose this Contest by less than $5$, they move down by the amount they lost by. |
-| Push&nbsp;the Advantage | **[Special Action]** Use your roll to perform a Check to advance your team's objectives. Move up equal to your roll. |
+| Attempt&nbsp;a Capture | `Special Action` Use your roll to perform an Attack against an opposing summon who has not acted this round. They roll a new value and Defend with it. If they lose this Contest by $5$ or more, they are "captured" and removed from the Endeavor. If they lose this Contest by less than $5$, they move down by the amount they lost by. |
+| Push&nbsp;the Advantage | `Special Action` Use your roll to perform a Check to advance your team's objectives. Move up equal to your roll. |
 
 ---
 <!-- _class: rules -->
@@ -1220,34 +1220,45 @@ Some campaigns or sessions may involve the player characters summoning, rallying
 | Perform&nbsp;a Check | Use your roll to perform a Check to advance your team's objectives. Move one of your summons up equal to half your roll, rounded down. |
 | Provide Help | Ignore your roll. Choose one of your summons who has not acted this round to form a group with. On their action, you may provide Help to increase their roll. |
 | Call&nbsp;for Backup | Ignore your roll. Call two new summons to your side at position $0$. You may only use this action if you have no summons. |
-| Summon&nbsp;an Ally | **[Special Action]** Use your roll to perform a Check to call a new summon to your side at position $0$. The larger the roll, the more powerful the summon called. |
+| Summon&nbsp;an Ally | `Special Action` Use your roll to perform a Check to call a new summon to your side at position $0$. The larger the roll, the more powerful the summon called, according to the Summon Stats table below. |
+
+---
+<!-- _class: rules -->
 
 #### Clash Buttons
 
 | Button | Description |
 | ------ | ----------- |
 | Victory | *Type:* Global. *Activation:* Activate this button when you move over it. *Effect:* End your movement, remove this button. Your summoner gains this button for tracking how many victory buttons their summons have activated. |
+| Revenge | *Type:* Personal. *Activation:* Activate this button when you move over it. *Effect:* End your movement, remove this button, and immediately use Perform an Attack against an opponent who caused you to move down this round, even if you or the opponent have already acted this round. |
 
 ---
-
-TODO
-
-For simplicity, Summons may use Stats similar to how Monstrosities use them. You may use the following table as a starting point for converting rolls to summon Stats.
+<!-- _class: rules -->
 
 #### Summon Stats
 
 | Roll | Description |
 | ---- | ----------- |
 | $3$ or less | Summon fails. |
-| $4$ to $7$ | Summon uses $d4$ and $d2$ for Stats. |
-| $8$ to $11$ | Summon uses $d4$ for Stats. |
-| $12$ to $15$ | Summon uses $d6$ and $d4$ for Stats. Or, summon uses $d4$ and has an extra Ability. |
-| $16$ to $19$ | Summon uses $d8$ and $d6$ for Stats. Or, summon uses $d6$ and has an extra Ability. |
-| $20$ or more | Summon uses $d10$ and $d8$ for Stats. Or, summon uses $d8$ and $d6$ and has an extra Ability. Or, summon uses $d6$ and has two extra Abilities. |
+| $4-7$ | Summon uses $d4$ and $d2$ for Stats. |
+| $8-11$ | Summon uses $d4$ for Stats. |
+| $12-15$ | Summon uses $d6$ and $d4$ for Stats. Or, summon uses $d4$ and has an extra Ability, from the options in the Summon Abilities table below. |
+| $16-19$ | Summon uses $d8$ and $d6$ for Stats. Or, summon uses $d6$ and has an extra Ability, from the options in the Summon Abilities table below. |
+| $20+$ | Summon uses $d10$ and $d8$ for Stats. Or, summon uses $d8$ and $d6$ and has an extra Ability. Or, summon uses $d6$ and has two extra Abilities, from the options in the Summon Abilities table below. |
 
-You may also allow your players to determine their "pool" of summons ahead of time through roleplay, if it makes sense for the campaign setting.
+---
+<!-- _class: rules -->
 
-In any case, giving summons their Stats and getting them onto the number line should be a *quick* process.
+#### Summon Abilities
+
+| Ability | Description |
+| ------- | ----------- |
+| Resistance | *Effect:* When you would lose a Contest against the type of effect you have resistance against, receive $+d2$ in aid. |
+| Propel | *Effect:* You gain the action: If you rolled Hand or Hurry, before the highest roller is determined, you may exchange your roll value with one of your allies. |
+| Revenge | *Effect:* The first time you end your movement at position $5$ or higher, gain a Revenge button at $3$ below your position. |
+| Drain | *Effect:* If you rolled Head or Home, you may use your roll to use Perform an Attack. If you win the Contest, move up by half the amount you won the Contest by, rounded down. |
+| Shield | *Effect:* You gain the special action: `Special Action` If you rolled Head or Home, your allies gain Resistance for a number of turns equal to half your roll rounded down. |
+| Fervor | *Effect:* You gain the special action: `Special Action` If you rolled Heart or Hurt, your allies each gain a Revenge button at $3$ below their current position. |
 
 ### 🔎 Discovery Endeavors
 <!-- _class: rules -->
@@ -1256,8 +1267,8 @@ Some campaigns or sessions may involve a prolonged scene where the player charac
 
 - **Setup:** You and your allies begin at position $0$. At the top of the first round, the GM will provide the lay of the land of the environment you're exploring, such as what rooms are available and how they relate. As the Endeavor progresses, additional areas may become available, each with their own number line and lay of the land. 
 - **Goal:** Exploration.
-- **Actions:** There are two normal actions and one special action you and your allies may choose from during the Endeavor, described in the Action table below.
-- **Buttons:** When the GM gives a lay of the land, a number of glimmer buttons of will be added, described in the Button table below. The GM may add multiple types of glimmer buttons to the number line, representing different types of discoveries for the area, such as items, information, social interactions, or further areas to explore.
+- **Actions:** There are two normal actions and one special action you and your allies may choose from during the Endeavor, described in the Discovery Actions table below.
+- **Buttons:** When the GM gives a lay of the land, a number of glimmer buttons of will be added, described in the Discovery Buttons table below. The GM may add multiple types of glimmer buttons to the number line, representing different types of discoveries for the area, such as items, information, social interactions, or further areas to explore.
 
 ---
 <!-- _class: rules -->
@@ -1268,35 +1279,35 @@ Some campaigns or sessions may involve a prolonged scene where the player charac
 | ------ | ----------- |
 | Perform&nbsp;a Check | Use your roll to perform a Check to advance your team's objectives. Move up equal to half your roll, rounded down. You may choose to end this movement early. |
 | Provide Help | Ignore your roll. Choose an ally who has not acted this round to form a group with. On their action, you may provide Help to increase their roll. |
-| Inspect&nbsp;a Glimmer | **[Special Action]** Move up equal to your roll. You may choose to end this movement early. If you activate a glimmer button this round with a Check related enough to your roll, you may use your current roll for the Check instead of rolling a new value. |
+| Inspect&nbsp;a Glimmer | `Special Action` Move up equal to your roll. You may choose to end this movement early. If you activate a glimmer button this round with a Check related enough to your roll, you may use your current roll for the Check instead of rolling a new value. |
 
 #### Discovery Buttons
 
 | Button | Description |
 | ------ | ----------- |
-| Glimmer | *Type:* Global. *Activation:* You may activate this button when you end your turn on it. *Effect:* Remove this button and perform any Checks or other actions associated with it. If this button has a Check, roll a new value and perform the Check with it. Target for such a Check will be equal to the glimmer button's position. |
+| Glimmer | *Type:* Global. *Activation:* You activate this button when you end your turn on it. *Effect:* Remove this button and perform any Checks or other actions associated with it. If this button has a Check, roll a new value and perform the Check with it. The target for such a Check will be equal to the glimmer button's position. |
 
 ### 🧟 Monstrous Endeavors
 <!-- _class: rules -->
 
 Some campaigns or sessions may involve the player characters and their allies facing off against Monstrosities, like zombies, robots, or the manifestation of someone's fear!
 
-- **Setup:** You and your allies begin at position $0$. Your opponents begin higher up, each add defeat buttons at position $0$, and each add recovery buttons somewhere else. Stronger opponents begin further from $0$, may have Abilities, and may enter the Endeavor with Blessing Dice of their own.
+- **Setup:** You and your allies begin at position $1$. Your opponents begin higher up, each add defeat buttons at position $0$, and each add recovery buttons somewhere else. Stronger opponents begin further from $0$, may have Abilities, and may enter the Endeavor with Blessing Dice of their own.
 - **Goal:** To win, move all your opponents to position $0$ without your team being captured first.
-- **Actions:** There are three normal actions and one special action you and your allies may choose from during the Endeavor, described in the Player Action table below. Your opponents also have a number of actions, described in the Monstrosity Action table below. Some Monstrosity's Abilities grant them additional actions.
-- **Buttons:** Your opponents enter the Endeavor with a number of buttons, described in the Monstrosity Button table below.
+- **Actions:** There are three normal actions and one special action you and your allies may choose from during the Endeavor, described in the Allied Actions table below. Your opponents also have a number of actions, described in the Monstrosity Actions table below. Some Monstrosity's Abilities grant them additional actions.
+- **Buttons:** Your opponents enter the Endeavor with a number of buttons, described in the Monstrosity Buttons table below.
 
 ---
 <!-- _class: rules -->
 
-#### Monstrous Actions
+#### Allied Actions
 
 | Action | Description |
 | ------ | ----------- |
 | Perform&nbsp;an Attack | Use your roll to perform an Attack against an opponent who has not acted this round. They roll a new value and Defend with it. If they lose this Contest, they move down by the amount they lost by. |
 | Perform&nbsp;a Check | Use your roll to perform a Check to advance your team's objectives. Move up equal to half your roll, rounded down. |
 | Provide Help | Ignore your roll. Choose an ally who has not acted this round to form a group with. On their action, you may provide Help to increase their roll. |
-| Perform&nbsp;a Combo | **[Special Action]** Move up equal to your roll. Then, you and your allies may move down any total amount. Choose an opponent to move down by that same total amount. Allies who move down with you are considered to have already acted this round. |
+| Perform&nbsp;a Combo | `Special Action` Move up equal to your roll. Then you and your allies may move down any total amount. Choose an opponent to move down by that same total amount. Allies who move down with you are considered to have already acted this round. |
 
 ---
 <!-- _class: rules -->
@@ -1306,18 +1317,20 @@ Some campaigns or sessions may involve the player characters and their allies fa
 | Action | Description |
 | ------ | ----------- |
 | Perform&nbsp;an Attack | Use your roll to perform an Attack against an opponent who has not acted this round. They roll a new value and Defend with it. If they lose this Contest, they move down by the amount they lost by. |
-| Perform&nbsp;a Capture | **[Special Action]** Ignore your roll. Choose an opponent at position $0$ to roll a new value to Defend against your Capture Roll with. If they lose, they are unable to act for the rest of the Endeavor. At the end of later rounds, they may attempt to Defend against your Capture Roll again to end this effect early. |
+| Attempt&nbsp;a Critical | Use your roll to perform an Attack against an opponent at position $0$, who has not acted this round, and who does not have a stun button. They roll a new value and Defend with it. If they lose this Contest by $5$ or more, they gain a stun button at $1$ above their current position. |
+| Perform&nbsp;a Capture | `Special Action` Choose an opponent at position $0$ to roll a new value to Defend against your roll or your Capture Roll with, whichever is lower. If they lose, they are unable to act for the rest of the Endeavor. At the end of later rounds, they may attempt the Defense again to end this effect early. |
 
 ---
 <!-- _class: rules -->
 
-#### Monstrous Buttons
+#### Monstrosity Buttons
 
 | Button | Description |
 | ------ | ----------- |
 | Recovery | *Type:* Personal. *Activation:* Activate this button when you move over it. *Effect:* End your movement, remove this button, and return to your starting position. |
 | Revenge | *Type:* Personal. *Activation:* Activate this button when you move over it. *Effect:* End your movement, remove this button, and immediately use Perform an Attack against an opponent who caused you to move down this round, even if you or the opponent have already acted this round. |
 | Defeat | *Type:* Personal. *Activation:* Activate this button when you move over it. *Effect:* End your movement, remove this button, and you are removed from the Endeavor. |
+| Stun | *Type:* Personal. *Activation:* Activate this button when you move over it. *Effect:* End your movement, remove this button, and move down by $1$. |
 
 ### GM Guide | Monstrous Stats
 <!-- _class: guide -->
@@ -1326,6 +1339,7 @@ Some campaigns or sessions may involve the player characters and their allies fa
 - **Defenses:** A Monstrosity also has a starting position (SP) and one or two recovery buttons (RB). For compactness, if a Monstrosity is said to have an RB of $5$, then it enters with a recovery button at $5$ below its starting position. Together, these represent a Monstrosity's defenses, similar to the concept of "hit points" and "shields" used in other games.
 - **Offenses:** A Monstrosity has a Capture Roll (CR) value. When a Monstrosity uses Perform a Capture, instead of rolling for the Attack, it automatically rolls its CR value. This provides a more consistent difficulty level. A Monstrosity may also have one or two Abilities that provide additional offensive actions.
 - **Resources:** Finally, a Monstrosity may enter the Endeavor with a number of Blessing Dice (B). These are only used by a Monstrosity to provide Help or Spark a roll.
+- **Experience:** XP
 
 ---
 <!-- _class: guide -->
@@ -1334,14 +1348,14 @@ The following tables provide a starting point for creating Monstrosities at diff
 
 #### Monstrosity Stats
 
-| Difficulty | HD | LD | SP | RB | CR | B |
-| ---------- | -- | -- | -- | --- | -- | - |
-| Very Easy | $d4$ | $d2$ | $10$ to $15$ | $5$ to $10$ | $4$ | $0$ |
-| Easy | $d6$ | $d4$ | $15$ to $20$ | $5$ to $15$ | $6$ | $0$ |
-| Medium | $d6$ | $d4$ | $15$ to $20$ | $5$ to $15$ | $8$ | $0$ |
-| Hard | $d8$ | $d6$ | $20$ to $25$ | $5$ to $15$ | $10$ | $3$ |
-| Very Hard | $d8$ | $d6$ | $20$ to $30$ |$15$ to $20$ | $12$ | $3$ |
-| Trial | $d10$ | $d8$ | $20$ to $30$ | $5$ to $10$ and $15$ to $20$ | $14$ | $5$ |
+| Difficulty | HD | LD | SP | RB | CR | B | XP |
+| ---------- | -- | -- | -- | --- | -- | - | -- |
+| Trivial | $d4$ | $d2$ | $10-15$ | $5-10$ | $4$ | $0$ | $1-6$ |
+| Easy | $d6$ | $d4$ | $15-20$ | $5-15$ | $6$ | $0$ | $7-12$ |
+| Medium | $d6$ | $d4$ | $15-20$ | $5-15$ | $8$ | $0$ | $13-18$ |
+| Hard | $d8$ | $d6$ | $20-25$ | $5-15$ | $10$ | $3$ | $19-24$ |
+| Severe | $d8$ | $d6$ | $20-30$ |$15-20$ | $12$ | $3$ | $25-30$ |
+| Trial | $d10$ | $d8$ | $20-30$ | $5-10$, $15-20$ | $14$ | $5$ | $31+$ |
 
 ---
 <!-- _class: guide -->
@@ -1354,7 +1368,6 @@ The following tables provide a starting point for creating Monstrosities at diff
 | Propel | *Min Difficulty:* Medium. *Effect:* You gain the action: If you rolled Hand or Hurry, before the highest roller is determined, you may exchange your roll value with one of your allies. |
 | Revenge | *Min Difficulty:* Medium. *Effect:* You begin the Endeavor with a Revenge button at $3$ below your starting position. |
 
-
 ---
 <!-- _class: guide -->
 
@@ -1362,10 +1375,10 @@ The following tables provide a starting point for creating Monstrosities at diff
 
 | Ability | Description |
 | ------- | ----------- |
-| Drain | *Min Difficulty:* Hard. *Effect:* If you rolled Heart or Hurt, you may use your roll to use Perform an Attack. If you win the Contest, move up by half the amount you won the Contest by, rounded down, up to a maximum of your starting position. |
-| Shield | *Min Difficulty:* Hard. *Effect:* You gain the special action: If you rolled Head or Home, your allies gain Resistance for a number of turns equal to half your roll rounded down. |
-| Fervor | *Min Difficulty:* Very Hard. *Effect:* You gain the special action: If you rolled Heart or Hurt, your allies each gain a Revenge button at $3$ below their current position. |
-| Immunity | *Min Difficulty:* Very Hard. *Effect:* When you would lose a Contest against the type of effect you have immunity against, you succeed by $1$ instead. |
+| Drain | *Min Difficulty:* Hard. *Effect:* If you rolled Head or Home, you may use your roll to use Perform an Attack. If you win the Contest, move up by half the amount you won the Contest by, rounded down, up to a maximum of your starting position. |
+| Shield | *Min Difficulty:* Hard. *Effect:* You gain the special action: `Special Action` If you rolled Head or Home, your allies gain Resistance for a number of turns equal to half your roll rounded down. |
+| Fervor | *Min Difficulty:* Severe. *Effect:* You gain the special action: `Special Action` If you rolled Heart or Hurt, your allies each gain a Revenge button at $3$ below their current position. |
+| Immunity | *Min Difficulty:* Severe. *Effect:* When you would lose a Contest against the type of effect you have immunity against, you succeed by $1$ instead. |
 | Unrelenting | *Min Difficulty:* Trial. *Effect:* At the end of each round, perform a new roll and use Perform an Attack for each time you've activated a recovery button. |
 
 ### 🏇 Race Endeavors
@@ -1375,8 +1388,8 @@ Some campaigns or sessions may involve a prolonged scene where the player charac
 
 - **Setup:** All characters begin at position $0$. At the top of the first round, the GM will provide the lay of the land for the race course environment, including any terrain elements like hills, brush, holes, asteroid fields, or so on that would slow the racers down. As the Endeavor progresses, additional areas may become available, each with their own number line and lay of the land.
 - **Goal:** To win, be the first to reach the finish line.
-- **Actions:** There are two normal actions and one special action characters may choose from during the Endeavor, described in the Action table below.
-- **Buttons:** When the GM gives a lay of the land, a terrain of glimmer buttons of will be added, described in the Button table below. The GM may add multiple types of terrain buttons to the number line, representing different types of obstacles for the area, such as hills, stampedes, quantum puzzles, or trolley problem moral dilemmas. When a character begins the round on a terrain button, the type of the terrain button may constrain what Stats they may roll or what actions they may take.
+- **Actions:** There are two normal actions and one special action characters may choose from during the Endeavor, described in the Race Actions table below.
+- **Buttons:** When the GM gives a lay of the land, a number of terrain buttons of will be added, described in the Race Buttons table below. The GM may add multiple types of terrain buttons to the number line, representing different types of obstacles for the area, such as hills, stampedes, quantum puzzles, or trolley problem moral dilemmas. When a character begins the round on a terrain button, the type of the terrain button may constrain what Stats they may roll or what actions they may take.
 
 *Continued on next page.*
 
@@ -1391,7 +1404,7 @@ Some campaigns or sessions may involve a prolonged scene where the player charac
 | ------ | ----------- |
 | Perform&nbsp;a Check | Use your roll to perform a Check to advance your team's objectives. Move up equal to half your roll, rounded down. |
 | Provide Help | Ignore your roll. Choose an ally who has not acted this round to form a group with. On their action, you may provide Help to increase their roll. |
-| Overcome&nbsp;an Obstacle | **[Special Action]** Move up equal to your roll. You may ignore a terrain button you would pass during this movement. |
+| Overcome&nbsp;an Obstacle | `Special Action` Move up equal to your roll. You may ignore a terrain button you would pass during this movement. |
 
 #### Race Buttons
 

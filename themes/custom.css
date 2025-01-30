@@ -246,5 +246,12 @@ section h4:before {
     font-weight: bold;
 }
 
+/* code labels */
+section code {
+    border-radius: 8pt;
+    color: #202228; /* --color-foreground in light mode */
+    --color-background-code: var(--color-ability-2);
+}
+
 /* styling that escapes marp containment */
 @import url("style.css");
