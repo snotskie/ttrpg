@@ -504,15 +504,15 @@ Fortune's and Trickster's Bounty each require and extend Personal Bounty.
 | --- |
 | You always know where to make a deal, even if it's not the most sound decision. *Effect:* While you are attempting to purchase goods or services, each ① you spend to Help yourself is worth ①①. |
 
-Wheel, Lifesaving, and Shrouded Deal each require and extend Contract Deal.
-
-| Wheel Deal |
-| --- |
-| And you'd break a few rules if it means settling debts. *Effect:* When you perform a special action in a Race Endeavor, you may create a terrain button anywhere along your movement. Then remove that terrain button once a character begins their movement on the same space as it. |
+Lifesaving, Wheel, and Shrouded Deal each require and extend Contract Deal.
 
 | Lifesaving Deal |
 | --- |
 | And what's better than a good deal that keeps you alive? *Effect:* A character may automatically succeed a Check to tend to your wounds, even after they've rolled. *Recharge:* ①. When this Ability is recharged, increase the cost to recharge it by ①①. |
+
+| Wheel Deal |
+| --- |
+| And you'd break a few rules if it means settling debts. *Effect:* When you perform a special action in a Race Endeavor, you may create a terrain button anywhere along your movement. Then remove that terrain button once a character begins their movement on the same space as it. |
 
 | Shrouded Deal |
 | --- |
@@ -618,15 +618,15 @@ Determined and Friendly Nature each require and extend Acclimated Nature.
 | --- |
 | You understand that not every loss is necessarily a bad thing. *Effect:* Once per session, when you lose against an Attack, you may reduce the outcome size one rank and gain a Blessing. |
 
-Charitable and Honorable Resolve each require and extend Fearless Resolve.
-
-| Charitable Resolve |
-| --- |
-| And what matters most is forgiveness and paying our blessings forward. *Effect:* When you visit a place of religious, spiritual, or community importance, you may spend any number of ① as a donation or act of service to the place. The more spent this way, the greater a possible later boon may be, determined by the GM. |
+Honorable and Charitable Resolve each require and extend Fearless Resolve.
 
 | Honorable Resolve |
 | --- |
 | And it's okay to risk a loss when it means protecting what you care about. *Effect:* You may Attack to protect your honor or loved ones, using Hand or Home instead of Hurt as usual. If you lose the Contest, you receive injuries as though you were Attacked instead. *Recharge:* ④. |
+
+| Charitable Resolve |
+| --- |
+| And what matters most is forgiveness and paying our blessings forward. *Effect:* When you visit a place of religious, spiritual, or community importance, you may spend any number of ① as a donation or act of service to the place. The more spent this way, the greater a possible later boon may be, determined by the GM. |
 
 ### GM Guide | Charitable Resolve's Boon
 <!-- _class: guide -->
@@ -1115,7 +1115,7 @@ You and your fellow players may propose plans that could direct how you set out 
 - **Making Plans:** Each roll in this group long action will correspond to a different necessary step of your group's plans.
 - **Gather Information:** Then, based on the results, the GM may provide different amounts or types of information to set you off on your "quest," representing your group's capabilities at planning and preparation.
 
-### TODO
+### Conditions
 <!-- _class: rules -->
 
 Some events challenge your resolve, throw you off your game, cause you great embarrassment, or so on. When these happen, you may become Uncool.
@@ -1129,6 +1129,9 @@ How and when you dole out this condition depends on what is best for your table,
 Equally important is how you give the players opportunities to *remove* this condition. Each attempt should be a fun, satisfying story beat that helps shape the narrative of how the player's character grows.
 
 So when you build the narrative around how a character becomes Uncool and what this means for their connections to other characters, keep in the back of your head how you could use these same connections later to remove the condition and offer the player a chance to roleplay growth from their earlier failure.
+
+---
+<!-- _class: rules -->
 
 #### Condition Effects
 
@@ -1148,10 +1151,9 @@ So when you build the narrative around how a character becomes Uncool and what t
 
 Sometimes, the player characters will need to race to be the first to reach some destination, to be the first to acheive some action, to escape without being caught, to advance an objective before time runs out, or so on! Many such scenes where the tension is drawn out can be run as Endeavors.
 
-Endeavors are carried out as a number of rounds in which the characters attempt actions and perform Contests and Checks to drive the narrative tension, progress themselves, and slow their opponents.
-
 There are several different types of Endeavors depending on the scenario. However, all Endeavors build on these same general rules:
 
+- **Rounds:** Endeavors are carried out as a number of rounds in which the characters attempt actions and perform Contests and Checks to drive the narrative tension, progress themselves, and slow their opponents.
 - **Roll:** At the start of each round, choose a Stat to roll. The narrative for your rolls do not have to be fully formed, just what Stat to use. The GM may limit which Stats you can choose from in certain situations.
 - **Actions:** Each round you may only take one action, and Endeavors describe the set of actions you may choose from when it is you turn to act. Some actions use your roll from the start of the round, some have other characters roll a new value, and some ignore these rolls altogether. The GM may limit the actions you can choose from in certain situations. Once you roll, you use the same Stat and result for all Checks and Contests for the rest of the round until the next round or you're directed to roll a new value sooner.
 
@@ -1166,21 +1168,16 @@ There are several different types of Endeavors depending on the scenario. Howeve
 - **Group Movement:** If a group moves together an amount, they only move a total of that amount. How the group distributes this movement among its members is up to the group to decide: they may distribute the movement evenly, give it all to one member, or any other arrangement the group agrees on.
 - **Buttons:** Endeavors add a number of buttons to the number line. There are two types of buttons, personal and global. Personal buttons can only be activated by the character who added them, whereas global buttons can be activated by any character. If an Endeavor uses buttons, it will describe how each is activated and the effect that happens as a result.
 
-TODO Streamlined Aid: At GM discretion, your "receive aid" effects may either always activate, never activate, or only activate once per round per effect, regardless if you would have failed, lost, succeeded, or won the associated Check or Contest.
+*Continued on next page.*
 
-Instead of determining a target for each Check in an Endeavor, for most Checks you may allow characters to automatically succeed, but then compare the size of their outcome to the effect they wanted to achieve. Based on that, award them a weaker or stronger or moreorless complete version of that intended effect.
+---
+<!-- _class: rules -->
 
-This allows you to reserve setting targets for Checks where failure would be interesting or that would change the arc of the Endeavor.
+Also note:
 
-If you use this approach, characters would be unable to activate "receive aid" Abilities for Checks. So, make it clear the start of the Endeavor if, for the sake of the Endeavor, such Abilities (a) always activate, even without explicit failure, or (b) never activate because of the dire pressure of the situation.
-
-TODO:
-
-In Endeavors covering a larger playing field where it would be narratively unsatisfying for characters in different regions of the field to affect one another, you may split the Endeavor into two, at most three, number lines.
-
-Depending on the situation, characters may be able to change the number line they are on, may be able to only if they succeed a Check or pay a movement cost, or may be able to only if the situation allows.
-
-Regardless, the Endeavor still only has one special action per round. What changes is that characters are limited in who they can interact with based on which number line they are on.
+- **Streamlined Success:** To streamline Endeavors, the GM allow all Checks to automatically succeed, providing larger effects for higher rolls.
+- **Receiving Aid:** If the GM does streamline Checks this way, then "recieve aid" effects would be unable to activate. At GM discretion, such effects may never activate, always activate, or only activate once per Endeavor per effect.
+- **Multiple Number Lines:** If an Endeavor spans a larger playing field than normal, the GM may divide the Endeavor into two or three number lines, where who you can interact with is limited based on which number line you are on. Depending on the situation, you may be able to change number lines by succeeding Checks or paying movement costs. In any case, the Endeavor still only has one special action per round across all number lines.
 
 ### GM Guide | Large-Scale Endeavors
 <!-- _class: guide -->
