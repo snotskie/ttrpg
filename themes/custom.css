@@ -153,7 +153,8 @@ td:empty {
 }
 
 /* toc */
-section.index a, section.toc a {
+section.index p a, section.toc p a,
+section.index span a, section.toc span a {
     float: right;
 }
 
@@ -184,22 +185,12 @@ section.title p:last-child {
 }
 
 /* hover of h3 */
-section[data-marpit-pagination] h1 a,
-section[data-marpit-pagination] h2 a,
-section[data-marpit-pagination] h3 a,
-section[data-marpit-pagination] h4 a,
-section[data-marpit-pagination].ability th a {
-    color: var(--color-foreground);
-}
-
-section[data-marpit-pagination] h1 a:hover:before,
-section[data-marpit-pagination] h2 a:hover:before,
-section[data-marpit-pagination] h3 a:hover:before,
-section[data-marpit-pagination] h4 a:hover:before,
-section[data-marpit-pagination].ability th a:hover:before {
-    content: "#";
-    position: absolute;
-    left: .2in;
+section h1 a,
+section h2 a,
+section h3 a,
+section h4 a,
+section.ability th a {
+    color: var(--color-foreground) !important;
 }
 
 /* ability table style */
@@ -244,13 +235,13 @@ section.guideability tbody td {
 }
 
 /* h4 for tables */
-h4 {
+section h4 {
     font-size: inherit;
     font-weight: normal;
     margin-bottom: 15px;
 }
 
-h4:before {
+section h4:before {
     content: "Table: ";
     font-weight: bold;
 }

@@ -523,23 +523,6 @@ The following pages list Ability options. These Abilities refer to a number of r
 ---
 <!-- _class: ability -->
 
-| Survival Instinct [Starter] |
-| --- |
-| Your reflexes have kept you safe. When you would fail a Check or lose a Contest while rolling your Hurry Stat, receive $+d2$ in aid. |
-
-Careful and Perceptive Instinct each require and extend Survival Instinct.
-
-| Careful Instinct |
-| --- |
-| And you've honed those reflexes to help you at tasks that would frighten others to do. When you would fail a Check while performing dangerous actions related enough to your Focus, receive $+d2$ in aid. |
-
-| Perceptive Instinct |
-| --- |
-| And like those reflexes, you've always got an eye out for trouble or treasure. Once per Discovery Endeavor, when a lay of the land is given, you may choose a type of glimmer button. More of that type will be added to the number line than usual. |
-
----
-<!-- _class: ability -->
-
 | Protective Armor [Starter] |
 | --- |
 | You've had to learn how to protect yourself in a fight. When you would lose against a violent Attack, receive $+d2$ in aid. |
@@ -557,19 +540,78 @@ Sentry's and Barbed Armor each require and extend Protective Armor.
 ---
 <!-- _class: ability -->
 
-| Acclimated Nature [Starter] |
+| Personal Bounty [Starter] |
 | --- |
-| Your travels have taught you how to calm your mind and body. When you would fail a Check against natural effects such as weather and disease, receive $+d2$ in aid. |
+| You're known in almost any situation for coming prepared or being conveniently light-fingered. When you would fail a Check to see if you already have an item on you, receive $+d2$ in aid. |
 
-Determined and Friendly Nature each require and extend Acclimated Nature.
+Fortune's and Trickster's Bounty each require and extend Personal Bounty.
 
-| Determined Nature |
+| Fortune's Bounty |
 | --- |
-| And you can calm yourself to a sharp focus even in dire situations. Once per action, you may ignore the negative effects of one of your injuries or conditions. *Recharge:* ③. |
+| And you know that if you want to be successful, then you need to make your own luck. When you fail a Check, you may attempt the Check again, using the newer result instead. *Recharge:* ⑤. |
 
-| Friendly Nature |
+| Trickster's Bounty |
 | --- |
-| And you've collected friends along the way. You gain access to a creature companion of your choice appropriate to the setting and within reason. When you would fail a Check or lose a Contest while working with your companion, receive $+X$ in aid, where $X$ depends on the companion and the Stat used, ranging from $-1$ to $+d4$. Moreover, this companion has its own backstory which extends your Focus while you work with it. If this companion is lost, stolen, destroyed, or you lose its loyalty, replacing it may require time and effort. |
+| And what's the harm in being prepared for a little razzle-dazzle every now and then? When another character succeeds a Check or wins a Contest, you may distract them using an item in your possession, modifying that character's result by $-3$, possibly turning their success into a failure or win into a loss. *Recharge:* ⑤. |
+
+---
+<!-- _class: ability -->
+
+| Contract Deal [Starter] |
+| --- |
+| You always know where to make a deal, even if it's not the most sound decision. While you are attempting to purchase goods or services, each ① you spend to Help yourself is worth ①①. |
+
+Wheel, Lifesaving, and Shrouded Deal each require and extend Contract Deal.
+
+| Wheel Deal |
+| --- |
+| And you'd break a few rules if it means settling debts. When you perform a special action in a Race Endeavor, you may create a terrain button anywhere along your movement. Then remove that terrain button once a character begins their movement on the same space as it. |
+
+| Lifesaving Deal |
+| --- |
+| And what's better than a good deal that keeps you alive? A character may automatically succeed a Check to tend to your wounds, even after they've rolled. *Recharge:* ①. When this Ability is recharged, increase the cost to recharge it by ①①. |
+
+| Shrouded Deal |
+| --- |
+| And you know that nothing's more valuable than good info. You may call upon a higher power, criminal underground, book of forbidden knowledge, or so on to gain access to secret information or an answer to a question. This information may come with consequences. *Recharge:* ④. |
+
+---
+<!-- _class: ability -->
+
+| Licensed Driver [Starter] |
+| --- |
+| You've gotten lots of practice or training operating vehicles. When you would fail a Check or lose a Contest to use a vehicle to transport supplies or other characters, receive $+d2$ in aid. |
+
+Getaway and Professional Driver each require and extend Licensed Driver.
+
+| Getaway Driver |
+| --- |
+| And it doesn't hurt to have your friends around when it's time to drive dangerously. While transporting others, you may designate characters you are transporting as your copilots. Once per copilot per session, you may act as though you had that copilot's Stats, Abilities, Focus, and items. |
+
+| Professional Driver |
+| --- |
+| And almost nothing is stronger than the bond you have with your own ride. You gain access to a vehicle of your choice appropriate to the setting and within reason. When you would fail a Check or lose a Contest while operating this vehicle, receive $+X$ in aid, where $X$ depends on the vehicle and the Stat used, ranging from $-1$ to $+d4$. Moreover, this vehicle has its own backstory which extends your Focus while you operate it. If this vehicle is lost, stolen, or destroyed, replacing it may require time and effort. |
+
+---
+<!-- _class: ability -->
+
+| Concerted Effort [Starter] |
+| --- |
+| It comes naturally to you to read situations to know exactly what other people need. When you spend ①① or more to Help another character, they gain a bonus as though you had spent an additional ①①. |
+
+Background, Rousing, and Delegated Effort each require and extend Concerted Effort.
+
+| Background Effort |
+| --- |
+| And you don't mind fading into the background to give a situation just the nudge it needs. You may adjust the "vibe" or "music" of a situation subtly. Others can't pinpoint what changed, but the mood shifts to suit your intent. *Recharge:* ④. |
+
+| Rousing Effort |
+| --- |
+| And people often turn to you for guidance or leadership. Once per session, when your pool of Blessing Dice has a total combined worth of at least $10$, you may tell a moving story or give an inspiring speech. Each other character who hears the story or speech gains a Blessing Die. |
+
+| Delegated Effort |
+| --- |
+| And your skills reading others helps you screen potential allies for teams that work well together. During a Clash Endeavor, your summons may perform Spark rolls by working together in pairs, using one Stat from each, so long as the chosen Stats are balanced and you pay the Blessing Die cost. |
 
 ---
 <!-- _class: ability -->
@@ -595,19 +637,36 @@ Roguish, Divining, and Ambitious Eye each require and extend Intuitive Eye.
 ---
 <!-- _class: ability -->
 
-| Licensed Driver [Starter] |
+| Survival Instinct [Starter] |
 | --- |
-| You've gotten lots of practice or training operating vehicles. When you would fail a Check or lose a Contest to use a vehicle to transport supplies or other characters, receive $+d2$ in aid. |
+| Your reflexes have kept you safe. When you would fail a Check or lose a Contest while rolling your Hurry Stat, receive $+d2$ in aid. |
 
-Getaway and Professional Driver each require and extend Licensed Driver.
+Careful and Perceptive Instinct each require and extend Survival Instinct.
 
-| Getaway Driver |
+| Careful Instinct |
 | --- |
-| And it doesn't hurt to have your friends around when it's time to drive dangerously. While transporting others, you may designate characters you are transporting as your copilots. Once per copilot per session, you may act as though you had that copilot's Stats, Abilities, Focus, and items. |
+| And you've honed those reflexes to help you at tasks that would frighten others to do. When you would fail a Check while performing dangerous actions related enough to your Focus, receive $+d2$ in aid. |
 
-| Professional Driver |
+| Perceptive Instinct |
 | --- |
-| And almost nothing is stronger than the bond you have with your own ride. You gain access to a vehicle of your choice appropriate to the setting and within reason. When you would fail a Check or lose a Contest while operating this vehicle, receive $+X$ in aid, where $X$ depends on the vehicle and the Stat used, ranging from $-1$ to $+d4$. Moreover, this vehicle has its own backstory which extends your Focus while you operate it. If this vehicle is lost, stolen, or destroyed, replacing it may require time and effort. |
+| And like those reflexes, you've always got an eye out for trouble or treasure. Once per Discovery Endeavor, when a lay of the land is given, you may choose a type of glimmer button. More of that type will be added to the number line than usual. |
+
+---
+<!-- _class: ability -->
+
+| Acclimated Nature [Starter] |
+| --- |
+| Your travels have taught you how to calm your mind and body. When you would fail a Check against natural effects such as weather and disease, receive $+d2$ in aid. |
+
+Determined and Friendly Nature each require and extend Acclimated Nature.
+
+| Determined Nature |
+| --- |
+| And you can calm yourself to a sharp focus even in dire situations. Once per action, you may ignore the negative effects of one of your injuries or conditions. *Recharge:* ③. |
+
+| Friendly Nature |
+| --- |
+| And you've collected friends along the way. You gain access to a creature companion of your choice appropriate to the setting and within reason. When you would fail a Check or lose a Contest while working with your companion, receive $+X$ in aid, where $X$ depends on the companion and the Stat used, ranging from $-1$ to $+d4$. Moreover, this companion has its own backstory which extends your Focus while you work with it. If this companion is lost, stolen, destroyed, or you lose its loyalty, replacing it may require time and effort. |
 
 ---
 <!-- _class: ability -->
@@ -640,27 +699,6 @@ However, some ideas are:
 ---
 <!-- _class: ability -->
 
-| Concerted Effort [Starter] |
-| --- |
-| It comes naturally to you to read situations to know exactly what other people need. When you spend ①① or more to Help another character, they gain a bonus as though you had spent an additional ①①. |
-
-Background, Rousing, and Delegated Effort each require and extend Concerted Effort.
-
-| Background Effort |
-| --- |
-| And you don't mind fading into the background to give a situation just the nudge it needs. You may adjust the "vibe" or "music" of a situation subtly. Others can't pinpoint what changed, but the mood shifts to suit your intent. *Recharge:* ④. |
-
-| Rousing Effort |
-| --- |
-| And people often turn to you for guidance or leadership. Once per session, when your pool of Blessing Dice has a total combined worth of at least $10$, you may tell a moving story or give an inspiring speech. Each other character who hears the story or speech gains a Blessing Die. |
-
-| Delegated Effort |
-| --- |
-| And your skills reading others helps you screen potential allies for teams that work well together. During a Clash Endeavor, your summons may perform Spark rolls by working together in pairs, using one Stat from each, so long as the chosen Stats are balanced and you pay the Blessing Die cost. |
-
----
-<!-- _class: ability -->
-
 | Radical Self-Acceptance [Starter] |
 | --- |
 | You've never been bothered by having your own way of doing things. While you are Uncool, you may roll Checks using a different Stat than normal. Then once a Check succeeds this way, you are no longer Uncool. |
@@ -678,23 +716,6 @@ Ascendant and Shameless Self-Acceptance each require and extend Radical Self-Acc
 ---
 <!-- _class: ability -->
 
-| Personal Bounty [Starter] |
-| --- |
-| You're known in almost any situation for coming prepared or being conveniently light-fingered. When you would fail a Check to see if you already have an item on you, receive $+d2$ in aid. |
-
-Fortune's and Trickster's Bounty each require and extend Personal Bounty.
-
-| Fortune's Bounty |
-| --- |
-| And you know that if you want to be successful, then you need to make your own luck. When you fail a Check, you may attempt the Check again, using the newer result instead. *Recharge:* ⑤. |
-
-| Trickster's Bounty |
-| --- |
-| And what's the harm in being prepared for a little razzle-dazzle every now and then? When another character succeeds a Check or wins a Contest, you may distract them using an item in your possession, modifying that character's result by $-3$, possibly turning their success into a failure or win into a loss. *Recharge:* ⑤. |
-
----
-<!-- _class: ability -->
-
 | Tactful Speech [Starter] |
 | --- |
 | You're well-versed in idle chatter, spinning conversation, or navigating social milieu. When you would lose a Contest trying to persuade, influence, inspire, or deceive others, receive $+d2$ in aid. |
@@ -708,27 +729,6 @@ Popular and Rebutted Speech each require and extend Tactful Speech.
 | Rebutted Speech |
 | --- |
 | And for you a conversational loss is never a *total* loss. When you lose against a non-violent Attack that was related enough to your Focus, you may have the Attacker receive a less severe version of the same effect you received from losing the Contest. *Recharge:* ③. |
-
----
-<!-- _class: ability -->
-
-| Contract Deal [Starter] |
-| --- |
-| You always know where to make a deal, even if it's not the most sound decision. While you are attempting to purchase goods or services, each ① you spend to Help yourself is worth ①①. |
-
-Wheel, Lifesaving, and Shrouded Deal each require and extend Contract Deal.
-
-| Wheel Deal |
-| --- |
-| And you'd break a few rules if it means settling debts. When you perform a special action in a Race Endeavor, you may create a terrain button anywhere along your movement. Then remove that terrain button once a character begins their movement on the same space as it. |
-
-| Lifesaving Deal |
-| --- |
-| And what's better than a good deal that keeps you alive? A character may automatically succeed a Check to tend to your wounds, even after they've rolled. *Recharge:* ①. When this Ability is recharged, increase the cost to recharge it by ①①. |
-
-| Shrouded Deal |
-| --- |
-| And you know that nothing's more valuable than good info. You may call upon a higher power, criminal underground, book of forbidden knowledge, or so on to gain access to secret information or an answer to a question. This information may come with consequences. *Recharge:* ④. |
 
 ---
 <!-- _class: ability -->

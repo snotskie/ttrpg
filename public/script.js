@@ -46,6 +46,10 @@ function toggleAutoscale(){
 
 function restyleIndexEntry(name){
     const parts = name.trim().split(" ");
+    if (parts.length < 2){
+        return name;
+    }
+
     const last = parts[parts.length-1];
     const first = parts.slice(0, parts.length-1).join(" ");
     return `${last}, ${first}`;
@@ -110,8 +114,7 @@ window.addEventListener("load", function(){
     // clickable headings
     document.querySelectorAll("h1,h2,h3,h4,.ability th").forEach(function(e){
         const section = e.closest("section");
-        const page = section.getAttribute("data-marpit-pagination");
-        if (page){
+        if (parseInt(section.getAttribute("id")) > 1){
             const html = e.innerHTML;
             e.innerHTML = "";
             const a = document.createElement("a");
