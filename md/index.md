@@ -77,7 +77,7 @@ Cover typography: Bebas Neue, by Ryoichi Tsunekawa
 ## Making Your First Character
 <!-- _class: center major creation -->
 
-### Character Creation: Step One!
+### Character Creation | Step One!
 <!-- _class: creation -->
 
 The following pages describe the **Stats** used in *Humanity, Blessed*, known collectively as **the H's of Humanity**. Your GM may add an additional one as well.
@@ -182,22 +182,22 @@ Your GM may add one of the following Stats to your game, depending on the game's
 
 | 💀 Hardship Stat |
 | --- |
-| *Scope:* Shared narrative touchstones of the story setting that represent the town's obstacles, troubles, and adversities. *Effect:* This Stat cannot be only be a $d4$. *Setting:* Suspense horror. |
+| *Scope:* Shared narrative elements of the story setting that represent the town's obstacles, troubles, and adversities. *Effect:* This Stat cannot be only be a $d4$. *Setting:* Suspense horror. |
 
 | 👻 Haunted Stat |
 | --- |
-| *Scope:* Dark narrative touchstones representing a character's fears, a curse they can't escape, or a malevolent force that haunts them. *Effect:* This Stat begins the game as a $d10$, and can only be decreased in the same way other Stats are normally increased, down to a minimum of a $d2$. Players do not choose to use this Stat. Instead, whenever the thing that haunts them is present (whether the character is aware of its presence or not), after the character has performed a roll, they then roll their Haunted Stat and subtract its value from the original roll's result. This Stat's die bumps as normal. *Setting:* Poe style. |
+| *Scope:* Dark narrative elements representing a character's fears, a curse they can't escape, or a malevolent force that haunts them. *Effect:* This Stat begins the game as a $d10$, and can only be decreased in the same way other Stats are normally increased, down to a minimum of a $d2$. Players do not choose to use this Stat. Instead, whenever the thing that haunts them is present (whether the character is aware of its presence or not), after the character has performed a roll, they then roll their Haunted Stat and subtract its value from the original roll's result. *Setting:* Poe style. |
 
 ---
 <!-- _class: ability -->
 
 | 🌳 Hardy Stat |
 | --- |
-| *Scope:* Shared narrative touchstones emerging from each session's obstacles and players' combined efforts against the challenges they've faced. *Effect:* This Stat is shared by all players at the table, and it cannot be upgraded by the normal means. Instead, it begins each session as a $d2$. When a player fails a Check or loses a Contest against a non-player character, this Stat upgrades to the next die size, to a maximum of a $d10$. Any player may choose to use the Hardy die instead of one of their other Stat Dice for any roll; when they do, this Stat returns to a $d2$. *Setting:* Coming of age. |
+| *Scope:* Shared narrative elements emerging from each session's obstacles and players' combined efforts against the challenges they've faced. *Effect:* This Stat is shared by all players at the table, and it cannot be upgraded by the normal means. Instead, it begins each session as a $d2$. When a player fails a Check or loses a Contest against a non-player character, this Stat upgrades to the next die size, to a maximum of a $d10$. Any player may choose to use the Hardy Stat Die instead of one of their other Stat Dice for any roll; when they do, this Stat returns to a $d2$. *Setting:* Coming of age. |
 
 | ⚫ Haze Stat |
 | --- |
-| *Scope:* Dark narrative touchstones representing a character's descent into madness or confusion. *Effect:* This die begins the game as a $d2$ and only changes when the character fails certain Checks or loses certain Contests against the ever-present darkness, at which point it increases by one die size. When another character makes an action against this character, that other character may choose to use this character's Haze Stat Die instead of their own usual die for the roll. *Setting:* Psychological horror. |
+| *Scope:* Dark narrative elements representing a character's descent into madness or confusion. *Effect:* This die begins the game as a $d2$ and only changes when the character fails certain Checks or loses certain Contests against the ever-present darkness, at which point it increases by one die size. When another character makes an action against this character, that other character may choose to use this character's Haze Stat Die instead of their own usual die for the roll. *Setting:* Psychological horror. |
 
 ### Stat Dice
 <!-- _class: rules -->
@@ -228,50 +228,7 @@ Also note:
 - **Bumping Dice Groups:** Some effects will ask you to roll a group of dice, denoted such as $2d6$. When rolling a group of dice, if you roll a $1$ on either die, then you roll all dice in the group again and add to the previous result. And as long as you continue to roll a $1$ on either die, you continue to roll the group again and add this way.
 - **Explicit Dice Grouping Only:** Note, $2d6$ is different from $1d6+1d6$. Only when an effect explicitly groups dice together are they considered a group for bumping. For example, both dice of the $2d6$ group are rerolled when either rolls a $1$. However, the dice of the $1d6+1d6$ are considered separate groups, so rolling a $1$ on one of the dice only affects that one die.
 
-### GM Guide: Bumping Die Statistics
-<!-- _class: guide -->
-
-If you need to estimate the average result of a roll of a die that bumps, follow this process.
-
-Let $a$ be the average value of the die if it *doesn't* roll a number that bumps. Normally this means the average when not rolling a $1$, but some Abilities modify this.
-
-Let $b$ be the average value of the die if it *does* roll a number that bumps. Normally this means just the value $1$, but some Abilities modify this.
-
-Let $c$ be the number of values on the die that *don't* cause it to bump. Normally this means one less than the size of the die, but some Abilities modify this.
-
-Let $k$ be the number of values on the die that *do* cause it to bump. Normally this means just $1$, but some Abilities modify this.
-
-Then, the average value of rolling the die would be:
-
-$a + \frac{bk}{c}$
-
-For example:
-
-- the average of a $d2$ is $2 + \frac{1}{2}$
-- the average of a $d8$ with the Advanced Training Ability is $5 + \frac{2}{7}$
-
----
-<!-- _class: guide -->
-
-The equation for finding the average of a roll with grouped dice is similar to before, but finding the values to plug in takes a few extra steps.
-
-Let $d$ be the size of the dice used for the roll.
-
-Let $n$ be the number of dice used for the roll. Normally this is just $2$, but some Abilities modify this.
-
-Let $a_s$ be the average value of the dice if *none* of them rolls a value that would bump: $a_s = n a$.
-
-Let $b_s$ be the average value of the dice if *any* of them rolls a value that would bump: $b_s = b + a \frac{c}{d} + b \frac{k}{d}$
-
-Let $k_s$ be the number of possible rolls where *any* of the dice rolls a value that would bump: $k_s = k^n + n (d-k) k^{n-1}$
-
-Let $c_s$ be the number of possible rolls where *none* of the dice rolls a value that would bump: $c_s = d^n - k_s$
-
-Then, the average value of rolling the Sparked dice would be:
-
-$a_s + \frac{b_s k_s}{c_s}$
-
-### Character Creation: Step Two!
+### Character Creation | Step Two!
 <!-- _class: creation -->
 
 The following pages describe **Lifestyle** and **Ethic** options. Some Lifestyles are **upgrade options** you will not have access to when the game begins.
@@ -380,7 +337,7 @@ Once you've chosen your starter Lifestyle and Ethic, consult the table below. **
 | --- |
 | *Description:* At the end of the day, you may believe that the only person you can really trust is yourself. You may also believe that the world is unfair, "good" and "fate" are made up ideas, and you'd do whatever it takes to just get by. |
 
-### GM Guide: Campaign Ethic
+### GM Guide | Campaign Ethic
 <!-- _class: guide -->
 
 As you begin to imagine the world and genre of your campaign, consider what it means to be "Carefree," "Eager," or "Wisened" in your setting. Doing so requires making assumptions about the Ethic of the world itself!
@@ -391,7 +348,7 @@ As you begin to imagine the world and genre of your campaign, consider what it m
 
 **⚙️ Cunning &amp; Capability** settings are well equipped for cyberpunk, steam punk, hard sci-fi, spy fiction, heist fiction, josei, surveillance-state fiction, noir, and antihero/villain stories. This genre is likely familiar, and fits stories well that have high stakes without necessarily a clear good vs. evil component. The Crafty, Wired, and Compelling upgrade options are the most "default" in such settings.
 
-### Character Creation: Step Three!
+### Character Creation | Step Three!
 <!-- _class: creation -->
 
 Begin to describe your character's backstory. **Answer the following prompts** or others given to you by your GM.
@@ -411,10 +368,10 @@ And as you play, **keep notes**! These can help you reflect on you and your grou
 
 Such reflection can help you **shape the course** of your Focus and your character's development over the duration of the story, **make important character choices** during your sessions, and **inspire you and your GM** for ideas for future scenes and sessions.
 
-### GM Guide: Determining Focus
+### GM Guide | Determining Focus
 <!-- _class: guide -->
 
-As you work with your players to develop their backstory and Focus, come up with a list of three to five specific narrative touchstones for each player that describe what their History Stat covers. For example:
+As you work with your players to develop their backstory and Focus, come up with a list of three to five specific narrative elements for each player that describe what their History Stat covers. For example:
 
 - Tying Knots (for a scout)
 - Swordfighting (for a knight)
@@ -428,7 +385,7 @@ As you work with your players to develop their backstory and Focus, come up with
 
 Consider what *unique* skills, proficiencies, traits, and backstory elements each character brings to the story. Also consider the *variety* of a character's Focus: if all or most of them would be covered already by another Stat, then the player would have no reason to use or upgrade their History Stat!
 
-### GM Guide: Non-Human Characters
+### GM Guide | Non-Human Characters
 <!-- _class: guide -->
 
 If your game's setting allows your players to create non-human characters, there are generally two approaches for how to represent it. The choice depends on the variety of non-human backgrounds between your players:
@@ -436,7 +393,7 @@ If your game's setting allows your players to create non-human characters, there
 - **High Variety:** If each player character has a different non-human background, then the simplest option is to use each character's Focus to cover one or two simple actions, within reason, that characters of their non-human background could perform unaided that human characters couldn't.
 - **Low Variety:** If player characters all come from just a few non-human background options, then using their Focus to cover this background would clog them with details that aren't unique to each player. Instead, expand the scope of two or three Stats besides History to cover one or two simple actions each, within reason, that characters of their non-human backgrounds could perform unaided that human characters couldn't.
 
-### Character Creation: Step Four!
+### Character Creation | Step Four!
 <!-- _class: creation -->
 
 The following pages describe another type of dice in this game, **Blessing Dice**, as well as several **Ability** options. As your read, you may want to consult the **Playing the Game** chapter to learn more about the rules Abilities interact with.
@@ -473,7 +430,7 @@ In general:
 | ① $\times 4$ | Four Blessing Dice each worth $1$ or more. |
 | ⊜⊜ | Two Blessing Dice of the same worth. |
 
-### GM Guide: When to Award Blessing Dice
+### GM Guide | When to Award Blessing Dice
 <!-- _class: guide -->
 
 You should award players Blessing Dice consistently and throughout each session, as many characters' abilities depend on them.
@@ -671,7 +628,7 @@ Charitable and Honorable Resolve each require and extend Fearless Resolve.
 | --- |
 | And it's okay to risk a loss when it means protecting what you care about. *Effect:* You may Attack to protect your honor or loved ones, using Hand or Home instead of Hurt as usual. If you lose the Contest, you receive injuries as though you were Attacked instead. *Recharge:* ④. |
 
-### GM Guide: Charitable Resolve's Boon
+### GM Guide | Charitable Resolve's Boon
 <!-- _class: guide -->
 
 How you rule the boon given by the "Charitable Resolve" ability may vary by session, setting, scene, or even be determined in the moment when the players need it most.
@@ -769,7 +726,7 @@ Adaptive Synchrony extends any other Ability.
 | *Spark Together:* You may perform a Spark roll using one of your Stats and one of the Stats of another willing character in the scene, so long as the chosen Stats are balanced, both characters have this Ability, and the Blessing Die cost is paid between the two characters. Doing so is considered acting as a group. |
 | *Spark Enmity:* During a Contest against another individual, before either character rolls, you may spend ⊜⊜ to act synchronously with your opponent. If you do, the two of you perform your rolls at the same time. When either of you would bump, you both bump. You both still maintain your own separate roll totals. This Ability may not be used at the start of an Endeavor round. |
 
-### Character Creation: Step Five!
+### Character Creation | Step Five!
 <!-- _class: creation -->
 
 Finally, **describe your character's appearance** and list **three or four items** your character always carries, within reason. These will be the items you begin the game with.
@@ -777,17 +734,6 @@ Finally, **describe your character's appearance** and list **three or four items
 You'll track a list of items that you typically carry with you, and other items you may have can be **determined in the moment**: Over the course of the story, you may perform Checks to **find** new items, **create** new items, **purchase and sell** items, and even see if you **already have** items that could be narratively reasonable for you to have.
 
 And while most items are narrative, some **higher quality items** you acquire along the way may provide aid or effects similar to some Abilities.
-
-### GM Guide: Creating NPCs
-<!-- _class: guide -->
-
-You do not need to go through the entire character creation process to create NPCs for your table. Instead, you only need the following and may improvise the rest:
-
-- Focus and History Stat Die.
-- What the NPC's motivation and quirks are and how they relate to two PCs' histories.
-- One other Stat's Die that is unusually high or low compared to the rest.
-- One Stat Die shared by all the other Stats.
-- At most one Ability. If the Ability would require recharging to be used, instead roll a $d6$ as though gaining a Blessing Die. If the NPC would gain a Blessing Die worth enough to recharge the Ability, instead recharge the Ability immediately.
 
 ### Session Shop Upgrades
 <!-- _class: ability -->
@@ -837,11 +783,6 @@ You may also spend ①①① to receive an additional upgrade beyond the one you
 | --- |
 | *Effect:* Regardless of your starting Lifestyle, you may upgrade your Lifestyle to Lost. If you do, you receive this upgrade at the end of the following session. Then, once your Lifestyle is Lost, you may upgrade your Lifestyle to any other option. If you do, you receive this upgrade at the end of the following session. |
 
-### GM Guide: Catching Players Up
-<!-- _class: guide -->
-
-Offer players one additional free upgrade at the end of sessions when they would have fewer total upgrades than the player with the most total upgrades.
-
 ## Playing the Game
 <!-- _class: center major rules -->
 
@@ -888,7 +829,7 @@ Also note:
 | Very Hard | $16$ |
 | Trial | $20$ |
 
-### GM Guide: Setting Targets for Magic
+### GM Guide | Setting Targets for Magic
 <!-- _class: guide -->
 
 If your setting has "magic" or other supernatural, reality-bending player capabilities, the way you set targets for these Checks depends on the nature of "magic" in your setting. 
@@ -986,23 +927,6 @@ To perform a violent Contest:
 Also note:
 
 - **Checks vs. Contests:** Checks use the terms "fail," "succeed," and "target," while Contests use "lose," "win," "Attack," "Defend," and "outcome size" instead. When an effect only mentions failing or succeeding Checks, it does not affect losing or winning Contests. And when an effect only mentions losing or winning Contests, it does not affect failing or succeeding Checks. For example, the "Fortune's Bounty" Ability allows you to turn a failed Check into a success. However, it does not allow you to turn a lost Contest into a win. The Uncool condition on the other hand does affect both Checks and Contests, because it modifies the results of rolls performed, without mentioning success, failure, win, or loss directly.
-
-### GM Guide: Describing Violent Effects
-<!-- _class: guide -->
-
-When describing the results of violent effects dealt to or by the player characters, don't only rely on status conditions or descriptions of injuries.
-
-Include variety over the course of the campaign: What does the Attacker *want*? The character's motivations should drive the narrative, not just the game mechanics.
-
-You may treat Minor and Medium violent effects as ways the Attacker can get at what they want from the Defender in the scene, which is not always to just inflict injury on others.
-
-And you may treat Major violent effects as representing going too far using violent means to get what one wants.
-
-When a character suffers a Major violent effect, it can be unsatisfying for them to be immediately incapacitated or, in the extreme, removed from the game.
-
-Instead, you might draw the tension and possibility to respond out further. One way to do so is to provide the affected character's allies opportunity to perform a Home Contest against the same roll that the Attacker used to inflict the Major violent effect.
-
-If an ally wins the Contest by $4$ or more, then the violent effect is successfully mitigated, perhaps reducing it to a Medium or Minor effect. However, if the Attacker is able to roll $8$ or more on a Hurt Check before the allies can successfully treat the effect, then the Attacker may deliver a *coup de grace*.
 
 ### Group Checks and Contests
 <!-- _class: rules -->
@@ -1194,6 +1118,18 @@ You and your fellow players may propose plans that could direct how you set out 
 ### TODO
 <!-- _class: rules -->
 
+Some events challenge your resolve, throw you off your game, cause you great embarrassment, or so on. When these happen, you may become Uncool.
+
+While you are Uncool, all rolls you make are modified by $-1$. Once during each scene that follows, you may attempt a Check to remove this condition.
+
+The Uncool mechanic is a way to break the tension and bring comedy to your game. It is also a way to represent small story arcs where characters feel bad after some failed action, and take action later to feel better about it. And it is a way to connect player characters more to the non-player characters watching them.
+
+How and when you dole out this condition depends on what is best for your table, players, and story. A suggestion is to help the player tell the story of how their character is feeling after a particularly bad roll (failing or losing by $5$ or more). Who else is around that saw it happen? How would their Hero feel? How does this relate to what they've established about their backstory, goal, Lifestyle, or connection to other characters?
+
+Equally important is how you give the players opportunities to *remove* this condition. Each attempt should be a fun, satisfying story beat that helps shape the narrative of how the player's character grows.
+
+So when you build the narrative around how a character becomes Uncool and what this means for their connections to other characters, keep in the back of your head how you could use these same connections later to remove the condition and offer the player a chance to roleplay growth from their earlier failure.
+
 #### Condition Effects
 
 | Condition | Description |
@@ -1206,24 +1142,6 @@ You and your fellow players may propose plans that could direct how you set out 
 | Surprised | *Effect:* Your next roll cannot bump, Spark, or be an automatic History Check success. *Duration:* Until next roll. |
 | Uncool | *Effect:* Rolls you make are made with a $-1$ modifier. *Duration:* Until removed. |
 | Vulnerable | *Effect:* When another character sees you roll the affected Stat, they may have you perform the roll again and use the new value if it is lower. *Duration:* Until treated. |
-
-### Coolness
-<!-- _class: rules -->
-
-Some events challenge your resolve, throw you off your game, cause you great embarrassment, or so on. When these happen, you may become Uncool.
-
-While you are Uncool, all rolls you make are modified by $-1$. Once during each scene that follows, you may attempt a Check to remove this condition.
-
-### GM Guide: Becoming Uncool
-<!-- _class: guide -->
-
-The Uncool mechanic is a way to break the tension and bring comedy to your game. It is also a way to represent small story arcs where characters feel bad after some failed action, and take action later to feel better about it. And it is a way to connect player characters more to the non-player characters watching them.
-
-How and when you dole out this condition depends on what is best for your table, players, and story. A suggestion is to help the player tell the story of how their character is feeling after a particularly bad roll (failing or losing by $5$ or more). Who else is around that saw it happen? How would their Hero feel? How does this relate to what they've established about their backstory, goal, Lifestyle, or connection to other characters?
-
-Equally important is how you give the players opportunities to *remove* this condition. Each attempt should be a fun, satisfying story beat that helps shape the narrative of how the player's character grows.
-
-So when you build the narrative around how a character becomes Uncool and what this means for their connections to other characters, keep in the back of your head how you could use these same connections later to remove the condition and offer the player a chance to roleplay growth from their earlier failure.
 
 ### General Endeavor Rules
 <!-- _class: rules -->
@@ -1248,22 +1166,7 @@ There are several different types of Endeavors depending on the scenario. Howeve
 - **Group Movement:** If a group moves together an amount, they only move a total of that amount. How the group distributes this movement among its members is up to the group to decide: they may distribute the movement evenly, give it all to one member, or any other arrangement the group agrees on.
 - **Buttons:** Endeavors add a number of buttons to the number line. There are two types of buttons, personal and global. Personal buttons can only be activated by the character who added them, whereas global buttons can be activated by any character. If an Endeavor uses buttons, it will describe how each is activated and the effect that happens as a result.
 
-### GM Guide: Simplified Endeavor Rolls
-<!-- _class: guide -->
-
-Occassionaly limiting the Stats that are applicable each round can help provide structure and flavor for your Endeavors. For example:
-
-- The party is ambushed. Ambushers roll Hurt, and the ambushed roll Hurry.
-- The party is playing a game of giant magic chess and each round must roll Head or Hand.
-- Two bands and their groupies are competing in a battle of the bands. Band members must roll Headline, and groupies must roll something else.
-- An avalanche occurs mid-Endeavor. All characters must roll Hurry. Anyone who fails to clear a threshold cannot act this round.
-
-In any case, keep in mind how your players actually think about the Endeavor and what their goals are!
-
-Simplifying Endeavor rolls this way removes player autonomy, but it also (a) lowers the cognitive load of thinking up a narrative for one's actions and (b) creates rules around the Endeavor that can make it feel distinct from other Endeavors in the campaign.
-
-### GM Guide: Simplified Endeavor Check Targets
-<!-- _class: guide -->
+TODO Streamlined Aid: At GM discretion, your "receive aid" effects may either always activate, never activate, or only activate once per round per effect, regardless if you would have failed, lost, succeeded, or won the associated Check or Contest.
 
 Instead of determining a target for each Check in an Endeavor, for most Checks you may allow characters to automatically succeed, but then compare the size of their outcome to the effect they wanted to achieve. Based on that, award them a weaker or stronger or moreorless complete version of that intended effect.
 
@@ -1271,8 +1174,7 @@ This allows you to reserve setting targets for Checks where failure would be int
 
 If you use this approach, characters would be unable to activate "receive aid" Abilities for Checks. So, make it clear the start of the Endeavor if, for the sake of the Endeavor, such Abilities (a) always activate, even without explicit failure, or (b) never activate because of the dire pressure of the situation.
 
-### GM Guide: Multiple Number Lines
-<!-- _class: guide -->
+TODO:
 
 In Endeavors covering a larger playing field where it would be narratively unsatisfying for characters in different regions of the field to affect one another, you may split the Endeavor into two, at most three, number lines.
 
@@ -1280,7 +1182,7 @@ Depending on the situation, characters may be able to change the number line the
 
 Regardless, the Endeavor still only has one special action per round. What changes is that characters are limited in who they can interact with based on which number line they are on.
 
-### GM Guide: Large-Scale Endeavors
+### GM Guide | Large-Scale Endeavors
 <!-- _class: guide -->
 
 Resolving actions that occur on massive scales&mdash;such as war, democracy, alien invasion, and farming during environmental disaster&mdash;requires shifting the scale of the narrative.
@@ -1334,8 +1236,9 @@ Some campaigns or sessions may involve the player characters summoning, rallying
 | ------ | ----------- |
 | Victory | *Type:* Global. *Activation:* Activate this button when you move over it. *Effect:* End your movement, remove this button. Your summoner gains this button for tracking how many victory buttons their summons have activated. |
 
-### GM Guide: Stats for Summons
-<!-- _class: guide -->
+---
+
+TODO
 
 For simplicity, Summons may use Stats similar to how Monstrosities use them. You may use the following table as a starting point for converting rolls to summon Stats.
 
@@ -1381,33 +1284,6 @@ Some campaigns or sessions may involve a prolonged scene where the player charac
 | ------ | ----------- |
 | Glimmer | *Type:* Global. *Activation:* You may activate this button when you end your turn on it. *Effect:* Remove this button and perform any Checks or other actions associated with it. If this button has a Check, roll a new value and perform the Check with it. Target for such a Check will be equal to the glimmer button's position. |
 
-### GM Guide: Preparing Glimmer Buttons
-<!-- _class: guide -->
-
-You do not need to specify ahead of time which discoveries correspond to each glimmer button. Instead, decide which categories of discoveries might be present in the area: items, information, social interactions, traps, or so on.
-
-Then, for each, decide how copious it might be in the area:
-
-- **Rare:** Roll $1d4-2$ and if the result is positive add that many glimmer buttons of that type to the number line. This die bumps as usual. (For even rarer discoveries, you may roll $1d4-3$ or $1d4-4$ instead.)
-- **Uncommon:** Do the same as above, but with $1d4$.
-- **Common:** Do the same as above, but with $1d6$.
-- **Abundant:** Do the same as above, but with $1d8$.
-- **Copious:** Do the same as above, but with $1d10$.
-
----
-<!-- _class: guide -->
-
-Then, improvise following your players' choices. For example, when they decide to interact with a "loot" glimmer at position $10$ instead of a "social" glimmer, ask yourself:
-
-- What are they looking for?
-- What Stat did they use to reach it?
-- What would a "loot" of target $10$ look like?
-- What might be available in this area?
-- How does this area relate to the larger area and events of the story?
-- What information can you present alongside it?
-- What item, result, or information could be given for free based on the character's Focus?
-- If the character will need to roll a new Check to interact with the glimmer, what Stat can you ask them to roll that will add new detail to the scene without being the same Stat they just rolled?
-
 ### 🧟 Monstrous Endeavors
 <!-- _class: rules -->
 
@@ -1451,7 +1327,7 @@ Some campaigns or sessions may involve the player characters and their allies fa
 | Revenge | *Type:* Personal. *Activation:* Activate this button when you move over it. *Effect:* End your movement, remove this button, and immediately use Perform an Attack against an opponent who caused you to move down this round, even if you or the opponent have already acted this round. |
 | Defeat | *Type:* Personal. *Activation:* Activate this button when you move over it. *Effect:* End your movement, remove this button, and you are removed from the Endeavor. |
 
-### GM Guide: Monstrous Stats
+### GM Guide | Monstrous Stats
 <!-- _class: guide -->
 
 - **Stats:** A Monstrosity's has only two Stat Dice, a higher dice (HD) shared between all their strongest Stats and a lower die (LD) shared between all the rest.
@@ -1499,15 +1375,6 @@ The following tables provide a starting point for creating Monstrosities at diff
 | Fervor | *Min Difficulty:* Very Hard. *Effect:* You gain the special action: If you rolled Heart or Hurt, your allies each gain a Revenge button at $3$ below their current position. |
 | Immunity | *Min Difficulty:* Very Hard. *Effect:* When you would lose a Contest against the type of effect you have immunity against, you succeed by $1$ instead. |
 | Unrelenting | *Min Difficulty:* Trial. *Effect:* At the end of each round, perform a new roll and use Perform an Attack for each time you've activated a recovery button. |
-
-### GM Guide: Spoils
-<!-- _class: guide -->
-
-Like any other important moment in the narrative, you may choose to award your players Blessings for progressing through a milestone or for creative or cooperative gameplay during the Monstrous Endeavor. 
-
-Additionally, at the end of a Monstrous Endeavor, you may permit your players to perform Checks to find items of interest along the "spoils" of their victory. For example, players may look for parts they can reuse when they defeat murderous robots, a clue revealing the location of the mad scientist's hideout when they calm and befriend one of her creations, or so on.
-
-These narratively reflective moments after a Monstrous Endeavor can be a great chance to rebalance the narrative tension while giving your players agency in thinking about where the story goes next.
 
 ### 🏇 Race Endeavors
 <!-- _class: rules -->
