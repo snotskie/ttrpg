@@ -232,6 +232,12 @@ section.guideability tbody td {
     section.bw img.emoji {
         display: none;
     }
+
+    section.bw code {
+        background: var(--color-background);
+        color: var(--color-foreground);
+        border: 1px solid var(--color-foreground);
+    }
 }
 
 /* h4 for tables */
