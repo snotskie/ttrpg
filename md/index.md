@@ -517,7 +517,7 @@ Characters in this game may have a number of Abilities that provide them with ne
 The following pages list Ability options. These Abilities refer to a number of rules described in the next chapter. However, for now you should know:
 
 - **Require:** Some Abilities require another Ability or condition. Such Abilities cannot be gained until you've first gained the required Ability or met the required condition.
-- **Extend:** Some Abilities extend another Ability. When an Ability is extended, it no longer counts against your number of Ability Upgrades received, as described in the Session Shop section later in this chapter.
+- **Extend:** Some Abilities extend another Ability. When an Ability is extended, it no longer counts against your total number of Abilities.
 - **Recharge:** Some Abilities list a recharge cost. Once activated, these Abilities cannot be activated again until they have been recharged by paying that cost.
 
 ---
@@ -720,7 +720,7 @@ Ascendant and Shameless Self-Acceptance each require and extend Radical Self-Acc
 | --- |
 | You're well-versed in idle chatter, spinning conversation, or navigating social milieu. When you would lose a Contest trying to persuade, influence, inspire, or deceive others, receive $+d2$ in aid. |
 
-Popular and Rebutted Speech each require and extend Tactful Speech.
+Popular, Rebutted, and Director's Speech each require and extend Tactful Speech.
 
 | Popular Speech |
 | --- |
@@ -729,6 +729,10 @@ Popular and Rebutted Speech each require and extend Tactful Speech.
 | Rebutted Speech |
 | --- |
 | And for you a conversational loss is never a *total* loss. When you lose against a non-violent Attack that was related enough to your Focus, you may have the Attacker receive a less severe version of the same effect you received from losing the Contest. *Recharge:* ③. |
+
+| Director's Speech |
+| --- |
+| And you can say what you needs saying quickly and efficiently. During Endeavors, you gain the action: Ignore your roll. Choose an ally who has not acted yet to roll a new value. They may choose a new Stat for this roll. |
 
 ---
 <!-- _class: ability -->
@@ -764,26 +768,20 @@ Concentration and Ambidexterity Training each require and extend Advanced Traini
 
 | Ambidexterity Training |
 | --- |
-| And your studies have helped you take down your foes ever faster. In a Monstrous Endeavor, when an opponent activates a recovery or revenge button as a result of your Attack, after resolving that button it continues moving however much movement would have been prevented. |
+| And your studies have helped you take down your foes even faster. In a Monstrous Endeavor, when an opponent activates a recovery or revenge button as a result of your Attack, after resolving that button it continues moving however much movement would have been prevented. |
 
 ---
 <!-- _class: ability -->
 
-| Ability Synchrony |
-| --- |
-| You may spend ⊜⊜ to loan one of your Abilities to another willing character in the scene. This effect lasts until the end of the scene or sooner if you choose. |
+Adaptive Synchrony extends any other Ability.
 
-| History Synchrony |
+| Adaptive Synchrony |
 | --- |
-| You may spend ⊜⊜ to exchange Focus elements with another willing character in the scene. This effect lasts until the end of the scene or sooner if you choose. |
-
-| Spark Synchrony |
-| --- |
-| You may perform a Spark roll using one of your Stats and one of the Stats of another willing character in the scene, so long as the chosen Stats are balanced, both characters have this Ability, and the Blessing Die cost is paid between the two characters. Doing so is considered acting as a group. |
-
-| Enmity Synchrony |
-| --- |
-| During a Contest against another individual, before either character rolls, you may spend ⊜⊜ to act synchronously with your opponent. If you do, the two of you perform your rolls at the same time. When either of you would bump, you both bump. You both still maintain your own separate roll totals. This Ability may not be used at the start of an Endeavor round. |
+| Through careful reflection, you have learned how to adapt your Spark even further to new situations. Each session, choose two of the following effects for this Ability to have. |
+| **Loan Ability:** You may spend ⊜⊜ to loan one of your Abilities to another willing character in the scene. This effect lasts until the end of the scene or sooner if you choose. |
+| **Exchange Focus:** You may spend ⊜⊜ to exchange Focus elements with another willing character in the scene. This effect lasts until the end of the scene or sooner if you choose. |
+| **Spark Together:** You may perform a Spark roll using one of your Stats and one of the Stats of another willing character in the scene, so long as the chosen Stats are balanced, both characters have this Ability, and the Blessing Die cost is paid between the two characters. Doing so is considered acting as a group. |
+| **Spark Enmity:** During a Contest against another individual, before either character rolls, you may spend ⊜⊜ to act synchronously with your opponent. If you do, the two of you perform your rolls at the same time. When either of you would bump, you both bump. You both still maintain your own separate roll totals. This Ability may not be used at the start of an Endeavor round. |
 
 ## Items
 <!-- _class: center creation -->
@@ -839,7 +837,7 @@ You may also spend ①①① to receive an additional upgrade beyond the one you
 
 | Ability Upgrade |
 | --- |
-| You may use your upgrade to gain an additional Ability. If you do, you receive this upgrade at the end of the following session. You may only receive this upgrade $2$ times. |
+| You may use your upgrade to gain an additional Ability. If you do, you receive this upgrade at the end of the following session. You may not use this upgrade to have more than $4$ Abilities at a time, not counting Abilities that were extended. |
 | When you receive the Ability Upgrade, you may, as a free adjustment, lose one non-extended Ability and replace it with another Ability. |
 
 | Item Upgrade |
