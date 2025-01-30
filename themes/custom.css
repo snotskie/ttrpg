@@ -55,7 +55,7 @@ section:after {
     --color-rules-2: #7f8c8d;
 }
 
-section.major h1 {
+section.major h2 {
     border: .1in solid var(--color-major);
     text-align: center;
     padding: .1in;

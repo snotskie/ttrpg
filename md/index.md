@@ -8,7 +8,7 @@ paginate: true
 headingDivider: 3
 ---
 
-# Humanity, Blessed
+## Humanity, Blessed
 <!-- _class: title -->
 <!-- _paginate: skip -->
 
@@ -60,18 +60,22 @@ Cover typography: Bebas Neue, by Ryoichi Tsunekawa
 <!-- _class: toc -->
 <div id="toc"><h3>Contents</h3></div>
 
-## About
+---
+<!-- _paginate: skip -->
+<!-- _class: toc -->
+<div id="toc2"></div>
+
+---
+<!-- _paginate: skip -->
+<!-- _class: toc -->
+<div id="toc3"></div>
+
+### About
 
 *Humanity, Blessed* is a rules-light TTRPG system inspired by our favorite games, books, and TV. *Humanity, Blessed* is designed to tell stories about what it means to be human, doing goofy, cool, fantastic little human things.
 
-# Making Your First Character
+## Making Your First Character
 <!-- _class: center major creation -->
-
-## Stats
-<!-- _class: center creation -->
-
-> *Each character in this game has a small number of Stats. Together, these represent a character's general capabilities at a wide range of tasks and situations.*
-> *&mdash;snotskie*
 
 ### Character Creation: Step One!
 <!-- _class: creation -->
@@ -136,49 +140,49 @@ Your GM may add one of the following Stats to your game, depending on the game's
 
 | 🪶 Hex Stat |
 | --- |
-| *Scope:* Use of wands, spells, potions, and other magical instruments, traps, lore, and knowledge. *Setting:* magic or fantasy. |
+| *Scope:* Use of wands, spells, potions, and other magical instruments, traps, lore, and knowledge. *Setting:* Magic or fantasy. |
 
 | 🥕 Ham Stat |
 | --- |
-| *Scope:* Use of outlandish solutions, cartoonish items, and pun-based bends of reality. *Setting:* cartoon. |
+| *Scope:* Use of outlandish solutions, cartoonish items, and pun-based bends of reality. *Setting:* Cartoon. |
 
 | 🔎 Hunch Stat |
 | --- |
-| *Scope:* Locating clues, guessing the right solution to a puzzle, being in the right place at the right time. *Setting:* film noir. |
+| *Scope:* Locating clues, guessing the right solution to a puzzle, being in the right place at the right time. *Setting:* Film noir. |
 
 | 🦾 Hardware Stat |
 | --- |
-| *Scope:* Use of machines, robotics, and cybernetic implants. *Setting:* cyberpunk. |
+| *Scope:* Use of machines, robotics, and cybernetic implants. *Setting:* Cyberpunk. |
 
 ---
 <!-- _class: ability -->
 
 | 👾 Hologram Stat |
 | --- |
-| *Scope:* Directly investigating, interacting with, noticing inconsistencies in, and reshaping the simulation the characters exist within. *Setting:* futuristic. |
+| *Scope:* Directly investigating, interacting with, noticing inconsistencies in, and reshaping the simulation the characters exist within. *Setting:* Futuristic. |
 
 | 💰 Hireling Stat |
 | --- |
-| *Scope:* Acquiring employees, minions, or quest companions, and effectively delegating tasks and operating a business. *Setting:* absurd capitalist. |
+| *Scope:* Acquiring employees, minions, or quest companions, and effectively delegating tasks and operating a business. *Setting:* Absurd capitalist. |
 
 | 🎁 Holly Jolly Stat |
 | --- |
-| *Scope:* Drawing from the magic of the season to bring people joy, operating devices from the North Pole, and interacting with reindeer, snowmen, yetis, and other such fantastical beasts. *Setting:* winter wonderland. |
+| *Scope:* Drawing from the magic of the season to bring people joy, operating devices from the North Pole, and interacting with reindeer, snowmen, yetis, and other such fantastical beasts. *Setting:* Winter wonderland. |
 
 | 🎧 Headline Stat |
 | --- |
-| *Scope:* Performing music on stage, in a garage with your band, moving in sync with the beat. *Setting:* battle of the bands. |
+| *Scope:* Performing music on stage, in a garage with your band, moving in sync with the beat. *Setting:* Battle of the bands. |
 
 ---
 <!-- _class: ability -->
 
 | 🦠 Host Stat |
 | --- |
-| *Scope:* Drawing on the power of your symbiote to push beyond your normal capabilities. *Effect:* When you would fail a Check or lose a Contest while using this Stat, receive $+d2$ in aid. There may be consequences. *Setting:* alien paranormal suspense. |
+| *Scope:* Drawing on the power of your symbiote to push beyond your normal capabilities. *Effect:* When you would fail a Check or lose a Contest while using this Stat, receive $+d2$ in aid. There may be consequences. *Setting:* Alien paranormal suspense. |
 
 | 💀 Hardship Stat |
 | --- |
-| *Scope:* Shared narrative touchstones of the story setting that represent the town's obstacles, troubles, and adversities. *Effect:* This Stat cannot be only be a $d4$. *Setting:* suspense horror. |
+| *Scope:* Shared narrative touchstones of the story setting that represent the town's obstacles, troubles, and adversities. *Effect:* This Stat cannot be only be a $d4$. *Setting:* Suspense horror. |
 
 | 👻 Haunted Stat |
 | --- |
@@ -189,11 +193,11 @@ Your GM may add one of the following Stats to your game, depending on the game's
 
 | 🌳 Hardy Stat |
 | --- |
-| *Scope:* Shared narrative touchstones emerging from each session's obstacles and players' combined efforts against the challenges they've faced. *Effect:* This Stat is shared by all players at the table, and it cannot be upgraded by the normal means. Instead, it begins each session as a $d2$. When a player fails a Check or loses a Contest against a non-player character, this Stat upgrades to the next die size, to a maximum of a $d10$. Any player may choose to use the Hardy die instead of one of their other Stat Dice for any roll; when they do, this Stat returns to a $d2$. *Setting:* coming of age. |
+| *Scope:* Shared narrative touchstones emerging from each session's obstacles and players' combined efforts against the challenges they've faced. *Effect:* This Stat is shared by all players at the table, and it cannot be upgraded by the normal means. Instead, it begins each session as a $d2$. When a player fails a Check or loses a Contest against a non-player character, this Stat upgrades to the next die size, to a maximum of a $d10$. Any player may choose to use the Hardy die instead of one of their other Stat Dice for any roll; when they do, this Stat returns to a $d2$. *Setting:* Coming of age. |
 
 | ⚫ Haze Stat |
 | --- |
-| *Scope:* Dark narrative touchstones representing a character's descent into madness or confusion. *Effect:* This die begins the game as a $d2$ and only changes when the character fails certain Checks or loses certain Contests against the ever-present darkness, at which point it increases by one die size. When another character makes an action against this character, that other character may choose to use this character's Haze Stat Die instead of their own usual die for the roll. *Setting:* psychological horror. |
+| *Scope:* Dark narrative touchstones representing a character's descent into madness or confusion. *Effect:* This die begins the game as a $d2$ and only changes when the character fails certain Checks or loses certain Contests against the ever-present darkness, at which point it increases by one die size. When another character makes an action against this character, that other character may choose to use this character's Haze Stat Die instead of their own usual die for the roll. *Setting:* Psychological horror. |
 
 ### Stat Dice
 <!-- _class: rules -->
@@ -266,12 +270,6 @@ Let $c_s$ be the number of possible rolls where *none* of the dice rolls a value
 Then, the average value of rolling the Sparked dice would be:
 
 $a_s + \frac{b_s k_s}{c_s}$
-
-## Lifestyle and Ethic
-<!-- _class: center creation -->
-
-> *Each character in this game has a Lifestyle and Ethic. These represent characters' general backgrounds, goals, and beliefs about the world, and these can change over the course of the story.*
-> *&mdash;snotskie*
 
 ### Character Creation: Step Two!
 <!-- _class: creation -->
@@ -393,12 +391,6 @@ As you begin to imagine the world and genre of your campaign, consider what it m
 
 **⚙️ Cunning &amp; Capability** settings are well equipped for cyberpunk, steam punk, hard sci-fi, spy fiction, heist fiction, josei, surveillance-state fiction, noir, and antihero/villain stories. This genre is likely familiar, and fits stories well that have high stakes without necessarily a clear good vs. evil component. The Crafty, Wired, and Compelling upgrade options are the most "default" in such settings.
 
-## Focus
-<!-- _class: center creation -->
-
-> *Each character has a unique Focus for their History Stat, made up of a number of narrative touchstones that describe what they can do or know related to their backstory.*
-> *&mdash;snotskie*
-
 ### Character Creation: Step Three!
 <!-- _class: creation -->
 
@@ -443,12 +435,6 @@ If your game's setting allows your players to create non-human characters, there
 
 - **High Variety:** If each player character has a different non-human background, then the simplest option is to use each character's Focus to cover one or two simple actions, within reason, that characters of their non-human background could perform unaided that human characters couldn't.
 - **Low Variety:** If player characters all come from just a few non-human background options, then using their Focus to cover this background would clog them with details that aren't unique to each player. Instead, expand the scope of two or three Stats besides History to cover one or two simple actions each, within reason, that characters of their non-human backgrounds could perform unaided that human characters couldn't.
-
-## Abilities
-<!-- _class: center creation -->
-
-> *Characters in this game have a set of Abilities that grant them certain actions or bonuses over the course of the game. These Abilities work together with characters' Stats, Lifestyle, Ethic, and History to flesh out their key defining traits!*
-> *&mdash;snotskie*
 
 ### Character Creation: Step Four!
 <!-- _class: creation -->
@@ -525,165 +511,165 @@ The following pages list Ability options. These Abilities refer to a number of r
 
 | Protective Armor [Starter] |
 | --- |
-| You've had to learn how to protect yourself in a fight. When you would lose against a violent Attack, receive $+d2$ in aid. |
+| You've had to learn how to protect yourself in a fight. *Effect:* When you would lose against a violent Attack, receive $+d2$ in aid. |
 
 Sentry's and Barbed Armor each require and extend Protective Armor.
 
 | Sentry's Armor |
 | --- |
-| And you know how to use that protection to keep your friends safe too. When another nearby character would Defend against a violent Attack, before they roll, you may become the Defender in that Contest instead. *Recharge:* ③. |
+| And you know how to use that protection to keep your friends safe too. *Effect:* When another nearby character would Defend against a violent Attack, before they roll, you may become the Defender in that Contest instead. *Recharge:* ③. |
 
 | Barbed Armor |
 | --- |
-| And when you get hit, you know how to hit back. When you lose against a violent Attack at a close distance, you may have your Attackers receive a less severe version of the same injury you received from losing the Contest. *Recharge:* ③. |
+| And when you get hit, you know how to hit back. *Effect:* When you lose against a violent Attack at a close distance, you may have your Attackers receive a less severe version of the same injury you received from losing the Contest. *Recharge:* ③. |
 
 ---
 <!-- _class: ability -->
 
 | Personal Bounty [Starter] |
 | --- |
-| You're known in almost any situation for coming prepared or being conveniently light-fingered. When you would fail a Check to see if you already have an item on you, receive $+d2$ in aid. |
+| You're known in almost any situation for coming prepared or being conveniently light-fingered. *Effect:* When you would fail a Check to see if you already have an item on you, receive $+d2$ in aid. |
 
 Fortune's and Trickster's Bounty each require and extend Personal Bounty.
 
 | Fortune's Bounty |
 | --- |
-| And you know that if you want to be successful, then you need to make your own luck. When you fail a Check, you may attempt the Check again, using the newer result instead. *Recharge:* ⑤. |
+| And you know that if you want to be successful, then you need to make your own luck. *Effect:* When you fail a Check, you may attempt the Check again, using the newer result instead. *Recharge:* ⑤. |
 
 | Trickster's Bounty |
 | --- |
-| And what's the harm in being prepared for a little razzle-dazzle every now and then? When another character succeeds a Check or wins a Contest, you may distract them using an item in your possession, modifying that character's result by $-3$, possibly turning their success into a failure or win into a loss. *Recharge:* ⑤. |
+| And what's the harm in being prepared for a little razzle-dazzle every now and then? *Effect:* When another character succeeds a Check or wins a Contest, you may distract them using an item in your possession, modifying that character's result by $-3$, possibly turning their success into a failure or win into a loss. *Recharge:* ⑤. |
 
 ---
 <!-- _class: ability -->
 
 | Contract Deal [Starter] |
 | --- |
-| You always know where to make a deal, even if it's not the most sound decision. While you are attempting to purchase goods or services, each ① you spend to Help yourself is worth ①①. |
+| You always know where to make a deal, even if it's not the most sound decision. *Effect:* While you are attempting to purchase goods or services, each ① you spend to Help yourself is worth ①①. |
 
 Wheel, Lifesaving, and Shrouded Deal each require and extend Contract Deal.
 
 | Wheel Deal |
 | --- |
-| And you'd break a few rules if it means settling debts. When you perform a special action in a Race Endeavor, you may create a terrain button anywhere along your movement. Then remove that terrain button once a character begins their movement on the same space as it. |
+| And you'd break a few rules if it means settling debts. *Effect:* When you perform a special action in a Race Endeavor, you may create a terrain button anywhere along your movement. Then remove that terrain button once a character begins their movement on the same space as it. |
 
 | Lifesaving Deal |
 | --- |
-| And what's better than a good deal that keeps you alive? A character may automatically succeed a Check to tend to your wounds, even after they've rolled. *Recharge:* ①. When this Ability is recharged, increase the cost to recharge it by ①①. |
+| And what's better than a good deal that keeps you alive? *Effect:* A character may automatically succeed a Check to tend to your wounds, even after they've rolled. *Recharge:* ①. When this Ability is recharged, increase the cost to recharge it by ①①. |
 
 | Shrouded Deal |
 | --- |
-| And you know that nothing's more valuable than good info. You may call upon a higher power, criminal underground, book of forbidden knowledge, or so on to gain access to secret information or an answer to a question. This information may come with consequences. *Recharge:* ④. |
+| And you know that nothing's more valuable than good info. *Effect:* You may call upon a higher power, criminal underground, book of forbidden knowledge, or so on to gain access to secret information or an answer to a question. This information may come with consequences. *Recharge:* ④. |
 
 ---
 <!-- _class: ability -->
 
 | Licensed Driver [Starter] |
 | --- |
-| You've gotten lots of practice or training operating vehicles. When you would fail a Check or lose a Contest to use a vehicle to transport supplies or other characters, receive $+d2$ in aid. |
+| You've gotten lots of practice or training operating vehicles. *Effect:* When you would fail a Check or lose a Contest to use a vehicle to transport supplies or other characters, receive $+d2$ in aid. |
 
 Getaway and Professional Driver each require and extend Licensed Driver.
 
 | Getaway Driver |
 | --- |
-| And it doesn't hurt to have your friends around when it's time to drive dangerously. While transporting others, you may designate characters you are transporting as your copilots. Once per copilot per session, you may act as though you had that copilot's Stats, Abilities, Focus, and items. |
+| And it doesn't hurt to have your friends around when it's time to drive dangerously. *Effect:* While transporting others, you may designate characters you are transporting as your copilots. Once per copilot per session, you may act as though you had that copilot's Stats, Abilities, Focus, and items. |
 
 | Professional Driver |
 | --- |
-| And almost nothing is stronger than the bond you have with your own ride. You gain access to a vehicle of your choice appropriate to the setting and within reason. When you would fail a Check or lose a Contest while operating this vehicle, receive $+X$ in aid, where $X$ depends on the vehicle and the Stat used, ranging from $-1$ to $+d4$. Moreover, this vehicle has its own backstory which extends your Focus while you operate it. If this vehicle is lost, stolen, or destroyed, replacing it may require time and effort. |
+| And almost nothing is stronger than the bond you have with your own ride. *Effect:* You gain access to a vehicle of your choice appropriate to the setting and within reason. When you would fail a Check or lose a Contest while operating this vehicle, receive $+X$ in aid, where $X$ depends on the vehicle and the Stat used, ranging from $-1$ to $+d4$. Moreover, this vehicle has its own backstory which extends your Focus while you operate it. If this vehicle is lost, stolen, or destroyed, replacing it may require time and effort. |
 
 ---
 <!-- _class: ability -->
 
 | Concerted Effort [Starter] |
 | --- |
-| It comes naturally to you to read situations to know exactly what other people need. When you spend ①① or more to Help another character, they gain a bonus as though you had spent an additional ①①. |
+| It comes naturally to you to read situations to know exactly what other people need. *Effect:* When you spend ①① or more to Help another character, they gain a bonus as though you had spent an additional ①①. |
 
 Background, Rousing, and Delegated Effort each require and extend Concerted Effort.
 
 | Background Effort |
 | --- |
-| And you don't mind fading into the background to give a situation just the nudge it needs. You may adjust the "vibe" or "music" of a situation subtly. Others can't pinpoint what changed, but the mood shifts to suit your intent. *Recharge:* ④. |
+| And you don't mind fading into the background to give a situation just the nudge it needs. *Effect:* You may adjust the "vibe" or "music" of a situation subtly. Others can't pinpoint what changed, but the mood shifts to suit your intent. *Recharge:* ④. |
 
 | Rousing Effort |
 | --- |
-| And people often turn to you for guidance or leadership. Once per session, when your pool of Blessing Dice has a total combined worth of at least $10$, you may tell a moving story or give an inspiring speech. Each other character who hears the story or speech gains a Blessing Die. |
+| And people often turn to you for guidance or leadership. *Effect:* Once per session, when your pool of Blessing Dice has a total combined worth of at least $10$, you may tell a moving story or give an inspiring speech. Each other character who hears the story or speech gains a Blessing Die. |
 
 | Delegated Effort |
 | --- |
-| And your skills reading others helps you screen potential allies for teams that work well together. During a Clash Endeavor, your summons may perform Spark rolls by working together in pairs, using one Stat from each, so long as the chosen Stats are balanced and you pay the Blessing Die cost. |
+| And your skills reading others helps you screen potential allies for teams that work well together. *Effect:* During a Clash Endeavor, your summons may perform Spark rolls by working together in pairs, using one Stat from each, so long as the chosen Stats are balanced and you pay the Blessing Die cost. |
 
 ---
 <!-- _class: ability -->
 
 | Intuitive Eye [Starter] |
 | --- |
-| You have a keen sense with objects and surroundings that most others don't. When you would fail a Check to inspect an object carefully, identify where the object has been, or intuit information about events that have occurred around it, receive $+d2$ in aid. |
+| You have a keen sense with objects and surroundings that most others don't. *Effect:* When you would fail a Check to inspect an object carefully, identify where the object has been, or intuit information about events that have occurred around it, receive $+d2$ in aid. |
 
 Roguish, Divining, and Ambitious Eye each require and extend Intuitive Eye.
 
 | Roguish Eye |
 | --- |
-| And this keeness has helped you narrowly escape trouble on multiple occasions. Once per Stealth Endeavor, when you would be made you may instead increase the alertness of the Endeavor. |
+| And this keeness has helped you narrowly escape trouble on multiple occasions. *Effect:* Once per Stealth Endeavor, when you would be made you may instead increase the alertness of the Endeavor. |
 
 | Divining Eye |
 | --- |
-| And because of your deductive or intuitive skills, secrets have a hard time hiding from you. When you succeed a Check to decrypt an encoded or cryptic message, you gain more information than usual. |
+| And because of your deductive or intuitive skills, secrets have a hard time hiding from you. *Effect:* When you succeed a Check to decrypt an encoded or cryptic message, you gain more information than usual. |
 
 | Ambitious Eye |
 | --- |
-| And you don't mind using items up to achieve your goals. Once per session, you may destroy an object in your possession. Until the end of the scene, you adopt the properties of the object, the properties of a concept associated with the object, or push the item to its breaking point. |
+| And you don't mind using items up to achieve your goals. *Effect:* Once per session, you may destroy an object in your possession. Until the end of the scene, you adopt the properties of the object, the properties of a concept associated with the object, or push the item to its breaking point. |
 
 ---
 <!-- _class: ability -->
 
 | Survival Instinct [Starter] |
 | --- |
-| Your reflexes have kept you safe. When you would fail a Check or lose a Contest while rolling your Hurry Stat, receive $+d2$ in aid. |
+| Your reflexes have kept you safe. *Effect:* When you would fail a Check or lose a Contest while rolling your Hurry Stat, receive $+d2$ in aid. |
 
 Careful and Perceptive Instinct each require and extend Survival Instinct.
 
 | Careful Instinct |
 | --- |
-| And you've honed those reflexes to help you at tasks that would frighten others to do. When you would fail a Check while performing dangerous actions related enough to your Focus, receive $+d2$ in aid. |
+| And you've honed those reflexes to help you at tasks that would frighten others to do. *Effect:* When you would fail a Check while performing dangerous actions related enough to your Focus, receive $+d2$ in aid. |
 
 | Perceptive Instinct |
 | --- |
-| And like those reflexes, you've always got an eye out for trouble or treasure. Once per Discovery Endeavor, when a lay of the land is given, you may choose a type of glimmer button. More of that type will be added to the number line than usual. |
+| And like those reflexes, you've always got an eye out for trouble or treasure. *Effect:* Once per Discovery Endeavor, when a lay of the land is given, you may choose a type of glimmer button. More of that type will be added to the number line than usual. |
 
 ---
 <!-- _class: ability -->
 
 | Acclimated Nature [Starter] |
 | --- |
-| Your travels have taught you how to calm your mind and body. When you would fail a Check against natural effects such as weather and disease, receive $+d2$ in aid. |
+| Your travels have taught you how to calm your mind and body. *Effect:* When you would fail a Check against natural effects such as weather and disease, receive $+d2$ in aid. |
 
 Determined and Friendly Nature each require and extend Acclimated Nature.
 
 | Determined Nature |
 | --- |
-| And you can calm yourself to a sharp focus even in dire situations. Once per action, you may ignore the negative effects of one of your injuries or conditions. *Recharge:* ③. |
+| And you can calm yourself to a sharp focus even in dire situations. *Effect:* Once per action, you may ignore the negative effects of one of your injuries or conditions. *Recharge:* ③. |
 
 | Friendly Nature |
 | --- |
-| And you've collected friends along the way. You gain access to a creature companion of your choice appropriate to the setting and within reason. When you would fail a Check or lose a Contest while working with your companion, receive $+X$ in aid, where $X$ depends on the companion and the Stat used, ranging from $-1$ to $+d4$. Moreover, this companion has its own backstory which extends your Focus while you work with it. If this companion is lost, stolen, destroyed, or you lose its loyalty, replacing it may require time and effort. |
+| And you've collected friends along the way. *Effect:* You gain access to a creature companion of your choice appropriate to the setting and within reason. When you would fail a Check or lose a Contest while working with your companion, receive $+X$ in aid, where $X$ depends on the companion and the Stat used, ranging from $-1$ to $+d4$. Moreover, this companion has its own backstory which extends your Focus while you work with it. If this companion is lost, stolen, destroyed, or you lose its loyalty, replacing it may require time and effort. |
 
 ---
 <!-- _class: ability -->
 
 | Fearless Resolve [Starter] |
 | --- |
-| You understand that not every loss is necessarily a bad thing. Once per session, when you lose against an Attack, you may reduce the outcome size one rank and gain a Blessing. |
+| You understand that not every loss is necessarily a bad thing. *Effect:* Once per session, when you lose against an Attack, you may reduce the outcome size one rank and gain a Blessing. |
 
 Charitable and Honorable Resolve each require and extend Fearless Resolve.
 
 | Charitable Resolve |
 | --- |
-| And what matters most is forgiveness and paying our blessings forward. When you visit a place of religious, spiritual, or community importance, you may spend any number of ① as a donation or act of service to the place. The more spent this way, the greater a possible later boon may be, determined by the GM. |
+| And what matters most is forgiveness and paying our blessings forward. *Effect:* When you visit a place of religious, spiritual, or community importance, you may spend any number of ① as a donation or act of service to the place. The more spent this way, the greater a possible later boon may be, determined by the GM. |
 
 | Honorable Resolve |
 | --- |
-| And it's okay to risk a loss when it means protecting what you care about. You may Attack to protect your honor or loved ones, using Hand or Home instead of Hurt as usual. If you lose the Contest, you receive injuries as though you were Attacked instead. *Recharge:* ④. |
+| And it's okay to risk a loss when it means protecting what you care about. *Effect:* You may Attack to protect your honor or loved ones, using Hand or Home instead of Hurt as usual. If you lose the Contest, you receive injuries as though you were Attacked instead. *Recharge:* ④. |
 
 ### GM Guide: Charitable Resolve's Boon
 <!-- _class: guide -->
@@ -701,55 +687,55 @@ However, some ideas are:
 
 | Radical Self-Acceptance [Starter] |
 | --- |
-| You've never been bothered by having your own way of doing things. While you are Uncool, you may roll Checks using a different Stat than normal. Then once a Check succeeds this way, you are no longer Uncool. |
+| You've never been bothered by having your own way of doing things. *Effect:* While you are Uncool, you may roll Checks using a different Stat than normal. Then once a Check succeeds this way, you are no longer Uncool. |
 
 Ascendant and Shameless Self-Acceptance each require and extend Radical Self-Acceptance.
 
 | Ascendant Self-Acceptance |
 | --- |
-| And this deep sense of trust in yourself has been a wellspring of power for you. You may perform a non-violent Spark roll using $3$ Stat Dice, so long as those Stats each use a $d8$ or larger and you pay double the Blessing Die cost as usual. |
+| And this deep sense of trust in yourself has been a wellspring of power for you. *Effect:* You may perform a non-violent Spark roll using $3$ Stat Dice, so long as those Stats each use a $d8$ or larger and you pay double the Blessing Die cost as usual. |
 
 | Shameless Self-Acceptance |
 | --- |
-| And life's taught you that laughing in the face of obstacles is a great first step in getting through them. Once per session, when your pool of Blessing Dice has a total combined worth of at least $10$, you may tell an cringy joke or perform an embarrassing dance. Each other character who hears the joke or witnesses the dance becomes Uncool. |
+| And life's taught you that laughing in the face of obstacles is a great first step in getting through them. *Effect:* Once per session, when your pool of Blessing Dice has a total combined worth of at least $10$, you may tell an cringy joke or perform an embarrassing dance. Each other character who hears the joke or witnesses the dance becomes Uncool. |
 
 ---
 <!-- _class: ability -->
 
 | Tactful Speech [Starter] |
 | --- |
-| You're well-versed in idle chatter, spinning conversation, or navigating social milieu. When you would lose a Contest trying to persuade, influence, inspire, or deceive others, receive $+d2$ in aid. |
+| You're well-versed in idle chatter, spinning conversation, or navigating social milieu. *Effect:* When you would lose a Contest trying to persuade, influence, inspire, or deceive others, receive $+d2$ in aid. |
 
 Popular, Rebutted, and Director's Speech each require and extend Tactful Speech.
 
 | Popular Speech |
 | --- |
-| And you know that, truth or fiction, word travels fast. Once per scene, you may end, begin, or modify one rumor. It will spread quickly, within reason, but others are not guaranteed to believe it. *Recharge:* ⑤. |
+| And you know that, truth or fiction, word travels fast. *Effect:* Once per scene, you may end, begin, or modify one rumor. It will spread quickly, within reason, but others are not guaranteed to believe it. *Recharge:* ⑤. |
 
 | Rebutted Speech |
 | --- |
-| And for you a conversational loss is never a *total* loss. When you lose against a non-violent Attack that was related enough to your Focus, you may have the Attacker receive a less severe version of the same effect you received from losing the Contest. *Recharge:* ③. |
+| And for you a conversational loss is never a *total* loss. *Effect:* When you lose against a non-violent Attack that was related enough to your Focus, you may have the Attacker receive a less severe version of the same effect you received from losing the Contest. *Recharge:* ③. |
 
 | Director's Speech |
 | --- |
-| And you can say what you needs saying quickly and efficiently. During Endeavors, you gain the action: Ignore your roll. Choose an ally who has not acted yet to roll a new value. They may choose a new Stat for this roll. |
+| And you can say what you needs saying quickly and efficiently. *Effect:* During Endeavors, you gain the action: Ignore your roll. Choose an ally who has not acted yet to roll a new value. They may choose a new Stat for this roll. |
 
 ---
 <!-- _class: ability -->
 
 | Organized Thoughts [Starter] |
 | --- |
-| Your memory is like a steel trap&mdash;once you learn something, you almost never forget. When you would fail a Check trying to recall information, receive $+d2$ in aid. |
+| Your memory is like a steel trap&mdash;once you learn something, you almost never forget. *Effect:* When you would fail a Check trying to recall information, receive $+d2$ in aid. |
 
 Shower and Optimal Thoughts each require and extend Organized Thoughts.
 
 | Shower Thoughts |
 | --- |
-| And you find that your best ideas often come while you're performing your regular duties or self-care. Once per session, when you are in a safe place, you may perform a Check using Head or Heart. Then up to once before the end of the session, you may use the value of that roll instead of rolling for another Check or non-violent Contest. |
+| And you find that your best ideas often come while you're performing your regular duties or self-care. *Effect:* Once per session, when you are in a safe place, you may perform a Check using Head or Heart. Then up to once before the end of the session, you may use the value of that roll instead of rolling for another Check or non-violent Contest. |
 
 | Optimal Thoughts |
 | --- |
-| And you think it's never a bad idea to back up and analyze the situation before charging forward. Twice per session, you may provide Help by rolling four $d6$ and group those dice into two piles of two. If addition or multiplication could make the piles equal, increase the result of the roll you are Helping by $+5$. For example, $1$, $1$, $1$, and $2$, could be grouped this way as $1×2=1+1$. |
+| And you think it's never a bad idea to back up and analyze the situation before charging forward. *Effect:* Twice per session, you may provide Help by rolling four $d6$ and group those dice into two piles of two. If addition or multiplication could make the piles equal, increase the result of the roll you are Helping by $+5$. For example, $1$, $1$, $1$, and $2$, could be grouped this way as $1×2=1+1$. |
 
 ---
 <!-- _class: ability -->
@@ -758,17 +744,17 @@ Advanced Training requires a $d8$ or larger in at least one Stat.
 
 | Advanced Training |
 | --- |
-| You aren't just good at what you do&mdash;you've dedicated yourself to it. Each time you bump your dice while using a $d8$ or larger, increase the result of the roll by an additional $+1$. |
+| You aren't just good at what you do&mdash;you've dedicated yourself to it. *Effect:* Each time you bump your dice while using a $d8$ or larger, increase the result of the roll by an additional $+1$. |
 
 Concentration and Ambidexterity Training each require and extend Advanced Training.
 
 | Concentration Training |
 | --- |
-| And your dedication is clear in the level of focus you bring to your tasks. Your rolls using a $d8$ or larger also bump when you roll a $2$ on the die. |
+| And your dedication is clear in the level of focus you bring to your tasks. *Effect:* Your rolls using a $d8$ or larger also bump when you roll a $2$ on the die. |
 
 | Ambidexterity Training |
 | --- |
-| And your studies have helped you take down your foes even faster. In a Monstrous Endeavor, when an opponent activates a recovery or revenge button as a result of your Attack, after resolving that button it continues moving however much movement would have been prevented. |
+| And your studies have helped you take down your foes even faster. *Effect:* In a Monstrous Endeavor, when an opponent activates a recovery or revenge button as a result of your Attack, after resolving that button it continues moving however much movement would have been prevented. |
 
 ---
 <!-- _class: ability -->
@@ -777,17 +763,11 @@ Adaptive Synchrony extends any other Ability.
 
 | Adaptive Synchrony |
 | --- |
-| Through careful reflection, you have learned how to adapt your Spark even further to new situations. Each session, choose two of the following effects for this Ability to have. |
-| **Loan Ability:** You may spend ⊜⊜ to loan one of your Abilities to another willing character in the scene. This effect lasts until the end of the scene or sooner if you choose. |
-| **Exchange Focus:** You may spend ⊜⊜ to exchange Focus elements with another willing character in the scene. This effect lasts until the end of the scene or sooner if you choose. |
-| **Spark Together:** You may perform a Spark roll using one of your Stats and one of the Stats of another willing character in the scene, so long as the chosen Stats are balanced, both characters have this Ability, and the Blessing Die cost is paid between the two characters. Doing so is considered acting as a group. |
-| **Spark Enmity:** During a Contest against another individual, before either character rolls, you may spend ⊜⊜ to act synchronously with your opponent. If you do, the two of you perform your rolls at the same time. When either of you would bump, you both bump. You both still maintain your own separate roll totals. This Ability may not be used at the start of an Endeavor round. |
-
-## Items
-<!-- _class: center creation -->
-
-> *There is not an appendix of items to choose from in this game. Instead, items are narrative and help shape the course of the story.*
-> *&mdash;snotskie*
+| Through careful reflection, you have learned how to adapt your Spark even further to new situations. *Effect:* Each session, choose two of the following effects for this Ability to have. |
+| *Loan Ability:* You may spend ⊜⊜ to loan one of your Abilities to another willing character in the scene. This effect lasts until the end of the scene or sooner if you choose. |
+| *Exchange Focus:* You may spend ⊜⊜ to exchange Focus elements with another willing character in the scene. This effect lasts until the end of the scene or sooner if you choose. |
+| *Spark Together:* You may perform a Spark roll using one of your Stats and one of the Stats of another willing character in the scene, so long as the chosen Stats are balanced, both characters have this Ability, and the Blessing Die cost is paid between the two characters. Doing so is considered acting as a group. |
+| *Spark Enmity:* During a Contest against another individual, before either character rolls, you may spend ⊜⊜ to act synchronously with your opponent. If you do, the two of you perform your rolls at the same time. When either of you would bump, you both bump. You both still maintain your own separate roll totals. This Ability may not be used at the start of an Endeavor round. |
 
 ### Character Creation: Step Five!
 <!-- _class: creation -->
@@ -809,12 +789,6 @@ You do not need to go through the entire character creation process to create NP
 - One Stat Die shared by all the other Stats.
 - At most one Ability. If the Ability would require recharging to be used, instead roll a $d6$ as though gaining a Blessing Die. If the NPC would gain a Blessing Die worth enough to recharge the Ability, instead recharge the Ability immediately.
 
-## Session Shop
-<!-- _class: center ability -->
-
-> *Now that you've built your first character, let's play! And after your first session, keep reading to find out what upgrade options are available in the Session Shop!*
-> *&mdash;snotskie*
-
 ### Session Shop Upgrades
 <!-- _class: ability -->
 
@@ -824,58 +798,52 @@ You may also spend ①①① to receive an additional upgrade beyond the one you
 
 | Stat Upgrade |
 | --- |
-| You may upgrade a single Stat's die one size. If you do, you receive this upgrade immediately. You may only receive this upgrade $10$ times. |
-| When you receive the Stat Upgrade, you may, as a free adjustment, downgrade one of your Stat Dice one size and upgrade a different Stat Die one size instead.|
-| When you upgrade or downgrade the size of your History Stat Die, you may, as a free adjustment, receive the Focus Upgrade for free, limited to only one change or addition to your Focus. |
+| *Effect:* You may upgrade a single Stat's die one size. If you do, you receive this upgrade immediately. You may only receive this upgrade $10$ times. |
+| *Stat Adjustment:* When you receive the Stat Upgrade, you may, as a free adjustment, downgrade one of your Stat Dice one size and upgrade a different Stat Die one size instead.|
+| *Focus Adjustment:* When you upgrade or downgrade the size of your History Stat Die, you may, as a free adjustment, receive the Focus Upgrade for free, limited to only one change or addition to your Focus. |
 
 ---
 <!-- _class: ability -->
 
 | Focus Upgrade |
 | --- |
-| You may upgrade your Focus based on the events of the session by making two changes, two additions, or one of each to it. Your Focus may not have more than seven things listed. If you choose this upgrade, you receive this upgrade immediately. |
+| *Effect:* You may upgrade your Focus based on the events of the session by making two changes, two additions, or one of each to it. Your Focus may not have more than seven things listed. If you choose this upgrade, you receive this upgrade immediately. |
 
 | Ability Upgrade |
 | --- |
-| You may use your upgrade to gain an additional Ability. If you do, you receive this upgrade at the end of the following session. You may not use this upgrade to have more than $4$ Abilities at a time, not counting Abilities that were extended. |
-| When you receive the Ability Upgrade, you may, as a free adjustment, lose one non-extended Ability and replace it with another Ability. |
+| *Effect:* You may use your upgrade to gain an additional Ability. If you do, you receive this upgrade at the end of the following session. You may not use this upgrade to have more than $4$ Abilities at a time, not counting Abilities that were extended. |
+| *Ability Adjustment:* When you receive the Ability Upgrade, you may, as a free adjustment, lose one non-extended Ability and replace it with another Ability. |
 
 | Item Upgrade |
 | ------------ |
-| You may upgrade one of your mundane items to a higher quality, within reason, so that it provides a "receive $+1$ in aid" effect. If you do, you receive this upgrade immediately. |
+| *Effect:* You may upgrade one of your mundane items to a higher quality, within reason, so that it provides a "receive $+1$ in aid" effect. If you do, you receive this upgrade immediately. |
 
 ---
 <!-- _class: ability -->
 
 | Carefree Upgrade |
 | --- |
-| If your starting Lifestyle was Carefree, you may upgrade your Lifestyle to Blossomed, Prodigious, or Crafty. If you do, you receive this upgrade at the end of the following session. |
+| *Effect:* If your starting Lifestyle was Carefree, you may upgrade your Lifestyle to Blossomed, Prodigious, or Crafty. If you do, you receive this upgrade at the end of the following session. |
 
 | Eager Upgrade |
 | --- |
-| If your starting Lifestyle was Eager, you may upgrade your Lifestyle to Driven, Chosen, or Wired. If you do, you receive this upgrade at the end of the following session. |
+| *Effect:* If your starting Lifestyle was Eager, you may upgrade your Lifestyle to Driven, Chosen, or Wired. If you do, you receive this upgrade at the end of the following session. |
 
 | Wisened Upgrade |
 | --- |
-| If your starting Lifestyle was Wisened, you may upgrade your Lifestyle to Steadfast, Warry, or Compelling. If you do, you receive this upgrade at the end of the following session. |
+| *Effect:* If your starting Lifestyle was Wisened, you may upgrade your Lifestyle to Steadfast, Warry, or Compelling. If you do, you receive this upgrade at the end of the following session. |
 
 | Lost Upgrade |
 | --- |
-| Regardless of your starting Lifestyle, you may upgrade your Lifestyle to Lost. If you do, you receive this upgrade at the end of the following session. Then, once your Lifestyle is Lost, you may upgrade your Lifestyle to any other option. If you do, you receive this upgrade at the end of the following session. |
+| *Effect:* Regardless of your starting Lifestyle, you may upgrade your Lifestyle to Lost. If you do, you receive this upgrade at the end of the following session. Then, once your Lifestyle is Lost, you may upgrade your Lifestyle to any other option. If you do, you receive this upgrade at the end of the following session. |
 
 ### GM Guide: Catching Players Up
 <!-- _class: guide -->
 
 Offer players one additional free upgrade at the end of sessions when they would have fewer total upgrades than the player with the most total upgrades.
 
-# Playing the Game
+## Playing the Game
 <!-- _class: center major rules -->
-
-## Rolls, Checks, and Contests
-<!-- _class: center rules -->
-
-> *An "action" is anything you choose for your character to do. Some actions require you to perform rolls to determine the outcome. The simplest of these are Checks and Contests. The rules for more complex types of actions build up from there.*
-> *&mdash;snotskie*
 
 ### Spark Rolls
 <!-- _class: rules -->
@@ -1035,12 +1003,6 @@ When a character suffers a Major violent effect, it can be unsatisfying for them
 Instead, you might draw the tension and possibility to respond out further. One way to do so is to provide the affected character's allies opportunity to perform a Home Contest against the same roll that the Attacker used to inflict the Major violent effect.
 
 If an ally wins the Contest by $4$ or more, then the violent effect is successfully mitigated, perhaps reducing it to a Medium or Minor effect. However, if the Attacker is able to roll $8$ or more on a Hurt Check before the allies can successfully treat the effect, then the Attacker may deliver a *coup de grace*.
-
-## Helping and Complex Actions
-<!-- _class: center rules -->
-
-> *There are special rules or considerations for when characters perform complex actions, work together as a group, and give and receive Help.*
-> *&mdash;snotskie*
 
 ### Group Checks and Contests
 <!-- _class: rules -->
@@ -1229,12 +1191,6 @@ You and your fellow players may propose plans that could direct how you set out 
 - **Making Plans:** Each roll in this group long action will correspond to a different necessary step of your group's plans.
 - **Gather Information:** Then, based on the results, the GM may provide different amounts or types of information to set you off on your "quest," representing your group's capabilities at planning and preparation.
 
-## Conditions
-<!-- _class: center rules -->
-
-> *While most effects serve to shape the narrative of the game, your GM may find it appropriate to also apply conditions to characters when the situation calls for it.*
-> *&mdash;snotskie*
-
 ### TODO
 <!-- _class: rules -->
 
@@ -1268,12 +1224,6 @@ How and when you dole out this condition depends on what is best for your table,
 Equally important is how you give the players opportunities to *remove* this condition. Each attempt should be a fun, satisfying story beat that helps shape the narrative of how the player's character grows.
 
 So when you build the narrative around how a character becomes Uncool and what this means for their connections to other characters, keep in the back of your head how you could use these same connections later to remove the condition and offer the player a chance to roleplay growth from their earlier failure.
-
-## Endeavors
-<!-- _class: center rules -->
-
-> *There are special rules for when several characters are working towards competing aims at the same time.*
-> *&mdash;snotskie*
 
 ### General Endeavor Rules
 <!-- _class: rules -->
@@ -1612,7 +1562,7 @@ These sorts of Endeavors are run like any other Endeavor, with the following add
 - **Failed Checks Increase Alertness:** When a character fails a Check or loses a Contest while resolving a Focal Action or Side Action, the "alertness" of the Endeavor increases, represented by an additional alarm button being added to the number line.
 - **Negative Help:** When a character receives Help, they may choose to subtract the bonus from their roll instead of adding it as usual.
 
-# Index
+## Index
 <!-- _class: major center -->
 <!-- _paginate: skip -->
 

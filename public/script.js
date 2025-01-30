@@ -84,19 +84,20 @@ window.addEventListener("load", function(){
     }
 
     // table of contents
-    const toc = document.getElementById("toc");
-    document.querySelectorAll("h1,h2").forEach(function(e){
+    var i = 0;
+    var toc = document.getElementById("toc");
+    document.querySelectorAll("h2,h3").forEach(function(e){
         const section = e.closest("section");
         const page = section.getAttribute("data-marpit-pagination");
         if (page){
             const toc_line = document.createElement("p");
             toc.appendChild(toc_line);
-            if (e.nodeName === "H1"){
+            if (e.nodeName === "H2"){
                 const entry = document.createElement("strong");
                 toc_line.appendChild(entry);
                 toc_line.classList.add("chapter");
                 entry.innerText = e.innerText;
-            } else if (e.nodeName === "H2"){
+            } else if (e.nodeName === "H3"){
                 const entry = document.createElement("em");
                 toc_line.appendChild(entry);
                 toc_line.classList.add("section");
@@ -108,6 +109,12 @@ window.addEventListener("load", function(){
             page_no.innerText = page;
             page_no.setAttribute("aria-label", e.innerText);
             page_no.setAttribute("href", "#" + section.getAttribute("id"));
+            ++i;
+            if (i === 18){
+                toc = document.getElementById("toc2");
+            } else if (i === 38){
+                toc = document.getElementById("toc3");
+            }
         }
     });
 
@@ -167,7 +174,7 @@ window.addEventListener("load", function(){
         }
     });
 
-    var i = 0;
+    i = 0;
     var abix = document.getElementById("abix");
     abix_entry_keys.sort();
     for (const key of abix_entry_keys){
