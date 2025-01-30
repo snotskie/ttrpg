@@ -1118,17 +1118,12 @@ You and your fellow players may propose plans that could direct how you set out 
 ### Conditions
 <!-- _class: rules -->
 
-Some events challenge your resolve, throw you off your game, cause you great embarrassment, or so on. When these happen, you may become Uncool.
+Some events challenge your resolve, throw you off your game, cause you great embarrassment, or so on, beyond mere injury. When these happen, you may become Disarmed, Surprised, Uncool, or any of the other Conditions described in the Condition Effects table below.
 
-While you are Uncool, all rolls you make are modified by $-1$. Once during each scene that follows, you may attempt a Check to remove this condition.
+In general however:
 
-The Uncool mechanic is a way to break the tension and bring comedy to your game. It is also a way to represent small story arcs where characters feel bad after some failed action, and take action later to feel better about it. And it is a way to connect player characters more to the non-player characters watching them.
-
-How and when you dole out this condition depends on what is best for your table, players, and story. A suggestion is to help the player tell the story of how their character is feeling after a particularly bad roll (failing or losing by $5$ or more). Who else is around that saw it happen? How would their Hero feel? How does this relate to what they've established about their backstory, goal, Lifestyle, or connection to other characters?
-
-Equally important is how you give the players opportunities to *remove* this condition. Each attempt should be a fun, satisfying story beat that helps shape the narrative of how the player's character grows.
-
-So when you build the narrative around how a character becomes Uncool and what this means for their connections to other characters, keep in the back of your head how you could use these same connections later to remove the condition and offer the player a chance to roleplay growth from their earlier failure.
+- **Conditions Tell Stories:** At minimum, Conditions provide effects. However, they also represent small story arcs where you face obstacles and, in spite of the Condition's effects, overcome those obstacles. When you fail a Check or lose a Contest and gain a Condition as a result, consider how your character feels about the situation and what the Condition means to them beyond mere effect.
+- **Conditions Build Connections:** Gaining and removing Conditions, and facing and overcoming obstacles, happen with other characters around. Consider, and take notes for the development of your character: Who else is around that saw the failed Check happen? How would your Hero feel about the lost Contest? And how could your connections to other characters help you remove the Condition later?
 
 ---
 <!-- _class: rules -->
@@ -1138,13 +1133,13 @@ So when you build the narrative around how a character becomes Uncool and what t
 | Condition | Description |
 | --------- | ----------- |
 | Ache | *Effect:* Rolls you make with the affected Stat cannot bump. *Duration:* Until next scene. |
-| Cursed | *Effect:* Dice in your pool of Blessing Dice are each worth $1$ less, to a minimum of $0$. *Duration:* Until treated. |
+| Cursed | *Effect:* Your Blessing Dice are each worth $1$ less, to a minimum of $0$. *Duration:* Until treated. |
 | Disarmed | *Effect:* When you win with a violent Attack, reduce the outcome size one rank. *Duration:* Until treated. |
-| Famous | *Effect:* You may exert your fame those less famous than you, gaining a $+d2$ bonus in Contests against them. You may not do so against the same character more than once during the same session. *Duration:* Until removed. |
-| Taxed | *Effect:* You cannot perform Spark rolls. *Duration:* Until treated. |
-| Surprised | *Effect:* Your next roll cannot bump, Spark, or be an automatic History Check success. *Duration:* Until next roll. |
-| Uncool | *Effect:* Rolls you make are made with a $-1$ modifier. *Duration:* Until removed. |
-| Vulnerable | *Effect:* When another character sees you roll the affected Stat, they may have you perform the roll again and use the new value if it is lower. *Duration:* Until treated. |
+| Famous | *Effect:* You may exert your fame over those less famous, gaining a $+d2$ bonus in Contests against them, but not against the same character more than once during the same session or while you are Uncool. *Duration:* Until removed. |
+| Taxed | *Effect:* You cannot Spark. *Duration:* Until treated. |
+| Surprised | *Effect:* Your rolls cannot bump, Spark, or be an automatic success. *Duration:* Until next roll. |
+| Uncool | *Effect:* Your rolls are made with a $-1$ modifier unless you are alone. *Duration:* Until removed. |
+| Vulnerable | *Effect:* When another character sees you roll the affected Stat, they may have you perform the roll again and use the new value. *Duration:* Until treated. |
 
 ### General Endeavor Rules
 <!-- _class: rules -->
