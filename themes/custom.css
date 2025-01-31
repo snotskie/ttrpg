@@ -260,4 +260,4 @@ section code {
 }
 
 /* styling that escapes marp containment */
-@import url("style.css");
+@import url("style.css?v=1234567890");

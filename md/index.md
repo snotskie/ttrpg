@@ -207,8 +207,12 @@ Each of a character's Stats is represented by a Stat Die.
 In general:
 
 - **Die Sizes:** A Stat Die can be one of five sizes, ranging from $d2$ to $d10$, as described in the Stat Dice Notation table below.
+- **Balanced Stats:** When two Stats use the same size Stat Die, they are "balanced." Whenever an effect has you use a Stat, you may instead use any other Stat you have balanced with it. Moreover, you may "Spark" two balanced Stats together to create a more powerful effect (described in the Playing the Game chapter).
 - **Stat Dice "Bump":** Stat Dice in this game "bump." This means that when you roll a $1$ on a Stat Die, roll it again and add the new result to the previous result. As long as you continue to roll a $1$ on the die, you continue to roll again and add this way.
 - **Skill and Determination:** Success and victory without bumping represents natural or trained ability, while doing so with bumping represents a character's extra determination or focus on the action.
+
+---
+<!-- _class: rules -->
 
 #### Stat Dice Notation
 
@@ -219,9 +223,6 @@ In general:
 | $d6$  | A six-sided die. |
 | $d4$  | A four-sided die. |
 | $d2$  | Any of the above dice, treating any odd number as $1$ and any even number as $2$. The smallest die size in the game. |
-
----
-<!-- _class: rules -->
 
 Also note:
 
@@ -396,61 +397,11 @@ If your game's setting allows your players to create non-human characters, there
 ### Character Creation | Step Four!
 <!-- _class: creation -->
 
-The following pages describe another type of dice in this game, **Blessing Dice**, as well as several **Ability** options. As your read, you may want to consult the **Playing the Game** chapter to learn more about the rules Abilities interact with.
+The following pages describe several **Ability** options. As your read, you may want to consult the **Playing the Game** chapter to learn more about the rules Abilities interact with.
 
 To help you select your starter Abilities, begin to imagine the kind of character taking shape in your mind. **Have you seen characters like them before** in movies, TV shows, and books? Try to envision the people from your favorite fictional stories that your character takes after.
 
 Then with that in mind, **pick two** of the following Abilities with the `Starter` label to begin the game with. You may gain additional Abilities later in the Session Shop.
-
-### Blessing Dice
-<!-- _class: rules -->
-
-Some Abilities and other effects cost "Blessing Dice" to activate.
-
-In general:
-
-- **Pool of Blessing Dice:** Each character has a pool of Blessing Dice, representing resources they can draw upon when the moment calls.
-- **Gaining Blessing Dice:** The GM will award you Blessing Dice for various achievements. When you gain a Blessing Die, roll a $d6$ then add that die to your pool of Blessing Dice.
-- **Spending Blessing Dice:** When you spend a Blessing Die, remove it from your pool of Blessing Dice. An effect may require you to spend a Blessing Die of at least a certain size. An effect may also require you to spend multiple Blessing Dice at the same time. The Blessing Dice Notation table below provides a few examples of how Blessing Dice costs are notated.
-- **Blessing Dice Bump:** Like your Stat Dice, Blessing Dice also bump, but in a slightly different way. When you roll a $1$ on a Blessing Die, instead of rolling again to increase the value of the roll, gain an additional Blessing Die. As long as you continue to roll a $1$ on the die, you continue to gain an additional Blessing Die.
-- **Gain One at a Time:** If you gain multiple Blessing Dice from a single effect, gain each of those dice separately. They do not form a group for the purposes of bumping.
-
----
-<!-- _class: rules -->
-
-#### Blessing Dice Notation
-
-| Notation | Blessing Dice |
-| -------- | ------------- |
-| ⑥ | A Blessing Die worth $6$. The largest Blessing Die in the game. |
-| ② | A Blessing Die worth $2$ or more. |
-| ① | A Blessing Die worth $1$ or more. The smallest Blessing Die in the game. |
-| ②② | Two Blessing Dice each worth $2$ or more. |
-| ①① | Two Blessing Dice each worth $1$ or more. |
-| ① $\times 4$ | Four Blessing Dice each worth $1$ or more. |
-| ⊜⊜ | Two Blessing Dice of the same worth. |
-
-### GM Guide | When to Award Blessing Dice
-<!-- _class: guide -->
-
-You should award players Blessing Dice consistently and throughout each session, as many characters' abilities depend on them.
-
-What this looks like can vary per GM, per table, or per scene.
-
-Some GMs may prefer an approach where Blessing Dice are given whenever a player fails a check. Others may prefer an approach where they award them when the players roll the highest value on their die. Others still may prefer to award them when the players engage in cool roleplay, when they solve puzzles or complete quests, as a fixed supply at the start of each session or arc, or so on. And having the source of Blessing Dice suddenly dry up in grittier parts of the story can be a *very* effective way to put the pressure on.
-
-The way you award Blessing Dice is one of the most powerful tools in your toolbelt as a GM in this game! Use it well!
-
----
-<!-- _class: guide -->
-
-All this being said, we recommend new GMs to this game use the following:
-
-- Award $3$ Blessing Dice near the start of the first session, such as after the player has introduced their character.
-- Award a Blessing Die for good role play and creative solutions.
-- Award a number of Blessing Dice at the end of sessions where players completed important milestones in the story.
-- Award a Blessing Die the first time each session the player succeeds a Check or wins a Contest by $6$ or more, and award each other player whose character witnessed or heard about that high win or success a Blessing Dice as well.
-- Award a Blessing Die each time the player rolls the "lucky number" for the session, before modifications to the roll from effects or Abilities. To determine the lucky number, at the start of each session, roll two $d10$ and use the higher value as the lucky number for the session. If a $1$ is rolled on both dice this way, then there is no lucky number for the session, as it is almost impossible to score lower than a $2$ on rolls in this game; such sessions take place narratively on an "unlucky day."
 
 ### Abilities
 <!-- _class: rules -->
@@ -582,7 +533,7 @@ Roguish, Divining, and Ambitious Eye each require and extend Intuitive Eye.
 
 | Survival Instinct `Starter` |
 | --- |
-| Your reflexes have kept you safe. *Effect:* When you would fail a Check or lose a Contest while rolling your Hurry Stat, receive $+d2$ in aid. |
+| Your reflexes have kept you safe. *Effect:* When you would fail a Check or lose a Contest while surprised and rolling your Hurry Stat or a Stat balanced with it, receive $+d2$ in aid. |
 
 Careful and Perceptive Instinct each require and extend Survival Instinct.
 
@@ -622,7 +573,7 @@ Honorable and Charitable Resolve each require and extend Fearless Resolve.
 
 | Honorable Resolve |
 | --- |
-| And it's okay to risk a loss when it means protecting what you care about. *Effect:* You may Attack to protect your honor or loved ones, using Hand or Home instead of Hurt as usual. If you lose the Contest, you receive injuries as though you were Attacked instead. *Recharge:* ④. |
+| And it's okay to risk a loss when it means protecting what you care about. *Effect:* You may Attack to protect your honor or loved ones, using Hand or Home instead of Hurt as usual. If you lose the Contest, you receive injuries as though you were Attacked instead. *Recharge:* ④. `FIXME` This Ability is now redundant than the base Balanced Stat rule. |
 
 | Charitable Resolve |
 | --- |
@@ -644,7 +595,7 @@ However, some ideas are:
 
 | Radical Self-Acceptance `Starter` |
 | --- |
-| You've never been bothered by having your own way of doing things. *Effect:* While you are Uncool, you may roll Checks using a different Stat than normal. Then once a Check succeeds this way, you are no longer Uncool. |
+| You've never been bothered by having your own way of doing things. *Effect:* While you are Uncool, you may roll Checks using a different Stat than normal. Then once a Check succeeds this way, you are no longer Uncool. `FIXME` This Ability is now confusing with the base Balanced Stat rule.  |
 
 Ascendant and Shameless Self-Acceptance each require and extend Radical Self-Acceptance.
 
@@ -688,7 +639,7 @@ Shower and Optimal Thoughts each require and extend Organized Thoughts.
 
 | Shower Thoughts |
 | --- |
-| And you find that your best ideas often come while you're performing your regular duties or self-care. *Effect:* Once per session, when you are in a safe place, you may perform a Check using Head or Heart. Then up to once before the end of the session, you may use the value of that roll instead of rolling for another Check or non-violent Contest. |
+| And you find that your best ideas often come while you're performing your regular duties or self-care. *Effect:* Once per session, when you are in a safe place, you may perform a Check using Head, Heart, or a Stat balanced with them. Then up to once before the end of the session, you may use the value of that roll instead of rolling for another Check or non-violent Contest. |
 
 | Optimal Thoughts |
 | --- |
@@ -720,11 +671,11 @@ Adaptive Synchrony extends any other Ability.
 
 | Adaptive Synchrony |
 | --- |
-| Through careful reflection, you have learned how to adapt your Spark even further to new situations. *Effect:* Each session, choose two of the following effects for this Ability to have. |
+| Through careful reflection, you have learned how to adapt your Spark even further to new situations. *Effect:* Each session, choose two of the following effects for this Ability to have. `FIXME` This Ability is too large for its intended flavor. |
 | *Loan Ability:* You may spend ⊜⊜ to loan one of your Abilities to another willing character in the scene. This effect lasts until the end of the scene or sooner if you choose. |
 | *Exchange Focus:* You may spend ⊜⊜ to exchange Focus elements with another willing character in the scene. This effect lasts until the end of the scene or sooner if you choose. |
 | *Spark Together:* You may perform a Spark roll using one of your Stats and one of the Stats of another willing character in the scene, so long as the chosen Stats are balanced, both characters have this Ability, and the Blessing Die cost is paid between the two characters. Doing so is considered acting as a group. |
-| *Spark Enmity:* During a Contest against another individual, before either character rolls, you may spend ⊜⊜ to act synchronously with your opponent. If you do, the two of you perform your rolls at the same time. When either of you would bump, you both bump. You both still maintain your own separate roll totals. This Ability may not be used at the start of an Endeavor round. |
+| *Spark Enmity:* During a Contest against another individual, before either character rolls, you may spend ⊜⊜ to act synchronously with your opponent. If you do, the two of you perform your rolls at the same time. When either of you would bump, you both bump. You both still maintain your own separate roll totals. This Ability may not be used at the start of an Endeavor round.  `FIXME` This Ability is confusing with the new Endeavor and scrambling Contest rules. |
 
 ### Character Creation | Step Five!
 <!-- _class: creation -->
@@ -786,19 +737,72 @@ You may also spend ①①① to receive an additional upgrade beyond the one you
 ## Playing the Game
 <!-- _class: center major rules -->
 
+### Blessing Dice
+<!-- _class: rules -->
+
+Some Abilities and other effects cost "Blessing Dice" to activate.
+
+In general:
+
+- **Pool of Blessing Dice:** Each character has a pool of Blessing Dice, representing resources they can draw upon when the moment calls.
+- **Gaining Blessing Dice:** The GM will award you Blessing Dice for various achievements. When you gain a Blessing Die, roll a $d6$ then add that die to your pool of Blessing Dice.
+- **Spending Blessing Dice:** When you spend a Blessing Die, remove it from your pool of Blessing Dice. An effect may require you to spend a Blessing Die of at least a certain size. An effect may also require you to spend multiple Blessing Dice at the same time. The Blessing Dice Notation table below provides a few examples of how Blessing Dice costs are notated.
+- **Blessing Dice Bump:** Like your Stat Dice, Blessing Dice also bump, but in a slightly different way. When you roll a $1$ on a Blessing Die, instead of rolling again to increase the value of the roll, gain an additional Blessing Die. As long as you continue to roll a $1$ on the die, you continue to gain an additional Blessing Die.
+- **Gain One at a Time:** If you gain multiple Blessing Dice from a single effect, gain each of those dice separately. They do not form a group for the purposes of bumping.
+
+---
+<!-- _class: rules -->
+
+#### Blessing Dice Notation
+
+| Notation | Blessing Dice |
+| -------- | ------------- |
+| ⑥ | A Blessing Die worth $6$. The largest Blessing Die in the game. |
+| ② | A Blessing Die worth $2$ or more. |
+| ① | A Blessing Die worth $1$ or more. The smallest Blessing Die in the game. |
+| ②② | Two Blessing Dice each worth $2$ or more. |
+| ①① | Two Blessing Dice each worth $1$ or more. |
+| ① $\times 4$ | Four Blessing Dice each worth $1$ or more. |
+| ⊜⊜ | Two Blessing Dice of the same worth. |
+
+### GM Guide | When to Award Blessing Dice
+<!-- _class: guide -->
+
+You should award players Blessing Dice consistently and throughout each session, as many characters' abilities depend on them.
+
+What this looks like can vary per GM, per table, or per scene.
+
+Some GMs may prefer an approach where Blessing Dice are given whenever a player fails a check. Others may prefer an approach where they award them when the players roll the highest value on their die. Others still may prefer to award them when the players engage in cool roleplay, when they solve puzzles or complete quests, as a fixed supply at the start of each session or arc, or so on. And having the source of Blessing Dice suddenly dry up in grittier parts of the story can be a *very* effective way to put the pressure on.
+
+The way you award Blessing Dice is one of the most powerful tools in your toolbelt as a GM in this game! Use it well!
+
+---
+<!-- _class: guide -->
+
+All this being said, we recommend new GMs to this game use the following:
+
+- Award $3$ Blessing Dice near the start of the first session, such as after the player has introduced their character.
+- Award a Blessing Die for good role play and creative solutions.
+- Award a number of Blessing Dice at the end of sessions where players completed important milestones in the story.
+- Award a Blessing Die the first time each session the player succeeds a Check or wins a Contest by $6$ or more, and award each other player whose character witnessed or heard about that high win or success a Blessing Dice as well.
+- Award a Blessing Die each time the player rolls the "lucky number" for the session, before modifications to the roll from effects or Abilities. To determine the lucky number, at the start of each session, roll two $d10$ and use the higher value as the lucky number for the session. If a $1$ is rolled on both dice this way, then there is no lucky number for the session, as it is almost impossible to score lower than a $2$ on rolls in this game; such sessions take place narratively on an "unlucky day."
+
 ### Spark Rolls
 <!-- _class: rules -->
 
-When two of a character's Stats use the same die, those Stats are "balanced" and can be "Sparked" together, representing hints of magic, ability to achieve amazing feats, surprising wins, and so on. Sparks are what allow characters to perform far beyond what is normally possible by the laws of nature, limited only by their imagination&mdash;and ability to control powerful and strange forces!
+A pair of balanced Stats and can be "Sparked" together, representing hints of magic, ability to achieve amazing feats, surprising wins, and so on. Sparks are what allow characters to perform far beyond what is normally possible by the laws of nature, limited only by their imagination&mdash;and ability to control powerful and strange forces!
 
 In general, Spark rolls work by grouping Stat Dice and rolling them, increasing the odds of bumping. To perform a Spark roll:
 
-1. **Spark a roll:** When rolling a Stat Die, you may spend ⊜⊜ to perform a Spark roll instead, which combines the dice of two balanced Stats into a single group, such as $2d6$ formed from two balanced Stats using a $d6$ each.
+1. **Spark a Roll:** Before rolling a Stat Die, you may spend ⊜⊜ to perform a Spark roll instead, which combines the dice of two balanced Stats into a single group, such as $2d6$ formed from two balanced Stats using a $d6$ each.
 2. **Apply Usual Bonuses:** Any bonuses or effects that would apply to either of the balanced Stats used in the Spark roll also apply to the Spark roll itself.
 
-Also note:
+Alternatively, you can upgrade an existing roll into a Spark roll:
 
-- **Advantageous Sparking:** You may decide to turn a roll into a Spark roll before or after you've made your first roll for the action. For example, when you roll your first $1$ on the die, you may decide to take extra advantage of this opportunity. If you do, pay the Blessing Die cost to Spark, roll your second die, then reroll both dice for the bump, and add it all together.
+1. **Roll Normally:** Roll one Stat Die, bumping and applying bonuses as usual.
+2. **Upgrade to Spark:** Then, you may spend ⊜⊜ to add a second Stat Die to the roll that is balanced with the first. Roll the second Stat Die, add the result to the first, and if the second one bumps, both bump as a group.
+
+The second approach rolls lower on average, but doesn't require you to commit to the cost up front.
 
 ### Checks
 <!-- _class: rules -->
@@ -882,11 +886,8 @@ A non-violent Contest is when a character performs an action against another cha
 To perform a non-violent Contest:
 
 1. **Attack:** The Attacker rolls the appropriate Stat.
-2. **Defense:** The Defender rolls the same Stat as the Attacker. If the Attacker uses a Spark roll, then the Defender may roll a Spark roll using either or both of the Stats used in the Attacker's Spark roll, so long as the Defender pays the Blessing Die cost.
+2. **Defense:** The Defender rolls the same Stat as the Attacker, a Stat balanced with that Stat, or a Spark roll of two such Stats.
 3. **Outcome:** The action's effect is only successful if the Attacker rolls higher than the Defender. The size of the effect is determined by the difference between their scores according to the Outcome Sizes and Contest Effects tables below.
-
----
-<!-- _class: rules -->
 
 #### Outcome Sizes
 
@@ -898,6 +899,9 @@ To perform a non-violent Contest:
 | Major | $6-7$ |
 | Very Major | $8-9$ |
 | Maximum | $10+$ |
+
+---
+<!-- _class: rules -->
 
 #### Contest Effects
 
@@ -915,8 +919,8 @@ A violent Contest is when an Attacker performs an action against another charact
 
 To perform a violent Contest:
 
-1. **Attack:** The Attacker first rolls their Hurt Stat or a Spark roll that involves Hurt.
-2. **Defense:** The Defender rolls their Hurry Stat or Spark roll that involves Hurry, representing their immediate instinctive reaction in the scene.
+1. **Attack:** The Attacker first rolls their Hurt Stat, a Stat balanced with that Stat, or a Spark roll of two such Stats.
+2. **Defense:** The Defender rolls their Hurry Stat, a Stat balanced with that Stat, or a Spark roll of two such Stats, representing their immediate instinctive reaction in the scene.
 3. **Outcome:** The action's effect is only successful if the Attacker rolls higher than the Defender. The extent of the injury is determined by the difference between their scores, regardless if that was what the Attacker intended, according to the Outcome Sizes and Contest Effects tables above.
 4. **Additional Attacks:** If the violence continues past this initial Contest, then the Attackers may choose to change tactics, such as performing a non-violent Contest to shift subsequent rounds in their favor.
 5. **Additional Defenses:** Additionally, Defenders may choose to respond to these continued Attacks with a greater range of options than just Hurry, such as outwitting (Head), calling on honor (Hand), destroying a part of the environment (Hand), calling for a truce (Heart), or repositioning oneself (Head or Home).
@@ -1150,7 +1154,7 @@ There are several different types of Endeavors depending on the scenario. Howeve
 
 - **Rounds:** Endeavors are carried out as a number of rounds in which the characters attempt actions and perform Contests and Checks to drive the narrative tension, progress themselves, and slow their opponents.
 - **Roll:** At the start of each round, choose a Stat to roll. The narrative for your rolls do not have to be fully formed, just what Stat to use. The GM may limit which Stats you can choose from in certain situations.
-- **Current Roll:** Once you roll, you'll use this same Stat and roll value for all Checks and Contests for the rest of the round&mdash;or until an effect makes you reroll! So, it is important to keep track of your current roll and Stat in use.
+- **Current Roll:** Once you roll, you'll use this roll value for all Checks and Contests for the rest of the round&mdash;or until an effect makes you reroll! So, it is important to keep track of your current roll. 
 - **Turn Order:** After rolls are made for the round, if you rolled the lowest you go first. Then whoever hasn't acted yet and holds the lowest current roll goes next, with the GM resolving ties, until all characters have gone.
 
 *Continued on next page.*
@@ -1158,22 +1162,19 @@ There are several different types of Endeavors depending on the scenario. Howeve
 ---
 <!-- _class: rules -->
 
-
-- **Shifting Turn Order:** If an effect has you roll a new value before your turn, your turn order may change: if you roll higher you may act later, and if you roll lower you may act sooner.
-- **Helping Yourself:** During your turn you may spend Blessing Dice as usual to increase the value of your own roll, so long as you have not already do so that round.
 - **Actions:** Each round during your turn, you may only take one action, chosen from the set of actions available for that Endeavors. Some actions use your current roll, and some ignore it. The GM may limit the actions you can choose from in certain situations.
 - **Movement:** Endeavors use a number line to track character positions, scores, progress towards goals, or so on. This number line begins at $0$ and goes up as high as needed. The Endeavor's setup instructions will describe where characters begin on the number line, and its actions will describe when and how you move.
 - **Group Movement:** If a group moves together an amount, they only move a total of that amount. How the group distributes this movement among its members is up to the group to decide: they may distribute the movement evenly, give it all to one member, or any other arrangement the group agrees on.
 - **Special Actions:** Some actions have the `Special Action` label. Special actions cannot be used during the round. Instead, at the end of the round after all normal actions are complete, whoever has the highest current roll chooses a special action to perform, with the GM resolving ties. Then the next round begins and new rolls are made.
-
-*Continued on next page.*
+- **Buttons:** Endeavors add a number of buttons to the number line. There are two types of buttons, personal and global. Personal buttons can only be activated by the character who added them, whereas global buttons can be activated by any character. If an Endeavor uses buttons, it will describe how each is activated and the effect that happens as a result.
 
 ---
 <!-- _class: rules -->
-- **Buttons:** Endeavors add a number of buttons to the number line. There are two types of buttons, personal and global. Personal buttons can only be activated by the character who added them, whereas global buttons can be activated by any character. If an Endeavor uses buttons, it will describe how each is activated and the effect that happens as a result.
 
 Also note:
 
+- **Helping Yourself:** During your turn, before you use your current roll to take your action, you may spend Blessing Dice as usual to increase the value of your current roll, so long as you have not already do so that round.
+- **Sparking:** You may also spend ⊜⊜ as usual to upgrade your current roll to a Spark roll before your action. Use these to your advantage to jump ahead of your opponents to nab the special action for the round!
 - **Streamlined Success:** To streamline Endeavors, the GM allow all Checks to automatically succeed, providing larger effects for higher rolls.
 - **Receiving Aid:** If the GM does streamline Checks this way, then "recieve aid" effects would be unable to activate. At GM discretion, such effects may never activate, always activate, or only activate once per Endeavor per effect.
 - **Multiple Number Lines:** If an Endeavor spans a larger playing field than normal, the GM may divide the Endeavor into two or three number lines, where who you can interact with is limited based on which number line you are on. Depending on the situation, you may be able to change number lines by succeeding Checks or paying movement costs. In any case, the Endeavor still only has one special action per round across all number lines.
@@ -1209,7 +1210,7 @@ Some campaigns or sessions may involve the player characters summoning, rallying
 
 | Action | Description |
 | ------ | ----------- |
-| Perform&nbsp;an Attack | Use your current roll to perform an Attack against an opposing summon who has not acted this round. They roll a new value and Defend with it. If they lose this Contest, they move down by the amount they lost by. |
+| Perform&nbsp;an Attack | Use your current roll to Attack an opposing summon who has not acted this round. They roll a new value and Defend with it. If they lose this Contest, they move down by the amount they lost by. |
 | Perform&nbsp;a Check | Use your current roll to perform a Check to advance your team's objectives. Move up equal to half your current roll, rounded down. |
 | Push&nbsp;the Advantage | `Special Action` Move up equal to half your current roll, rounded down. Any opposing summons you move past during this movement each move down by $1$. |
 
@@ -1281,7 +1282,7 @@ Some campaigns or sessions may involve a prolonged scene where the player charac
 | Action | Description |
 | ------ | ----------- |
 | Look Around | Move up or down an amount equal to the largest number on your current roll's Stat Die. You may choose to end this movement early. |
-| Group Up | Ignore your current roll. Choose an ally who has not acted this round. You form a group with them, and on their action you may provide Help to increase their roll. |
+| Group Up | Ignore your current roll. Choose an ally who has not acted this round. You form a group with them. Until the end of the round, you move with them and may provide Help to increase their rolls. |
 | Inspect Closer | `Special Action` Choose a number of glimmer buttons up to half your current roll, rounded down. Those buttons each move down by $1$. |
 
 ---
@@ -1301,7 +1302,7 @@ Some campaigns or sessions may involve the player characters and their allies fa
 
 - **Setup:** You and your allies begin at position $1$. Your opponents begin higher up, each add defeat buttons at position $0$, and each add recovery buttons somewhere else. Stronger opponents begin further from $0$, may have Abilities, and may enter the Endeavor with Blessing Dice of their own.
 - **Goal:** To win, move all your opponents to position $0$ without your team being captured first.
-- **Actions:** There are three normal actions and one special action you and your allies may choose from during the Endeavor, described in the Allied Actions table below. Your opponents also have a number of actions, described in the Monstrosity Actions table below. Some Monstrosity's Abilities grant them additional actions.
+- **Actions:** There are a number of normal actions and one special action you and your allies may choose from during the Endeavor, described in the Allied Actions table below. Your opponents also have a number of actions, described in the Monstrosity Actions table below. Some Monstrosity's Abilities grant them additional actions.
 - **Buttons:** Your opponents enter the Endeavor with a number of buttons, described in the Monstrosity Buttons table below.
 
 ---
@@ -1311,10 +1312,10 @@ Some campaigns or sessions may involve the player characters and their allies fa
 
 | Action | Description |
 | ------ | ----------- |
-| Perform&nbsp;an Attack | Use your current roll to perform an Attack against an opponent who has not acted this round. They roll a new value and Defend with it. If they lose this Contest, they move down by the amount they lost by. |
+| Perform&nbsp;an Attack | Use your current roll to Attack an opponent who has not acted this round. They roll a new value and Defend with it. If they lose this Contest, they move down by the amount they lost by. |
 | Perform&nbsp;a Check | Use your current roll to perform a Check to advance your team's objectives. Move up equal to half your current roll, rounded down. |
-| Group Up | Ignore your current roll. Choose an ally who has not acted this round. You form a group with them, and on their action you may provide Help to increase their roll. |
-| Get&nbsp;in Position | Ignore your current roll. Your rolls next round receive a $+1$ bonus. |
+| Get&nbsp;in Position | Gain a number of temporary Blessing Dice equal to half your current roll, rounded down. These disappear at the end of next round. |
+| Group Up | Ignore your current roll. Choose an ally who has not acted this round. You form a group with them. Until the end of the round, you move with them and may provide Help to increase their rolls. |
 | Perform&nbsp;a Combo | `Special Action` Move up equal to your current roll. Then you and your allies may move down any total amount. Choose an opponent to move down by that same total amount. |
 
 ---
@@ -1324,10 +1325,10 @@ Some campaigns or sessions may involve the player characters and their allies fa
 
 | Action | Description |
 | ------ | ----------- |
-| Perform&nbsp;an Attack | Use your current roll to perform an Attack against an opponent who has not acted this round. They roll a new value and Defend with it. If they lose this Contest, they move down by the amount they lost by. Then if they are at position $0$ and they lost the Contest by $3$ or more, they gain a stun button at position $1$ if they do not have one already. |
-| Group Up | Ignore your current roll. Choose an ally who has not acted this round. You form a group with them, and on their action you may provide Help to increase their roll. |
-| Get&nbsp;in Position | Ignore your current roll. Your rolls next round receive a $+1$ bonus. |
-| Perform&nbsp;a Capture | `Special Action` Choose an opponent at position $0$ to roll a new value to Defend against your Capture Roll with. If they lose, they are unable to act for the rest of the Endeavor. At the end of later rounds, they may attempt the Defense again to end this effect early. |
+| Perform&nbsp;an Attack | Use your current roll to Attack an opponent who has not acted this round. They roll a new value and Defend with it. If they lose this Contest, they move down by the amount they lost by. Then if they are at position $0$, they gain a wound button at the first position above them without one already. |
+| Get&nbsp;in Position | Gain a number of temporary Blessing Dice equal to half your current roll, rounded down. These disappear at the end of next round. |
+| Group Up | Ignore your current roll. Choose an ally who has not acted this round. You form a group with them. Until the end of the round, you move with them and may provide Help to increase their rolls. |
+| Perform&nbsp;a Takedown | `Special Action` Choose any number of opponents with three or more wounds and a current roll less than your Capture Roll. Those opponents are "taken down" and may not act the rest of the Endeavor. |
 
 ---
 <!-- _class: rules -->
@@ -1339,7 +1340,7 @@ Some campaigns or sessions may involve the player characters and their allies fa
 | Recovery | *Type:* Personal. *Activation:* Activate this button when you move over it. *Effect:* End your movement, remove this button, and return to your starting position. |
 | Revenge | *Type:* Personal. *Activation:* Activate this button when you move over it. *Effect:* End your movement, remove this button, and immediately use Perform an Attack against an opponent who caused you to move down this round, even if you or the opponent have already acted this round. |
 | Defeat | *Type:* Personal. *Activation:* Activate this button when you move over it. *Effect:* End your movement, remove this button, and you are removed from the Endeavor. |
-| Stun | *Type:* Personal. *Activation:* Activate this button when you move over it. *Effect:* End your movement, remove this button, and move down by $1$. |
+| Wound | *Type:* Personal. *Activation:* Activate this button when you move over it while moving up. *Effect:* Decrease your remaining movement by $1$, to a minimum of $0$. |
 
 ### GM Guide | Monstrous Stats
 <!-- _class: guide -->
@@ -1398,7 +1399,7 @@ Some campaigns or sessions may involve a prolonged scene where the player charac
 - **Setup:** All characters begin at position $1$. At the top of the first round, the GM will provide the lay of the land for the race course environment, including any terrain elements like hills, brush, holes, asteroid fields, or so on that would slow the racers down. As the Endeavor progresses, additional areas may become available, each with their own number line and lay of the land.
 - **Goal:** To win, be the first to reach the finish line.
 - **Actions:** There are two normal actions and one special action characters may choose from during the Endeavor, described in the Race Actions table below.
-- **Buttons:** When the GM gives a lay of the land, a number of terrain buttons of will be added, described in the Race Buttons table below. The GM may add multiple types of terrain buttons to the number line, representing different types of obstacles for the area, such as hills, stampedes, quantum puzzles, or trolley problem moral dilemmas. When a character begins the round on a terrain button, the type of the terrain button may constrain what Stats they may roll or what actions they may take.
+- **Buttons:** When the GM gives a lay of the land, a number of terrain buttons will be added, described in the Race Buttons table below. The GM may add multiple types of terrain buttons to the number line, representing different types of obstacles for the area, such as hills, stampedes, quantum puzzles, or trolley problem moral dilemmas. When a character begins the round on a terrain button, the type of the terrain button may constrain what Stats they may roll or what actions they may take.
 
 *Continued on next page.*
 
@@ -1412,8 +1413,8 @@ Some campaigns or sessions may involve a prolonged scene where the player charac
 | Action | Description |
 | ------ | ----------- |
 | Perform&nbsp;a Check | Use your current roll to perform a Check to advance your team's objectives. Move up equal to your current roll. |
-| Catch&nbsp;your Breath | Gain a number of Blessing Dice equal to half your current roll, rounded down. These Blessing Dice disappear when the Endeavor ends or you leave it early. |
-| Group Up | Ignore your current roll. Choose an ally who has not acted this round. You form a group with them, and on their action you may provide Help to increase their roll. |
+| Get&nbsp;in Position | Gain a number of temporary Blessing Dice equal to half your current roll, rounded down. These disappear at the end of next round. |
+| Group Up | Ignore your current roll. Choose an ally who has not acted this round. You form a group with them. Until the end of the round, you move with them and may provide Help to increase their rolls. |
 | Overcome&nbsp;an Obstacle | `Special Action` Move up equal to half your current roll, rounded down. You may ignore one terrain button next round. |
 
 ---
@@ -1426,26 +1427,38 @@ Some campaigns or sessions may involve a prolonged scene where the player charac
 | Terrain | *Type:* Global. *Activation:* You activate this button when you move over it. *Effect:* End your movement. |
 
 ### 💣 Stealth Endeavors
-
-TODO
-
-### 
 <!-- _class: rules -->
 
 Some campaigns or sessions may involve prolonged tension where the player characters attempt to sneak past guards, escape a prison, perform a heist, or so on!
 
-These sorts of Endeavors are run like any other Endeavor, with the following additions:
-
-- **Alarm Buttons:** At the start of the Endeavor, the GM adds a number of "alarm buttons" throughout the number line. If a character ends its first movement of the round on the same space as an alarm button, then the character is "made" by the watchful eye they are trying to avoid. What happens when a character is made this way depends on the Encounter. For example, the party immediately loses when any character is made. Or after a number of times being made, the Endeavor changes. Or when a character is made, they perform a Check whose target is equal to the button's position on the number line, and the character is removed from the Endeavor if they fail that Check. Or so on.
-
-*Continued on next page.*
+- **Setup:** All characters begin at position $1$. At the top of the first round, the GM will provide the lay of the land for the guarded area, including any rooms, halls, obstacles to climb or hide behind, locking and security mechanisms, and so on. As the Endeavor progresses, additional areas may become available, each with their own number line and lay of the land.
+- **Goal:** Clear all objectives without getting made.
+- **Actions:** There are a number of normal actions you and your allies may choose from, described in the Stealth Actions table below. However, there are no special actions in this Endeavor.
+- **Buttons:** When the GM gives a lay of the land, a number of alarm buttons, described in the Stealth Buttons table below, will be added throughout the number line in a pattern. Additionally, objective buttons will be added, representing your goals for the Endeavor.
 
 ---
 <!-- _class: rules -->
 
-- **Alarm Buttons Move:** At the end of each round, the alarm buttons move, according to some set pattern only the GM knows. Nothing happens immediately when an alarm button ends its movement in the same space as a character. However, if a character chooses to sit out from directing the Focal Action while sharing a space with an alarm button, then the chatacter is made just as though they had moved onto it.
-- **Failed Checks Increase Alertness:** When a character fails a Check or loses a Contest while resolving a Focal Action or Side Action, the "alertness" of the Endeavor increases, represented by an additional alarm button being added to the number line.
-- **Negative Help:** When a character receives Help, they may choose to subtract the bonus from their roll instead of adding it as usual.
+#### Stealth Actions
+
+| Action | Description |
+| ------ | ----------- |
+| Move Along | Move up or down an amount equal to the largest number on your current roll's Stat Die. |
+| Look Out | Choose an ally. They may move up or down an amount equal to the largest number on your current roll's Stat Die. |
+| Find&nbsp;a Nook | Find a place to hide. Add a nook button at a position up or down from you an amount no larger than half your current roll, rounded down.
+| Get&nbsp;in Position | Gain a number of temporary Blessing Dice equal to half your current roll, rounded down. These disappear at the end of next round. |
+| Group Up | Ignore your current roll. Choose an ally who has not acted this round. You form a group with them. Until the end of the round, you move with them and may provide Help to increase their rolls. |
+
+---
+<!-- _class: rules -->
+
+#### Stealth Buttons
+
+| Button | Description |
+| ------ | ----------- |
+| Alarm | *Type:* Global. *Activation:* You activate this button when you begin or end your turn on it. *Effect:* You are "made" by the watchful eye you are trying to avoid. What happens next depends on the Endeavor. *Passive Effect:* At the start of each round, all alarm buttons move according to a pattern. |
+| Objective | *Type:* Global. *Activation:* You activate this button when you move over it. *Effect:* Use your current roll to perform a Check. The target for the Check will be equal to the button's position. If you succeed, remove this button. Otherwise, add another Alarm button. |
+| Nook | *Type:* Global. *Activation:* You activate this button when you move over it. *Effect:* You may end your movement. |
 
 ## Index
 <!-- _class: major center -->
@@ -1466,4 +1479,4 @@ These sorts of Endeavors are run like any other Endeavor, with the following add
 <!-- _class: index -->
 <div id="tablist"><h3>Tables</h3></div>
 
-<script src="script.js"></script>
+<script src="script.js?v=1234567890"></script>

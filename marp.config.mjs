@@ -37,11 +37,9 @@ const envPlugin = (md) => {
     (state) => {
       if (state.inlineMode) return
 
-      let currentMeta = {}
-
       for (const token of state.tokens) {
         if (token.type === 'inline') {
-          // Replace content for each placeholder token with the metadata value that is defined in nearest
+          // Replace content for each placeholder token with the env value
           for (const inlineToken of token.children) {
             if (inlineToken.type === 'placeholder') {
               inlineToken.content = process.env[inlineToken.info]
