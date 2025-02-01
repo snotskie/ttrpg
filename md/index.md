@@ -18,7 +18,7 @@ A tabletop roleplaying game
 
 CC BY:NC:ND Version
 
-{{ TAG }}
+{{ process.env["TAG"] }}
 
 snotskie.
 
@@ -70,6 +70,8 @@ Cover typography: Bebas Neue, by Ryoichi Tsunekawa
 <!-- _class: toc -->
 <div id="toc3"></div>
 
+## Introduction
+
 ### About
 
 *Humanity, Blessed* is a rules-light TTRPG system inspired by our favorite games, books, and TV. *Humanity, Blessed* is designed to tell stories about what it means to be human, doing goofy, cool, fantastic little human things.
@@ -77,7 +79,7 @@ Cover typography: Bebas Neue, by Ryoichi Tsunekawa
 ## Making Your First Character
 <!-- _class: center major creation -->
 
-### Character Creation | Step One!
+### Character Creation · Step One!
 <!-- _class: creation -->
 
 The following pages describe the **Stats** used in *Humanity, Blessed*, known collectively as **the H's of Humanity**. Your GM may add an additional one as well.
@@ -229,7 +231,7 @@ Also note:
 - **Bumping Dice Groups:** Some effects will ask you to roll a group of dice, denoted such as $2d6$. When rolling a group of dice, if you roll a $1$ on either die, then you roll all dice in the group again and add to the previous result. And as long as you continue to roll a $1$ on either die, you continue to roll the group again and add this way.
 - **Explicit Dice Grouping Only:** Note, $2d6$ is different from $1d6+1d6$. Only when an effect explicitly groups dice together are they considered a group for bumping. For example, both dice of the $2d6$ group are rerolled when either rolls a $1$. However, the dice of the $1d6+1d6$ are considered separate groups, so rolling a $1$ on one of the dice only affects that one die.
 
-### Character Creation | Step Two!
+### Character Creation · Step Two!
 <!-- _class: creation -->
 
 The following pages describe **Lifestyle** and **Ethic** options. Some Lifestyles are **upgrade options** you will not have access to when the game begins.
@@ -338,7 +340,7 @@ Once you've chosen your starter Lifestyle and Ethic, consult the table below. **
 | --- |
 | *Description:* At the end of the day, you may believe that the only person you can really trust is yourself. You may also believe that the world is unfair, "good" and "fate" are made up ideas, and you'd do whatever it takes to just get by. |
 
-### GM Guide | Campaign Ethic
+### GM Guide · Campaign Ethic
 <!-- _class: guide -->
 
 As you begin to imagine the world and genre of your campaign, consider what it means to be "Carefree," "Eager," or "Wisened" in your setting. Doing so requires making assumptions about the Ethic of the world itself!
@@ -349,7 +351,7 @@ As you begin to imagine the world and genre of your campaign, consider what it m
 
 **⚙️ Cunning &amp; Capability** settings are well equipped for cyberpunk, steam punk, hard sci-fi, spy fiction, heist fiction, josei, surveillance-state fiction, noir, and antihero/villain stories. This genre is likely familiar, and fits stories well that have high stakes without necessarily a clear good vs. evil component. The Crafty, Wired, and Compelling upgrade options are the most "default" in such settings.
 
-### Character Creation | Step Three!
+### Character Creation · Step Three!
 <!-- _class: creation -->
 
 Begin to describe your character's backstory. **Answer the following prompts** or others given to you by your GM.
@@ -369,7 +371,7 @@ And as you play, **keep notes**! These can help you reflect on you and your grou
 
 Such reflection can help you **shape the course** of your Focus and your character's development over the duration of the story, **make important character choices** during your sessions, and **inspire you and your GM** for ideas for future scenes and sessions.
 
-### GM Guide | Determining Focus
+### GM Guide · Determining Focus
 <!-- _class: guide -->
 
 As you work with your players to develop their backstory and Focus, come up with a list of three to five specific narrative elements for each player that describe what their History Stat covers. For example:
@@ -386,7 +388,7 @@ As you work with your players to develop their backstory and Focus, come up with
 
 Consider what *unique* skills, proficiencies, traits, and backstory elements each character brings to the story. Also consider the *variety* of a character's Focus: if all or most of them would be covered already by another Stat, then the player would have no reason to use or upgrade their History Stat!
 
-### GM Guide | Non-Human Characters
+### GM Guide · Non-Human Characters
 <!-- _class: guide -->
 
 If your game's setting allows your players to create non-human characters, there are generally two approaches for how to represent it. The choice depends on the variety of non-human backgrounds between your players:
@@ -394,7 +396,7 @@ If your game's setting allows your players to create non-human characters, there
 - **High Variety:** If each player character has a different non-human background, then the simplest option is to use each character's Focus to cover one or two simple actions, within reason, that characters of their non-human background could perform unaided that human characters couldn't.
 - **Low Variety:** If player characters all come from just a few non-human background options, then using their Focus to cover this background would clog them with details that aren't unique to each player. Instead, expand the scope of two or three Stats besides History to cover one or two simple actions each, within reason, that characters of their non-human backgrounds could perform unaided that human characters couldn't.
 
-### Character Creation | Step Four!
+### Character Creation · Step Four!
 <!-- _class: creation -->
 
 The following pages describe several **Ability** options. As your read, you may want to consult the **Playing the Game** chapter to learn more about the rules Abilities interact with.
@@ -579,7 +581,7 @@ Honorable and Charitable Resolve each require and extend Fearless Resolve.
 | --- |
 | And what matters most is forgiveness and paying our blessings forward. *Effect:* When you visit a place of religious, spiritual, or community importance, you may spend any number of ① as a donation or act of service to the place. The more spent this way, the greater a possible later boon may be, determined by the GM. |
 
-### GM Guide | Charitable Resolve's Boon
+### GM Guide · Charitable Resolve's Boon
 <!-- _class: guide -->
 
 How you rule the boon given by the "Charitable Resolve" ability may vary by session, setting, scene, or even be determined in the moment when the players need it most.
@@ -677,7 +679,7 @@ Adaptive Synchrony extends any other Ability.
 | *Spark Together:* You may perform a Spark roll using one of your Stats and one of the Stats of another willing character in the scene, so long as the chosen Stats are balanced, both characters have this Ability, and the Blessing Die cost is paid between the two characters. Doing so is considered acting as a group. |
 | *Spark Enmity:* During a Contest against another individual, before either character rolls, you may spend ⊜⊜ to act synchronously with your opponent. If you do, the two of you perform your rolls at the same time. When either of you would bump, you both bump. You both still maintain your own separate roll totals. This Ability may not be used at the start of an Endeavor round.  `FIXME` This Ability is confusing with the new Endeavor and scrambling Contest rules. |
 
-### Character Creation | Step Five!
+### Character Creation · Step Five!
 <!-- _class: creation -->
 
 Finally, **describe your character's appearance** and list **three or four items** your character always carries, within reason. These will be the items you begin the game with.
@@ -765,7 +767,7 @@ In general:
 | ① $\times 4$ | Four Blessing Dice each worth $1$ or more. |
 | ⊜⊜ | Two Blessing Dice of the same worth. |
 
-### GM Guide | When to Award Blessing Dice
+### GM Guide · When to Award Blessing Dice
 <!-- _class: guide -->
 
 You should award players Blessing Dice consistently and throughout each session, as many characters' abilities depend on them.
@@ -833,7 +835,7 @@ Also note:
 | Severe | $16$ |
 | Trial | $20$ |
 
-### GM Guide | Setting Targets for Magic
+### GM Guide · Setting Targets for Magic
 <!-- _class: guide -->
 
 If your setting has "magic" or other supernatural, reality-bending player capabilities, the way you set targets for these Checks depends on the nature of "magic" in your setting. 
@@ -1179,7 +1181,7 @@ Also note:
 - **Receiving Aid:** If the GM does streamline Checks this way, then "recieve aid" effects would be unable to activate. At GM discretion, such effects may never activate, always activate, or only activate once per Endeavor per effect.
 - **Multiple Number Lines:** If an Endeavor spans a larger playing field than normal, the GM may divide the Endeavor into two or three number lines, where who you can interact with is limited based on which number line you are on. Depending on the situation, you may be able to change number lines by succeeding Checks or paying movement costs. In any case, the Endeavor still only has one special action per round across all number lines.
 
-### GM Guide | Large-Scale Endeavors
+### GM Guide · Large-Scale Endeavors
 <!-- _class: guide -->
 
 Resolving actions that occur on massive scales&mdash;such as war, democracy, alien invasion, and farming during environmental disaster&mdash;requires shifting the scale of the narrative.
@@ -1342,7 +1344,7 @@ Some campaigns or sessions may involve the player characters and their allies fa
 | Defeat | *Type:* Personal. *Activation:* Activate this button when you move over it. *Effect:* End your movement, remove this button, and you are removed from the Endeavor. |
 | Wound | *Type:* Personal. *Activation:* Activate this button when you move over it while moving up. *Effect:* Decrease your remaining movement by $1$, to a minimum of $0$. |
 
-### GM Guide | Monstrous Stats
+### GM Guide · Monstrous Stats
 <!-- _class: guide -->
 
 - **Stats:** A Monstrosity's has only two Stat Dice, a higher dice (HD) shared between all their strongest Stats and a lower die (LD) shared between all the rest.
@@ -1479,4 +1481,6 @@ Some campaigns or sessions may involve prolonged tension where the player charac
 <!-- _class: index -->
 <div id="tablist"><h3>Tables</h3></div>
 
-<script src="script.js?v=1234567890"></script>
+{{ `<script src="script.js?v=${process.env["TAG"]}"></script>` }}
+
+{{ `<style>@import url("style.css?v=${process.env["TAG"]}");</style>` }}

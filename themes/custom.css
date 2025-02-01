@@ -16,6 +16,8 @@
     font-size: 16pt;
     letter-spacing: normal;
     text-align: left;
+    --color-highlight: var(--color-foreground);
+    --color-highlight-hover: var(--color-foreground);
 }
 
 h1, h2, h3, h4 {
@@ -153,8 +155,8 @@ td:empty {
 }
 
 /* toc */
-section.index p a, section.toc p a,
-section.index span a, section.toc span a {
+section.index p span.page_no, section.toc p span.page_no,
+section.index span span.page_no, section.toc span span.page_no {
     float: right;
 }
 
@@ -185,13 +187,13 @@ section.title p:last-child {
 }
 
 /* hover of h3 */
-section h1 a,
+/* section h1 a,
 section h2 a,
 section h3 a,
 section h4 a,
 section.ability th a {
     color: var(--color-foreground) !important;
-}
+} */
 
 /* ability table style */
 section.ability table,
@@ -260,4 +262,4 @@ section code {
 }
 
 /* styling that escapes marp containment */
-@import url("style.css?v=1234567890");
+

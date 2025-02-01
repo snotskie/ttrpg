@@ -92,23 +92,24 @@ window.addEventListener("load", function(){
         if (page){
             const toc_line = document.createElement("p");
             toc.appendChild(toc_line);
+            var entry = document.createElement("em");
             if (e.nodeName === "H2"){
-                const entry = document.createElement("strong");
-                toc_line.appendChild(entry);
+                entry = document.createElement("strong");
                 toc_line.classList.add("chapter");
-                entry.innerText = e.innerText;
-            } else if (e.nodeName === "H3"){
-                const entry = document.createElement("em");
-                toc_line.appendChild(entry);
-                toc_line.classList.add("section");
-                entry.innerText = e.innerText;
             }
 
-            const page_no = document.createElement("a");
+            toc_line.appendChild(entry);
+
+            const entry_a = document.createElement("a");
+            entry.appendChild(entry_a);
+            entry_a.innerText = e.innerText;
+            entry_a.setAttribute("href", "#" + section.getAttribute("id"));
+
+            const page_no = document.createElement("span");
             toc_line.appendChild(page_no);
+            page_no.classList.add("page_no");
             page_no.innerText = page;
-            page_no.setAttribute("aria-label", e.innerText);
-            page_no.setAttribute("href", "#" + section.getAttribute("id"));
+
             ++i;
             if (i === 18){
                 toc = document.getElementById("toc2");

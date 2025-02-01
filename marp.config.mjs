@@ -1,5 +1,5 @@
 // plugin adapted from: https://github.com/orgs/marp-team/discussions/510#discussioncomment-9397590
-const envPlugin = (md) => {
+const evalPlugin = (md) => {
   // Add `placeholder` inline rule to parse placeholders like {{ this }}.
   md.inline.ruler.before('escape', 'placeholder', (state, silent) => {
     const { src, pos } = state
@@ -42,7 +42,7 @@ const envPlugin = (md) => {
           // Replace content for each placeholder token with the env value
           for (const inlineToken of token.children) {
             if (inlineToken.type === 'placeholder') {
-              inlineToken.content = process.env[inlineToken.info]
+              inlineToken.content = eval(inlineToken.info) ; //process.env[inlineToken.info]
             }
           }
         }
@@ -50,16 +50,16 @@ const envPlugin = (md) => {
     }
   )
 
-  // Render placeholder token as escaped HTML
-  md.renderer.rules.placeholder = (tokens, idx) =>
-    md.utils.escapeHtml(tokens[idx].content)
+  // Render placeholder token as unescaped HTML
+  md.renderer.rules.placeholder = (tokens, idx) => tokens[idx].content
+    // md.utils.escapeHtml(tokens[idx].content)
 };
 
 const config = {
   allowLocalFiles: true,
   themeSet: "themes",
   url: process.env.URL || undefined,
-  engine: ({ marp }) => marp.use(envPlugin)
+  engine: ({ marp }) => marp.use(evalPlugin)
 };
 
 export default config;
