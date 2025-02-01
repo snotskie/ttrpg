@@ -356,7 +356,9 @@ As you begin to imagine the world and genre of your campaign, consider what it m
 
 Begin to describe your character's backstory. **Answer the following prompts** or others given to you by your GM.
 
-These background details will help you and your GM build the story and set the **Focus** of your **History Stat**.
+These background details will help you and your GM build the story and set your **History Stat's Focus**, which is described in more detail in the following pages.
+
+For now:
 
 - Describe **who your character looks up to**, whose work they strive to emulate, who taught them everything they know, or so on. What would it look like to make their Hero happy? upset? What is their connection to their Hero, and what is their Hero up to in the world now?
 - List **three specific skills** that your character has proven their ability in, such as through schooling, study, training, specialization within their team, or so on.
@@ -371,30 +373,25 @@ And as you play, **keep notes**! These can help you reflect on you and your grou
 
 Such reflection can help you **shape the course** of your Focus and your character's development over the duration of the story, **make important character choices** during your sessions, and **inspire you and your GM** for ideas for future scenes and sessions.
 
-### GM Guide · Determining Focus
-<!-- _class: guide -->
+### Focus
+<!-- _class: rules -->
 
-As you work with your players to develop their backstory and Focus, come up with a list of three to five specific narrative elements for each player that describe what their History Stat covers. For example:
+Each character has a Focus, a list of three to seven narrative elements from their backstory that help define the scope of their unique History Stat. For example: Tying Knots (for a scout), Swordfighting (for a knight), Breathing Fire (for a dragonborn), Reading Legal Documents (for the child of a politician), Acting (for a theater kid), Manipulating Technology (for a hacker), Stunt Driving (for a stunt performer), Friendly Interactions with the Empire (for someone raised in the empire), Unfriendly Interactions with the Rebels (for someone raised in the empire).
 
-- Tying Knots (for a scout)
-- Swordfighting (for a knight)
-- Breathing Fire (for a dragonborn)
-- Reading Legal Documents (for the child of a politician)
-- Acting (for a theater kid)
-- Manipulating Technology (for a hacker)
-- Stunt Driving (for a stunt performer)
-- Friendly Interactions with the Empire (for someone raised in the empire)
-- Unfriendly Interactions with the Rebels (for someone raised in the empire)
+In general, your Focus should: 
 
-Consider what *unique* skills, proficiencies, traits, and backstory elements each character brings to the story. Also consider the *variety* of a character's Focus: if all or most of them would be covered already by another Stat, then the player would have no reason to use or upgrade their History Stat!
+- **Unique:** Define unique skills, proficiencies, traits, and backstory elements that your character brings to the story.
+- **Variety:** Have enough variety that not all or most of your Focus would already be covered by a single Stat.
 
-### GM Guide · Non-Human Characters
-<!-- _class: guide -->
+### Non-Human Characters
+<!-- _class: rules -->
 
-If your game's setting allows your players to create non-human characters, there are generally two approaches for how to represent it. The choice depends on the variety of non-human backgrounds between your players:
+If your game's setting allows you to play non-human characters, there are generally two approaches for how to represent it.
 
-- **High Variety:** If each player character has a different non-human background, then the simplest option is to use each character's Focus to cover one or two simple actions, within reason, that characters of their non-human background could perform unaided that human characters couldn't.
-- **Low Variety:** If player characters all come from just a few non-human background options, then using their Focus to cover this background would clog them with details that aren't unique to each player. Instead, expand the scope of two or three Stats besides History to cover one or two simple actions each, within reason, that characters of their non-human backgrounds could perform unaided that human characters couldn't.
+The choice depends on the variety of non-human backgrounds among players:
+
+- **High Variety:** If each player character has a different non-human background, then the simplest option is to use each character's Focus to cover one or two simple actions, within reason, that characters of their background could perform unaided that humans couldn't.
+- **Low Variety:** If the player characters come from just a few non-human backgrounds, the GM may expand the scope of two or three Stats to cover one or two simple actions each, within reason, that characters of their non-human backgrounds could perform unaided that humans couldn't.
 
 ### Character Creation · Step Four!
 <!-- _class: creation -->
@@ -581,17 +578,6 @@ Honorable and Charitable Resolve each require and extend Fearless Resolve.
 | --- |
 | And what matters most is forgiveness and paying our blessings forward. *Effect:* When you visit a place of religious, spiritual, or community importance, you may spend any number of ① as a donation or act of service to the place. The more spent this way, the greater a possible later boon may be, determined by the GM. |
 
-### GM Guide · Charitable Resolve's Boon
-<!-- _class: guide -->
-
-How you rule the boon given by the "Charitable Resolve" ability may vary by session, setting, scene, or even be determined in the moment when the players need it most.
-
-However, some ideas are:
-
-- Create a tiered scale ahead of time, where the player unlocks different tiers of a boon as more Blessing Dice are donated. This is the simplest option, but requires prior planning creating the tiered scale.
-- Grant the player a $+2$ bonus to a roll in their time of need for each Blessing Dice donated. This is the simplest option presented here, and depending on the situation may feel satisfying or underwhelming.
-- Grant the player a $+X$ bonus to a roll in their time of need, where $X$ is the number of Blessing Dice donated. Then, have them roll $Xd6$; if they roll a $1$ on any of those dice, they gain the $+X$ bonus again and repeat this step. This option likely guarantees success on a vital roll, requires no prior planning, and can feel satisfyingly chaotic.
-
 ---
 <!-- _class: ability -->
 
@@ -679,7 +665,7 @@ Adaptive Synchrony extends any other Ability.
 | *Spark Together:* You may perform a Spark roll using one of your Stats and one of the Stats of another willing character in the scene, so long as the chosen Stats are balanced, both characters have this Ability, and the Blessing Die cost is paid between the two characters. Doing so is considered acting as a group. |
 | *Spark Enmity:* During a Contest against another individual, before either character rolls, you may spend ⊜⊜ to act synchronously with your opponent. If you do, the two of you perform your rolls at the same time. When either of you would bump, you both bump. You both still maintain your own separate roll totals. This Ability may not be used at the start of an Endeavor round.  `FIXME` This Ability is confusing with the new Endeavor and scrambling Contest rules. |
 
-### Character Creation · Step Five!
+### Character Creation · Finishing Touches!
 <!-- _class: creation -->
 
 Finally, **describe your character's appearance** and list **three or four items** your character always carries, within reason. These will be the items you begin the game with.
@@ -739,73 +725,6 @@ You may also spend ①①① to receive an additional upgrade beyond the one you
 ## Playing the Game
 <!-- _class: center major rules -->
 
-### Blessing Dice
-<!-- _class: rules -->
-
-Some Abilities and other effects cost "Blessing Dice" to activate.
-
-In general:
-
-- **Pool of Blessing Dice:** Each character has a pool of Blessing Dice, representing resources they can draw upon when the moment calls.
-- **Gaining Blessing Dice:** The GM will award you Blessing Dice for various achievements. When you gain a Blessing Die, roll a $d6$ then add that die to your pool of Blessing Dice.
-- **Spending Blessing Dice:** When you spend a Blessing Die, remove it from your pool of Blessing Dice. An effect may require you to spend a Blessing Die of at least a certain size. An effect may also require you to spend multiple Blessing Dice at the same time. The Blessing Dice Notation table below provides a few examples of how Blessing Dice costs are notated.
-- **Blessing Dice Bump:** Like your Stat Dice, Blessing Dice also bump, but in a slightly different way. When you roll a $1$ on a Blessing Die, instead of rolling again to increase the value of the roll, gain an additional Blessing Die. As long as you continue to roll a $1$ on the die, you continue to gain an additional Blessing Die.
-- **Gain One at a Time:** If you gain multiple Blessing Dice from a single effect, gain each of those dice separately. They do not form a group for the purposes of bumping.
-
----
-<!-- _class: rules -->
-
-#### Blessing Dice Notation
-
-| Notation | Blessing Dice |
-| -------- | ------------- |
-| ⑥ | A Blessing Die worth $6$. The largest Blessing Die in the game. |
-| ② | A Blessing Die worth $2$ or more. |
-| ① | A Blessing Die worth $1$ or more. The smallest Blessing Die in the game. |
-| ②② | Two Blessing Dice each worth $2$ or more. |
-| ①① | Two Blessing Dice each worth $1$ or more. |
-| ① $\times 4$ | Four Blessing Dice each worth $1$ or more. |
-| ⊜⊜ | Two Blessing Dice of the same worth. |
-
-### GM Guide · When to Award Blessing Dice
-<!-- _class: guide -->
-
-You should award players Blessing Dice consistently and throughout each session, as many characters' abilities depend on them.
-
-What this looks like can vary per GM, per table, or per scene.
-
-Some GMs may prefer an approach where Blessing Dice are given whenever a player fails a check. Others may prefer an approach where they award them when the players roll the highest value on their die. Others still may prefer to award them when the players engage in cool roleplay, when they solve puzzles or complete quests, as a fixed supply at the start of each session or arc, or so on. And having the source of Blessing Dice suddenly dry up in grittier parts of the story can be a *very* effective way to put the pressure on.
-
-The way you award Blessing Dice is one of the most powerful tools in your toolbelt as a GM in this game! Use it well!
-
----
-<!-- _class: guide -->
-
-All this being said, we recommend new GMs to this game use the following:
-
-- Award $3$ Blessing Dice near the start of the first session, such as after the player has introduced their character.
-- Award a Blessing Die for good role play and creative solutions.
-- Award a number of Blessing Dice at the end of sessions where players completed important milestones in the story.
-- Award a Blessing Die the first time each session the player succeeds a Check or wins a Contest by $6$ or more, and award each other player whose character witnessed or heard about that high win or success a Blessing Dice as well.
-- Award a Blessing Die each time the player rolls the "lucky number" for the session, before modifications to the roll from effects or Abilities. To determine the lucky number, at the start of each session, roll two $d10$ and use the higher value as the lucky number for the session. If a $1$ is rolled on both dice this way, then there is no lucky number for the session, as it is almost impossible to score lower than a $2$ on rolls in this game; such sessions take place narratively on an "unlucky day."
-
-### Spark Rolls
-<!-- _class: rules -->
-
-A pair of balanced Stats and can be "Sparked" together, representing hints of magic, ability to achieve amazing feats, surprising wins, and so on. Sparks are what allow characters to perform far beyond what is normally possible by the laws of nature, limited only by their imagination&mdash;and ability to control powerful and strange forces!
-
-In general, Spark rolls work by grouping Stat Dice and rolling them, increasing the odds of bumping. To perform a Spark roll:
-
-1. **Spark a Roll:** Before rolling a Stat Die, you may spend ⊜⊜ to perform a Spark roll instead, which combines the dice of two balanced Stats into a single group, such as $2d6$ formed from two balanced Stats using a $d6$ each.
-2. **Apply Usual Bonuses:** Any bonuses or effects that would apply to either of the balanced Stats used in the Spark roll also apply to the Spark roll itself.
-
-Alternatively, you can upgrade an existing roll into a Spark roll:
-
-1. **Roll Normally:** Roll one Stat Die, bumping and applying bonuses as usual.
-2. **Upgrade to Spark:** Then, you may spend ⊜⊜ to add a second Stat Die to the roll that is balanced with the first. Roll the second Stat Die, add the result to the first, and if the second one bumps, both bump as a group.
-
-The second approach rolls lower on average, but doesn't require you to commit to the cost up front.
-
 ### Checks
 <!-- _class: rules -->
 
@@ -863,7 +782,6 @@ To perform an automatic History Check success:
 Also note:
 
 - **Low Risk Low Reward:** When you automatically succeed a Check, the "reward" for the Check may be reduced from if you had succeeded normally.
-- **No Automatic Success during Endeavors:** You may not choose to automatically succeed Checks this way during Endeavors (described later in this chapter).
 
 ---
 <!-- _class: rules -->
@@ -877,6 +795,170 @@ Also note:
 | $d6$  | $8$ |
 | $d8$  | $12$ |
 | $d10$ | $16$ |
+
+### Blessing Dice
+<!-- _class: rules -->
+
+Some Abilities and other effects cost "Blessing Dice" to activate.
+
+In general:
+
+- **Pool of Blessing Dice:** Each character has a pool of Blessing Dice, representing resources they can draw upon when the moment calls.
+- **Gaining Blessing Dice:** The GM will award you Blessing Dice for various achievements, described in the Blessing Dice Opportunities table below. When you gain a Blessing Die, roll a $d6$ then add that die to your pool of Blessing Dice.
+- **Spending Blessing Dice:** When you spend a Blessing Die, remove it from your pool of Blessing Dice. An effect may require you to spend a Blessing Die of at least a certain size. An effect may also require you to spend multiple Blessing Dice at the same time. The Blessing Dice Notation table below provides a few examples of how Blessing Dice costs are notated.
+- **Blessing Dice Bump:** Like your Stat Dice, Blessing Dice also bump, but in a slightly different way. When you roll a $1$ on a Blessing Die, instead of rolling again to increase the value of the roll, gain an additional Blessing Die. As long as you continue to roll a $1$ on the die, you continue to gain an additional Blessing Die.
+- **Gain One at a Time:** If you gain multiple Blessing Dice from a single effect, gain each of those dice separately. They do not form a group for the purposes of bumping.
+
+---
+<!-- _class: rules -->
+
+#### Blessing Dice Notation
+
+| Notation | Blessing Dice |
+| -------- | ------------- |
+| ⑥ | A Blessing Die worth $6$. The largest Blessing Die in the game. |
+| ② | A Blessing Die worth $2$ or more. |
+| ① | A Blessing Die worth $1$ or more. The smallest Blessing Die in the game. |
+| ②② | Two Blessing Dice each worth $2$ or more. |
+| ①① | Two Blessing Dice each worth $1$ or more. |
+| ① $\times 4$ | Four Blessing Dice each worth $1$ or more. |
+| ⊜⊜ | Two Blessing Dice of the same worth. |
+
+---
+<!-- _class: rules -->
+
+#### Blessing Dice Opportunities
+
+| Opportunity | Description |
+| ----------- | ----------- |
+| Creativity | Gain a Blessing Die for good role play and creative solutions. |
+| High Roll | Gain a Blessing Die the first time each session you succeed a Check or win a Contest by $5$ or more. Each each other player whose character witnessed or heard about that high roll also gains a Blessing Die. |
+| Milestones | Gain a number of Blessing Dice for completing important story milestones. |
+| Lucky Number | When you roll the lucky number for the session on a Stat Die, before modifications, gain a Blessing Die. The GM determines the lucky number at the start of the session by rolling $2d10$. |
+
+### Helping
+<!-- _class: rules -->
+
+Characters may spend their Blessing Dice to Help one another complete Checks and Contests. And your Abilities, events, and items in the story may also Help you in similar ways.
+
+To provide Help:
+
+1. **Pay Help Cost:** Once per roll, whether your own or another character's, you may Help by spending a number of Blessing Dice.
+2. **Provide Help:** Then, the character you Helped rolls a die and adds the result to their roll. The more Blessing Dice spent above, the larger the die rolled, according to the Helping Costs table below.
+
+#### Helping Costs
+
+| Blessing Dice Spent | Bonus Added |
+| ------------------- | ----------- |
+| ① | $+1$ |
+| ①① | $+d2$ |
+| ① $\times 4$ | $+d4$ |
+| ① $\times 6$ | $+d6$ |
+| ① $\times 8$ | $+d8$ |
+| ① $\times 10$ | $+d10$ |
+
+---
+<!-- _class: rules -->
+
+Also note:
+
+- **No Bumping for Help:** The dice used for Help effects do not bump.
+- **Help Reasonably:** ou may only Help other characters if your character is near enough to them to reasonably assist with the action and your character is not currently engaged in another action.
+
+### Receiving Situational Aid
+<!-- _class: rules -->
+
+While you and your allies may spend Blessings to Help one another, in certain situations your Abilities, items, environment, careful planning, or so on can provide you additional Help as well&mdash;and for free!
+
+- **Receive Aid:** Situational aid effects describe a possible failed Check or lost Contest and say to "receive $+X$ in aid" in response. When you do, you gain a $+X$ bonus to the roll, as though you were Helped by the situation, possibly turning the failure into a success or loss into a win.
+
+Also note:
+
+- **One Aid at a Time:** You may only receive situational aid once per roll. If multiple effects would provide situational aid during the same roll, you choose which one to use.
+
+### Spark Rolls
+<!-- _class: rules -->
+
+A pair of balanced Stats and can be "Sparked" together, representing hints of magic, ability to achieve amazing feats, surprising wins, and so on. Sparks are what allow characters to perform far beyond what is normally possible by the laws of nature, limited only by their imagination&mdash;and ability to control powerful and strange forces!
+
+In general, Spark rolls work by grouping Stat Dice and rolling them, increasing the odds of bumping. To perform a Spark roll:
+
+1. **Spark a Roll:** Before rolling a Stat Die, you may spend ⊜⊜ to perform a Spark roll instead, which combines the dice of two balanced Stats into a single group, such as $2d6$ formed from two balanced Stats using a $d6$ each.
+2. **Apply Usual Bonuses:** Any bonuses or effects that would apply to either of the balanced Stats used in the Spark roll also apply to the Spark roll itself.
+
+Alternatively, you can upgrade an existing roll into a Spark roll:
+
+1. **Roll Normally:** Roll one Stat Die, bumping and applying bonuses as usual.
+2. **Upgrade to Spark:** Then, you may spend ⊜⊜ to add a second Stat Die to the roll that is balanced with the first. Roll the second Stat Die, add the result to the first, and if the second one bumps, both bump as a group.
+
+The second approach rolls lower on average, but doesn't require you to commit to the cost up front.
+
+### Overcharged Stats
+<!-- _class: rules -->
+
+Lifestyle upgrade options overcharge one or two of a character's Stats, which provides situational aid.
+
+- **Overcharged:** When you would fail a Check or lose a Contest while performing a Spark roll using an overcharged Stat, receive $+X$ in aid, where $X$ is the same sized die used in the Spark roll.
+
+### Coming Prepared
+<!-- _class: rules -->
+
+You may perform a Home Check to see if you already came prepared with just the item you need.
+
+The target needed for such Checks is up to GM discretion. However, in general:
+
+- **Suspension of Disbelief:** The target you will need to reach may depend on details such as how common, niche, specialized, rare, or unique in the world the desired item is; how probable it would be to already have that item; and how many items your character already has listed. These sorts of details greatly affect the suspension of disbelief that your character really could have the item in question.
+- **Risk of Failure:** When you fail a Check to see if you already came prepared with an item, you may be unable to perform these Checks again until the end of the scene or session. And if you fail by a large amount, you may drop or break other items in your possession while digging around in your bag, alert others to your location, or so on.
+
+### Shopping
+<!-- _class: rules -->
+
+Performing Home Checks to shop, trade, or so on is similar to performing Home Checks to see if you already came prepared with an item.
+
+In general for shopping:
+
+- **Stocked Shops Provide Aid:** If you are shopping in a place where it would be reasonable to find the desired item, and if would be reasonable for you to have the money or goods to trade for that item, then you may receive situational aid on the Check.
+- **Risk of Failure:** Like coming prepared, if you fail a Check to shop, you may be unable to do so again until the end of the scene or session, you may lose one of your other items in a bad deal, you may anger shopkeepers or be accused of shoplifting, or so on.
+
+### Crafting
+<!-- _class: rules -->
+
+Crafting new items from your surroundings, tools, and supplies is a long action. This is because crafting usually requires a number of tasks that span the scope of multiple Stats:
+
+For example:
+
+- **Home:** Gathering high quality supplies.
+- **Head:** Gaining knowledge of how to construct the desired object.
+- **Hand or Home:** Gathering or constructing the necessary tools.
+- **Hand:** Constructing the desired object, which can involve multiple steps depending on the complexity.
+- **Heart:** Improvising adjustments when tools or supplies break or when one's initial plans were imperfect.
+- **Hex, Ham, Hologram, or so on:** Meddling with the forces of the universe (for settings that have a Stat for the "magic" of the world).
+
+---
+<!-- _class: rules -->
+
+In general:
+
+- **Quality:** The target you will need to hit for this craft long action will depend on the intended "quality" or effect of your desired item, as described in the Crafted Item Quality table below. Items that would require Trial-level difficulty usually require substantial roleplay, effort, or "quests" beyond performing Checks.
+- **Flaws:** Crafted items may come with flaws, even if you succeed overall. How flaws are introduced depends on how the GM chooses to resolve the craft long action.
+- **Simple Flaws:** The GM may provide two targets for you to hit. To succeed you will need to hit the lower target, but to succeed without flaws or limitations you will need to hit the higher target.
+- **Thorough Flaws:** The GM may require you to make multiple Checks. To succeed at crafting you will need to succeed on at least half of the individual Checks, with each failed Check introducing the chance for a flaw or limitation.
+
+#### Crafted Item Quality
+
+| Item quality | Typical difficulty | Description |
+| ------------ | -------------------- | ----------- |
+| Mundane | Easy or Medium | Narrative function only |
+| High-Quality Mundane | Medium or Hard | Provides a "receive $+1$ in aid" effect |
+| Powered | Severe | Provides a "receive $+d2$ in aid" effect |
+
+### Setting Out
+<!-- _class: rules -->
+
+You and your fellow players may propose plans that could direct how you set out on a series of scenes, sessions, or whole campaign. When you do, the GM may ask for a set of rolls similar to a group long action.
+
+- **Making Plans:** Each roll in this group long action will correspond to a different necessary step of your group's plans.
+- **Gather Information:** Then, based on the results, the GM may provide different amounts or types of information to set you off on your "quest," representing your group's capabilities at planning and preparation.
 
 ### Contests
 <!-- _class: rules -->
@@ -939,7 +1021,7 @@ Also note:
 
 Sometimes characters want to complete actions together as a group. There are two general approaches:
 
-- **Provide Help:** One way is to provide Help (described later in this section) to one roll that leads the group's action. Some members of the group may decide not to roll and instead wait for the group leader to roll, then provide Help to the leader by spending Blessings to increase the result of the roll.
+- **Provide Help:** One way is to provide Help to one roll that leads the group's action. Some members of the group may decide not to roll and instead wait for the group leader to roll, then provide Help to the leader by spending Blessings to increase the result of the roll.
 - **Median Roll:** Another way is for each character to roll for the action, using the median of their rolls as the group's shared result. If the group roll had an even number of individual rolls, then the higher of the two median rolls is used. The Group Median Rolls table below provides a quick reference.
 
 #### Group Median Rolls
@@ -961,53 +1043,6 @@ Also note:
 - **Mixing Group Strategies:** These two approaches may be combined, with some members rolling and taking their median, and the other members providing Help on top of that median. However, a group member cannot both roll and Help for the same action.
 - **Staying Grouped:** In general, once characters become a group as part of a Check or Contest, they remain a group until the end of the Check or Contest and are treated as a single character for the sake of the rules, sharing benefits and risks.
 - **Opponent Groups:** Also note, a character cannot force other characters to become a group of Defenders, unless an Ability, item, or situation would allow.
-
-### Helping
-<!-- _class: rules -->
-
-Characters may spend their Blessing Dice to Help one another complete Checks and Contests. And your Abilities, events, and items in the story may also Help you in similar ways.
-
-To provide Help:
-
-1. **Pay Help Cost:** Once per roll, whether your own or another character's, you may Help by spending a number of Blessing Dice.
-2. **Provide Help:** Then, the character you Helped rolls a die and adds the result to their roll. The more Blessing Dice spent above, the larger the die rolled, according to the Helping Costs table below.
-
-#### Helping Costs
-
-| Blessing Dice Spent | Bonus Added |
-| ------------------- | ----------- |
-| ① | $+1$ |
-| ①① | $+d2$ |
-| ① $\times 4$ | $+d4$ |
-| ① $\times 6$ | $+d6$ |
-| ① $\times 8$ | $+d8$ |
-| ① $\times 10$ | $+d10$ |
-
----
-<!-- _class: rules -->
-
-Also note:
-
-- **No Bumping for Help:** The dice used for Help effects do not bump.
-- **Help Reasonably:** ou may only Help other characters if your character is near enough to them to reasonably assist with the action and your character is not currently engaged in another action.
-
-### Receiving Situational Aid
-<!-- _class: rules -->
-
-While you and your allies may spend Blessings to Help one another, in certain situations your Abilities, items, environment, careful planning, or so on can provide you additional Help as well&mdash;and for free!
-
-- **Receive Aid:** Situational aid effects describe a possible failed Check or lost Contest and say to "receive $+X$ in aid" in response. When you do, you gain a $+X$ bonus to the roll, as though you were Helped by the situation, possibly turning the failure into a success or loss into a win.
-
-Also note:
-
-- **One Aid at a Time:** You may only receive situational aid once per roll. If multiple effects would provide situational aid during the same roll, you choose which one to use.
-
-### Overcharged Stats
-<!-- _class: rules -->
-
-Lifestyle upgrade options overcharge one or two of a character's Stats, which provides situational aid.
-
-- **Overcharged:** When you would fail a Check or lose a Contest while performing a Spark roll using an overcharged Stat, receive $+X$ in aid, where $X$ is the same sized die used in the Spark roll.
 
 ### Complex Attacks
 <!-- _class: rules -->
@@ -1060,92 +1095,6 @@ To perform a scrambling Contest:
 Also note:
 
 - **Scrambling Sparks:** If a character Sparks a roll during a scrambling Contest, the Spark roll must involve the Stat chosen for the character to use, it may not involve a Stat the character has already rolled for that Contest, and for the sake of the scrambling Contest it uses up both Stats involved.
-
-### Coming Prepared
-<!-- _class: rules -->
-
-You may perform a Home Check to see if you already came prepared with just the item you need.
-
-The target needed for such Checks is up to GM discretion. However, in general:
-
-- **Suspension of Disbelief:** The target you will need to reach may depend on details such as how common, niche, specialized, rare, or unique in the world the desired item is; how probable it would be to already have that item; and how many items your character already has listed. These sorts of details greatly affect the suspension of disbelief that your character really could have the item in question.
-- **Risk of Failure:** When you fail a Check to see if you already came prepared with an item, you may be unable to perform these Checks again until the end of the scene or session. And if you fail by a large amount, you may drop or break other items in your possession while digging around in your bag, alert others to your location, or so on.
-
-### Shopping
-<!-- _class: rules -->
-
-Performing Home Checks to shop, trade, or so on is similar to performing Home Checks to see if you already came prepared with an item.
-
-In general for shopping:
-
-- **Stocked Shops Provide Aid:** If you are shopping in a place where it would be reasonable to find the desired item, and if would be reasonable for you to have the money or goods to trade for that item, then you may receive situational aid on the Check.
-- **Risk of Failure:** Like coming prepared, if you fail a Check to shop, you may be unable to do so again until the end of the scene or session, you may lose one of your other items in a bad deal, you may anger shopkeepers or be accused of shoplifting, or so on.
-
-### Crafting
-<!-- _class: rules -->
-
-Crafting new items from your surroundings, tools, and supplies is a long action. This is because crafting usually requires a number of tasks that span the scope of multiple Stats:
-
-For example:
-
-- **Home:** Gathering high quality supplies.
-- **Head:** Gaining knowledge of how to construct the desired object.
-- **Hand or Home:** Gathering or constructing the necessary tools.
-- **Hand:** Constructing the desired object, which can involve multiple steps depending on the complexity.
-- **Heart:** Improvising adjustments when tools or supplies break or when one's initial plans were imperfect.
-- **Hex, Ham, Hologram, or so on:** Meddling with the forces of the universe (for settings that have a Stat for the "magic" of the world).
-
----
-<!-- _class: rules -->
-
-In general:
-
-- **Quality:** The target you will need to hit for this craft long action will depend on the intended "quality" or effect of your desired item, as described in the Crafted Item Quality table below. Items that would require Trial-level difficulty usually require substantial roleplay, effort, or "quests" beyond performing Checks.
-- **Flaws:** Crafted items may come with flaws, even if you succeed overall. How flaws are introduced depends on how the GM chooses to resolve the craft long action.
-- **Simple Flaws:** The GM may provide two targets for you to hit. To succeed you will need to hit the lower target, but to succeed without flaws or limitations you will need to hit the higher target.
-- **Thorough Flaws:** The GM may require you to make multiple Checks. To succeed at crafting you will need to succeed on at least half of the individual Checks, with each failed Check introducing the chance for a flaw or limitation.
-
-#### Crafted Item Quality
-
-| Item quality | Typical difficulty | Description |
-| ------------ | -------------------- | ----------- |
-| Mundane | Easy or Medium | Narrative function only |
-| High-Quality Mundane | Medium or Hard | Provides a "receive $+1$ in aid" effect |
-| Powered | Severe | Provides a "receive $+d2$ in aid" effect |
-
-### Setting Out
-<!-- _class: rules -->
-
-You and your fellow players may propose plans that could direct how you set out on a series of scenes, sessions, or whole campaign. When you do, the GM may ask for a set of rolls similar to a group long action.
-
-- **Making Plans:** Each roll in this group long action will correspond to a different necessary step of your group's plans.
-- **Gather Information:** Then, based on the results, the GM may provide different amounts or types of information to set you off on your "quest," representing your group's capabilities at planning and preparation.
-
-### Conditions
-<!-- _class: rules -->
-
-Some events challenge your resolve, throw you off your game, cause you great embarrassment, or so on, beyond mere injury. When these happen, you may become Disarmed, Surprised, Uncool, or any of the other Conditions described in the Condition Effects table below.
-
-In general however:
-
-- **Conditions Tell Stories:** At minimum, Conditions provide effects. However, they also represent small story arcs where you face obstacles and, in spite of the Condition's effects, overcome those obstacles. When you fail a Check or lose a Contest and gain a Condition as a result, consider how your character feels about the situation and what the Condition means to them beyond mere effect.
-- **Conditions Build Connections:** Gaining and removing Conditions, and facing and overcoming obstacles, happen with other characters around. Consider, and take notes for the development of your character: Who else is around that saw the failed Check happen? How would your Hero feel about the lost Contest? And how could your connections to other characters help you remove the Condition later?
-
----
-<!-- _class: rules -->
-
-#### Condition Effects
-
-| Condition | Description |
-| --------- | ----------- |
-| Ache | *Effect:* Rolls you make with the affected Stat cannot bump. *Duration:* Until next scene. |
-| Cursed | *Effect:* Your Blessing Dice are each worth $1$ less, to a minimum of $0$. *Duration:* Until treated. |
-| Disarmed | *Effect:* When you win with a violent Attack, reduce the outcome size one rank. *Duration:* Until treated. |
-| Famous | *Effect:* You may exert your fame over those less famous, gaining a $+d2$ bonus in Contests against them, but not against the same character more than once during the same session or while you are Uncool. *Duration:* Until removed. |
-| Taxed | *Effect:* You cannot Spark. *Duration:* Until treated. |
-| Surprised | *Effect:* Your rolls cannot bump, Spark, or be an automatic success. *Duration:* Until next roll. |
-| Uncool | *Effect:* Your rolls are made with a $-1$ modifier unless you are alone. *Duration:* Until removed. |
-| Vulnerable | *Effect:* When another character sees you roll the affected Stat, they may have you perform the roll again and use the new value. *Duration:* Until treated. |
 
 ### General Endeavor Rules
 <!-- _class: rules -->
@@ -1461,6 +1410,32 @@ Some campaigns or sessions may involve prolonged tension where the player charac
 | Alarm | *Type:* Global. *Activation:* You activate this button when you begin or end your turn on it. *Effect:* You are "made" by the watchful eye you are trying to avoid. What happens next depends on the Endeavor. *Passive Effect:* At the start of each round, all alarm buttons move according to a pattern. |
 | Objective | *Type:* Global. *Activation:* You activate this button when you move over it. *Effect:* Use your current roll to perform a Check. The target for the Check will be equal to the button's position. If you succeed, remove this button. Otherwise, add another Alarm button. |
 | Nook | *Type:* Global. *Activation:* You activate this button when you move over it. *Effect:* You may end your movement. |
+
+### Conditions
+<!-- _class: rules -->
+
+Some events challenge your resolve, throw you off your game, cause you great embarrassment, or so on, beyond mere injury. When these happen, you may become Disarmed, Surprised, Uncool, or any of the other Conditions described in the Condition Effects table below.
+
+In general however:
+
+- **Conditions Tell Stories:** At minimum, Conditions provide effects. However, they also represent small story arcs where you face obstacles and, in spite of the Condition's effects, overcome those obstacles. When you fail a Check or lose a Contest and gain a Condition as a result, consider how your character feels about the situation and what the Condition means to them beyond mere effect.
+- **Conditions Build Connections:** Gaining and removing Conditions, and facing and overcoming obstacles, happen with other characters around. Consider, and take notes for the development of your character: Who else is around that saw the failed Check happen? How would your Hero feel about the lost Contest? And how could your connections to other characters help you remove the Condition later?
+
+---
+<!-- _class: rules -->
+
+#### Condition Effects
+
+| Condition | Description |
+| --------- | ----------- |
+| Ache | *Effect:* Rolls you make with the affected Stat cannot bump. *Duration:* Until next scene. |
+| Cursed | *Effect:* Your Blessing Dice are each worth $1$ less, to a minimum of $0$. *Duration:* Until treated. |
+| Disarmed | *Effect:* When you win with a violent Attack, reduce the outcome size one rank. *Duration:* Until treated. |
+| Famous | *Effect:* You may exert your fame over those less famous, gaining a $+d2$ bonus in Contests against them, but not against the same character more than once during the same session or while you are Uncool. *Duration:* Until removed. |
+| Taxed | *Effect:* You cannot Spark. *Duration:* Until treated. |
+| Surprised | *Effect:* Your rolls cannot bump, Spark, or be an automatic success. *Duration:* Until next roll. |
+| Uncool | *Effect:* Your rolls are made with a $-1$ modifier unless you are alone. *Duration:* Until removed. |
+| Vulnerable | *Effect:* When another character sees you roll the affected Stat, they may have you perform the roll again and use the new value. *Duration:* Until treated. |
 
 ## Index
 <!-- _class: major center -->

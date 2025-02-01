@@ -140,16 +140,20 @@ window.addEventListener("load", function(){
         if (page){
             const table_line = document.createElement("span");
             tablist.appendChild(table_line);
+
             const entry = document.createElement("span");
             table_line.appendChild(entry);
-            entry.innerText = e.innerText;
-            const page_no = document.createElement("a");
+
+            const entry_a = document.createElement("a");
+            entry.appendChild(entry_a);
+            entry_a.innerText = e.innerText;
+            entry_a.setAttribute("href", "#" + section.getAttribute("id"));
+
+            const page_no = document.createElement("span");
+            page_no.classList.add("page_no");
             table_line.appendChild(page_no);
             table_line.appendChild(document.createElement("br"));
             page_no.innerText = page;
-            page_no.setAttribute("aria-label", e.innerText);
-            page_no.setAttribute("href", "#" + section.getAttribute("id"));
-            
         }
     });
 
@@ -163,13 +167,17 @@ window.addEventListener("load", function(){
             const abix_line = document.createElement("span");
             const entry = document.createElement("span");
             abix_line.appendChild(entry);
-            entry.innerText = restyleIndexEntry(e.innerText.replace(" Starter", ""));
-            const page_no = document.createElement("a");
+
+            const entry_a = document.createElement("a");
+            entry.appendChild(entry_a);
+            entry_a.innerText = restyleIndexEntry(e.innerText.replace(" Starter", ""));
+            entry_a.setAttribute("href", "#" + section.getAttribute("id"));
+            
+            const page_no = document.createElement("span");
+            page_no.classList.add("page_no");
             abix_line.appendChild(page_no);
             abix_line.appendChild(document.createElement("br"));
             page_no.innerText = page;
-            page_no.setAttribute("aria-label", e.innerText.replace(" Starter", ""));
-            page_no.setAttribute("href", "#" + section.getAttribute("id"));
             abix_entry_map[entry.innerHTML] = abix_line;
             abix_entry_keys.push(entry.innerHTML);
         }

@@ -186,15 +186,6 @@ section.title p:last-child {
     right: 1in;
 }
 
-/* hover of h3 */
-/* section h1 a,
-section h2 a,
-section h3 a,
-section h4 a,
-section.ability th a {
-    color: var(--color-foreground) !important;
-} */
-
 /* ability table style */
 section.ability table,
 section.guideability table {
@@ -260,6 +251,3 @@ section code {
     color: #202228; /* --color-foreground in light mode */
     --color-background-code: var(--color-ability-2);
 }
-
-/* styling that escapes marp containment */
-
