@@ -71,6 +71,7 @@ Cover typography: Bebas Neue, by Ryoichi Tsunekawa
 <div id="toc3"></div>
 
 ## Introduction
+<!-- _class: center major creation -->
 
 ### About
 
@@ -422,9 +423,14 @@ The following pages list Ability options. These Abilities refer to a number of r
 | --- |
 | You've had to learn how to protect yourself in a fight. *Effect:* When you would lose against a violent Attack, receive $+d2$ in aid. |
 
-Sentry's and Barbed Armor each require and extend Protective Armor.
+Light, Sentry, and Barbed Armor each require and extend Protective Armor.
 
-| Sentry's Armor |
+| Light Armor |
+| --- |
+| And you know that well-chosen tactical positions can provide the best defense. *Effect:* Blessings you spend during Endeavors to change number lines are worth $1$ more, to a maximum of $6$. |
+
+
+| Sentry Armor |
 | --- |
 | And you know how to use that protection to keep your friends safe too. *Effect:* When another nearby character would Defend against a violent Attack, before they roll, you may become the Defender in that Contest instead. *Recharge:* ③. |
 
@@ -1134,7 +1140,7 @@ Also note:
 - **Sparking:** You may also spend ⊜⊜ as usual to upgrade your current roll to a Spark roll before your action. Use these to your advantage to jump ahead of your opponents to nab the special action for the round!
 - **Streamlined Success:** To streamline Endeavors, the GM allow all Checks to automatically succeed, providing larger effects for higher rolls.
 - **Receiving Aid:** If the GM does streamline Checks this way, then "recieve aid" effects would be unable to activate. At GM discretion, such effects may never activate, always activate, or only activate once per Endeavor per effect.
-- **Multiple Number Lines:** If an Endeavor spans a larger playing field than normal, the GM may divide the Endeavor into two or three number lines, where who you can interact with is limited based on which number line you are on. Depending on the situation, you may be able to change number lines by succeeding Checks or paying movement costs. In any case, the Endeavor still only has one special action per round across all number lines.
+- **Multiple Number Lines:** If an Endeavor spans a larger playing field than normal, the GM may divide the Endeavor into two or three number lines, where who you can interact with is limited based on which number line you are on. Depending on the situation, you may be able to change number lines by spending a Blessing of at least a certain value. In any case, the Endeavor still only has one special action per round across all number lines.
 
 ### GM Guide · Large-Scale Endeavors
 <!-- _class: guide -->
@@ -1271,7 +1277,7 @@ Some campaigns or sessions may involve the player characters and their allies fa
 | ------ | ----------- |
 | Perform&nbsp;an Attack | Use your current roll to Attack an opponent who has not acted this round. They roll a new value and Defend with it. If they lose this Contest, they move down by the amount they lost by. |
 | Perform&nbsp;a Check | Use your current roll to perform a Check to advance your team's objectives. Move up equal to half your current roll, rounded down. |
-| Get&nbsp;in Position | Gain a number of temporary Blessings equal to half your current roll, rounded down. These disappear at the end of next round. |
+| Get&nbsp;in Position | Gain a number of temporary Blessings equal to half your current roll, rounded down. Then, if applicable for the Endeavor, spend a Blessing to change number lines. Any remaining temporary Blessings disappear at the end of next round. |
 | Group Up | Ignore your current roll. Choose an ally who has not acted this round. You form a group with them. Until the end of the round, you move with them and may provide Help to increase their rolls. |
 | Perform&nbsp;a Combo | `Special Action` Move up equal to your current roll. Then you and your allies may move down any total amount. Choose an opponent to move down by that same total amount. |
 
@@ -1283,7 +1289,7 @@ Some campaigns or sessions may involve the player characters and their allies fa
 | Action | Description |
 | ------ | ----------- |
 | Perform&nbsp;an Attack | Use your current roll to Attack an opponent who has not acted this round. They roll a new value and Defend with it. If they lose this Contest, they move down by the amount they lost by. Then if they are at position $0$, they gain a wound button at the first position above them without one already. |
-| Get&nbsp;in Position | Gain a number of temporary Blessings equal to half your current roll, rounded down. These disappear at the end of next round. |
+| Get&nbsp;in Position | Gain a number of temporary Blessings equal to half your current roll, rounded down. Then, if applicable for the Endeavor, spend a Blessing to change number lines. Any remaining temporary Blessings disappear at the end of next round. |
 | Group Up | Ignore your current roll. Choose an ally who has not acted this round. You form a group with them. Until the end of the round, you move with them and may provide Help to increase their rolls. |
 | Inflict Wounds | `Special Action` Choose any number of opponents with a current roll less than your Capture Roll. They each gain a wound button at the first position above them without one already, then any with three or more wounds are "taken down" and may not act the rest of the Endeavor. |
 
@@ -1370,7 +1376,7 @@ Some campaigns or sessions may involve a prolonged scene where the player charac
 | Action | Description |
 | ------ | ----------- |
 | Perform&nbsp;a Check | Use your current roll to perform a Check to advance your team's objectives. Move up equal to your current roll. |
-| Get&nbsp;in Position | Gain a number of temporary Blessings equal to half your current roll, rounded down. These disappear at the end of next round. |
+| Get&nbsp;in Position | Gain a number of temporary Blessings equal to half your current roll, rounded down. Then, if applicable for the Endeavor, spend a Blessing to change number lines. Any remaining temporary Blessings disappear at the end of next round. |
 | Group Up | Ignore your current roll. Choose an ally who has not acted this round. You form a group with them. Until the end of the round, you move with them and may provide Help to increase their rolls. |
 | Overcome&nbsp;an Obstacle | `Special Action` Move up equal to half your current roll, rounded down. You may ignore one terrain button next round. |
 
@@ -1403,7 +1409,7 @@ Some campaigns or sessions may involve prolonged tension where the player charac
 | Move Along | Move up or down an amount equal to the largest number on your current roll's Stat Die. |
 | Look Out | Choose an ally. They may move up or down an amount equal to the largest number on your current roll's Stat Die. |
 | Find&nbsp;a Nook | Find a place to hide. Add a nook button at a position up or down from you an amount no larger than half your current roll, rounded down.
-| Get&nbsp;in Position | Gain a number of temporary Blessings equal to half your current roll, rounded down. These disappear at the end of next round. |
+| Get&nbsp;in Position | Gain a number of temporary Blessings equal to half your current roll, rounded down. Then, if applicable for the Endeavor, spend a Blessing to change number lines. Any remaining temporary Blessings disappear at the end of next round. |
 | Group Up | Ignore your current roll. Choose an ally who has not acted this round. You form a group with them. Until the end of the round, you move with them and may provide Help to increase their rolls. |
 
 ---
