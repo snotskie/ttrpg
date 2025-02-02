@@ -209,9 +209,11 @@ Each of a character's Stats is represented by a Stat Die.
 In general:
 
 - **Die Sizes:** A Stat Die can be one of five sizes, ranging from $d2$ to $d10$, as described in the Stat Dice Notation table below.
-- **Balanced Stats:** When two Stats use the same size Stat Die, they are "balanced." Whenever an effect has you use a Stat, you may instead use any other Stat you have balanced with it. Moreover, you may "Spark" two balanced Stats together to create a more powerful effect (described in the Playing the Game chapter).
 - **Stat Dice "Bump":** Stat Dice in this game "bump." This means that when you roll a $1$ on a Stat Die, roll it again and add the new result to the previous result. As long as you continue to roll a $1$ on the die, you continue to roll again and add this way.
 - **Skill and Determination:** Success and victory without bumping represents natural or trained ability, while doing so with bumping represents a character's extra determination or focus on the action.
+- **Balanced Stats:** When two Stats use the same size Stat Die, they are "balanced."
+- **Unconventional Stats:** Whenever an effect has you use a Stat, you may instead use any other Stat you have balanced with it, referred to as using an "unconventional Stat."
+- **Sparking:** You may "Spark" two balanced Stats together to create a more powerful effect (described in the Playing the Game chapter).
 
 ---
 <!-- _class: rules -->
@@ -500,7 +502,7 @@ Background, Rousing, and Delegated Effort each require and extend Concerted Effo
 
 | Rousing Effort |
 | --- |
-| And people often turn to you for guidance or leadership. *Effect:* Once per session, when your pool of Blessing Dice has a total combined worth of at least $10$, you may tell a moving story or give an inspiring speech. Each other character who hears the story or speech gains a Blessing Die. |
+| And people often turn to you for guidance or leadership. *Effect:* Once per session, when your Blessings have a total combined worth of at least $10$, you may tell a moving story or give an inspiring speech. Each other character who hears the story or speech gains a Blessing Die. |
 
 | Delegated Effort |
 | --- |
@@ -532,13 +534,13 @@ Roguish, Divining, and Ambitious Eye each require and extend Intuitive Eye.
 
 | Survival Instinct `Starter` |
 | --- |
-| Your reflexes have kept you safe. *Effect:* When you would fail a Check or lose a Contest while surprised and rolling your Hurry Stat or a Stat balanced with it, receive $+d2$ in aid. |
+| Your reflexes have kept you safe. *Effect:* When you would fail a Check or lose a Contest while surprised and rolling your Hurry Stat or an unconventional Stat balanced with it, receive $+d2$ in aid. |
 
 Careful and Perceptive Instinct each require and extend Survival Instinct.
 
 | Careful Instinct |
 | --- |
-| And you've honed those reflexes to help you at tasks that would frighten others to do. *Effect:* When you would fail a Check while performing dangerous actions related enough to your Focus, receive $+d2$ in aid. |
+| And you've honed those reflexes to help you at tasks that would frighten others to do. *Effect:* While performing dangerous actions related enough to your Focus, each ① you spend to Help yourself is worth ①①. |
 
 | Perceptive Instinct |
 | --- |
@@ -572,7 +574,7 @@ Honorable and Charitable Resolve each require and extend Fearless Resolve.
 
 | Honorable Resolve |
 | --- |
-| And it's okay to risk a loss when it means protecting what you care about. *Effect:* You may Attack to protect your honor or loved ones, using Hand or Home instead of Hurt as usual. If you lose the Contest, you receive injuries as though you were Attacked instead. *Recharge:* ④. `FIXME` This Ability is now redundant than the base Balanced Stat rule. |
+| And it's okay to risk a loss when it means protecting what you care about. *Effect:* While protecting your honor or loved ones, you may Attack violently using Hand, Home, or an unconventional Stat balanced with them, assuming a valiant stance as you do. If you are Attacked while in this stance before your next chance to act, you may Defend using the same Stat you Attacked with. *Recharge:* ③ |
 
 | Charitable Resolve |
 | --- |
@@ -583,7 +585,7 @@ Honorable and Charitable Resolve each require and extend Fearless Resolve.
 
 | Radical Self-Acceptance `Starter` |
 | --- |
-| You've never been bothered by having your own way of doing things. *Effect:* While you are Uncool, you may roll Checks using a different Stat than normal. Then once a Check succeeds this way, you are no longer Uncool. `FIXME` This Ability is now confusing with the base Balanced Stat rule.  |
+| You've never been bothered by having your own way of doing things. *Effect:* When you succeed Checks or win non-violent Contests in social situations while you are Uncool and using unconventional Stats, you receive greater benefits than normal. |
 
 Ascendant and Shameless Self-Acceptance each require and extend Radical Self-Acceptance.
 
@@ -593,7 +595,7 @@ Ascendant and Shameless Self-Acceptance each require and extend Radical Self-Acc
 
 | Shameless Self-Acceptance |
 | --- |
-| And life's taught you that laughing in the face of obstacles is a great first step in getting through them. *Effect:* Once per session, when your pool of Blessing Dice has a total combined worth of at least $10$, you may tell an cringy joke or perform an embarrassing dance. Each other character who hears the joke or witnesses the dance becomes Uncool. |
+| And life's taught you that laughing in the face of obstacles is a great first step in getting through them. *Effect:* Once per session, when your Blessings have a total combined worth of at least $10$, you may tell an cringy joke or perform an embarrassing dance. Each other character who hears the joke or witnesses the dance becomes Uncool. |
 
 ---
 <!-- _class: ability -->
@@ -627,7 +629,7 @@ Shower and Optimal Thoughts each require and extend Organized Thoughts.
 
 | Shower Thoughts |
 | --- |
-| And you find that your best ideas often come while you're performing your regular duties or self-care. *Effect:* Once per session, when you are in a safe place, you may perform a Check using Head, Heart, or a Stat balanced with them. Then up to once before the end of the session, you may use the value of that roll instead of rolling for another Check or non-violent Contest. |
+| And you find that your best ideas often come while you're performing your regular duties or self-care. *Effect:* Once per session, when you are in a safe place, you may perform a Check using Head, Heart, or an unconventional Stat balanced with them. Then up to once before the end of the session, you may use the value of that roll instead of rolling for another Check or non-violent Contest. |
 
 | Optimal Thoughts |
 | --- |
@@ -655,15 +657,19 @@ Concentration and Ambidexterity Training each require and extend Advanced Traini
 ---
 <!-- _class: ability -->
 
-Adaptive Synchrony extends any other Ability.
-
-| Adaptive Synchrony |
+| Story Synchrony |
 | --- |
-| Through careful reflection, you have learned how to adapt your Spark even further to new situations. *Effect:* Each session, choose two of the following effects for this Ability to have. `FIXME` This Ability is too large for its intended flavor. |
-| *Loan Ability:* You may spend ⊜⊜ to loan one of your Abilities to another willing character in the scene. This effect lasts until the end of the scene or sooner if you choose. |
-| *Exchange Focus:* You may spend ⊜⊜ to exchange Focus elements with another willing character in the scene. This effect lasts until the end of the scene or sooner if you choose. |
-| *Spark Together:* You may perform a Spark roll using one of your Stats and one of the Stats of another willing character in the scene, so long as the chosen Stats are balanced, both characters have this Ability, and the Blessing Die cost is paid between the two characters. Doing so is considered acting as a group. |
-| *Spark Enmity:* During a Contest against another individual, before either character rolls, you may spend ⊜⊜ to act synchronously with your opponent. If you do, the two of you perform your rolls at the same time. When either of you would bump, you both bump. You both still maintain your own separate roll totals. This Ability may not be used at the start of an Endeavor round.  `FIXME` This Ability is confusing with the new Endeavor and scrambling Contest rules. |
+| You've come to value highly the moments where you and others can all share stories about your lives growing up. *Effect:* You may spend ⊜⊜ to exchange Focus elements with another willing character in the scene. This effect lasts until the end of the scene or sooner if you choose. |
+
+Spark and Hostile Synchrony each require and extend Story Synchrony.
+
+| Spark Synchrony |
+| --- |
+| And it's when you understand one another's cares and motivations that you work best together. *Effect:* You may perform a Spark roll using one of your Stats and one of the Stats of another willing character in the scene, so long as the chosen Stats are balanced, both characters have this Ability, and the Blessing cost is paid between the two characters. Doing so is considered acting as a group. |
+
+| Hostile Synchrony |
+| --- |
+| And your time learning from others has helped you "lock in" even with your enemies. *Effect:* During a Contest against another individual, before either character rolls, you may spend ⊜⊜ to act synchronously with your opponent. If you do, the two of you perform your rolls at the same time. When either of you would bump, you both bump. You both still maintain your own separate roll totals. This Ability may not be used at the start of an Endeavor round or doing scrambling Contest rules. |
 
 ### Character Creation · Finishing Touches!
 <!-- _class: creation -->
@@ -805,9 +811,9 @@ In general:
 
 - **Pool of Blessing Dice:** Each character has a pool of Blessing Dice, representing resources they can draw upon when the moment calls.
 - **Gaining Blessing Dice:** The GM will award you Blessing Dice for various achievements, described in the Blessing Dice Opportunities table below. When you gain a Blessing Die, roll a $d6$ then add that die to your pool of Blessing Dice.
-- **Spending Blessing Dice:** When you spend a Blessing Die, remove it from your pool of Blessing Dice. An effect may require you to spend a Blessing Die of at least a certain size. An effect may also require you to spend multiple Blessing Dice at the same time. The Blessing Dice Notation table below provides a few examples of how Blessing Dice costs are notated.
+- **Spending Blessing Dice:** When you spend a Blessing Die, remove it from your pool of Blessing Dice. An effect may require you to spend a Blessing Die of at least a certain size. An effect may also require you to spend multiple Blessings at the same time. The Blessing Dice Notation table below provides a few examples of how Blessing costs are notated.
 - **Blessing Dice Bump:** Like your Stat Dice, Blessing Dice also bump, but in a slightly different way. When you roll a $1$ on a Blessing Die, instead of rolling again to increase the value of the roll, gain an additional Blessing Die. As long as you continue to roll a $1$ on the die, you continue to gain an additional Blessing Die.
-- **Gain One at a Time:** If you gain multiple Blessing Dice from a single effect, gain each of those dice separately. They do not form a group for the purposes of bumping.
+- **Gain One at a Time:** If you gain multiple Blessings from a single effect, gain each of those dice separately. They do not form a group for the purposes of bumping.
 
 ---
 <!-- _class: rules -->
@@ -832,19 +838,19 @@ In general:
 | Opportunity | Description |
 | ----------- | ----------- |
 | Creativity | Gain a Blessing Die for good role play and creative solutions. |
-| High Roll | Gain a Blessing Die the first time each session you succeed a Check or win a Contest by $5$ or more. Each each other player whose character witnessed or heard about that high roll also gains a Blessing Die. |
-| Milestones | Gain a number of Blessing Dice for completing important story milestones. |
-| Lucky Number | When you roll the lucky number for the session on a Stat Die, before modifications, gain a Blessing Die. The GM determines the lucky number at the start of the session by rolling $2d10$. |
+| High Roll | Gain a Blessing Die the first time each session you succeed a Check with a Medium or higher target or win a Contest with a Medium or higher outcome size. Each each other player whose character witnessed or heard about that high roll also gains a Blessing Die. |
+| Milestones | Gain a number of Blessings for completing important story milestones. |
+| Lucky Number | When you roll the lucky number for the session on a Stat Die, before modifications, gain a Blessing. The GM determines the lucky number at the start of the session by rolling $2d10$. |
 
 ### Helping
 <!-- _class: rules -->
 
-Characters may spend their Blessing Dice to Help one another complete Checks and Contests. And your Abilities, events, and items in the story may also Help you in similar ways.
+Characters may spend their Blessings to Help one another complete Checks and Contests. And your Abilities, events, and items in the story may also Help you in similar ways.
 
 To provide Help:
 
-1. **Pay Help Cost:** Once per roll, whether your own or another character's, you may Help by spending a number of Blessing Dice.
-2. **Provide Help:** Then, the character you Helped rolls a die and adds the result to their roll. The more Blessing Dice spent above, the larger the die rolled, according to the Helping Costs table below.
+1. **Pay Help Cost:** Once per roll, whether your own or another character's, you may Help by spending a number of Blessings.
+2. **Provide Help:** Then, the character you Helped rolls a die and adds the result to their roll. The more Blessings spent above, the larger the die rolled, according to the Helping Costs table below.
 
 #### Helping Costs
 
@@ -970,7 +976,7 @@ A non-violent Contest is when a character performs an action against another cha
 To perform a non-violent Contest:
 
 1. **Attack:** The Attacker rolls the appropriate Stat.
-2. **Defense:** The Defender rolls the same Stat as the Attacker, a Stat balanced with that Stat, or a Spark roll of two such Stats.
+2. **Defense:** The Defender rolls the same Stat as the Attacker, an unconventional Stat balanced with that Stat, or a Spark roll of two such Stats.
 3. **Outcome:** The action's effect is only successful if the Attacker rolls higher than the Defender. The size of the effect is determined by the difference between their scores according to the Outcome Sizes and Contest Effects tables below.
 
 #### Outcome Sizes
@@ -1003,8 +1009,8 @@ A violent Contest is when an Attacker performs an action against another charact
 
 To perform a violent Contest:
 
-1. **Attack:** The Attacker first rolls their Hurt Stat, a Stat balanced with that Stat, or a Spark roll of two such Stats.
-2. **Defense:** The Defender rolls their Hurry Stat, a Stat balanced with that Stat, or a Spark roll of two such Stats, representing their immediate instinctive reaction in the scene.
+1. **Attack:** The Attacker first rolls their Hurt Stat, an unconventional Stat balanced with that Stat, or a Spark roll of two such Stats.
+2. **Defense:** The Defender rolls their Hurry Stat, an unconventional Stat balanced with that Stat, or a Spark roll of two such Stats, representing their immediate instinctive reaction in the scene.
 3. **Outcome:** The action's effect is only successful if the Attacker rolls higher than the Defender. The extent of the injury is determined by the difference between their scores, regardless if that was what the Attacker intended, according to the Outcome Sizes and Contest Effects tables above.
 4. **Additional Attacks:** If the violence continues past this initial Contest, then the Attackers may choose to change tactics, such as performing a non-violent Contest to shift subsequent rounds in their favor.
 5. **Additional Defenses:** Additionally, Defenders may choose to respond to these continued Attacks with a greater range of options than just Hurry, such as outwitting (Head), calling on honor (Hand), destroying a part of the environment (Hand), calling for a truce (Heart), or repositioning oneself (Head or Home).
@@ -1124,7 +1130,7 @@ There are several different types of Endeavors depending on the scenario. Howeve
 
 Also note:
 
-- **Helping Yourself:** During your turn, before you use your current roll to take your action, you may spend Blessing Dice as usual to increase the value of your current roll, so long as you have not already do so that round.
+- **Helping Yourself:** During your turn, before you use your current roll to take your action, you may spend Blessings as usual to increase the value of your current roll, so long as you have not already do so that round.
 - **Sparking:** You may also spend ⊜⊜ as usual to upgrade your current roll to a Spark roll before your action. Use these to your advantage to jump ahead of your opponents to nab the special action for the round!
 - **Streamlined Success:** To streamline Endeavors, the GM allow all Checks to automatically succeed, providing larger effects for higher rolls.
 - **Receiving Aid:** If the GM does streamline Checks this way, then "recieve aid" effects would be unable to activate. At GM discretion, such effects may never activate, always activate, or only activate once per Endeavor per effect.
@@ -1251,7 +1257,7 @@ Some campaigns or sessions may involve a prolonged scene where the player charac
 
 Some campaigns or sessions may involve the player characters and their allies facing off against Monstrosities, like zombies, robots, or the manifestation of someone's fear!
 
-- **Setup:** You and your allies begin at position $1$. Your opponents begin higher up, each add defeat buttons at position $0$, and each add recovery buttons somewhere else. Stronger opponents begin further from $0$, may have Abilities, and may enter the Endeavor with Blessing Dice of their own.
+- **Setup:** You and your allies begin at position $1$. Your opponents begin higher up, each add defeat buttons at position $0$, and each add recovery buttons somewhere else. Stronger opponents begin further from $0$, may have Abilities, and may enter the Endeavor with Blessings of their own.
 - **Goal:** To win, move all your opponents to position $0$ without your team being captured first.
 - **Actions:** There are a number of normal actions and one special action you and your allies may choose from during the Endeavor, described in the Allied Actions table below. Your opponents also have a number of actions, described in the Monstrosity Actions table below. Some Monstrosity's Abilities grant them additional actions.
 - **Buttons:** Your opponents enter the Endeavor with a number of buttons, described in the Monstrosity Buttons table below.
@@ -1265,7 +1271,7 @@ Some campaigns or sessions may involve the player characters and their allies fa
 | ------ | ----------- |
 | Perform&nbsp;an Attack | Use your current roll to Attack an opponent who has not acted this round. They roll a new value and Defend with it. If they lose this Contest, they move down by the amount they lost by. |
 | Perform&nbsp;a Check | Use your current roll to perform a Check to advance your team's objectives. Move up equal to half your current roll, rounded down. |
-| Get&nbsp;in Position | Gain a number of temporary Blessing Dice equal to half your current roll, rounded down. These disappear at the end of next round. |
+| Get&nbsp;in Position | Gain a number of temporary Blessings equal to half your current roll, rounded down. These disappear at the end of next round. |
 | Group Up | Ignore your current roll. Choose an ally who has not acted this round. You form a group with them. Until the end of the round, you move with them and may provide Help to increase their rolls. |
 | Perform&nbsp;a Combo | `Special Action` Move up equal to your current roll. Then you and your allies may move down any total amount. Choose an opponent to move down by that same total amount. |
 
@@ -1277,9 +1283,9 @@ Some campaigns or sessions may involve the player characters and their allies fa
 | Action | Description |
 | ------ | ----------- |
 | Perform&nbsp;an Attack | Use your current roll to Attack an opponent who has not acted this round. They roll a new value and Defend with it. If they lose this Contest, they move down by the amount they lost by. Then if they are at position $0$, they gain a wound button at the first position above them without one already. |
-| Get&nbsp;in Position | Gain a number of temporary Blessing Dice equal to half your current roll, rounded down. These disappear at the end of next round. |
+| Get&nbsp;in Position | Gain a number of temporary Blessings equal to half your current roll, rounded down. These disappear at the end of next round. |
 | Group Up | Ignore your current roll. Choose an ally who has not acted this round. You form a group with them. Until the end of the round, you move with them and may provide Help to increase their rolls. |
-| Perform&nbsp;a Takedown | `Special Action` Choose any number of opponents with three or more wounds and a current roll less than your Capture Roll. Those opponents are "taken down" and may not act the rest of the Endeavor. |
+| Inflict Wounds | `Special Action` Choose any number of opponents with a current roll less than your Capture Roll. They each gain a wound button at the first position above them without one already, then any with three or more wounds are "taken down" and may not act the rest of the Endeavor. |
 
 ---
 <!-- _class: rules -->
@@ -1299,7 +1305,7 @@ Some campaigns or sessions may involve the player characters and their allies fa
 - **Stats:** A Monstrosity's has only two Stat Dice, a higher dice (HD) shared between all their strongest Stats and a lower die (LD) shared between all the rest.
 - **Defenses:** A Monstrosity also has a starting position (SP) and one or two recovery buttons (RB). For compactness, if a Monstrosity is said to have an RB of $5$, then it enters with a recovery button at $5$ below its starting position. Together, these represent a Monstrosity's defenses, similar to the concept of "hit points" and "shields" used in other games.
 - **Offenses:** A Monstrosity has a Capture Roll (CR) value. When a Monstrosity uses Perform a Capture, instead of rolling for the Attack, it automatically rolls its CR value. This provides a more consistent difficulty level. A Monstrosity may also have one or two Abilities that provide additional offensive actions.
-- **Resources:** Finally, a Monstrosity may enter the Endeavor with a number of Blessing Dice (B). These are only used by a Monstrosity to provide Help or Spark a roll.
+- **Resources:** Finally, a Monstrosity may enter the Endeavor with a number of Blessings (B). These are only used by a Monstrosity to provide Help or Spark a roll.
 - **Experience:** XP
 
 ---
@@ -1312,11 +1318,11 @@ The following tables provide a starting point for creating Monstrosities at diff
 | Difficulty | HD | LD | SP | RB | CR | B | XP |
 | ---------- | -- | -- | -- | --- | -- | - | -- |
 | Trivial | $d4$ | $d2$ | $5-10$ | $5-10$ | $4$ | $0$ | $1-6$ |
-| Easy | $d6$ | $d4$ | $10-15$ | $5-15$ | $6$ | $0$ | $7-12$ |
-| Medium | $d6$ | $d4$ | $15-20$ | $5-15$ | $8$ | $0$ | $13-18$ |
-| Hard | $d8$ | $d6$ | $20-25$ | $5-15$ | $10$ | $3$ | $19-24$ |
-| Severe | $d8$ | $d6$ | $20-30$ |$15-20$ | $12$ | $3$ | $25-30$ |
-| Trial | $d10$ | $d8$ | $20-30$ | $5-10$, $15-20$ | $14$ | $5$ | $31+$ |
+| Easy | $d6$ | $d4$ | $10-15$ | $5-15$ | $4$ | $0$ | $7-12$ |
+| Medium | $d6$ | $d4$ | $15-20$ | $5-15$ | $6$ | $0$ | $13-18$ |
+| Hard | $d8$ | $d6$ | $20-25$ | $5-15$ | $6$ | $3$ | $19-24$ |
+| Severe | $d8$ | $d6$ | $20-30$ |$15-20$ | $8$ | $3$ | $25-30$ |
+| Trial | $d10$ | $d8$ | $20-30$ | $5-10$, $15-20$ | $8$ | $5$ | $31+$ |
 
 ---
 <!-- _class: guide -->
@@ -1364,7 +1370,7 @@ Some campaigns or sessions may involve a prolonged scene where the player charac
 | Action | Description |
 | ------ | ----------- |
 | Perform&nbsp;a Check | Use your current roll to perform a Check to advance your team's objectives. Move up equal to your current roll. |
-| Get&nbsp;in Position | Gain a number of temporary Blessing Dice equal to half your current roll, rounded down. These disappear at the end of next round. |
+| Get&nbsp;in Position | Gain a number of temporary Blessings equal to half your current roll, rounded down. These disappear at the end of next round. |
 | Group Up | Ignore your current roll. Choose an ally who has not acted this round. You form a group with them. Until the end of the round, you move with them and may provide Help to increase their rolls. |
 | Overcome&nbsp;an Obstacle | `Special Action` Move up equal to half your current roll, rounded down. You may ignore one terrain button next round. |
 
@@ -1397,7 +1403,7 @@ Some campaigns or sessions may involve prolonged tension where the player charac
 | Move Along | Move up or down an amount equal to the largest number on your current roll's Stat Die. |
 | Look Out | Choose an ally. They may move up or down an amount equal to the largest number on your current roll's Stat Die. |
 | Find&nbsp;a Nook | Find a place to hide. Add a nook button at a position up or down from you an amount no larger than half your current roll, rounded down.
-| Get&nbsp;in Position | Gain a number of temporary Blessing Dice equal to half your current roll, rounded down. These disappear at the end of next round. |
+| Get&nbsp;in Position | Gain a number of temporary Blessings equal to half your current roll, rounded down. These disappear at the end of next round. |
 | Group Up | Ignore your current roll. Choose an ally who has not acted this round. You form a group with them. Until the end of the round, you move with them and may provide Help to increase their rolls. |
 
 ---
@@ -1429,7 +1435,7 @@ In general however:
 | Condition | Description |
 | --------- | ----------- |
 | Ache | *Effect:* Rolls you make with the affected Stat cannot bump. *Duration:* Until next scene. |
-| Cursed | *Effect:* Your Blessing Dice are each worth $1$ less, to a minimum of $0$. *Duration:* Until treated. |
+| Cursed | *Effect:* Your Blessings are each worth $1$ less, to a minimum of $0$. *Duration:* Until treated. |
 | Disarmed | *Effect:* When you win with a violent Attack, reduce the outcome size one rank. *Duration:* Until treated. |
 | Famous | *Effect:* You may exert your fame over those less famous, gaining a $+d2$ bonus in Contests against them, but not against the same character more than once during the same session or while you are Uncool. *Duration:* Until removed. |
 | Taxed | *Effect:* You cannot Spark. *Duration:* Until treated. |
