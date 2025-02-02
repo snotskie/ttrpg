@@ -71,7 +71,7 @@ Cover typography: Bebas Neue, by Ryoichi Tsunekawa
 <div id="toc3"></div>
 
 ## Introduction
-<!-- _class: center major creation -->
+<!-- _class: center major -->
 
 ### About
 
@@ -982,8 +982,11 @@ A non-violent Contest is when a character performs an action against another cha
 To perform a non-violent Contest:
 
 1. **Attack:** The Attacker rolls the appropriate Stat.
-2. **Defense:** The Defender rolls the same Stat as the Attacker, an unconventional Stat balanced with that Stat, or a Spark roll of two such Stats.
+2. **Defense:** In most cases, the Defender rolls the same Stat as the Attacker, as the Attacker dictates the nature of the Contest. If the Attack uses Hurry, then the Defender rolls Hurt, as the Attacker attempts to goad the Defender. And if the Attack uses History, the GM decides what roll the Defender uses. In any case, the Defender may instead roll an unconventional Stat balanced with the usual Stat or a Spark roll of two such Stats.
 3. **Outcome:** The action's effect is only successful if the Attacker rolls higher than the Defender. The size of the effect is determined by the difference between their scores according to the Outcome Sizes and Contest Effects tables below.
+
+---
+<!-- _class: rules -->
 
 #### Outcome Sizes
 
@@ -995,9 +998,6 @@ To perform a non-violent Contest:
 | Major | $6-7$ |
 | Very Major | $8-9$ |
 | Maximum | $10+$ |
-
----
-<!-- _class: rules -->
 
 #### Contest Effects
 
@@ -1445,7 +1445,7 @@ In general however:
 | Disarmed | *Effect:* When you win with a violent Attack, reduce the outcome size one rank. *Duration:* Until treated. |
 | Famous | *Effect:* You may exert your fame over those less famous, gaining a $+d2$ bonus in Contests against them, but not against the same character more than once during the same session or while you are Uncool. *Duration:* Until removed. |
 | Taxed | *Effect:* You cannot Spark. *Duration:* Until treated. |
-| Surprised | *Effect:* Your rolls cannot bump, Spark, or be an automatic success. *Duration:* Until next roll. |
+| Surprised | *Effect:* Your rolls cannot bump, Spark, use an unconventional Stat, or be an automatic success. *Duration:* Until next roll. |
 | Uncool | *Effect:* Your rolls are made with a $-1$ modifier unless you are alone. *Duration:* Until removed. |
 | Vulnerable | *Effect:* When another character sees you roll the affected Stat, they may have you perform the roll again and use the new value. *Duration:* Until treated. |
 
