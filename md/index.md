@@ -427,7 +427,7 @@ Light, Sentry, and Barbed Armor each require and extend Protective Armor.
 
 | Light Armor |
 | --- |
-| And you know that well-chosen tactical positions can provide the best defense. *Effect:* Blessings you spend during Endeavors to change number lines are worth $1$ more, to a maximum of $6$. |
+| And you know that well-chosen tactical positions can provide the best defense. *Effect:* Blessings you spend during Endeavors to change tracks are worth $1$ more, to a maximum of $6$. |
 
 
 | Sentry Armor |
@@ -550,7 +550,7 @@ Careful and Perceptive Instinct each require and extend Survival Instinct.
 
 | Perceptive Instinct |
 | --- |
-| And like those reflexes, you've always got an eye out for trouble or treasure. *Effect:* Once per Discovery Endeavor, when a lay of the land is given, you may choose a type of glimmer button. More of that type will be added to the number line than usual. |
+| And like those reflexes, you've always got an eye out for trouble or treasure. *Effect:* Once per Discovery Endeavor, when a lay of the land is given, you may choose a type of glimmer button. More of that type will be added to the track than usual. |
 
 ---
 <!-- _class: ability -->
@@ -610,19 +610,19 @@ Ascendant and Shameless Self-Acceptance each require and extend Radical Self-Acc
 | --- |
 | You're well-versed in idle chatter, spinning conversation, or navigating social milieu. *Effect:* When you would lose a Contest trying to persuade, influence, inspire, or deceive others, receive $+d2$ in aid. |
 
-Popular, Rebutted, and Director's Speech each require and extend Tactful Speech.
+Popular, Director's, and Rebutted Speech each require and extend Tactful Speech.
 
 | Popular Speech |
 | --- |
 | And you know that, truth or fiction, word travels fast. *Effect:* Once per scene, you may end, begin, or modify one rumor. It will spread quickly, within reason, but others are not guaranteed to believe it. *Recharge:* ⑤. |
 
-| Rebutted Speech |
-| --- |
-| And for you a conversational loss is never a *total* loss. *Effect:* When you lose against a non-violent Attack that was related enough to your Focus, you may have the Attacker receive a less severe version of the same effect you received from losing the Contest. *Recharge:* ③. |
-
 | Director's Speech |
 | --- |
 | And you can say what you needs saying quickly and efficiently. *Effect:* During Endeavors, you gain the action: Ignore your current roll. Choose an ally who has not acted yet to roll a new value. They may choose a new Stat for this roll. |
+
+| Rebutted Speech |
+| --- |
+| And for you a conversational loss is never a *total* loss. *Effect:* When you lose against a non-violent Attack that was related enough to your Focus, you may have the Attacker receive a less severe version of the same effect you received from losing the Contest. *Recharge:* ③. |
 
 ---
 <!-- _class: ability -->
@@ -740,12 +740,12 @@ You may also spend ①①① to receive an additional upgrade beyond the one you
 ### Checks
 <!-- _class: rules -->
 
-Most situations in this game can be resolved by perform a Check or a Contest (described later in this chapter).
+Most situations in this game can be resolved by performing a Check or a Contest (described later in this chapter).
 
 To perform a Check:
 
 1. **Roll:** Roll the die for the action's associated Stat. The GM will let you know which to use.
-2. **Outcome:** If the result of the roll meets or beats the GM's target number, then the check succeeds. Otherwise, it fails. Check targets by level of difficulty are given in the Check Targets table below.
+2. **Outcome:** If the result of the roll meets or beats the GM's target number, then the Check succeeds. Otherwise, it fails. Check targets by level of difficulty are given in the Check Targets table below.
 
 Also note:
 
@@ -788,7 +788,7 @@ At GM discretion, you may automatically succeed History Checks if your Focus is 
 To perform an automatic History Check success:
 
 1. **History Stat Die Size:** To succeed a Check automatically with your History Stat Die, first the die needs to be large enough for the Check, according to the Max Automatic Checks table below.
-2. **Relatedness:** Next, with with your GM to determine if your Focus is related enough to the Check.
+2. **Relatedness:** Next, work with your GM to determine if your Focus is related enough to the Check.
 3. **Automatic Roll:** Finally, if you are able to automatically succeed this way, you may succeed as though you had rolled exactly the Check's target. This roll cannot be modified by other effects.
 
 Also note:
@@ -875,7 +875,7 @@ To provide Help:
 Also note:
 
 - **No Bumping for Help:** The dice used for Help effects do not bump.
-- **Help Reasonably:** ou may only Help other characters if your character is near enough to them to reasonably assist with the action and your character is not currently engaged in another action.
+- **Help Reasonably:** You may only Help other characters if your character is near enough to them to reasonably assist with the action and your character is not currently engaged in another action.
 
 ### Receiving Situational Aid
 <!-- _class: rules -->
@@ -1126,10 +1126,10 @@ There are several different types of Endeavors depending on the scenario. Howeve
 <!-- _class: rules -->
 
 - **Actions:** Each round during your turn, you may only take one action, chosen from the set of actions available for that Endeavors. Some actions use your current roll, and some ignore it. The GM may limit the actions you can choose from in certain situations.
-- **Movement:** Endeavors use a number line to track character positions, scores, progress towards goals, or so on. This number line begins at $0$ and goes up as high as needed. The Endeavor's setup instructions will describe where characters begin on the number line, and its actions will describe when and how you move.
+- **Movement:** Endeavors use a "track", represented as a number line, to record character positions, scores, progress towards goals, or so on. This track begins at $0$ and goes up as high as needed. The Endeavor's setup instructions will describe where characters begin on the track, and its actions will describe when and how you move.
 - **Group Movement:** If a group moves together an amount, they only move a total of that amount. How the group distributes this movement among its members is up to the group to decide: they may distribute the movement evenly, give it all to one member, or any other arrangement the group agrees on.
 - **Special Actions:** Some actions have the `Special Action` label. Special actions cannot be used during the round. Instead, at the end of the round after all normal actions are complete, whoever has the highest current roll chooses a special action to perform, with the GM resolving ties. Then the next round begins and new rolls are made.
-- **Buttons:** Endeavors add a number of buttons to the number line. There are two types of buttons, personal and global. Personal buttons can only be activated by the character who added them, whereas global buttons can be activated by any character. If an Endeavor uses buttons, it will describe how each is activated and the effect that happens as a result.
+- **Buttons:** Endeavors add a number of buttons to the track. There are two types of buttons, personal and global. Personal buttons can only be activated by the character who added them, whereas global buttons can be activated by any character. If an Endeavor uses buttons, it will describe how each is activated and the effect that happens as a result.
 
 ---
 <!-- _class: rules -->
@@ -1140,7 +1140,7 @@ Also note:
 - **Sparking:** You may also spend ⊜⊜ as usual to upgrade your current roll to a Spark roll before your action. Use these to your advantage to jump ahead of your opponents to nab the special action for the round!
 - **Streamlined Success:** To streamline Endeavors, the GM allow all Checks to automatically succeed, providing larger effects for higher rolls.
 - **Receiving Aid:** If the GM does streamline Checks this way, then "recieve aid" effects would be unable to activate. At GM discretion, such effects may never activate, always activate, or only activate once per Endeavor per effect.
-- **Multiple Number Lines:** If an Endeavor spans a larger playing field than normal, the GM may divide the Endeavor into two or three number lines, where who you can interact with is limited based on which number line you are on. Depending on the situation, you may be able to change number lines by spending a Blessing of at least a certain value. In any case, the Endeavor still only has one special action per round across all number lines.
+- **Multiple Tracks:** If an Endeavor spans a larger playing field than normal, the GM may divide the Endeavor into two or three tracks, where who you can interact with is limited based on which track you are on. Depending on the situation, you may be able to change tracks by spending a Blessing of at least a certain value. In any case, the Endeavor still only has one special action per round across all tracks.
 
 ### GM Guide · Large-Scale Endeavors
 <!-- _class: guide -->
@@ -1232,10 +1232,10 @@ Some campaigns or sessions may involve the player characters summoning, rallying
 
 Some campaigns or sessions may involve a prolonged scene where the player characters explore a mansion for clues, search through the rubble of a crashed spaceship, delve into a dungeon, or so on!
 
-- **Setup:** You and your allies begin at position $1$. At the top of the first round, the GM will provide the lay of the land of the environment you're exploring, such as what rooms are available and how they relate. As the Endeavor progresses, additional areas may become available, each with their own number line and lay of the land. 
+- **Setup:** You and your allies begin at position $1$. At the top of the first round, the GM will provide the lay of the land of the environment you're exploring, such as what rooms are available and how they relate. As the Endeavor progresses, additional areas may become available, each with their own track and lay of the land. 
 - **Goal:** Exploration.
 - **Actions:** There are two normal actions and one special action you and your allies may choose from during the Endeavor, described in the Discovery Actions table below.
-- **Buttons:** When the GM gives a lay of the land, a number of glimmer buttons of will be added, described in the Discovery Buttons table below. The GM may add multiple types of glimmer buttons to the number line, representing different types of discoveries for the area, such as items, information, social interactions, or further areas to explore. Watch out though, as some may be false glimmer buttons hiding danger.
+- **Buttons:** When the GM gives a lay of the land, a number of glimmer buttons of will be added, described in the Discovery Buttons table below. The GM may add multiple types of glimmer buttons to the track, representing different types of discoveries for the area, such as items, information, social interactions, or further areas to explore. Watch out though, as some may be false glimmer buttons hiding danger.
 
 ---
 <!-- _class: rules -->
@@ -1267,6 +1267,7 @@ Some campaigns or sessions may involve the player characters and their allies fa
 - **Goal:** To win, move all your opponents to position $0$ without your team being captured first.
 - **Actions:** There are a number of normal actions and one special action you and your allies may choose from during the Endeavor, described in the Allied Actions table below. Your opponents also have a number of actions, described in the Monstrosity Actions table below. Some Monstrosity's Abilities grant them additional actions.
 - **Buttons:** Your opponents enter the Endeavor with a number of buttons, described in the Monstrosity Buttons table below.
+- **Tracks:** Though it varies, most Monstrous Endeavors have three types of tracks: melee, ranged, and retreat. A character can move from melee to ranged, from ranged to melee or retreat, or retreat back to ranged. If a character remains in retreat long enough without an opposing character there, they successfully flee. Otherwise, when an opposing character enters the same track, it becomes a new melee track and the retreat effort must begin again.
 
 ---
 <!-- _class: rules -->
@@ -1277,7 +1278,7 @@ Some campaigns or sessions may involve the player characters and their allies fa
 | ------ | ----------- |
 | Perform&nbsp;an Attack | Use your current roll to Attack an opponent who has not acted this round. They roll a new value and Defend with it. If they lose this Contest, they move down by the amount they lost by. |
 | Perform&nbsp;a Check | Use your current roll to perform a Check to advance your team's objectives. Move up equal to half your current roll, rounded down. |
-| Get&nbsp;in Position | Gain a number of temporary Blessings equal to half your current roll, rounded down. Then, if applicable for the Endeavor, spend a Blessing to change number lines. Any remaining temporary Blessings disappear at the end of next round. |
+| Get&nbsp;in Position | Gain a number of temporary Blessings equal to half your current roll, rounded down. Then, if applicable for the Endeavor, spend a Blessing to change tracks. Any remaining temporary Blessings disappear at the end of next round. |
 | Group Up | Ignore your current roll. Choose an ally who has not acted this round. You form a group with them. Until the end of the round, you move with them and may provide Help to increase their rolls. |
 | Perform&nbsp;a Combo | `Special Action` Move up equal to your current roll. Then you and your allies may move down any total amount. Choose an opponent to move down by that same total amount. |
 
@@ -1289,7 +1290,7 @@ Some campaigns or sessions may involve the player characters and their allies fa
 | Action | Description |
 | ------ | ----------- |
 | Perform&nbsp;an Attack | Use your current roll to Attack an opponent who has not acted this round. They roll a new value and Defend with it. If they lose this Contest, they move down by the amount they lost by. Then if they are at position $0$, they gain a wound button at the first position above them without one already. |
-| Get&nbsp;in Position | Gain a number of temporary Blessings equal to half your current roll, rounded down. Then, if applicable for the Endeavor, spend a Blessing to change number lines. Any remaining temporary Blessings disappear at the end of next round. |
+| Get&nbsp;in Position | Gain a number of temporary Blessings equal to half your current roll, rounded down. Then, if applicable for the Endeavor, spend a Blessing to change tracks. Any remaining temporary Blessings disappear at the end of next round. |
 | Group Up | Ignore your current roll. Choose an ally who has not acted this round. You form a group with them. Until the end of the round, you move with them and may provide Help to increase their rolls. |
 | Inflict Wounds | `Special Action` Choose any number of opponents with a current roll less than your Capture Roll. They each gain a wound button at the first position above them without one already, then any with three or more wounds are "taken down" and may not act the rest of the Endeavor. |
 
@@ -1305,30 +1306,31 @@ Some campaigns or sessions may involve the player characters and their allies fa
 | Defeat | *Type:* Personal. *Activation:* Activate this button when you move over it. *Effect:* End your movement, remove this button, and you are removed from the Endeavor. |
 | Wound | *Type:* Personal. *Activation:* Activate this button when you move over it while moving up. *Effect:* Decrease your remaining movement by $1$, to a minimum of $0$. |
 
-### GM Guide · Monstrous Stats
+### GM Guide · Monstrosities
 <!-- _class: guide -->
 
-- **Stats:** A Monstrosity's has only two Stat Dice, a higher dice (HD) shared between all their strongest Stats and a lower die (LD) shared between all the rest.
-- **Defenses:** A Monstrosity also has a starting position (SP) and one or two recovery buttons (RB). For compactness, if a Monstrosity is said to have an RB of $5$, then it enters with a recovery button at $5$ below its starting position. Together, these represent a Monstrosity's defenses, similar to the concept of "hit points" and "shields" used in other games.
-- **Offenses:** A Monstrosity has a Capture Roll (CR) value. When a Monstrosity uses Perform a Capture, instead of rolling for the Attack, it automatically rolls its CR value. This provides a more consistent difficulty level. A Monstrosity may also have one or two Abilities that provide additional offensive actions.
+- **Stat Dice:** A Monstrosity has a highest die (HD) shared between all their strongest Stats and lower dice one or two die sizes smaller for all the rest.
+- **Defenses:** A Monstrosity also has a starting position (SP) and one or two recovery buttons. For compactness, for example, if a Monstrosity is said to have an SP of $10 (3)$, then it enters at position $10$ and has a recovery button $3$ below that starting position. If it has an SP of $30 (10, 15)$, then it enters at position $30$ and has recovery buttons at $10$ and $15$ below that starting position. Together, a Monstrosity's SP and recovery buttons represent its defenses, similar to the concept of "hit points" and "shields" used in other games.
+- **Offenses:** A Monstrosity has a Capture Roll (CR) value used when it performs Inflict Wounds. This provides more consistent difficulty levels for Endeavors. A Monstrosity may also have one or two Abilities that provide additional offensive actions.
 - **Resources:** Finally, a Monstrosity may enter the Endeavor with a number of Blessings (B). These are only used by a Monstrosity to provide Help or Spark a roll.
-- **Experience:** XP
+- **Experience:** In games with experience points (XP), a Monstrosity contributes an amount of XP toward Endeavor rewards when it is defeated. Track the highest XP the party has earned from any Endeavor, and when they reach a new XP record, award the party a total number of Blessings equal to the amount the XP record increased by. 
 
 ---
 <!-- _class: guide -->
 
-The following tables provide a starting point for creating Monstrosities at different tiers of difficulty:
+- **Building Monstrous Endeavors:** To build memorable, balanced, and challenging Monstrous Endeavors, include two or three different types of Monstrosities per Endeavor, at various tiers of difficulty and/or with different types of abilities. Also, being outnumbered *quickly* increases the difficulty and complexity, even if most of the Monstrosities are very weak! To help manage this complexity, give a lay of the land describing the different types of tracks the Endeavor starts with and how they relate.
+- **Building Monstrosities:** The following Monstrosity Stats and Monstrosity Ability tables provide a starting point for creating Monstrosities at different tiers of difficulty:
 
 #### Monstrosity Stats
 
-| Difficulty | HD | LD | SP | RB | CR | B | XP |
-| ---------- | -- | -- | -- | --- | -- | - | -- |
-| Trivial | $d4$ | $d2$ | $5-10$ | $5-10$ | $4$ | $0$ | $1-6$ |
-| Easy | $d6$ | $d4$ | $10-15$ | $5-15$ | $4$ | $0$ | $7-12$ |
-| Medium | $d6$ | $d4$ | $15-20$ | $5-15$ | $6$ | $0$ | $13-18$ |
-| Hard | $d8$ | $d6$ | $20-25$ | $5-15$ | $6$ | $3$ | $19-24$ |
-| Severe | $d8$ | $d6$ | $20-30$ |$15-20$ | $8$ | $3$ | $25-30$ |
-| Trial | $d10$ | $d8$ | $20-30$ | $5-10$, $15-20$ | $8$ | $5$ | $31+$ |
+| Difficulty | HD | SP | CR | B | XP |
+| ---------- | -- | -- | -- | - | -- |
+| Trivial | $d4$ | $5-10 (5-10)$ | $4$ | $0$ | $1-6$ |
+| Easy | $d6$ | $10-15 (5-15)$ | $4$ | $0$ | $7-12$ |
+| Medium | $d6$ | $15-20 (5-15)$ | $6$ | $0$ | $13-18$ |
+| Hard | $d8$ | $20-25 (5-15)$ | $6$ | $3$ | $19-24$ |
+| Severe | $d8$ | $20-30 (15-20)$ | $8$ | $3$ | $25-30$ |
+| Trial | $d10$ | $20-30 (5-10, 15-20)$ | $8$ | $5$ | $31+$ |
 
 ---
 <!-- _class: guide -->
@@ -1359,10 +1361,10 @@ The following tables provide a starting point for creating Monstrosities at diff
 
 Some campaigns or sessions may involve a prolonged scene where the player characters race against one another or their opponents, whether it be on foot, on horseback, in sleds, in cars, or even in spaceships!
 
-- **Setup:** All characters begin at position $1$. At the top of the first round, the GM will provide the lay of the land for the race course environment, including any terrain elements like hills, brush, holes, asteroid fields, or so on that would slow the racers down. As the Endeavor progresses, additional areas may become available, each with their own number line and lay of the land.
+- **Setup:** All characters begin at position $1$. At the top of the first round, the GM will provide the lay of the land for the race course environment, including any terrain elements like hills, brush, holes, asteroid fields, or so on that would slow the racers down. As the Endeavor progresses, additional areas may become available, each with their own track and lay of the land.
 - **Goal:** To win, be the first to reach the finish line.
 - **Actions:** There are two normal actions and one special action characters may choose from during the Endeavor, described in the Race Actions table below.
-- **Buttons:** When the GM gives a lay of the land, a number of terrain buttons will be added, described in the Race Buttons table below. The GM may add multiple types of terrain buttons to the number line, representing different types of obstacles for the area, such as hills, stampedes, quantum puzzles, or trolley problem moral dilemmas. When a character begins the round on a terrain button, the type of the terrain button may constrain what Stats they may roll or what actions they may take.
+- **Buttons:** When the GM gives a lay of the land, a number of terrain buttons will be added, described in the Race Buttons table below. The GM may add multiple types of terrain buttons to the track, representing different types of obstacles for the area, such as hills, stampedes, quantum puzzles, or trolley problem moral dilemmas. When a character begins the round on a terrain button, the type of the terrain button may constrain what Stats they may roll or what actions they may take.
 
 *Continued on next page.*
 
@@ -1376,7 +1378,7 @@ Some campaigns or sessions may involve a prolonged scene where the player charac
 | Action | Description |
 | ------ | ----------- |
 | Perform&nbsp;a Check | Use your current roll to perform a Check to advance your team's objectives. Move up equal to your current roll. |
-| Get&nbsp;in Position | Gain a number of temporary Blessings equal to half your current roll, rounded down. Then, if applicable for the Endeavor, spend a Blessing to change number lines. Any remaining temporary Blessings disappear at the end of next round. |
+| Get&nbsp;in Position | Gain a number of temporary Blessings equal to half your current roll, rounded down. Then, if applicable for the Endeavor, spend a Blessing to change tracks. Any remaining temporary Blessings disappear at the end of next round. |
 | Group Up | Ignore your current roll. Choose an ally who has not acted this round. You form a group with them. Until the end of the round, you move with them and may provide Help to increase their rolls. |
 | Overcome&nbsp;an Obstacle | `Special Action` Move up equal to half your current roll, rounded down. You may ignore one terrain button next round. |
 
@@ -1394,10 +1396,10 @@ Some campaigns or sessions may involve a prolonged scene where the player charac
 
 Some campaigns or sessions may involve prolonged tension where the player characters attempt to sneak past guards, escape a prison, perform a heist, or so on!
 
-- **Setup:** All characters begin at position $1$. At the top of the first round, the GM will provide the lay of the land for the guarded area, including any rooms, halls, obstacles to climb or hide behind, locking and security mechanisms, and so on. As the Endeavor progresses, additional areas may become available, each with their own number line and lay of the land.
+- **Setup:** All characters begin at position $1$. At the top of the first round, the GM will provide the lay of the land for the guarded area, including any rooms, halls, obstacles to climb or hide behind, locking and security mechanisms, and so on. As the Endeavor progresses, additional areas may become available, each with their own track and lay of the land.
 - **Goal:** Clear all objectives without getting made.
 - **Actions:** There are a number of normal actions you and your allies may choose from, described in the Stealth Actions table below. However, there are no special actions in this Endeavor.
-- **Buttons:** When the GM gives a lay of the land, a number of alarm buttons, described in the Stealth Buttons table below, will be added throughout the number line in a pattern. Additionally, objective buttons will be added, representing your goals for the Endeavor.
+- **Buttons:** When the GM gives a lay of the land, a number of alarm buttons, described in the Stealth Buttons table below, will be added throughout the track in a pattern. Additionally, objective buttons will be added, representing your goals for the Endeavor.
 
 ---
 <!-- _class: rules -->
@@ -1409,7 +1411,7 @@ Some campaigns or sessions may involve prolonged tension where the player charac
 | Move Along | Move up or down an amount equal to the largest number on your current roll's Stat Die. |
 | Look Out | Choose an ally. They may move up or down an amount equal to the largest number on your current roll's Stat Die. |
 | Find&nbsp;a Nook | Find a place to hide. Add a nook button at a position up or down from you an amount no larger than half your current roll, rounded down.
-| Get&nbsp;in Position | Gain a number of temporary Blessings equal to half your current roll, rounded down. Then, if applicable for the Endeavor, spend a Blessing to change number lines. Any remaining temporary Blessings disappear at the end of next round. |
+| Get&nbsp;in Position | Gain a number of temporary Blessings equal to half your current roll, rounded down. Then, if applicable for the Endeavor, spend a Blessing to change tracks. Any remaining temporary Blessings disappear at the end of next round. |
 | Group Up | Ignore your current roll. Choose an ally who has not acted this round. You form a group with them. Until the end of the round, you move with them and may provide Help to increase their rolls. |
 
 ---
