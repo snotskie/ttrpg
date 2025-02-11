@@ -170,7 +170,7 @@ window.addEventListener("load", function(){
 
             const entry_a = document.createElement("a");
             entry.appendChild(entry_a);
-            entry_a.innerText = restyleIndexEntry(e.innerText.replace(" Starter", ""));
+            entry_a.innerText = restyleIndexEntry(e.innerText.replace(/ (d6|d8|d10|One Free)/, ""));
             entry_a.setAttribute("href", "#" + section.getAttribute("id"));
             
             const page_no = document.createElement("span");

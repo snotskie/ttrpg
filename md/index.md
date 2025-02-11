@@ -728,7 +728,7 @@ At the end of each session, you receive the Stat Upgrade once for free. This upg
 | *Additional Upgrade:* You may downgrade one of your Stat Dice from a $d4$ to a $d2$ to receive an additional Stat Upgrade. Alternatively, you may spend ①①① to receive an additional Stat Upgrade. You may gain additional Stat Upgrades as many times as you want and can pay for. |
 | *Advancements:* When you upgrade a Stat Die to a $d6$, $d8$, or $d10$ you may receive one upgrade with the `d6`, `d8`, or `d10` tag, respectively. |
 
-| Item Upgrade `d6` |
+| High-Quality Upgrade `d6` |
 | ------------ |
 | *Effect:* Upgrade one of your mundane items to a higher quality so that it provides a "receive $+1$ in aid" effect. |
 
@@ -741,7 +741,11 @@ At the end of each session, you receive the Stat Upgrade once for free. This upg
 
 | Ability Upgrade `d8` |
 | --- |
-| *Effect:* Choose to become apt in a new area or to further specialize in an area you are already apt in. |
+| *Effect:* Choose to become apt in a new area or to further specialize in an area you're already apt in. |
+
+| Powered Upgrade `d10` |
+| ------------ |
+| *Effect:* Upgrade one of your high-quality items to a higher quality so that it provides a "receive $+d2$ in aid" effect or another effect of your choice, within reason. |
 
 | Carefree Upgrade `d10` |
 | --- |
