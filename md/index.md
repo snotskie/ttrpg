@@ -9,7 +9,7 @@ headingDivider: 3
 ---
 
 # Humanity, Blessed
-<!-- _class: title -->
+<!-- _class: title art-left -->
 <!-- _paginate: skip -->
 
 ![bg left](bg.jpg)
@@ -85,7 +85,7 @@ Cover typography: Bebas Neue, by Ryoichi Tsunekawa
 
 The following pages describe the **Stats** used in *Humanity, Blessed*, known collectively as **the H's of Humanity**. Your GM may add an additional one as well.
 
-Your first task is to decide **which Stat your character is best at**.
+Your first task is to decide **which Stat your character is best at**. You can find a **Character Sheet** at the end of this book to help you track your choices.
 
 As you do, begin to think about the story your character takes on in your mind. **Why are they good at this and not at that?** Why is one important to them and not the other? What are they trying to improve? What do they like getting help from others on?
 
@@ -134,7 +134,7 @@ All characters in this game have the following Stats, each related to a differen
 
 | ⏳ History Stat |
 | --- |
-| *Scope:* Unique specializations, skills, proficiencies, and hardships covered by your Backstory, as well as other aspects covered by your character's backstory and the history of their people but not covered by your other Stats. *High/Low:* With a high History Stat you have achieved the specialized training you set out to achieve. But with a low History Stat your specific worries and weaknesses seem to creep up more often. |
+| *Scope:* Unique specializations, skills, proficiencies, and hardships covered by your Backstory, as well as other aspects covered by the history of your people and not covered by your other Stats. *High/Low:* With a high History Stat you have achieved the specialization you set out to achieve. But with a low History Stat your specific worries and weaknesses seem to creep up more often. |
 
 ### Optional Stats
 <!-- _class: ability -->
@@ -1452,6 +1452,133 @@ In general however:
 | Surprised | *Effect:* Your rolls cannot bump, Spark, use an unconventional Stat, or be an automatic success. *Duration:* Until next roll. |
 | Uncool | *Effect:* Your rolls are made with a $-1$ modifier unless you are alone. *Duration:* Until removed. |
 | Vulnerable | *Effect:* When another character sees you roll the affected Stat, they may have you perform the roll again and use the new value. *Duration:* Until treated. |
+
+---
+
+## Character Sheet
+<!-- _class: major center -->
+<!-- _paginate: skip -->
+
+---
+<!-- _paginate: skip -->
+<!-- _class: art-left -->
+
+![bg left](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=)
+
+<table style="width: 100%; max-width: 100%;">
+    <thead>
+        <tr>
+            <th>🧠</th>
+            <th>✌️</th>
+            <th>💕</th>
+            <th>☕️</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><select><option>2</option><option selected>4</option><option>6</option><option>8</option><option>10</option></td>
+            <td><select><option>2</option><option selected>4</option><option>6</option><option>8</option><option>10</option></td>
+            <td><select><option>2</option><option selected>4</option><option>6</option><option>8</option><option>10</option></td>
+            <td><select><option>2</option><option selected>4</option><option>6</option><option>8</option><option>10</option></td>
+        </tr>
+    </tbody>
+</table>
+
+<table style="width: 100%; max-width: 100%;">
+    <thead>
+        <tr>
+            <th>👿</th>
+            <th>⚠️</th>
+            <th>⏳</th>
+            <th><select><option selected></option><option>🪶</option><option>🥕</option><option>🔎</option><option>🦾</option><option>👾</option><option>💰</option><option>🎁</option><option>🎧</option><option>🦠</option><option>💀</option><option>👻</option><option>🌳</option><option>⚫</option></select></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><select><option>2</option><option selected>4</option><option>6</option><option>8</option><option>10</option></td>
+            <td><select><option>2</option><option selected>4</option><option>6</option><option>8</option><option>10</option></td>
+            <td><select><option>2</option><option selected>4</option><option>6</option><option>8</option><option>10</option></td>
+            <td><select><option selected></option><option>2</option><option>4</option><option>6</option><option>8</option><option>10</option></td>
+        </tr>
+    </tbody>
+</table>
+
+<table style="width: 100%; max-width: 100%;">
+    <thead>
+        <tr>
+            <th>Backstory</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><textarea placeholder="Backstory" style="width: 100%" rows="10"></textarea></td>
+        </tr>
+    </tbody>
+</table>
+
+<table style="width: 100%; max-width: 100%;">
+    <thead>
+        <tr>
+            <th>Apts &amp; Specs</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><ul>
+                <li><input placeholder="Apt/Spec" /></li>
+                <li><input placeholder="Apt/Spec" /></li>
+                <li><input placeholder="Apt/Spec" /></li>
+                <li><input placeholder="Apt/Spec" /></li>
+                <li><input placeholder="Apt/Spec" /></li>
+                <li><input placeholder="Apt/Spec" /></li>
+                <li><input placeholder="Apt/Spec" /></li>
+            </ul></td>
+        </tr>
+    </tbody>
+</table>
+
+---
+<!-- _paginate: skip -->
+<!-- _class: art-right -->
+
+![bg right](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=)
+
+<table style="width: 100%; max-width: 100%;">
+    <thead>
+        <tr>
+            <th>Items</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><ul>
+                <li><input placeholder="Item" /></li>
+                <li><input placeholder="Item" /></li>
+                <li><input placeholder="Item" /></li>
+                <li><input placeholder="Item" /></li>
+                <li><input placeholder="Item" /></li>
+                <li><input placeholder="Item" /></li>
+                <li><input placeholder="Item" /></li>
+                <li><input placeholder="Item" /></li>
+                <li><input placeholder="Item" /></li>
+                <li><input placeholder="Item" /></li>
+            </ul></td>
+        </tr>
+    </tbody>
+</table>
+
+<table style="width: 100%; max-width: 100%;">
+    <thead>
+        <tr>
+            <th>Notes</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><textarea placeholder="Notes" style="width: 100%" rows="10"></textarea></td>
+        </tr>
+    </tbody>
+</table>
 
 ## Index
 <!-- _class: major center -->

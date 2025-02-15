@@ -169,8 +169,15 @@ section.index {
 }
 
 /* title page */
-section.title {
+section.art-left {
     padding-left: 1em;
+}
+
+section.art-right {
+    padding-right: 1em;
+}
+
+section.title {
     font-family: "Bebas Neue", serif;
     font-weight: 400;
     font-style: normal;
@@ -250,4 +257,13 @@ section code {
     border-radius: 8pt;
     color: #202228; /* --color-foreground in light mode */
     --color-background-code: var(--color-ability-2);
+}
+
+/* character sheet */
+section select, section input, section textarea {
+    font-size: inherit;
+    font-family: inherit;
+    border: none;
+    background: var(--color-background);
+    color: var(--color-foreground);
 }
