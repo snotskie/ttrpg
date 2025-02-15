@@ -857,7 +857,7 @@ Characters may spend their Blessings to attempt to Help one another complete Che
 To provide Help:
 
 1. **Pay Help Cost:** Once per roll, whether your own or another character's, you may attempt to Help by spending a number of Blessings.
-2. **Note the Success/Victory Gap:** Make note of how much higher the character needs to roll to achieve their goals: to succeed to Check or win the Contest (described below) with at least a certain outcome size (also described below). This amount is the "success/victory gap."
+2. **Note the Success/Victory Gap:** Make note of how much higher the character needs to roll to achieve their goals: to succeed the Check or win the Contest (described below) with at least a certain outcome size (also described below). This amount is the "success/victory gap."
 3. **Attempt Help:** Then, roll a number of $d6$ dice equal to the number of Blessings spent above. If any of these dice meets or beats the success/victory gap, then the value of the roll changes so the character achieves their goals. 
 
 Also note:
