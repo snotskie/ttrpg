@@ -134,7 +134,7 @@ All characters in this game have the following Stats, each related to a differen
 
 | ⏳ History Stat |
 | --- |
-| *Scope:* Unique specializations, skills, proficiencies, and hardships covered by your Focus, as well as other aspects covered by your character's backstory and the history of their people but not covered by your other Stats. *High/Low:* With a high History Stat you have achieved the specialized training you set out to achieve. But with a low History Stat your specific worries and weaknesses seem to creep up more often. |
+| *Scope:* Unique specializations, skills, proficiencies, and hardships covered by your Backstory, as well as other aspects covered by your character's backstory and the history of their people but not covered by your other Stats. *High/Low:* With a high History Stat you have achieved the specialized training you set out to achieve. But with a low History Stat your specific worries and weaknesses seem to creep up more often. |
 
 ### Optional Stats
 <!-- _class: ability -->
@@ -214,6 +214,7 @@ In general:
 - **Skill and Determination:** Success and victory without bumping represents natural or trained ability, while doing so with bumping represents a character's extra determination or focus on the action.
 - **Balanced Stats:** When two Stats use the same size Stat Die, they are "balanced."
 - **Unconventional Stats:** Whenever an effect has you use a Stat, you may instead use any other Stat you have balanced with it, referred to as using an "unconventional Stat."
+- **History Stat:** You may always choose to use your History Stat in place of another Stat when the action or effect is related enough to your Backstory or Aptitudes (described later in this chapter).
 - **Sparking:** You may "Spark" two balanced Stats together to create a more powerful effect (described in the Playing the Game chapter).
 
 ---
@@ -246,7 +247,9 @@ Then, pick one of the **Lifestyles** with the `Starter` label and one of the **E
 ---
 <!-- _class: creation -->
 
-Once you've chosen your starter Lifestyle and Ethic, consult the table below. **Two of your Stats** begin the game an additional **die size larger**, according to your starter Lifestyle and Ethic:
+Once you've chosen your starter Lifestyle and Ethic, **two of your Stats** will begin the game an additional **die size larger**, according to your starter Lifestyle and Ethic. Consult the Lifestyle/Ethic Starting Stat Upgrades table below to know which Stats to increase.
+
+#### Lifestyle/Ethic Starting Stat Upgrades
 
 <table>
     <thead>
@@ -357,9 +360,9 @@ As you begin to imagine the world and genre of your campaign, consider what it m
 ### Character Creation · Step Three!
 <!-- _class: creation -->
 
-Begin to describe your character's backstory. **Answer the following prompts** or others given to you by your GM.
+Begin to describe your character's story before, coming into, and outside of the game's main story. **Answer the following prompts** or others given to you by your GM.
 
-These background details will help you and your GM build the story and set your **History Stat's Focus**, which is described in more detail in the following pages.
+These background details will help you and your GM build the story and set your **Backstory**, which is used by your **History Stat** and is described in more detail in the following pages.
 
 For now:
 
@@ -367,24 +370,24 @@ For now:
 - List **three specific skills** that your character has proven their ability in, such as through schooling, study, training, specialization within their team, or so on.
 - List **three specific people or groups** that your character regularly interacts with or have connections to, whether "good" or "bad" connections
 - Describe **where your character could be found** on an average Tuesday afternoon before the action of the story gets underway.
-- If your game's setting has **non-human characters** and your character is one of them, work with your GM to determine how your non-human background affects your Focus or the scope of your Stats.
+- If your game's setting has **non-human characters** and your character is one of them, work with your GM to determine how your non-human background affects your Backstory or the scope of your Stats.
 
 ---
 <!-- _class: creation -->
 
 And as you play, **keep notes**! These can help you reflect on you and your group's shared "Group History," as well as your **character's relationship to the Group History**. Maybe not everyone in the party is enthused about the items the party stole last time!
 
-Such reflection can help you **shape the course** of your Focus and your character's development over the duration of the story, **make important character choices** during your sessions, and **inspire you and your GM** for ideas for future scenes and sessions.
+Such reflection can help you **shape the course** of your Backstory and your character's development over the duration of the story, **make important character choices** during your sessions, and **inspire you and your GM** for ideas for future scenes and sessions.
 
-### Focus
+### Backstory
 <!-- _class: rules -->
 
-Each character has a Focus, a list of three to seven narrative elements from their backstory that help define the scope of their unique History Stat. For example: Tying Knots (for a scout), Swordfighting (for a knight), Breathing Fire (for a dragonborn), Reading Legal Documents (for the child of a politician), Acting (for a theater kid), Manipulating Technology (for a hacker), Stunt Driving (for a stunt performer), Friendly Interactions with the Empire (for someone raised in the empire), Unfriendly Interactions with the Rebels (for someone raised in the empire).
+Each character has a Backstory, a list  or description of narrative elements from their background that help define the scope of their unique History Stat. For example: Tying Knots (for a scout), Swordfighting (for a knight), Breathing Fire (for a dragonborn), Reading Legal Documents (for the child of a politician), Acting (for a theater kid), Manipulating Technology (for a hacker), Stunt Driving (for a stunt performer), Friendly Interactions with the Empire (for someone raised in the empire), Unfriendly Interactions with the Rebels (for someone raised in the empire).
 
-In general, your Focus should: 
+In general: 
 
-- **Unique:** Define unique skills, proficiencies, traits, and backstory elements that your character brings to the story.
-- **Variety:** Have enough variety that not all or most of your Focus would already be covered by a single Stat.
+- **Unique:** Your Backstory should define unique skills, proficiencies, traits, and narrative elements that your character brings to the story.
+- **Variety:** Your Backstory should have enough variety that not all or most of your Backstory would already be covered by a single Stat.
 
 ### Non-Human Characters
 <!-- _class: rules -->
@@ -393,50 +396,19 @@ If your game's setting allows you to play non-human characters, there are genera
 
 The choice depends on the variety of non-human backgrounds among players:
 
-- **High Variety:** If each player character has a different non-human background, then the simplest option is to use each character's Focus to cover one or two simple actions, within reason, that characters of their background could perform unaided that humans couldn't.
+- **High Variety:** If each player character has a different non-human background, then the simplest option is to use each character's Backstory to cover one or two simple actions, within reason, that characters of their background could perform unaided that humans couldn't.
 - **Low Variety:** If the player characters come from just a few non-human backgrounds, the GM may expand the scope of two or three Stats to cover one or two simple actions each, within reason, that characters of their non-human backgrounds could perform unaided that humans couldn't.
 
 ### Character Creation · Step Four!
 <!-- _class: creation -->
 
-The following pages describe several **Ability** options, which are granted to you based on your **Aptitudes** and **Specializations**. As your read, you may want to consult the **Playing the Game** chapter to learn more about the rules Abilities interact with.
+The following pages describe **Aptitudes**, **Specializations**, and the **Abilities** they grant you. As your read, you may want to consult the **Playing the Game** chapter to learn more about the rules Abilities interact with.
 
 To help you select the Abilities you will start the game with, begin to imagine the kind of character taking shape in your mind. **Have you seen characters like them before** in movies, TV shows, and books? Try to envision the people from your favorite fictional stories that your character takes after.
 
 Then with that in mind **select two** areas from the **Aptitudes Areas** table below to begin the game apt in. If you begin the game with a Stat Die of size $d8$, **select a third** area as well. These Aptitudes will grant you Abilities.
 
-You may become apt in additional areas in the **Session Shop** later. You may also further specialize your apt areas in the Session Shop.
-
----
-<!-- _class: creation -->
-
-#### Aptitude Areas (A-M)
-
-| Area | Description |
-| ---- | ----------- |
-| Analysis | Your memory is like a steel trap&mdash;once you learn something, you almost never forget. |
-| Armor | You know how to protect yourself in a fight. |
-| Bounty | You're known in almost any situation for coming prepared or being conveniently light-fingered. |
-| Compromise | You always know where to make a deal, even if it's not the most sound decision. |
-| Detail | You have a keen sense with objects and surroundings that most others don't. |
-| Instinct | You can always trust your reflexes to keep you safe. |
-| Leadership | Reading situations to know exactly what other people need comes naturally to you. |
-
----
-<!-- _class: creation -->
-
-#### Aptitude Areas (N-Z)
-
-| Area | Description |
-| ---- | ----------- |
-| Nature | Your travels have taught you how to calm your mind and body. |
-| Resolve | You understand that not every loss is necessarily a bad thing. |
-| Self-Acceptance | You're rarely bothered by having your own way of doing things that others don't understand. |
-| Speech | You're well-versed in idle chatter, spinning conversation, or navigating social milieu. |
-| Training | You aren't just good at what you do&mdash;you've dedicated yourself to it. |
-| Transport | Operating vehicles comes naturally to you or you've gotten great practice at it. |
-| Unity | You'd go to great lengths to learn more about and understand those around you. |
-
+You may become apt in additional areas and further specialize your apt areas in the **Session Shop** later, which will grant you even more Abilities as the game goes on.
 
 ### Abilities
 <!-- _class: rules -->
@@ -445,267 +417,269 @@ Characters in this game may have a number of Abilities that provide them with ne
 
 The following pages list all Abilities in this game. These Abilities refer to a number of rules described in the next chapter. However, for now you should know:
 
-- **Aptitudes:** A character's Aptitudes are the important skill areas they are "apt" in. Becoming apt in an area grants you an Ability associated with it.
-- **Specializations:** A character's Specializations are the Aptitudes they have further "specialized in." When you specialize in an area, you choose how you specialize in it, then you gain an Ability associated with that choice.
+- **Aptitudes:** A character's Aptitudes are the important skill areas they are "apt" in. Becoming apt in an area grants you a `Starter` Ability associated with it. The Aptitude Areas table below lists these areas and their associated Abilities. The pages following the table describe the effects of these Abilities.
+- **Specializations:** A character's Specializations are the Aptitudes they have further "specialized in." When you specialize in an area, you choose how you specialize in it, then you gain an Ability associated with that choice. The Aptitude Areas table below lists the ways you can specialize in each area.
 - **Recharge:** Some Abilities list a recharge cost. Once activated, these Abilities cannot be activated again until they have been recharged by paying that cost.
 
 ---
+<!-- _class: rules -->
+
+#### Aptitude Areas (A-M)
+
+| Area | Ability | Specializations |
+| ---- | ------- | --------------- |
+| Analysis | Apt Analysis | Casual or Optimal Analysis |
+| Armor | Apt Armor | Light, Sentry, or Barbed Armor |
+| Bounty | Apt Bounty | Fortune's or Trickster's Bounty |
+| Compromise | Apt Compromise | Lifesaving, Endebted, or Shrouded Compromise |
+| Detail | Apt Detail | Roguish, Divining, or Ambitious Detail |
+| Instinct | Apt Instinct | Careful or Perceptive Instinct |
+| Leadership | Apt Leadership | Background, Rousing, or Delegated Leadership |
+
+---
+<!-- _class: rules -->
+
+#### Aptitude Areas (N-Z)
+
+| Area | Ability | Specializations |
+| ---- | ------- | --------------- |
+| Nature | Apt Nature | Determined or Friendly Nature |
+| Resolve | Apt Resolve | Honorable or Charitable Resolve |
+| Self-Acceptance | Apt Self-Acceptance | Ascendant or Shameless Self-Acceptance |
+| Speech | Apt Speech | Popular, Fast, or Rebutted Speech |
+| Training | Apt Training | Concentration or Domination Training |
+| Transport | Apt Transport | Getaway or Professional Transport |
+| Unity | Apt Unity | Harmonious or Hostile Unity |
+
+---
 <!-- _class: ability -->
 
-When you become apt in Analysis you gain the Apt Analysis Ability. And when you specialize in Analysis, you choose to gain either Casual or Optimal Analysis.
-
-| Apt Analysis |
+| Apt Analysis `Starter` |
 | --- |
-| *Effect:* When you would fail a Check trying to recall information, receive $+d2$ in aid. |
+| *Description:* Your memory is like a steel trap&mdash;once you learn something, you almost never forget. *Effect:* When you would fail a Check trying to recall information, receive $+d2$ in aid. |
 
 | Casual Analysis |
 | --- |
-| You find that your best ideas often come while you're performing your regular duties or self-care. *Effect:* Once per session, when you are in a safe place, you may perform a Check using Head, Heart, or an unconventional Stat balanced with them. Then up to once before the end of the session, you may use the value of that roll instead of rolling for another Check or non-violent Contest. |
+| *Description:* You find that your best ideas often come while you're performing your regular duties or self-care. *Effect:* Once per session, when you are in a safe place, you may perform a Check using Head, Heart, or an unconventional Stat balanced with them. Then up to once before the end of the session, you may use the value of that roll instead of rolling for another Check or non-violent Contest. |
 
 | Optimal Analysis |
 | --- |
-| You think it's never a bad idea to back up and analyze the situation before charging forward. *Effect:* Twice per session, you may provide Help by rolling four $d6$ and group those dice into two piles of two. If addition or multiplication could make the piles equal, increase the result of the roll you are Helping by $+5$. For example, $1$, $1$, $1$, and $2$, could be grouped this way as $1×2=1+1$. |
+| *Description:* You think it's never a bad idea to back up and analyze the situation before charging forward. *Effect:* Twice per session, you may provide Help by rolling four $d6$ and group those dice into two piles of two. If addition or multiplication could make the piles equal, increase the result of the roll you are Helping by $+5$. For example, $1$, $1$, $1$, and $2$, could be grouped this way as $1×2=1+1$. |
 
 ---
 <!-- _class: ability -->
 
-When you become apt in Armor you gain the Apt Armor Ability. And when you specialize in Armor, you choose to gain either Light, Sentry, or Barbed Armor.
-
-| Apt Armor |
+| Apt Armor `Starter` |
 | --- |
-| *Effect:* When you would lose against a violent Attack, receive $+d2$ in aid. |
+| *Description:* You know how to protect yourself in a fight. *Effect:* When you would lose against a violent Attack, receive $+d2$ in aid. |
 
 | Light Armor |
 | --- |
-| You know that well-chosen tactical positions can provide the best defense. *Effect:* Blessings you spend during Endeavors to change tracks are worth $1$ more, to a maximum of $6$. |
+| *Description:* You know that well-chosen tactical positions can provide the best defense. *Effect:* Blessings you spend during Endeavors to change tracks are worth $1$ more, to a maximum of $6$. |
 
 | Sentry Armor |
 | --- |
-| You know how to use your protection to keep your friends safe too. *Effect:* When another nearby character would Defend against a violent Attack, before they roll, you may become the Defender in that Contest instead. *Recharge:* ③. |
+| *Description:* You know how to use your protection to keep your friends safe too. *Effect:* When another nearby character would Defend against a violent Attack, before they roll, you may become the Defender in that Contest instead. *Recharge:* ③. |
 
 | Barbed Armor |
 | --- |
-| When you get hit, you know how to hit back. *Effect:* When you lose against a violent Attack at a close distance, you may have your Attackers receive a less severe version of the same injury you received from losing the Contest. *Recharge:* ③. |
+| *Description:* When you get hit, you know how to hit back. *Effect:* When you lose against a violent Attack at a close distance, you may have your Attackers receive a less severe version of the same injury you received from losing the Contest. *Recharge:* ③. |
 
 ---
 <!-- _class: ability -->
 
-When you become apt in Bounty you gain the Apt Bounty Ability. And when you specialize in Bounty, you choose to gain either Fortune's or Trickster's Bounty.
-
-| Apt Bounty |
+| Apt Bounty `Starter` |
 | --- |
-| *Effect:* When you would fail a Check to see if you already have an item on you, receive $+d2$ in aid. |
+| *Description:* You're known in almost any situation for coming prepared or being conveniently light-fingered. *Effect:* When you would fail a Check to see if you already have an item on you, receive $+d2$ in aid. |
 
 | Fortune's Bounty |
 | --- |
-| You know that if you want to be successful, then you need to make your own luck. *Effect:* When you fail a Check, you may attempt the Check again, using the newer result instead. *Recharge:* ⑤. |
+| *Description:* You know that if you want to be successful, then you need to make your own luck. *Effect:* When you fail a Check, you may attempt the Check again, using the newer result instead. *Recharge:* ⑤. |
 
 | Trickster's Bounty |
 | --- |
-| What's the harm in being prepared for a little razzle-dazzle every now and then? *Effect:* When another character succeeds a Check or wins a Contest, you may distract them using an item in your possession, modifying that character's result by $-3$, possibly turning their success into a failure or win into a loss. *Recharge:* ⑤. |
+| *Description:* What's the harm in being prepared for a little razzle-dazzle every now and then? *Effect:* When another character succeeds a Check or wins a Contest, you may distract them using an item in your possession, modifying that character's result by $-3$, possibly turning their success into a failure or win into a loss. *Recharge:* ⑤. |
 
 ---
 <!-- _class: ability -->
 
-When you become apt in Compromise you gain the Apt Compromise Ability. And when you specialize in Compromise, you choose to gain either Lifesaving, Endebted, or Shrouded Compromise.
-
-| Apt Compromise |
+| Apt Compromise `Starter` |
 | --- |
-| *Effect:* While you are attempting to purchase goods or services, each ① you spend to Help yourself is worth ①①. |
+| *Description:* You always know where to make a deal, even if it's not the most sound decision. *Effect:* While you are attempting to purchase goods or services, each ① you spend to Help yourself is worth ①①. |
 
 | Lifesaving Compromise |
 | --- |
-| What's better than a good deal that keeps you alive? *Effect:* A character may automatically succeed a Check to tend to your wounds, even after they've rolled. *Recharge:* ①. When this Ability is recharged, increase the cost to recharge it by ①①. |
+| *Description:* What's better than a good deal that keeps you alive? *Effect:* A character may automatically succeed a Check to tend to your wounds, even after they've rolled. *Recharge:* ①. When this Ability is recharged, increase the cost to recharge it by ①①. |
 
 | Endebted Compromise |
 | --- |
-| You'd break a few rules if it means settling debts. *Effect:* When you perform a special action in a Race Endeavor, you may create a terrain button anywhere along your movement. Then remove that terrain button once a character begins their movement on the same space as it. |
+| *Description:* You'd break a few rules if it means settling debts. *Effect:* When you perform a special action in a Race Endeavor, you may create a terrain button anywhere along your movement. Then remove that terrain button once a character begins their movement on the same space as it. |
 
 | Shrouded Compromise |
 | --- |
-| You know that nothing's more valuable than good info. *Effect:* You may call upon a higher power, criminal underground, book of forbidden knowledge, or so on to gain access to secret information or an answer to a question. This information may come with consequences. *Recharge:* ④. |
+| *Description:* You know that nothing's more valuable than good info. *Effect:* You may call upon a higher power, criminal underground, book of forbidden knowledge, or so on to gain access to secret information or an answer to a question. This information may come with consequences. *Recharge:* ④. |
 
 ---
 <!-- _class: ability -->
 
-When you become apt in Detail you gain the Apt Detail Ability. And when you specialize in Detail, you choose to gain either Roguish, Divining, or Ambitious Detail.
-
-| Apt Detail |
+| Apt Detail `Starter` |
 | --- |
-| *Effect:* When you would fail a Check to inspect an object carefully, identify where the object has been, or intuit information about events that have occurred around it, receive $+d2$ in aid. |
+| *Description:* You have a keen sense with objects and surroundings that most others don't. *Effect:* When you would fail a Check to inspect an object carefully, identify where the object has been, or intuit information about events that have occurred around it, receive $+d2$ in aid. |
 
 | Roguish Detail |
 | --- |
-| Your keeness has helped you narrowly escape trouble on multiple occasions. *Effect:* Once per Stealth Endeavor, when you would be made you may instead increase the alertness of the Endeavor. |
+| *Description:* Your keeness has helped you narrowly escape trouble on multiple occasions. *Effect:* Once per Stealth Endeavor, when you would be made you may instead increase the alertness of the Endeavor. |
 
 | Divining Detail |
 | --- |
-| Because of your deductive or intuitive skills, secrets have a hard time hiding from you. *Effect:* When you succeed a Check to decrypt an encoded or cryptic message, you gain more information than usual. |
+| *Description:* Because of your deductive or intuitive skills, secrets have a hard time hiding from you. *Effect:* When you succeed a Check to decrypt an encoded or cryptic message, you gain more information than usual. |
 
 | Ambitious Detail |
 | --- |
-| You know how to get the most out of your items, even if it means using them up to achieve your goals. *Effect:* Once per session, you may destroy an object in your possession. Until the end of the scene, you adopt the properties of the object, the properties of a concept associated with the object, or push the item to its breaking point. |
+| *Description:* You know how to get the most out of your items, even if it means using them up to achieve your goals. *Effect:* Once per session, you may destroy an object in your possession. Until the end of the scene, you adopt the properties of the object, the properties of a concept associated with the object, or push the item to its breaking point. |
 
 ---
 <!-- _class: ability -->
 
-When you become apt in Instinct you gain the Apt Instinct Ability. And when you specialize in Instinct, you choose to gain either Careful or Perceptive Instinct.
-
-| Apt Instinct |
+| Apt Instinct `Starter` |
 | --- |
-| *Effect:* When you would fail a Check or lose a Contest while surprised, receive $+d2$ in aid. |
+| *Description:* You can always trust your reflexes to keep you safe. *Effect:* When you would fail a Check or lose a Contest while surprised, receive $+d2$ in aid. |
 
 | Careful Instinct |
 | --- |
-| You've honed your reflexes to help you at tasks that would frighten others to do. *Effect:* While performing dangerous actions related enough to your Focus, each ① you spend to Help yourself is worth ①①. |
+| *Description:* You've honed your reflexes to help you at tasks that would frighten others to do. *Effect:* While performing dangerous actions related enough to your Backstory or other Aptitudes, each ① you spend to Help yourself is worth ①①. |
 
 | Perceptive Instinct |
 | --- |
-| Like your reflexes, you've always got a sense for trouble or treasure. *Effect:* Once per Discovery Endeavor, when a lay of the land is given, you may choose a type of glimmer button. More of that type will be added to the track than usual. |
+| *Description:* Like your reflexes, you've always got a sense for trouble or treasure. *Effect:* Once per Discovery Endeavor, when a lay of the land is given, you may choose a type of glimmer button. More of that type will be added to the track than usual. |
 
 ---
 <!-- _class: ability -->
 
-When you become apt in Leadership you gain the Apt Leadership Ability. And when you specialize in Leadership, you choose to gain either Background, Rousing, or Delegated Leadership.
-
-| Apt Leadership |
+| Apt Leadership `Starter` |
 | --- |
-| *Effect:* When you spend ①① or more to Help another character, they gain a bonus as though you had spent an additional ①①. |
+| *Description:* Reading situations to know exactly what other people need comes naturally to you. *Effect:* When you spend ①① or more to Help another character, they gain a bonus as though you had spent an additional ①①. |
 
 | Background Leadership |
 | --- |
-| You don't mind fading into the background to give a situation just the nudge it needs. *Effect:* You may adjust the "vibe" or "music" of a situation subtly. Others can't pinpoint what changed, but the mood shifts to suit your intent. *Recharge:* ④. |
+| *Description:* You don't mind fading into the background to give a situation just the nudge it needs. *Effect:* You may adjust the "vibe" or "music" of a situation subtly. Others can't pinpoint what changed, but the mood shifts to suit your intent. *Recharge:* ④. |
 
 | Rousing Leadership |
 | --- |
-| People often turn to you for guidance or inspiration. *Effect:* Once per session, when your Blessings have a total combined worth of at least $10$, you may tell a moving story or give an inspiring speech. Each other character who hears the story or speech gains a Blessing Die. |
+| *Description:* People often turn to you for guidance or inspiration. *Effect:* Once per session, when your Blessings have a total combined worth of at least $10$, you may tell a moving story or give an inspiring speech. Each other character who hears the story or speech gains a Blessing Die. |
 
 | Delegated Leadership |
 | --- |
-| Your skills reading others helps you screen potential allies for teams that work well together. *Effect:* During a Clash Endeavor, your summons may perform Spark rolls by working together in pairs, using one Stat from each, so long as the chosen Stats are balanced and you pay the Blessing Die cost. |
+| *Description:* Your skills reading others helps you screen potential allies for teams that work well together. *Effect:* During a Clash Endeavor, your summons may perform Spark rolls by working together in pairs, using one Stat from each, so long as the chosen Stats are balanced and you pay the Blessing Die cost. |
 
 ---
 <!-- _class: ability -->
 
-When you become apt in Nature you gain the Apt Nature Ability. And when you specialize in Nature, you choose to gain either Determined or Friendly Nature.
-
-| Apt Nature |
+| Apt Nature `Starter` |
 | --- |
-| *Effect:* When you would fail a Check against natural effects such as weather and disease, receive $+d2$ in aid. |
+| *Description:* Your travels have taught you how to calm your mind and body. *Effect:* When you would fail a Check against natural effects such as weather and disease, receive $+d2$ in aid. |
 
 | Determined Nature |
 | --- |
-| You can calm yourself to a sharp focus even in dire situations. *Effect:* Once per action, you may ignore the negative effects of your injuries and conditions. *Recharge:* ③. |
+| *Description:* You can calm yourself to a sharp focus even in dire situations. *Effect:* Once per action, you may ignore the negative effects of your injuries and conditions. *Recharge:* ③. |
 
 | Friendly Nature |
 | --- |
-| You've collected close, trusted friends along your travels. *Effect:* You gain access to a creature companion of your choice appropriate to the setting and within reason. When you would fail a Check or lose a Contest while working with your companion, receive $+X$ in aid, where $X$ depends on the companion and the Stat used, ranging from $-1$ to $+d4$. Moreover, this companion has its own backstory which extends your Focus while you work with it. If this companion is lost, stolen, destroyed, or you lose its loyalty, replacing it may require time and effort. |
+| *Description:* You've collected close, trusted friends along your travels. *Effect:* You gain access to a creature companion of your choice appropriate to the setting and within reason. When you would fail a Check or lose a Contest while working with your companion, receive $+X$ in aid, where $X$ depends on the companion and the Stat used, ranging from $-1$ to $+d4$. Moreover, this companion has its own Backstory which extends your Backstory while you work with it. If this companion is lost, stolen, destroyed, or you lose its loyalty, replacing it may require time and effort. |
 
 ---
 <!-- _class: ability -->
 
-When you become apt in Resolve you gain the Apt Resolve Ability. And when you specialize in Resolve, you choose to gain either Honorable or Charitable Resolve.
-
-| Apt Resolve |
+| Apt Resolve `Starter` |
 | --- |
-| *Effect:* Once per session, when you lose against an Attack, you may reduce the outcome size one rank and gain a Blessing. |
+| *Description:* You understand that not every loss is necessarily a bad thing. *Effect:* Once per session, when you lose against an Attack, you may reduce the outcome size one rank and gain a Blessing. |
 
 | Honorable Resolve |
 | --- |
-| It's okay to risk a loss when it means protecting what you care about. *Effect:* While protecting your honor or loved ones, you may Attack violently using Hand, Home, or an unconventional Stat balanced with them, assuming a valiant stance as you do. If you are Attacked while in this stance before your next chance to act, you may Defend using the same Stat you Attacked with. *Recharge:* ③ |
+| *Description:* It's okay to risk a loss when it means protecting what you care about. *Effect:* While protecting your honor or loved ones, you may Attack violently using Hand, Home, or an unconventional Stat balanced with them, assuming a valiant stance as you do. If you are Attacked while in this stance before your next chance to act, you may Defend using the same Stat you Attacked with. *Recharge:* ③ |
 
 | Charitable Resolve |
 | --- |
-| What matters most is forgiveness and paying our blessings forward. *Effect:* When you visit a place of religious, spiritual, or community importance, you may spend any number of ① as a donation or act of service to the place. The more spent this way, the greater a possible later boon may be, determined by the GM. |
+| *Description:* What matters most is forgiveness and paying our blessings forward. *Effect:* When you visit a place of religious, spiritual, or community importance, you may spend any number of ① as a donation or act of service to the place. The more spent this way, the greater a possible later boon may be, determined by the GM. |
 
 ---
 <!-- _class: ability -->
 
-When you become apt in Self-Acceptance you gain the Apt Self-Acceptance Ability. And when you specialize in Self-Acceptance, you choose to gain either Ascendant or Shameless Self-Acceptance.
-
-| Apt Self-Acceptance |
+| Apt Self-Acceptance `Starter` |
 | --- |
-| *Effect:* When you succeed Checks or win non-violent Contests in social situations while you are Uncool and using unconventional Stats, you receive greater benefits than normal. |
+| *Description:* You're rarely bothered by having your own way of doing things that others don't understand. *Effect:* When you succeed Checks or win non-violent Contests in social situations while you are Uncool and using unconventional Stats, you receive greater benefits than normal. |
 
 | Ascendant Self-Acceptance |
 | --- |
-| Your deep sense of trust in yourself has been a wellspring of power for you. *Effect:* You may perform a non-violent Spark roll using $3$ Stat Dice, so long as those Stats each use a $d8$ or larger and you pay double the Blessing Die cost as usual. |
+| *Description:* Your deep sense of trust in yourself has been a wellspring of power for you. *Effect:* You may perform a non-violent Spark roll using $3$ Stat Dice, so long as those Stats each use a $d8$ or larger and you pay double the Blessing Die cost as usual. |
 
 | Shameless Self-Acceptance |
 | --- |
-| Life's taught you that laughing in the face of obstacles is a great first step in getting through them. *Effect:* Once per session, when your Blessings have a total combined worth of at least $10$, you may tell an cringy joke or perform an embarrassing dance. Each other character who hears the joke or witnesses the dance becomes Uncool. |
+| *Description:* Life's taught you that laughing in the face of obstacles is a great first step in getting through them. *Effect:* Once per session, when your Blessings have a total combined worth of at least $10$, you may tell an cringy joke or perform an embarrassing dance. Each other character who hears the joke or witnesses the dance becomes Uncool. |
 
 ---
 <!-- _class: ability -->
 
-When you become apt in Speech you gain the Apt Speech Ability. And when you specialize in Speech, you choose to gain either Popular, Fast, or Rebutted Speech.
-
-| Apt Speech |
+| Apt Speech `Starter` |
 | --- |
-| *Effect:* When you would lose a Contest trying to persuade, influence, inspire, or deceive others, receive $+d2$ in aid. |
+| *Description:* You're well-versed in idle chatter, spinning conversation, or navigating social milieu. *Effect:* When you would lose a Contest trying to persuade, influence, inspire, or deceive others, receive $+d2$ in aid. |
 
 | Popular Speech |
 | --- |
-| You know that, truth or fiction, word travels fast. *Effect:* Once per scene, you may end, begin, or modify one rumor. It will spread quickly, within reason, but others are not guaranteed to believe it. *Recharge:* ⑤. |
+| *Description:* You know that, truth or fiction, word travels fast. *Effect:* Once per scene, you may end, begin, or modify one rumor. It will spread quickly, within reason, but others are not guaranteed to believe it. *Recharge:* ⑤. |
 
 | Fast Speech |
 | --- |
-| You can say what you needs saying quickly and efficiently. *Effect:* During Endeavors, you gain the action: Ignore your current roll. Choose an ally who has not acted yet to roll a new value. They may choose a new Stat for this roll. |
+| *Description:* You can say what you needs saying quickly and efficiently. *Effect:* During Endeavors, you gain the action: Ignore your current roll. Choose an ally who has not acted yet to roll a new value. They may choose a new Stat for this roll. |
 
 | Rebutted Speech |
 | --- |
-| For you a conversational loss is never a *total* loss. *Effect:* When you lose against a non-violent Attack that was related enough to your Focus, you may have the Attacker receive a less severe version of the same effect you received from losing the Contest. *Recharge:* ③. |
+| *Description:* For you a conversational loss is never a *total* loss. *Effect:* When you lose against a non-violent Attack that was related enough to your Backstory or other Aptitudes, you may have the Attacker receive a less severe version of the same effect you received from losing the Contest. *Recharge:* ③. |
 
 ---
 <!-- _class: ability -->
 
-When you become apt in Training you gain the Apt Training Ability. And when you specialize in Training, you choose to gain either Concentration or Domination Training.
-
-| Apt Training |
+| Apt Training `Starter` |
 | --- |
-| *Effect:* Each time you bump your dice while using a $d8$ or larger, increase the result of the roll by an additional $+1$. |
+| *Description:* You aren't just good at what you do&mdash;you've dedicated yourself to it. *Effect:* Each time you bump your dice while using a $d8$ or larger, increase the result of the roll by an additional $+1$. |
 
 | Concentration Training |
 | --- |
-| Your dedication is clear in the level of focus you bring to your tasks. *Effect:* Your rolls using a $d8$ or larger also bump when you roll a $2$ on the die. |
+| *Description:* Your dedication is clear in the level of focus you bring to your tasks. *Effect:* Your rolls using a $d8$ or larger also bump when you roll a $2$ on the die. |
 
 | Domination Training |
 | --- |
-| Your studies have helped you take down your foes even faster. *Effect:* In a Monstrous Endeavor, when an opponent activates a recovery or revenge button as a result of your Attack, after resolving that button it continues moving however much movement would have been prevented. |
+| *Description:* Your studies have helped you take down your foes even faster. *Effect:* In a Monstrous Endeavor, when an opponent activates a recovery or revenge button as a result of your Attack, after resolving that button it continues moving however much movement would have been prevented. |
 
 ---
 <!-- _class: ability -->
 
-When you become apt in Transport you gain the Apt Transport Ability. And when you specialize in Transport, you choose to gain either Getaway or Professional Transport.
-
-| Apt Transport |
+| Apt Transport `Starter` |
 | --- |
-| *Effect:* When you would fail a Check or lose a Contest to use a vehicle to transport supplies or other characters, receive $+d2$ in aid. |
+| *Description:* Operating vehicles comes naturally to you or you've gotten great practice at it. *Effect:* When you would fail a Check or lose a Contest to use a vehicle to transport supplies or other characters, receive $+d2$ in aid. |
 
 | Getaway Transport |
 | --- |
-| It doesn't hurt to have your friends around when it's time to get out and get out fast. *Effect:* While transporting others, you may designate characters you are transporting as your copilots. Once per copilot per session, you may act as though you had that copilot's Stats, Abilities, Focus, and items. |
+| *Description:* It doesn't hurt to have your friends around when it's time to get out and get out fast. *Effect:* While transporting others, you may designate characters you are transporting as your copilots. Once per copilot per session, you may act as though you had that copilot's Stats, Abilities, Backstory, and items. |
 
 | Professional Transport |
 | --- |
-| Almost nothing is stronger than the bond you have with your own ride. *Effect:* You gain access to a vehicle of your choice appropriate to the setting and within reason. When you would fail a Check or lose a Contest while operating this vehicle, receive $+X$ in aid, where $X$ depends on the vehicle and the Stat used, ranging from $-1$ to $+d4$. Moreover, this vehicle has its own backstory which extends your Focus while you operate it. If this vehicle is lost, stolen, or destroyed, replacing it may require time and effort. |
+| *Description:* Almost nothing is stronger than the bond you have with your own ride. *Effect:* You gain access to a vehicle of your choice appropriate to the setting and within reason. When you would fail a Check or lose a Contest while operating this vehicle, receive $+X$ in aid, where $X$ depends on the vehicle and the Stat used, ranging from $-1$ to $+d4$. Moreover, this vehicle has its own Backstory which extends your Backstory while you operate it. If this vehicle is lost, stolen, or destroyed, replacing it may require time and effort. |
 
 ---
 <!-- _class: ability -->
 
-When you become apt in Unity you gain the Apt Unity Ability. And when you specialize in Unity, you choose to gain either Harmonious or Hostile Unity.
-
-| Apt Unity |
+| Apt Unity `Starter` |
 | --- |
-| *Effect:* You may spend ⊜⊜ to exchange Focus elements with another willing character in the scene. This effect lasts until the end of the scene or sooner if you choose. |
+| *Description:* You'd go to great lengths to learn more about and understand those around you. *Effect:* You may spend ⊜⊜ to exchange Backstory elements with another willing character in the scene. This effect lasts until the end of the scene or sooner if you choose. |
 
 | Harmonious Unity |
 | --- |
-| It's when you understand one another's cares and motivations that you work best together. *Effect:* You may perform a Spark roll using one of your Stats and one of the Stats of another willing character in the scene, so long as the chosen Stats are balanced, both characters are apt in Unity, and the Blessing cost is paid between the two characters. Doing so is considered acting as a group. |
+| *Description:* It's when you understand one another's cares and motivations that you work best together. *Effect:* You may perform a Spark roll using one of your Stats and one of the Stats of another willing character in the scene, so long as the chosen Stats are balanced, both characters are apt in Unity, and the Blessing cost is paid between the two characters. Doing so is considered acting as a group. |
 
 | Hostile Unity |
 | --- |
-| Your time learning from others has helped you "lock in" even with your enemies. *Effect:* During a Contest against another individual, before either character rolls, you may spend ⊜⊜ to act synchronously with your opponent. If you do, the two of you perform your rolls at the same time. When either of you would bump, you both bump. You both still maintain your own separate roll totals. This Ability may not be used at the start of an Endeavor round or doing scrambling Contest rules. |
+| *Description:* Your time learning from others has helped you "lock in" even with your enemies. *Effect:* During a Contest against another individual, before either character rolls, you may spend ⊜⊜ to act synchronously with your opponent. If you do, the two of you perform your rolls at the same time. When either of you would bump, you both bump. You both still maintain your own separate roll totals. This Ability may not be used at the start of an Endeavor round or doing scrambling Contest rules. |
 
 ### Character Creation · Finishing Touches!
 <!-- _class: creation -->
@@ -714,54 +688,55 @@ Finally, **describe your character's appearance** and list **three or four items
 
 You'll track a list of items that you typically carry with you, and other items you may have can be **determined in the moment**: Over the course of the story, you may perform Checks to **find** new items, **create** new items, **purchase and sell** items, and even see if you **already have** items that could be narratively reasonable for you to have.
 
-And while most items are narrative, some **higher quality items** you acquire along the way may provide aid or effects similar to some Abilities.
+And while most items are narrative, some **higher quality items** you acquire along the way may provide aid or effects similar to some Abilities. If you don't begin the game with a Stat Die of size $d8$, **choose one item** to begin the game at a higher quality so that it provides a "receive $+1$ in aid" effect..
+
 
 ### Session Shop Upgrades
 <!-- _class: ability -->
 
-At the end of each session, you receive the Stat Upgrade once for free. This upgrade may then grant you additional upgrades, described below.
+At the end of each session, you receive one free Stat Upgrade for your character. This may then grant you additional upgrades from the other options described below.
 
 | Stat Upgrade `One Free` |
 | --- |
 | *Effect:* Upgrade a single Stat's die one size. |
 | *Limits:* You may have at most two Stat Dice of size $d10$ and at most three of size $d8$. |
-| *Additional Upgrade:* You may downgrade one of your Stat Dice from a $d4$ to a $d2$ to receive an additional Stat Upgrade. Alternatively, you may spend ①①① to receive an additional Stat Upgrade. You may gain additional Stat Upgrades as many times as you want and can pay for. |
-| *Advancements:* When you upgrade a Stat Die to a $d6$, $d8$, or $d10$ you may receive one upgrade with the `d6`, `d8`, or `d10` tag, respectively. |
+| *Purchase More:* You may receive an additional Stat Upgrade by spending ①①① or by downgrading one of your Stat Dice from a $d4$ to a $d2$. You may purchase additional Stat Upgrades as many times as you want and can pay for. |
+| *Other Upgrades:* When you upgrade a Stat Die to a $d6$, $d8$, or $d10$ you may receive one upgrade with the `d6`, `d8`, or `d10` tag, respectively. |
 
 | High-Quality Upgrade `d6` |
 | ------------ |
-| *Effect:* Upgrade one of your mundane items to a higher quality so that it provides a "receive $+1$ in aid" effect. |
+| *Effect:* One of your mundane items becomes higher quality. It now provides a "receive $+1$ in aid" effect. |
 
-| Focus Upgrade `d6` |
+| Backstory Upgrade `d6` |
 | --- |
-| *Effect:* Upgrade your Focus based by making two changes or additions to it. Your Focus cannot have more than seven things listed. |
+| *Effect:* Make up to two changes or additions to your Backstory. |
 
 ---
 <!-- _class: ability -->
 
 | Ability Upgrade `d8` |
 | --- |
-| *Effect:* Choose to become apt in a new area or to further specialize in an area you're already apt in. |
+| *Effect:* Become apt in a new area or further specialize in an area you're already apt in. |
 
 | Powered Upgrade `d10` |
 | ------------ |
-| *Effect:* Upgrade one of your high-quality items to a higher quality so that it provides a "receive $+d2$ in aid" effect or another effect of your choice, within reason. |
+| *Effect:* One of your high-quality items becomes powered. It now provides a "receive $+d2$ in aid" effect or another effect of your choice, within reason. |
 
 | Carefree Upgrade `d10` |
 | --- |
-| *Effect:* If your starting Lifestyle was Carefree, upgrade your Lifestyle to Blossomed, Prodigious, or Crafty. |
+| *Effect:* If your Lifestyle is Carefree, change your Lifestyle to Blossomed, Prodigious, or Crafty. |
 
 | Eager Upgrade `d10` |
 | --- |
-| *Effect:* If your starting Lifestyle was Eager, upgrade your Lifestyle to Driven, Chosen, or Wired. |
+| *Effect:* If your Lifestyle is Eager, change your Lifestyle to Driven, Chosen, or Wired. |
 
 | Wisened Upgrade `d10` |
 | --- |
-| *Effect:* If your starting Lifestyle was Wisened, upgrade your Lifestyle to Steadfast, Warry, or Compelling. |
+| *Effect:* If your Lifestyle is Wisened, change your Lifestyle to Steadfast, Warry, or Compelling. |
 
 | Lost Upgrade `d10` |
 | --- |
-| *Effect:* Regardless of your starting Lifestyle, upgrade your Lifestyle to Lost. Then, at the end of a later session, you may upgrade your Lifestyle to any other option for free. |
+| *Effect:* Regardless of your current Lifestyle, change your Lifestyle to Lost. Then, at the end of a later session, you may change your Lifestyle to any other option for free. |
 
 ## Playing the Game
 <!-- _class: center major rules -->
@@ -773,17 +748,10 @@ Most situations in this game can be resolved by performing a Check or a Contest 
 
 To perform a Check:
 
-1. **Roll:** Roll the die for the action's associated Stat. The GM will let you know which to use.
-2. **Outcome:** If the result of the roll meets or beats the GM's target number, then the Check succeeds. Otherwise, it fails. Check targets by level of difficulty are given in the Check Targets table below.
-
-Also note:
-
-- **History Checks:** Your History Stat is used to perform actions more related to your backstory than your other Stats. When both your History Stat and another Stat would be applicable in a situation, the GM may decide which applies more. Otherwise, you choose which to use.
-- **Medium Difficulty:** A "Medium difficult" target is considered the average for rolls in most situations the players will get themselves into.
-- **Adjusted Difficulty:** For situations where the GM surprises the players and they don't have the chance to prepare for before reacting, it is recommended the GM lower the difficulty by $1$ to $3$ because such Checks are more likely to use characters' lower Stat Dice.
-
----
-<!-- _class: rules -->
+1. **GM Discretion:** The GM will let you know which Stat is normally associated with the action and a target number you will need to hit based on the difficulty of the action, as described in the Check Targets table below.
+2. **Choose Stat:** Choose a Stat to roll. Your options are the Stat normally associated with the action, any Stat you have balanced with that Stat, or History if the action is related enough to your Backstory or Aptitudes.
+3. **Roll:** Roll your Stat Die for the chosen Stat.
+4. **Outcome:** If the result of the roll meets or beats the GM's target number, then the Check succeeds. Otherwise, it fails.
 
 #### Check Targets
 
@@ -794,6 +762,14 @@ Also note:
 | Hard | $12$ |
 | Severe | $16$ |
 | Trial | $20$ |
+
+---
+<!-- _class: rules -->
+
+Also note:
+
+- **Medium Difficulty:** A "Medium difficult" target is considered the average for rolls in most situations the players will get themselves into.
+- **Adjusted Difficulty:** For situations where the GM surprises the players and they don't have the chance to prepare for before reacting, it is recommended the GM lower the difficulty by $1$ to $3$ because such Checks are more likely to use characters' lower Stat Dice.
 
 ### GM Guide · Setting Targets for Magic
 <!-- _class: guide -->
@@ -812,12 +788,12 @@ We recommend providing your players a table that describes your "magic" targets 
 ### Automatic History Check Success
 <!-- _class: rules -->
 
-At GM discretion, you may automatically succeed History Checks if your Focus is related enough to the Check and your History Stat Die is high enough.
+At GM discretion, you may automatically succeed History Checks if your Backstory or Aptitudes are related enough to the Check and your History Stat Die is high enough.
 
 To perform an automatic History Check success:
 
 1. **History Stat Die Size:** To succeed a Check automatically with your History Stat Die, first the die needs to be large enough for the Check, according to the Max Automatic Checks table below.
-2. **Relatedness:** Next, work with your GM to determine if your Focus is related enough to the Check.
+2. **Relatedness:** Next, work with your GM to determine if your Backstory or Aptitudes are related enough to the Check.
 3. **Automatic Roll:** Finally, if you are able to automatically succeed this way, you may succeed as though you had rolled exactly the Check's target. This roll cannot be modified by other effects.
 
 Also note:
@@ -865,17 +841,13 @@ In general:
 | ① $\times 4$ | Four Blessing Dice each worth $1$ or more. |
 | ⊜⊜ | Two Blessing Dice of the same worth. |
 
----
-<!-- _class: rules -->
-
 #### Blessing Dice Opportunities
 
 | Opportunity | Description |
 | ----------- | ----------- |
-| Creativity | Gain a Blessing Die for good role play and creative solutions. |
-| High Roll | Gain a Blessing Die the first time each session you succeed a Check with a Medium or higher target or win a Contest with a Medium or higher outcome size. Each each other player whose character witnessed or heard about that high roll also gains a Blessing Die. |
 | Milestones | Gain a number of Blessings for completing important story milestones. |
-| Lucky Number | When you roll the lucky number for the session on a Stat Die, before modifications, gain a Blessing. The GM determines the lucky number at the start of the session by rolling $2d10$. |
+| Creativity | Gain a Blessing Die for good role play and creative solutions. |
+| High Roll | Gain a Blessing Die the first time each session you succeed a Check with a Medium or higher target or win a Contest with a Medium or higher outcome size. Each other player whose character witnessed or heard about that high roll also gains a Blessing Die. |
 
 ### Helping
 <!-- _class: rules -->
@@ -1004,18 +976,29 @@ You and your fellow players may propose plans that could direct how you set out 
 ### Contests
 <!-- _class: rules -->
 
-Contests are similar to Checks, but performed against another character. There are two types of Contests: non-violent and violent.
+Contests are similar to Checks, but performed against another character. There are two types of Contests: violent and non-violent.
 
-A non-violent Contest is when a character performs an action against another character's will using any Stat besides Hurt.
+- **Violent Contest:** A violent Contest is when a character performs an action against another character's will using Hurt. All Contests involving Hurt are potentially dangerous. Unexpected things can happen and things can get out of hand quickly.
+- **Non-violent Contest:** A non-violent Contest is when a character performs an action against another character's will using any Stat besides Hurt.
 
-To perform a non-violent Contest:
+To perform a Contest:
 
 1. **Attack:** The Attacker rolls the appropriate Stat.
-2. **Defense:** In most cases, the Defender rolls the same Stat as the Attacker, as the Attacker dictates the nature of the Contest. If the Attack uses Hurry, then the Defender rolls Hurt, as the Attacker attempts to goad the Defender. And if the Attack uses History, the GM decides what roll the Defender uses. In any case, the Defender may instead roll an unconventional Stat balanced with the usual Stat or a Spark roll of two such Stats.
+2. **Defense:** The Defender chooses a Stat to roll, according to the Stat used by the Attacker and the Defense Options table below.
 3. **Outcome:** The action's effect is only successful if the Attacker rolls higher than the Defender. The size of the effect is determined by the difference between their scores according to the Outcome Sizes and Contest Effects tables below.
+4. **Defender Victory:** In some Contests, at GM discretion, when the Defender wins by enough, they may receive an outcome as though they were the Attacker instead. By default however, Defender victory simply nullifies the Attack's intended effect.
 
 ---
 <!-- _class: rules -->
+
+#### Defense Options
+
+| Attacker Rolls | Defender Roll Options |
+| -------------- | -------------- |
+| Hurt | <ul><li>Hurry</li><li>Any Stat balanced with Hurry</li><li>Spark two Stats balanced with Hurry</li><li>History (if related enough)</li></ul> |
+| Hurry | <ul><li>Hurt</li><li>Any Stat balanced with Hurt</li><li>Spark two Stats balanced with Hurt</li><li>History (if related enough)</li></ul> |
+| History | <ul><li>GM decides</li></ul> |
+| Anything else | <ul><li>Same Stat as Attacker</li><li>Any Stat balanced with that Stat</li><li>Spark two Stats balanced with that Stat</li><li>History (if related enough)</li></ul> |
 
 #### Outcome Sizes
 
@@ -1028,6 +1011,9 @@ To perform a non-violent Contest:
 | Very Major | $8-9$ |
 | Maximum | $10+$ |
 
+---
+<!-- _class: rules -->
+
 #### Contest Effects
 
 | Outcome size | Contest effect |
@@ -1036,19 +1022,6 @@ To perform a non-violent Contest:
 | Medium | Attacker gets what they want, without complications, and the advantage lasts several rolls or shifts the narrative of the scene. |
 | Major or Very Major | Attacker gets what they want, shifting the narrative arc of the session or several sessions. The ramifications of negative effects may be serious though not life-threathening. |
 | Maximum | Attacker has likely gone too far for what they intended. Negative effects are serious, possibly needing immediate attention or miracle, shifting the narrative arc of several sessions or the campaign. |
-
----
-<!-- _class: rules -->
-
-A violent Contest is when an Attacker performs an action against another character's will using their Hurt Stat. All Contests involving Hurt are potentially dangerous. Unexpected things can happen and things can get out of hand quickly.
-
-To perform a violent Contest:
-
-1. **Attack:** The Attacker first rolls their Hurt Stat, an unconventional Stat balanced with that Stat, or a Spark roll of two such Stats.
-2. **Defense:** The Defender rolls their Hurry Stat, an unconventional Stat balanced with that Stat, or a Spark roll of two such Stats, representing their immediate instinctive reaction in the scene.
-3. **Outcome:** The action's effect is only successful if the Attacker rolls higher than the Defender. The extent of the injury is determined by the difference between their scores, regardless if that was what the Attacker intended, according to the Outcome Sizes and Contest Effects tables above.
-4. **Additional Attacks:** If the violence continues past this initial Contest, then the Attackers may choose to change tactics, such as performing a non-violent Contest to shift subsequent rounds in their favor.
-5. **Additional Defenses:** Additionally, Defenders may choose to respond to these continued Attacks with a greater range of options than just Hurry, such as outwitting (Head), calling on honor (Hand), destroying a part of the environment (Hand), calling for a truce (Heart), or repositioning oneself (Head or Home).
 
 ---
 <!-- _class: rules -->
