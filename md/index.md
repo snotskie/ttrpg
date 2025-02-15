@@ -181,7 +181,7 @@ Your GM may add one of the following Stats to your game, depending on the game's
 
 | 🦠 Host Stat |
 | --- |
-| *Scope:* Drawing on the power of your symbiote to push beyond your normal capabilities. *Effect:* When you would fail a Check or lose a Contest while using this Stat, receive $+d2$ in aid. There may be consequences. *Setting:* Alien paranormal suspense. |
+| *Scope:* Drawing on the power of your symbiote to push beyond your normal capabilities. *Effect:* When you would fail a Check or lose a Contest while using this Stat, receive $+2$ in aid. There may be consequences. *Setting:* Alien paranormal suspense. |
 
 | 💀 Hardship Stat |
 | --- |
@@ -404,7 +404,7 @@ The choice depends on the variety of non-human backgrounds among players:
 
 The following pages describe **Aptitudes**, **Specializations**, and the **Abilities** they grant you. As your read, you may want to consult the **Playing the Game** chapter to learn more about the rules Abilities interact with.
 
-To help you select the Abilities you will start the game with, begin to imagine the kind of character taking shape in your mind. **Have you seen characters like them before** in movies, TV shows, and books? Try to envision the people from your favorite fictional stories that your character takes after.
+To help you select the Aptitudes you will start the game with, begin to imagine the kind of character taking shape in your mind. **Have you seen characters like them before** in movies, TV shows, and books? Try to envision the people from your favorite fictional stories that your character takes after.
 
 Then with that in mind **select two** areas from the **Aptitudes Areas** table below to begin the game apt in. If you begin the game with a Stat Die of size $d8$, **select a third** area as well. These Aptitudes will grant you Abilities.
 
@@ -428,13 +428,13 @@ The following pages list all Abilities in this game. These Abilities refer to a 
 
 | Area | Ability | Specializations |
 | ---- | ------- | --------------- |
-| Analysis | Apt Analysis | Casual or Optimal Analysis |
-| Armor | Apt Armor | Light, Sentry, or Barbed Armor |
-| Bounty | Apt Bounty | Fortune's or Trickster's Bounty |
-| Compromise | Apt Compromise | Lifesaving, Endebted, or Shrouded Compromise |
-| Detail | Apt Detail | Roguish, Divining, or Ambitious Detail |
-| Instinct | Apt Instinct | Careful or Perceptive Instinct |
-| Leadership | Apt Leadership | Background, Rousing, or Delegated Leadership |
+| Analysis | Apt Analysis | <ul><li>Casual Analysis</li><li>Optimal Analysis</li></ul> |
+| Armor | Apt Armor | <ul><li>Light Armor</li><li>Sentry Armor</li><li>Barbed Armor</li></ul> |
+| Bounty | Apt Bounty | <ul><li>Fortune's Bounty</li><li>Trickster's Bounty</li></ul> |
+| Compromise | Apt Compromise | <ul><li>Lifesaving Compromise</li><li>Endebted Compromise</li><li>Shrouded Compromise</li></ul> |
+| Detail | Apt Detail | <ul><li>Roguish Detail</li><li>Divining Detail</li><li>Ambitious Detail</li></ul> |
+| Instinct | Apt Instinct | <ul><li>Careful Instinct</li><li>Perceptive Instinct</li></ul> |
+| Leadership | Apt Leadership | <ul><li>Background Leadership</li><li>Rousing Leadership</li><li>Delegated Leadership</li></ul> |
 
 ---
 <!-- _class: rules -->
@@ -443,20 +443,20 @@ The following pages list all Abilities in this game. These Abilities refer to a 
 
 | Area | Ability | Specializations |
 | ---- | ------- | --------------- |
-| Nature | Apt Nature | Determined or Friendly Nature |
-| Resolve | Apt Resolve | Honorable or Charitable Resolve |
-| Self-Acceptance | Apt Self-Acceptance | Ascendant or Shameless Self-Acceptance |
-| Speech | Apt Speech | Popular, Fast, or Rebutted Speech |
-| Training | Apt Training | Concentration or Domination Training |
-| Transport | Apt Transport | Getaway or Professional Transport |
-| Unity | Apt Unity | Harmonious or Hostile Unity |
+| Nature | Apt Nature | <ul><li>Determined Nature</li><li>Friendly Nature</li></ul> |
+| Resolve | Apt Resolve | <ul><li>Honorable Resolve</li><li>Charitable Resolve</li></ul> |
+| Self-Acceptance | Apt Self-Acceptance | <ul><li>Ascendant Self-Acceptance</li><li>Shameless Self-Acceptance</li></ul> |
+| Speech | Apt Speech | <ul><li>Popular</li><li>Fast Speech</li><li>Rebutted Speech</li></ul> |
+| Training | Apt Training | <ul><li>Concentration Training</li><li>Domination Training</li></ul> |
+| Transport | Apt Transport | <ul><li>Getaway Transport</li><li>Professional Transport</li></ul> |
+| Unity | Apt Unity | <ul><li>Harmonious Unity</li><li>Hostile Unity</li></ul> |
 
 ---
 <!-- _class: ability -->
 
 | Apt Analysis `Starter` |
 | --- |
-| *Description:* Your memory is like a steel trap&mdash;once you learn something, you almost never forget. *Effect:* When you would fail a Check trying to recall information, receive $+d2$ in aid. |
+| *Description:* Your memory is like a steel trap&mdash;once you learn something, you almost never forget. *Effect:* When you would fail a Check trying to recall information, receive $+2$ in aid. |
 
 | Casual Analysis |
 | --- |
@@ -471,7 +471,7 @@ The following pages list all Abilities in this game. These Abilities refer to a 
 
 | Apt Armor `Starter` |
 | --- |
-| *Description:* You know how to protect yourself in a fight. *Effect:* When you would lose against a violent Attack, receive $+d2$ in aid. |
+| *Description:* You know how to protect yourself in a fight. *Effect:* When you would lose against a violent Attack, receive $+2$ in aid. |
 
 | Light Armor |
 | --- |
@@ -490,7 +490,7 @@ The following pages list all Abilities in this game. These Abilities refer to a 
 
 | Apt Bounty `Starter` |
 | --- |
-| *Description:* You're known in almost any situation for coming prepared or being conveniently light-fingered. *Effect:* When you would fail a Check to see if you already have an item on you, receive $+d2$ in aid. |
+| *Description:* You're known in almost any situation for coming prepared or being conveniently light-fingered. *Effect:* When you would fail a Check to see if you already have an item on you, receive $+2$ in aid. |
 
 | Fortune's Bounty |
 | --- |
@@ -505,7 +505,7 @@ The following pages list all Abilities in this game. These Abilities refer to a 
 
 | Apt Compromise `Starter` |
 | --- |
-| *Description:* You always know where to make a deal, even if it's not the most sound decision. *Effect:* While you are attempting to purchase goods or services, each ① you spend to Help yourself is worth ①①. |
+| *Description:* You always know where to make a deal, even if it's not the most sound decision. *Effect:* When you spend ①① or more to Help yourself while attempting to purchase goods or services, you gain a bonus as though you had spent an additional ①. |
 
 | Lifesaving Compromise |
 | --- |
@@ -524,7 +524,7 @@ The following pages list all Abilities in this game. These Abilities refer to a 
 
 | Apt Detail `Starter` |
 | --- |
-| *Description:* You have a keen sense with objects and surroundings that most others don't. *Effect:* When you would fail a Check to inspect an object carefully, identify where the object has been, or intuit information about events that have occurred around it, receive $+d2$ in aid. |
+| *Description:* You have a keen sense with objects and surroundings that most others don't. *Effect:* When you would fail a Check to inspect an object carefully, identify where the object has been, or intuit information about events that have occurred around it, receive $+2$ in aid. |
 
 | Roguish Detail |
 | --- |
@@ -543,11 +543,11 @@ The following pages list all Abilities in this game. These Abilities refer to a 
 
 | Apt Instinct `Starter` |
 | --- |
-| *Description:* You can always trust your reflexes to keep you safe. *Effect:* When you would fail a Check or lose a Contest while surprised, receive $+d2$ in aid. |
+| *Description:* You can always trust your reflexes to keep you safe. *Effect:* When you would fail a Check or lose a Contest while surprised, receive $+2$ in aid. |
 
 | Careful Instinct |
 | --- |
-| *Description:* You've honed your reflexes to help you at tasks that would frighten others to do. *Effect:* While performing dangerous actions related enough to your Backstory or other Aptitudes, each ① you spend to Help yourself is worth ①①. |
+| *Description:* You've honed your reflexes to help you at tasks that would frighten others to do. *Effect:* When you spend ①① or more to Help yourself while performing dangerous actions related enough to your Backstory or other Aptitudes, you gain a bonus as though you had spent an additional ①. |
 
 | Perceptive Instinct |
 | --- |
@@ -558,7 +558,7 @@ The following pages list all Abilities in this game. These Abilities refer to a 
 
 | Apt Leadership `Starter` |
 | --- |
-| *Description:* Reading situations to know exactly what other people need comes naturally to you. *Effect:* When you spend ①① or more to Help another character, they gain a bonus as though you had spent an additional ①①. |
+| *Description:* Reading situations to know exactly what other people need comes naturally to you. *Effect:* When you spend ①① or more to Help another character, they gain a bonus as though you had spent an additional ①. |
 
 | Background Leadership |
 | --- |
@@ -577,7 +577,7 @@ The following pages list all Abilities in this game. These Abilities refer to a 
 
 | Apt Nature `Starter` |
 | --- |
-| *Description:* Your travels have taught you how to calm your mind and body. *Effect:* When you would fail a Check against natural effects such as weather and disease, receive $+d2$ in aid. |
+| *Description:* Your travels have taught you how to calm your mind and body. *Effect:* When you would fail a Check against natural effects such as weather and disease, receive $+2$ in aid. |
 
 | Determined Nature |
 | --- |
@@ -585,7 +585,7 @@ The following pages list all Abilities in this game. These Abilities refer to a 
 
 | Friendly Nature |
 | --- |
-| *Description:* You've collected close, trusted friends along your travels. *Effect:* You gain access to a creature companion of your choice appropriate to the setting and within reason. When you would fail a Check or lose a Contest while working with your companion, receive $+X$ in aid, where $X$ depends on the companion and the Stat used, ranging from $-1$ to $+d4$. Moreover, this companion has its own Backstory which extends your Backstory while you work with it. If this companion is lost, stolen, destroyed, or you lose its loyalty, replacing it may require time and effort. |
+| *Description:* You've collected close, trusted friends along your travels. *Effect:* You gain access to a creature companion of your choice appropriate to the setting and within reason. When you would fail a Check or lose a Contest while working with your companion, receive $+X$ in aid, where $X$ depends on the companion and the Stat used, ranging from $-1$ to $+4$. Moreover, this companion has its own Backstory which extends your Backstory while you work with it. If this companion is lost, stolen, destroyed, or you lose its loyalty, replacing it may require time and effort. |
 
 ---
 <!-- _class: ability -->
@@ -622,7 +622,7 @@ The following pages list all Abilities in this game. These Abilities refer to a 
 
 | Apt Speech `Starter` |
 | --- |
-| *Description:* You're well-versed in idle chatter, spinning conversation, or navigating social milieu. *Effect:* When you would lose a Contest trying to persuade, influence, inspire, or deceive others, receive $+d2$ in aid. |
+| *Description:* You're well-versed in idle chatter, spinning conversation, or navigating social milieu. *Effect:* When you would lose a Contest trying to persuade, influence, inspire, or deceive others, receive $+2$ in aid. |
 
 | Popular Speech |
 | --- |
@@ -656,7 +656,7 @@ The following pages list all Abilities in this game. These Abilities refer to a 
 
 | Apt Transport `Starter` |
 | --- |
-| *Description:* Operating vehicles comes naturally to you or you've gotten great practice at it. *Effect:* When you would fail a Check or lose a Contest to use a vehicle to transport supplies or other characters, receive $+d2$ in aid. |
+| *Description:* Operating vehicles comes naturally to you or you've gotten great practice at it. *Effect:* When you would fail a Check or lose a Contest to use a vehicle to transport supplies or other characters, receive $+2$ in aid. |
 
 | Getaway Transport |
 | --- |
@@ -664,7 +664,7 @@ The following pages list all Abilities in this game. These Abilities refer to a 
 
 | Professional Transport |
 | --- |
-| *Description:* Almost nothing is stronger than the bond you have with your own ride. *Effect:* You gain access to a vehicle of your choice appropriate to the setting and within reason. When you would fail a Check or lose a Contest while operating this vehicle, receive $+X$ in aid, where $X$ depends on the vehicle and the Stat used, ranging from $-1$ to $+d4$. Moreover, this vehicle has its own Backstory which extends your Backstory while you operate it. If this vehicle is lost, stolen, or destroyed, replacing it may require time and effort. |
+| *Description:* Almost nothing is stronger than the bond you have with your own ride. *Effect:* You gain access to a vehicle of your choice appropriate to the setting and within reason. When you would fail a Check or lose a Contest while operating this vehicle, receive $+X$ in aid, where $X$ depends on the vehicle and the Stat used, ranging from $-1$ to $+4$. Moreover, this vehicle has its own Backstory which extends your Backstory while you operate it. If this vehicle is lost, stolen, or destroyed, replacing it may require time and effort. |
 
 ---
 <!-- _class: ability -->
@@ -688,7 +688,7 @@ Finally, **describe your character's appearance** and list **three or four items
 
 You'll track a list of items that you typically carry with you, and other items you may have can be **determined in the moment**: Over the course of the story, you may perform Checks to **find** new items, **create** new items, **purchase and sell** items, and even see if you **already have** items that could be narratively reasonable for you to have.
 
-And while most items are narrative, some **higher quality items** you acquire along the way may provide aid or effects similar to some Abilities. If you don't begin the game with a Stat Die of size $d8$, **choose one item** to begin the game at a higher quality so that it provides a "receive $+1$ in aid" effect..
+And while most items are narrative, some **higher quality items** you acquire along the way may provide aid or effects similar to some Abilities. If you don't begin the game with a Stat Die of size $d8$, **choose one item** to begin the game at a higher quality so that it provides a "receive $+1$ in aid" effect.
 
 
 ### Session Shop Upgrades
@@ -720,7 +720,7 @@ At the end of each session, you receive one free Stat Upgrade for your character
 
 | Powered Upgrade `d10` |
 | ------------ |
-| *Effect:* One of your high-quality items becomes powered. It now provides a "receive $+d2$ in aid" effect or another effect of your choice, within reason. |
+| *Effect:* One of your high-quality items becomes powered. It now provides a "receive $+2$ in aid" effect or another effect of your choice, within reason. |
 
 | Carefree Upgrade `d10` |
 | --- |
@@ -852,26 +852,13 @@ In general:
 ### Helping
 <!-- _class: rules -->
 
-Characters may spend their Blessings to Help one another complete Checks and Contests. And your Abilities, events, and items in the story may also Help you in similar ways.
+Characters may spend their Blessings to attempt to Help one another complete Checks and Contests. And your Abilities, events, and items in the story may also Help you in similar ways.
 
 To provide Help:
 
-1. **Pay Help Cost:** Once per roll, whether your own or another character's, you may Help by spending a number of Blessings.
-2. **Provide Help:** Then, the character you Helped rolls a die and adds the result to their roll. The more Blessings spent above, the larger the die rolled, according to the Helping Costs table below.
-
-#### Helping Costs
-
-| Blessing Dice Spent | Bonus Added |
-| ------------------- | ----------- |
-| ① | $+1$ |
-| ①① | $+d2$ |
-| ① $\times 4$ | $+d4$ |
-| ① $\times 6$ | $+d6$ |
-| ① $\times 8$ | $+d8$ |
-| ① $\times 10$ | $+d10$ |
-
----
-<!-- _class: rules -->
+1. **Pay Help Cost:** Once per roll, whether your own or another character's, you may attempt to Help by spending a number of Blessings.
+2. **Note the Success/Victory Gap:** Make note of how much higher the character needs to roll to achieve their goals: to succeed to Check or win the Contest (described below) with at least a certain outcome size (also described below). This amount is the "success/victory gap."
+3. **Attempt Help:** Then, roll a number of $d6$ dice equal to the number of Blessings spent above. If any of these dice meets or beats the success/victory gap, then the value of the roll changes so the character achieves their goals. 
 
 Also note:
 
@@ -881,7 +868,7 @@ Also note:
 ### Receiving Situational Aid
 <!-- _class: rules -->
 
-While you and your allies may spend Blessings to Help one another, in certain situations your Abilities, items, environment, careful planning, or so on can provide you additional Help as well&mdash;and for free!
+While you and your allies may spend Blessings to attempt to Help one another, in certain situations your Abilities, items, environment, careful planning, or so on can provide you additional Help of a different sort&mdash;for free!
 
 - **Receive Aid:** Situational aid effects describe a possible failed Check or lost Contest and say to "receive $+X$ in aid" in response. When you do, you gain a $+X$ bonus to the roll, as though you were Helped by the situation, possibly turning the failure into a success or loss into a win.
 
@@ -911,7 +898,7 @@ The second approach rolls lower on average, but doesn't require you to commit to
 
 Lifestyle upgrade options overcharge one or two of a character's Stats, which provides situational aid.
 
-- **Overcharged:** When you would fail a Check or lose a Contest while performing a Spark roll using an overcharged Stat, receive $+X$ in aid, where $X$ is the same sized die used in the Spark roll.
+- **Overcharged:** When you would fail a Check or lose a Contest while performing a Spark roll using an overcharged Stat, receive $+X$ in aid, where $X$ is half the size of the die used in the Spark roll.
 
 ### Coming Prepared
 <!-- _class: rules -->
@@ -963,7 +950,7 @@ In general:
 | ------------ | -------------------- | ----------- |
 | Mundane | Easy or Medium | Narrative function only |
 | High-Quality Mundane | Medium or Hard | Provides a "receive $+1$ in aid" effect |
-| Powered | Severe | Provides a "receive $+d2$ in aid" effect |
+| Powered | Severe | Provides a "receive $+2$ in aid" effect |
 
 ### Setting Out
 <!-- _class: rules -->
@@ -985,8 +972,9 @@ To perform a Contest:
 
 1. **Attack:** The Attacker rolls the appropriate Stat.
 2. **Defense:** The Defender chooses a Stat to roll, according to the Stat used by the Attacker and the Defense Options table below.
-3. **Outcome:** The action's effect is only successful if the Attacker rolls higher than the Defender. The size of the effect is determined by the difference between their scores according to the Outcome Sizes and Contest Effects tables below.
-4. **Defender Victory:** In some Contests, at GM discretion, when the Defender wins by enough, they may receive an outcome as though they were the Attacker instead. By default however, Defender victory simply nullifies the Attack's intended effect.
+3. **Help Effects:** If the Attacker, Defender, or either of their allies have Help effects, resolve these effects one at a time, first "receive aid" effects, then Defender Help, then Attacker Help.
+4. **Outcome:** The action's effect is only successful if the Attacker rolls higher than the Defender. The size of the effect is determined by the difference between their scores according to the Outcome Sizes and Contest Effects tables below.
+5. **Defender Victory:** In some Contests, at GM discretion, when the Defender wins by enough, they may receive an outcome as though they were the Attacker instead. By default however, Defender victory simply nullifies the Attack's intended effect.
 
 ---
 <!-- _class: rules -->
@@ -1138,7 +1126,7 @@ There are several different types of Endeavors depending on the scenario. Howeve
 
 Also note:
 
-- **Helping Yourself:** During your turn, before you use your current roll to take your action, you may spend Blessings as usual to increase the value of your current roll, so long as you have not already do so that round.
+- **Helping Yourself:** During your turn, before you use your current roll to take your action, you may spend Blessings as usual to increase the value of your current roll, so long as you have not already done so that round. Choose an amount from $1$ to $6$ you would like to increase your current roll by, then spend Blessings to attempt to provide yourself Help to achieve that increase.
 - **Sparking:** You may also spend ⊜⊜ as usual to upgrade your current roll to a Spark roll before your action. Use these to your advantage to jump ahead of your opponents to nab the special action for the round!
 - **Streamlined Success:** To streamline Endeavors, the GM allow all Checks to automatically succeed, providing larger effects for higher rolls.
 - **Receiving Aid:** If the GM does streamline Checks this way, then "recieve aid" effects would be unable to activate. At GM discretion, such effects may never activate, always activate, or only activate once per Endeavor per effect.
@@ -1222,7 +1210,7 @@ Some campaigns or sessions may involve the player characters summoning, rallying
 
 | Ability | Description |
 | ------- | ----------- |
-| Resistance | *Effect:* When you would lose a Contest against the type of effect you have resistance against, receive $+d2$ in aid. |
+| Resistance | *Effect:* When you would lose a Contest against the type of effect you have resistance against, receive $+2$ in aid. |
 | Propel | *Effect:* The first time you roll each round, you may exchange your roll value with one of your allies, but without changing your Stats in use. |
 | Revenge | *Effect:* The first time you end your movement at position $5$ or higher, gain a Revenge button at $3$ below your position. |
 | Drain | *Effect:* If you rolled Head or Home, you may use your current roll to use Perform an Attack. If you win the Contest, move up by half the amount you won the Contest by, rounded down. |
@@ -1341,7 +1329,7 @@ Some campaigns or sessions may involve the player characters and their allies fa
 
 | Ability | Description |
 | ------- | ----------- |
-| Resistance | *Minimum Difficulty:* Easy. *Effect:* When you would lose a Contest against the type of effect you have resistance against, receive $+d2$ in aid. |
+| Resistance | *Minimum Difficulty:* Easy. *Effect:* When you would lose a Contest against the type of effect you have resistance against, receive $+2$ in aid. |
 | Propel | *Minimum Difficulty:* Medium. *Effect:* The first time you roll each round, you may exchange your roll value with one of your allies, but without changing your Stats in use. |
 | Revenge | *Minimum Difficulty:* Medium. *Effect:* You begin the Endeavor with a Revenge button at $3$ below your starting position. |
 
@@ -1447,13 +1435,11 @@ In general however:
 | Ache | *Effect:* Rolls you make with the affected Stat cannot bump. *Duration:* Until next scene. |
 | Cursed | *Effect:* Your Blessings are each worth $1$ less, to a minimum of $0$. *Duration:* Until treated. |
 | Disarmed | *Effect:* When you win with a violent Attack, reduce the outcome size one rank. *Duration:* Until treated. |
-| Famous | *Effect:* You may exert your fame over those less famous, gaining a $+d2$ bonus in Contests against them, but not against the same character more than once during the same session or while you are Uncool. *Duration:* Until removed. |
+| Famous | *Effect:* You may exert your fame over those less famous, gaining a $+2$ bonus in Contests against them, but not against the same character more than once during the same session or while you are Uncool. *Duration:* Until removed. |
 | Taxed | *Effect:* You cannot Spark. *Duration:* Until treated. |
 | Surprised | *Effect:* Your rolls cannot bump, Spark, use an unconventional Stat, or be an automatic success. *Duration:* Until next roll. |
 | Uncool | *Effect:* Your rolls are made with a $-1$ modifier unless you are alone. *Duration:* Until removed. |
 | Vulnerable | *Effect:* When another character sees you roll the affected Stat, they may have you perform the roll again and use the new value. *Duration:* Until treated. |
-
----
 
 ## Character Sheet
 <!-- _class: major center -->
@@ -1575,7 +1561,7 @@ In general however:
     </thead>
     <tbody>
         <tr>
-            <td><textarea placeholder="Notes" style="width: 100%" rows="10"></textarea></td>
+            <td><textarea placeholder="Notes" style="width: 100%" rows="18"></textarea></td>
         </tr>
     </tbody>
 </table>
