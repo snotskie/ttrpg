@@ -247,9 +247,9 @@ Then, pick one of the **Lifestyles** with the `Starter` label and one of the **E
 ---
 <!-- _class: creation -->
 
-Once you've chosen your starter Lifestyle and Ethic, **two of your Stats** will begin the game an additional **die size larger**, according to your starter Lifestyle and Ethic. Consult the Lifestyle/Ethic Starting Stat Upgrades table below to know which Stats to increase.
+Once you've chosen your starter Lifestyle and Ethic, **two of your Stats** will begin the game an additional **die size larger**, according to your starter Lifestyle and Ethic. Consult the Lifestyle/Ethic Starting Stats table below to know which Stats to increase.
 
-#### Lifestyle/Ethic Starting Stat Upgrades
+#### Lifestyle/Ethic Starting Stats
 
 <table>
     <thead>
