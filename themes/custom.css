@@ -266,4 +266,5 @@ section select, section input, section textarea {
     border: none;
     background: var(--color-background);
     color: var(--color-foreground);
+    width: 100%;
 }
