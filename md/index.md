@@ -75,23 +75,55 @@ Cover typography: Bebas Neue, by Ryoichi Tsunekawa
 
 ### About
 
-*Humanity, Blessed* is a rules-light TTRPG system inspired by our favorite games, books, and TV. *Humanity, Blessed* is designed to tell stories about what it means to be human, doing goofy, cool, fantastic little human things.
+*Humanity, Blessed* is a rules-light, semi-crunchy TTRPG system inspired by our favorite games, books, and TV. *Humanity, Blessed* is designed to tell stories about what it means to be human, doing goofy, cool, fantastic little human things; to provide fun, structured challenges; and to use narrative and tactile cues instead of complex sheets and board states.
+
+This book uses color coded pages:
+
+<div class="rules">
+    Rules
+</div>
+
+<div class="creation">
+    Character Creation
+</div>
+
+<div class="ability">
+    Character Options
+</div>
+
+<div class="guide">
+    GM Guide
+</div>
 
 ## Making Your First Character
 <!-- _class: center major creation -->
 
-### Character Creation · Step One!
+### Character Sheets
+<!-- _class: rules -->
+
+All characters in this game have a character sheet, which tracks:
+
+- Your identifying information, like your name, age, and pronouns
+- The Stat Dice you'll use for each of the Stats your GM has chosen for the campaign
+- A description of your Backstory, including your current Lifestyle and Ethic
+- A list of Aptitude areas related to your Backstory
+- A list of Specializations that grant additional effects to your Aptitudes
+- And other descriptive information, like your items and appearance
+
+You can find a blank Character Sheet form at the end of this book.
+
+### Step One · Choose Highest Stat
 <!-- _class: creation -->
 
-The following pages describe the **Stats** used in *Humanity, Blessed*, known collectively as **the H's of Humanity**. Your GM may add an additional one as well.
+The following pages describe the **Stats** used in *Humanity, Blessed*, known collectively as **the H's of Humanity**. Your GM may add an additional Stat as well.
 
-Your first task is to decide **which Stat your character is best at**. You can find a **Character Sheet** at the end of this book to help you track your choices.
+Your first task is to decide **which Stat your character is best at**.
 
 As you do, begin to think about the story your character takes on in your mind. **Why are they good at this and not at that?** Why is one important to them and not the other? What are they trying to improve? What do they like getting help from others on?
 
-When you begin the game, most of your Stats are equal, using a $d4$ for their Checks. However, the Stat you chose as your **highest Stat begins the game one die size larger**. Your Lifestyle also increases your starting Stat Dice.
+When you begin the game, most of your Stats are equal, using a $d4$ for their Checks. However, the Stat you chose as your **highest Stat begins the game one die size larger**. In Step Two of character creation your **Lifestyle and Ethic** will also increase your starting Stat Dice.
 
-All of your Stat Dice may be **upgraded later in the Session Shop** section later in this chapter.
+All your Stat Dice may be **upgraded later in the Session Shop**.
 
 ### Stats
 <!-- _class: ability -->
@@ -235,19 +267,16 @@ Also note:
 - **Bumping Dice Groups:** Some effects will ask you to roll a group of dice, denoted such as $2d6$. When rolling a group of dice, if you roll a $1$ on either die, then you roll all dice in the group again and add to the previous result. And as long as you continue to roll a $1$ on either die, you continue to roll the group again and add this way.
 - **Explicit Dice Grouping Only:** Note, $2d6$ is different from $1d6+1d6$. Only when an effect explicitly groups dice together are they considered a group for bumping. For example, both dice of the $2d6$ group are rerolled when either rolls a $1$. However, the dice of the $1d6+1d6$ are considered separate groups, so rolling a $1$ on one of the dice only affects that one die.
 
-### Character Creation · Step Two!
+### Step Two · Choose Lifestyle and Ethic
 <!-- _class: creation -->
 
-The following pages describe **Lifestyle** and **Ethic** options. Some Lifestyles are **upgrade options** you will not have access to when the game begins.
+The following pages describe starting **Lifestyle** and **Ethic** options. Lifestyle upgrade options are listed in the **Session Shop** chapter.
 
-As you read them, begin to describe the life your character had **growing up** and their **current outlook** on the world. You may also want to consult the **Playing the Game chapter** to learn more about the rules Lifestyles interact with.
+As you read the starting Lifestyle and Ethic options, begin to describe the life your character had **growing up** and their **current outlook** on the world.
 
-Then, pick one of the **Lifestyles** with the `Starter` label and one of the **Ethics** to begin the game with. These can be changed later in the **Session Shop**.
+Then, pick one **Lifestyle** and one **Ethic** to begin the game with. Lifestyles can be changed later in the **Session Shop**. Ethics can only be changed with GM discretion.
 
----
-<!-- _class: creation -->
-
-Once you've chosen your starter Lifestyle and Ethic, **two of your Stats** will begin the game an additional **die size larger**, according to your starter Lifestyle and Ethic. Consult the Lifestyle/Ethic Starting Stats table below to know which Stats to increase.
+Once you've chosen your starter Lifestyle and Ethic, **two of your Stats** will begin the game an additional **die size larger**, according to your starting Lifestyle and Ethic. Consult the Lifestyle/Ethic Starting Stats table below to know which Stats to increase.
 
 #### Lifestyle/Ethic Starting Stats
 
@@ -270,66 +299,17 @@ Once you've chosen your starter Lifestyle and Ethic, **two of your Stats** will 
 ### Lifestyles
 <!-- _class: ability -->
 
-| 🍀 Carefree Lifestyle `Starter` | 
+| 🍀 Carefree Lifestyle | 
 | --- |
 | *Description:* Your character lives a relatively carefree life, perhaps because of your naivete, wealthy upbringing, optimistic demeanor, or (in a darker setting) a nihilistic worldview. |
 
-| 🌼 Blossomed Lifestyle | 
-| --- |
-| *Description:* Your carefree nature has kept you safe from harm and surrounded by friends. When you Spark, it might take on a free and connected aspect. *Effect:* Overcharge your Heart and Hurry Stats, as though you were Helped by the love and connectedness you feel for those around you. |
-
-| 🔮 Prodigious Lifestyle | 
-| --- |
-| *Description:* Your studies have come effortlessly to you, and secrets almost seem to just reveal themselves to you. When you Spark, it might take on a sorcerous or uninhibited aspect. *Effect:* Overcharge your Head and Hurt Stats, as though you were Helped by a raw innate power. |
-
-| 🧶 Crafty Lifestyle | 
-| --- |
-| *Description:* You can envision amazing designs and, it seems, to bring them to life. When you Spark, it might take on an autonomous or lucky aspect. *Effect:* Overcharge your Hand and Home Stats, as though you were Helped by your own sudden creativity. |
-
----
-<!-- _class: ability -->
-
-| 🔥 Eager Lifestyle `Starter` | 
+| 🔥 Eager Lifestyle | 
 | --- |
 | *Description:* Your character is eager for more out of life, perhaps because of a rebellious phase, a yearning to accomplish your dreams, a person you want to impress, or a mission or faith you believe strongly in. |
 
-| ⚜️ Driven Lifestyle | 
-| --- |
-| *Description:* Your eager drive has found purchase in a great mission or calling. When you Spark, it might take on an incorrigible or resolute aspect. *Effect:* Overcharge your Hand and Hurt Stats, as though you were Helped by your own faith in your mission. |
-
-| ✨ Chosen Lifestyle | 
-| --- |
-| *Description:* You draw inspiration from the community around you, setting out on your journeys blessed, favored, or even cursed. When you Spark, it might take on a divine or noble aspect. *Effect:* Overcharge your Heart and Home Stats, as though you were Helped by the will of the people whose lives you've touched. |
-
-| ⚡ Wired Lifestyle | 
-| --- |
-| *Description:* Your mind is quick and analytical, and you can see solutions to problems that are unimaginably complex. When you Spark, it might take on a calculating or duplicative aspect. *Effect:* Overcharge your Head and Hurry Stats, as though you were Helped by your own mind palace. |
-
----
-<!-- _class: ability -->
-
-| 🧘‍♀️ Wisened Lifestyle `Starter` | 
+| 🧘‍♀️ Wisened Lifestyle | 
 | --- |
 | *Description:* Maybe life has not been easy on your character, but if so you've come out wiser and tougher. Perhaps you've been shaped by unfortunate events, you've dedicated yourself to your work, or (in some settings) you could take advantage of others easily because you understand how people work. |
-
-| 🪬 Steadfast Lifestyle | 
-| --- |
-| *Description:* Your wise steadiness and alertness have made you adept at warding off harm and protecting your loved ones. When you Spark, it might take on a firm or dispelling aspect. *Effect:* Overcharge your Head and Home Stats, as though you were Helped by your care for others. |
-
-| 👁️ Warry Lifestyle | 
-| --- |
-| *Description:* You are one with the natural and supernatural worlds around you, and you have a keen sense of danger and safety. When you Spark, it might take on an astral or prophetic aspect. *Effect:* Overcharge your Hand and Hurry Stats, as though you were Helped by knowledge only you could know in that moment. |
-
-| 👄 Compelling Lifestyle | 
-| --- |
-| *Description:* You seem able to spin any loss into a win&mdash;or vice versa&mdash;, and you are a sly, tactical force to be reckoned with. When you Spark, it might take on an illusory or vicious aspect. *Effect:* Overcharge your Heart and Hurt Stats, as though you were Helped by your own ambition. |
-
----
-<!-- _class: ability -->
-
-| 💎 Lost Lifestyle |
-| --- |
-| *Description:* You feel a disconnect from your own past or former sense of self, perhaps because of an exile from your home, an erased memory, or a period of transition or deep self-reflection. When you Spark, it might take on an erratic or liminal aspect. *Effect:* Overcharge your History Stat, as though you were Helped by your quest for self-discovery. |
 
 ### Ethics
 <!-- _class: ability -->
@@ -357,12 +337,12 @@ As you begin to imagine the world and genre of your campaign, consider what it m
 
 **⚙️ Cunning &amp; Capability** settings are well equipped for cyberpunk, steam punk, hard sci-fi, spy fiction, heist fiction, josei, surveillance-state fiction, noir, and antihero/villain stories. This genre is likely familiar, and fits stories well that have high stakes without necessarily a clear good vs. evil component. The Crafty, Wired, and Compelling upgrade options are the most "default" in such settings.
 
-### Character Creation · Step Three!
+### Step Three  · Describe Backstory
 <!-- _class: creation -->
 
 Begin to describe your character's story before, coming into, and outside of the game's main story. **Answer the following prompts** or others given to you by your GM.
 
-These background details will help you and your GM build the story and set your **Backstory**, which is used by your **History Stat** and is described in more detail in the following pages.
+These background details will help you and your GM build the story and set your **Backstory**, which is used by your **History Stat** and **Aptitudes** (described lated in this chapter).
 
 For now:
 
@@ -382,11 +362,11 @@ Such reflection can help you **shape the course** of your Backstory and your cha
 ### Backstory
 <!-- _class: rules -->
 
-Each character has a Backstory, a list  or description of narrative elements from their background that help define the scope of their unique History Stat. For example: Tying Knots (for a scout), Swordfighting (for a knight), Breathing Fire (for a dragonborn), Reading Legal Documents (for the child of a politician), Acting (for a theater kid), Manipulating Technology (for a hacker), Stunt Driving (for a stunt performer), Friendly Interactions with the Empire (for someone raised in the empire), Unfriendly Interactions with the Rebels (for someone raised in the empire).
+Each character has a Backstory, a list  or description of narrative elements from their background that help define the scope of their History Stat, connect them to other characters and events in the story, and set the stage for their Aptitudes and Specializations.
 
-In general: 
+What makes up a Backstory is determined by the players and the GM working together to craft the seeds for a good story. However, in general:
 
-- **Unique:** Your Backstory should define unique skills, proficiencies, traits, and narrative elements that your character brings to the story.
+- **Unique:** Your Backstory should define unique skills, connections, events, traits, and other narrative elements that your character brings to the story.
 - **Variety:** Your Backstory should have enough variety that not all or most of your Backstory would already be covered by a single Stat.
 - **History Stat:** You may always choose to use your History Stat in place of another Stat when the action or effect is related enough to your Backstory or Aptitudes (described later in this chapter).
 
@@ -400,273 +380,50 @@ The choice depends on the variety of non-human backgrounds among players:
 - **High Variety:** If each player character has a different non-human background, then the simplest option is to use each character's Backstory to cover one or two simple actions, within reason, that characters of their background could perform unaided that humans couldn't.
 - **Low Variety:** If the player characters come from just a few non-human backgrounds, the GM may expand the scope of two or three Stats to cover one or two simple actions each, within reason, that characters of their non-human backgrounds could perform unaided that humans couldn't.
 
-### Character Creation · Step Four!
+### Step Four · Choose Aptitudes
 <!-- _class: creation -->
 
-The following pages describe **Aptitudes** and **Specializations**.
+The following pages describe rules for **Aptitudes** and **Specializations**. You won't begin the game with Specializations, but you will begin the game with a number of Aptitudes drawn from your Backstory.
 
-You won't begin the game with Specializations or Abilities, but you will begin the game with a number of Aptitudes drawn from your Backstory.
+To help you select your starting Aptitudes, begin to imagine the kind of character taking shape in your mind. **Have you seen characters like them before** in movies, TV shows, books, or video games? Try to envision the people from your favorite fictional stories that your character takes after.
 
-To help you select the Aptitudes you will start the game with, begin to imagine the kind of character taking shape in your mind. **Have you seen characters like them before** in movies, TV shows, books, or video games? Try to envision the people from your favorite fictional stories that your character takes after.
+Then with that in mind **select two** areas from your Backstory to begin the game "apt" in. For example: Tying Knots (for a scout), Swordfighting (for a knight), Breathing Fire (for a dragonborn), Reading Legal Documents (for the child of a politician), Acting (for a theater kid), Manipulating Technology (for a hacker), Stunt Driving (for a stunt performer), Friendly Interactions with the Empire (for someone raised in the empire), Unfriendly Interactions with the Rebels (for someone raised in the empire).
 
-Then with that in mind **select two** areas from your Backstory to begin the game "apt" in. If you begin the game with a Stat Die of size $d8$, **select a third** area as well. You be more likely succeed and win at these areas.
+If you begin the game with a Stat Die of size $d8$, **select a third** area to begin the game apt in as well.
 
-You may also become apt in additional areas or further **specialize** your apt areas in the **Session Shop** later. Specalizations will grant you **customized Abilities**.
+You may also become apt in additional areas or further **specialize** your apt areas in the **Session Shop** later. Specalizations will grant you **customized effects**.
 
 ### Aptitudes and Specializations
 <!-- _class: rules -->
 
-Characters in this game may have a number of Abilities that provide them with new effects, bonuses, actions or so on, based on their Aptitudes and Specializations, described below. The end of this chapter lists sample Abilities, which refer to rules described in the next chapter. However, for now you should know:
+Characters in this game may have a number of unique effects based on their Aptitudes and Specializations, described below. The Session Shop chapter lists sample Specializations, which refer to rules described in the Playing the Game chapter. However, for now you should know:
 
 - **Aptitudes:** Your Aptitudes are the important and often unique narrative areas you are "apt" in.
-- **Aptitude Aid:** When you would fail a Check or lose a Contest related enough to an area you are apt in, receive $+2$ in aid.
+- **Aptitude Effect:** When you would fail a Check or lose a Contest related enough to your Aptitudes, receive $+2$ in aid.
 - **History Stat:** You may always choose to use your History Stat in place of another Stat when the action or effect is related enough to your Backstory or Aptitudes.
-- **Specializations:** Your Specializations are the Aptitudes you have "specialized," which grant you unique Abilities depending on the nature of the specialization.
-- **Specializing in an Aptitude:** You may specialize your Aptitudes in the Session Shop. When you do, you choose how you specialize it, based on the events of the story so far or how you would like to see your character grow. First, select an Ability from the options listed on the following pages. Then, explain how that Ability relates to the Aptitude you are specializing in. Finally, at GM discretion, you gain that Ability or an adjusted version of it.
-- **Specialization Limits:** You may not specialize the same Aptitude area more than once or choose the same Specialization more than once.
+- **Specializations:** Your Specializations are the Aptitudes you have "specialized," which grant you unique effects depending on the nature of the specialization.
+- **Specializing an Aptitude:** You may specialize your Aptitudes in the Session Shop. An example is given on the next page.
+- **Specialization Limits:** You may not specialize the same Aptitude more than once or choose the same Specialization more than once.
 
 ---
 <!-- _class: rules -->
 
-For example:
+Example Specialization:
 
 1. **Starting Aptitude:** Dave is a rookie cop. During his time in training, he became apt at Obstacles Courses.
 2. **Choosing Specialization:** Then over the course of the story, he specialized his Obstacles Course Aptitude further, with an interest in taking the Friendly Specialization. 
 3. **Explaining Specialization:** Dave's player explains how Dave has a close relationship with his sneakers, which should be able to grant him bonuses on his Checks and Contests beyond just running through Obstacle Courses, due to the storied history he shares with his shoes and the power of their bond.
-4. **Customized Ability:** The GM agrees, and adjusts the Friendly Specialization to fit the setting and the new Backstory elements about Dave and his sneakers. The GM specifies how much aid Dave's "sneaker companion" provides to which Stats and adds this customized Ability to Dave's character sheet.
+4. **Customizing Specialization:** The GM agrees, and adjusts the Friendly Specialization to fit the setting and the new Backstory elements about Dave and his sneakers. The GM specifies how much aid Dave's "sneaker companion" provides to which Stats and adds this customized effect to Dave's character sheet.
 5. **Shared Storytelling:** Finally, the GM and Dave's player chat further about the flavor of this Specialization to help the GM prepare for the next session.
 
-### Character Creation · Finishing Touches!
+### Finishing Touches · Items and Appearance
 <!-- _class: creation -->
 
 Finally, **describe your character's appearance** and list **three or four items** your character always carries, within reason. These will be the items you begin the game with.
 
 You'll track a list of items that you typically carry with you, and other items you may have can be **determined in the moment**: Over the course of the story, you may perform Checks to **find** new items, **create** new items, **purchase and sell** items, and even see if you **already have** items that could be narratively reasonable for you to have.
 
-And while most items are narrative, some **higher quality items** you acquire along the way may provide aid or effects similar to some Abilities. If you don't begin the game with a Stat Die of size $d8$, **choose one item** to begin the game at a higher quality so that it provides a "receive $+1$ in aid" effect.
-
-
-### Session Shop Upgrades
-<!-- _class: ability -->
-
-At the end of each session, you receive one free Stat Upgrade for your character. This may then grant you additional upgrades from the other options described below.
-
-| Stat Upgrade `One Free` |
-| --- |
-| *Effect:* Upgrade a single Stat's die one size. |
-| *Limits:* You may have at most two Stat Dice of size $d10$ and at most three of size $d8$. |
-| *Purchase More:* You may receive an additional Stat Upgrade by spending ①①① or by downgrading one of your Stat Dice from a $d4$ to a $d2$. You may purchase additional Stat Upgrades as many times as you want and can pay for. |
-| *Other Upgrades:* When you upgrade a Stat Die to a $d6$, $d8$, or $d10$ you may receive one upgrade with the `d6`, `d8`, or `d10` tag, respectively. |
-
-| High-Quality Upgrade `d6` |
-| ------------ |
-| *Effect:* One of your mundane items becomes higher quality. It now provides a "receive $+1$ in aid" effect. |
-
-| Backstory Upgrade `d6` |
-| --- |
-| *Effect:* Make up to two changes or additions to your Backstory. |
-
----
-<!-- _class: ability -->
-
-| Ability Upgrade `d8` |
-| --- |
-| *Effect:* Become apt in a new area or further specialize in an area you're already apt in. |
-
-| Powered Upgrade `d10` |
-| ------------ |
-| *Effect:* One of your high-quality items becomes powered. It now provides a "receive $+2$ in aid" effect or another effect of your choice, within reason. |
-
-| Carefree Upgrade `d10` |
-| --- |
-| *Effect:* If your Lifestyle is Carefree, change your Lifestyle to Blossomed, Prodigious, or Crafty. |
-
-| Eager Upgrade `d10` |
-| --- |
-| *Effect:* If your Lifestyle is Eager, change your Lifestyle to Driven, Chosen, or Wired. |
-
-| Wisened Upgrade `d10` |
-| --- |
-| *Effect:* If your Lifestyle is Wisened, change your Lifestyle to Steadfast, Warry, or Compelling. |
-
-| Lost Upgrade `d10` |
-| --- |
-| *Effect:* Regardless of your current Lifestyle, change your Lifestyle to Lost. Then, at the end of a later session, you may change your Lifestyle to any other option for free. |
-
-### Abilities
-<!-- _class: ability -->
-
-| Calming Specialization |
-| --- |
-| Once per session, when you are in a safe place, you may perform a Check using Head, Heart, or an unconventional Stat balanced with them. Then up to once before the end of the session, you may use the value of that roll instead of rolling for another Check or non-violent Contest. |
-
-| Analytical Specialization |
-| --- |
-| Twice per session, you may provide Help by rolling four $d6$ and group those dice into two piles of two. If addition or multiplication could make the piles equal, increase the result of the roll you are Helping by $+5$. For example, $1$, $1$, $1$, and $2$, could be grouped this way as $1×2=1+1$. |
-
----
-<!-- _class: ability -->
-
-| Sure-footed Specialization |
-| --- |
-| Blessings you spend during Endeavors to change tracks are worth $1$ more, to a maximum of $7$. |
-
-| Protective Specialization |
-| --- |
-| When another nearby character would Defend against a violent Attack, before they roll, you may become the Defender in that Contest instead. *Recharge:* ③. |
-
-| Spiked Specialization |
-| --- |
-| When you lose against a violent Attack at a close distance, you may have your Attackers receive a less severe version of the same injury you received from losing the Contest. *Recharge:* ③. |
-
----
-<!-- _class: ability -->
-
-| Mischievous Specialization |
-| --- |
-| When another character succeeds a Check or wins a Contest, you may distract them using an item in your possession, modifying that character's result by $-3$, possibly turning their success into a failure or win into a loss. *Recharge:* ⑤. |
-
----
-<!-- _class: ability -->
-
-| Thrifted Specialization |
-| --- |
-| Blessings you spend to Help yourself while attempting to purchase goods or services are worth $1$ more, to a maximum of $7$. |
-
-| Insured Specialization |
-| --- |
-| A character may automatically succeed a Check to tend to your wounds, even after they've rolled. *Recharge:* ①. When this Ability is recharged, increase the cost to recharge it by ①①. |
-
-| Roughshod Specialization |
-| --- |
-| When you perform a special action in a Race Endeavor, you may create a terrain button anywhere along your movement. Then remove that terrain button once a character begins their movement on the same space as it. |
-
-| Shrouded Specialization |
-| --- |
-| You may call upon a higher power, criminal underground, book of forbidden knowledge, or so on to gain access to secret information or an answer to a question. This information may come with consequences. *Recharge:* ④. |
-
----
-<!-- _class: ability -->
-
-| Roguish Specialization |
-| --- |
-| Once per Stealth Endeavor, when you would be made you may instead increase the alertness of the Endeavor. |
-
-| Divining Specialization |
-| --- |
-| When you succeed a Check to decrypt an encoded or cryptic message, you gain more information than usual. |
-
-| Excessive Specialization |
-| --- |
-| Once per session, you may destroy an object in your possession. Until the end of the scene, you adopt the properties of the object, the properties of a concept associated with the object, or push the item to its breaking point. |
-
----
-<!-- _class: ability -->
-
-| Perceptive Specialization |
-| --- |
-| Once per Discovery Endeavor, when a lay of the land is given, you may choose a type of glimmer button. More of that type will be added to the track than usual. |
-
----
-<!-- _class: ability -->
-
-| Helpful Specialization |
-| --- |
-| Blessings you spend to Help another character are worth $1$ more, to a maximum of $7$. |
-
-| Background Specialization |
-| --- |
-| You may adjust the "vibe" or "music" of a situation subtly. Others can't pinpoint what changed, but the mood shifts to suit your intent. *Recharge:* ④. |
-
-| Rousing Specialization |
-| --- |
-| Once per session, when your Blessings have a total combined worth of at least $10$, you may tell a moving story or give an inspiring speech. Each other character who hears the story or speech gains a Blessing. |
-
-| Delegated Specialization |
-| --- |
-| During a Clash Endeavor, your summons may perform Spark rolls by working together in pairs, using one Stat from each, so long as the chosen Stats are balanced and you pay the Blessing cost. |
-
----
-<!-- _class: ability -->
-
-| Determined Specialization |
-| --- |
-| Once per action, you may ignore the negative effects of your injuries and conditions. *Recharge:* ③. |
-
-| Friendly Specialization |
-| --- |
-| You gain access to a creature companion, mechanical companion, or similar companion of your choice appropriate to the setting and within reason. When you would fail a Check or lose a Contest while working with your companion, receive $+X$ in aid, where $X$ depends on the companion and the Stat used, ranging from $-1$ to $+4$. Moreover, this companion has its own Backstory which extends your Backstory while you work with it. If this companion is lost, stolen, destroyed, or you lose its loyalty, replacing it may require time and effort. |
-
----
-<!-- _class: ability -->
-
-| Resolved Specialization |
-| --- |
-| When you lose against an Attack, you may reduce the outcome size one rank and gain a Blessing. *Recharge:* ④. |
-
-| Honorable Specialization |
-| --- |
-| While protecting your honor or loved ones, you may Attack violently using Hand, Home, or an unconventional Stat balanced with them, assuming a valiant stance as you do. If you are Attacked while in this stance before your next chance to act, you may Defend using the same Stat you Attacked with. *Recharge:* ③ |
-
-| Charitable Specialization |
-| --- |
-| When you visit a place of religious, spiritual, or community importance, you may spend any number of Blessings as a donation or act of service to the place. The more spent this way, the greater a possible later boon may be, determined by the GM. |
-
----
-<!-- _class: ability -->
-
-| Self-Accepted Specialization |
-| --- |
-| When you succeed Checks or win non-violent Contests in social situations while you are Uncool and using unconventional Stats, you receive greater benefits than normal. |
-
-| Ascendant Specialization |
-| --- |
-| You may perform a non-violent Spark roll using $3$ Stat Dice, so long as those Stats are balanced, each use a $d8$ or larger, and you pay double the Blessing cost as usual. |
-
-| Shameless Specialization |
-| --- |
-| Once per session, when your Blessings have a total combined worth of at least $10$, you may tell an cringy joke or perform an embarrassing dance. Each other character who hears the joke or witnesses the dance becomes Uncool. |
-
----
-<!-- _class: ability -->
-
-| Popular Specialization |
-| --- |
-| Once per session, you may end, begin, or modify one rumor. It will spread quickly, within reason, but others are not guaranteed to believe it. |
-
-| Directing Specialization |
-| --- |
-| During Endeavors, you gain the action: Ignore your current roll. Choose an ally who has not acted yet to roll a new value. They may choose a new Stat for this roll. |
-
-| Redirected Specialization |
-| --- |
-| When you lose against a non-violent Attack that was related enough to your Backstory or Aptitudes, you may have the Attacker receive a less severe version of the same effect you received from losing the Contest. *Recharge:* ③. |
-
----
-<!-- _class: ability -->
-
-| Trained Specialization |
-| --- |
-| Each time you bump your dice while using a $d8$ or larger, increase the result of the roll by an additional $+1$. |
-
-| Concentrating Specialization |
-| --- |
-| Your rolls using a $d8$ or larger also bump when you roll a $2$ on the die. |
-
-| Dominating Specialization |
-| --- |
-| In a Monstrous Endeavor, when an opponent activates a recovery or revenge button as a result of your Attack, after resolving that button it continues moving however much movement would have been prevented. |
-
----
-<!-- _class: ability -->
-
-| Harmonious Specialization |
-| --- |
-| You may perform a Spark roll using one of your Stats and one of the Stats of another willing character in the scene, so long as the chosen Stats are balanced and the Blessing cost is paid between the two characters. Doing so is considered acting as a group. |
-
-| Hostile Specialization |
-| --- |
-| During a Contest against another individual, before either character rolls, you may spend ⊜⊜ to act synchronously with your opponent. If you do, the two of you perform your rolls at the same time. When either of you would bump, you both bump. You both still maintain your own separate roll totals. This Ability may not be used at the start of an Endeavor round or doing scrambling Contest rules. |
+And while most items are narrative, some **higher quality items** you acquire along the way may provide aid or effects similar to some Specializations. If you don't begin the game with a Stat Die of size $d8$, **choose one item** to begin the game at a higher quality so that it provides a "receive $+1$ in aid" effect.
 
 ## Playing the Game
 <!-- _class: center major rules -->
@@ -718,7 +475,7 @@ We recommend providing your players a table that describes your "magic" targets 
 ### Blessing Dice
 <!-- _class: rules -->
 
-Some Abilities and other effects cost "Blessing Dice" to activate.
+Some effects cost "Blessing Dice" to activate.
 
 In general:
 
@@ -754,12 +511,12 @@ In general:
 ### Recharge
 <!-- _class: rules -->
 
-Some Abilities list a recharge Blessing cost. Once activated, these Abilities cannot be activated again until they have been recharged by paying that cost.
+Some effects list a recharge Blessing cost. Once activated, these effects cannot be activated again until they have been recharged by paying that cost.
 
 ### Helping
 <!-- _class: rules -->
 
-Characters may spend their Blessings to attempt to Help one another complete Checks and Contests. And your Abilities, events, and items in the story may also Help you in similar ways.
+Characters may spend their Blessings to attempt to Help one another complete Checks and Contests. And your effects, events, and items in the story may also Help you in similar ways.
 
 To provide Help:
 
@@ -771,9 +528,9 @@ To provide Help:
 ### Receiving Situational Aid
 <!-- _class: rules -->
 
-While you and your allies may spend Blessings to attempt to Help one another, in certain situations your Abilities, items, environment, careful planning, or so on can provide you additional Help of a different sort&mdash;for free!
+While you and your allies may spend Blessings to attempt to Help one another, in certain situations your effects, items, environment, careful planning, or so on can provide you additional Help of a different sort&mdash;for free!
 
-- **Receive Aid:** Situational aid effects describe a possible failed Check or lost Contest and say to "receive $+X$ in aid" in response. When you do, you gain a $+X$ bonus to the roll, as though you were Helped by the situation, possibly turning the failure into a success or loss into a win.
+- **Receive Aid:** Situational aid effects describe a possible failed Check or lost Contest and say to "receive $+X$ in aid" in response. When you do, you gain a $+X$ bonus to the roll, possibly turning the failure into a success or loss into a win.
 
 Also note:
 
@@ -863,17 +620,25 @@ You and your fellow players may propose plans that could direct how you set out 
 - **Making Plans:** Each roll in this group long action will correspond to a different necessary step of your group's plans.
 - **Gather Information:** Then, based on the results, the GM may provide different amounts or types of information to set you off on your "quest," representing your group's capabilities at planning and preparation.
 
-### Fortune Checks
+### Luck Checks
 <!-- _class: rules -->
 
-Some situations require characters to have luck on their side beyond mere skill, to have "made" their own luck by coming prepared, or to have already built up enough good karma.
+Some situations require characters to have luck or karma on their side beyond mere skill or to have "made" their own luck by coming prepared, such as deactivating a complex trap, finding a hiding spot during pitched combat, or passing through a ghostly portal.
 
-To perform a Fortune Check:
+To perform a Luck Check:
 
-1. **Blessing Cost:** The GM sets a Blessing cost for an action, such as deactivating a complex trap, finding a hiding spot during pitched combat, or passing through a spectral guardian's door.
+1. **Blessing Cost:** The GM sets a Blessing cost for an action, according to the Luck Costs table below.
 2. **Gain Temporary Blessings:** Then perform the relevant Check for the action. Gain a number of temporary Blessings equal to half your roll, rounded down.
-3. **Pay Blessing Cost:** Then, if possible, pay the Blessing cost and succeed the Fortune Check. If you are unable or unwilling to pay the cost, the Fortune Check fails.
+3. **Pay Blessing Cost:** Then, if possible, pay the Blessing cost and succeed the Luck Check. If you are unable or unwilling to pay the cost, the Luck Check fails.
 4. **Lose Temporary Blessings:** Finally, any remaining temporary Blessings disappear.
+
+#### Luck Costs
+
+| Cost | Description |
+| ---- | ----------- |
+| ⑥ or ⊜⊜ | You get the result you wanted, within reason. |
+| ⑤ | You get the result you wanted, with some complication. |
+| ④ | You get some of what you wanted, but mostly complication. |
 
 ### Contests
 <!-- _class: rules -->
@@ -959,7 +724,7 @@ Also note:
 
 - **Mixing Group Strategies:** These two approaches may be combined, with some members rolling and taking their median, and the other members providing Help to let the lower-rolling members attempt their rolls again. However, a group member cannot both roll and Help for the same action.
 - **Staying Grouped:** In general, once characters become a group as part of a Check or Contest, they remain a group until the end of the Check or Contest and are treated as a single character for the sake of the rules, sharing benefits and risks.
-- **Opponent Groups:** Also note, a character cannot force other characters to become a group of Defenders, unless an Ability, item, or situation would allow.
+- **Opponent Groups:** Also note, a character cannot force other characters to become a group of Defenders, unless an effect, item, or situation would allow.
 
 ### Complex Attacks
 <!-- _class: rules -->
@@ -1045,7 +810,7 @@ Also note:
 - **Sparking:** You may also spend ⊜⊜ as usual to upgrade your current roll to a Spark roll before your action. Use these to your advantage to jump ahead of your opponents to nab the special action for the round!
 - **Streamlined Success:** To streamline Endeavors, the GM allow all Checks to automatically succeed, providing larger effects for higher rolls.
 - **Receiving Aid:** If the GM does streamline Checks this way, then "recieve aid" effects would be unable to activate. At GM discretion, such effects may never activate, always activate, or only activate once per Endeavor per effect.
-- **Multiple Tracks:** If an Endeavor spans a larger playing field than normal, the GM may divide the Endeavor into two or three tracks, where who you can interact with is limited based on which track you are on. Depending on the situation, you may be able to change tracks by performing a Fortune Check. In any case, the Endeavor still only has one special action per round across all tracks.
+- **Multiple Tracks:** If an Endeavor spans a larger playing field than normal, the GM may divide the Endeavor into two or three tracks, where who you can interact with is limited based on which track you are on. Depending on the situation, you may be able to change tracks by performing a Luck Check. In any case, the Endeavor still only has one special action per round across all tracks.
 
 ### GM Guide · Large-Scale Endeavors
 <!-- _class: guide -->
@@ -1090,6 +855,7 @@ Some campaigns or sessions may involve the player characters summoning, rallying
 | Action | Description |
 | ------ | ----------- |
 | Rally&nbsp;the Team | Use your current roll to perform a Check to advance your team's objectives. Move any number of your summons up by a total amount equal to half your current roll, rounded down. |
+| Move&nbsp;to Position | Gain a number of temporary Blessings equal to half your current roll, rounded down. Then, if applicable for the Endeavor, use these to perform a Luck Check to change one of your summons' tracks. Any remaining temporary Blessings disappear at the end of next round. |
 | Provide Help | Ignore your current roll. Choose one of your summons who has not acted this round to form a group with. On their action, you may provide them Help. |
 | Call&nbsp;for Backup | Ignore your current roll. Call two new summons to your side at position $0$. You may only use this action if you have no summons. |
 | Summon&nbsp;an Ally | `Special Action` Use your current roll to perform a Check to call a new summon to your side at position $0$. The larger the roll, the more powerful the summon called, according to the Summon Stats table below. |
@@ -1172,7 +938,7 @@ Some campaigns or sessions may involve the player characters and their allies fa
 - **Goal:** To win, move all your opponents to position $0$ without your team being captured first.
 - **Actions:** There are a number of normal actions and one special action you and your allies may choose from during the Endeavor, described in the Allied Actions table below. Your opponents also have a number of actions, described in the Monstrosity Actions table below. Some Monstrosity's Abilities grant them additional actions.
 - **Buttons:** Your opponents enter the Endeavor with a number of buttons, described in the Monstrosity Buttons table below.
-- **Tracks:** Though it varies, most Monstrous Endeavors have three types of tracks: melee, ranged, and retreat. A character can move from melee to ranged, from ranged to melee or retreat, or retreat back to ranged. If a character remains in retreat long enough without an opposing character there, they successfully flee. Otherwise, when an opposing character enters the same track, it becomes a new melee track and the retreat effort must begin again.
+- **Tracks:** Though it varies, most Monstrous Endeavors have three types of tracks: melee, ranged, and retreat. You can move from melee to ranged, from ranged to melee or retreat, or retreat back to ranged. If you remain in retreat long enough without an opposing character there, you successfully flee. Otherwise, when an opposing character enters your retreat track, it becomes a new melee track and the retreat effort must begin again.
 
 ---
 <!-- _class: rules -->
@@ -1183,7 +949,7 @@ Some campaigns or sessions may involve the player characters and their allies fa
 | ------ | ----------- |
 | Perform&nbsp;an Attack | Use your current roll to Attack an opponent who has not acted this round. They roll a new value and Defend with it. If they lose this Contest, they move down by the amount they lost by. |
 | Perform&nbsp;a Check | Use your current roll to perform a Check to advance your team's objectives. Move up equal to half your current roll, rounded down. |
-| Get&nbsp;in Position | Gain a number of temporary Blessings equal to half your current roll, rounded down. Then, if applicable for the Endeavor, spend a Blessing to change tracks. Any remaining temporary Blessings disappear at the end of next round. |
+| Get&nbsp;in Position | Gain a number of temporary Blessings equal to half your current roll, rounded down. Then, if applicable for the Endeavor, use these to perform a Luck Check to change tracks. Any remaining temporary Blessings disappear at the end of next round. |
 | Group Up | Ignore your current roll. Choose an ally who has not acted this round. You form a group with them. Until the end of the round, you move with them and may provide them Help. |
 | Perform&nbsp;a Combo | `Special Action` Move up equal to your current roll. Then you and your allies may move down any total amount. Choose an opponent to move down by that same total amount. |
 
@@ -1195,7 +961,7 @@ Some campaigns or sessions may involve the player characters and their allies fa
 | Action | Description |
 | ------ | ----------- |
 | Perform&nbsp;an Attack | Use your current roll to Attack an opponent who has not acted this round. They roll a new value and Defend with it. If they lose this Contest, they move down by the amount they lost by. Then if they are at position $0$, they gain a wound button at the first position above them without one already. |
-| Get&nbsp;in Position | Gain a number of temporary Blessings equal to half your current roll, rounded down. Then, if applicable for the Endeavor, spend a Blessing to change tracks. Any remaining temporary Blessings disappear at the end of next round. |
+| Get&nbsp;in Position | Gain a number of temporary Blessings equal to half your current roll, rounded down. Then, if applicable for the Endeavor, use these to perform a Luck Check to change tracks. Any remaining temporary Blessings disappear at the end of next round. |
 | Group Up | Ignore your current roll. Choose an ally who has not acted this round. You form a group with them. Until the end of the round, you move with them and may provide them Help. |
 | Inflict Wounds | `Special Action` Choose any number of opponents with a current roll less than your Capture Roll. They each gain a wound button at the first position above them without one already, then any with three or more wounds are "taken down" and may not act the rest of the Endeavor. |
 
@@ -1245,6 +1011,7 @@ Some campaigns or sessions may involve the player characters and their allies fa
 | Ability | Description |
 | ------- | ----------- |
 | Resistance | *Minimum Difficulty:* Easy. *Effect:* When you would lose a Contest against the type of effect you have resistance against, receive $+2$ in aid. |
+| Horde | *Minimum Difficulty:* Medium. *Effect:* Each time you roll, if your position is at least half your starting position rounded down, roll an additional time and take the highest value. |
 | Propel | *Minimum Difficulty:* Medium. *Effect:* The first time you roll each round, you may exchange your roll value with one of your allies, but without changing your Stats in use. |
 | Revenge | *Minimum Difficulty:* Medium. *Effect:* You begin the Endeavor with a Revenge button at $3$ below your starting position. |
 
@@ -1283,7 +1050,7 @@ Some campaigns or sessions may involve a prolonged scene where the player charac
 | Action | Description |
 | ------ | ----------- |
 | Perform&nbsp;a Check | Use your current roll to perform a Check to advance your team's objectives. Move up equal to your current roll. |
-| Get&nbsp;in Position | Gain a number of temporary Blessings equal to half your current roll, rounded down. Then, if applicable for the Endeavor, spend a Blessing to change tracks. Any remaining temporary Blessings disappear at the end of next round. |
+| Get&nbsp;in Position | Gain a number of temporary Blessings equal to half your current roll, rounded down. Then, if applicable for the Endeavor, use these to perform a Luck Check to change tracks. Any remaining temporary Blessings disappear at the end of next round. |
 | Group Up | Ignore your current roll. Choose an ally who has not acted this round. You form a group with them. Until the end of the round, you move with them and may provide them Help. |
 | Overcome&nbsp;an Obstacle | `Special Action` Move up equal to half your current roll, rounded down. You may ignore one terrain button next round. |
 
@@ -1316,7 +1083,7 @@ Some campaigns or sessions may involve prolonged tension where the player charac
 | Move Along | Move up or down an amount equal to the largest number on your current roll's Stat Die. |
 | Look Out | Choose an ally. They may move up or down an amount equal to the largest number on your current roll's Stat Die. |
 | Find&nbsp;a Nook | Find a place to hide. Add a nook button at a position up or down from you an amount no larger than half your current roll, rounded down.
-| Get&nbsp;in Position | Gain a number of temporary Blessings equal to half your current roll, rounded down. Then, if applicable for the Endeavor, spend a Blessing to change tracks. Any remaining temporary Blessings disappear at the end of next round. |
+| Get&nbsp;in Position | Gain a number of temporary Blessings equal to half your current roll, rounded down. Then, if applicable for the Endeavor, use these to perform a Luck Check to change tracks. Any remaining temporary Blessings disappear at the end of next round. |
 | Group Up | Ignore your current roll. Choose an ally who has not acted this round. You form a group with them. Until the end of the round, you move with them and may provide them Help. |
 
 ---
@@ -1356,13 +1123,292 @@ In general however:
 | Uncool | *Effect:* Your rolls are made with a $-1$ modifier unless you are alone. *Duration:* Until removed. |
 | Vulnerable | *Effect:* When another character sees you roll the affected Stat, they may have you perform the roll again and use the new value. *Duration:* Until treated. |
 
+## Session Shop
+<!-- _class: center major ability -->
+
+### Upgrade Options
+<!-- _class: ability -->
+
+At the end of each session, you receive one free Stat Upgrade for your character. This may then grant you additional upgrades from the other options described below.
+
+| Stat Upgrade `One Free` |
+| --- |
+| *Effect:* Upgrade a single Stat's die one size. |
+| *Limits:* You may have at most two Stat Dice of size $d10$ and at most three of size $d8$. |
+| *Purchase More:* You may receive an additional Stat Upgrade by spending ①①① or by downgrading one of your Stat Dice from a $d4$ to a $d2$. You may purchase additional Stat Upgrades as many times as you want and can pay for. |
+| *Other Upgrades:* When you upgrade a Stat Die to a $d6$, $d8$, or $d10$ you may receive one upgrade with the `d6`, `d8`, or `d10` tag, respectively. |
+
+---
+<!-- _class: ability -->
+
+| High-Quality Upgrade `d6` |
+| ------------ |
+| *Effect:* One of your mundane items becomes higher quality. It now provides a "receive $+1$ in aid" effect. |
+
+| Backstory Upgrade `d6` |
+| --- |
+| *Effect:* Make up to two changes or additions to your Backstory. |
+
+| Aptitude Upgrade `d8` |
+| --- |
+| *Effect:* Become apt in a new area, based on the events of the story so far or how you would like to see your character grow. |
+
+| Specialization Upgrade `d8` |
+| --- |
+| *Effect:* Specialize in an area you're already apt in, based on the events of the story so far or how you would like to see your character grow. Select a Specialization option and explain to the GM how it relates to the Aptitude you are specializing. Then you gain that Specialization's effect or an adjusted version of it, at GM discretion. |
+
+| Powered Upgrade `d10` |
+| ------------ |
+| *Effect:* One of your high-quality items becomes powered. It now provides a "receive $+2$ in aid" effect or another effect of your choice, within reason. |
+
+---
+<!-- _class: ability -->
+
+| Carefree Upgrade `d10` |
+| --- |
+| *Effect:* If your Lifestyle is Carefree, change your Lifestyle to Blossomed, Prodigious, or Crafty. |
+
+| Eager Upgrade `d10` |
+| --- |
+| *Effect:* If your Lifestyle is Eager, change your Lifestyle to Driven, Chosen, or Wired. |
+
+| Wisened Upgrade `d10` |
+| --- |
+| *Effect:* If your Lifestyle is Wisened, change your Lifestyle to Steadfast, Warry, or Compelling. |
+
+| Lost Upgrade `d10` |
+| --- |
+| *Effect:* Regardless of your current Lifestyle, change your Lifestyle to Lost. Then, at the end of a later session, you may change your Lifestyle to any other option for free. |
+
+### Lifestyle Options
+<!-- _class: ability -->
+
+| 🌼 Blossomed Lifestyle | 
+| --- |
+| *Description:* Your carefree nature has kept you safe from harm and surrounded by friends. When you Spark, it might take on a free and connected aspect. *Effect:* Overcharge your Heart and Hurry Stats, as though you were aided by the love and connectedness you feel for those around you. |
+
+| 🔮 Prodigious Lifestyle | 
+| --- |
+| *Description:* Your studies have come effortlessly to you, and secrets almost seem to just reveal themselves to you. When you Spark, it might take on a sorcerous or uninhibited aspect. *Effect:* Overcharge your Head and Hurt Stats, as though you were aided by a raw innate power. |
+
+| 🧶 Crafty Lifestyle | 
+| --- |
+| *Description:* You can envision amazing designs and, it seems, to bring them to life. When you Spark, it might take on an autonomous or lucky aspect. *Effect:* Overcharge your Hand and Home Stats, as though you were aided by your own sudden creativity. |
+
+---
+<!-- _class: ability -->
+
+| ⚜️ Driven Lifestyle | 
+| --- |
+| *Description:* Your eager drive has found purchase in a great mission or calling. When you Spark, it might take on an incorrigible or resolute aspect. *Effect:* Overcharge your Hand and Hurt Stats, as though you were aided by your own faith in your mission. |
+
+| ✨ Chosen Lifestyle | 
+| --- |
+| *Description:* You draw inspiration from the community around you, setting out on your journeys blessed, favored, or even cursed. When you Spark, it might take on a divine or noble aspect. *Effect:* Overcharge your Heart and Home Stats, as though you were aided by the will of the people whose lives you've touched. |
+
+| ⚡ Wired Lifestyle | 
+| --- |
+| *Description:* Your mind is quick and analytical, and you can see solutions to problems that are unimaginably complex. When you Spark, it might take on a calculating or duplicative aspect. *Effect:* Overcharge your Head and Hurry Stats, as though you were aided by your own mind palace. |
+
+---
+<!-- _class: ability -->
+
+| 🪬 Steadfast Lifestyle | 
+| --- |
+| *Description:* Your wise steadiness and alertness have made you adept at warding off harm and protecting your loved ones. When you Spark, it might take on a firm or dispelling aspect. *Effect:* Overcharge your Head and Home Stats, as though you were aided by your care for others. |
+
+| 👁️ Warry Lifestyle | 
+| --- |
+| *Description:* You are one with the natural and supernatural worlds around you, and you have a keen sense of danger and safety. When you Spark, it might take on an astral or prophetic aspect. *Effect:* Overcharge your Hand and Hurry Stats, as though you were aided by knowledge only you could know in that moment. |
+
+| 👄 Compelling Lifestyle | 
+| --- |
+| *Description:* You seem able to spin any loss into a win&mdash;or vice versa&mdash;, and you are a sly, tactical force to be reckoned with. When you Spark, it might take on an illusory or vicious aspect. *Effect:* Overcharge your Heart and Hurt Stats, as though you were aided by your own ambition. |
+
+---
+<!-- _class: ability -->
+| 💎 Lost Lifestyle |
+| --- |
+| *Description:* You feel a disconnect from your own past or former sense of self, perhaps because of an exile from your home, an erased memory, or a period of transition or deep self-reflection. When you Spark, it might take on an erratic or liminal aspect. *Effect:* Overcharge your History Stat, as though you were aided by your quest for self-discovery. |
+
+### Specialization Options
+<!-- _class: ability -->
+
+| Ambidextrous Specialization |
+| --- |
+| *Effect:* You may receive aid from two items for the same roll. |
+
+| Analytical Specialization |
+| --- |
+| *Effect:* Twice per session, you may provide Help by rolling four $d6$ and group those dice into two piles of two. If addition or multiplication could make the piles equal, increase the result of the roll you are Helping by $+5$. For example, $1$, $1$, $1$, and $2$, could be grouped this way as $1×2=1+1$. |
+
+| Ascendant Specialization |
+| --- |
+| *Effect:* You may perform a non-violent Spark roll using $3$ Stat Dice, so long as those Stats are balanced, each use a $d8$ or larger, and you pay double the Blessing cost as usual. |
+
+| Calm Specialization |
+| --- |
+| *Effect:* Once per session, when you are in a safe place, you may perform a Check using Head, Heart, or an unconventional Stat balanced with them. Then up to once before the end of the session, you may use the value of that roll instead of rolling for another Check or non-violent Contest. |
+
+---
+<!-- _class: ability -->
+
+| Charitable Specialization |
+| --- |
+| *Effect:* When you visit a place of religious, spiritual, or community importance, you may spend any number of Blessings as a donation or act of service to the place. The more spent this way, the greater a possible later boon may be, determined by the GM. |
+
+| Commanding Specialization |
+| --- |
+| *Effect:* During Endeavors, you gain the action: Ignore your current roll. Choose an ally who has not acted yet to roll a new value. They may choose a new Stat for this roll. *Recharge:* ④. |
+
+| Delegated Specialization |
+| --- |
+| *Effect:* During a Clash Endeavor, your summons may perform Spark rolls by working together in pairs, using one Stat from each, so long as the chosen Stats are balanced and you pay the Blessing cost. |
+
+| Determined Specialization |
+| --- |
+| *Effect:* Once per action, you may ignore the negative effects of your injuries and conditions. *Recharge:* ③. |
+
+| Divining Specialization |
+| --- |
+| *Effect:* When you succeed a Check to decrypt an encoded or cryptic message, you gain more information than usual. |
+
+---
+<!-- _class: ability -->
+
+| Dominating Specialization |
+| --- |
+| *Effect:* In a Monstrous Endeavor, when an opponent activates a recovery or revenge button as a result of your Attack, after resolving that button it continues moving however much movement would have been prevented. |
+
+| Excessive Specialization |
+| --- |
+| *Effect:* Once per session, you may destroy an object in your possession. Until the end of the scene, you adopt the properties of the object, the properties of a concept associated with the object, or push the item to its breaking point. |
+
+| Expert Specialization |
+| --- |
+| *Effect:* Each time you bump your dice while using a $d8$ or larger, increase the result of the roll by an additional $+1$. |
+
+| Focused Specialization |
+| --- |
+| *Effect:* Your rolls using a $d8$ or larger also bump when you roll a $2$ on the die. |
+
+---
+<!-- _class: ability -->
+
+| Friendly Specialization |
+| --- |
+| *Effect:* You gain access to a creature companion, mechanical companion, or similar companion of your choice appropriate to the setting and within reason. When you would fail a Check or lose a Contest while working with your companion, receive $+X$ in aid, where $X$ depends on the companion and the Stat used, ranging from $-1$ to $+4$. Moreover, this companion has its own Backstory which extends your Backstory while you work with it. If this companion is lost, stolen, destroyed, or you lose its loyalty, replacing it may require time and effort. |
+
+| Harmonious Specialization |
+| --- |
+| *Effect:* You may perform a Spark roll using one of your Stats and one of the Stats of another willing character in the scene, so long as the chosen Stats are balanced and the Blessing cost is paid between the two characters. Doing so is considered acting as a group. |
+
+| Helpful Specialization |
+| --- |
+| *Effect:* Blessings you spend to Help another character are worth $1$ more, to a maximum of $7$. |
+
+---
+<!-- _class: ability -->
+
+| Honorable Specialization |
+| --- |
+| *Effect:* While protecting your honor or loved ones, you may Attack violently using Hand, Home, or an unconventional Stat balanced with them, assuming a valiant stance as you do. If you are Attacked while in this stance before your next chance to act, you may Defend using the same Stat you Attacked with. *Recharge:* ③ |
+
+| Hostile Specialization |
+| --- |
+| *Effect:* During a Contest against another individual, before either character rolls, you may spend ⊜⊜ to act synchronously with your opponent. If you do, the two of you perform your rolls at the same time. When either of you would bump, you both bump. You both still maintain your own separate roll totals. This effect may not be used at the start of an Endeavor round or doing scrambling Contest rules. |
+
+| Imposing Specialization |
+| --- |
+| *Effect:* The first roll you make during an Endeavor, roll an additional time and take the highest result. |
+
+| Insured Specialization |
+| --- |
+| *Effect:* A character may automatically succeed a Check to tend to your wounds, even after they've rolled. *Recharge:* ①. When this effect is recharged, increase the cost to recharge it by ①①. |
+
+---
+<!-- _class: ability -->
+
+| Mischievous Specialization |
+| --- |
+| *Effect:* When another character succeeds a Check or wins a Contest, you may distract them using an item in your possession, modifying that character's result by $-3$, possibly turning their success into a failure or win into a loss. *Recharge:* ⑤. |
+
+| Perceptive Specialization |
+| --- |
+| *Effect:* Once per Discovery Endeavor, when a lay of the land is given, you may choose a type of glimmer button. More of that type will be added to the track than usual. |
+
+| Popular Specialization |
+| --- |
+| *Effect:* Once per session, you may end, begin, or modify one rumor. It will spread quickly, within reason, but others are not guaranteed to believe it. |
+
+| Protective Specialization |
+| --- |
+| *Effect:* When another nearby character would Defend against a violent Attack, before they roll, you may become the Defender in that Contest instead. *Recharge:* ③. |
+
+| Resolved Specialization |
+| --- |
+| *Effect:* When you lose against an Attack, you may reduce the outcome size one rank and gain a Blessing. *Recharge:* ④. |
+
+---
+<!-- _class: ability -->
+
+| Roguish Specialization |
+| --- |
+| *Effect:* Once per Stealth Endeavor, when you would be made you may instead increase the alertness of the Endeavor. |
+
+| Roughshod Specialization |
+| --- |
+| *Effect:* When you perform a special action in a Race Endeavor, you may create a terrain button anywhere along your movement. Then remove that terrain button once a character begins their movement on the same space as it. |
+
+| Rousing Specialization |
+| --- |
+| *Effect:* Once per session, when your Blessings have a total combined worth of at least $10$, you may tell a moving story or give an inspiring speech. Each other character who hears the story or speech gains a Blessing. |
+
+| Self-Accepted Specialization |
+| --- |
+| *Effect:* When you succeed Checks or win non-violent Contests in social situations while you are Uncool and using unconventional Stats, you receive greater benefits than normal. |
+
+| Shameless Specialization |
+| --- |
+| *Effect:* Once per session, when your Blessings have a total combined worth of at least $10$, you may tell an cringy joke or perform an embarrassing dance. Each other character who hears the joke or witnesses the dance becomes Uncool. |
+
+---
+<!-- _class: ability -->
+
+| Shrouded Specialization |
+| --- |
+| *Effect:* You may call upon a higher power, criminal underground, book of forbidden knowledge, or so on to gain access to secret information or an answer to a question. This information may come with consequences. *Recharge:* ④. |
+
+| Spiked Specialization |
+| --- |
+| *Effect:* When you lose against a violent Attack at a close distance, you may have your Attackers receive a less severe version of the same injury you received from losing the Contest. *Recharge:* ③. |
+
+| Sure-footed Specialization |
+| --- |
+| *Effect:* Blessings you spend during Endeavors to change tracks are worth $1$ more, to a maximum of $7$. |
+
+| Thrifted Specialization |
+| --- |
+| *Effect:* Blessings you spend to Help yourself while attempting to purchase goods or services are worth $1$ more, to a maximum of $7$. |
+
+| Vibe Specialization |
+| --- |
+| *Effect:* You may adjust the "vibe" or "music" of a situation subtly. Others can't pinpoint what changed, but the mood shifts to suit your intent. *Recharge:* ④. |
+
+---
+<!-- _class: ability -->
+
+| Witty Specialization |
+| --- |
+| *Effect:* When you lose against a non-violent Attack that was related enough to your Backstory or Aptitudes, you may have the Attacker receive a less severe version of the same effect you received from losing the Contest. *Recharge:* ③. |
+
 ## Character Sheet
 <!-- _class: major center -->
 <!-- _paginate: skip -->
 
 ---
 <!-- _paginate: skip -->
-<!-- _class: art-left -->
+<!-- _class: art-left char -->
 
 ![bg left](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=)
 
@@ -1440,7 +1486,7 @@ In general however:
 
 ---
 <!-- _paginate: skip -->
-<!-- _class: art-right -->
+<!-- _class: art-right char -->
 
 ![bg right](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=)
 

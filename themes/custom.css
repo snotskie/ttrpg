@@ -63,59 +63,59 @@ section.major h2 {
     padding: .1in;
 }
 
-section.creation {
-    border-left: .5in solid var(--color-creation);
-    border-image-slice: 20;
-    border-image-source: repeating-linear-gradient(
+section.creation, div.creation {
+    background-image: repeating-linear-gradient(
         90deg,
         var(--color-creation)   0,
-        var(--color-creation-2) 20px
+        var(--color-creation-2) .5in,
+        var(--color-background) .5in,
+        var(--color-background)
     );
-    padding-left: .5in;
+    padding-left: 1in;
 }
 
-section.guide {
-    border-left: .5in solid var(--color-guide);
-    border-image-slice: 20;
-    border-image-source: repeating-linear-gradient(
+section.guide, div.guide {
+    background-image: repeating-linear-gradient(
         90deg,
         var(--color-guide)   0,
-        var(--color-guide-2) 20px
+        var(--color-guide-2) .5in,
+        var(--color-background) .5in,
+        var(--color-background)
     );
-    padding-left: .5in;
+    padding-left: 1in;
 }
 
-section.ability {
-    border-left: .5in solid var(--color-ability);
-    border-image-slice: 20;    
-    border-image-source: repeating-linear-gradient(
+section.ability, div.ability {
+    background-image: repeating-linear-gradient(
         90deg,
         var(--color-ability)   0,
-        var(--color-ability-2) 20px
+        var(--color-ability-2) .5in,
+        var(--color-background) .5in,
+        var(--color-background)
     );
-    padding-left: .5in;
+    padding-left: 1in;
 }
 
-section.quick {
-    border-left: .5in solid var(--color-quick);
-    border-image-slice: 20;    
-    border-image-source: repeating-linear-gradient(
+section.quick, div.quick {
+    background-image: repeating-linear-gradient(
         90deg,
         var(--color-quick)   0,
-        var(--color-quick-2) 20px
+        var(--color-quick-2) .5in,
+        var(--color-background) .5in,
+        var(--color-background)
     );
-    padding-left: .5in;
+    padding-left: 1in;
 }
 
-section.rules {
-    border-left: .5in solid var(--color-rules);
-    border-image-slice: 20;    
-    border-image-source: repeating-linear-gradient(
+section.rules, div.rules {
+    background-image: repeating-linear-gradient(
         90deg,
         var(--color-rules)   0,
-        var(--color-rules-2) 20px
+        var(--color-rules-2) .5in,
+        var(--color-background) .5in,
+        var(--color-background)
     );
-    padding-left: .5in;
+    padding-left: 1in;
 }
 
 /* cover page buttons */
@@ -260,7 +260,7 @@ section code {
 }
 
 /* character sheet */
-section select, section input, section textarea {
+section.char select, section.char input, section.char textarea {
     font-size: inherit;
     font-family: inherit;
     border: none;

@@ -178,14 +178,15 @@ window.addEventListener("load", function(){
             abix_line.appendChild(page_no);
             abix_line.appendChild(document.createElement("br"));
             page_no.innerText = page;
-            abix_entry_map[entry.innerHTML] = abix_line;
-            abix_entry_keys.push(entry.innerHTML);
+            abix_entry_map[entry.innerText] = abix_line;
+            abix_entry_keys.push(entry.innerText);
         }
     });
 
     i = 0;
     var abix = document.getElementById("abix");
     abix_entry_keys.sort();
+    console.log(abix_entry_keys);
     for (const key of abix_entry_keys){
         abix.appendChild(abix_entry_map[key]);
         ++i;
