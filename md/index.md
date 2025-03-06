@@ -1250,7 +1250,7 @@ At the end of each session, you receive one free Stat Upgrade for your character
 
 | Calm Specialization |
 | --- |
-| *Effect:* Once per session, when you are in a safe place, you may perform a Check using Head, Heart, or an unconventional Stat balanced with them. Then up to once before the end of the session, you may use the value of that roll instead of rolling for another Check or non-violent Contest. |
+| *Effect:* Once per session, when you are in a safe place, you may perform a Check using Head, Home, or an unconventional Stat balanced with them. Then up to once before the end of the session, you may use the value of that roll instead of rolling for another Check or non-violent Contest. |
 
 ---
 <!-- _class: ability -->
@@ -1314,7 +1314,7 @@ At the end of each session, you receive one free Stat Upgrade for your character
 
 | Honorable Specialization |
 | --- |
-| *Effect:* While protecting your honor or loved ones, you may Attack violently using Hand, Home, or an unconventional Stat balanced with them, assuming a valiant stance as you do. If you are Attacked while in this stance before your next chance to act, you may Defend using the same Stat you Attacked with. *Recharge:* ③ |
+| *Effect:* While protecting your honor or loved ones, you may Attack violently using Hand, Heart, or an unconventional Stat balanced with them, assuming a valiant stance as you do. If you are Attacked while in this stance before your next chance to act, you may Defend using the same Stat you Attacked with. *Recharge:* ③ |
 
 | Hostile Specialization |
 | --- |
