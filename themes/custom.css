@@ -255,7 +255,7 @@ section h4:before {
 /* code labels */
 section code {
     border-radius: 8pt;
-    color: #202228; /* --color-foreground in light mode */
+    color: #202228 !important; /* --color-foreground in light mode */
     --color-background-code: var(--color-ability-2);
 }
 

@@ -423,7 +423,9 @@ Finally, **describe your character's appearance** and list **three or four items
 
 You'll track a list of items that you typically carry with you, and other items you may have can be **determined in the moment**: Over the course of the story, you may perform Checks to **find** new items, **create** new items, **purchase and sell** items, and even see if you **already have** items that could be narratively reasonable for you to have.
 
-And while most items are narrative, some **higher quality items** you acquire along the way may provide aid or effects similar to some Specializations. If you don't begin the game with a Stat Die of size $d8$, **choose one item** to begin the game at a higher quality so that it provides a "receive $+1$ in aid" effect.
+And while most items are narrative, some **higher quality items** you acquire along the way may provide aid or effects similar to some Specializations.
+
+If you don't begin the game with a Stat Die of size $d8$, **choose one item** to begin the game at a higher quality so that it provides a "receive $+1$ in aid" effect.
 
 ## Playing the Game
 <!-- _class: center major rules -->
@@ -516,7 +518,7 @@ Some effects list a recharge Blessing cost. Once activated, these effects cannot
 ### Helping
 <!-- _class: rules -->
 
-Characters may spend their Blessings to attempt to Help one another complete Checks and Contests. And your effects, events, and items in the story may also Help you in similar ways.
+Characters may spend their Blessings to attempt to Help one another complete Checks and Contests.
 
 To provide Help:
 
@@ -528,7 +530,7 @@ To provide Help:
 ### Receiving Situational Aid
 <!-- _class: rules -->
 
-While you and your allies may spend Blessings to attempt to Help one another, in certain situations your effects, items, environment, careful planning, or so on can provide you additional Help of a different sort&mdash;for free!
+While you and your allies may spend Blessings to attempt to Help one another, in certain situations your effects, items, environment, careful planning, or so on  can provide you situational aid of a different sort&mdash;for free!
 
 - **Receive Aid:** Situational aid effects describe a possible failed Check or lost Contest and say to "receive $+X$ in aid" in response. When you do, you gain a $+X$ bonus to the roll, possibly turning the failure into a success or loss into a win.
 
@@ -636,9 +638,9 @@ To perform a Luck Check:
 
 | Cost | Description |
 | ---- | ----------- |
-| ⑥ or ⊜⊜ | You get the result you wanted, within reason. |
-| ⑤ | You get the result you wanted, with some complication. |
-| ④ | You get some of what you wanted, but mostly complication. |
+| ④ | Lucky |
+| ⑤ | Luckier |
+| ⑥ or ⊜⊜ | Luckiest |
 
 ### Contests
 <!-- _class: rules -->
