@@ -965,7 +965,7 @@ Some campaigns or sessions may involve the player characters and their allies fa
 | Perform&nbsp;an Attack | Use your current roll to Attack an opponent who has not acted this round. They roll a new value and Defend with it. If they lose this Contest, they move down by the amount they lost by. Then if they are at position $0$, they gain a wound button at the first position above them without one already. |
 | Get&nbsp;in Position | Gain a number of temporary Blessings equal to half your current roll, rounded down. Then, if applicable for the Endeavor, use these to perform a Luck Check to change tracks. Any remaining temporary Blessings disappear at the end of next round. |
 | Group Up | Ignore your current roll. Choose an ally who has not acted this round. You form a group with them. Until the end of the round, you move with them and may provide them Help. |
-| Inflict Wounds | `Special Action` Choose any number of opponents with a current roll less than your Capture Roll. They each gain a wound button at the first position above them without one already, then any with three or more wounds are "taken down" and may not act the rest of the Endeavor. |
+| Inflict Wounds | `Special Action` Choose an opponent, then any number of additional opponents with a current roll less than your Capture Roll. They each gain a wound button at the first position above them without one already, then any with three or more wounds are "taken down" and may not act the rest of the Endeavor. |
 
 ---
 <!-- _class: rules -->
