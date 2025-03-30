@@ -2,3 +2,10 @@ Manifest.toml
 site/build
 public/*.html
 node_modules
+shrinkwrap.yaml
+.env
+.data
+.glitchdotcom.json
+.node-gyp
+.bash_history
+.config
