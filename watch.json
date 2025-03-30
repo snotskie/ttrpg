@@ -1,0 +1,10 @@
+{
+  "install": {
+    "include": ["^package\\.json$"]
+  },
+  "restart": {
+    "exclude": ["\\.html$"],
+    "include": ["\\.md$", "\\.css$", "\\.json$", "\\.js$",  "\\.mjs$"]
+  },
+  "throttle": 2000
+}
