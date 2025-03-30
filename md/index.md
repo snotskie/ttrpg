@@ -513,6 +513,7 @@ Characters may spend their Blessings to attempt to Help one another complete Che
 
 - **Pay Help Cost:** Once per roll you may Help another character by spending ①. If you do, they roll again, taking the higher value.
 - **Help on Hard and Complex Checks:** If you Help a Check that requires multiple rolls, only the lowest of those rolls is performed again.
+- **Help on Sparks:** If you Help a Check that was Sparked, the Spark roll is performed again from scratch, but the cost does not need to be paid again.
 - **Multiple Helpers:** Multiple characters can Help the same roll if they each pay the cost.
 - **Help within Reason:** You cannot Help if you are engaged in another action or if it would be unreasonable.
 
