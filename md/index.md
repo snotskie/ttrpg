@@ -213,7 +213,7 @@ Your GM may add one of the following Stats to your game, depending on the game's
 
 | 🦠 Host Stat |
 | --- |
-| *Scope:* Drawing on the power of your symbiote to push beyond your normal capabilities. *Effect:* When you would fail a Check or lose a Contest while using this Stat, receive $+2$ in aid. There may be consequences. *Setting:* Alien paranormal suspense. |
+| *Scope:* Drawing on the power of your symbiote to push beyond your normal capabilities. *Effect:* When you would fail a Check while using this Stat, receive $+2$ in aid. There may be consequences. *Setting:* Alien paranormal suspense. |
 
 | 💀 Hardship Stat |
 | --- |
@@ -399,7 +399,7 @@ You may also become apt in additional areas or further **specialize** your apt a
 Characters in this game may have a number of unique effects based on their Aptitudes and Specializations, described below. The Session Shop chapter lists sample Specializations, which refer to rules described in the Playing the Game chapter. However, for now you should know:
 
 - **Aptitudes:** Your Aptitudes are the important and often unique narrative areas you are "apt" in.
-- **Aptitude Effect:** When you would fail a Check or lose a Contest related enough to your Aptitudes, receive $+2$ in aid.
+- **Aptitude Effect:** When you would fail a Check related enough to your Aptitudes, receive $+2$ in aid.
 - **History Stat:** You may always choose to use your History Stat in place of another Stat when the action or effect is related enough to your Backstory or Aptitudes.
 - **Specializations:** Your Specializations are the Aptitudes you have "specialized," which grant you unique effects depending on the nature of the specialization.
 - **Specializing an Aptitude:** You may specialize your Aptitudes in the Session Shop. An example is given on the next page.
@@ -463,7 +463,7 @@ To perform a Check:
 | Easy | Receive $+2$ in aid. |
 | Normal | *No effect.* |
 | Hard | Perform the Check twice. If either fails, the whole Check fails. Boons and busts stack. |
-| Complex | Perform the Check several times, at GM discretion. If more than half fail, the whole Check fails. Boons and busts stack. |
+| Complex | Perform the Check several times, at GM discretion. May require a mix of Stats or characters working together. If more than half fail, the whole Check fails. Boons and busts stack. |
 
 ### Blessing Dice
 <!-- _class: rules -->
@@ -549,22 +549,22 @@ The second approach rolls lower on average, but doesn't require you to commit to
 
 Lifestyle upgrade options overcharge one or two of a character's Stats, which provides situational aid.
 
-- **Overcharged:** When you would fail a Check or lose a Contest while performing a Spark roll using an overcharged Stat, receive $+X$ in aid, where $X$ is half the size of the die used in the Spark roll.
+- **Overcharged:** When you would fail a Check while performing a Spark roll using an overcharged Stat, receive $+X$ in aid, where $X$ is half the size of the die used in the Spark roll.
 
-### Contests
+### Attacks
 <!-- _class: rules -->
 
-Contests are similar to Checks, but performed against another character. There are two types of Contests: violent and non-violent.
+Attacks are similar to Checks, but performed against another character. There are two types of Attacks: violent and non-violent.
 
-- **Violent Contest:** A violent Contest is when a character performs an action against another character's will using Hurt. All Contests involving Hurt are potentially dangerous. Unexpected things can happen and things can get out of hand quickly.
-- **Non-violent Contest:** A non-violent Contest is when a character performs an action against another character's will using any Stat besides Hurt.
+- **Violent Attack:** A violent Attack is when a character performs an action against another character's will using Hurt. All Attacks involving Hurt are potentially dangerous. Unexpected things can happen and things can get out of hand quickly.
+- **Non-violent Attack:** A non-violent Attack is when a character performs an action against another character's will using any Stat besides Hurt.
 
-To perform a Contest:
+To perform an Attack:
 
-1. **Attack Stat:** The Attacker chooses if they are performing a violent or non-violent Contest and selects the appropriate Stat to use.
+1. **Attack Stat:** The Attacker chooses if they are performing a violent or non-violent Attack and selects the appropriate Stat to use.
 2. **Defense Stat:** The Defender chooses a Stat to represent their defense, according to the Attack and Defense Stats table below.
-3. **Difficulty:** If the Defender's Defense Stat Die is larger than the Attacker's Attack Stat Die, or if there are more Defenders than Attackers, then the Check below is Hard. If the reverse is true, then the Check is Easy. And if the Attack is a combination of actions, such as striking a foe while also jumping over a wide chasm, then the Check is Complex.
-4. **Attack:** The Attacker performs the Check with their chosen Stat.
+3. **Difficulty:** If the Defender's Defense Stat Die is larger than the Attacker's Attack Stat Die, or if there are more Defenders than Attackers, then the Check below is Hard. If the reverse is true, then the Check is Easy. And if the Attack is a combination of actions, then the Check is Complex.
+4. **Attack:** The Attacker performs the Check with their chosen Stat to determine success.
 
 ---
 <!-- _class: rules -->
@@ -578,44 +578,12 @@ To perform a Contest:
 | History | <ul><li>GM decides</li></ul> |
 | Anything else | <ul><li>Same Stat as Attacker</li><li>Any Stat balanced with that Stat</li><li>Spark two Stats balanced with that Stat</li><li>History (if related enough)</li></ul> |
 
-Also note:
-
-- **Checks vs. Contests:** Checks use the terms "fail" and "succeed," while Contests use "lose," "win," "Attack," and "Defend" instead. When an effect only mentions failing or succeeding Checks, it does not affect losing or winning Contests. And when an effect only mentions losing or winning Contests, it does not affect failing or succeeding Checks.
-
-### Group Checks and Contests
-<!-- _class: rules -->
-
-Sometimes characters want to complete actions together as a group. There are two general approaches:
-
-- **Provide Help:** One way is to provide Help to one roll that leads the group's action. Some members of the group may decide not to roll and instead wait for the group leader to roll, then provide Help to the leader by spending Blessings to let the leader reroll.
-- **Median Roll:** Another way is for each character to roll for the action, using the median of their rolls as the group's shared result. If the group roll had an even number of individual rolls, then the higher of the two median rolls is used. The Group Median Rolls table below provides a quick reference.
-
-#### Group Median Rolls
-
-| Rolls made | Roll used |
-| ---------- | --------- |
-| $2$ | Highest |
-| $3$ | Second highest |
-| $4$ | Second highest |
-| $5$ | Third highest |
-| $6$ | Third highest |
-| $7$ | Fourth highest |
-
----
-<!-- _class: rules -->
-
-Also note:
-
-- **Mixing Group Strategies:** These two approaches may be combined, with some members rolling and taking their median, and the other members providing Help to let the lower-rolling members attempt their rolls again. However, a group member cannot both roll and Help for the same action.
-- **Staying Grouped:** In general, once characters become a group as part of a Check or Contest, they remain a group until the end of the Check or Contest and are treated as a single character for the sake of the rules, sharing benefits and risks.
-- **Opponent Groups:** Also note, a character cannot force other characters to become a group of Defenders, unless an effect, item, or situation would allow.
-
 ### Delayed Attacks
 <!-- _class: rules -->
 
 Sometimes Attacks are made that are Defended against at a later time, such as setting traps or sending letters.
 
-Such delayed Attacks are performed as Contests as usual with the following adjustments:
+Such delayed Attacks are performed as usual with the following adjustments:
 
 - **Trigger:** The Attacker determines their Attack Stat, decribes what condition would activate the Attack, and writes these both down.
 - **Defend:** When the Attack is activated, the Defender performs the Check instead of the Attacker as normal. 
@@ -628,7 +596,7 @@ Sometimes, the player characters will need to race to be the first to reach some
 
 There are several different types of Endeavors depending on the scenario. However, all Endeavors build on these same general rules:
 
-- **Rounds:** Endeavors are carried out as a number of rounds in which the characters attempt actions and perform Contests and Checks to drive the narrative tension, progress themselves, and slow their opponents.
+- **Rounds:** Endeavors are carried out as a number of rounds in which the characters attempt actions and perform Checks to drive the narrative tension, progress themselves, and slow their opponents.
 - **Position Roll:** At the start of each round, choose a Stat to roll to get yourself in position for the actions you plan to take this round. The narrative for your action does not have to be fully formed, just what Stat to use. The GM may limit which Stats you can choose from in certain situations.
 - **Temporary Blessings:** Gain a number of temporary Blessings equal to half your position roll, rounded down. Any remaining temporary Blessings disappear at the end of the Endeavor.
 - **Turn Order:** Turn order follows the number of temporary Blessings, lowest to highest, with the GM resolving ties.
@@ -766,8 +734,8 @@ Some events challenge your resolve, throw you off your game, cause you great emb
 
 In general however:
 
-- **Conditions Tell Stories:** At minimum, Conditions provide effects. However, they also represent small story arcs where you face obstacles and, in spite of the Condition's effects, overcome those obstacles. When you fail a Check or lose a Contest and gain a Condition as a result, consider how your character feels about the situation and what the Condition means to them beyond mere effect.
-- **Conditions Build Connections:** Gaining and removing Conditions, and facing and overcoming obstacles, happen with other characters around. Consider, and take notes for the development of your character: Who else is around that saw the failed Check happen? How would your Hero feel about the lost Contest? And how could your connections to other characters help you remove the Condition later?
+- **Conditions Tell Stories:** At minimum, Conditions provide effects. However, they also represent small story arcs where you face obstacles and, in spite of the Condition's effects, overcome those obstacles. When you fail a Check and gain a Condition as a result, consider how your character feels about the situation and what the Condition means to them beyond mere effect.
+- **Conditions Build Connections:** Gaining and removing Conditions, and facing and overcoming obstacles, happen with other characters around. Consider, and take notes for the development of your character: Who else is around that saw the failed Check happen? How would your Hero feel about the failure? And how could your connections to other characters help you remove the Condition later?
 
 ---
 <!-- _class: rules -->
@@ -778,8 +746,8 @@ In general however:
 | --------- | ----------- |
 | Ache | *Effect:* Rolls you make with the affected Stat cannot bump. *Duration:* Until next scene. |
 | Cursed | *Effect:* Your Blessings are each worth $1$ less, to a minimum of $0$. *Duration:* Until treated. |
-| Disarmed | *Effect:* When you win with a violent Attack, reduce the outcome size one rank. *Duration:* Until treated. |
-| Famous | *Effect:* You may exert your fame over those less famous, gaining a $+2$ bonus in Contests against them, but not against the same character more than once during the same session or while you are Uncool. *Duration:* Until removed. |
+| Disarmed | *Effect:* When you succeed a violent Attack, receive one fewer boon and one additional bust than usual. *Duration:* Until treated. |
+| Famous | *Effect:* You may exert your fame over those less famous, gaining a $+2$ bonus in Attacks against them, but not against the same character more than once during the same session or while you are Uncool. *Duration:* Until removed. |
 | Taxed | *Effect:* You cannot Spark. *Duration:* Until treated. |
 | Surprised | *Effect:* Your rolls cannot bump, Spark, or use an unconventional Stat. *Duration:* Until next roll. |
 | Uncool | *Effect:* Your rolls are made with a $-1$ modifier unless you are alone. *Duration:* Until removed. |
@@ -910,7 +878,7 @@ At the end of each session, you receive one free Stat Upgrade for your character
 
 | Calm Specialization |
 | --- |
-| *Effect:* Once per session, when you are in a safe place, you may perform a Check using Head, Home, or an unconventional Stat balanced with them. Then up to once before the end of the session, you may use the value of that roll instead of rolling for another Check or non-violent Contest. |
+| *Effect:* Once per session, when you are in a safe place, you may perform a Check using Head, Home, or an unconventional Stat balanced with them. Then up to once before the end of the session, you may use the value of that roll instead of rolling for another Check. |
 
 ---
 <!-- _class: ability -->
@@ -940,7 +908,7 @@ At the end of each session, you receive one free Stat Upgrade for your character
 
 | Dominating Specialization |
 | --- |
-| *Effect:* In a Monstrous Endeavor, when an opponent activates a recovery or revenge button as a result of your Attack, after resolving that button it continues moving however much movement would have been prevented. |
+| *Effect:* In a Monstrous Endeavor, when an opponent activates a recovery or revenge button as a result of your action, after resolving that button it continues moving however much movement would have been prevented. |
 
 | Excessive Specialization |
 | --- |
@@ -959,7 +927,7 @@ At the end of each session, you receive one free Stat Upgrade for your character
 
 | Friendly Specialization |
 | --- |
-| *Effect:* You gain access to a creature companion, mechanical companion, or similar companion of your choice appropriate to the setting and within reason. When you would fail a Check or lose a Contest while working with your companion, receive $+X$ in aid, where $X$ depends on the companion and the Stat used, ranging from $-1$ to $+4$. Moreover, this companion has its own Backstory which extends your Backstory while you work with it. If this companion is lost, stolen, destroyed, or you lose its loyalty, replacing it may require time and effort. |
+| *Effect:* You gain access to a creature companion, mechanical companion, or similar companion of your choice appropriate to the setting and within reason. When you would fail a Check while working with your companion, receive $+X$ in aid, where $X$ depends on the companion and the Stat used, ranging from $-1$ to $+4$. Moreover, this companion has its own Backstory which extends your Backstory while you work with it. If this companion is lost, stolen, destroyed, or you lose its loyalty, replacing it may require time and effort. |
 
 | Harmonious Specialization |
 | --- |
@@ -976,10 +944,6 @@ At the end of each session, you receive one free Stat Upgrade for your character
 | --- |
 | *Effect:* While protecting your honor or loved ones, you may Attack violently using Hand, Heart, or an unconventional Stat balanced with them, assuming a valiant stance as you do. If you are Attacked while in this stance before your next chance to act, you may Defend using the same Stat you Attacked with. *Recharge:* ③ |
 
-| Hostile Specialization |
-| --- |
-| *Effect:* During a Contest against another individual, before either character rolls, you may spend ⊜⊜ to act synchronously with your opponent. If you do, the two of you perform your rolls at the same time. When either of you would bump, you both bump. You both still maintain your own separate roll totals. This effect may not be used at the start of an Endeavor round or doing scrambling Contest rules. |
-
 | Imposing Specialization |
 | --- |
 | *Effect:* The first roll you make during an Endeavor, roll an additional time and take the highest result. |
@@ -993,7 +957,7 @@ At the end of each session, you receive one free Stat Upgrade for your character
 
 | Mischievous Specialization |
 | --- |
-| *Effect:* When another character succeeds a Check or wins a Contest, you may distract them using an item in your possession, modifying that character's result by $-3$, possibly turning their success into a failure or win into a loss. *Recharge:* ⑤. |
+| *Effect:* When another character succeeds a Check, you may distract them using an item in your possession, modifying that character's result by $-3$, possibly turning their success into a failure or win into a loss. *Recharge:* ⑤. |
 
 | Perceptive Specialization |
 | --- |
@@ -1005,11 +969,11 @@ At the end of each session, you receive one free Stat Upgrade for your character
 
 | Protective Specialization |
 | --- |
-| *Effect:* When another nearby character would Defend against a violent Attack, before they roll, you may become the Defender in that Contest instead. *Recharge:* ③. |
+| *Effect:* When another nearby character would Defend against a violent Attack, before rolls are performed, you may become the Defender instead. *Recharge:* ③. |
 
 | Resolved Specialization |
 | --- |
-| *Effect:* When you lose against an Attack, you may reduce the outcome size one rank and gain a Blessing. *Recharge:* ④. |
+| *Effect:* When you lose against an Attack, the Attacker receives one fewer boon and one additional bust than usual, and you gain a Blessing. *Recharge:* ④. |
 
 ---
 <!-- _class: ability -->
@@ -1028,7 +992,7 @@ At the end of each session, you receive one free Stat Upgrade for your character
 
 | Self-Accepted Specialization |
 | --- |
-| *Effect:* When you succeed Checks or win non-violent Contests in social situations while you are Uncool and using unconventional Stats, you receive greater benefits than normal. |
+| *Effect:* When you succeed Checks in social situations while you are Uncool and using unconventional Stats, you receive an additional boon. |
 
 | Shameless Specialization |
 | --- |
@@ -1043,7 +1007,7 @@ At the end of each session, you receive one free Stat Upgrade for your character
 
 | Spiked Specialization |
 | --- |
-| *Effect:* When you lose against a violent Attack at a close distance, you may have your Attackers receive a less severe version of the same injury you received from losing the Contest. *Recharge:* ③. |
+| *Effect:* When a violent Attack succeeds against you at a close distance, you may have your Attackers receive a less severe version of the same injury you received from losing the Contest. *Recharge:* ③. |
 
 | Sure-footed Specialization |
 | --- |
@@ -1062,7 +1026,7 @@ At the end of each session, you receive one free Stat Upgrade for your character
 
 | Witty Specialization |
 | --- |
-| *Effect:* When you lose against a non-violent Attack that was related enough to your Backstory or Aptitudes, you may have the Attacker receive a less severe version of the same effect you received from losing the Contest. *Recharge:* ③. |
+| *Effect:* When a non-violent Attack related enough to your Backstory or Aptitudes succeeds against you, you may have the Attacker receive a less severe version of the same effect you received from losing the Contest. *Recharge:* ③. |
 
 ## Character Sheet
 <!-- _class: major center -->
