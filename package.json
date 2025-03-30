@@ -1,8 +1,22 @@
 {
-    "name": "ttrpg",
-    "version": "0.0.0",
-    "author": "snotskie <snotskie@gmail.com>",
-    "devDependencies": {
-      "@marp-team/marp-cli": "^4.1.1"
-    }
+  "name": "ttrpg",
+  "version": "0.0.0",
+  "author": "snotskie <snotskie@gmail.com>",
+  "scripts": {
+    "start": "npm run build && serve ./public -c ../serve.json",
+    "build": "TAG=vX.Y.Z npx marp --html --template=bare --input-dir ./md -o ./public "
+  },
+  "engines": {
+    "node": "16.x"
+  },
+  "devDependencies": {
+    "@marp-team/marp-cli": "^4.1.2"
+  },
+  "dependencies": {
+    "@marp-team/marp-cli": "^4.1.2",
+    "serve": "^14.2.4"
+  },
+  "glitch": {
+    "projectType": "generated_static"
   }
+}
