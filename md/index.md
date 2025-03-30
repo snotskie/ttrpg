@@ -228,11 +228,11 @@ Your GM may add one of the following Stats to your game, depending on the game's
 
 | 🌳 Hardy Stat |
 | --- |
-| *Scope:* Shared narrative elements emerging from each session's obstacles and players' combined efforts against the challenges they've faced. *Effect:* This Stat is shared by all players at the table, and it cannot be upgraded by the normal means. Instead, it begins each session as a $d2$. When a player fails a Check or loses a Contest against a non-player character, this Stat upgrades to the next die size, to a maximum of a $d10$. Any player may choose to use the Hardy Stat Die instead of one of their other Stat Dice for any roll; when they do, this Stat returns to a $d2$. *Setting:* Coming of age. |
+| *Scope:* Shared narrative elements emerging from each session's obstacles and players' combined efforts against the challenges they've faced. *Effect:* This Stat is shared by all players at the table, and it cannot be upgraded by the normal means. Instead, it begins each session as a $d2$. When a player fails a Check, this Stat upgrades to the next die size, to a maximum of a $d10$. Any player may choose to use the Hardy Stat Die instead of one of their other Stat Dice for any roll; when they do, this Stat returns to a $d2$. *Setting:* Coming of age. |
 
 | ⚫ Haze Stat |
 | --- |
-| *Scope:* Dark narrative elements representing a character's descent into madness or confusion. *Effect:* This die begins the game as a $d2$ and only changes when the character fails certain Checks or loses certain Contests against the ever-present darkness, at which point it increases by one die size. When another character makes an action against this character, that other character may choose to use this character's Haze Stat Die instead of their own usual die for the roll. *Setting:* Psychological horror. |
+| *Scope:* Dark narrative elements representing a character's descent into madness or confusion. *Effect:* This die begins the game as a $d2$ and only changes when the character fails certain Checks against the ever-present darkness, at which point it increases by one die size. When another character makes an action against this character, that other character may choose to use this character's Haze Stat Die instead of their own usual die for the roll. *Setting:* Psychological horror. |
 
 ### Stat Dice
 <!-- _class: rules -->
@@ -412,7 +412,7 @@ Example Specialization:
 
 1. **Starting Aptitude:** Dave is a rookie cop. During his time in training, he became apt at Obstacles Courses.
 2. **Choosing Specialization:** Then over the course of the story, he specialized his Obstacles Course Aptitude further, with an interest in taking the Friendly Specialization. 
-3. **Explaining Specialization:** Dave's player explains how Dave has a close relationship with his sneakers, which should be able to grant him bonuses on his Checks and Contests beyond just running through Obstacle Courses, due to the storied history he shares with his shoes and the power of their bond.
+3. **Explaining Specialization:** Dave's player explains how Dave has a close relationship with his sneakers, which should be able to grant him bonuses on his Checks beyond just running through Obstacle Courses, due to the storied history he shares with his shoes and the power of their bond.
 4. **Customizing Specialization:** The GM agrees, and adjusts the Friendly Specialization to fit the setting and the new Backstory elements about Dave and his sneakers. The GM specifies how much aid Dave's "sneaker companion" provides to which Stats and adds this customized effect to Dave's character sheet.
 5. **Shared Storytelling:** Finally, the GM and Dave's player chat further about the flavor of this Specialization to help the GM prepare for the next session.
 
@@ -433,7 +433,7 @@ If you don't begin the game with a Stat Die of size $d8$, **choose one item** to
 ### Checks
 <!-- _class: rules -->
 
-Most situations in this game can be resolved by performing a Check or a Contest (described later in this chapter).
+Most situations in this game can be resolved by performing a Check.
 
 To perform a Check:
 
@@ -509,7 +509,7 @@ Some effects list a recharge Blessing cost. Once activated, these effects cannot
 ### Helping
 <!-- _class: rules -->
 
-Characters may spend their Blessings to attempt to Help one another complete Checks and Contests.
+Characters may spend their Blessings to attempt to Help one another succeed Checks.
 
 - **Pay Help Cost:** Once per roll you may Help another character by spending ①. If you do, they roll again, taking the higher value.
 - **Help on Hard and Complex Checks:** If you Help a Check that requires multiple rolls, only the lowest of those rolls is performed again.
@@ -522,7 +522,7 @@ Characters may spend their Blessings to attempt to Help one another complete Che
 
 While you and your allies may spend Blessings to attempt to Help one another, in certain situations your effects, items, environment, careful planning, or so on  can provide you situational aid of a different sort.
 
-- **Receive Aid:** Situational aid effects describe a possible failed Check or lost Contest and say to "receive $+X$ in aid" in response. When you do, you gain a $+X$ bonus to the roll, possibly turning the failure into a success or loss into a win.
+- **Receive Aid:** Situational aid effects describe a possible failed Check and say to "receive $+X$ in aid" in response. When you do, you gain a $+X$ bonus to the roll, possibly turning the failure into a success.
 
 Also note:
 
@@ -1008,7 +1008,7 @@ At the end of each session, you receive one free Stat Upgrade for your character
 
 | Spiked Specialization |
 | --- |
-| *Effect:* When a violent Attack succeeds against you at a close distance, you may have your Attackers receive a less severe version of the same injury you received from losing the Contest. *Recharge:* ③. |
+| *Effect:* When a violent Attack succeeds against you at a close distance, you may have your Attackers receive a less severe version of the same injury you received. *Recharge:* ③. |
 
 | Sure-footed Specialization |
 | --- |
@@ -1027,7 +1027,7 @@ At the end of each session, you receive one free Stat Upgrade for your character
 
 | Witty Specialization |
 | --- |
-| *Effect:* When a non-violent Attack related enough to your Backstory or Aptitudes succeeds against you, you may have the Attacker receive a less severe version of the same effect you received from losing the Contest. *Recharge:* ③. |
+| *Effect:* When a non-violent Attack related enough to your Backstory or Aptitudes succeeds against you, you may have the Attacker receive a less severe version of the same effect you received. *Recharge:* ③. |
 
 ## Character Sheet
 <!-- _class: major center -->
