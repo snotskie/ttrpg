@@ -437,42 +437,33 @@ Most situations in this game can be resolved by performing a Check or a Contest 
 
 To perform a Check:
 
-1. **GM Discretion:** The GM will let you know which Stat is normally associated with the action and a target number you will need to hit based on the difficulty of the action, as described in the Check Targets table below.
+1. **GM Discretion:** The GM will let you know which Stat is normally associated with the action and if the action will be easier or harder than normal, as described in the Easy and Hard Checks table below.
 2. **Choose Stat:** Choose a Stat to roll. Your options are the Stat normally associated with the action, any Stat you have balanced with that Stat, or History if the action is related enough to your Backstory or Aptitudes.
 3. **Roll:** Roll your Stat Die for the chosen Stat.
-4. **Outcome:** If the result of the roll meets or beats the GM's target number, then the Check succeeds. Otherwise, it fails.
-
-#### Check Targets
-
-| Difficulty | Target |
-| ---------- | ------ |
-| Easy | $4$ |
-| Medium | $8$ |
-| Hard | $12$ |
-| Severe | $16$ |
-| Trial | $20$ |
+4. **Outcome:** The higher you roll, the greater your degree of success, as described in the Check Outcomes table below.
+5. **Boons and Busts:** Some successes grant you additional benefits, called "boons," while others are accompanied by complications, called "busts." If you get a boon and a bust on the same Check, they do not cancel each other out, but lead to a more nuanced result.
 
 ---
 <!-- _class: rules -->
 
-Also note:
+#### Check Outcomes
 
-- **Medium Difficulty:** A "Medium difficult" target is considered the average for rolls in most situations the players will get themselves into.
-- **Adjusted Difficulty:** For situations where the GM surprises the players and they don't have the chance to prepare for before reacting, it is recommended the GM lower the difficulty by $1$ to $3$ because such Checks are more likely to use characters' lower Stat Dice.
+| Roll | Outcome |
+| ---- | ------- |
+| $4$ or less | Failure |
+| $5$, $6$, or $7$ | Minor Success: Check succeeds, with a bust. |
+| $8$, $9$, $10$ | Medium Success: Check succeeds. |
+| $11-19$ | Major Success: Check succeeds, with a boon. The higher the roll, the greater the boon. |
+| $20+$ | Maximum Success: Check succeeds with an exceptional boon. |
 
-### GM Guide · Setting Targets for Magic
-<!-- _class: guide -->
+#### Easy and Hard Checks
 
-If your setting has "magic" or other supernatural, reality-bending player capabilities, the way you set targets for these Checks depends on the nature of "magic" in your setting. 
-
-We recommend providing your players a table that describes your "magic" targets for them:
-
-- Each row of the table corresponds to a Check target, from Easy to Severe.
-- Each column corresponds to a "school of magic" or category of supernatural effect.
-- Each cell describes examples of what a supernatural action of that Check target and category might look like.
-- Players and you determine which cells are most like what the player wants to achieve with their effect, and the highest Check target among those cells is the Check target their roll will need to meet, with you having final say on the exact Check target.
-- Increase the Check target they need to hit if they are pushing the area, duration, or nature of the effect further than normal; if they are untrained in the effect or it is outside their "school of magic"; or if the effect requires forbidden knowledge.
-- Performing supernatural effects requiring beyond a Severe Check target requires a "quest" to do so.
+| Difficulty | Effect |
+| ---------- | ------ |
+| Easy | Receive $+2$ in aid. |
+| Normal | *No effect.* |
+| Hard | Perform the Check twice. If either fails, the whole Check fails. Boons and busts stack. |
+| Complex | Perform the Check several times, at GM discretion. If more than half fail, the whole Check fails. Boons and busts stack. |
 
 ### Blessing Dice
 <!-- _class: rules -->
@@ -508,7 +499,7 @@ In general:
 | ----------- | ----------- |
 | Milestones | Gain a number of Blessings for completing important story milestones. |
 | Creativity | Gain a Blessing Die for good role play and creative solutions. |
-| High Roll | Gain a Blessing Die the first time each session you succeed a Check with a Medium or higher target or win a Contest with a Medium or higher outcome size. Each other player whose character witnessed or heard about that high roll also gains a Blessing. |
+| High Roll | Gain a Blessing Die on your first Major Success each session. Each other player whose character witnessed or heard about that high roll also gains a Blessing. |
 
 ### Recharge
 <!-- _class: rules -->
@@ -520,17 +511,15 @@ Some effects list a recharge Blessing cost. Once activated, these effects cannot
 
 Characters may spend their Blessings to attempt to Help one another complete Checks and Contests.
 
-To provide Help:
-
-1. **Note the Success/Victory Gap:** Make note of how much higher the character needs to roll to achieve their goals: to succeed the Check or win the Contest (described below) with at least a certain outcome size (also described below). This amount is the "success/victory gap."
-2. **Pay Help Cost:** Once per roll, whether your own or another character's, when your character could reasonably assist with the action and is not currently engaged in another action, you may attempt to Help by spending Ⓧ, where $X$ is the success/victory gap.
-3. **Attempt Help:** Then, the character you Helped performs their roll again. If the new roll is higher than their position roll, their roll takes the new value or the value they were originally trying to reach, whichever is lower.
-4. **Additional Help:** The Help gained above can lower the success/victory gap, reducing the cost to Help the character further, if there are additional characters nearby who have not Helped them yet and are willing to pay the cost.
+- **Pay Help Cost:** Once per roll you may Help another character by spending ①. If you do, they roll again, taking the higher value.
+- **Help on Hard and Complex Checks:** If you Help a Check that requires multiple rolls, only the lowest of those rolls is performed again.
+- **Multiple Helpers:** Multiple characters can Help the same roll if they each pay the cost.
+- **Help within Reason:** You cannot Help if you are engaged in another action or if it would be unreasonable.
 
 ### Receiving Situational Aid
 <!-- _class: rules -->
 
-While you and your allies may spend Blessings to attempt to Help one another, in certain situations your effects, items, environment, careful planning, or so on  can provide you situational aid of a different sort&mdash;for free!
+While you and your allies may spend Blessings to attempt to Help one another, in certain situations your effects, items, environment, careful planning, or so on  can provide you situational aid of a different sort.
 
 - **Receive Aid:** Situational aid effects describe a possible failed Check or lost Contest and say to "receive $+X$ in aid" in response. When you do, you gain a $+X$ bonus to the roll, possibly turning the failure into a success or loss into a win.
 
@@ -562,86 +551,6 @@ Lifestyle upgrade options overcharge one or two of a character's Stats, which pr
 
 - **Overcharged:** When you would fail a Check or lose a Contest while performing a Spark roll using an overcharged Stat, receive $+X$ in aid, where $X$ is half the size of the die used in the Spark roll.
 
-### Coming Prepared
-<!-- _class: rules -->
-
-You may perform a Home Check to see if you already came prepared with just the item you need.
-
-The target needed for such Checks is up to GM discretion. However, in general:
-
-- **Suspension of Disbelief:** The target you will need to reach may depend on details such as how common, niche, specialized, rare, or unique in the world the desired item is; how probable it would be to already have that item; and how many items your character already has listed. These sorts of details greatly affect the suspension of disbelief that your character really could have the item in question.
-- **Risk of Failure:** When you fail a Check to see if you already came prepared with an item, you may be unable to perform these Checks again until the end of the scene or session. And if you fail by a large amount, you may drop or break other items in your possession while digging around in your bag, alert others to your location, or so on.
-
-### Shopping
-<!-- _class: rules -->
-
-Performing Home Checks to shop, trade, or so on is similar to performing Home Checks to see if you already came prepared with an item.
-
-In general for shopping:
-
-- **Stocked Shops Provide Aid:** If you are shopping in a place where it would be reasonable to find the desired item, and if would be reasonable for you to have the money or goods to trade for that item, then you may receive situational aid on the Check.
-- **Risk of Failure:** Like coming prepared, if you fail a Check to shop, you may be unable to do so again until the end of the scene or session, you may lose one of your other items in a bad deal, you may anger shopkeepers or be accused of shoplifting, or so on.
-
-### Crafting
-<!-- _class: rules -->
-
-Crafting new items from your surroundings, tools, and supplies is a long action. This is because crafting usually requires a number of tasks that span the scope of multiple Stats:
-
-For example:
-
-- **Home:** Gathering high quality supplies.
-- **Head:** Gaining knowledge of how to construct the desired object.
-- **Hand or Home:** Gathering or constructing the necessary tools.
-- **Hand:** Constructing the desired object, which can involve multiple steps depending on the complexity.
-- **Heart:** Improvising adjustments when tools or supplies break or when one's initial plans were imperfect.
-- **Hex, Ham, Hologram, or so on:** Meddling with the forces of the universe (for settings that have a Stat for the "magic" of the world).
-
----
-<!-- _class: rules -->
-
-In general:
-
-- **Quality:** The target you will need to hit for this craft long action will depend on the intended "quality" or effect of your desired item, as described in the Crafted Item Quality table below. Items that would require Trial-level difficulty usually require substantial roleplay, effort, or "quests" beyond performing Checks.
-- **Flaws:** Crafted items may come with flaws, even if you succeed overall. How flaws are introduced depends on how the GM chooses to resolve the craft long action.
-- **Simple Flaws:** The GM may provide two targets for you to hit. To succeed you will need to hit the lower target, but to succeed without flaws or limitations you will need to hit the higher target.
-- **Thorough Flaws:** The GM may require you to make multiple Checks. To succeed at crafting you will need to succeed on at least half of the individual Checks, with each failed Check introducing the chance for a flaw or limitation.
-
-#### Crafted Item Quality
-
-| Item quality | Typical difficulty | Description |
-| ------------ | -------------------- | ----------- |
-| Mundane | Easy or Medium | Narrative function only |
-| High-Quality Mundane | Medium or Hard | Provides a "receive $+1$ in aid" effect |
-| Powered | Severe | Provides a "receive $+2$ in aid" effect |
-
-### Setting Out
-<!-- _class: rules -->
-
-You and your fellow players may propose plans that could direct how you set out on a series of scenes, sessions, or whole campaign. When you do, the GM may ask for a set of rolls similar to a group long action.
-
-- **Making Plans:** Each roll in this group long action will correspond to a different necessary step of your group's plans.
-- **Gather Information:** Then, based on the results, the GM may provide different amounts or types of information to set you off on your "quest," representing your group's capabilities at planning and preparation.
-
-### Luck Checks
-<!-- _class: rules -->
-
-Some situations require characters to have luck or karma on their side beyond mere skill or to have "made" their own luck by coming prepared, such as deactivating a complex trap, finding a hiding spot during pitched combat, or passing through a ghostly portal.
-
-To perform a Luck Check:
-
-1. **Blessing Cost:** The GM sets a Blessing cost for an action, according to the Luck Costs table below.
-2. **Gain Temporary Blessings:** Then perform the relevant Check for the action. Gain a number of temporary Blessings equal to half your roll, rounded down.
-3. **Pay Blessing Cost:** Then, if possible, pay the Blessing cost and succeed the Luck Check. If you are unable or unwilling to pay the cost, the Luck Check fails.
-4. **Lose Temporary Blessings:** Finally, any remaining temporary Blessings disappear.
-
-#### Luck Costs
-
-| Cost | Description |
-| ---- | ----------- |
-| ④ | Lucky |
-| ⑤ | Luckier |
-| ⑥ or ⊜⊜ | Luckiest |
-
 ### Contests
 <!-- _class: rules -->
 
@@ -652,53 +561,26 @@ Contests are similar to Checks, but performed against another character. There a
 
 To perform a Contest:
 
-1. **Attack:** The Attacker rolls the appropriate Stat.
-2. **Defense:** The Defender chooses a Stat to roll, according to the Stat used by the Attacker and the Defense Options table below.
-3. **Help Effects:** If the Attacker, Defender, or either of their allies have Help effects, resolve these effects one at a time, first "receive aid" effects, then Defender Help, then Attacker Help.
-4. **Outcome:** The action's effect is only successful if the Attacker rolls higher than the Defender. The size of the effect is determined by the difference between their scores according to the Outcome Sizes and Contest Effects tables below.
-5. **Defender Victory:** In some Contests, at GM discretion, when the Defender wins by enough, they may receive an outcome as though they were the Attacker instead. By default however, Defender victory simply nullifies the Attack's intended effect.
+1. **Attack Stat:** The Attacker chooses if they are performing a violent or non-violent Contest and selects the appropriate Stat to use.
+2. **Defense Stat:** The Defender chooses a Stat to represent their defense, according to the Attack and Defense Stats table below.
+3. **Difficulty:** If the Defender's Defense Stat Die is larger than the Attacker's Attack Stat Die, or if there are more Defenders than Attackers, then the Check below is Hard. If the reverse is true, then the Check is Easy. And if the Attack is a combination of actions, such as striking a foe while also jumping over a wide chasm, then the Check is Complex.
+4. **Attack:** The Attacker performs the Check with their chosen Stat.
 
 ---
 <!-- _class: rules -->
 
-#### Defense Options
+#### Attack and Defense Stats
 
-| Attacker Rolls | Defender Roll Options |
+| Attack Stat | Defense Stat |
 | -------------- | -------------- |
 | Hurt | <ul><li>Hurry</li><li>Any Stat balanced with Hurry</li><li>Spark two Stats balanced with Hurry</li><li>History (if related enough)</li></ul> |
 | Hurry | <ul><li>Hurt</li><li>Any Stat balanced with Hurt</li><li>Spark two Stats balanced with Hurt</li><li>History (if related enough)</li></ul> |
 | History | <ul><li>GM decides</li></ul> |
 | Anything else | <ul><li>Same Stat as Attacker</li><li>Any Stat balanced with that Stat</li><li>Spark two Stats balanced with that Stat</li><li>History (if related enough)</li></ul> |
 
-#### Outcome Sizes
-
-| Outcome size | Roll this much more than your opponent |
-| --- | --- |
-| Very Minor | $0-1$ |
-| Minor | $2-3$ |
-| Medium | $4-5$ |
-| Major | $6-7$ |
-| Very Major | $8-9$ |
-| Maximum | $10+$ |
-
----
-<!-- _class: rules -->
-
-#### Contest Effects
-
-| Outcome size | Contest effect |
-| ------------ | -------------- |
-| Very Minor or Minor | Attacker gets what they want, with complications, and the advantage is momentary. |
-| Medium | Attacker gets what they want, without complications, and the advantage lasts several rolls or shifts the narrative of the scene. |
-| Major or Very Major | Attacker gets what they want, shifting the narrative arc of the session or several sessions. The ramifications of negative effects may be serious though not life-threathening. |
-| Maximum | Attacker has likely gone too far for what they intended. Negative effects are serious, possibly needing immediate attention or miracle, shifting the narrative arc of several sessions or the campaign. |
-
----
-<!-- _class: rules -->
-
 Also note:
 
-- **Checks vs. Contests:** Checks use the terms "fail," "succeed," and "target," while Contests use "lose," "win," "Attack," "Defend," and "outcome size" instead. When an effect only mentions failing or succeeding Checks, it does not affect losing or winning Contests. And when an effect only mentions losing or winning Contests, it does not affect failing or succeeding Checks.
+- **Checks vs. Contests:** Checks use the terms "fail" and "succeed," while Contests use "lose," "win," "Attack," and "Defend" instead. When an effect only mentions failing or succeeding Checks, it does not affect losing or winning Contests. And when an effect only mentions losing or winning Contests, it does not affect failing or succeeding Checks.
 
 ### Group Checks and Contests
 <!-- _class: rules -->
@@ -728,14 +610,6 @@ Also note:
 - **Staying Grouped:** In general, once characters become a group as part of a Check or Contest, they remain a group until the end of the Check or Contest and are treated as a single character for the sake of the rules, sharing benefits and risks.
 - **Opponent Groups:** Also note, a character cannot force other characters to become a group of Defenders, unless an effect, item, or situation would allow.
 
-### Complex Attacks
-<!-- _class: rules -->
-
-Sometimes a character's Attack is itself a complex action normally requiring a Check, such as striking a foe while also jumping over a wide chasm.
-
-1. **Complex Attack Threshold:** In complex Attacks, the GM may set a threshold the Attacker needs to clear. The Attack's effect is only successful if the Attacker rolls higher than both the Defender's roll and the GM's threshold. This way, even if the Defender rolls low, they still win the Contest if the Attacker fails to clear the threshold.
-2. **Adjusted Outcome Size:** If both characters roll lower than the threshold, the outcome is determined as though the Defender had rolled that threshold instead.
-
 ### Delayed Attacks
 <!-- _class: rules -->
 
@@ -743,42 +617,9 @@ Sometimes Attacks are made that are Defended against at a later time, such as se
 
 Such delayed Attacks are performed as Contests as usual with the following adjustments:
 
-- **Delay:** The Attacker performs their roll, decribes what condition would activate the Attack, and writes these both down.
-- **Activate:** The Defender rolls against the Attacker's roll whenever the Attack would be activated.
-
-Also note:
-
-- **Limited Attacker Aid:** The Attacker cannot activate "receive aid" effects if they are not present when the Attack is activated. The Defender can still activate "receive aid" effects as usual.
-
-### Long Actions
-<!-- _class: rules -->
-
-A long action is any action that is multi-step, spans a longer period of time than most other actions, and involves the scope of multiple Stats. For example, formulating a plan for a heist, engaging in political intrigue, piloting a crewed vessel, or running a business.
-
-There are two approaches the GM may take to resolve long actions:
-
-- **Simple Long Action:** The GM may ask for a single Check or Contest, using only the single Stat that the long action's success or victory most turns on. The bar for success or victory without difficulties or complications may be higher than usual in this case.
-- **Thorough Long Action:** The GM may ask for multiple Checks or Contests using the various Stats involved in the long action. For overall success or victory, at least half of these rolls will need to win or succeed. However, each failure or loss may incur difficulties or complications on top of that success.
-
-### Scrambling Contests
-<!-- _class: rules -->
-
-Some Contests are fast and chaotic, with both sides rapidly changing their plans and the Stats that would be involved&mdash;yet without amounting to the level of tension covered by Eneavors described later in this chapter. For example, quick bouts, fisticuffs, cartoonish outbreaks of "violence," and short and dramatic card games.
-
-To perform a scrambling Contest:
-
-1. **Half-Baked Attacks:** Quickly choose a Stat to roll, as though you were Attacking. The narrative for your Attacks do not have to be fully formed&mdash;just what Stat to use. The GM may limit which Stats may be chosen for this Contest.
-2. **Scramble:** If you rolled highest, you choose how to "scramble" the Contest. Choose which Stats everyone uses for the next roll, and you may choose different Stats for different characters. You just can't choose a Stat for a character that the character has already rolled this Contest. 
-3. **Repeat:** Repeat the above step until a character has no Stats left to roll.
-4. **Final Round:** If you rolled the highest during the final round of rolls, you win the overall Contest. But if you rolled very low on any of your rolls in previous rounds, then your victory may have complications.
-5. **Outcome Size:** Narrate and determine the final outcome of the Contest. The outcome is determined using your final roll as an Attack and everyone else's rolls as a group Defense.
-
----
-<!-- _class: rules -->
-
-Also note:
-
-- **Scrambling Sparks:** If a character Sparks a roll during a scrambling Contest, the Spark roll must involve the Stat chosen for the character to use, it may not involve a Stat the character has already rolled for that Contest, and for the sake of the scrambling Contest it uses up both Stats involved.
+- **Trigger:** The Attacker determines their Attack Stat, decribes what condition would activate the Attack, and writes these both down.
+- **Defend:** When the Attack is activated, the Defender performs the Check instead of the Attacker as normal. 
+- **Difficulty:** If the Defender's Defense Stat Die is larger than the Attacker's Attack Stat Die, then the Check is Easy. If the reverse is true, then the Check is Hard.
 
 ### General Endeavor Rules
 <!-- _class: rules -->
@@ -789,8 +630,8 @@ There are several different types of Endeavors depending on the scenario. Howeve
 
 - **Rounds:** Endeavors are carried out as a number of rounds in which the characters attempt actions and perform Contests and Checks to drive the narrative tension, progress themselves, and slow their opponents.
 - **Position Roll:** At the start of each round, choose a Stat to roll to get yourself in position for the actions you plan to take this round. The narrative for your action does not have to be fully formed, just what Stat to use. The GM may limit which Stats you can choose from in certain situations.
-- **Temporary Blessings:** Like a Luck Check, gain a number of temporary Blessings equal to half your position roll, rounded down. Any remaining temporary Blessings disappear at the end of the Endeavor.
-- **Turn Order:** Characters take turns in order from lowest to highest position roll, with the GM resolving ties.
+- **Temporary Blessings:** Gain a number of temporary Blessings equal to half your position roll, rounded down. Any remaining temporary Blessings disappear at the end of the Endeavor.
+- **Turn Order:** Turn order follows the number of temporary Blessings, lowest to highest, with the GM resolving ties.
 
 *Continued on next page.*
 
@@ -807,12 +648,13 @@ There are several different types of Endeavors depending on the scenario. Howeve
 
 Also note:
 
-- **Increasing Rolls:** Before you use your position roll as part of an action, you may Help yourself and Spark as usual to increase its value. Whenever you do, gain a number of additional temporary Blessings equal to half the increase, rounded down. Use this to your advantage to jump ahead of your opponents to nab the special action for the round!
-- **Decreasing Rolls:** If your position roll ever decreases, you do not lose temporary Blessings.
-- **Shifting Turn Order:** If your position roll increases or decreases before you take your turn, the turn order may change so that whoever has not acted yet and holds the lowest position roll goes next.
+- **Increasing Rolls:** Before you use your position roll as part of an action, you may receive Help and Spark as usual to increase its value, but this will not give you more temporary Blessings. 
+- **Shifting Turn Order:** If your number of temporary Blessings increases or decreases before you take your turn, the turn order may change so that whoever has not acted yet and has the least temporary Blessings goes next.
 
 ### 🧟 Monstrous Endeavors
 <!-- _class: rules -->
+
+TODO rework
 
 Some campaigns or sessions may involve the player characters and their allies facing off against Monstrosities, like zombies, robots, or the manifestation of someone's fear!
 
@@ -846,8 +688,6 @@ Some campaigns or sessions may involve the player characters and their allies fa
 <!-- _class: rules -->
 
 #### Monstrosity Actions
-
-TODO here
 
 | Action | Description |
 | ------ | ----------- |
