@@ -452,7 +452,7 @@ To perform a Check:
 | ---- | ------- |
 | $4$ or less | Failure |
 | $5$, $6$, or $7$ | Minor Success: Check succeeds, with a bust. |
-| $8$, $9$, $10$ | Medium Success: Check succeeds. |
+| $8$, $9$, or $10$ | Medium Success: Check succeeds. |
 | $11-19$ | Major Success: Check succeeds, with a boon. The higher the roll, the greater the boon. |
 | $20+$ | Maximum Success: Check succeeds with an exceptional boon. |
 
