@@ -4,7 +4,7 @@
   "author": "snotskie <snotskie@gmail.com>",
   "scripts": {
     "start": "npm run build && serve ./public -c ../serve.json",
-    "build": "TAG=vX.Y.Z npx marp --html --template=bare --input-dir ./md -o ./public "
+    "build": "TAG=`date +v.dev.%F` npx marp --html --template=bare --input-dir ./md -o ./public "
   },
   "engines": {
     "node": "16.x"
