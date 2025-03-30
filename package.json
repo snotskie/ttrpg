@@ -17,6 +17,7 @@
     "serve": "^14.2.4"
   },
   "glitch": {
-    "projectType": "generated_static"
+    "projectType": "generated_static",
+	  "buildDirectory": "public"
   }
 }
