@@ -9,12 +9,6 @@ body {
 }
 
 body > svg {
-    width: 8.5in;
-    height: 11in;
-    margin: 0 auto;
-}
-
-body > svg.autoscale {
     width: 100%;
     max-width: 100%;
     height: unset !important;
@@ -22,19 +16,10 @@ body > svg.autoscale {
     margin: 0;
 }
 
-/* loading... */
-body:not(.loaded) > svg {
-    display: none;
-}
-
-body:not(.loaded)::after {
-    content: "Loading...";
-    color: white;
-    position: absolute;
-    top: 1em;
-    text-align: center;
-    width: 100%;
-    font-family: monospace;
+body > svg.fixedscale {
+    width: 8.5in;
+    height: 11in;
+    margin: 0 auto;
 }
 
 /* page breaks */
