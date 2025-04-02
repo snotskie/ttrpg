@@ -852,25 +852,25 @@ At the end of each session, you receive one free Stat Upgrade for your character
 | --- |
 | *Description:* VV-CC/Bust/Milestone *Effect:* When an opponent would gain a bust in an Attack against you, you may instead bank that bust. When you are in a safe place of rest, you may spend busts banked this way to gain or give your allies a total of that many Blessings. |
 
-| 👹 Greed & Gluttony Ethic |
+| 👹 Greed & Vanity Ethic |
 | --- |
-| *Description:* VV-FK/Boon/High *Effect:* Once per session, when you would gain a boon from performing a violent Attack, you may instead bank that boon and an additional boon for each character who witnessed your Attack. You may spend boons banked this way to gain that many temporary Blessings, which disappear at the end of the scene. |
+| *Description:* VV-FK/Boon/High *Effect:* Once per session, when you would gain a boon from succeeding a Check, you may instead bank that boon and an additional boon for each character who witnessed your success. You may spend boons banked this way to gain that many temporary Blessings, which disappear at the end of the scene. |
 
 | ⚖️ Power & Influence Ethic |
 | --- |
-| *Description:* FK-CC/Boon/NPC *Effect:* ABC |
+| *Description:* FK-CC/Boon/NPC *Effect:* When an opponent would gain a boon in an Attack against you, they may instead have you bank that boon. When you are in a safe place of rest, you may spend boons banked this way to gain that many Blessings and give those opponents a total of that many Blessings. |
 
 | 🕯 Rite & Divinity Ethic |
 | --- |
-| *Description:* FK-VV/Bust/High *Effect:* ABC |
+| *Description:* FK-VV/Bust/High *Effect:* When you succeed a Check without gaining a bust, you may instead gain a bust and bank a bust. When another character gains a Blessing, you may spend a bust banked this way to gain a copy of that Blessing. Copied Blessings gained this way do not bump. |
 
 | 🔧 Precision & Accuracy Ethic |
 | --- |
-| *Description:* CC-VV/Boon/Milestone *Effect:* ABC |
+| *Description:* CC-VV/Boon/Milestone *Effect:* When you would gain a boon from succeeding a Check, you may instead bank that boon. When you spend Blessings, you may spend that many boons banked this way to gain that many Blessings. |
 
 | ❇ Fairness & Value Ethic |
 | --- |
-| *Description:* CC-FK/Bust/NPC *Effect:* ABC |
+| *Description:* CC-FK/Bust/NPC *Effect:* When an opponent would gain a bust in an Attack against you, you may instead bank that bust. You may spend busts banked this way to temporarily increase your favorability with someone by that amount, which will decrease by that amount at the end of the session. |
 
 ### Specialization Options
 <!-- _class: ability -->
