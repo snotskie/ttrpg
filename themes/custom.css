@@ -26,7 +26,7 @@ h1, h2, h3, h4 {
 
 /* Page alignment */
 section {
-    padding: 1in;
+    padding: .5in;
 }
 
 section:not(.center) {
@@ -67,65 +67,65 @@ section.creation, div.creation {
     background-image: repeating-linear-gradient(
         90deg,
         var(--color-creation)   0,
-        var(--color-creation-2) .5in,
-        var(--color-background) .5in,
+        var(--color-creation-2) .25in,
+        var(--color-background) .25in,
         var(--color-background)
     );
-    padding-left: 1in;
+    padding-left: .5in;
 }
 
 section.guide, div.guide {
     background-image: repeating-linear-gradient(
         90deg,
         var(--color-guide)   0,
-        var(--color-guide-2) .5in,
-        var(--color-background) .5in,
+        var(--color-guide-2) .25in,
+        var(--color-background) .25in,
         var(--color-background)
     );
-    padding-left: 1in;
+    padding-left: .5in;
 }
 
 section.ability, div.ability {
     background-image: repeating-linear-gradient(
         90deg,
         var(--color-ability)   0,
-        var(--color-ability-2) .5in,
-        var(--color-background) .5in,
+        var(--color-ability-2) .25in,
+        var(--color-background) .25in,
         var(--color-background)
     );
-    padding-left: 1in;
+    padding-left: .5in;
 }
 
 section.quick, div.quick {
     background-image: repeating-linear-gradient(
         90deg,
         var(--color-quick)   0,
-        var(--color-quick-2) .5in,
-        var(--color-background) .5in,
+        var(--color-quick-2) .25in,
+        var(--color-background) .25in,
         var(--color-background)
     );
-    padding-left: 1in;
+    padding-left: .5in;
 }
 
 section.rules, div.rules {
     background-image: repeating-linear-gradient(
         90deg,
         var(--color-rules)   0,
-        var(--color-rules-2) .5in,
-        var(--color-background) .5in,
+        var(--color-rules-2) .25in,
+        var(--color-background) .25in,
         var(--color-background)
     );
-    padding-left: 1in;
+    padding-left: .5in;
 }
 
 /* cover page buttons */
 button, label {
-    font-size: 16pt;
-    border-width: 2px;
+    font-size: 1rem;
+    border-width: .1rem;
     border-style: solid;
-    border-radius: 6px;
-    padding: 1em;
-    margin-bottom: .5em;
+    border-radius: .3rem;
+    padding: 1rem;
+    margin-bottom: .5rem;
     display: inline-block;
     background: var(--color-background);
     color: var(--color-foreground);
@@ -145,13 +145,31 @@ button.fliptheme, label.fliptheme {
 }
 
 /* tables */
-th[scope=row] {
+th[scope=row]{
     border: 0;
-    border-right: 3px solid var(--color-foreground);
+    border-right: .15rem solid var(--color-foreground);
 }
 
 td:empty {
     border: 0;
+}
+
+th[scope=row]{
+  writing-mode: vertical-rl;
+  text-align: center;
+  border-top: var(--color-background) !important;
+  border-bottom: var(--color-background) !important;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+th[scope=row][rowspan]{
+  color: var(--color-background);
+  background-color: var(--color-foreground);
+}
+
+th[scope=row][colspan]{
+  vertical-align: top;
 }
 
 /* toc */
@@ -161,7 +179,7 @@ section.index span span.page_no, section.toc span span.page_no {
 }
 
 section.toc .chapter {
-    border-bottom: 3px solid var(--color-foreground);
+    border-bottom: .15rem solid var(--color-foreground);
 }
 
 section.index {
@@ -184,7 +202,7 @@ section.title {
 }
 
 section.title h1 {
-    font-size: 62pt;
+    font-size: 4rem;
 }
 
 section.title p:last-child {
@@ -197,7 +215,7 @@ section.title p:last-child {
 section.ability table,
 section.guideability table {
     width: 100%;
-    border: 3px solid var(--color-foreground);
+    border: .15rem solid var(--color-foreground);
 }
 
 section.ability tbody td,
@@ -244,7 +262,7 @@ section.guideability tbody td {
 section h4 {
     font-size: inherit;
     font-weight: normal;
-    margin-bottom: 15px;
+    margin-bottom: .75rem;
 }
 
 section h4:before {
@@ -254,7 +272,7 @@ section h4:before {
 
 /* code labels */
 section code {
-    border-radius: 8pt;
+    border-radius: .5rem;
     color: #202228 !important; /* --color-foreground in light mode */
     --color-background-code: var(--color-ability-2);
 }
