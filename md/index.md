@@ -540,31 +540,31 @@ In general:
   <table>
     <tbody>
       <tr>
-        <th scope="row">Vice &amp; Virtue</th>
-        <td>
-          <ul>
-            <li><strong>Achievement:</strong> Gain Blessings for completing important story milestones.</li>
-            <li><strong>Legend:</strong> On your first Major Success each session, gain a Blessing. Each other player whose character witnessed or heard about that success also gains a Blessing.</li>
-          </ul>
-        </td>
+        <th scope="row" rowspan="2">Vice &amp; Virtue</th>
+        <th scope="row">Achievement</th>
+        <td>Gain Blessings for completing important story milestones.</td>
       </tr>
       <tr>
-        <th scope="row">Fate &amp; Knowledge</th>
-        <td>
-          <ul>
-            <li><strong>Debt:</strong> Gain a number of Blessings during certain interactions with non-player characters, who may consider you in their debt as a result.</li>
-            <li><strong>Revelation:</strong> On your first Major Success each session, gain or steal a total of three Blessings from other characters in the scene.</li>
-          </ul>
-        </td>
+        <th scope="row">Legend</th>
+        <td>On your first Major Success each session, gain a Blessing. Each other player whose character witnessed or heard about that success also gains a Blessing.</td>
       </tr>
       <tr>
-        <th scope="row">Cunning &amp; Capability</th>
-        <td>
-          <ul>
-            <li><strong>Reliability:</strong> Gain Blessings for completing important story milestones.</li>
-            <li><strong>Favorability:</strong> You accrue "favorability" with others as a result of your Backstory and actions. Within reason, when your favorability with someone is positive, you may call on them, decrease that favorability by an amount, and gain that many Blessings.</li>
-          </ul>
-        </td>
+        <th scope="row" rowspan="2">Fate &amp; Knowledge</th>
+        <th scope="row">Debt</th>
+        <td>Gain a number of Blessings during certain interactions with non-player characters, who may consider you in their debt as a result.</td>
+      </tr>
+      <tr>
+        <th scope="row">Revelation</th>
+        <td>On your first Major Success each session, gain or steal a total of three Blessings from other characters in the scene.</td>
+      </tr>
+      <tr>
+        <th scope="row" rowspan="2">Cunning &amp; Capability</th>
+        <th scope="row">Reliability</th>
+        <td>Gain Blessings for completing important story milestones.</td>
+      </tr>
+      <tr>
+        <th scope="row">Favorability</th>
+        <td>You accrue "favorability" with others as a result of your Backstory and actions. Within reason, when your favorability with someone is positive, you may call on them, decrease that favorability by an amount, and gain that many Blessings.</td>
       </tr>
     </tbody>
   </table>
