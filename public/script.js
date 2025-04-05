@@ -69,7 +69,7 @@ window.addEventListener("load", function(){
             ++i;
             if (i === 18){
                 toc = document.getElementById("toc2");
-            } else if (i === 38){
+            } else if (i === 39){
                 toc = document.getElementById("toc3");
             }
         }
