@@ -157,8 +157,8 @@ td:empty {
 th[scope=row]{
   writing-mode: vertical-rl;
   text-align: center;
-  border-top: var(--color-background) !important;
-  border-bottom: var(--color-background) !important;
+  border-top: 0 !important;
+  border-bottom: 0 !important;
   padding-top: 1rem;
   padding-bottom: 1rem;
 }
