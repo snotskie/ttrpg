@@ -397,10 +397,6 @@ Finally, **describe your character's appearance** and list **three or four items
 
 You'll track a list of items that you typically carry with you, and other items you may have can be **determined in the moment**: Over the course of the story, you may perform Checks to **find** new items, **create** new items, **purchase and sell** items, and even see if you **already have** items that could be narratively reasonable for you to have.
 
-And while most items are narrative, some **higher quality items** you acquire along the way may provide aid or effects similar to some Specializations.
-
-If you don't begin the game with a Stat Die of size $d8$, **choose one item** to begin the game at a higher quality so that it provides a "receive $+1$ in aid" effect.
-
 ## Playing the Game
 <!-- _class: center major rules -->
 
@@ -591,7 +587,7 @@ Also note:
 ### Receiving Situational Aid
 <!-- _class: rules -->
 
-While you and your allies may spend Blessings to attempt to Help one another, your Aptitudes and other effects, items, environments, careful planning, or so on can provide you "situational aid."
+While you and your allies may spend Blessings to attempt to Help one another, Easy Checks, your Aptitudes, and other effects can provide you "situational aid."
 
 - **Receive Aid:** Situational aid effects describe a possible failed Check and say to "receive $+X$ in aid" in response. When you do, you gain a $+X$ bonus to the roll, possibly turning the failure into a success.
 
@@ -625,7 +621,7 @@ Also note:
 Some upgrade options in the Session Shop describe effects that use one or more terms defined below, as shorthand for a number of rules described above.
 
 - **Recharge:** Some effects list a recharge Blessing cost. Once activated, these effects cannot be activated again until they have been recharged by paying that cost.
-- **Overcharged:** Lifestyle upgrade options overcharge one or two of your Stats. When you would fail a Check while performing a Spark roll using an overcharged Stat, receive $+X$ in aid, where $X$ is half the size of the die used in the Spark roll.
+- **Overcharged:** Lifestyle upgrade options overcharge one or two of your Stats. When you would fail a Check while performing a Spark roll using an overcharged Stat, receive $+3$ in aid.
 - **Bank:** Ethic upgrade options describe opportunities to bank boons or busts. When you bank a boon or a bust, set it aside instead of resolving its impacts on the story. Track the number of boons or busts you've banked, as well as which effects you banked them through, as such effects will describe ways you can then spend them. If multiple effects would bank the same boon or bust, the GM resolves which one applies.
 
 ### Conditions
@@ -697,7 +693,7 @@ In general:
 
 - **Limited Actions:** The GM may limit the actions you may choose from in certain situations, and some actions may only be taken if your position roll used certain Stats.
 - **Position Rolls:** Some actions use your position roll to perform Checks or Attacks, and some ignore it. When a position roll is ignored, it's as though it never happened, though any resources spent on it remain spent, such as Blessings for Helping and Sparking.
-- **Hard and Complex Checks:** If an action requires multiple rolls, use your position roll for one of them, then perform the rest.
+- **Actions with Hard or Complex Checks:** If an action requires multiple rolls, use your position roll for one of them, then perform the rest.
 - **Special Actions:** Some actions have the `Special Action` tag. Special actions cannot be performed during your turn. Instead, at the end of the round after all other actions are complete, whoever has the highest number of Blessings chooses a special action to perform, with the GM resolving ties.
 - **Effects as Normal:** You may also activate effects from your items, specializations, and so on as normal, whenever would be most appropriate during, before, or after your turn.
 
@@ -741,7 +737,7 @@ These are performed like any other Endeavor, with the following adjustments, act
       </tr>
       <tr>
         <th scope="row" colspan="2">Advance</th>
-        <td><i>Not Hurt.</i> Use your position roll to perform a Check to advance your team's objectives. Move up by half your position roll, rounded down, minus one for each bust and plus one for each boon.</td>
+        <td><i>Not Hurt.</i> Use your position roll to perform a Check to advance your team's objectives. On a success, move up by half your position roll, rounded down, minus one for each bust and plus one for each boon.</td>
       </tr>
       <tr>
         <th scope="row" colspan="2">Protect</th>
@@ -777,7 +773,7 @@ These are performed like any other Endeavor, with the following adjustments, act
       </tr>
       <tr>
         <th scope="row" colspan="2">Advance</th>
-        <td><i>Not Hurt.</i> Use your position roll to perform a Check to advance your team's objectives. Add two Scheme buttons at the first positions at or above your current position without one already, adding one less for each bust and one more for each boon.</td>
+        <td><i>Not Hurt.</i> Use your position roll to perform a Check to advance your team's objectives. On a success, add two Scheme buttons at the first positions at or above your current position without one already, adding one less for each bust and one more for each boon.</td>
       </tr>
       <tr>
         <th scope="row" colspan="2">Protect</th>
