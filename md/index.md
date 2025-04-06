@@ -741,7 +741,7 @@ These are performed like any other Endeavor, with the following adjustments, act
       </tr>
       <tr>
         <th scope="row" colspan="2">Protect</th>
-        <td><i>Any Stat.</i> Ignore your position roll and spend Blessings to protect yourself or an ally from the opponents' objectives. For each Blessing spent, their relevant Checks are one rank more difficult, until your next turn.</td>
+        <td><i>Any Stat.</i> Ignore your position roll and spend Blessings to protect yourself or an ally from the opponents' objectives. For each Blessing spent, their relevant Attacks are one rank more difficult, until your next turn.</td>
       </tr>
       <tr>
         <th scope="row" colspan="2">Pass</th>
@@ -777,7 +777,7 @@ These are performed like any other Endeavor, with the following adjustments, act
       </tr>
       <tr>
         <th scope="row" colspan="2">Protect</th>
-        <td><i>Any Stat.</i> Ignore your position roll and spend Blessings to protect yourself or an ally from the opponents' objectives. For each Blessing spent, their relevant Checks are one rank more difficult, until your next turn.</td>
+        <td><i>Any Stat.</i> Ignore your position roll and spend Blessings to protect yourself or an ally from the opponents' objectives. For each Blessing spent, their relevant Attacks are one rank more difficult, until your next turn.</td>
       </tr>
       <tr>
         <th scope="row" colspan="2">Pass</th>
@@ -806,7 +806,7 @@ These are performed like any other Endeavor, with the following adjustments, act
       <tr>
         <th scope="row">Declare Victory</th>
         <td><code>Special Action</code> If you are at position 30 or higher, spend all your temporary Blessings and choose an opponent to remove from the Endeavor.</td>
-    </tr>
+      </tr>
     </tbody>
   </table>
 </div>
@@ -825,15 +825,14 @@ These are performed like any other Endeavor, with the following adjustments, act
       <tr>
         <th scope="row">Declare Victory</th>
         <td><code>Special Action</code> If there are 10 or more Scheme buttons in a row, spend all your temporary Blessings and choose an opponent to remove from the Endeavor.</td>
-    </tr>
+      </tr>
     </tbody>
   </table>
 </div>
 
-
 <div>
   <h4>
-    Buttons
+    Monstrous Buttons
   </h4>
   <table>
     <tbody>
@@ -848,6 +847,82 @@ These are performed like any other Endeavor, with the following adjustments, act
       </tr>
       <tr>
         <th scope="row">Defeat</th><td><i>Type:</i> Personal. <i>Activation:</i> Activate this button when you move over it. <i>Effect:</i> End your movement, remove this button, and you are removed from the Endeavor.</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+### 🏇 Racing Endeavors
+<!-- _class: rules -->
+
+Some campaigns or sessions may involve a prolonged scene where the player characters race against one another or their opponents, whether it be on foot, on horseback, or in sleds, cars, or even spaceships!
+
+These are performed like any other Endeavor, with the following adjustments, action options, and buttons:
+
+- **Setup:** All racers begin at position $0$.
+- **Goal:** Be the first to reach the finish line or the last one standing.
+- **Terrain:** At the top of the first round, the GM will provide the lay of the land for the race course environment, including any terrain elements like hills, brush, holes, asteroid fields, or so on, represented by Terrain buttons. As the Endeavor progresses, additional areas may become available, each with their own track and lay of the land.
+- **Endurance Checks:** At the end of each round, if you have spent Blessings, you must perform a Check to remain in the race, representing your endurance after a hard push. This Check is Easy, plus one difficulty rank for each Blessing spent past the first. On a failure, you are removed from the Endeavor.
+
+<div>
+  <h4>
+    Racer Actions
+  </h4>
+  <table>
+    <tbody>
+      <tr>
+        <th scope="row" rowspan="2">Attack</th>
+        <th scope="row">Violent</th>
+        <td><i>Hurt only.</i> Use your position roll to violently Attack another racer. On a Maximum Success, remove them from the Endeavor. On other successes, they move down by half your position roll, rounded down, minus one for each bust and plus one for each boon.</td>
+      </tr>
+      <tr>
+        <th scope="row">Non-violent</th>
+        <td><i>Not Hurt.</i> Use your position roll to non-violently Attack another racer. On a success, steal a number of temporary Blessings from them equal to half your position roll, rounded down, minus one for each bust and plus one for each boon.</td>
+      </tr>
+      <tr>
+        <th scope="row" colspan="2">Advance</th>
+        <td><i>Not Hurt.</i> Use your position roll to perform a Check to advance in the race. On a success, move up by half your position roll, rounded down, minus one for each bust and plus one for each boon.</td>
+      </tr>
+      <tr>
+        <th scope="row" colspan="2">Protect</th>
+        <td><i>Any Stat.</i> Ignore your position roll and spend Blessings to protect yourself or an ally from the opponents' objectives. For each Blessing spent, their relevant Attacks are one rank more difficult, until your next turn.</td>
+      </tr>
+      <tr>
+        <th scope="row" colspan="2">Pass</th>
+        <td><i>Any Stat.</i> Skip or delay your action so you can Help another character who has not acted this round or so they can Help you.</td>
+      </tr>
+      <tr>
+        <th scope="row" colspan="2">Unique Skill</th>
+        <td><i>Any Stat.</i> Spend ⊜⊜ to perform an action unique to your character. Take two other actions combined.</td>
+      </tr>
+    </tr>
+    </tbody>
+  </table>
+</div>
+
+<div>
+  <h4>
+    Racer Special Actions
+  </h4>
+  <table>
+    <tbody>
+      <tr>
+      <tr>
+        <th scope="row">Overcome</th>
+        <td><code>Special Action</code> Move up by half your position roll, rounded down, ignoring the first Terrain button you would activate during this movement.</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<div>
+  <h4>
+    Racing Buttons
+  </h4>
+  <table>
+    <tbody>
+      <tr>
+        <th scope="row">Terrain</th><td><i>Type:</i> Personal. <i>Activation:</i> Activate this button when you move over it while moving up. <i>Effect:</i> End your movement. <i>Passive:</i> Is this button has the <code>Area</code> tag and is the nearest button at or below your current track position, it limits the Stats you may use for position rolls.</td>
       </tr>
     </tbody>
   </table>
@@ -1078,10 +1153,6 @@ At the end of each session, you receive one free Stat Upgrade for your character
 | --- |
 | *Effect:* Once per Stealth Endeavor, when you would be made you may instead increase the alertness of the Endeavor. | -->
 
-<!-- | Roughshod Specialization |
-| --- |
-| *Effect:* When you perform a special action in a Race Endeavor, you may create a terrain button anywhere along your movement. Then remove that terrain button once a character begins their movement on the same space as it. | -->
-
 | Rousing Specialization |
 | --- |
 | *Effect:* Once per session, when your Blessings have a total combined worth of at least $10$, you may share a speech, story, or information related enough to your Ethic. Each other character who hears this gains a Blessing. |
@@ -1105,10 +1176,6 @@ At the end of each session, you receive one free Stat Upgrade for your character
 | Sure-footed Specialization |
 | --- |
 | *Effect:* During Endeavors, when you take the Protect action to protect yourself, its effect lasts a number of rounds equal to half your position roll, rounded down. |
-
-<!-- | Thrifted Specialization |
-| --- |
-| *Effect:* Blessings you spend to Help yourself while attempting to purchase goods or services are worth $1$ more, to a maximum of $7$. | -->
 
 | Vibe Specialization |
 | --- |
