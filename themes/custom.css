@@ -166,6 +166,7 @@ th[scope=row]{
 th[scope=row][rowspan]{
   color: var(--color-background);
   background-color: var(--color-foreground);
+  border-top: .25em solid var(--color-background) !important
 }
 
 th[scope=row][colspan]{
