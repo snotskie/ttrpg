@@ -145,11 +145,6 @@ button.fliptheme, label.fliptheme {
 }
 
 /* tables */
-th[scope=row]{
-    border: 0;
-    border-right: .15rem solid var(--color-foreground);
-}
-
 td:empty {
     border: 0;
 }
@@ -157,10 +152,13 @@ td:empty {
 th[scope=row]{
   writing-mode: vertical-rl;
   text-align: center;
+  border: 0;
+  border-right: .15rem solid var(--color-foreground);
   border-top: 0 !important;
   border-bottom: 0 !important;
   padding-top: 1rem;
   padding-bottom: 1rem;
+  transform: rotate(180deg);
 }
 
 th[scope=row][rowspan]{
@@ -170,7 +168,7 @@ th[scope=row][rowspan]{
 }
 
 th[scope=row][colspan]{
-  vertical-align: top;
+  vertical-align: bottom;
 }
 
 /* toc */
