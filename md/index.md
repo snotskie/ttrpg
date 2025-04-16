@@ -12,7 +12,10 @@ headingDivider: 3
 <!-- _class: title art-left -->
 <!-- _paginate: skip -->
 
-![bg left](bg.jpg)
+<!--![bg left](bg.jpg)-->
+<!--![bg left](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=)-->
+<!--![bg left](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjkJCQ+A8AAdwBSPJsk2gAAAAASUVORK5CYII=)-->
+![bg left](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdj+P///38ACfsD/QVDRcoAAAAASUVORK5CYII=)
 
 A tabletop roleplaying game
 
@@ -27,7 +30,9 @@ snotskie.
 
 ![width:2in](https://upload.wikimedia.org/wikipedia/commons/7/70/CC_BY-NC-ND.svg)
 
-This work is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. To view a copy of this license, visit [https://creativecommons.org/licenses/by-nc-nd/4.0/](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+This work is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. To view a copy of this license, visit <https://creativecommons.org/licenses/by-nc-nd/4.0/>
+
+If you publish your own works that use this system, please clearly label them on the cover with the phrase ***Humanity, Blessed* ⊜ Community Content** and include a link to the most recent stable version, at <https://snotskie.github.io/ttrpg/>
 
 &copy; 2025 snotskie
 
@@ -36,8 +41,6 @@ This work is licensed under the Creative Commons Attribution-NonCommercial-NoDer
 DOI: 10.5281/zenodo.14673714
 
 Cover typography: Bebas Neue, by Ryoichi Tsunekawa
-
-<button class="fliptheme" onclick="toggleModes()">Toggle Light/Dark Mode</button>
 
 <button onclick="bwprint()">Friendly Print 🖨️</button>
 
@@ -57,31 +60,48 @@ After [*A Poet to His Baby Son*](https://www.poetryfoundation.org/poems/49051/a-
 <!-- _class: toc -->
 <div id="toc2"></div>
 
----
+<!-- --- -->
 <!-- _paginate: skip -->
 <!-- _class: toc -->
-<div id="toc3"></div>
+<!-- <div id="toc3"></div> -->
 
 ## Introduction
 <!-- _class: center major -->
 
 ### About
 
-*Humanity, Blessed* is a rules-light, semi-crunchy TTRPG system inspired by our favorite stories about what it means to be human, doing goofy, cool, fantastic little human things. This system is designed to provide fun, structured challenges and to use narrative and tactile cues instead of complex sheets and board states.
+***Humanity, Blessed* ⊜** is a rules-light, semi-crunchy TTRPG system inspired by our favorite stories about what it means to be human, doing goofy, cool, fantastic little human things. This system is designed to provide fun, structured challenges and to use narrative and tactile cues instead of complex sheets and board states.
 
 This book uses color-coded pages:
 
 <div class="rules">
-    Rules
+  <p>
+      Rules
+  </p>
 </div>
 
 <div class="creation">
-    Character Creation
+  <p>
+      Character Creation
+  </p>
 </div>
 
 <div class="ability">
-    Character Options
+  <p>
+      Character Options
+  </p>
 </div>
+
+The online version of this book will automatically load in light or dark mode to match your operating system preferences. When printed, it uses a large font for easy reading.
+
+### At a Glance
+
+- **Genre:** This game is generic to genre and setting. However, GMs can hone the tone of the game with optional Stats, Setting Ethics, and Endeavors. This game is well-suited for campaigns that take up to $15$ or so sessions to complete.
+- **Dice:** For Stats, this game uses a dice array, from $d2$ to $d10$. This game also uses a $d6$ pool for resources called "Blessings." Dice are rerolled on a $1$, called "bumping," which feels like wiping the sweat from your brow and cutting the right wire. A special Stat, History, is unique to each character based on their Backstory.
+- **Checks:** Checks range from $2$ to $20+$, with a fixed success scale. Lower successes grant complications, called "busts," and higher successes grant benefits, called "boons." Easy Checks round some low rolls up to the lowest success. Hard and Complex Checks require rolling multiple times and succeeding on enough of them. Big rolls feel earned.
+- **Sparking:** Two Blessings of the same worth can be spent to "Spark" a roll. This combines two Stats of the same die size and if either rolls a $1$, both are rerolled. This feels like trying to hold the lasers steady when you've crossed the streams.
+- **Character Creation:** Besides Stats, character creation is focused on character narrative. Lifestyles and Ethics represent a character's outlook on the world and their goals. Their Aptitudes represent what they are good at and are used in a number of effects to help the focus stay on the story instead of the Stats. Character advancement feels like coming to know your character better.
+- **Endeavors:** This game has a customizable "Endeavor" system for representing scenes with prolonged tension, like combat or racing.
 
 ## Making Your First Character
 <!-- _class: center major creation -->
@@ -317,11 +337,9 @@ Begin to describe your character's story before, coming into, and outside of the
 - List **three specific people or groups** that your character regularly interacts with or have connections to, whether "good" or "bad" connections.
 - Describe **where your character could be found** on an average afternoon before the action of the story starts.
 
-These background details will help you and your GM build the story and set your **Backstory**, which is used by your **History Stat** and **Aptitudes** (described later in this chapter).
+These background details will help you and your GM build the story and set your **Backstory**, which is used by your **History Stat** and **Aptitudes** (described later in this chapter). If your game's setting has **non-human characters** and your character is one of them, also work with your GM to determine how your non-human background affects your Backstory or Stats.
 
-If your game's setting has **non-human characters** and your character is one of them, work with your GM to determine how your non-human background affects your Backstory or Stats.
-
-And as you play, **keep notes**! These can help you reflect on you and your group's shared "Group History," as well as your **character's relationship to the Group History**. Maybe not everyone in the party is enthused about the items the party stole last time! Such reflection can help you **shape the course** of your Backstory and your character's development over the duration of the story, **make important character choices** during your sessions, and **inspire you and your GM** for ideas for future scenes.
+And as you play, **keep notes**! These can help you reflect on your **character's relationship to the group's evolving narrative**. Maybe not everyone in the party is enthused about the items the party stole last time! Such reflection can help you **shape the course** of your Backstory and your character's development over the duration of the story, **make important character choices** during your sessions, and **inspire you and your GM** for ideas for future scenes.
 
 ### Backstory
 <!-- _class: rules -->
@@ -333,12 +351,7 @@ What makes up a Backstory is determined by the players and the GM working togeth
 - **Unique:** Your Backstory should define unique skills, connections, events, traits, and other narrative elements that your character brings to the story.
 - **Variety:** Your Backstory should have enough variety that not all or most of your Backstory would already be covered by a single Stat.
 
-### Non-Human Characters
-<!-- _class: rules -->
-
-If your game's setting allows you to play non-human characters, there are generally two approaches for how to represent it.
-
-The choice depends on the variety of non-human backgrounds among players:
+If your game's setting allows you to play non-human characters, there are generally two approaches for how to represent it. The choice depends on the variety of non-human backgrounds among players:
 
 - **High Variety:** If each player character has a different non-human background, then the simplest option is to use each character's Backstory to cover one or two simple actions, within reason, that characters of their background could perform unaided that humans couldn't.
 - **Low Variety:** If the player characters come from just a few non-human backgrounds, the GM may expand the scope of two or three Stats to cover one or two simple actions each, within reason, that characters of their non-human backgrounds could perform unaided that humans couldn't.
@@ -467,6 +480,7 @@ In general:
 - **Spending Blessings:** When you spend a Blessing, remove it from your pool of Blessings. An effect may require you to spend a Blessing of at least a certain size or multiple Blessings at the same time. The Blessing Notation table below provides examples of how these are notated.
 - **Blessings Bump:** Like your Stat Dice, Blessings also bump, but in a slightly different way. When you roll a $1$ on a Blessing, instead of rolling again to increase the value of the roll, gain an additional Blessing. As long as you continue to roll a $1$ this way, you continue to gain an additional Blessing.
 - **Gain One at a Time:** If you gain multiple Blessings from a single effect, gain each of those dice separately. They do not form a group for the purposes of bumping.
+- **Blessing Deck:** You may use a large deck of cards numbered $1$ through $6$ to represent Blessings instead of dice. This can help if you want Blessings to be more legible or if you have children, pets, or a table prone to be knocked into.
 
 <div>
   <h4>
@@ -634,12 +648,12 @@ Each round during your turn, you may choose and perform one action from the set 
 
 In general:
 
-- **Limited Actions:** The GM may limit the actions you may choose from in certain situations, some actions may only be taken if your position roll used certain Stats, and actions may only be taken if they would be reasonable for the current narrative.
-- **Position Rolls:** Some actions use your position roll to perform Checks, and some ignore it. When a position roll is ignored, it's as though it never happened, though any resources spent on it remain spent, such as Blessings from Sparking.
-- **Standard Amount:** When you use your position roll to perform a Check, the effect may mention a "standard amount." The standard amount is equal to half your position roll, rounded down, minus one for each bust, plus one for each boon, to a minimum of $1$. If an effect modifies your position roll, it also modifies the standard amount.
-- **Actions with Hard or Complex Checks:** If an action requires multiple rolls, use your position roll for the first, then perform the rest as normal.
-- **Special Actions:** Some actions have the `Special Action` tag. Special actions cannot be performed during your turn. Instead, at the end of the round after all other actions are complete, whoever has the highest number of Blessings chooses a special action to perform, with the GM resolving ties.
-- **Effects as Normal:** You may also activate effects from your items, specializations, and so on as normal, whenever would be most appropriate during, before, or after your turn.
+- **Limited Actions:** The GM may limit your action choices in certain situations, some may only be taken if your position roll used certain Stats, and all can only be taken if they would be narratively reasonable.
+- **Position Rolls:** Some actions use your position roll to perform Checks, and some ignore it. When a position roll is ignored, it's as though it never happened, though any resources spent on it remain spent.
+- **Standard Amount:** When an action involves a Check, the effect may mention a "standard amount." This is half your position roll, rounded down, minus one for each bust, plus one for each boon, to a minimum of $1$. If an effect modifies your position roll, it also modifies the standard amount.
+- **Actions with Hard or Complex Checks:** If an action's Check requires multiple rolls, use your position roll for the first, then perform the rest as normal.
+- **Special Actions:** Actions with the `Special Action` tag cannot be performed during your turn. Instead, at the end of the round after all other actions are complete, whoever has the highest number of Blessings chooses a special action to perform, with the GM resolving ties.
+- **Effects as Normal:** You may also activate your other effects as normal, whenever would be most appropriate during, before, or after your turn.
 
 ### Tracks
 <!-- _class: rules -->
@@ -744,7 +758,7 @@ These are performed like any other Endeavor, with the following adjustments, act
     <tbody>
       <tr>
       <tr>
-        <th scope="row">Perform a Combo</th>
+        <th scope="row">Perform Combo</th>
         <td><code>Special Action</code> Move up by your number of temporary Blessings, then spend all your temporary Blessings. Then you and your allies may move down any total amount. If you do, choose opponents to move down by a total of the amount moved this way.</td>
       </tr>
       <tr>
@@ -763,7 +777,7 @@ These are performed like any other Endeavor, with the following adjustments, act
     <tbody>
       <tr>
       <tr>
-        <th scope="row">Perform a Combo</th>
+        <th scope="row">Perform Combo</th>
         <td><code>Special Action</code> Choose an opponent, then any number of additional opponents with a number of temporary Blessings less than half your number of temporary Blessings, rounded down. Then spend all your temporary Blessings and wound the chosen opponents. Any opponents with three or more Wound buttons in a row are removed from the Endeavor.</td>
       </tr>
       <tr>
