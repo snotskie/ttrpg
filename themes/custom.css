@@ -1,6 +1,7 @@
 /**
 * @theme custom
 * @size a4 8.5in 11in
+* @size book 6in 9in
 * @size half-a4 5.5in 8.5in
 * @size sixth-a4 3.3333in 4.25in
 * @size 4:3 10in 7.5in
@@ -9,151 +10,163 @@
 */
 
 @import "uncover";
-@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap");
 
 /* Font */
 :root {
-    font-size: 16pt;
-    letter-spacing: normal;
-    text-align: left;
-    --color-highlight: var(--color-foreground);
-    --color-highlight-hover: var(--color-foreground);
+  font-size: 16pt;
+  /*font-size: 12pt;*/
+  letter-spacing: normal;
+  text-align: left;
+  --color-highlight: var(--color-foreground);
+  --color-highlight-hover: var(--color-foreground);
 }
 
-h1, h2, h3, h4 {
-    letter-spacing: normal;
+h1,
+h2,
+h3,
+h4 {
+  letter-spacing: normal;
 }
 
 /* Page alignment */
 section {
-    padding: .5in;
+  padding: 0.5in;
 }
 
 section:not(.center) {
-    align-content: start !important;
-    justify-content: normal !important;
+  align-content: start !important;
+  justify-content: normal !important;
 }
 
 /* Remove pagination corner triangle */
 section:after {
-    --color-background-paginate: var(--color-background);
-    --color-background: var(--color-background);
-    font-size: 14pt;
-    font-weight: bold;
+  --color-background-paginate: var(--color-background);
+  --color-background: var(--color-background);
+  font-size: 14pt;
+  font-weight: bold;
 }
 
 /* Styled page types */
 :root {
-    --color-major: var(--color-foreground);
-    --color-creation: #0072b2;
-    --color-guide: #111111;
-    --color-ability: #009e73;
-    --color-quick: #ffd700;
-    --color-rules: #2c3e50;
-    --color-creation-2: #a6cee3;
-    --color-guide-2: #555555;
-    --color-ability-2: #b2df8a;
-    --color-quick-2: #f0e442;
-    --color-rules-2: #7f8c8d;
+  --color-major: var(--color-foreground);
+  --color-creation: #0072b2;
+  --color-guide: #111111;
+  --color-ability: #009e73;
+  --color-quick: #ffd700;
+  --color-rules: #2c3e50;
+  --color-creation-2: #a6cee3;
+  --color-guide-2: #555555;
+  --color-ability-2: #b2df8a;
+  --color-quick-2: #f0e442;
+  --color-rules-2: #7f8c8d;
 }
 
 section.major h2 {
-    border: .1in solid var(--color-major);
-    text-align: center;
-    padding: .1in;
+  border: 0.1in solid var(--color-major);
+  text-align: center;
+  padding: 0.1in;
 }
 
-section.creation, div.creation {
-    background-image: repeating-linear-gradient(
-        90deg,
-        var(--color-creation)   0,
-        var(--color-creation-2) .25in,
-        var(--color-background) .25in,
-        var(--color-background)
-    );
-    padding-left: .5in;
+section.creation,
+div.creation {
+  background-image: repeating-linear-gradient(
+    90deg,
+    var(--color-creation) 0,
+    var(--color-creation-2) 0.25in,
+    var(--color-background) 0.25in,
+    var(--color-background)
+  );
+  padding-left: 0.5in;
 }
 
-section.guide, div.guide {
-    background-image: repeating-linear-gradient(
-        90deg,
-        var(--color-guide)   0,
-        var(--color-guide-2) .25in,
-        var(--color-background) .25in,
-        var(--color-background)
-    );
-    padding-left: .5in;
+section.guide,
+div.guide {
+  background-image: repeating-linear-gradient(
+    90deg,
+    var(--color-guide) 0,
+    var(--color-guide-2) 0.25in,
+    var(--color-background) 0.25in,
+    var(--color-background)
+  );
+  padding-left: 0.5in;
 }
 
-section.ability, div.ability {
-    background-image: repeating-linear-gradient(
-        90deg,
-        var(--color-ability)   0,
-        var(--color-ability-2) .25in,
-        var(--color-background) .25in,
-        var(--color-background)
-    );
-    padding-left: .5in;
+section.ability,
+div.ability {
+  background-image: repeating-linear-gradient(
+    90deg,
+    var(--color-ability) 0,
+    var(--color-ability-2) 0.25in,
+    var(--color-background) 0.25in,
+    var(--color-background)
+  );
+  padding-left: 0.5in;
 }
 
-section.quick, div.quick {
-    background-image: repeating-linear-gradient(
-        90deg,
-        var(--color-quick)   0,
-        var(--color-quick-2) .25in,
-        var(--color-background) .25in,
-        var(--color-background)
-    );
-    padding-left: .5in;
+section.quick,
+div.quick {
+  background-image: repeating-linear-gradient(
+    90deg,
+    var(--color-quick) 0,
+    var(--color-quick-2) 0.25in,
+    var(--color-background) 0.25in,
+    var(--color-background)
+  );
+  padding-left: 0.5in;
 }
 
-section.rules, div.rules {
-    background-image: repeating-linear-gradient(
-        90deg,
-        var(--color-rules)   0,
-        var(--color-rules-2) .25in,
-        var(--color-background) .25in,
-        var(--color-background)
-    );
-    padding-left: .5in;
+section.rules,
+div.rules {
+  background-image: repeating-linear-gradient(
+    90deg,
+    var(--color-rules) 0,
+    var(--color-rules-2) 0.25in,
+    var(--color-background) 0.25in,
+    var(--color-background)
+  );
+  padding-left: 0.5in;
 }
 
 /* cover page buttons */
-button, label {
-    font-size: 1rem;
-    border-width: .1rem;
-    border-style: solid;
-    border-radius: .3rem;
-    padding: 1rem;
-    margin-bottom: .5rem;
-    display: inline-block;
-    background: var(--color-background);
-    color: var(--color-foreground);
-    border-color: var(--color-foreground);
+button,
+label {
+  font-size: 1rem;
+  border-width: 0.1rem;
+  border-style: solid;
+  border-radius: 0.3rem;
+  padding: 1rem;
+  margin-bottom: 0.5rem;
+  display: inline-block;
+  background: var(--color-background);
+  color: var(--color-foreground);
+  border-color: var(--color-foreground);
 }
 
-button.fliptheme, label.fliptheme {
-    background: var(--color-foreground);
-    color: var(--color-background);
-    border-color: var(--color-foreground);
+button.fliptheme,
+label.fliptheme {
+  background: var(--color-foreground);
+  color: var(--color-background);
+  border-color: var(--color-foreground);
 }
 
 @media print {
-    button, label {
-        display: none;
-    }
+  button,
+  label {
+    display: none;
+  }
 }
 
 /* tables */
 td:empty {
-    border: 0;
+  border: 0;
 }
 
-th[scope=row]{
+th[scope="row"] {
   writing-mode: vertical-rl;
   text-align: center;
   border: 0;
-  border-right: .15rem solid var(--color-foreground);
+  border-right: 0.15rem solid var(--color-foreground);
   border-top: 0 !important;
   border-bottom: 0 !important;
   padding-top: 1rem;
@@ -161,127 +174,156 @@ th[scope=row]{
   transform: rotate(180deg);
 }
 
-th[scope=row][rowspan]{
+th[scope="row"][rowspan] {
   color: var(--color-background);
   background-color: var(--color-foreground);
-  border-top: .25em solid var(--color-background) !important
+  border: 0;
+  border-top: 0.25em solid var(--color-background) !important;
 }
 
-th[scope=row][colspan]{
+th[scope="row"][colspan] {
   vertical-align: bottom;
 }
 
 /* toc */
-section.index p span.page_no, section.toc p span.page_no,
-section.index span span.page_no, section.toc span span.page_no {
-    float: right;
+section.index p span.page_no,
+section.toc p span.page_no,
+section.index span span.page_no,
+section.toc span span.page_no {
+  float: right;
 }
 
 section.toc .chapter {
-    border-bottom: .15rem solid var(--color-foreground);
+  border-bottom: 0.15rem solid var(--color-foreground);
 }
 
 section.index {
-    columns: 2;
+  columns: 2;
 }
 
 /* title page */
 section.art-left {
-    padding-left: 1em;
+  padding-left: 1em;
 }
 
 section.art-right {
-    padding-right: 1em;
+  padding-right: 1em;
+}
+
+section.title,
+section.title a {
+  font-family: "Bebas Neue", serif;
+  font-weight: 400;
+  font-style: normal;
+  color: #efefef;
 }
 
 section.title {
-    font-family: "Bebas Neue", serif;
-    font-weight: 400;
-    font-style: normal;
+  background: linear-gradient(var(--color-creation), var(--color-creation-2));
 }
 
 section.title h1 {
-    font-size: 4rem;
+  font-size: 4rem;
+  margin-top: 3in;
 }
 
 section.title p:last-child {
-    position: absolute;
-    bottom: 1in;
-    right: 1in;
+  position: absolute;
+  bottom: 0.5in;
+  right: 0.5in;
+}
+
+section.title:before {
+  content: "⊜";
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 50%;
+  line-height: 11in;
+  text-align: center;
+  font-size: 432px;
+  font-family: "Babas Neue", serif;
+  background-image: linear-gradient(
+    var(--color-creation),
+    var(--color-creation-2)
+  );
+  color: transparent;
+  background-clip: text;
+  text-shadow: 11px -14px 0 black;
 }
 
 /* ability table style */
 section.ability table,
 section.guideability table {
-    width: 100%;
-    border: .15rem solid var(--color-foreground);
+  width: 100%;
+  border: 0.15rem solid var(--color-foreground);
 }
 
 section.ability tbody td,
 section.guideability tbody td {
-    border-bottom: 0 !important;
-}
-
-/* dont color anchors on print */
-@media print {
-    a {
-        color: var(--color-foreground) !important;
-    }
+  border-bottom: 0 !important;
 }
 
 /* b&w for printing */
-@media print {
-    section.bw {
-        --color-foreground: black;
-        --color-background: white;
-        --color-highlight: black;
-        border-left: none !important;
-    }
+section.bw,
+section.bw a,
+section.bw:before {
+  --color-foreground: black;
+  --color-background: white;
+  --color-highlight: black;
+  border-left: none !important;
+  background-image: none !important;
+  background: var(--color-background) !important;
+  color: var(--color-foreground) !important;
+  text-shadow: none;
+}
 
-    section.bw:not(.title){
-        padding-left: 1in !important;
-    }
+section.bw:not(.title) {
+  padding-left: 0.5in !important;
+}
 
-    section.bw figure {
-        background: none !important;
-    }
+section.bw figure {
+  background: none !important;
+}
 
-    section.bw img.emoji {
-        display: none;
-    }
+section.bw img.emoji {
+  display: none;
+}
 
-    section.bw code {
-        background: var(--color-background);
-        color: var(--color-foreground);
-        border: 1px solid var(--color-foreground);
-    }
+section.bw code {
+  background: var(--color-background);
+  color: var(--color-foreground);
+  border: 0.1rem solid var(--color-foreground);
 }
 
 /* h4 for tables */
 section h4 {
-    font-size: inherit;
-    font-weight: normal;
-    margin-bottom: .75rem;
+  font-size: inherit;
+  font-weight: normal;
+  margin-bottom: 0.75rem;
 }
 
 section h4:before {
-    content: "Table: ";
-    font-weight: bold;
+  content: "Table: ";
+  font-weight: bold;
 }
 
 /* code labels */
 section code {
-    border-radius: .5rem;
-    color: #202228 !important; /* --color-foreground in light mode */
-    --color-background-code: var(--color-ability-2);
+  border-radius: 0.5rem;
+  color: #202228 !important; /* --color-foreground in light mode */
+  --color-background-code: var(--color-ability-2);
 }
 
 /* character sheet */
-section.char select, section.char input, section.char textarea {
-    font-size: inherit;
-    font-family: inherit;
-    border: none;
-    background: var(--color-background);
-    color: var(--color-foreground);
-    width: 100%;
+section.char select,
+section.char input,
+section.char textarea {
+  font-size: inherit;
+  font-family: inherit;
+  border: none;
+  background: var(--color-background);
+  color: var(--color-foreground);
+  width: 100%;
 }
