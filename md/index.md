@@ -107,7 +107,7 @@ The online version of this book will automatically load in light or dark mode to
 <!-- _class: center major creation -->
 
 ### Character Sheets
-<!-- _class: rules -->
+<!-- _class: creation -->
 
 All characters in this game have a character sheet, which tracks:
 
@@ -1156,7 +1156,18 @@ At the end of each session, you receive one free Stat Upgrade for your character
 
 ![bg left](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=)
 
-<table style="width: 100%; max-width: 100%;">
+<style scoped>
+  table, textarea {
+    width: 100%;
+    max-width: 100%;
+  }
+  
+  ul {
+    padding-left: 1ch;
+  }
+</style>
+
+<table>
     <thead>
         <tr>
             <th>🧠</th>
@@ -1175,7 +1186,7 @@ At the end of each session, you receive one free Stat Upgrade for your character
     </tbody>
 </table>
 
-<table style="width: 100%; max-width: 100%;">
+<table>
     <thead>
         <tr>
             <th>👿</th>
@@ -1194,20 +1205,7 @@ At the end of each session, you receive one free Stat Upgrade for your character
     </tbody>
 </table>
 
-<table style="width: 100%; max-width: 100%;">
-    <thead>
-        <tr>
-            <th>Backstory</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td><textarea placeholder="Backstory" style="width: 100%" rows="10"></textarea></td>
-        </tr>
-    </tbody>
-</table>
-
-<table style="width: 100%; max-width: 100%;">
+<table>
     <thead>
         <tr>
             <th>Apts &amp; Specs</th>
@@ -1215,7 +1213,7 @@ At the end of each session, you receive one free Stat Upgrade for your character
     </thead>
     <tbody>
         <tr>
-            <td><ul style="padding-left: 0">
+            <td><ul>
                 <li><input placeholder="Aptitude [Specialization]" /></li>
                 <li><input placeholder="Aptitude [Specialization]" /></li>
                 <li><input placeholder="Aptitude [Specialization]" /></li>
@@ -1228,37 +1226,7 @@ At the end of each session, you receive one free Stat Upgrade for your character
     </tbody>
 </table>
 
----
-<!-- _paginate: skip -->
-<!-- _class: art-right char -->
-
-![bg right](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=)
-
-<table style="width: 100%; max-width: 100%;">
-    <thead>
-        <tr>
-            <th>Items</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td><ul style="padding-left: 0">
-                <li><input placeholder="Item" /></li>
-                <li><input placeholder="Item" /></li>
-                <li><input placeholder="Item" /></li>
-                <li><input placeholder="Item" /></li>
-                <li><input placeholder="Item" /></li>
-                <li><input placeholder="Item" /></li>
-                <li><input placeholder="Item" /></li>
-                <li><input placeholder="Item" /></li>
-                <li><input placeholder="Item" /></li>
-                <li><input placeholder="Item" /></li>
-            </ul></td>
-        </tr>
-    </tbody>
-</table>
-
-<table style="width: 100%; max-width: 100%;">
+<table>
     <thead>
         <tr>
             <th>Notes</th>
@@ -1266,7 +1234,7 @@ At the end of each session, you receive one free Stat Upgrade for your character
     </thead>
     <tbody>
         <tr>
-            <td><textarea placeholder="Notes" style="width: 100%" rows="18"></textarea></td>
+            <td><textarea placeholder="Notes" rows="18"></textarea></td>
         </tr>
     </tbody>
 </table>
