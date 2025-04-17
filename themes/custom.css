@@ -327,3 +327,19 @@ section.char textarea {
   color: var(--color-foreground);
   width: 100%;
 }
+
+/* styled lists */
+section:not(.char) ul, ol {
+  padding-left: 2ch;
+}
+
+li::marker {
+  font-weight: bold;
+}
+
+section.rules li > strong:first-child {
+    background: var(--color-foreground);
+    color: var(--color-background);
+    border-radius: .1rem .5rem;
+    padding: 0 .4rem;
+}
