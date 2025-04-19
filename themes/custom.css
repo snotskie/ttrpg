@@ -288,7 +288,7 @@ section.bw figure {
 }
 
 section.bw img.emoji {
-  display: none;
+  /*display: none;*/
 }
 
 section.bw code {
@@ -314,6 +314,7 @@ section code {
   border-radius: 0.5rem;
   color: #202228 !important; /* --color-foreground in light mode */
   --color-background-code: var(--color-ability-2);
+  font-weight: bold;
 }
 
 /* character sheet */
@@ -337,7 +338,8 @@ li::marker {
   font-weight: bold;
 }
 
-section.rules li > strong:first-child {
+section.rules li > strong:first-child,
+section.intro li > strong:first-child {
     background: var(--color-foreground);
     color: var(--color-background);
     border-radius: .1rem .5rem;
