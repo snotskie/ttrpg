@@ -66,9 +66,10 @@ After [*A Poet to His Baby Son*](https://www.poetryfoundation.org/poems/49051/a-
 <!-- <div id="toc3"></div> -->
 
 ## Introduction
-<!-- _class: center major -->
+<!-- _class: center major intro -->
 
 ### About
+<!-- _class: intro -->
 
 ***Humanity, Blessed* ⊜** is a rules-light, semi-crunchy TTRPG system inspired by our favorite stories about what it means to be human, doing goofy, cool, fantastic little human things. This system is designed to provide fun, structured challenges and to use narrative and tactile cues instead of complex sheets and board states.
 
@@ -95,13 +96,16 @@ This book uses color-coded pages:
 The online version of this book will automatically load in light or dark mode to match your operating system preferences. When printed, it uses a large font for easy reading.
 
 ### At a Glance
+<!-- _class: intro -->
 
-- **Genre:** This game is generic to genre and setting. However, GMs can hone the tone of the game with optional Stats, Setting Ethics, and Endeavors. This game is well-suited for campaigns that take up to $15$ or so sessions to complete.
-- **Dice:** For Stats, this game uses a dice array, from $d2$ to $d10$. This game also uses a $d6$ pool for resources called "Blessings." Dice are rerolled on a $1$, called "bumping," which feels like wiping the sweat from your brow and cutting the right wire. A special Stat, History, is unique to each character based on their Backstory.
-- **Checks:** Checks range from $2$ to $20+$, with a fixed success scale. Lower successes grant complications, called "busts," and higher successes grant benefits, called "boons." Easy Checks round some low rolls up to the lowest success. Hard and Complex Checks require rolling multiple times and succeeding on enough of them. Big rolls feel earned.
-- **Sparking:** Two Blessings of the same worth can be spent to "Spark" a roll. This combines two Stats of the same die size and if either rolls a $1$, both are rerolled. This feels like trying to hold the lasers steady when you've crossed the streams.
-- **Character Creation:** Besides Stats, character creation is focused on character narrative. Lifestyles and Ethics represent a character's outlook on the world and their goals. Their Aptitudes represent what they are good at and are used in a number of effects to help the focus stay on the story instead of the Stats. Character advancement feels like coming to know your character better.
-- **Endeavors:** This game has a customizable "Endeavor" system for representing scenes with prolonged tension, like combat or racing.
+- **Genre:** While this game is generic to genre, GMs can hone the tone of the setting with optional Stats, Setting Ethics, and Endeavors. This game is well-suited for campaigns that take $1-15$ sessions to complete.
+- **Dice:** For Stats, this game uses a dice array, from $d2$ to $d10$. This game also uses a $d6$ pool for resources called "Blessings." Dice "bump": $1$s are rerolled, which feels like wiping the sweat from your brow and cutting the right wire. A special Stat, History, is unique to each character's Backstory.
+- **Checks:** Big rolls feel earned. Checks range from $2$ to $20+$, with a fixed success scale. Low success grants "busts," and high success grants "boons." Easy Checks round high failure up to low success, and Hard Checks require multiple successess.
+- **Sparking:** Two equal Blessings can be spent to "Spark" a roll. This combines two equal Stats, and if either bumps, both bump. This feels like trying to hold the lasers steady when you've crossed the streams.
+- **Character Creation:** Character creation focuses on character narrative. Lifestyles and Ethics represent your outlook on the world and your goals. Aptitudes represent what you're good at and are used in a number of rules so the focus stays on story over just Stats.
+- **Endeavors:** This game has a customizable, accessible "Endeavor" system for representing scenes with prolonged tension, like combat or racing. Endeavors use tracks and buttons: There are no numbers, Stats, or board state to memorize. Everything is narrative or tangible.
+- **Access:** This game is published for free, open source, and in a digital format that follows your existing accessibility settings. You are welcome to redistribute (but not modify or sell) copies of this book.
+- **Community:** For community content and discussions, visit <https://github.com/snotskie/ttrpg/discussions>.
 
 ## Making Your First Character
 <!-- _class: center major creation -->
@@ -111,13 +115,13 @@ The online version of this book will automatically load in light or dark mode to
 
 All characters in this game have a character sheet, which tracks:
 
-- Your identifying information, like name, age, and pronouns
-- The Stat Dice you'll use for each of the Stats your GM has chosen for the campaign
-- A description of your Backstory, including your current Lifestyle, Ethic, and Aptitudes
-- A list of Specializations that grant additional effects to your Aptitudes
-- And other descriptive information, like your appearance, items, alliances, information learned
+- Your **identifying information**, like name, age, and pronouns.
+- The **Stat Dice** you'll use for each of the Stats your GM has chosen for the campaign.
+- A description of your **Backstory**, including your current **Lifestyle, Ethic, and Aptitudes**.
+- A list of **Specializations** that grant additional effects to your Aptitudes.
+- And other descriptive information, like your **appearance, items, alliances, and information learned**.
 
-You can find a blank Character Sheet form at the end of this book.
+You can find a blank Character Sheet form at the end of this book. Other character sheet forms are sometimes posted to the community discussion at <https://github.com/snotskie/ttrpg/discussions>.
 
 ### Step One · Choose Highest Stat
 <!-- _class: creation -->
@@ -231,7 +235,7 @@ In general:
 
 - **Die Sizes:** A Stat Die can be one of five sizes, from $d2$ to $d10$, as described in the Stat Dice Notation table below.
 - **Stat Dice "Bump":** Stat Dice in this game "bump." This means that when you roll a $1$ on a Stat Die, roll it again and add the new result to the previous result. As long as you continue to roll a $1$ on the die, you continue to roll again and add this way.
-- **Skill and Determination:** Success and victory without bumping represents natural or trained ability, while doing so with bumping represents a character's extra determination or focus on the action.
+- **Skill and Determination:** Success without bumping represents natural or trained ability, while doing so with bumping represents a character's extra determination or focus on the action.
 - **Balanced Stats:** Stats are "balanced" if they use the same size Stat Die.
 - **Unconventional Stats:** Whenever an effect has you use a Stat, you may instead use any other Stat you have balanced with it, referred to as using an "unconventional Stat."
 - **History Stat:** You may use your History Stat in place of another Stat when the action or effect is related enough to your Backstory or Aptitudes (described later in this chapter).
@@ -263,9 +267,9 @@ The following pages describe starting **Lifestyle** and **Ethic** options. Lifes
 
 As you read the starting Lifestyle and Ethic options, begin to describe the life your character had **growing up** and their **current outlook** on the world.
 
-Then, pick one **Lifestyle** and one **Ethic** to begin the game with. These can be changed later in the **Session Shop**.
+Then, pick one **Lifestyle** and one **Ethic** to begin the game with.
 
-Once you've chosen your starter Lifestyle and Ethic, **two of your Stats** will begin the game an additional **die size larger**, according to your starting Lifestyle and Ethic. Consult the Lifestyle/Ethic Starting Stats table below to know which Stats to increase.
+Once you've chosen your starter Lifestyle and Ethic, **two of your Stats** will begin the game an additional **die size larger**, according to your starting Lifestyle and Ethic and the Lifestyle/Ethic Starting Stats table below.
 
 <div>
   <h4>
@@ -466,7 +470,7 @@ To perform a Delayed Attack:
 
 1. **Set Trigger and Stat:** The Attacker describes the Attack and what condition would activate it. If the Delayed Attack is violent, the Stat it targets is Hurry. Otherwise, the targeted Stat is determined between the Attacker and the GM.
 2. **Attack Difficulty:** By default, the Check below is Easy. The Attacker's Aptitudes and Specializations, at the time the trigger is set, may increase the difficulty. Other effects or situations, at GM discretion, may also affect the difficulty.
-3. **Defend:** When the trigger is activated, the Defender uses the targeted Stat to perform a Check to determine success guarding against the triggered effect. If the Check fails, the Attack succeeds.
+3. **Defend:** When the trigger is activated, the Defender uses the targeted Stat to perform a Check to determine success guarding against the triggered effect. If the Check fails, the Attack succeeds without boon or bust.
 
 ### Blessings
 <!-- _class: rules -->
@@ -480,7 +484,7 @@ In general:
 - **Spending Blessings:** When you spend a Blessing, remove it from your pool of Blessings. An effect may require you to spend a Blessing of at least a certain size or multiple Blessings at the same time. The Blessing Notation table below provides examples of how these are notated.
 - **Blessings Bump:** Like your Stat Dice, Blessings also bump, but in a slightly different way. When you roll a $1$ on a Blessing, instead of rolling again to increase the value of the roll, gain an additional Blessing. As long as you continue to roll a $1$ this way, you continue to gain an additional Blessing.
 - **Gain One at a Time:** If you gain multiple Blessings from a single effect, gain each of those dice separately. They do not form a group for the purposes of bumping.
-- **Blessing Deck:** You may use a large deck of cards numbered $1$ through $6$ to represent Blessings instead of dice. This can help if you want Blessings to be more legible or if you have children, pets, or a table prone to be knocked into.
+- **Blessing Deck:** You may use a large deck of cards numbered $1$ through $6$ to represent Blessings instead of dice. This can help if you want Blessings to be more legible or if you have children, pets, or a table prone to being knocked into.
 
 <div>
   <h4>
@@ -650,7 +654,7 @@ In general:
 
 - **Limited Actions:** The GM may limit your action choices in certain situations, some may only be taken if your position roll used certain Stats, and all can only be taken if they would be narratively reasonable.
 - **Position Rolls:** Some actions use your position roll to perform Checks, and some ignore it. When a position roll is ignored, it's as though it never happened, though any resources spent on it remain spent.
-- **Standard Amount:** When an action involves a Check, the effect may mention a "standard amount." This is half your position roll, rounded down, minus one for each bust, plus one for each boon, to a minimum of $1$. If an effect modifies your position roll, it also modifies the standard amount.
+- **Standard Amount:** When an action involves a Check, the effect may mention a "standard amount." This is half your position roll, rounded down, minus one for each bust, plus one for each boon, to a minimum of $1$. If an effect modifies your position roll, it also modifies the standard amount. If  the action uses a Delayed Attack, the standard amount is calculated using your position roll at the time you set the Attack's trigger.
 - **Actions with Hard or Complex Checks:** If an action's Check requires multiple rolls, use your position roll for the first, then perform the rest as normal.
 - **Special Actions:** Actions with the `Special Action` tag cannot be performed during your turn. Instead, at the end of the round after all other actions are complete, whoever has the highest number of Blessings chooses a special action to perform, with the GM resolving ties.
 - **Effects as Normal:** You may also activate your other effects as normal, whenever would be most appropriate during, before, or after your turn.
@@ -1206,6 +1210,19 @@ At the end of each session, you receive one free Stat Upgrade for your character
 </table>
 
 <table>
+  <thead>
+    <tr>
+      <th>Lifestyle</th>
+      <th>Ethic</th>
+    </tr>
+  </thead>
+  <tbody>
+    <td><select><option selected>🍀 Carefree</option><option>🔥 Eager</option><option>🧘 Wisened</option><option>🌻 Blossomed</option><option>🔮 Prodigious</option><option>🧶 Crafty</option><option>⚜️ Driven</option><option>✨ Chosen</option><option>⚡ Wired</option><option>🪬 Steadfast</option><option>👁️ Warry</option><option>👄 Compelling</option><option>💎 Lost</option></td>
+    <td><select><option selected>⚔️ V & V</option><option>🌒 F & K</option><option>⚙️ C & C</option><option>⚕️ P & P</option><option>👹 G & V</option><option>⚖️ P & I</option><option>🕯️ R & D</option><option>🔧 P & A</option><option>✳️ F & V</option></td>
+  </tbody>
+</table>
+
+<table>
     <thead>
         <tr>
             <th>Apts &amp; Specs</th>
@@ -1234,7 +1251,7 @@ At the end of each session, you receive one free Stat Upgrade for your character
     </thead>
     <tbody>
         <tr>
-            <td><textarea placeholder="Notes" rows="18"></textarea></td>
+            <td><textarea placeholder="Notes" rows="15"></textarea></td>
         </tr>
     </tbody>
 </table>
