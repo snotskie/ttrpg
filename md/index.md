@@ -98,14 +98,31 @@ The online version of this book will automatically load in light or dark mode to
 ### At a Glance
 <!-- _class: intro -->
 
-- **Genre:** While this game is generic to genre, GMs can hone the tone of the setting with optional Stats, Setting Ethics, and Endeavors. This game is well-suited for campaigns that take $1-15$ sessions to complete.
+- **Genre:** While this game is generic to genre, tables can hone the tone of the setting with optional Stats, Setting Ethics, and Endeavors. This game is well-suited for campaigns that take $1-15$ sessions to complete.
 - **Dice:** For Stats, this game uses a dice array, from $d2$ to $d10$. This game also uses a $d6$ pool for resources called "Blessings." Dice "bump": $1$s are rerolled, which feels like wiping the sweat from your brow and cutting the right wire. A special Stat, History, is unique to each character's Backstory.
-- **Checks:** Big rolls feel earned. Checks range from $2$ to $20+$, with a fixed success scale. Low success grants "busts," and high success grants "boons." Easy Checks round high failure up to low success, and Hard Checks require multiple successess.
+- **Checks:** Big rolls feel earned. Checks range from $2$ to $20+$, with a fixed success scale. Low success grants "busts," and high success grants "boons." Easy Checks round high failure up to low success, and Hard Checks require multiple successes.
 - **Sparking:** Two equal Blessings can be spent to "Spark" a roll. This combines two equal Stats, and if either bumps, both bump. This feels like trying to hold the lasers steady when you've crossed the streams.
-- **Character Creation:** Character creation focuses on character narrative. Lifestyles and Ethics represent your outlook on the world and your goals. Aptitudes represent what you're good at and are used in a number of rules so the focus stays on story over just Stats.
+- **Character Creation:** Character creation focuses on character narrative. Lifestyles and Ethics represent your outlook on the world and your goals. Apts, Specs, and Vulns represent what you're good, very good, and not good at, and they keep the rules focused on the story over just Stats.
 - **Endeavors:** This game has a customizable, accessible "Endeavor" system for representing scenes with prolonged tension, like combat or racing. Endeavors use tracks and buttons: There are no numbers, Stats, or board state to memorize. Everything is narrative or tangible.
 - **Access:** This game is published for free, open source, and in a digital format that follows your existing accessibility settings. You are welcome to redistribute (but not modify or sell) copies of this book.
 - **Community:** For community content and discussions, visit <https://github.com/snotskie/ttrpg/discussions>.
+
+### "At Table Discretion"
+<!-- _class: intro -->
+
+Above all else, the rule that matters most in this game is "at table discretion."
+
+What this looks like depends on your table&mdash;your players, game, setting, tone, genre.
+
+It could be up to a Game Master (GM) to adjudicate what happens, where to bend the rules as written, how to interpret them, and when to make up new ones.
+
+It could be up to a rotating GM, an elected GM, a democratic GM role shared by all the players, even an artificial intelligence.
+
+It could be just "vibes" based on what people want or what feels most satisfying for the story.
+
+And it can be any mix of things and it certainly can change. The GM and the players can rely on one another when they have had bad days or are short on spoons at the moment.
+
+However "at table discretion" looks at your table, it's yours. I hope you can take these rules and run, that playing this game brings you joy, and that you can tell some fun stories.
 
 ## Making Your First Character
 <!-- _class: center major creation -->
@@ -116,8 +133,8 @@ The online version of this book will automatically load in light or dark mode to
 All characters in this game have a character sheet, which tracks:
 
 - Your **identifying information**, like name, age, and pronouns.
-- The **Stat Dice** you'll use for each of the Stats your GM has chosen for the campaign.
-- A description of your **Backstory**, including your current **Lifestyle, Ethic, and Aptitudes**.
+- The **Stat Dice** you'll use for each of the Stats chosen at your table for the campaign.
+- A description of your **Backstory**, including your current **Lifestyle, Ethic, Aptitudes, and Vulnerabilities**.
 - A list of **Specializations** that grant additional effects to your Aptitudes.
 - And other descriptive information, like your **appearance, items, alliances, and information learned**.
 
@@ -126,7 +143,7 @@ You can find a blank Character Sheet form at the end of this book. Other charact
 ### Step One · Choose Highest Stat
 <!-- _class: creation -->
 
-The following pages describe the **Stats** used in *Humanity, Blessed*, known collectively as **the H's of Humanity**. Your GM may add an additional Stat as well.
+The following pages describe the **Stats** used in *Humanity, Blessed*, known collectively as **the H's of Humanity**. Your table may add an additional Stat as well.
 
 Your first task is to decide **which Stat your character is best at**.
 
@@ -172,7 +189,7 @@ All characters in this game have the following Stats, each related to a differen
 ### Optional Stats
 <!-- _class: ability -->
 
-Your GM may add one of the following Stats to your game, depending on the game's setting and tone:
+At table discretion, one of the following Stats may be added to your game, depending on the game's setting and tone:
 
 | 🪶 Hex Stat |
 | --- |
@@ -334,23 +351,23 @@ The game's setting shapes its events, characters, and places, as well as the con
 ### Step Three · Describe Backstory
 <!-- _class: creation -->
 
-Begin to describe your character's story before, coming into, and outside of the game's main story. **Answer the following prompts** or others given to you by your GM:
+Begin to describe your character's story before, coming into, and outside of the game's main story. **Answer the following prompts** or others chosen at table discretion:
 
 - Describe **who your character looks up to**, whose work they strive to emulate, or who taught them everything they know.
 - List **three specific skills** that your character has proven their ability in, such as through schooling, study, training, specialization within their team, or so on.
 - List **three specific people or groups** that your character regularly interacts with or have connections to, whether "good" or "bad" connections.
 - Describe **where your character could be found** on an average afternoon before the action of the story starts.
 
-These background details will help you and your GM build the story and set your **Backstory**, which is used by your **History Stat** and **Aptitudes** (described later in this chapter). If your game's setting has **non-human characters** and your character is one of them, also work with your GM to determine how your non-human background affects your Backstory or Stats.
+These background details will help you and your table build the story and set your **Backstory**, which is used by your **History Stat** and your **Apts, Specs, and Vulns** (described later in this chapter). If your game's setting has **non-human characters** and your character is one of them, also work with your table to determine how your non-human background affects your Backstory or Stats.
 
-And as you play, **keep notes**! These can help you reflect on your **character's relationship to the group's evolving narrative**. Maybe not everyone in the party is enthused about the items the party stole last time! Such reflection can help you **shape the course** of your Backstory and your character's development over the duration of the story, **make important character choices** during your sessions, and **inspire you and your GM** for ideas for future scenes.
+And as you play, **keep notes**! These can help you reflect on your **character's relationship to the group's evolving narrative**. Maybe not everyone in the party is enthused about the items the party stole last time! Such reflection can help you **shape the course** of your Backstory and your character's development over the duration of the story, **make important character choices** during your sessions, and **inspire you and your table** for ideas for future scenes.
 
 ### Backstory
 <!-- _class: rules -->
 
-Each character has a Backstory, a list  or description of narrative elements from their background that help define the scope of their History Stat, connect them to other characters and events in the story, and set the stage for their Aptitudes and Specializations.
+Each character has a Backstory, a list  or description of narrative elements from their background that help define the scope of their History Stat, connect them to other characters and events in the story, and set the stage for their Apts, Specs, and Vulns.
 
-What makes up a Backstory is determined by the players and the GM working together to craft the seeds for a good story. However, in general:
+What makes up a Backstory is determined by the players at the table working together to craft the seeds for a good story. However, in general:
 
 - **Unique:** Your Backstory should define unique skills, connections, events, traits, and other narrative elements that your character brings to the story.
 - **Variety:** Your Backstory should have enough variety that not all or most of your Backstory would already be covered by a single Stat.
@@ -358,29 +375,29 @@ What makes up a Backstory is determined by the players and the GM working togeth
 If your game's setting allows you to play non-human characters, there are generally two approaches for how to represent it. The choice depends on the variety of non-human backgrounds among players:
 
 - **High Variety:** If each player character has a different non-human background, then the simplest option is to use each character's Backstory to cover one or two simple actions, within reason, that characters of their background could perform unaided that humans couldn't.
-- **Low Variety:** If the player characters come from just a few non-human backgrounds, the GM may expand the scope of two or three Stats to cover one or two simple actions each, within reason, that characters of their non-human backgrounds could perform unaided that humans couldn't.
+- **Low Variety:** If the player characters come from just a few non-human backgrounds, at table discretion, the scope of two or three Stats may be expanded to cover one or two simple actions each, within reason, that characters of their non-human backgrounds could perform unaided that humans couldn't.
 
-### Step Four · Choose Aptitudes
+### Step Four · Choose Aptitudes and Vulnerabilities
 <!-- _class: creation -->
 
-The following pages describe rules for **Aptitudes** and **Specializations**. You won't begin the game with Specializations, but you will start with Aptitudes drawn from your Backstory.
+The following pages describe rules for **Aptitudes**, **Specializations**, and **Vulnerabilities**. You won't begin the game with Specializations, but you will start with Aptitudes and Vulnerabilities drawn from your Backstory.
 
-To help you select your starting Aptitudes, begin to imagine your character. **Have you seen characters like them before?** Then with that in mind **select two** areas from your Backstory to begin the game "apt" in. For example: Tying Knots (for a scout), Swordfighting (for a knight), Breathing Fire (for a dragonborn), Reading Legal Documents (for the child of a politician), Acting (for a theater kid), Manipulating Technology (for a hacker), Stunt Driving (for a stunt performer), Friendly Interactions with the Empire (for someone raised in the empire), Unfriendly Interactions with the Rebels (for someone raised in the empire).
+To help you select your starting Aptitudes, begin to imagine your character. **Have you seen characters like them before?** With that in mind, **select two areas from your Backstory to begin the game "apt" in**. For example: Tying Knots (for a scout), Swordfighting (for a knight), Breathing Fire (for a dragonborn), Reading Legal Documents (for the child of a politician), Acting (for a theater kid), Manipulating Technology (for a hacker), Stunt Driving (for a stunt performer), Friendly Interactions with the Empire (for someone raised in the empire), Unfriendly Interactions with the Rebels (for someone raised in the empire). If you begin the game with a Stat Die of size $d8$, **select a third** area to begin the game apt in as well.
 
-If you begin the game with a Stat Die of size $d8$, **select a third** area to begin the game apt in as well.
+Also think about your character's flaws, what they care about enough to lose their composure over, and so on. With that in mind, **select two areas from your Backstory to begin the game "vulnerable" in**.
 
-You may also become apt in more areas or **specialize** your apt areas in the **Session Shop** later to gain **customized effects**.
+You may become apt in more areas or **specialize** your apt areas in the **Session Shop** later to gain **customized effects**.
 
-### Aptitudes and Specializations
+### Apt, Specs, and Vulns
 <!-- _class: rules -->
 
-Characters in this game may have a number of unique effects based on their Aptitudes and Specializations, described below. The Session Shop chapter lists sample Specializations, which refer to rules described in the following chapters. However, for now you should know:
+Characters in this game may have a number of unique effects based on their Aptitudes, Specializations, and Vulnerabilities (or "Apts, Specs, and Vulns" for short), described below. The Session Shop chapter lists sample Specializations, which refer to rules described in the following chapters. However, for now you should know:
 
-- **Aptitudes:** Your Aptitudes are the important and often unique narrative areas you are "apt" in.
+- **Aptitudes and Vulnerabilities:** Your Aptitudes are the important and often unique narrative areas you are "apt" in. In contrast, your Vulnerabilities are the narrative areas you are "vulnerable" in.
 - **Specializations:** Your Specializations are the Aptitudes you have "specialized," which grant you unique effects depending on the nature of the specialization. You may specialize your Aptitudes in the Session Shop. An example is given on the next page.
 - **Specialization Limits:** You may not specialize the same Aptitude more than once or choose the same Specialization more than once.
-- **Aptitude Ease:** When you perform a Check related enough to your Aptitudes, you may round rolls of $3$ or $4$ up to $5$, regardless of the Check's difficulty.
-- **Aptitude Difficulty:** When another character Attacks you or Defends against your Delayed Attack, if the Check is related enough to your Aptitudes, its difficulty is one ranker higher. If the relevant Aptitude is specialized, the difficulty is an additional rank higher.
+- **Aptitude Ease:** When you perform a Check related enough to your Aptitudes, you may round rolls of $3$ or $4$ up to $5$, regardless of the Check's difficulty. However, when you perform a Check related enough to your Vulnerabilities, its difficulty is one ranker higher.
+- **Aptitude Difficulty:** When another character Attacks you or Defends against your Delayed Attack, if the Check is related enough to your Aptitudes, its difficulty is one ranker higher, and if the relevant Aptitude is specialized, the difficulty is an additional rank higher. However, if the Check is related enough to your Vulnerabilities, its difficulty is one ranker lower.
 
 ---
 <!-- _class: rules -->
@@ -393,8 +410,8 @@ Characters in this game may have a number of unique effects based on their Aptit
   1. **Starting Aptitude:** Dave is a rookie cop. During his time in training, he became apt at Obstacles Courses.
   2. **Choosing Specialization:** Then over the course of the story, he specialized his Obstacles Course Aptitude further, with an interest in taking the Friendly Specialization. 
   3. **Explaining Specialization:** Dave's player explains how Dave has a close relationship with his sneakers, which should be able to Help him on Checks beyond just running through Obstacle Courses, due to the storied history he shares with his shoes and the power of their bond.
-  4. **Customizing Specialization:** The GM agrees, and adjusts the Friendly Specialization to fit the setting and the new Backstory elements about Dave and his sneakers.
-  5. **Shared Storytelling:** Finally, the GM and Dave's player chat further about the flavor of this Specialization to help the GM prepare for the next session.
+  4. **Customizing Specialization:** The table agrees and adjusts the Friendly Specialization to fit the setting and the new Backstory elements about Dave and his sneakers.
+  5. **Shared Storytelling:** Finally, the players at the table chat further about the flavor of this Specialization to help everyone prepare for the next session.
 </div>
 
 ### Finishing Touches · Items and Appearance
@@ -414,7 +431,7 @@ Most situations in this game can be resolved by performing a Check.
 
 To perform a Check:
 
-1. **GM Discretion:** The GM will let you know which Stat is normally associated with the action and if the action will be easier or harder than normal, as described in the Easy and Hard Checks table below.
+1. **Table Discretion:** At table discretion, it's determined which Stat is normally associated with the action and if the action will be easier or harder than normal, as described in the Easy and Hard Checks table below.
 2. **Choose Stat:** Choose a Stat to roll. Your options are the Stat normally associated with the action, any Stat you have balanced with that Stat, or History if the action is related enough to your Backstory or Aptitudes.
 3. **Roll:** Roll your Stat Die for the chosen Stat.
 4. **Outcome:** The higher you roll, the greater your degree of success, as described in the Check Outcomes table below.
@@ -444,7 +461,7 @@ To perform a Check:
   | Easy | Round rolls of $3$ or $4$ up to $5$. |
   | Normal | *No effect.* |
   | Hard | Perform the roll twice. If either would fail, the whole Check fails. Boons and busts stack. |
-  | Complex | Perform the roll several times, at GM discretion. May require a mix of Stats or characters working together. If more than half would fail, the whole Check fails. Boons and busts stack. |
+  | Complex | Perform the roll several times, at table discretion. May require a mix of Stats or characters working together. If more than half would fail, the whole Check fails. Boons and busts stack. |
 </div>
 
 ### Attacks
@@ -458,7 +475,7 @@ Attacks are Checks performed against another character. There are two types of A
 To perform an Attack:
 
 1. **Attack Stat:** The Attacker chooses if their Attack is violent or non-violent and selects the appropriate Stat for it.
-2. **Defense Difficulty:** By default, the Check below is Easy. The Defender's Aptitudes and Specializations may increase the difficulty. Other effects or situations, at GM discretion, may also affect the difficulty.
+2. **Defense Difficulty:** By default, the Check below is Normal. The Defender's Apts, Specs, and Vulns may modify the difficulty. Other effects or situations, at table discretion, may modify the difficulty further.
 3. **Attack Check:** The Attacker uses their chosen Stat to perform a Check to determine success for the action.
 
 ### Delayed Attacks
@@ -468,8 +485,8 @@ Sometimes Attacks are made that are Defended against at a later time, such as se
 
 To perform a Delayed Attack:
 
-1. **Set Trigger and Stat:** The Attacker describes the Attack and what condition would activate it. If the Delayed Attack is violent, the Stat it targets is Hurry. Otherwise, the targeted Stat is determined between the Attacker and the GM.
-2. **Attack Difficulty:** By default, the Check below is Easy. The Attacker's Aptitudes and Specializations, at the time the trigger is set, may increase the difficulty. Other effects or situations, at GM discretion, may also affect the difficulty.
+1. **Set Trigger and Stat:** The Attacker describes the Attack and what condition would activate it. If the Delayed Attack is violent, the Stat it targets is Hurry. Otherwise, the targeted Stat is determined at table discretion.
+2. **Attack Difficulty:** By default, the Check below is Normal. The Attacker's Apts, Specs, and Vulns, at the time the trigger is set, may modify the difficulty. Other effects or situations, at table discretion, may modify the difficulty further.
 3. **Defend:** When the trigger is activated, the Defender uses the targeted Stat to perform a Check to determine success guarding against the triggered effect. If the Check fails, the Attack succeeds without boon or bust.
 
 ### Blessings
@@ -480,7 +497,7 @@ Some effects cost "Blessing Dice," or simply "Blessings," to activate.
 In general:
 
 - **Pool of Blessings:** You have a pool of Blessings, representing resources you can draw upon when the moment calls.
-- **Gaining Blessings:** The GM will award Blessings for good role play, creativity, and setting-specific achievements, according to the Blessing Opportunities table below and either your Ethic or the Setting Ethic (at GM discretion). When you gain a Blessing, roll a $d6$ and add that die to your pool of Blessings.
+- **Gaining Blessings:** You will be awarded Blessings for good role play, creativity, and setting-specific achievements, according to the Blessing Opportunities table below and either your Ethic or the Setting Ethic (at table discretion). When you gain a Blessing, roll a $d6$ and add that die to your pool of Blessings.
 - **Spending Blessings:** When you spend a Blessing, remove it from your pool of Blessings. An effect may require you to spend a Blessing of at least a certain size or multiple Blessings at the same time. The Blessing Notation table below provides examples of how these are notated.
 - **Blessings Bump:** Like your Stat Dice, Blessings also bump, but in a slightly different way. When you roll a $1$ on a Blessing, instead of rolling again to increase the value of the roll, gain an additional Blessing. As long as you continue to roll a $1$ this way, you continue to gain an additional Blessing.
 - **Gain One at a Time:** If you gain multiple Blessings from a single effect, gain each of those dice separately. They do not form a group for the purposes of bumping.
@@ -583,7 +600,7 @@ Some upgrade options in the Session Shop describe effects that use one or more t
 
 - **Recharge:** Some effects list a recharge Blessing cost. Once activated, these effects cannot be activated again until they have been recharged by paying that cost.
 - **Overcharged:** Lifestyle upgrade options overcharge one or two of your Stats. When you Spark a roll using an overcharged Stat, you may round ir from $6$ or $7$ up to $8$.
-- **Bank:** Ethic upgrade options describe opportunities to bank boons or busts. When you bank a boon or a bust, set it aside instead of resolving its impacts on the narrative. Track the number of boons or busts you've banked, as well as which effects you banked them through, as such effects will describe ways you can then spend them. If multiple effects would bank the same boon or bust, the GM resolves which one applies.
+- **Bank:** Ethic upgrade options describe opportunities to bank boons or busts. When you bank a boon or a bust, set it aside instead of resolving its impacts on the narrative. Track the number of boons or busts you've banked, as well as which effects you banked them through, as such effects will describe ways you can then spend them. If multiple effects would bank the same boon or bust, resolve which one applies at table discretion.
 
 ### Conditions
 <!-- _class: rules -->
@@ -609,7 +626,7 @@ In general however:
   | Taxed | *Effect:* You cannot Spark. *Duration:* Until treated. |
   | Surprised | *Effect:* Your rolls cannot bump, Spark, or use an unconventional Stat. *Duration:* Until next roll. |
   | Uncool | *Effect:* Your rolls are made with a $-1$ modifier unless you are alone. *Duration:* Until removed. |
-  | Vulnerable | *Effect:* When another character sees you perform a Check with the affected Stat, they may have you automatically fail. *Duration:* Until treated. |
+  | Vexed | *Effect:* When another character sees you perform a Check with the affected Stat, they may have you automatically fail. *Duration:* Until treated. |
 </div>
 
 
@@ -634,14 +651,14 @@ Rounds are carried out as follows:
 
 1. **Roll for Position:** At the start of each round, choose a Stat to roll to get yourself in position for the actions you plan to take this round. The narrative for your action does not have to be fully formed, just what Stat to use and whether you want to Spark it. These rolls are not yet considered Checks and they may not be modified until they are used during your turn.
 2. **Gain Temporary Blessings:** Gain a number of temporary Blessings equal to half your position roll, rounded down. Any remaining temporary Blessings disappear at the end of the Endeavor.
-3. **Follow Turn Order:** Turn order follows the number of temporary Blessings, lowest to highest, with the GM resolving ties.
+3. **Follow Turn Order:** Turn order follows the number of temporary Blessings, lowest to highest, resolving ties at table discretion.
 
 <div>
   <p>
     Also note:
   </p>
 
-  - **Limited Position Rolls:** The GM may limit which Stats you can choose from when rolling position rolls in certain situations.
+  - **Limited Position Rolls:** At table discretion, the Stats you can choose from when rolling position rolls may be limited in certain situations.
   - **Shifting Turn Order:** If your number of temporary Blessings increases or decreases before you take your turn, the turn order may change. The next turn always goes to whoever has not acted yet with the least temporary Blessings.
 </div>
 
@@ -652,11 +669,11 @@ Each round during your turn, you may choose and perform one action from the set 
 
 In general:
 
-- **Limited Actions:** The GM may limit your action choices in certain situations, some may only be taken if your position roll used certain Stats, and all can only be taken if they would be narratively reasonable.
+- **Limited Actions:** Your action choices may be limited at table discretion in certain situations, some may only be taken if your position roll used certain Stats, and all can only be taken if they would be narratively reasonable.
 - **Position Rolls:** Some actions use your position roll to perform Checks, and some ignore it. When a position roll is ignored, it's as though it never happened, though any resources spent on it remain spent.
 - **Standard Amount:** When an action involves a Check, the effect may mention a "standard amount." This is half your position roll, rounded down, minus one for each bust, plus one for each boon, to a minimum of $1$. If an effect modifies your position roll, it also modifies the standard amount. If  the action uses a Delayed Attack, the standard amount is calculated using your position roll at the time you set the Attack's trigger.
 - **Actions with Hard or Complex Checks:** If an action's Check requires multiple rolls, use your position roll for the first, then perform the rest as normal.
-- **Special Actions:** Actions with the `Special Action` tag cannot be performed during your turn. Instead, at the end of the round after all other actions are complete, whoever has the highest number of Blessings chooses a special action to perform, with the GM resolving ties.
+- **Special Actions:** Actions with the `Special Action` tag cannot be performed during your turn. Instead, at the end of the round after all other actions are complete, whoever has the highest number of Blessings chooses a special action to perform, resolving ties at table discretion.
 - **Effects as Normal:** You may also activate your other effects as normal, whenever would be most appropriate during, before, or after your turn.
 
 ### Tracks
@@ -669,6 +686,7 @@ In general:
 - **Movement:** Tracks begin at $0$ and go up by whole numbers as high as needed. The Endeavor's setup instructions will describe where characters begin, and its action options will describe when characters move and by how much.
 - **Group Movement:** If a group moves together an amount, they only move a total of that amount. Unless the Endeavor's setup instructions specifies otherwise, how the group distributes this movement among its members is up to the group to decide: they may distribute the movement evenly, give it all to one member, or any other arrangement they agree on.
 - **Buttons:** Endeavors also add a number of buttons to the track. There are two types of buttons, personal and global. Personal buttons can only be activated by the character associated with them, whereas global buttons can be activated by any character. If an Endeavor uses buttons, it will describe how each is activated and the effect that happens as a result. Additionally, buttons may have a passive effect that applies while the button is present or a cumulative effect that activates only once if multiple instances of that effect would activate at the same time.
+- **Community:** For printable tracks and other Endeavor resources, visit <https://github.com/snotskie/ttrpg/discussions>.
 
 ### 🧟 Monstrous Endeavors
 <!-- _class: rules -->
@@ -823,7 +841,7 @@ These are performed like any other Endeavor, with the following adjustments, act
 
 - **Setup:** All racers begin at position $0$.
 - **Goal:** Be the first to reach the finish line or the last one standing.
-- **Terrain:** At the top of the first round, the GM will provide the lay of the land for the race course environment, including any terrain elements like hills, brush, holes, asteroid fields, or so on, represented by Terrain buttons. As the Endeavor progresses, additional areas may become available, each with their own track and lay of the land.
+- **Terrain:** At the top of the first round, the lay of the land will be provided at table discretion for the race course environment, including any terrain elements like hills, brush, holes, asteroid fields, or so on, represented by Terrain buttons. As the Endeavor progresses, additional areas may become available, each with their own track and lay of the land.
 - **Fatigue Buttons:** When you spend a Blessing, gain a Fatigue button, representing your need to regroup after a hard push.
 
 <div>
@@ -910,11 +928,11 @@ At the end of each session, you receive one free Stat Upgrade for your character
 
 | Backstory Upgrade `d6` |
 | --- |
-| *Effect:* Make up to two changes or additions to your Backstory, within reason. For example, you might add or change your hobbies, beliefs, interests, items, information studied, chance encounters, connections to others, and answers to questions from the GM during character creation. |
+| *Effect:* Make up to two changes or additions to your Backstory, within reason. For example, you might add or change your hobbies, beliefs, interests, items, information studied, chance encounters, connections to others, and answers to questions from during character creation. |
 
 | Rumor Upgrade `d6` |
 | --- |
-| *Effect:* Begin, end, or modify one rumor, based on the events of the story so far, how you would like to see events play out, or how you would like to interfere with events as they stand. At GM discretion, it may or may not spread quickly, be believed by others, or even be true. |
+| *Effect:* Begin, end, or modify one rumor, based on the events of the story so far, how you would like to see events play out, or how you would like to interfere with events as they stand. At table discretion, it may or may not spread quickly, be believed by others, or even be true. |
 
 | Aptitude Upgrade `d8` |
 | --- |
@@ -922,7 +940,7 @@ At the end of each session, you receive one free Stat Upgrade for your character
 
 | Specialization Upgrade `d8` |
 | --- |
-| *Effect:* Specialize in an area you're already apt in, based on the events of the story so far or how you would like to see your character grow. Select a Specialization option and explain to the GM how it relates to the Aptitude you are specializing. Then you gain that Specialization's effect or an adjusted version of it, at GM discretion. |
+| *Effect:* Specialize in an area you're already apt in, based on the events of the story so far or how you would like to see your character grow. Select a Specialization option and explain to the table how it relates to the Aptitude you are specializing. Then you gain that Specialization's effect or an adjusted version of it, at table discretion. |
 
 | Gains Upgrade `d10` |
 | ------------ |
@@ -941,7 +959,7 @@ At the end of each session, you receive one free Stat Upgrade for your character
 | If your Ethic is Fate & Knowledge, you may change it to Greed & Vanity, Power & Influence, Rite & Divinity, or Fairness & Value. |
 | If your Ethic is Cunning & Capability, you may change it to Pride & Prudence, Power & Influence, Precision & Accuracy, or Fairness & Value. |
 
-### Lifestyle Options
+### Lifestyle & Ethic Options
 <!-- _class: ability -->
 
 | 🌼 Blossomed Lifestyle | 
@@ -984,9 +1002,6 @@ At the end of each session, you receive one free Stat Upgrade for your character
 | --- |
 | *Description:* You feel a disconnect from your own past or former sense of self, perhaps because of an exile from your home, an erased memory, or a period of transition or deep self-reflection. When you Spark, it might take on an erratic or liminal aspect. *Effect:* Overcharge your History Stat, as though you were aided by your quest for self-discovery. |
 
-### Ethic Options
-<!-- _class: ability -->
-
 | ⚕️ Pride & Prudence Ethic |
 | --- |
 | *Description:* You have an unwaivering trust that you can overcome any obstacle, even if it means planning for the longterm. Perhaps this confidence owes to your abilities, accomplishments, lineage, or even hubris. But whatever the job, you know you will succeed. *Effect:* When an opponent would gain a bust in an Attack against you, you may instead bank that bust. When you are in a safe place of rest, you may spend busts banked this way to gain or give your allies a total of that many Blessings. |
@@ -1001,7 +1016,7 @@ At the end of each session, you receive one free Stat Upgrade for your character
 
 | 🕯 Rite & Divinity Ethic |
 | --- |
-| *Description:* You can take a breath. You've earned this. Your intention is set and nothing can shake you from it. It doesn't matter if you're wrong&mdash;it only matters that you can carry the torch high enough and pay the tolls the journey demands. Only then can you be the light for others to follow in the dark. *Effect:* When you succeed a Check without gaining a bust, you may instead gain a bust and bank a bust. When another character gains a Blessing, you may spend a bust banked this way to gain a copy of that Blessing. Copied Blessings gained this way do not bump. |
+| *Description:* You can take a breath. You've earned this. Your intention is set and nothing can shake you from it. It doesn't matter if you don't have all the details right&mdash;it only matters that you can carry the torch high enough and pay the tolls the journey demands. Only then can you be the light for others to follow in the dark. *Effect:* When you succeed a Check without gaining a bust, you may instead gain a bust and bank a bust. When another character gains a Blessing, you may spend a bust banked this way to gain a copy of that Blessing. Copied Blessings gained this way do not bump. |
 
 | 🔧 Precision & Accuracy Ethic |
 | --- |
@@ -1032,7 +1047,7 @@ At the end of each session, you receive one free Stat Upgrade for your character
 
 | Charitable Specialization |
 | --- |
-| *Effect:* When you visit a place of religious, spiritual, or community importance, you may spend any number of Blessings as a donation or act of service to the place. The more spent this way, the greater a possible later outcome may be, determined by the GM. |
+| *Effect:* When you visit a place of religious, spiritual, or community importance, you may spend any number of Blessings as a donation or act of service to the place. The more spent this way, the greater a possible later outcome may be, determined at table discretion. |
 
 | Commanding Specialization |
 | --- |
@@ -1064,7 +1079,7 @@ At the end of each session, you receive one free Stat Upgrade for your character
 
 | Friendly Specialization |
 | --- |
-| *Effect:* You gain access to a creature companion, mechanical companion, or similar companion of your choice, within reason. The companion uses a $d6$ for all Stats and has its own Backstory and Aptitudes. It also has an Aptitude Value of $0-3$ for each Aptitude, totaling $8$, and if an Aptitude has an Aptitude Value of $3$ it is considered specialized. At the start of each session, for each Aptitude, the companion gains a number of temporary Blessings equal to its Aptitude Value for that Aptitude, which it may only spend to Help itself or others on Checks related enough to that Aptitude. Unspent temporary Blessings disappear at the end of the session. If the companion is lost, stolen, destroyed, or you lose its loyalty, replacing it may require time and effort. |
+| *Effect:* You gain access to a creature companion, mechanical companion, or similar companion of your choice, within reason. The companion uses a $d6$ for all Stats and has its own Backstory, Aptitudes, and Vulnerabilities. It also has an Aptitude Value of $0-3$ for each Aptitude, totaling $8$, and if an Aptitude has an Aptitude Value of $3$ it is considered specialized. At the start of each session, for each Aptitude, the companion gains a number of temporary Blessings equal to its Aptitude Value for that Aptitude, which it may only spend to Help itself or others on Checks related enough to that Aptitude. Unspent temporary Blessings disappear at the end of the session. If the companion is lost, stolen, destroyed, or you lose its loyalty, replacing it may require time and effort. |
 
 | Harmonious Specialization |
 | --- |
@@ -1101,10 +1116,6 @@ At the end of each session, you receive one free Stat Upgrade for your character
 | Radiant Specialization |
 | --- |
 | *Effect:* During Endeavors, if you rolled for your position roll using Heart, Home, or an unconventional Stat balanced with either, as an action you may have your allies gain one of your other Aptitudes, including its Specialization if applicable, for a number of turns equal to half your position roll rounded down. *Recharge:* ④ |
-
-| Resistant Specialization |
-| --- |
-| *Effect:* Attacks made against you related enough to this Aptitude are one rank more difficult. |
 
 | Resolved Specialization |
 | --- |
@@ -1225,19 +1236,19 @@ At the end of each session, you receive one free Stat Upgrade for your character
 <table>
     <thead>
         <tr>
-            <th>Apts &amp; Specs</th>
+            <th>Apts, Specs, &amp; Vulns</th>
         </tr>
     </thead>
     <tbody>
         <tr>
             <td><ul>
-                <li><input placeholder="Aptitude [Specialization]" /></li>
-                <li><input placeholder="Aptitude [Specialization]" /></li>
-                <li><input placeholder="Aptitude [Specialization]" /></li>
-                <li><input placeholder="Aptitude [Specialization]" /></li>
-                <li><input placeholder="Aptitude [Specialization]" /></li>
-                <li><input placeholder="Aptitude [Specialization]" /></li>
-                <li><input placeholder="Aptitude [Specialization]" /></li>
+                <li><input placeholder="" /></li>
+                <li><input placeholder="" /></li>
+                <li><input placeholder="" /></li>
+                <li><input placeholder="" /></li>
+                <li><input placeholder="" /></li>
+                <li><input placeholder="" /></li>
+                <li><input placeholder="" /></li>
             </ul></td>
         </tr>
     </tbody>
