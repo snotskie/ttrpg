@@ -102,7 +102,7 @@ The online version of this book will automatically load in light or dark mode to
 - **Dice:** For Stats, this game uses a dice array, from $d2$ to $d10$. This game also uses a $d6$ pool for resources called "Blessings." Dice "bump": $1$s are rerolled, which feels like wiping the sweat from your brow and cutting the right wire. A special Stat, History, is unique to each character's Backstory.
 - **Checks:** Big rolls feel earned. Checks range from $2$ to $20+$, with a fixed success scale. Low success grants "busts," and high success grants "boons." Easy Checks round high failure up to low success, and Hard Checks require multiple successes.
 - **Sparking:** Two equal Blessings can be spent to "Spark" a roll. This combines two equal Stats, and if either bumps, both bump. This feels like trying to hold the lasers steady when you've crossed the streams.
-- **Character Creation:** Character creation focuses on character narrative. Lifestyles and Ethics represent your outlook on the world and your goals. Apts, Specs, and Vulns represent what you're good, very good, and not good at, and they keep the rules focused on the story over just Stats.
+- **Character Creation:** Character creation focuses on character narrative. Lifestyles and Ethics represent your outlook on the world and your goals. Apts and Specs represent what you're good, very good, and not good at, and they keep the rules focused on the story over just Stats.
 - **Endeavors:** This game has a customizable, accessible "Endeavor" system for representing scenes with prolonged tension, like combat or racing. Endeavors use tracks and buttons: There are no numbers, Stats, or board state to memorize. Everything is narrative or tangible.
 - **Access:** This game is published for free, open source, and in a digital format that follows your existing accessibility settings. You are welcome to redistribute (but not modify or sell) copies of this book.
 - **Community:** For community content and discussions, visit <https://github.com/snotskie/ttrpg/discussions>.
@@ -110,19 +110,17 @@ The online version of this book will automatically load in light or dark mode to
 ### "At Table Discretion"
 <!-- _class: intro -->
 
-Above all else, the rule that matters most in this game is "at table discretion."
+The rule that matters most is "at table discretion." This phrase captures how every tabletop game is different, has different wants and needs. Different players and characters. Different setting, tone, genre. Different supplies, pacing, time constraints. Different ideas on where to take the story next and different limits.
 
-What this looks like depends on your table&mdash;your players, game, setting, tone, genre.
+How "at table discretion" plays out depends on everything that goes into what makes your table unique.
 
-It could be up to a Game Master (GM) to adjudicate what happens, where to bend the rules as written, how to interpret them, and when to make up new ones.
+For some, it could be left up to a Game Master (GM) to adjudicate what happens, where to bend the rules as written, how to interpret them, and when to make up new ones. For others, they might prefer a rotating GM, majority vote, leaving things to chance, letting an artificial intelligence drive, or "vibing" what feels most satisfying for the story in the moment.
 
-It could be up to a rotating GM, an elected GM, a democratic GM role shared by all the players, even an artificial intelligence.
+Likely, it will be a mix of things and it certainly can change. The GM and the players can rely on one another when they forget things, blank on ideas, have had bad days, are feeling short on "spoons," or just need to change things up a bit.
 
-It could be just "vibes" based on what people want or what feels most satisfying for the story.
+A lot has been said and written by others in the tabletop community about how to make tabletop gaming fun, accessible, and equitable. And what I'll say here is that however "at table discretion" looks at your table, above all else it is yours.
 
-And it can be any mix of things and it certainly can change. The GM and the players can rely on one another when they have had bad days or are short on spoons at the moment.
-
-However "at table discretion" looks at your table, it's yours. I hope you can take these rules and run, that playing this game brings you joy, and that you can tell some fun stories.
+I hope you can take the rules that follow and run with them. I hope playing this game brings you joy and that you can tell some fun stories.
 
 ## Making Your First Character
 <!-- _class: center major creation -->
@@ -134,7 +132,7 @@ All characters in this game have a character sheet, which tracks:
 
 - Your **identifying information**, like name, age, and pronouns.
 - The **Stat Dice** you'll use for each of the Stats chosen at your table for the campaign.
-- A description of your **Backstory**, including your current **Lifestyle, Ethic, Aptitudes, and Vulnerabilities**.
+- A description of your **Backstory**, including your current **Lifestyle, Ethic, and Aptitudes**.
 - A list of **Specializations** that grant additional effects to your Aptitudes.
 - And other descriptive information, like your **appearance, items, alliances, and information learned**.
 
@@ -358,14 +356,14 @@ Begin to describe your character's story before, coming into, and outside of the
 - List **three specific people or groups** that your character regularly interacts with or have connections to, whether "good" or "bad" connections.
 - Describe **where your character could be found** on an average afternoon before the action of the story starts.
 
-These background details will help you and your table build the story and set your **Backstory**, which is used by your **History Stat** and your **Apts, Specs, and Vulns** (described later in this chapter). If your game's setting has **non-human characters** and your character is one of them, also work with your table to determine how your non-human background affects your Backstory or Stats.
+These background details will help you and your table build the story and set your **Backstory**, which is used by your **History Stat** and your **Apts and Specs** (described later in this chapter). If your game's setting has **non-human characters** and your character is one of them, also work with your table to determine how your non-human background affects your Backstory or Stats.
 
 And as you play, **keep notes**! These can help you reflect on your **character's relationship to the group's evolving narrative**. Maybe not everyone in the party is enthused about the items the party stole last time! Such reflection can help you **shape the course** of your Backstory and your character's development over the duration of the story, **make important character choices** during your sessions, and **inspire you and your table** for ideas for future scenes.
 
 ### Backstory
 <!-- _class: rules -->
 
-Each character has a Backstory, a list  or description of narrative elements from their background that help define the scope of their History Stat, connect them to other characters and events in the story, and set the stage for their Apts, Specs, and Vulns.
+Each character has a Backstory, a list  or description of narrative elements from their background that help define the scope of their History Stat, connect them to other characters and events in the story, and set the stage for their Apts and Specs.
 
 What makes up a Backstory is determined by the players at the table working together to craft the seeds for a good story. However, in general:
 
@@ -377,27 +375,27 @@ If your game's setting allows you to play non-human characters, there are genera
 - **High Variety:** If each player character has a different non-human background, then the simplest option is to use each character's Backstory to cover one or two simple actions, within reason, that characters of their background could perform unaided that humans couldn't.
 - **Low Variety:** If the player characters come from just a few non-human backgrounds, at table discretion, the scope of two or three Stats may be expanded to cover one or two simple actions each, within reason, that characters of their non-human backgrounds could perform unaided that humans couldn't.
 
-### Step Four · Choose Aptitudes and Vulnerabilities
+### Step Four · Choose Aptitudes
 <!-- _class: creation -->
 
-The following pages describe rules for **Aptitudes**, **Specializations**, and **Vulnerabilities**. You won't begin the game with Specializations, but you will start with Aptitudes and Vulnerabilities drawn from your Backstory.
+The following pages describe rules for **Aptitudes** and **Specializations**. You won't begin the game with Specializations, but you will start with Aptitudes drawn from your Backstory.
 
-To help you select your starting Aptitudes, begin to imagine your character. **Have you seen characters like them before?** With that in mind, **select two areas from your Backstory to begin the game "apt" in**. For example: Tying Knots (for a scout), Swordfighting (for a knight), Breathing Fire (for a dragonborn), Reading Legal Documents (for the child of a politician), Acting (for a theater kid), Manipulating Technology (for a hacker), Stunt Driving (for a stunt performer), Friendly Interactions with the Empire (for someone raised in the empire), Unfriendly Interactions with the Rebels (for someone raised in the empire). If you begin the game with a Stat Die of size $d8$, **select a third** area to begin the game apt in as well.
+To help you select your starting Aptitudes, begin to imagine your character. **Have you seen characters like them before?** With that in mind, **select two areas from your Backstory to begin the game "apt" in**. For example: Tying Knots (for a scout), Swordfighting (for a knight), Breathing Fire (for a dragonborn), Reading Legal Documents (for the child of a politician), Acting (for a theater kid), Manipulating Technology (for a hacker), Stunt Driving (for a stunt performer), Friendly Interactions with the Empire (for someone raised in the empire), Unfriendly Interactions with the Rebels (for someone raised in the empire).
 
-Also think about your character's flaws, what they care about enough to lose their composure over, and so on. With that in mind, **select two areas from your Backstory to begin the game "vulnerable" in**.
+If you begin the game with a Stat Die of size $d8$, **select a third** area to begin the game apt in as well.
 
 You may become apt in more areas or **specialize** your apt areas in the **Session Shop** later to gain **customized effects**.
 
-### Apt, Specs, and Vulns
+### Aptitudes and Specializations
 <!-- _class: rules -->
 
-Characters in this game may have a number of unique effects based on their Aptitudes, Specializations, and Vulnerabilities (or "Apts, Specs, and Vulns" for short), described below. The Session Shop chapter lists sample Specializations, which refer to rules described in the following chapters. However, for now you should know:
+Characters in this game may have a number of unique effects based on their Aptitudes and Specializations (or "Apts and Specs" for short), described below. The Session Shop chapter lists sample Specializations, which refer to rules described in the following chapters. However, for now you should know:
 
-- **Aptitudes and Vulnerabilities:** Your Aptitudes are the important and often unique narrative areas you are "apt" in. In contrast, your Vulnerabilities are the narrative areas you are "vulnerable" in.
+- **Aptitudes:** Your Aptitudes are the important and often unique narrative areas you are "apt" in.
 - **Specializations:** Your Specializations are the Aptitudes you have "specialized," which grant you unique effects depending on the nature of the specialization. You may specialize your Aptitudes in the Session Shop. An example is given on the next page.
 - **Specialization Limits:** You may not specialize the same Aptitude more than once or choose the same Specialization more than once.
-- **Aptitude Ease:** When you perform a Check related enough to your Aptitudes, you may round rolls of $3$ or $4$ up to $5$, regardless of the Check's difficulty. However, when you perform a Check related enough to your Vulnerabilities, its difficulty is one ranker higher.
-- **Aptitude Difficulty:** When another character Attacks you or Defends against your Delayed Attack, if the Check is related enough to your Aptitudes, its difficulty is one ranker higher, and if the relevant Aptitude is specialized, the difficulty is an additional rank higher. However, if the Check is related enough to your Vulnerabilities, its difficulty is one ranker lower.
+- **Aptitude Ease:** When you perform a Check related enough to your Aptitudes, you may round rolls of $3$ or $4$ up to $5$, regardless of the Check's difficulty.
+- **Aptitude Difficulty:** When another character Attacks you or Defends against your Delayed Attack, if the Check is related enough to your Aptitudes, its difficulty is one rank higher, and if the relevant Aptitude is specialized, the difficulty is an additional rank higher.
 
 ---
 <!-- _class: rules -->
@@ -475,7 +473,7 @@ Attacks are Checks performed against another character. There are two types of A
 To perform an Attack:
 
 1. **Attack Stat:** The Attacker chooses if their Attack is violent or non-violent and selects the appropriate Stat for it.
-2. **Defense Difficulty:** By default, the Check below is Normal. The Defender's Apts, Specs, and Vulns may modify the difficulty. Other effects or situations, at table discretion, may modify the difficulty further.
+2. **Defense Difficulty:** By default, the Check below is Normal. The Defender's Apts and Specs may modify the difficulty. Other effects or situations, at table discretion, may modify the difficulty further.
 3. **Attack Check:** The Attacker uses their chosen Stat to perform a Check to determine success for the action.
 
 ### Delayed Attacks
@@ -486,7 +484,7 @@ Sometimes Attacks are made that are Defended against at a later time, such as se
 To perform a Delayed Attack:
 
 1. **Set Trigger and Stat:** The Attacker describes the Attack and what condition would activate it. If the Delayed Attack is violent, the Stat it targets is Hurry. Otherwise, the targeted Stat is determined at table discretion.
-2. **Attack Difficulty:** By default, the Check below is Normal. The Attacker's Apts, Specs, and Vulns, at the time the trigger is set, may modify the difficulty. Other effects or situations, at table discretion, may modify the difficulty further.
+2. **Attack Difficulty:** By default, the Check below is Normal. The Attacker's Apts and Specs, at the time the trigger is set, may modify the difficulty. Other effects or situations, at table discretion, may modify the difficulty further.
 3. **Defend:** When the trigger is activated, the Defender uses the targeted Stat to perform a Check to determine success guarding against the triggered effect. If the Check fails, the Attack succeeds without boon or bust.
 
 ### Blessings
@@ -1079,7 +1077,7 @@ At the end of each session, you receive one free Stat Upgrade for your character
 
 | Friendly Specialization |
 | --- |
-| *Effect:* You gain access to a creature companion, mechanical companion, or similar companion of your choice, within reason. The companion uses a $d6$ for all Stats and has its own Backstory, Aptitudes, and Vulnerabilities. It also has an Aptitude Value of $0-3$ for each Aptitude, totaling $8$, and if an Aptitude has an Aptitude Value of $3$ it is considered specialized. At the start of each session, for each Aptitude, the companion gains a number of temporary Blessings equal to its Aptitude Value for that Aptitude, which it may only spend to Help itself or others on Checks related enough to that Aptitude. Unspent temporary Blessings disappear at the end of the session. If the companion is lost, stolen, destroyed, or you lose its loyalty, replacing it may require time and effort. |
+| *Effect:* You gain access to a creature companion, mechanical companion, or similar companion of your choice, within reason. The companion uses a $d6$ for all Stats and has its own Backstory and Aptitudes. It also has an Aptitude Value of $0-3$ for each Aptitude, totaling $8$, and if an Aptitude has an Aptitude Value of $3$ it is considered specialized. At the start of each session, for each Aptitude, the companion gains a number of temporary Blessings equal to its Aptitude Value for that Aptitude, which it may only spend to Help itself or others on Checks related enough to that Aptitude. Unspent temporary Blessings disappear at the end of the session. If the companion is lost, stolen, destroyed, or you lose its loyalty, replacing it may require time and effort. |
 
 | Harmonious Specialization |
 | --- |
@@ -1236,7 +1234,7 @@ At the end of each session, you receive one free Stat Upgrade for your character
 <table>
     <thead>
         <tr>
-            <th>Apts, Specs, &amp; Vulns</th>
+            <th>Apts &amp; Specs</th>
         </tr>
     </thead>
     <tbody>
