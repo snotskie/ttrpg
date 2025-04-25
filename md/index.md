@@ -394,7 +394,7 @@ Characters in this game may have a number of unique effects based on their Aptit
 - **Aptitudes:** Your Aptitudes are the important and often unique narrative areas you are "apt" in.
 - **Specializations:** Your Specializations are the Aptitudes you have "specialized," which grant you unique effects depending on the nature of the specialization. You may specialize your Aptitudes in the Session Shop. An example is given on the next page.
 - **Specialization Limits:** You may not specialize the same Aptitude more than once or choose the same Specialization more than once.
-- **Aptitude Ease:** When you perform a Check related enough to your Aptitudes, you may round rolls of $3$ or $4$ up to $5$, regardless of the Check's difficulty.
+- **Aptitude Ease:** When you perform a Check related enough to your Aptitudes, you may round rolls of $3$ or $4$ up to $5$.
 - **Aptitude Difficulty:** When another character Attacks you or Defends against your Delayed Attack, if the Check is related enough to your Aptitudes, its difficulty is one rank higher, and if the relevant Aptitude is specialized, the difficulty is an additional rank higher.
 
 ---
@@ -456,10 +456,10 @@ To perform a Check:
 
   | Difficulty | Effect |
   | ---------- | ------ |
-  | Easy | Round rolls of $3$ or $4$ up to $5$. |
+  | Easy | Round rolls of $3$ or $4$ up to $5$, as though you were apt in the action. |
   | Normal | *No effect.* |
   | Hard | Perform the roll twice. If either would fail, the whole Check fails. Boons and busts stack. |
-  | Complex | Perform the roll several times, at table discretion. May require a mix of Stats or characters working together. If more than half would fail, the whole Check fails. Boons and busts stack. |
+  | Complex | Perform the roll several times. At table discretion, this may require a mix of Stats or characters working together. If two or more would fail, the whole Check fails. Boons and busts stack. |
 </div>
 
 ### Attacks
@@ -563,7 +563,7 @@ To provide Help:
 
 1. **Help Cost:** Once per roll you may spend ① to Help another character.
 2. **Help Bonus:** Add half the value of the spent Blessing to the roll, rounded down, to a minimum of $1$.
-3. **Help Bust:** Teamwork makes the dream work, but it also complicates the situation. Regardless of Check's result, it gains an additional bust.
+3. **Help Bust:** Teamwork makes the dream work, but it also complicates the situation. Regardless of the Check's result, it gains an additional bust.
 
 Also note:
 
@@ -597,8 +597,8 @@ Also note:
 Some upgrade options in the Session Shop describe effects that use one or more terms defined below, as shorthand for a number of rules described above.
 
 - **Recharge:** Some effects list a recharge Blessing cost. Once activated, these effects cannot be activated again until they have been recharged by paying that cost.
-- **Overcharged:** Lifestyle upgrade options overcharge one or two of your Stats. When you Spark a roll using an overcharged Stat, you may round ir from $6$ or $7$ up to $8$.
-- **Bank:** Ethic upgrade options describe opportunities to bank boons or busts. When you bank a boon or a bust, set it aside instead of resolving its impacts on the narrative. Track the number of boons or busts you've banked, as well as which effects you banked them through, as such effects will describe ways you can then spend them. If multiple effects would bank the same boon or bust, resolve which one applies at table discretion.
+- **Ignite:** Lifestyle upgrades Ignite one or two of your Stats. When you Spark a roll using an Ignited Stat, you may round it from $6$ or $7$ up to $8$.
+- **Bank:** Ethic upgrades bank boons or busts. When you bank a boon or a bust, set it aside instead of resolving its impacts on the narrative. Track the number of boons or busts you've banked, as well as which effects you banked them through, as such effects will describe ways you can then spend them. If multiple effects would bank the same boon or bust, resolve which one applies at table discretion.
 
 ### Conditions
 <!-- _class: rules -->
@@ -647,17 +647,18 @@ Endeavors are carried out as a number of rounds in which the characters attempt 
 
 Rounds are carried out as follows:
 
-1. **Roll for Position:** At the start of each round, choose a Stat to roll to get yourself in position for the actions you plan to take this round. The narrative for your action does not have to be fully formed, just what Stat to use and whether you want to Spark it. These rolls are not yet considered Checks and they may not be modified until they are used during your turn.
-2. **Gain Temporary Blessings:** Gain a number of temporary Blessings equal to half your position roll, rounded down. Any remaining temporary Blessings disappear at the end of the Endeavor.
-3. **Follow Turn Order:** Turn order follows the number of temporary Blessings, lowest to highest, resolving ties at table discretion.
+1. **Roll for Position:** At the start of each round, choose a Stat and roll it to get yourself in position for the actions you plan to take this round. The narrative for your action does not have to be fully formed.
+2. **Gain Temporary Blessings:** Gain a number of temporary Blessings equal to the standard amount, described below. Any remaining temporary Blessings disappear at the end of the Endeavor.
+3. **Follow Turn Order:** Turn order then starts with whoever has the least temporary Blessings and rotates in the direction away from whoever has the most temporary Blessings, resolving ties at table discretion.
 
 <div>
   <p>
     Also note:
   </p>
 
+  - **Standard Amount:** The "standard amount" is half your initial, unmodified position roll for the round, rounded down, to a minimum of $1$. The standard amount used for a Delayed Attack is determined on the round the Attack's trigger is set, not when it resolves.
   - **Limited Position Rolls:** At table discretion, the Stats you can choose from when rolling position rolls may be limited in certain situations.
-  - **Shifting Turn Order:** If your number of temporary Blessings increases or decreases before you take your turn, the turn order may change. The next turn always goes to whoever has not acted yet with the least temporary Blessings.
+  - **Reversing Turn Order:** When numbers of temporary Blessings change, if you would no longer have the most, you may reverse the turn order direction, skipping those who have acted already.
 </div>
 
 ### Actions
@@ -669,8 +670,7 @@ In general:
 
 - **Limited Actions:** Your action choices may be limited at table discretion in certain situations, some may only be taken if your position roll used certain Stats, and all can only be taken if they would be narratively reasonable.
 - **Position Rolls:** Some actions use your position roll to perform Checks, and some ignore it. When a position roll is ignored, it's as though it never happened, though any resources spent on it remain spent.
-- **Standard Amount:** When an action involves a Check, the effect may mention a "standard amount." This is half your position roll, rounded down, minus one for each bust, plus one for each boon, to a minimum of $1$. If an effect modifies your position roll, it also modifies the standard amount. If  the action uses a Delayed Attack, the standard amount is calculated using your position roll at the time you set the Attack's trigger.
-- **Actions with Hard or Complex Checks:** If an action's Check requires multiple rolls, use your position roll for the first, then perform the rest as normal.
+- **Actions with Hard or Complex Checks:** If an action's Check requires multiple rolls, use your position roll for the first, then perform the rest.
 - **Special Actions:** Actions with the `Special Action` tag cannot be performed during your turn. Instead, at the end of the round after all other actions are complete, whoever has the highest number of Blessings chooses a special action to perform, resolving ties at table discretion.
 - **Effects as Normal:** You may also activate your other effects as normal, whenever would be most appropriate during, before, or after your turn.
 
@@ -681,7 +681,7 @@ Endeavors use "tracks" to record character positions, scores, progress towards g
 
 In general:
 
-- **Movement:** Tracks begin at $0$ and go up by whole numbers as high as needed. The Endeavor's setup instructions will describe where characters begin, and its action options will describe when characters move and by how much.
+- **Movement:** Tracks begin at $0$ and go up by whole numbers as high as needed. The Endeavor's setup instructions will describe where characters begin, and its action options will describe how characters move.
 - **Group Movement:** If a group moves together an amount, they only move a total of that amount. Unless the Endeavor's setup instructions specifies otherwise, how the group distributes this movement among its members is up to the group to decide: they may distribute the movement evenly, give it all to one member, or any other arrangement they agree on.
 - **Buttons:** Endeavors also add a number of buttons to the track. There are two types of buttons, personal and global. Personal buttons can only be activated by the character associated with them, whereas global buttons can be activated by any character. If an Endeavor uses buttons, it will describe how each is activated and the effect that happens as a result. Additionally, buttons may have a passive effect that applies while the button is present or a cumulative effect that activates only once if multiple instances of that effect would activate at the same time.
 - **Community:** For printable tracks and other Endeavor resources, visit <https://github.com/snotskie/ttrpg/discussions>.
@@ -693,10 +693,11 @@ Some campaigns or sessions may involve the player characters facing off against 
 
 These are performed like any other Endeavor, with the following adjustments, action options, and buttons:
 
-- **Monstrosities:** Your opponents are "monstrosities," which are characters as usual, but with a Starting Position (SP) representing how hard they are to remove from the Endeavor and any number of secret tags that affect the rules of their actions and buttons.
+- **Monstrosities:** Your opponents are "monstrosities," which are characters as usual, but with a Starting Position (SP) representing how hard they are to remove from the Endeavor, as well as a number of secret tags that affect their actions and buttons.
 - **Setup:** You and your "allies" begin at position $0$. If an opponent has an SP of $10 (3)$, for example, they begin at position $10$ and add a Recovery button $3$ below that. All opponents also add a Defeat button at position $0$.
 - **Goal:** Move all your opponents to position $0$ before they can give you three Wound buttons in a row.
 - **Wounds:** When you are "wounded," gain a Wound button at the first position at or above your current track position without one already.
+- **Resolving Ties:** At the end of the round, if opposing sides are tied for the most temporary Blessings, no one takes a special action that round.
 
 <div>
   <h4>
@@ -743,7 +744,7 @@ These are performed like any other Endeavor, with the following adjustments, act
       <tr>
         <th scope="row" rowspan="2">Attack</th>
         <th scope="row">Violent</th>
-        <td><i>Hurt only.</i> Use your position roll to violently Attack an opponent. On a Maximum Success, remove them from the Endeavor. On other successes, wound them. Then for each bust they move up by one, and for each boon you move up by one, to a maximum of your SP.</td>
+        <td><i>Hurt only.</i> Use your position roll to violently Attack an opponent. On a Maximum Success, remove them from the Endeavor. On other successes, wound them.</td>
       </tr>
       <tr>
         <th scope="row">Non-violent</th>
@@ -751,7 +752,7 @@ These are performed like any other Endeavor, with the following adjustments, act
       </tr>
       <tr>
         <th scope="row" colspan="2">Advance</th>
-        <td><i>Not Hurt.</i> Use your position roll to perform a Check to advance your team's objectives. On a success, add two Scheme buttons at the first positions at or above your current position without one already, adding one less for each bust and one more for each boon.</td>
+        <td><i>Not Hurt.</i> Ignore your position roll and advance your team's objectives. On a success, add two Scheme buttons at the first positions at or above your current position without one already.</td>
       </tr>
       <tr>
         <th scope="row" colspan="2">Protect</th>
@@ -798,7 +799,7 @@ These are performed like any other Endeavor, with the following adjustments, act
       <tr>
       <tr>
         <th scope="row">Perform Combo</th>
-        <td><code>Special Action</code> Choose an opponent, then any number of additional opponents with a number of temporary Blessings less than half your number of temporary Blessings, rounded down. Then spend all your temporary Blessings and wound the chosen opponents. Any opponents with three or more Wound buttons in a row are removed from the Endeavor.</td>
+        <td><code>Special Action</code> Choose an opponent, then any number of additional opponents with a number of temporary Blessings less than half your number of temporary Blessings, rounded down. Then spend all your temporary Blessings, wound the chosen opponents, and any opponents with three or more Wound buttons in a row are removed from the Endeavor.</td>
       </tr>
       <tr>
         <th scope="row">Declare Victory</th>
@@ -815,16 +816,16 @@ These are performed like any other Endeavor, with the following adjustments, act
   <table>
     <tbody>
       <tr>
-        <th scope="row">Wound</th><td><i>Type:</i> Personal. <i>Activation:</i> Activate this button when you move over it. <i>Effect:</i> Decrease your remaining movement by 1, to a minimum of 0.</td>
+        <th scope="row">Wound</th><td><i>Type:</i> Personal. <i>Activation:</i> Activated when you move over it. <i>Effect:</i> Decrease your remaining movement by 1, to a minimum of 0.</td>
       </tr>
       <tr>
         <th scope="row">Scheme</th><td><i>Type:</i> Global. <i>Activation:</i> None. <i>Effect:</i> None.</td>
       </tr>
       <tr>
-        <th scope="row">Recovery</th><td><i>Type:</i> Personal. <i>Activation:</i> Activate this button when you move over it. <i>Effect:</i> End your movement, remove this button, and return to your starting position. Then if you have the <code>Revenge</code> tag, use your position roll to Attack an opponent who caused you to move down this round, even if you have already acted this round. Then at the end of each round, if you have the <code>Unrelenting</code> tag, for each time you've activated a Recovery button, you may use your position roll to Attack an opponent even if you have already acted this round. <i>Passive:</i> If you have the <code>Horde</code> tag, each time you roll, roll an additional time and ignore the lowest value. If you have the <code>Immunity</code> tag, Attacks against you related enough to your Aptitudes automatically fail.</td>
+        <th scope="row">Recovery</th><td><i>Type:</i> Personal. <i>Activation:</i> Activated when you move over it. <i>Effect:</i> End your movement, remove this button, and return to your starting position. Then if you have the <code>Revenge</code> tag, use your position roll to Attack an opponent who caused you to move down this round, even if you have already acted this round. Then at the end of each round, if you have the <code>Unrelenting</code> tag, for each time you've activated a Recovery button, you may use your position roll to Attack an opponent even if you have already acted this round. <i>Passive:</i> If you have the <code>Horde</code> tag, each time you roll, roll an additional time and ignore the lowest value. If you have the <code>Immunity</code> tag, Attacks against you related enough to your Aptitudes automatically fail.</td>
       </tr>
       <tr>
-        <th scope="row">Defeat</th><td><i>Type:</i> Personal. <i>Activation:</i> Activate this button when you move over it. <i>Effect:</i> End your movement, remove this button, and you are removed from the Endeavor.</td>
+        <th scope="row">Defeat</th><td><i>Type:</i> Personal. <i>Activation:</i> Activated when you move over it. <i>Effect:</i> End your movement, remove this button, and you are removed from the Endeavor.</td>
       </tr>
     </tbody>
   </table>
@@ -900,10 +901,10 @@ These are performed like any other Endeavor, with the following adjustments, act
   <table>
     <tbody>
       <tr>
-        <th scope="row">Terrain</th><td><i>Type:</i> Personal. <i>Activation:</i> Activate this button when you move over it while moving up. <i>Effect:</i> End your movement. <i>Passive:</i> If this button has the <code>Area</code> tag and is the nearest button at or below your current track position, it limits the Stats you may use for position rolls.</td>
+        <th scope="row">Terrain</th><td><i>Type:</i> Personal. <i>Activation:</i> Activated when you move over it while moving up. <i>Effect:</i> End your movement. <i>Passive:</i> If this button has the <code>Area</code> tag and is the nearest button at or below your current track position, it limits the Stats you may use for position rolls.</td>
       </tr>
       <tr>
-        <th scope="row">Fatigue</th><td><i>Type:</i> Personal. <i>Activation:</i> Activate this button at the end of the round, before special actions. <i>Culumative Effect:</i> Perform a Check to remain in the race. This Check is Easy, plus one difficulty rank for each Fatigue button past the first. On a failure, you are removed from the Endeavor. On a success, remove one Fatigue button. </td>
+        <th scope="row">Fatigue</th><td><i>Type:</i> Personal. <i>Activation:</i> Activated at the end of the round, before special actions. <i>Culumative Effect:</i> Perform a Check to remain in the race. This Check is Easy, plus one difficulty rank for each Fatigue button past the first. On a failure, you are removed from the Endeavor. On a success, remove one Fatigue button. </td>
       </tr>
     </tbody>
   </table>
@@ -962,43 +963,43 @@ At the end of each session, you receive one free Stat Upgrade for your character
 
 | 🌼 Blossomed Lifestyle | 
 | --- |
-| *Description:* Your carefree nature has kept you safe from harm and surrounded by friends. When you Spark, it might take on a free and connected aspect. *Effect:* Overcharge your Heart and Hurry Stats, as though you were aided by the love and connectedness you feel for those around you. |
+| *Description:* Your carefree nature has kept you safe from harm and surrounded by friends. When you Spark, it might take on a free and connected aspect. *Effect:* Ignite your Heart and Hurry Stats, as though you were aided by the love and connectedness you feel for those around you. |
 
 | 🔮 Prodigious Lifestyle | 
 | --- |
-| *Description:* Your studies have come effortlessly to you, and secrets almost seem to just reveal themselves to you. When you Spark, it might take on a sorcerous or uninhibited aspect. *Effect:* Overcharge your Head and Hurt Stats, as though you were aided by a raw innate power. |
+| *Description:* Your studies have come effortlessly to you, and secrets almost seem to just reveal themselves to you. When you Spark, it might take on a sorcerous or uninhibited aspect. *Effect:* Ignite your Head and Hurt Stats, as though you were aided by a raw innate power. |
 
 | 🧶 Crafty Lifestyle | 
 | --- |
-| *Description:* You can envision amazing designs and, it seems, to bring them to life. When you Spark, it might take on an autonomous or lucky aspect. *Effect:* Overcharge your Hand and Home Stats, as though you were aided by your own sudden creativity. |
+| *Description:* You can envision amazing designs and, it seems, to bring them to life. When you Spark, it might take on an autonomous or lucky aspect. *Effect:* Ignite your Hand and Home Stats, as though you were aided by your own sudden creativity. |
 
 | ⚜️ Driven Lifestyle | 
 | --- |
-| *Description:* Your eager drive has found purchase in a great mission or calling. When you Spark, it might take on an incorrigible or resolute aspect. *Effect:* Overcharge your Hand and Hurt Stats, as though you were aided by your own faith in your mission. |
+| *Description:* Your eager drive has found purchase in a great mission or calling. When you Spark, it might take on an incorrigible or resolute aspect. *Effect:* Ignite your Hand and Hurt Stats, as though you were aided by your own faith in your mission. |
 
 | ✨ Chosen Lifestyle | 
 | --- |
-| *Description:* You draw inspiration from the community around you, setting out on your journeys blessed, favored, or even cursed. When you Spark, it might take on a divine or noble aspect. *Effect:* Overcharge your Heart and Home Stats, as though you were aided by the will of the people whose lives you've touched. |
+| *Description:* You draw inspiration from the community around you, setting out on your journeys blessed, favored, or even cursed. When you Spark, it might take on a divine or noble aspect. *Effect:* Ignite your Heart and Home Stats, as though you were aided by the will of the people whose lives you've touched. |
 
 | ⚡ Wired Lifestyle | 
 | --- |
-| *Description:* Your mind is quick and analytical, and you can see solutions to problems that are unimaginably complex. When you Spark, it might take on a calculating or duplicative aspect. *Effect:* Overcharge your Head and Hurry Stats, as though you were aided by your own mind palace. |
+| *Description:* Your mind is quick and analytical, and you can see solutions to problems that are unimaginably complex. When you Spark, it might take on a calculating or duplicative aspect. *Effect:* Ignite your Head and Hurry Stats, as though you were aided by your own mind palace. |
 
 | 🪬 Steadfast Lifestyle | 
 | --- |
-| *Description:* Your wise steadiness and alertness have made you adept at warding off harm and protecting your loved ones. When you Spark, it might take on a firm or dispelling aspect. *Effect:* Overcharge your Head and Home Stats, as though you were aided by your care for others. |
+| *Description:* Your wise steadiness and alertness have made you adept at warding off harm and protecting your loved ones. When you Spark, it might take on a firm or dispelling aspect. *Effect:* Ignite your Head and Home Stats, as though you were aided by your care for others. |
 
 | 👁️ Warry Lifestyle | 
 | --- |
-| *Description:* You are one with the natural and supernatural worlds around you, and you have a keen sense of danger and safety. When you Spark, it might take on an astral or prophetic aspect. *Effect:* Overcharge your Hand and Hurry Stats, as though you were aided by knowledge only you could know in that moment. |
+| *Description:* You are one with the natural and supernatural worlds around you, and you have a keen sense of danger and safety. When you Spark, it might take on an astral or prophetic aspect. *Effect:* Ignite your Hand and Hurry Stats, as though you were aided by knowledge only you could know in that moment. |
 
 | 👄 Compelling Lifestyle | 
 | --- |
-| *Description:* You seem able to spin any loss into a win&mdash;or vice versa&mdash;, and you are a sly, tactical force to be reckoned with. When you Spark, it might take on an illusory or vicious aspect. *Effect:* Overcharge your Heart and Hurt Stats, as though you were aided by your own ambition. |
+| *Description:* You seem able to spin any loss into a win&mdash;or vice versa&mdash;, and you are a sly, tactical force to be reckoned with. When you Spark, it might take on an illusory or vicious aspect. *Effect:* Ignite your Heart and Hurt Stats, as though you were aided by your own ambition. |
 
 | 💎 Lost Lifestyle |
 | --- |
-| *Description:* You feel a disconnect from your own past or former sense of self, perhaps because of an exile from your home, an erased memory, or a period of transition or deep self-reflection. When you Spark, it might take on an erratic or liminal aspect. *Effect:* Overcharge your History Stat, as though you were aided by your quest for self-discovery. |
+| *Description:* You feel a disconnect from your own past or former sense of self, perhaps because of an exile from your home, an erased memory, or a period of transition or deep self-reflection. When you Spark, it might take on an erratic or liminal aspect. *Effect:* Ignite your History Stat, as though you were aided by your quest for self-discovery. |
 
 | ⚕️ Pride & Prudence Ethic |
 | --- |
@@ -1097,7 +1098,7 @@ At the end of each session, you receive one free Stat Upgrade for your character
 
 | Kinetic Specialization |
 | --- |
-| *Effect:* During Endeavors, if you rolled for your position roll using Hand, Home, or an unconventional Stat balanced with either, after position rolls have been made and before temporary Blessings have been gained, you may exchange your position roll with an ally who rolled lower. This does not change your Stats in use. *Recharge:* ③. |
+| *Effect:* During Endeavors, if you rolled for your position roll using Hand, Home, or an unconventional Stat balanced with either, after position rolls have been made and before temporary Blessings have been gained, you may exchange your position roll with an ally who rolled lower. This does not change your Stats in use, but does change your standard amounts. *Recharge:* ③. |
 
 | Mischievous Specialization |
 | --- |
@@ -1113,7 +1114,7 @@ At the end of each session, you receive one free Stat Upgrade for your character
 
 | Radiant Specialization |
 | --- |
-| *Effect:* During Endeavors, if you rolled for your position roll using Heart, Home, or an unconventional Stat balanced with either, as an action you may have your allies gain one of your other Aptitudes, including its Specialization if applicable, for a number of turns equal to half your position roll rounded down. *Recharge:* ④ |
+| *Effect:* During Endeavors, if you rolled for your position roll using Heart, Home, or an unconventional Stat balanced with either, as an action you may have your allies gain one of your other Aptitudes, including its Specialization if applicable, for a number of turns equal to the standard amount. *Recharge:* ④ |
 
 | Resolved Specialization |
 | --- |
@@ -1145,7 +1146,11 @@ At the end of each session, you receive one free Stat Upgrade for your character
 
 | Sure-footed Specialization |
 | --- |
-| *Effect:* During Endeavors, when you take the Protect action to protect yourself, its effect lasts a number of rounds equal to half your position roll, rounded down. |
+| *Effect:* During Endeavors, when you take the Protect action to protect yourself, its effect lasts a number of rounds equal to the standard amount. |
+
+| Tactical Specialization |
+| --- |
+| *Effect:* During Endeavors, on your turn you may have an ally Help you who has not acted yet. If they do, they skip their turn this round. |
 
 | Vibe Specialization |
 | --- |
@@ -1157,7 +1162,7 @@ At the end of each session, you receive one free Stat Upgrade for your character
 
 | Zealous Specialization |
 | --- |
-| *Effect:* During Endeavors, if you rolled Head, Heart, or an unconventional Stat balanced with either for your position roll, as an action you may ignore your position roll and instead have you and your allies each gain a Zeal button $1$ below your current track positions. *Recharge:* ④. **Zeal button:** *Type:* Personal. *Activation:* Activate this button when you move over it. *Effect:* End your movement, remove this button, and immediately Attack a nearby opponent, even if you have already acted this round. |
+| *Effect:* During Endeavors, if you rolled Head, Heart, or an unconventional Stat balanced with either for your position roll, as an action you may ignore your position roll and instead have you and your allies each gain a Zeal button $1$ below your current track positions. *Recharge:* ④. **Zeal button:** *Type:* Personal. *Activation:* Activated when you move over it. *Effect:* End your movement, remove this button, and immediately Attack a nearby opponent, even if you have already acted this round. |
 
 ## Character Sheet
 <!-- _class: major center -->
