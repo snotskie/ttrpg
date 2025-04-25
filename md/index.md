@@ -1050,7 +1050,7 @@ At the end of each session, you receive one free Stat Upgrade for your character
 
 | Commanding Specialization |
 | --- |
-| *Effect:* During Endeavors, as an action you may ignore your position roll and choose an ally who has not acted yet to roll a new position roll. They may choose a new Stat for this roll. *Recharge:* ③. |
+| *Effect:* During Endeavors, as an action you may ignore your position roll and choose an ally who has not acted yet to roll a new position roll. They may choose a new Stat for this roll, and this may change their standard amount. *Recharge:* ③. |
 
 | Coordinated Specialization |
 | --- |
