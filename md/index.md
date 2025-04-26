@@ -102,7 +102,7 @@ The online version of this book will automatically load in light or dark mode to
 - **Dice:** For Stats, this game uses a dice array, from $d2$ to $d10$. This game also uses a $d6$ pool for resources called "Blessings." Dice "bump": $1$s are rerolled, which feels like wiping the sweat from your brow and cutting the right wire. A special Stat, History, is unique to each character's Backstory.
 - **Checks:** Big rolls feel earned. Checks range from $2$ to $20+$, with a fixed success scale. Low success grants "busts," and high success grants "boons." Easy Checks round high failure up to low success, and Hard Checks require multiple successes.
 - **Sparking:** Two equal Blessings can be spent to "Spark" a roll. This combines two equal Stats, and if either bumps, both bump. This feels like trying to hold the lasers steady when you've crossed the streams.
-- **Character Creation:** Character creation focuses on character narrative. Lifestyles and Ethics represent your outlook on the world and your goals. Apts and Specs represent what you're good, very good, and not good at, and they keep the rules focused on the story over just Stats.
+- **Character Creation:** Character creation focuses on character narrative. Lifestyles and Ethics represent your outlook on the world and your goals. Apts and Specs represent what you're good at, and they keep the rules focused on the story over just Stats.
 - **Endeavors:** This game has a customizable, accessible "Endeavor" system for representing scenes with prolonged tension, like combat or racing. Endeavors use tracks and buttons: There are no numbers, Stats, or board state to memorize. Everything is narrative or tangible.
 - **Access:** This game is published for free, open source, and in a digital format that follows your existing accessibility settings. You are welcome to redistribute (but not modify or sell) copies of this book.
 - **Community:** For community content and discussions, visit <https://github.com/snotskie/ttrpg/discussions>.
@@ -141,7 +141,7 @@ You can find a blank Character Sheet form at the end of this book. Other charact
 ### Step One · Choose Highest Stat
 <!-- _class: creation -->
 
-The following pages describe the **Stats** used in *Humanity, Blessed*, known collectively as **the H's of Humanity**. Your table may add an additional Stat as well.
+The following pages describe the **Stats** used in *Humanity, Blessed*, known collectively as **the H's of Humanity**. Your table may add an additional Stat as well, from the list of Optional Stats provided or by creating your own.
 
 Your first task is to decide **which Stat your character is best at**.
 
@@ -368,11 +368,11 @@ Each character has a Backstory, a list  or description of narrative elements fro
 What makes up a Backstory is determined by the players at the table working together to craft the seeds for a good story. However, in general:
 
 - **Unique:** Your Backstory should define unique skills, connections, events, traits, and other narrative elements that your character brings to the story.
-- **Variety:** Your Backstory should have enough variety that not all or most of your Backstory would already be covered by a single Stat.
+- **Variety:** Your Backstory should have enough variety that not all or most of your History would already be covered by a single Stat.
 
 If your game's setting allows you to play non-human characters, there are generally two approaches for how to represent it. The choice depends on the variety of non-human backgrounds among players:
 
-- **High Variety:** If each player character has a different non-human background, then the simplest option is to use each character's Backstory to cover one or two simple actions, within reason, that characters of their background could perform unaided that humans couldn't.
+- **High Variety:** If each player character has a different non-human background, then the simplest option is to use each character's History to cover one or two simple actions, within reason, that characters of their background could perform unaided that humans couldn't.
 - **Low Variety:** If the player characters come from just a few non-human backgrounds, at table discretion, the scope of two or three Stats may be expanded to cover one or two simple actions each, within reason, that characters of their non-human backgrounds could perform unaided that humans couldn't.
 
 ### Step Four · Choose Aptitudes
@@ -412,12 +412,14 @@ Characters in this game may have a number of unique effects based on their Aptit
   5. **Shared Storytelling:** Finally, the players at the table chat further about the flavor of this Specialization to help everyone prepare for the next session.
 </div>
 
-### Finishing Touches · Items and Appearance
+### Finishing Touches · Appearance and Things
 <!-- _class: creation -->
 
-Finally, **describe your character's appearance** and list **three or four items** your character always carries, within reason. These will be the items you begin the game with.
+Finally, **describe your character's appearance** and list **three or four things** your character gained before the events of the story or always has, within reason, such as items, information, and alliances. These will be what you begin the game with.
 
-You'll track a list of items that you typically carry with you, and other items you may have can be **determined in the moment**: Over the course of the story, you may perform Home Checks to **find** new items, **create** new items, **purchase and sell** items, and even see if you **already have** items that could be narratively reasonable for you to have.
+Then, for example, you'll track a list of items that you typically carry with you, and other items you may have can be **determined in the moment**: Over the course of the story, you may perform Home Checks to **find** new items, **create** new items, **purchase and sell** items, and even see if you **already have** items that could be narratively reasonable for you to have.
+
+Similarly, you'll track and perform Checks to **gain, maintain, create, trade in, and already have** all kinds of "things gained" beyond just items, like information and alliances.
 
 ## Playing the Game
 <!-- _class: center major rules -->
@@ -579,7 +581,7 @@ A pair of balanced Stats and can be "Sparked." Sparks are what allow characters 
 
 In general, Spark rolls work by grouping Stat Dice and rolling them, increasing the odds of bumping. To perform a Spark roll:
 
-1. **Spark a Roll:** Before rolling, you may spend ⊜⊜ to instead combine and roll the dice of two balanced Stats as a single group, such as $2d6$ formed from two Stats that use a $d6$.
+1. **Spark a Roll:** Before rolling, you may spend ⊜⊜ to instead combine and roll the dice of two balanced Stats as a single group, such as $2d6$ formed from two Stats that use a $d6$. When either die bumps, both bump.
 2. **Apply Usual Effects:** Effects that apply to either of the Stats used in the Spark roll also apply to the Spark roll itself.
 
 Alternatively, you can upgrade an existing roll into a Spark roll:
@@ -596,7 +598,7 @@ Also note:
 
 Some upgrade options in the Session Shop describe effects that use one or more terms defined below, as shorthand for a number of rules described above.
 
-- **Recharge:** Some effects list a recharge Blessing cost. Once activated, these effects cannot be activated again until they have been recharged by paying that cost.
+- **Recharge:** Some effects list a recharge Blessing cost. Once activated, these effects cannot be activated again until the cost is paid.
 - **Ignite:** Lifestyle upgrades Ignite one or two of your Stats. When you Spark a roll using an Ignited Stat, you may round it from $6$ or $7$ up to $8$.
 - **Bank:** Ethic upgrades bank boons or busts. When you bank a boon or a bust, set it aside instead of resolving its impacts on the narrative. Track the number of boons or busts you've banked, as well as which effects you banked them through, as such effects will describe ways you can then spend them. If multiple effects would bank the same boon or bust, resolve which one applies at table discretion.
 
@@ -647,9 +649,9 @@ Endeavors are carried out as a number of rounds in which the characters attempt 
 
 Rounds are carried out as follows:
 
-1. **Roll for Position:** At the start of each round, choose a Stat and roll it to get yourself in position for the actions you plan to take this round. The narrative for your action does not have to be fully formed.
+1. **Roll for Position:** Before each round, choose a Stat and roll it to get yourself in position for the actions you plan to take that round. The narrative for your action does not have to be fully formed.
 2. **Gain Temporary Blessings:** Gain a number of temporary Blessings equal to the standard amount, described below. Any remaining temporary Blessings disappear at the end of the Endeavor.
-3. **Follow Turn Order:** Turn order then starts with whoever has the least temporary Blessings and rotates in the direction away from whoever has the most temporary Blessings, resolving ties at table discretion.
+3. **Follow Turn Order:** Turns for the round then start with whoever has the least temporary Blessings, rotating in the direction away from whoever has the most temporary Blessings, resolving ties at table discretion.
 
 <div>
   <p>
@@ -658,7 +660,7 @@ Rounds are carried out as follows:
 
   - **Standard Amount:** The "standard amount" is half your initial, unmodified position roll for the round, rounded down, to a minimum of $1$. The standard amount used for a Delayed Attack is determined on the round the Attack's trigger is set, not when it resolves.
   - **Limited Position Rolls:** At table discretion, the Stats you can choose from when rolling position rolls may be limited in certain situations.
-  - **Reversing Turn Order:** When numbers of temporary Blessings change, if you would no longer have the most, you may reverse the turn order direction, skipping those who have acted already.
+  - **Reversing Turn Order:** During the round, if the numbers of temporary Blessings change and you would no longer have the most, you may reverse the turn order direction, skipping those who have acted already.
 </div>
 
 ### Actions
@@ -668,10 +670,10 @@ Each round during your turn, you may choose and perform one action from the set 
 
 In general:
 
-- **Limited Actions:** Your action choices may be limited at table discretion in certain situations, some may only be taken if your position roll used certain Stats, and all can only be taken if they would be narratively reasonable.
+- **Limited Actions:** Your action choices may be limited at table discretion in certain situations, some may only be taken if your position roll used certain Stats, and all must be narratively reasonable to be taken.
 - **Position Rolls:** Some actions use your position roll to perform Checks, and some ignore it. When a position roll is ignored, it's as though it never happened, though any resources spent on it remain spent.
 - **Actions with Hard or Complex Checks:** If an action's Check requires multiple rolls, use your position roll for the first, then perform the rest.
-- **Special Actions:** Actions with the `Special Action` tag cannot be performed during your turn. Instead, at the end of the round after all other actions are complete, whoever has the highest number of Blessings chooses a special action to perform, resolving ties at table discretion.
+- **Special Actions:** Actions with the `Special Action` tag cannot be performed during your turn. Instead, after the round when all other actions are complete, whoever has the highest number of Blessings chooses a special action to perform, resolving ties at table discretion.
 - **Effects as Normal:** You may also activate your other effects as normal, whenever would be most appropriate during, before, or after your turn.
 
 ### Tracks
@@ -697,7 +699,7 @@ These are performed like any other Endeavor, with the following adjustments, act
 - **Setup:** You and your "allies" begin at position $0$. If an opponent has an SP of $10 (3)$, for example, they begin at position $10$ and add a Recovery button $3$ below that. All opponents also add a Defeat button at position $0$.
 - **Goal:** Move all your opponents to position $0$ before they can give you three Wound buttons in a row.
 - **Wounds:** When you are "wounded," gain a Wound button at the first position at or above your current track position without one already.
-- **Resolving Ties:** At the end of the round, if opposing sides are tied for the most temporary Blessings, no one takes a special action that round.
+- **Resolving Ties:** After the round, if opposing sides are tied for the most temporary Blessings, no one takes a special action.
 
 <div>
   <h4>
@@ -1146,7 +1148,7 @@ At the end of each session, you receive one free Stat Upgrade for your character
 
 | Sure-footed Specialization |
 | --- |
-| *Effect:* During Endeavors, when you take the Protect action to protect yourself, its effect lasts a number of rounds equal to the standard amount. |
+| *Effect:* During Endeavors, when you take the Protect action to protect yourself, its effect lasts an additional number of rounds equal to the standard amount. |
 
 | Tactical Specialization |
 | --- |
