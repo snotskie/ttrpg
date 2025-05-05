@@ -754,7 +754,7 @@ These are performed like any other Endeavor, with the following adjustments, act
       </tr>
       <tr>
         <th scope="row" colspan="2">Advance</th>
-        <td><i>Not Hurt.</i> Ignore your position roll and advance your team's objectives. On a success, add two Scheme buttons at the first positions at or above your current position without one already.</td>
+        <td><i>Not Hurt.</i> Use your position roll to perform a Check to advance your team's objectives. On a success, add two Scheme buttons at the first positions at or above your current position without one already.</td>
       </tr>
       <tr>
         <th scope="row" colspan="2">Protect</th>
@@ -813,13 +813,23 @@ These are performed like any other Endeavor, with the following adjustments, act
 
 <div>
   <h4>
-    Monstrous Buttons
+    Ally Buttons
   </h4>
   <table>
     <tbody>
       <tr>
         <th scope="row">Wound</th><td><i>Type:</i> Personal. <i>Activation:</i> Activated when you move over it. <i>Effect:</i> Decrease your remaining movement by 1, to a minimum of 0.</td>
       </tr>
+    </tbody>
+  </table>
+</div>
+
+<div>
+  <h4>
+    Monstrosity Buttons
+  </h4>
+  <table>
+    <tbody>
       <tr>
         <th scope="row">Scheme</th><td><i>Type:</i> Global. <i>Activation:</i> None. <i>Effect:</i> None.</td>
       </tr>
@@ -1104,7 +1114,7 @@ At the end of each session, you receive one free Stat Upgrade for your character
 
 | Mischievous Specialization |
 | --- |
-| *Effect:* When another character would succeed a Check, you may distract them using an thing you have gained, such as an item, information, or alliance. If you do, modify that character's result by $-3$, possibly turning their success into a failure. *Recharge:* ⑤. |
+| *Effect:* When another character would succeed a Check, you may distract them using a thing you have gained, such as an item, information, or alliance. If you do, modify that character's result by $-3$, possibly turning their success into a failure. *Recharge:* ⑤. |
 
 <!-- | Perceptive Specialization |
 | --- |
@@ -1116,7 +1126,7 @@ At the end of each session, you receive one free Stat Upgrade for your character
 
 | Radiant Specialization |
 | --- |
-| *Effect:* During Endeavors, if you rolled for your position roll using Heart, Home, or an unconventional Stat balanced with either, as an action you may have your allies gain one of your other Aptitudes, including its Specialization if applicable, for a number of turns equal to the standard amount. *Recharge:* ④ |
+| *Effect:* During Endeavors, if you rolled for your position roll using Heart, Home, or an unconventional Stat balanced with either, as an action you may perform a Check to empower your allies. On a success, they gain one of your other Aptitudes, including its Specialization if applicable, for a number of turns equal to the standard amount. *Recharge:* ④ |
 
 | Resolved Specialization |
 | --- |
