@@ -461,7 +461,7 @@ To perform a Check:
   | Easy | Round rolls of $3$ or $4$ up to $5$, as though you were apt in the action. |
   | Normal | *No effect.* |
   | Hard | Perform the roll twice. If either would fail, the whole Check fails. Boons and busts stack. |
-  | Complex | Perform the roll several times. At table discretion, this may require a mix of Stats or characters working together. If two or more would fail, the whole Check fails. Boons and busts stack. |
+  | Complex | Perform the roll several times, using a mix of Stats and/or characters working together. If two or more would fail, the whole Check fails. Boons and busts stack. |
 </div>
 
 ### Attacks
@@ -1148,7 +1148,7 @@ At the end of each session, you receive one free Stat Upgrade for your character
 
 | Sure-footed Specialization |
 | --- |
-| *Effect:* During Endeavors, when you take the Protect action to protect yourself, its effect lasts an additional number of rounds equal to the standard amount. |
+| *Effect:* During Endeavors, when you take the Protect action to protect yourself, you may use your position roll to perform a Check to protect yourself further. On a success, the Protect effect lasts an additional number of rounds equal to the standard amount. |
 
 | Tactical Specialization |
 | --- |
