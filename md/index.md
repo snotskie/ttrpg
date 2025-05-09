@@ -640,7 +640,9 @@ Sometimes, the player characters will need to race to be the first to reach some
 
 There are several different types of Endeavors depending on the scenario. However, all Endeavors build on the same general rules covered in this chapter.
 
-A few types of Endeavors are described at the end of this chapter. More Endeavor types will be described in future books.
+A few types of Endeavors are described below.
+
+More Endeavor types are described in *Humanity, Endeavored*, available at <https://snotskie.github.io/ttrpg/endeavored.html>.
 
 ### Rounds
 <!-- _class: rules -->
