@@ -732,7 +732,6 @@ These are performed like any other Endeavor, with the following adjustments, act
         <th scope="row" colspan="2">Unique Skill</th>
         <td><i>Any Stat.</i> Spend ⊜⊜ to perform an action unique to your character. Take two other actions combined.</td>
       </tr>
-    </tr>
     </tbody>
   </table>
 </div>
@@ -768,7 +767,6 @@ These are performed like any other Endeavor, with the following adjustments, act
         <th scope="row" colspan="2">Unique Skill</th>
         <td><i>Any Stat.</i> If you have the <code>Unique</code> tag, you may spend ⊜⊜ to take two other actions combined.</td>
       </tr>
-    </tr>
     </tbody>
   </table>
 </div>
@@ -886,7 +884,6 @@ These are performed like any other Endeavor, with the following adjustments, act
         <th scope="row" colspan="2">Unique Skill</th>
         <td><i>Any Stat.</i> Spend ⊜⊜ to perform an action unique to your character. Take two other actions combined.</td>
       </tr>
-    </tr>
     </tbody>
   </table>
 </div>
@@ -1131,10 +1128,6 @@ At the end of each session, you receive one free Stat Upgrade for your character
 | Resolved Specialization |
 | --- |
 | *Effect:* When an Attack succeeds against you, the Attacker receives one fewer boon and one additional bust than usual, and you gain a Blessing. *Recharge:* ④. |
-
-<!-- | Roguish Specialization |
-| --- |
-| *Effect:* Once per Stealth Endeavor, when you would be made you may instead increase the alertness of the Endeavor. | -->
 
 | Rousing Specialization |
 | --- |
