@@ -186,19 +186,13 @@ th[scope="row"][colspan] {
 }
 
 /* toc */
-section.index p span.page_no,
-section.toc p span.page_no,
-section.index span span.page_no,
-section.toc span span.page_no {
+span.toc_page_no {
   float: right;
 }
 
-section.toc .chapter {
+p.toc_H2 {
   border-bottom: 0.15rem solid var(--color-foreground);
-}
-
-section.index {
-  columns: 2;
+  font-weight: bold;
 }
 
 /* title page */
