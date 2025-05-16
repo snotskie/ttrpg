@@ -50,20 +50,9 @@ Cover typography: Bebas Neue, by Ryoichi Tsunekawa
 
 After [*A Poet to His Baby Son*](https://www.poetryfoundation.org/poems/49051/a-poet-to-his-baby-son), James Weldon Johnson.
 
----
+### Contents
 <!-- _paginate: skip -->
 <!-- _class: toc -->
-<div id="toc"><h3>Contents</h3></div>
-
----
-<!-- _paginate: skip -->
-<!-- _class: toc -->
-<div id="toc2"></div>
-
-<!-- --- -->
-<!-- _paginate: skip -->
-<!-- _class: toc -->
-<!-- <div id="toc3"></div> -->
 
 ## Introduction
 <!-- _class: center major intro -->
@@ -1281,20 +1270,13 @@ At the end of each session, you receive one free Stat Upgrade for your character
 <!-- _class: major center -->
 <!-- _paginate: skip -->
 
----
+### Options
 <!-- _paginate: skip -->
-<!-- _class: index -->
-<div id="abix"><h3>Options</h3></div>
+<!-- _class: index abix -->
 
----
+### Tables
 <!-- _paginate: skip -->
-<!-- _class: index -->
-<div id="abix2"></div>
-
----
-<!-- _paginate: skip -->
-<!-- _class: index -->
-<div id="tablist"><h3>Tables</h3></div>
+<!-- _class: index tablist -->
 
 {{ `<script src="https://snotskie.github.io/MarpShims/MarpShims.js?v=${process.env["TAG"]}"></script>` }}
 
