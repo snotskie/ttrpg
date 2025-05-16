@@ -57,28 +57,9 @@ Cover typography: Bebas Neue, by Ryoichi Tsunekawa
 
 <button onclick="bwprint()">Friendly Print 🖨️</button>
 
----
+### Contents
 <!-- _paginate: skip -->
 <!-- _class: toc -->
-<div id="toc"><h3>Contents</h3></div>
-
----
-<!-- _paginate: skip -->
-<!-- _class: toc -->
-<div id="toc2"></div>
-
-<!-- --- -->
-<!-- _paginate: skip -->
-<!-- _class: toc -->
-<!-- <div id="toc3"></div> -->
-
-<!-- ## Introduction -->
-<!-- _class: center major intro -->
-
-<!-- ### About -->
-<!-- _class: intro -->
-
-<!-- TODO -->
 
 ## Tips and Tricks
 <!-- _class: center major guide -->
@@ -368,20 +349,13 @@ These are performed like any other Endeavor, with the following adjustments, act
 <!-- _class: major center -->
 <!-- _paginate: skip -->
 
----
+### Options
 <!-- _paginate: skip -->
-<!-- _class: index -->
-<div id="abix"><h3>Options</h3></div>
+<!-- _class: index abix -->
 
----
+### Tables
 <!-- _paginate: skip -->
-<!-- _class: index -->
-<div id="abix2"></div>
-
----
-<!-- _paginate: skip -->
-<!-- _class: index -->
-<div id="tablist"><h3>Tables</h3></div>
+<!-- _class: index tablist -->
 
 {{ `<script src="https://snotskie.github.io/MarpShims/MarpShims.js?v=${process.env["TAG"]}"></script>` }}
 
