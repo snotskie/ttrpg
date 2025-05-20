@@ -38,11 +38,11 @@ function restyleIndexEntries(records){
   for (const {anchor} of records){
     anchor.innerText = restyleIndexEntry(anchor.innerText);
   }
-  
-  console.log(records);
-  records.sort((a, b) => (a.anchor.innerText <= b.anchor.innerText) ? -1 : +1);
-  console.log(records);
 }
+
+// function sortRecords(records){
+//   records.sort((a, b) => (a.anchor.innerText <= b.anchor.innerText) ? -1 : +1);
+// }
 
 window.addEventListener("load", function(){
     let toc = document.querySelector(".toc"),
@@ -51,11 +51,16 @@ window.addEventListener("load", function(){
   
     MarpShims.autoScale();
     MarpShims.withTOC(toc, "h2,h3", (toc_records) => {
-      MarpShims.withTOC(tablist, "h4", (tab_records) => {
-        MarpShims.withTOC(abix, ".ability th", (ab_records) => {
-          restyleIndexEntries(ab_records);
-        });
-      });
+          MarpShims.breakPages();
+    });
+      
+    MarpShims.withTOC(tablist, "h4", (tab_records) => {
+        MarpShims.breakPages();
+    });
+  
+    MarpShims.withTOC(abix, ".ability th", (ab_records) => {
+      restyleIndexEntries(ab_records);
+      MarpShims.breakPages();
     });
   
     MarpShims.autoTheme();
