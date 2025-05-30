@@ -1278,7 +1278,7 @@ At the end of each session, you receive one free Stat Upgrade for your character
 <!-- _paginate: skip -->
 <!-- _class: index tablist -->
 
-{{ `<script src="MarpShims.js?v=${process.env["TAG"]}"></script>` }}
+{{ `<script src="/MarpShims/MarpShims.js?v=${process.env["TAG"]}"></script>` }}
 
 {{ `<script src="script.js?v=${process.env["TAG"]}"></script>` }}
 

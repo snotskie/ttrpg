@@ -357,7 +357,7 @@ These are performed like any other Endeavor, with the following adjustments, act
 <!-- _paginate: skip -->
 <!-- _class: index tablist -->
 
-{{ `<script src="https://snotskie.github.io/MarpShims/MarpShims.js?v=${process.env["TAG"]}"></script>` }}
+{{ `<script src="/MarpShims/MarpShims.js?v=${process.env["TAG"]}"></script>` }}
 
 {{ `<script src="script.js?v=${process.env["TAG"]}"></script>` }}
 
