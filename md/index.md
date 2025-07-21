@@ -32,7 +32,7 @@ snotskie.
 
 This work is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. To view a copy of this license, visit <https://creativecommons.org/licenses/by-nc-nd/4.0/>
 
-If you publish your own works that use this system, please clearly label them on the cover with the phrase ***Humanity, Blessed* ⊜ Community Content** and include a link to the most recent stable version, at <https://snotskie.github.io/ttrpg/>
+If you publish your own works that use this system, please clearly label them on the cover with the phrase ***Humanity, Blessed* ⊜ Community Content** and include a link to the most recent stable version, at <https://snotskie.com/ttrpg/>
 
 &copy; 2025 snotskie
 
@@ -631,7 +631,7 @@ There are several different types of Endeavors depending on the scenario. Howeve
 
 A few types of Endeavors are described below.
 
-More Endeavor types are described in *Humanity, Endeavored*, available at <https://snotskie.github.io/ttrpg/endeavored.html>.
+More Endeavor types are described in *Humanity, Endeavored*, available at <https://snotskie.com/ttrpg/endeavored.html>.
 
 ### Rounds
 <!-- _class: rules -->
