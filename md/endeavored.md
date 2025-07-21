@@ -225,6 +225,7 @@ Some campaigns or sessions may involve prolonged tension where the player charac
 
 These are performed like any other Endeavor, with the following adjustments, action options, and buttons:
 
+- **Alternative Terms:** The standard amount represents your "efficiency" for the round, such as efficiency at stealth, charisma, or so on. And your temporary blessings represent your accumulated "progress" towards your plan.
 - **The Eye:** The opposing side is represented by the "Eye." When the Endeavor begins, the Eye is in "warry mode," on the lookout for you and your fellow "rogues." However, once the Eye has been alerted, it will enter the much more dangerous "wake mode." For the sake of rules, the Eye is a character, but it has only a single Watch Stat, has no track position, and it cannot be Attacked directly.
 - **Setup:** You and your fellow rogues begin at position $1$. At the top of the first round, the lay of the land will be provided at table discretion for the guarded area, including any rooms, halls, obstacles to climb or hide behind, locking and security mechanisms, and so on. The Eye's defenses in those areas are represented by Alarm buttons, actions the rogues need to complete are represented by Objective buttons, exit points are represented by Escape buttons, and places safe from danger are represented by Sanctuary buttons. As the Endeavor progresses, additional areas may become available, each with their own track and lay of the land.
 - **Goal:** Remove all Objective buttons without alerting the Eye.

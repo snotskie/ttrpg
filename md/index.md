@@ -649,7 +649,7 @@ Rounds are carried out as follows:
     Also note:
   </p>
 
-  - **Standard Amount:** The "standard amount" is half your initial, unmodified position roll for the round, rounded down, to a minimum of $1$. The standard amount used for a Delayed Attack is determined on the round the Attack's trigger is set, not when it resolves.
+  - **Standard Amount:** The "standard amount" is a generic resource that varies by Endeavor. It is half your initial, unmodified position roll for the round, rounded down, to a minimum of $1$. When used for a Delayed Attack, it is determined on the round the Attack's trigger is set, not when the Attack resolves.
   - **Limited Position Rolls:** At table discretion, the Stats you can choose from when rolling position rolls may be limited in certain situations.
   - **Reversing Turn Order:** During the round, if the numbers of temporary Blessings change and you would no longer have the most, you may reverse the turn order direction, skipping those who have acted already.
 </div>
@@ -686,6 +686,7 @@ Some campaigns or sessions may involve the player characters facing off against 
 
 These are performed like any other Endeavor, with the following adjustments, action options, and buttons:
 
+- **Alternative Terms:** The standard amount represents your "force" for the round, such as force of will, force of strength, or so on. And your temporary blessings might represent your accumulated "honor," "might", "coolness," or so on.
 - **Monstrosities:** Your opponents are "monstrosities," which are characters as usual, but with a Starting Position (SP) representing how hard they are to remove from the Endeavor, as well as a number of secret tags that affect their actions and buttons.
 - **Setup:** You and your "allies" begin at position $0$. If an opponent has an SP of $10 (3)$, for example, they begin at position $10$ and add a Recovery button $3$ below that. All opponents also add a Defeat button at position $0$.
 - **Goal:** Move all your opponents to position $0$ before they can give you three Wound buttons in a row.
@@ -839,6 +840,7 @@ Some campaigns or sessions may involve a prolonged scene where the player charac
 
 These are performed like any other Endeavor, with the following adjustments, action options, and buttons:
 
+- **Alternative Terms:** The standard amount represents your "acceleration" for the round, while your temporary blessings represent your overall "speed."
 - **Setup:** All racers begin at position $0$.
 - **Goal:** Be the first to reach the finish line or the last one standing.
 - **Terrain:** At the top of the first round, the lay of the land will be provided at table discretion for the race course environment, including any terrain elements like hills, brush, holes, asteroid fields, or so on, represented by Terrain buttons. As the Endeavor progresses, additional areas may become available, each with their own track and lay of the land.
