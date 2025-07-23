@@ -239,19 +239,19 @@ These are performed like any other Endeavor, with the following adjustments, act
       <tr>
         <th scope="row" rowspan="2">Attack</th>
         <th scope="row">Violent</th>
-        <td><i>Hurt only.</i> Use your position roll to violently Attack the Eye's defenses. On a success, choose an Alarm button within the standard amount of your position and remove it from the Endeavor. On a Maximum Success, also remove all Alarm buttons that were contiguous with it.</td>
+        <td><i>Hurt only.</i> Use your Position Die to violently Attack the Eye's defenses. On a success, choose an Alarm button within the standard amount of your position and remove it from the Endeavor. On a Maximum Success, also remove all Alarm buttons that were contiguous with it.</td>
       </tr>
       <tr>
         <th scope="row">Non-violent</th>
-        <td><i>Not Hurt.</i> Use your position roll to non-violently Attack the Eye's defenses. On a success, steal a number of temporary Blessings from it equal to the standard amount.</td>
+        <td><i>Not Hurt.</i> Use your Position Die to non-violently Attack the Eye's defenses. On a success, steal a number of temporary Blessings from it equal to the standard amount.</td>
       </tr>
       <tr>
         <th scope="row" colspan="2">Move</th>
-        <td><i>Not Hurt.</i> Use your position roll to perform a Check to move yourself toward your objective or away from danger. On a success, move up or down by the standard amount.</td>
+        <td><i>Not Hurt.</i> Use your Position Die to perform a Check to move yourself toward your objective or away from danger. On a success, move up or down by the standard amount.</td>
       </tr>
       <tr>
         <th scope="row" colspan="2">Cover</th>
-        <td><i>Any Stat.</i> Skip or delay your action so you can Help another character who has not acted this round or so they can Help you. This Help may be used to increase or decrease standard amounts instead of increasing rolls as usual.</td>
+        <td><i>Any Stat.</i> Delay your action so you can Help another character who has not acted this round or so they can Help you. This Help may be used to increase or decrease standard amounts instead of increasing rolls as usual.</td>
       </tr>
     </tbody>
   </table>
@@ -327,7 +327,7 @@ These are performed like any other Endeavor, with the following adjustments, act
         <th scope="row">Alarm</th><td><i>Type:</i> Global. <i>Activation:</i> Activated when you end your turn on it. <i>Effect:</i> The Eye enters wake mode. <i>Passive:</i> When a rogue fails a Check or Sparks a roll, add another Alarm button above this one if there is not one there already. <i>Cumulative:</i> Any Alarm buttons that would move to or be placed at a position outside 1&ndash;20 instead move up or down by 20 until they are in that range. If multiple Alarms would move to or be placed at the same position, all but one at that position are removed.</td>
       </tr>
       <tr>
-        <th scope="row">Objective</th><td><i>Type:</i> Global. <i>Activation:</i> Activated when you end your turn on or next to it. <i>Effect:</i> As an action on your next turn, you may use your position roll to perform this button's Check. On a success, remove this button.</td>
+        <th scope="row">Objective</th><td><i>Type:</i> Global. <i>Activation:</i> Activated when you end your turn on or next to it. <i>Effect:</i> As an action on your next turn, you may use your Position Die to perform this button's Check. On a success, remove this button.</td>
       </tr>
       <tr>
         <th scope="row">Escape</th><td><i>Type:</i> Global. <i>Activation:</i> Activated when you move over it. <i>Effect:</i> You may safely remove yourself from the Endeavor.</td>
@@ -344,7 +344,7 @@ These are performed like any other Endeavor, with the following adjustments, act
 
 | Hidden Specialization |
 | --- |
-| *Effect:* Once per Stealth Endeavor as an action, you may use your position roll to perform a Check to find or create a safe place. On a success, add a temporary Sanctuary button at your location, removed the standard amount of rounds from now at the end of the round. |
+| *Effect:* Once per Stealth Endeavor as an action, you may use your Position Die to perform a Check to find or create a safe place. On a success, add a temporary Sanctuary button at your location, removed the standard amount of rounds from now at the end of the round. |
 
 ## Index
 <!-- _class: major center -->

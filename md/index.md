@@ -636,22 +636,24 @@ More Endeavor types are described in *Humanity, Endeavored*, available at <https
 ### Rounds
 <!-- _class: rules -->
 
-Endeavors are carried out as a number of rounds in which the characters attempt to drive the narrative tension, progress themselves, and slow their opponents.
+Endeavors are carried out over rounds in which characters attempt to drive the narrative tension, progress themselves, and slow their opponents.
 
 Rounds are carried out as follows:
 
-1. **Roll for Position:** Before each round, choose a Stat and roll it to get yourself in position for the actions you plan to take that round. The narrative for your action does not have to be fully formed.
-2. **Gain Temporary Blessings:** Gain a number of temporary Blessings equal to the standard amount, described below. Any remaining temporary Blessings disappear at the end of the Endeavor.
+1. **Choose Position Die:** Before each round, choose an available Stat to get yourself in position for the actions you plan to take. The narrative for your action does not have to be fully formed.
+2. **Gain Temporary Blessings:** Gain a number of temporary Blessings equal to the standard amount, described below, which disappear at the end of the Endeavor.
 3. **Follow Turn Order:** Turns for the round then start with whoever has the least temporary Blessings, rotating in the direction away from whoever has the most temporary Blessings, resolving ties at table discretion.
+4. **Spend Position Die:** After the round, the Stat chosen for your Position Die is "spent." Spent Stats cannot be chosen as Position Dice, and if rolled they only roll $2$.
 
 <div>
   <p>
     Also note:
   </p>
 
-  - **Standard Amount:** The "standard amount" is a generic resource that varies by Endeavor. It is half your initial, unmodified position roll for the round, rounded down, to a minimum of $1$. When used for a Delayed Attack, it is determined on the round the Attack's trigger is set, not when the Attack resolves.
-  - **Limited Position Rolls:** At table discretion, the Stats you can choose from when rolling position rolls may be limited in certain situations.
+  - **Standard Amount:** The "standard amount" is a generic resource that varies by Endeavor. It is half the size of your Position Die. When used for a Delayed Attack, it is determined on the round the Attack's trigger is set, not when the Attack resolves.
+  - **Limited Position Dice:** At table discretion, the Stats you can choose from for your Position Die may be limited in certain situations.
   - **Reversing Turn Order:** During the round, if the numbers of temporary Blessings change and you would no longer have the most, you may reverse the turn order direction, skipping those who have acted already.
+  - **Resting:** You may skip your turn to regain all spent Stats.
 </div>
 
 ### Actions
@@ -661,9 +663,9 @@ Each round during your turn, you may choose and perform one action from the set 
 
 In general:
 
-- **Limited Actions:** Your action choices may be limited at table discretion in certain situations, some may only be taken if your position roll used certain Stats, and all must be narratively reasonable to be taken.
-- **Position Rolls:** Some actions use your position roll to perform Checks, and some ignore it. When a position roll is ignored, it's as though it never happened, though any resources spent on it remain spent.
-- **Actions with Hard or Complex Checks:** If an action's Check requires multiple rolls, use your position roll for the first, then perform the rest.
+- **Limited Actions:** Your action choices may be limited at table discretion in certain situations, some may only be taken if your Position Die used certain Stats, and all must be narratively reasonable to be taken.
+- **Position Rolls:** Some actions use your Position Die to perform Checks, and some ignore it. Even if ignored, Position Dice are still spent after the round.
+- **Actions with Hard or Complex Checks:** If an action's Check requires multiple rolls, use your Position Die for the first, then perform the rest.
 - **Special Actions:** Actions with the `Special Action` tag cannot be performed during your turn. Instead, after the round when all other actions are complete, whoever has the highest number of Blessings chooses a special action to perform, resolving ties at table discretion.
 - **Effects as Normal:** You may also activate your other effects as normal, whenever would be most appropriate during, before, or after your turn.
 
@@ -702,23 +704,23 @@ These are performed like any other Endeavor, with the following adjustments, act
       <tr>
         <th scope="row" rowspan="2">Attack</th>
         <th scope="row">Violent</th>
-        <td><i>Hurt only.</i> Use your position roll to violently Attack an opponent. On a Maximum Success, remove them from the Endeavor. On other successes, they move down by the standard amount.</td>
+        <td><i>Hurt only.</i> Use your Position Die to violently Attack an opponent. On a Maximum Success, remove them from the Endeavor. On other successes, they move down by the standard amount.</td>
       </tr>
       <tr>
         <th scope="row">Non-violent</th>
-        <td><i>Not Hurt.</i> Use your position roll to non-violently Attack an opponent. On a success, steal a number of temporary Blessings from them equal to the standard amount.</td>
+        <td><i>Not Hurt.</i> Use your Position Die to non-violently Attack an opponent. On a success, steal a number of temporary Blessings from them equal to the standard amount.</td>
       </tr>
       <tr>
         <th scope="row" colspan="2">Advance</th>
-        <td><i>Not Hurt.</i> Use your position roll to perform a Check to advance your team's objectives. On a success, move up by the standard amount.</td>
+        <td><i>Not Hurt.</i> Use your Position Die to perform a Check to advance your team's objectives. On a success, move up by the standard amount.</td>
       </tr>
       <tr>
         <th scope="row" colspan="2">Protect</th>
-        <td><i>Any Stat.</i> Ignore your position roll and spend Blessings to protect yourself or an ally from the opponents' objectives. For each Blessing spent, their relevant Attacks are one rank more difficult, until your next turn.</td>
+        <td><i>Any Stat.</i> Ignore your Position Die and spend Blessings to protect yourself or an ally from the opponents' objectives. For each Blessing spent, their relevant Attacks are one rank more difficult, until your next turn.</td>
       </tr>
       <tr>
         <th scope="row" colspan="2">Pass</th>
-        <td><i>Any Stat.</i> Skip or delay your action so you can Help another character who has not acted this round or so they can Help you.</td>
+        <td><i>Any Stat.</i> Delay your action so you can Help another character who has not acted this round or so they can Help you.</td>
       </tr>
       <tr>
         <th scope="row" colspan="2">Unique Skill</th>
@@ -737,23 +739,23 @@ These are performed like any other Endeavor, with the following adjustments, act
       <tr>
         <th scope="row" rowspan="2">Attack</th>
         <th scope="row">Violent</th>
-        <td><i>Hurt only.</i> Use your position roll to violently Attack an opponent. On a Maximum Success, remove them from the Endeavor. On other successes, wound them.</td>
+        <td><i>Hurt only.</i> Use your Position Die to violently Attack an opponent. On a Maximum Success, remove them from the Endeavor. On other successes, wound them.</td>
       </tr>
       <tr>
         <th scope="row">Non-violent</th>
-        <td><i>Not Hurt.</i> Use your position roll to non-violently Attack an opponent. On a success, steal a number of temporary Blessings from them equal to the standard amount.</td>
+        <td><i>Not Hurt.</i> Use your Position Die to non-violently Attack an opponent. On a success, steal a number of temporary Blessings from them equal to the standard amount.</td>
       </tr>
       <tr>
         <th scope="row" colspan="2">Advance</th>
-        <td><i>Not Hurt.</i> Use your position roll to perform a Check to advance your team's objectives. On a success, add two Scheme buttons at the first positions at or above your current position without one already.</td>
+        <td><i>Not Hurt.</i> Use your Position Die to perform a Check to advance your team's objectives. On a success, add two Scheme buttons at the first positions at or above your current position without one already.</td>
       </tr>
       <tr>
         <th scope="row" colspan="2">Protect</th>
-        <td><i>Any Stat.</i> Ignore your position roll and spend Blessings to protect yourself or an ally from the opponents' objectives. For each Blessing spent, their relevant Attacks are one rank more difficult, until your next turn.</td>
+        <td><i>Any Stat.</i> Ignore your Position Die and spend Blessings to protect yourself or an ally from the opponents' objectives. For each Blessing spent, their relevant Attacks are one rank more difficult, until your next turn.</td>
       </tr>
       <tr>
         <th scope="row" colspan="2">Pass</th>
-        <td><i>Any Stat.</i> Skip or delay your action so you can Help another character who has not acted this round or so they can Help you.</td>
+        <td><i>Any Stat.</i> Delay your action so you can Help another character who has not acted this round or so they can Help you.</td>
       </tr>
       <tr>
         <th scope="row" colspan="2">Unique Skill</th>
@@ -824,7 +826,7 @@ These are performed like any other Endeavor, with the following adjustments, act
         <th scope="row">Scheme</th><td><i>Type:</i> Global. <i>Activation:</i> None. <i>Effect:</i> None.</td>
       </tr>
       <tr>
-        <th scope="row">Recovery</th><td><i>Type:</i> Personal. <i>Activation:</i> Activated when you move over it. <i>Effect:</i> End your movement, remove this button, and return to your starting position. Then if you have the <code>Revenge</code> tag, use your position roll to Attack an opponent who caused you to move down this round, even if you have already acted this round. Then at the end of each round, if you have the <code>Unrelenting</code> tag, for each time you've activated a Recovery button, you may use your position roll to Attack an opponent even if you have already acted this round. <i>Passive:</i> If you have the <code>Horde</code> tag, each time you roll, roll an additional time and ignore the lowest value. If you have the <code>Immunity</code> tag, Attacks against you related enough to your Aptitudes automatically fail.</td>
+        <th scope="row">Recovery</th><td><i>Type:</i> Personal. <i>Activation:</i> Activated when you move over it. <i>Effect:</i> End your movement, remove this button, and return to your starting position. Then if you have the <code>Revenge</code> tag, use your Position Die to Attack an opponent who caused you to move down this round, even if you have already acted this round. Then at the end of each round, if you have the <code>Unrelenting</code> tag, for each time you've activated a Recovery button, you may use your Position Die to Attack an opponent even if you have already acted this round. <i>Passive:</i> If you have the <code>Horde</code> tag, each time you roll, roll an additional time and ignore the lowest value. If you have the <code>Immunity</code> tag, Attacks against you related enough to your Aptitudes automatically fail.</td>
       </tr>
       <tr>
         <th scope="row">Defeat</th><td><i>Type:</i> Personal. <i>Activation:</i> Activated when you move over it. <i>Effect:</i> End your movement, remove this button, and you are removed from the Endeavor.</td>
@@ -855,23 +857,23 @@ These are performed like any other Endeavor, with the following adjustments, act
       <tr>
         <th scope="row" rowspan="2">Attack</th>
         <th scope="row">Violent</th>
-        <td><i>Hurt only.</i> Use your position roll to violently Attack another racer. On a Maximum Success, remove them from the Endeavor. On other successes, they move down by the standard amount.</td>
+        <td><i>Hurt only.</i> Use your Position Die to violently Attack another racer. On a Maximum Success, remove them from the Endeavor. On other successes, they move down by the standard amount.</td>
       </tr>
       <tr>
         <th scope="row">Non-violent</th>
-        <td><i>Not Hurt.</i> Use your position roll to non-violently Attack another racer. On a success, steal a number of temporary Blessings from them equal to the standard amount.</td>
+        <td><i>Not Hurt.</i> Use your Position Die to non-violently Attack another racer. On a success, steal a number of temporary Blessings from them equal to the standard amount.</td>
       </tr>
       <tr>
         <th scope="row" colspan="2">Advance</th>
-        <td><i>Not Hurt.</i> Use your position roll to perform a Check to advance in the race. On a success, move up by the standard amount.</td>
+        <td><i>Not Hurt.</i> Use your Position Die to perform a Check to advance in the race. On a success, move up by the standard amount.</td>
       </tr>
       <tr>
         <th scope="row" colspan="2">Protect</th>
-        <td><i>Any Stat.</i> Ignore your position roll and spend Blessings to protect yourself or an ally from the opponents' objectives. For each Blessing spent, their relevant Attacks are one rank more difficult, until your next turn.</td>
+        <td><i>Any Stat.</i> Ignore your Position Die and spend Blessings to protect yourself or an ally from the opponents' objectives. For each Blessing spent, their relevant Attacks are one rank more difficult, until your next turn.</td>
       </tr>
       <tr>
         <th scope="row" colspan="2">Pass</th>
-        <td><i>Any Stat.</i> Skip or delay your action so you can Help another character who has not acted this round or so they can Help you.</td>
+        <td><i>Any Stat.</i> Delay your action so you can Help another character who has not acted this round or so they can Help you.</td>
       </tr>
       <tr>
         <th scope="row" colspan="2">Unique Skill</th>
@@ -1052,7 +1054,7 @@ At the end of each session, you receive one free Stat Upgrade for your character
 
 | Commanding Specialization |
 | --- |
-| *Effect:* During Endeavors, as an action you may ignore your position roll and choose an ally who has not acted yet to roll a new position roll. They may choose a new Stat for this roll, and this may change their standard amount. *Recharge:* ③. |
+| *Effect:* During Endeavors, as an action you may ignore your Position Die and choose an ally who has not acted yet. They may choose a new Stat for their Position Die, and this may change their standard amount. *Recharge:* ③. |
 
 | Coordinated Specialization |
 | --- |
@@ -1098,9 +1100,9 @@ At the end of each session, you receive one free Stat Upgrade for your character
 | --- |
 | *Effect:* A character may automatically succeed a Check to tend to your wounds, even after they've rolled. *Recharge:* ①. When this effect is recharged, increase the cost to recharge it by ①①. |
 
-| Kinetic Specialization |
+| Heavy Specialization |
 | --- |
-| *Effect:* During Endeavors, if you rolled for your position roll using Hand, Home, or an unconventional Stat balanced with either, after position rolls have been made and before temporary Blessings have been gained, you may exchange your position roll with an ally who rolled lower. This does not change your Stats in use, but does change your standard amounts. *Recharge:* ③. |
+| *Effect:* During Endeavors, when your Position Die uses Hand, Home, or an unconventional Stat balanced with either, you gain one fewer temporary Blessing than normal, but your standard amount is one higher than normal. |
 
 | Mischievous Specialization |
 | --- |
@@ -1116,7 +1118,7 @@ At the end of each session, you receive one free Stat Upgrade for your character
 
 | Radiant Specialization |
 | --- |
-| *Effect:* During Endeavors, if you rolled for your position roll using Heart, Home, or an unconventional Stat balanced with either, as an action you may perform a Check to empower your allies. On a success, they gain one of your other Aptitudes, including its Specialization if applicable, for a number of turns equal to the standard amount. *Recharge:* ④ |
+| *Effect:* During Endeavors, when Position Die uses Heart, Home, or an unconventional Stat balanced with either, as an action you may perform a Check to empower your allies. On a success, they gain one of your other Aptitudes, including its Specialization if applicable, for a number of turns equal to the standard amount. *Recharge:* ④ |
 
 | Resolved Specialization |
 | --- |
@@ -1144,7 +1146,7 @@ At the end of each session, you receive one free Stat Upgrade for your character
 
 | Sure-footed Specialization |
 | --- |
-| *Effect:* During Endeavors, when you take the Protect action to protect yourself, you may use your position roll to perform a Check to protect yourself further. On a success, the Protect effect lasts an additional number of rounds equal to the standard amount. |
+| *Effect:* During Endeavors, when you take the Protect action to protect yourself, you may use your Position Die to perform a Check to protect yourself further. On a success, the Protect effect lasts an additional number of rounds equal to the standard amount. |
 
 | Tactical Specialization |
 | --- |
@@ -1160,7 +1162,7 @@ At the end of each session, you receive one free Stat Upgrade for your character
 
 | Zealous Specialization |
 | --- |
-| *Effect:* During Endeavors, if you rolled Head, Heart, or an unconventional Stat balanced with either for your position roll, as an action you may ignore your position roll and instead have you and your allies each gain a Zeal button $1$ below your current track positions. *Recharge:* ④. **Zeal button:** *Type:* Personal. *Activation:* Activated when you move over it. *Effect:* End your movement, remove this button, and immediately Attack a nearby opponent, even if you have already acted this round. |
+| *Effect:* During Endeavors, when your Position Die uses Head, Heart, or an unconventional Stat balanced with either, as an action you may ignore your Position Die and instead have you and your allies each gain a Zeal button $1$ below your current track positions. *Recharge:* ④. **Zeal button:** *Type:* Personal. *Activation:* Activated when you move over it. *Effect:* End your movement, remove this button, and immediately Attack a nearby opponent, even if you have already acted this round. |
 
 ## Character Sheet
 <!-- _class: major center -->
