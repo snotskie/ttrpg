@@ -649,7 +649,7 @@ Rounds are carried out as follows:
     Also note:
   </p>
 
-  - **X:** The symbol <b>X</b> represents a generic resource that varies by Endeavor. It is half the size of your Action Die. When used for a Delayed Attack, it is determined on the round the Attack's trigger is set.
+  - **X:** The symbol <b>X</b> represents a generic resource that varies by Endeavor. It is one fourth the largest number on your Action Die, rounded up. (For $d2-d4$ it is $1$, for $d6-d8$ it is $2$, and for $d10$ it is $3$.) When used for a Delayed Attack, it is determined on the round the Attack's trigger is set.
   - **Limited Action Dice:** At table discretion, the Stats you can choose from for your Action Die may be limited in certain situations.
   - **Reversing Turn Order:** During the round, if the numbers of temporary Blessings change and you would no longer have the most, you may reverse the turn order direction, skipping those who have acted already.
 </div>
