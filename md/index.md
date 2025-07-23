@@ -640,10 +640,9 @@ Endeavors are carried out over rounds in which characters attempt to drive the n
 
 Rounds are carried out as follows:
 
-1. **Choose Action Die:** Before each round, choose an available Stat for the actions you plan to take. The narrative for your action does not have to be fully formed.
-2. **Gain Temporary Blessings:** Gain <b>X</b> temporary Blessings, which disappear at the end of the Endeavor. (<b>X</b> is described below.)
+1. **Choose Action Die:** Before each round, choose an available Stat to be your Action Die for the actions you plan to take. The narrative for your action does not have to be fully formed. Then gain <b>X</b> temporary Blessings, which disappear at the end of the Endeavor. (<b>X</b> is described below.)
 3. **Follow Turn Order:** Turns for the round then start with whoever has the least temporary Blessings, rotating in the direction away from whoever has the most temporary Blessings, resolving ties at table discretion.
-4. **Spend Action Die:** After the round, the Stat chosen for your Action Die is "spent." Spent Stats cannot be chosen as Action Dice, and if rolled they only roll $2$. You may skip the next round to instead regain all spent Stats.
+4. **Spend Action Die:** After each round, the Stat chosen for your Action Die is "spent." Spent Stats cannot be chosen as Action Dice, and if rolled they only roll $2$. You may skip the next round to instead regain all spent Stats.
 
 <div>
   <p>
@@ -665,7 +664,7 @@ In general:
 - **Limited Actions:** Your action choices may be limited at table discretion in certain situations, some may only be taken if your Action Die used certain Stats, and all must be narratively reasonable to be taken.
 - **Position Rolls:** Some actions use your Action Die to perform Checks, and some ignore it. Even if ignored, Action Dice are still spent after the round.
 - **Actions with Hard or Complex Checks:** If an action's Check requires multiple rolls, use your Action Die for the first, then perform the rest.
-- **Special Actions:** Actions with the `Special Action` tag cannot be performed during your turn. Instead, after the round when all other actions are complete, whoever has the highest number of Blessings chooses a special action to perform, resolving ties at table discretion.
+- **Special Actions:** Actions with the `Special Action` tag cannot be performed during your turn. Instead, at the end of the round when all other actions are complete, whoever has the highest number of Blessings chooses a special action to perform, resolving ties at table discretion.
 - **Effects as Normal:** You may also activate your other effects as normal, whenever would be most appropriate during, before, or after your turn.
 
 ### Tracks
