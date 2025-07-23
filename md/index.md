@@ -718,7 +718,7 @@ These are performed like any other Endeavor, with the following adjustments, act
       </tr>
       <tr>
         <th scope="row" colspan="2">Pass</th>
-        <td><i>Any Stat.</i> Delay your action so you can Help another character who has not acted this round or so they can Help you.</td>
+        <td><i>Any Stat.</i> Delay your action so you can Help another character who has not acted this round or so they can Help you. This Help may be used to increase <b>X</b> values instead of increasing rolls as usual.</td>
       </tr>
       <tr>
         <th scope="row" colspan="2">Unique Skill</th>
