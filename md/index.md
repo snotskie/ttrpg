@@ -905,7 +905,7 @@ These are performed like any other Endeavor, with the following adjustments, act
   <table>
     <tbody>
       <tr>
-        <th scope="row">Terrain</th><td><i>Type:</i> Personal. <i>Activation:</i> Activated when you move over it while moving up. <i>Effect:</i> End your movement. <i>Passive:</i> If this button has the <code>Area</code> tag and is the nearest button at or below your current track position, it limits the Stats you may use for position rolls.</td>
+        <th scope="row">Terrain</th><td><i>Type:</i> Personal. <i>Activation:</i> Activated when you move over it while moving up. <i>Effect:</i> End your movement. <i>Passive:</i> If this button has the <code>Area</code> tag and is the nearest button at or below your current track position, it limits the Stats you may use for Position Dice.</td>
       </tr>
       <tr>
         <th scope="row">Fatigue</th><td><i>Type:</i> Personal. <i>Activation:</i> Activated at the end of the round, before special actions. <i>Culumative Effect:</i> Perform a Check to remain in the race. This Check is Easy, plus one difficulty rank for each Fatigue button past the first. On a failure, you are removed from the Endeavor. On a success, remove one Fatigue button. </td>
@@ -1094,7 +1094,7 @@ At the end of each session, you receive one free Stat Upgrade for your character
 
 | Imposing Specialization |
 | --- |
-| *Effect:* For the first position roll you make during an Endeavor, roll an additional time and ignore the lowest result. |
+| *Effect:* For the first roll you make during an Endeavor, roll an additional time and ignore the lowest result. |
 
 | Insured Specialization |
 | --- |
