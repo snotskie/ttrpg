@@ -642,7 +642,7 @@ Rounds are carried out as follows:
 
 1. **Choose Action Die:** Before each round, choose an available Stat to be your Action Die for the actions you plan to take. The narrative for your action does not have to be fully formed. Then gain <b>X</b> temporary Blessings, which disappear at the end of the Endeavor. (<b>X</b> is described below.)
 3. **Follow Turn Order:** Turns for the round then start with whoever has the least temporary Blessings, rotating in the direction away from whoever has the most temporary Blessings, resolving ties at table discretion.
-4. **Spend Action Die:** After each round, the Stat chosen for your Action Die is "spent." Spent Stats cannot be chosen as Action Dice, and if rolled they only roll $2$. You may skip the next round to instead regain all spent Stats.
+4. **Spend Action Die:** After each round, the Stat chosen for your Action Die is "spent." While a Stat is spent, its Stat Die is replaced with a $d2$. You may skip the next round to instead regain all spent Stats.
 
 <div>
   <p>
@@ -661,8 +661,8 @@ Each round during your turn, you may choose and perform one action from the set 
 
 In general:
 
-- **Limited Actions:** Your action choices may be limited at table discretion in certain situations, some may only be taken if your Action Die used certain Stats, and all must be narratively reasonable to be taken.
-- **Position Rolls:** Some actions use your Action Die to perform Checks, and some ignore it. Even if ignored, Action Dice are still spent after the round.
+- **Limited Actions:** Your action choices may be limited at table discretion in certain situations, some may only be taken if your Action Die used certain Stats, and all must be narratively reasonable to be taken. Because boons and busts can greatly shape the narrative, and they also can greatly shape what is narratively reasonable for future actions.
+- **Using Action Dice:** Some actions use your Action Die to perform Checks, and some ignore it. Even if ignored, Action Dice are still spent after the round.
 - **Actions with Hard or Complex Checks:** If an action's Check requires multiple rolls, use your Action Die for the first, then perform the rest.
 - **Special Actions:** Actions with the `Special Action` tag cannot be performed during your turn. Instead, at the end of the round when all other actions are complete, whoever has the highest number of Blessings chooses a special action to perform, resolving ties at table discretion.
 - **Effects as Normal:** You may also activate your other effects as normal, whenever would be most appropriate during, before, or after your turn.
@@ -686,12 +686,11 @@ Some campaigns or sessions may involve the player characters facing off against 
 
 These are performed like any other Endeavor, with the following adjustments, action options, and buttons:
 
-- **Alternative Terms:** The symbol <b>X</b> represents your "force" for the round, such as force of will, force of strength, or so on. And your temporary blessings might represent your accumulated "honor," "might", "coolness," or so on.
+- **Force and Greatness:** The symbol <b>X</b> represents your "force" for the round, such as force of will, force of strength, or so on. And your temporary blessings might represent your accumulated "honor," "might", "coolness," or so on.
 - **Monstrosities:** Your opponents are "monstrosities," which are characters as usual, but with a Starting Position (SP) representing how hard they are to remove from the Endeavor, as well as a number of secret tags that affect their actions and buttons.
 - **Setup:** You and your "allies" begin at position $0$. If an opponent has an SP of $10 (3)$, for example, they begin at position $10$ and add a Recovery button $3$ below that. All opponents also add a Defeat button at position $0$.
 - **Goal:** Move all your opponents to position $0$ before they can give you three Wound buttons in a row.
 - **Wounds:** When you are "wounded," gain a Wound button at the first position at or above your current track position without one already.
-- **Resolving Ties:** After the round, if opposing sides are tied for the most temporary Blessings, no one takes a special action.
 
 <div>
   <h4>
@@ -702,11 +701,11 @@ These are performed like any other Endeavor, with the following adjustments, act
       <tr>
         <th scope="row" rowspan="2">Attack</th>
         <th scope="row">Violent</th>
-        <td><i>Hurt only.</i> Use your Action Die to violently Attack an opponent. On a Maximum Success, remove them from the Endeavor. On other successes, they move down by <b>X</b>.</td>
+        <td><i>Hurt only.</i> Use your Action Die to violently Attack up to <b>X</b> opponents. On a Maximum Success, remove one of them from the Endeavor. On other successes, they move down by a total of <b>X</b>.</td>
       </tr>
       <tr>
         <th scope="row">Non-violent</th>
-        <td><i>Not Hurt.</i> Use your Action Die to non-violently Attack an opponent. On a success, steal <b>X</b> temporary Blessings from them.</td>
+        <td><i>Not Hurt.</i> Use your Action Die to non-violently Attack up to <b>X</b> opponents. On a success, steal a total of <b>X</b> temporary Blessings from them.</td>
       </tr>
       <tr>
         <th scope="row" colspan="2">Advance</th>
@@ -737,11 +736,11 @@ These are performed like any other Endeavor, with the following adjustments, act
       <tr>
         <th scope="row" rowspan="2">Attack</th>
         <th scope="row">Violent</th>
-        <td><i>Hurt only.</i> Use your Action Die to violently Attack an opponent. On a Maximum Success, remove them from the Endeavor. On other successes, wound them.</td>
+        <td><i>Hurt only.</i> Use your Action Die to violently Attack up to <b>X</b> opponents. On a Maximum Success, remove one of them from the Endeavor. On other successes, wound each of them.</td>
       </tr>
       <tr>
         <th scope="row">Non-violent</th>
-        <td><i>Not Hurt.</i> Use your Action Die to non-violently Attack an opponent. On a success, steal <b>X</b> temporary Blessings from them.</td>
+        <td><i>Not Hurt.</i> Use your Action Die to non-violently Attack up to <b>X</b> opponents. On a success, steal a total of <b>X</b> temporary Blessings from them.</td>
       </tr>
       <tr>
         <th scope="row" colspan="2">Advance</th>
@@ -753,7 +752,7 @@ These are performed like any other Endeavor, with the following adjustments, act
       </tr>
       <tr>
         <th scope="row" colspan="2">Pass</th>
-        <td><i>Any Stat.</i> Delay your action so you can Help another character who has not acted this round or so they can Help you.</td>
+        <td><i>Any Stat.</i> Delay your action so you can Help another character who has not acted this round or so they can Help you. This Help may be used to increase <b>X</b> values instead of increasing rolls as usual.</td>
       </tr>
       <tr>
         <th scope="row" colspan="2">Unique Skill</th>
@@ -840,7 +839,7 @@ Some campaigns or sessions may involve a prolonged scene where the player charac
 
 These are performed like any other Endeavor, with the following adjustments, action options, and buttons:
 
-- **Alternative Terms:** The symbol <b>X</b> represents your "acceleration" for the round, while your temporary blessings represent your overall "speed."
+- **Speed and Acceleration:** The symbol <b>X</b> represents your "acceleration" for the round, while your temporary blessings represent your overall "speed."
 - **Setup:** All racers begin at position $0$.
 - **Goal:** Be the first to reach the finish line or the last one standing.
 - **Terrain:** At the top of the first round, the lay of the land will be provided at table discretion for the race course environment, including any terrain elements like hills, brush, holes, asteroid fields, or so on, represented by Terrain buttons. As the Endeavor progresses, additional areas may become available, each with their own track and lay of the land.
@@ -903,10 +902,10 @@ These are performed like any other Endeavor, with the following adjustments, act
   <table>
     <tbody>
       <tr>
-        <th scope="row">Terrain</th><td><i>Type:</i> Personal. <i>Activation:</i> Activated when you move over it while moving up. <i>Effect:</i> End your movement. <i>Passive:</i> If this button has the <code>Area</code> tag and is the nearest button at or below your current track position, it limits the Stats you may use for Action Dice.</td>
+        <th scope="row">Terrain</th><td><i>Type:</i> Personal. <i>Activation:</i> Activated when you move over it while moving up. <i>Effect:</i> End your movement. <i>Passive:</i> If this button has the <code>Area</code> tag and is the nearest such button at or below your current track position, it limits the Stats you may use for Action Dice.</td>
       </tr>
       <tr>
-        <th scope="row">Fatigue</th><td><i>Type:</i> Personal. <i>Activation:</i> Activated at the end of the round, before special actions. <i>Culumative Effect:</i> Perform a Check to remain in the race. This Check is Easy, plus one difficulty rank for each Fatigue button past the first. On a failure, you are removed from the Endeavor. On a success, remove one Fatigue button. </td>
+        <th scope="row">Fatigue</th><td><i>Type:</i> Personal. <i>Activation:</i> Activated at the end of the round, before special actions. <i>Culumative Effect:</i> Perform a Check to remain in the race. This Check is Easy, plus one difficulty rank for each of your Fatigue buttons past the first. On a failure, you are removed from the Endeavor. On a success, remove all your Fatigue buttons. </td>
       </tr>
     </tbody>
   </table>
@@ -1149,6 +1148,10 @@ At the end of each session, you receive one free Stat Upgrade for your character
 | Tactical Specialization |
 | --- |
 | *Effect:* During Endeavors, on your turn you may have an ally Help you who has not acted yet. If they do, they skip their turn this round. |
+
+| Tireless Specialization |
+| --- |
+| *Effect:* When you gain this Specialization, choose a Stat. During Endeavors, while the chosen Stat is spent, its Stat Die is replaced with a $d6$ or stays its original size, whichever is smaller. |
 
 | Vibe Specialization |
 | --- |

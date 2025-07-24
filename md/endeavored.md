@@ -197,7 +197,7 @@ These can be performed like a Monstrous Endeavor, with the following adjustments
 - **Charge Leader:** Before the first round, elect a "charge leader" from among you and your allies. Only the charge leader and the opponents are considered for determining who takes special actions.
 - **Foiling:** When a charge leader is "foiled," another ally becomes the charge leader instead. Once you are foiled, you cannot become the charge leader again. Your opponents do not automatically win if your entire side has been foiled, but your victory will be much more difficult.
 - **Simpler Turn Order:** Turn order moves clockwise, with the charge leader acting first, and it is never reversed. If there is no charge leader, monstrosities act first.
-- **As Usual:** Actions, ally special actions, buttons, and resolving of ties&mdash;these are as usual for a Monstrous Endeavor. However, monstrosities use the following special actions instead.
+- **As Usual:** Actions, ally special actions, and buttons&mdash;these are as usual for a Monstrous Endeavor. However, monstrosities use the following special actions instead.
 
 <div>
   <h4>
@@ -225,8 +225,8 @@ Some campaigns or sessions may involve prolonged tension where the player charac
 
 These are performed like any other Endeavor, with the following adjustments, action options, and buttons:
 
-- **Alternative Terms:** The symbol <b>X</b> represents your "efficiency" for the round, such as efficiency at stealth, charisma, or so on. And your temporary blessings represent your accumulated "progress" towards your plan.
-- **The Eye:** The opposing side is represented by the "Eye." When the Endeavor begins, the Eye is in "warry mode," on the lookout for you and your fellow "rogues." However, once the Eye has been alerted, it will enter the much more dangerous "wake mode." For the sake of rules, the Eye is a character, but it has only a single Watch Stat, has no track position, and it cannot be Attacked directly.
+- **Efficiency and Progress:** The symbol <b>X</b> represents your "efficiency" for the round, such as efficiency at stealth, charisma, or so on. And your temporary blessings represent your accumulated "progress" towards your plan.
+- **The Eye:** The opposing side is represented by the "Eye." When the Endeavor begins, the Eye is in "warry mode," on the lookout for you and your fellow "rogues." However, once the Eye has been alerted, it will enter the much more dangerous "wake mode." For the sake of rules, the Eye is a character, but it has only a single Watch Stat, has no track position, it cannot be Attacked directly, and its Watch Stat is never spent when chosen as its Action Die.
 - **Setup:** You and your fellow rogues begin at position $1$. At the top of the first round, the lay of the land will be provided at table discretion for the guarded area, including any rooms, halls, obstacles to climb or hide behind, locking and security mechanisms, and so on. The Eye's defenses in those areas are represented by Alarm buttons, actions the rogues need to complete are represented by Objective buttons, exit points are represented by Escape buttons, and places safe from danger are represented by Sanctuary buttons. As the Endeavor progresses, additional areas may become available, each with their own track and lay of the land.
 - **Goal:** Remove all Objective buttons without alerting the Eye.
 
@@ -266,7 +266,7 @@ These are performed like any other Endeavor, with the following adjustments, act
       <tr>
       <tr>
         <th scope="row">Quicken Pace</th>
-        <td><code>Special Action</code> Spend all your temporary Blessings. You may take an additional action during your next turn.</td>
+        <td><code>Special Action</code> Spend all your temporary Blessings. You and up to <b>X</b> allies may each take an additional action during the next round.</td>
       </tr>
     </tbody>
   </table>
@@ -284,7 +284,7 @@ These are performed like any other Endeavor, with the following adjustments, act
       </tr>
       <tr>
         <th scope="row">Scan</th>
-        <td><i>Warry mode.</i> Choose up or down. Move all Alarm buttons in that direction by the standard amount.</td>
+        <td><i>Warry mode.</i> Choose up or down. Move all Alarm buttons in that direction by <b>X</b>.</td>
       </tr>
       <tr>
         <th scope="row">Awaken</th>
@@ -292,7 +292,7 @@ These are performed like any other Endeavor, with the following adjustments, act
       </tr>
       <tr>
         <th scope="row">Wound</th>
-        <td><i>Wake mode.</i> Wound an opponent.</td>
+        <td><i>Wake mode.</i> Wound an opponent and gain <b>X</b> temporary Blessings.</td>
       </tr>
     </tbody>
   </table>
@@ -344,7 +344,7 @@ These are performed like any other Endeavor, with the following adjustments, act
 
 | Hidden Specialization |
 | --- |
-| *Effect:* Once per Stealth Endeavor as an action, you may use your Action Die to perform a Check to find or create a safe place. On a success, add a temporary Sanctuary button at your location, removed the standard amount of rounds from now at the end of the round. |
+| *Effect:* Once per Stealth Endeavor as an action, you may use your Action Die to perform a Check to find or create a safe place. On a success, add a temporary Sanctuary button at your location, removed <b>X</b> rounds from now at the end of the round. |
 
 ## Index
 <!-- _class: major center -->
