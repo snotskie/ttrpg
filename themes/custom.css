@@ -346,8 +346,3 @@ section.intro li > strong:first-child {
     border-radius: .1rem .5rem;
     padding: 0 .4rem;
 }
-
-/* For when tables are too big for the page, when font increased */
-table {
-  word-break: break-word;
-}

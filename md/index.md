@@ -299,6 +299,12 @@ Then, pick one **Lifestyle** and one **Ethic** to begin the game with.
 
 Once you've chosen your starter Lifestyle and Ethic, **two of your Stats** will begin the game an additional **die size larger**, according to your starting Lifestyle and Ethic and the Lifestyle/Ethic Starting Stats table below.
 
+<style scoped>
+  table {
+    word-break: break-word;
+  }
+</style>
+
 <div>
   <h4>
     Lifestyle/Ethic Starting Stats
@@ -1290,9 +1296,7 @@ At the end of each session, you receive one free Stat Upgrade for your character
 
 ---
 <!-- _paginate: skip -->
-<!-- _class: art-left char -->
-
-![bg left](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=)
+<!-- _class: char -->
 
 <style scoped>
   table, textarea {
@@ -1385,7 +1389,7 @@ At the end of each session, you receive one free Stat Upgrade for your character
     </thead>
     <tbody>
         <tr>
-            <td><textarea placeholder="Notes" rows="15"></textarea></td>
+            <td><textarea placeholder="Notes" rows="10"></textarea></td>
         </tr>
     </tbody>
 </table>
