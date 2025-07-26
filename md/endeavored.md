@@ -87,14 +87,6 @@ Whatever the case, you may use the $d20$ Conversion table below to approximate t
         <th>10</th>
         <th>11</th>
         <th>12</th>
-        <th>13</th>
-        <th>14</th>
-        <th>15</th>
-        <th>16</th>
-        <th>17</th>
-        <th>18</th>
-        <th>19</th>
-        <th>20</th>
       </tr>
       <tr>
         <th scope="row">d10</th>
@@ -106,6 +98,58 @@ Whatever the case, you may use the $d20$ Conversion table below to approximate t
         <td style="border-right: 1px solid">10</td>
         <td>1</td>
         <td>2</td>
+      </tr>
+      <tr>
+        <th scope="row">d8</th>
+        <td>5</td>
+        <td>6</td>
+        <td>7</td>
+        <td style="border-right: 1px solid">8</td>
+        <td>1</td>
+        <td>2</td>
+        <td>3</td>
+        <td>4</td>
+      </tr>
+      <tr>
+        <th scope="row">d6</th>
+        <td>5</td>
+        <td style="border-right: 1px solid">6</td>
+        <td>1</td>
+        <td>2</td>
+        <td>3</td>
+        <td>4</td>
+        <td>5</td>
+        <td style="border-right: 1px solid">6</td>
+      </tr>
+      <tr>
+        <th scope="row">d4</th>
+        <td>1</td>
+        <td>2</td>
+        <td>3</td>
+        <td style="border-right: 1px solid">4</td>
+        <td>1</td>
+        <td>2</td>
+        <td>3</td>
+        <td style="border-right: 1px solid">4</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <table>
+    <tbody>
+      <tr>
+        <th scope="row">d20</th>
+        <th>13</th>
+        <th>14</th>
+        <th>15</th>
+        <th>16</th>
+        <th>17</th>
+        <th>18</th>
+        <th>19</th>
+        <th>20</th>
+      </tr>
+      <tr>
+        <th scope="row">d10</th>
         <td>3</td>
         <td>4</td>
         <td>5</td>
@@ -121,14 +165,6 @@ Whatever the case, you may use the $d20$ Conversion table below to approximate t
         <td>6</td>
         <td>7</td>
         <td style="border-right: 1px solid">8</td>
-        <td>1</td>
-        <td>2</td>
-        <td>3</td>
-        <td>4</td>
-        <td>5</td>
-        <td>6</td>
-        <td>7</td>
-        <td style="border-right: 1px solid">8</td>
         <td><strong>1*</strong></td>
         <td><strong>3*</strong></td>
         <td><strong>5*</strong></td>
@@ -136,14 +172,6 @@ Whatever the case, you may use the $d20$ Conversion table below to approximate t
       </tr>
       <tr>
         <th scope="row">d6</th>
-        <td>5</td>
-        <td style="border-right: 1px solid">6</td>
-        <td>1</td>
-        <td>2</td>
-        <td>3</td>
-        <td>4</td>
-        <td>5</td>
-        <td style="border-right: 1px solid">6</td>
         <td>1</td>
         <td>2</td>
         <td>3</td>
@@ -162,23 +190,11 @@ Whatever the case, you may use the $d20$ Conversion table below to approximate t
         <td>1</td>
         <td>2</td>
         <td>3</td>
-        <td style="border-right: 1px solid">4</td>
-        <td>1</td>
-        <td>2</td>
-        <td>3</td>
-        <td style="border-right: 1px solid">4</td>
-        <td>1</td>
-        <td>2</td>
-        <td>3</td>
         <td>4</td>
-      </tr>
-      <tr>
-        <th scope="row">d2</th>
-        <td colspan="16">Treat odd as 1, even as 2.</td>
       </tr>
     </tbody>
   </table>
-  <p>
+  <p style="text-align: center">
     * Or redo the roll.
   </p>
 </div>
