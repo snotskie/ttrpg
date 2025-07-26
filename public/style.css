@@ -8,6 +8,7 @@ body {
     scroll-snap-type: initial;
 }
 
+/* scaling */
 body > svg {
     width: 100%;
     max-width: 100%;

@@ -51,11 +51,11 @@ window.addEventListener("load", function(){
   
     MarpShims.autoScale();
     MarpShims.withTOC(toc, "h2,h3", (toc_records) => {
-          MarpShims.breakPages();
+      MarpShims.breakPages();
     });
       
     MarpShims.withTOC(tablist, "h4", (tab_records) => {
-        MarpShims.breakPages();
+      MarpShims.breakPages();
     });
   
     MarpShims.withTOC(abix, ".ability th", (ab_records) => {
