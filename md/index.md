@@ -627,7 +627,7 @@ Also note:
 ### Spark Rolls
 <!-- _class: rules -->
 
-A pair of balanced Stats and can be "Sparked." Sparks are what allow characters to perform far beyond what is normally possible, limited only by their imagination&mdash;and ability to control it!
+A pair of balanced Stats can be "Sparked." Sparks are what allow characters to perform far beyond what is normally possible, limited only by their imagination&mdash;and ability to control it!
 
 <div>
 
