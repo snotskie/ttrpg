@@ -62,6 +62,8 @@ After [*A Poet to His Baby Son*](https://www.poetryfoundation.org/poems/49051/a-
 
 ***Humanity, Blessed* ⊜** is a rules-light, semi-crunchy TTRPG system inspired by our favorite stories about what it means to be human, doing goofy, cool, fantastic little human things. This system is designed to provide fun, structured challenges and to use narrative and tactile cues instead of complex sheets and board states.
 
+<div>
+
 This book uses color-coded pages:
 
 <div class="rules">
@@ -80,6 +82,8 @@ This book uses color-coded pages:
   <p>
       Character Options
   </p>
+</div>
+
 </div>
 
 The online version of this book will automatically load in light or dark mode to match your operating system preferences. When printed, it uses a large font for easy reading.
@@ -117,6 +121,8 @@ I hope you can take the rules that follow and run with them. I hope playing this
 ### Character Sheets
 <!-- _class: creation -->
 
+<div>
+
 All characters in this game have a character sheet, which tracks:
 
 - Your **identifying information**, like name, age, and pronouns.
@@ -124,6 +130,8 @@ All characters in this game have a character sheet, which tracks:
 - A description of your **Backstory**, including your current **Lifestyle, Ethic, and Aptitudes**.
 - A list of **Specializations** that grant additional effects to your Aptitudes.
 - And other descriptive information, like your **appearance, items, alliances, and information learned**.
+
+</div>
 
 You can find a blank Character Sheet form at the end of this book. Other character sheet forms are sometimes posted to the community discussion at <https://github.com/snotskie/ttrpg/discussions>.
 
@@ -143,11 +151,15 @@ All your Stat Dice may be **upgraded later in the Session Shop**.
 ### Stats
 <!-- _class: ability -->
 
+<div>
+
 All characters in this game have the following Stats, each related to a different "scope" of action:
 
 | 🧠 Head Stat |
 | --- |
 | *Scope:* Intellectual pursuits, problem solving, puzzles, riddles, scanning for information, recalling facts, insight, reasoning, operating and building complex machines, playing practiced music, picking locks. *High/Low:* With a high Head Stat you can tackle intellectual puzzles with ease. But with a low Head Stat you may find yourself confounded easily or solutions to puzzles just outside your reach. |
+
+</div>
 
 | ✌️ Hand Stat |
 | --- |
@@ -176,11 +188,15 @@ All characters in this game have the following Stats, each related to a differen
 ### Optional Stats
 <!-- _class: ability -->
 
+<div>
+
 At table discretion, one of the following Stats may be added to your game, depending on the game's setting and tone:
 
 | 🪶 Hex Stat |
 | --- |
 | *Scope:* Use of wands, spells, potions, and other magical instruments, traps, lore, and knowledge. *Setting:* Magic or fantasy. |
+
+</div>
 
 | 🥕 Ham Stat |
 | --- |
@@ -235,6 +251,8 @@ At table discretion, one of the following Stats may be added to your game, depen
 
 Each of a character's Stats is represented by a Stat Die.
 
+<div>
+
 In general:
 
 - **Die Sizes:** A Stat Die can be one of five sizes, from $d2$ to $d10$, as described in the Stat Dice Notation table below.
@@ -244,6 +262,8 @@ In general:
 - **Unconventional Stats:** Whenever an effect has you use a Stat, you may instead use any other Stat you have balanced with it, referred to as using an "unconventional Stat."
 - **History Stat:** You may use your History Stat in place of another Stat when the action or effect is related enough to your Backstory or Aptitudes (described later in this chapter).
 - **Sparking:** You may "Spark" two balanced Stats together to create a more powerful effect (described in the Playing the Game chapter).
+
+</div>
 
 <div>
   <h4>
@@ -259,10 +279,14 @@ In general:
   | $d2$  | Any of the above dice, treating any odd number as $1$ and any even number as $2$. The smallest die size in the game. |
 </div>
 
+<div>
+
 Also note:
 
 - **Bumping Dice Groups:** Some effects will ask you to roll a group of dice, denoted such as $2d6$. When rolling a group of dice, if you roll a $1$ on either die, then you roll all dice in the group again and add to the previous result. And as long as you continue to roll a $1$ on either die, you continue to roll the group again and add this way.
 - **Explicit Dice Grouping Only:** Note, $2d6$ is different from $1d6+1d6$. Only when an effect explicitly groups dice together are they considered a group for bumping. For example, both dice of the $2d6$ group are rerolled when either rolls a $1$. However, the dice of the $1d6+1d6$ are considered separate groups, so rolling a $1$ on one of the dice only affects that one die.
+
+</div>
 
 ### Step Two · Choose Lifestyle and Ethic
 <!-- _class: creation -->
@@ -338,12 +362,16 @@ The game's setting shapes its events, characters, and places, as well as the con
 ### Step Three · Describe Backstory
 <!-- _class: creation -->
 
+<div>
+
 Begin to describe your character's story before, coming into, and outside of the game's main story. **Answer the following prompts** or others chosen at table discretion:
 
 - Describe **who your character looks up to**, whose work they strive to emulate, or who taught them everything they know.
 - List **three specific skills** that your character has proven their ability in, such as through schooling, study, training, specialization within their team, or so on.
 - List **three specific people or groups** that your character regularly interacts with or have connections to, whether "good" or "bad" connections.
 - Describe **where your character could be found** on an average afternoon before the action of the story starts.
+
+</div>
 
 These background details will help you and your table build the story and set your **Backstory**, which is used by your **History Stat** and your **Apts and Specs** (described later in this chapter). If your game's setting has **non-human characters** and your character is one of them, also work with your table to determine how your non-human background affects your Backstory or Stats.
 
@@ -354,15 +382,23 @@ And as you play, **keep notes**! These can help you reflect on your **character'
 
 Each character has a Backstory, a list  or description of narrative elements from their background that help define the scope of their History Stat, connect them to other characters and events in the story, and set the stage for their Apts and Specs.
 
+<div>
+
 What makes up a Backstory is determined by the players at the table working together to craft the seeds for a good story. However, in general:
 
 - **Unique:** Your Backstory should define unique skills, connections, events, traits, and other narrative elements that your character brings to the story.
 - **Variety:** Your Backstory should have enough variety that not all or most of your History would already be covered by a single Stat.
 
+</div>
+
+<div>
+
 If your game's setting allows you to play non-human characters, there are generally two approaches for how to represent it. The choice depends on the variety of non-human backgrounds among players:
 
 - **High Variety:** If each player character has a different non-human background, then the simplest option is to use each character's History to cover one or two simple actions, within reason, that characters of their background could perform unaided that humans couldn't.
 - **Low Variety:** If the player characters come from just a few non-human backgrounds, at table discretion, the scope of two or three Stats may be expanded to cover one or two simple actions each, within reason, that characters of their non-human backgrounds could perform unaided that humans couldn't.
+
+</div>
 
 ### Step Four · Choose Aptitudes
 <!-- _class: creation -->
@@ -378,16 +414,17 @@ You may become apt in more areas or **specialize** your apt areas in the **Sessi
 ### Aptitudes and Specializations
 <!-- _class: rules -->
 
+<div>
+
 Characters in this game may have a number of unique effects based on their Aptitudes and Specializations (or "Apts and Specs" for short), described below. The Session Shop chapter lists sample Specializations, which refer to rules described in the following chapters. However, for now you should know:
 
 - **Aptitudes:** Your Aptitudes are the important and often unique narrative areas you are "apt" in.
-- **Specializations:** Your Specializations are the Aptitudes you have "specialized," which grant you unique effects depending on the nature of the specialization. You may specialize your Aptitudes in the Session Shop. An example is given on the next page.
+- **Specializations:** Your Specializations are the Aptitudes you have "specialized," which grant you unique effects depending on the nature of the specialization. You may specialize your Aptitudes in the Session Shop. An example is given below.
 - **Specialization Limits:** You may not specialize the same Aptitude more than once or choose the same Specialization more than once.
 - **Aptitude Ease:** When you perform a Check related enough to your Aptitudes, you may round rolls of $3$ or $4$ up to $5$.
 - **Aptitude Difficulty:** When another character Attacks you or Defends against your Delayed Attack, if the Check is related enough to your Aptitudes, its difficulty is one rank higher, and if the relevant Aptitude is specialized, the difficulty is an additional rank higher.
 
----
-<!-- _class: rules -->
+</div>
 
 <div>
   <p>
@@ -418,6 +455,8 @@ Similarly, you'll track and perform Checks to **gain, maintain, create, trade in
 
 Most situations in this game can be resolved by performing a Check.
 
+<div>
+
 To perform a Check:
 
 1. **Table Discretion:** At table discretion, it's determined which Stat is normally associated with the action and if the action will be easier or harder than normal, as described in the Easy and Hard Checks table below.
@@ -425,6 +464,8 @@ To perform a Check:
 3. **Roll:** Roll your Stat Die for the chosen Stat.
 4. **Outcome:** The higher you roll, the greater your degree of success, as described in the Check Outcomes table below.
 5. **Boons and Busts:** Some successes grant you additional benefits, called "boons," while others are accompanied by complications, called "busts." If you get a boon and a bust on the same Check, they do not cancel each other out, but lead to a more nuanced result.
+
+</div>
 
 <div>
   <h4>
@@ -461,16 +502,22 @@ Attacks are Checks performed against another character. There are two types of A
 - **Violent Attack:** A violent Attack is when a character performs an action against another character's will using Hurt. All violent Attacks are dangerous, regardless of intent.
 - **Non-violent Attack:** A non-violent Attack is when a character performs an action against another character's will using any Stat besides Hurt.
 
+<div>
+
 To perform an Attack:
 
 1. **Attack Stat:** The Attacker chooses if their Attack is violent or non-violent and selects the appropriate Stat for it.
 2. **Defense Difficulty:** By default, the Check below is Normal. The Defender's Apts and Specs may modify the difficulty. Other effects or situations, at table discretion, may modify the difficulty further.
 3. **Attack Check:** The Attacker uses their chosen Stat to perform a Check to determine success for the action.
 
+</div>
+
 ### Delayed Attacks
 <!-- _class: rules -->
 
 Sometimes Attacks are made that are Defended against at a later time, such as setting traps or sending letters.
+
+<div>
 
 To perform a Delayed Attack:
 
@@ -478,10 +525,14 @@ To perform a Delayed Attack:
 2. **Attack Difficulty:** By default, the Check below is Normal. The Attacker's Apts and Specs, at the time the trigger is set, may modify the difficulty. Other effects or situations, at table discretion, may modify the difficulty further.
 3. **Defend:** When the trigger is activated, the Defender uses the targeted Stat to perform a Check to determine success guarding against the triggered effect. If the Check fails, the Attack succeeds without boon or bust.
 
+</div>
+
 ### Blessings
 <!-- _class: rules -->
 
 Some effects cost "Blessing Dice," or simply "Blessings," to activate.
+
+<div>
 
 In general:
 
@@ -491,6 +542,8 @@ In general:
 - **Blessings Bump:** Like your Stat Dice, Blessings also bump, but in a slightly different way. When you roll a $1$ on a Blessing, instead of rolling again to increase the value of the roll, gain an additional Blessing. As long as you continue to roll a $1$ this way, you continue to gain an additional Blessing.
 - **Gain One at a Time:** If you gain multiple Blessings from a single effect, gain each of those dice separately. They do not form a group for the purposes of bumping.
 - **Blessing Deck:** You may use a large deck of cards numbered $1$ through $6$ to represent Blessings instead of dice. This can help if you want Blessings to be more legible or if you have children, pets, or a table prone to being knocked into.
+
+</div>
 
 <div>
   <h4>
@@ -550,11 +603,17 @@ In general:
 
 Characters may spend their Blessings to Help one another succeed Checks.
 
+<div>
+
 To provide Help:
 
 1. **Help Cost:** Once per roll you may spend ① to Help another character.
 2. **Help Bonus:** Add half the value of the spent Blessing to the roll, rounded down, to a minimum of $1$.
 3. **Help Bust:** Teamwork makes the dream work, but it also complicates the situation. Regardless of the Check's result, it gains an additional bust.
+
+</div>
+
+<div>
 
 Also note:
 
@@ -563,59 +622,99 @@ Also note:
 - **Help within Reason:** You cannot Help if you are engaged in another action or if it would be unreasonable.
 - **Help as Group:** Providing and receiving Help is considered acting as a group.
 
+</div>
+
 ### Spark Rolls
 <!-- _class: rules -->
 
 A pair of balanced Stats and can be "Sparked." Sparks are what allow characters to perform far beyond what is normally possible, limited only by their imagination&mdash;and ability to control it!
+
+<div>
 
 In general, Spark rolls work by grouping Stat Dice and rolling them, increasing the odds of bumping. To perform a Spark roll:
 
 1. **Spark a Roll:** Before rolling, you may spend ⊜⊜ to instead combine and roll the dice of two balanced Stats as a single group, such as $2d6$ formed from two Stats that use a $d6$. When either die bumps, both bump.
 2. **Apply Usual Effects:** Effects that apply to either of the Stats used in the Spark roll also apply to the Spark roll itself.
 
+</div>
+
+<div>
+
 Alternatively, you can upgrade an existing roll into a Spark roll:
 
 1. **Roll Normally:** Roll the first Stat Die as usual.
 2. **Upgrade to Spark:** You may spend ⊜⊜ to add a balanced Stat Die to the roll. If it bumps, both dice bump as a group.
 
+</div>
+
+<div>
+
 Also note:
 
 - **Sparking Hard or Complex Checks:** If you Spark a Check that requires multiple rolls, you choose which roll to Spark.
 
+</div>
+
 ### Additional Terms
 <!-- _class: rules -->
 
-Some upgrade options in the Session Shop describe effects that use one or more terms defined below, as shorthand for a number of rules described above.
+<div>
+
+Some upgrade options in the Session Shop describe effects that use one or more terms defined below, as shorthand for a number of rules described above:
 
 - **Recharge:** Some effects list a recharge Blessing cost. Once activated, these effects cannot be activated again until the cost is paid.
 - **Ignite:** Lifestyle upgrades Ignite one or two of your Stats. When you Spark a roll using an Ignited Stat, you may round it from $6$ or $7$ up to $8$.
 - **Bank:** Ethic upgrades bank boons or busts. When you bank a boon or a bust, set it aside instead of resolving its impacts on the narrative. Track the number of boons or busts you've banked, as well as which effects you banked them through, as such effects will describe ways you can then spend them. If multiple effects would bank the same boon or bust, resolve which one applies at table discretion.
+
+</div>
 
 ### Conditions
 <!-- _class: rules -->
 
 Some events challenge your resolve, throw you off your game, cause you great embarrassment, or so on, beyond mere injury. When these happen, you may become Disarmed, Surprised, Uncool, or any of the other Conditions described in the Condition Effects table below.
 
+<div>
+
 In general however:
 
 - **Conditions Tell Stories:** At minimum, Conditions provide effects. However, they also represent small story arcs where you face obstacles and, in spite of the Condition's effects, overcome those obstacles. When you gain a Condition, consider how your character feels about the situation and what the Condition means to them beyond mere effect.
 - **Conditions Build Connections:** Gaining and removing Conditions, and facing and overcoming obstacles, happen with other characters around. Consider, and take notes for the development of your character: Who else is around that saw the event happen? How would the people you look up to feel about it? And how could your connections to other characters help you remove the Condition later?
+
+</div>
 
 <div>
   <h4>
     Condition Effects
   </h4>
 
-  | Condition | Description |
-  | --------- | ----------- |
-  | Ache | *Effect:* Rolls you make with the affected Stat cannot bump. *Duration:* Until next scene. |
-  | Cursed | *Effect:* Your Blessings are each worth $1$ less, to a minimum of $0$. *Duration:* Until treated. |
-  | Disarmed | *Effect:* When you succeed a violent Attack, receive one fewer boon and one additional bust than usual. *Duration:* Until treated. |
-  | Famous | *Effect:* You may exert your fame over those less famous, gaining a $+2$ bonus in Attacks against them, but not against the same character more than once during the same session or while you are Uncool. *Duration:* Until removed. |
-  | Taxed | *Effect:* You cannot Spark. *Duration:* Until treated. |
-  | Surprised | *Effect:* Your rolls cannot bump, Spark, or use an unconventional Stat. *Duration:* Until next roll. |
-  | Uncool | *Effect:* Your rolls are made with a $-1$ modifier unless you are alone. *Duration:* Until removed. |
-  | Vexed | *Effect:* When another character sees you perform a Check with the affected Stat, they may have you automatically fail. *Duration:* Until treated. |
+  <table>
+    <tbody>
+      <tr>
+        <th scope="row">Ache</th>
+        <td><em>Effect:</em> Rolls you make with the affected Stat cannot bump. <em>Duration:</em> Until next scene.</td>
+      <tr>
+        <th scope="row">Cursed</th>
+        <td><em>Effect:</em> Your Blessings are each worth $1$ less, to a minimum of $0$. <em>Duration:</em> Until treated.</td>
+      <tr>
+        <th scope="row">Disarmed</th>
+        <td><em>Effect:</em> When you succeed a violent Attack, receive one fewer boon and one additional bust than usual. <em>Duration:</em> Until treated.</td>
+      <tr>
+        <th scope="row">Famous</th>
+        <td><em>Effect:</em> You may exert your fame over those less famous, gaining a +2 bonus in Attacks against them, but not against the same character more than once during the same session or while you are Uncool. <em>Duration:</em> Until removed.</td>
+      <tr>
+        <th scope="row">Taxed</th>
+        <td><em>Effect:</em> You cannot Spark. <em>Duration:</em> Until treated.</td>
+      <tr>
+        <th scope="row">Surprised</th>
+        <td><em>Effect:</em> Your rolls cannot bump, Spark, or use an unconventional Stat. <em>Duration:</em> Until next roll.</td>
+      <tr>
+        <th scope="row">Uncool</th>
+        <td><em>Effect:</em> Your rolls are made with a $-1$ modifier unless you are alone. <em>Duration:</em> Until removed.</td>
+      <tr>
+        <th scope="row">Vexed</th>
+        <td><em>Effect:</em> When another character sees you perform a Check with the affected Stat, they may have you automatically fail. <em>Duration:</em> Until treated.</td>
+    </tbody>
+  </table>
 </div>
 
 
@@ -638,11 +737,15 @@ More Endeavor types are described in *Humanity, Endeavored*, available at <https
 
 Endeavors are carried out over rounds in which characters attempt to drive the narrative tension, progress themselves, and slow their opponents.
 
+<div>
+
 Rounds are carried out as follows:
 
 1. **Choose Action Die:** Before each round, choose an available Stat to be your Action Die for the actions you plan to take. The narrative for your action does not have to be fully formed. Then gain <b>X</b> temporary Blessings, which disappear at the end of the Endeavor. (<b>X</b> is described below.)
 3. **Follow Turn Order:** Turns for the round then start with whoever has the least temporary Blessings, rotating in the direction away from whoever has the most temporary Blessings, resolving ties at table discretion.
 4. **Spend Action Die:** After each round, the Stat chosen for your Action Die is "spent." While a Stat is spent, its Stat Die is replaced with a $d2$. You may skip the next round to instead regain all spent Stats.
+
+</div>
 
 <div>
   <p>
@@ -659,6 +762,8 @@ Rounds are carried out as follows:
 
 Each round during your turn, you may choose and perform one action from the set of action options available for that Endeavor or provided to you by your effects.
 
+<div>
+
 In general:
 
 - **Limited Actions:** Your action choices may be limited at table discretion in certain situations, some may only be taken if your Action Die used certain Stats, and all must be narratively reasonable to be taken. Because boons and busts can greatly shape the narrative, and they also can greatly shape what is narratively reasonable for future actions.
@@ -667,10 +772,14 @@ In general:
 - **Special Actions:** Actions with the `Special Action` tag cannot be performed during your turn. Instead, at the end of the round when all other actions are complete, whoever has the highest number of Blessings chooses a special action to perform, resolving ties at table discretion.
 - **Effects as Normal:** You may also activate your other effects as normal, whenever would be most appropriate during, before, or after your turn.
 
+</div>
+
 ### Tracks
 <!-- _class: rules -->
 
 Endeavors use "tracks" to record character positions, scores, progress towards goals, or so on.
+
+<div>
 
 In general:
 
@@ -679,10 +788,14 @@ In general:
 - **Buttons:** Endeavors also add a number of buttons to the track. There are two types of buttons, personal and global. Personal buttons can only be activated by the character associated with them, whereas global buttons can be activated by any character. If an Endeavor uses buttons, it will describe how each is activated and the effect that happens as a result. Additionally, buttons may have a passive effect that applies while the button is present or a cumulative effect that activates only once if multiple instances of that effect would activate at the same time.
 - **Community:** For printable tracks and other Endeavor resources, visit <https://github.com/snotskie/ttrpg/discussions>.
 
+</div>
+
 ### 🧟 Monstrous Endeavors
 <!-- _class: rules -->
 
 Some campaigns or sessions may involve the player characters facing off against zombies, robots, or the manifestation of someone's fear!
+
+<div>
 
 These are performed like any other Endeavor, with the following adjustments, action options, and buttons:
 
@@ -691,6 +804,8 @@ These are performed like any other Endeavor, with the following adjustments, act
 - **Setup:** You and your "allies" begin at position $0$. If an opponent has an SP of $10 (3)$, for example, they begin at position $10$ and add a Recovery button $3$ below that. All opponents also add a Defeat button at position $0$.
 - **Goal:** Move all your opponents to position $0$ before they can give you three Wound buttons in a row.
 - **Wounds:** When you are "wounded," gain a Wound button at the first position at or above your current track position without one already.
+
+</div>
 
 <div>
   <h4>
@@ -837,6 +952,8 @@ These are performed like any other Endeavor, with the following adjustments, act
 
 Some campaigns or sessions may involve a prolonged scene where the player characters race against one another or their opponents, whether it be by foot, horseback, sled, racecar, or even spaceship!
 
+<div>
+
 These are performed like any other Endeavor, with the following adjustments, action options, and buttons:
 
 - **Speed and Acceleration:** The symbol <b>X</b> represents your "acceleration" for the round, while your temporary blessings represent your overall "speed."
@@ -844,6 +961,8 @@ These are performed like any other Endeavor, with the following adjustments, act
 - **Goal:** Be the first to reach the finish line or the last one standing.
 - **Terrain:** At the top of the first round, the lay of the land will be provided at table discretion for the race course environment, including any terrain elements like hills, brush, holes, asteroid fields, or so on, represented by Terrain buttons. As the Endeavor progresses, additional areas may become available, each with their own track and lay of the land.
 - **Fatigue Buttons:** When you spend a Blessing, gain a Fatigue button, representing your need to regroup after a hard push.
+
+</div>
 
 <div>
   <h4>

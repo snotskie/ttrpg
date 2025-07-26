@@ -13,9 +13,9 @@ headingDivider: 3
 <!-- _paginate: skip -->
 
 <!--![bg left](bg.jpg)-->
-<!--![bg left](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=)-->
+![bg left](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=)
 <!--![bg left](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjkJCQ+A8AAdwBSPJsk2gAAAAASUVORK5CYII=)-->
-![bg left](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdj+P///38ACfsD/QVDRcoAAAAASUVORK5CYII=)
+<!-- ![bg left](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdj+P///38ACfsD/QVDRcoAAAAASUVORK5CYII=) -->
 
 Supplement for Humanity, Blessed: TTRPG
 
@@ -26,8 +26,8 @@ CC BY:NC:ND Version
 snotskie.
 
 <style scoped>
-  section.title {
-    background: linear-gradient(var(--color-rules), var(--color-rules-2));
+  section.title h1 {
+    font-size: 60pt;
   }
 
   section.title:before {
@@ -191,6 +191,8 @@ Whatever the case, you may use the $d20$ Conversion table below to approximate t
 
 Some scenes call for something between a Monstrous Endeavor and a Racing Endeavor, where the player characters must charge in and stop the enemy before they complete their plans, such as catching a thief before they can escape with a powerful artifact or infiltrating a star base before it can fire a large laser.
 
+<div>
+
 These can be performed like a Monstrous Endeavor, with the following adjustments:
 
 - **Goal:** Move all your opponents to position $0$ before they can complete their scheme or foil your plans.
@@ -198,6 +200,8 @@ These can be performed like a Monstrous Endeavor, with the following adjustments
 - **Foiling:** When a charge leader is "foiled," another ally becomes the charge leader instead. Once you are foiled, you cannot become the charge leader again. Your opponents do not automatically win if your entire side has been foiled, but your victory will be much more difficult.
 - **Simpler Turn Order:** Turn order moves clockwise, with the charge leader acting first, and it is never reversed. If there is no charge leader, monstrosities act first.
 - **As Usual:** Actions, ally special actions, and buttons&mdash;these are as usual for a Monstrous Endeavor. However, monstrosities use the following special actions instead.
+
+</div>
 
 <div>
   <h4>
@@ -223,12 +227,16 @@ These can be performed like a Monstrous Endeavor, with the following adjustments
 
 Some campaigns or sessions may involve prolonged tension where the player characters attempt to sneak past guards, escape a prison, perform a heist, or so on!
 
+<div>
+
 These are performed like any other Endeavor, with the following adjustments, action options, and buttons:
 
 - **Efficiency and Progress:** The symbol <b>X</b> represents your "efficiency" for the round, such as efficiency at stealth, charisma, or so on. And your temporary blessings represent your accumulated "progress" towards your plan.
 - **The Eye:** The opposing side is represented by the "Eye." When the Endeavor begins, the Eye is in "warry mode," on the lookout for you and your fellow "rogues." However, once the Eye has been alerted, it will enter the much more dangerous "wake mode." For the sake of rules, the Eye is a character, but it has only a single Watch Stat, has no track position, it cannot be Attacked directly, and its Watch Stat is never spent when chosen as its Action Die.
 - **Setup:** You and your fellow rogues begin at position $1$. At the top of the first round, the lay of the land will be provided at table discretion for the guarded area, including any rooms, halls, obstacles to climb or hide behind, locking and security mechanisms, and so on. The Eye's defenses in those areas are represented by Alarm buttons, actions the rogues need to complete are represented by Objective buttons, exit points are represented by Escape buttons, and places safe from danger are represented by Sanctuary buttons. As the Endeavor progresses, additional areas may become available, each with their own track and lay of the land.
 - **Goal:** Remove all Objective buttons without alerting the Eye.
+
+</div>
 
 <div>
   <h4>
