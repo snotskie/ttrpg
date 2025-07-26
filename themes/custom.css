@@ -14,8 +14,8 @@
 
 /* Font */
 :root {
-  font-size: 16pt;
-  /*font-size: 12pt;*/
+  /* font-size: 16pt; */
+  font-size: min(36pt, max(16pt, 1rem));
   letter-spacing: normal;
   text-align: left;
   --color-highlight: var(--color-foreground);
@@ -43,7 +43,7 @@ section:not(.center) {
 section:after {
   --color-background-paginate: var(--color-background);
   --color-background: var(--color-background);
-  font-size: 14pt;
+  font-size: 0.875rem;
   font-weight: bold;
 }
 
@@ -195,6 +195,11 @@ p.toc_H2 {
   font-weight: bold;
 }
 
+a.toc_anchor {
+  max-width: calc(100% - 3ch);
+  display: inline-block;
+}
+
 /* title page */
 section.art-left {
   padding-left: 1em;
@@ -209,15 +214,15 @@ section.title a {
   font-family: "Bebas Neue", serif;
   font-weight: 400;
   font-style: normal;
-  color: #efefef;
+  /* color: #efefef; */
 }
 
 section.title {
-  background: linear-gradient(var(--color-creation), var(--color-creation-2));
+  /* background: linear-gradient(var(--color-guide), var(--color-creation)); */
 }
 
 section.title h1 {
-  font-size: 4rem;
+  font-size: 64pt;
   margin-top: 3in;
 }
 
@@ -244,7 +249,7 @@ section.title:before {
   );
   color: transparent;
   background-clip: text;
-  text-shadow: 11px -14px 0 black;
+  text-shadow: 11px -14px 0 var(--color-foreground);
 }
 
 /* ability table style */

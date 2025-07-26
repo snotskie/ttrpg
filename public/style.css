@@ -12,7 +12,8 @@ body > svg {
     width: 100%;
     max-width: 100%;
     height: unset !important;
-    max-height: 100%;
+    max-height: unset !important;
+    /* max-height: 100%; */
     margin: 0;
 }
 
@@ -20,6 +21,11 @@ body > svg.fixedscale {
     width: 8.5in;
     height: 11in;
     margin: 0 auto;
+}
+
+svg > foreignObject > section {
+    width: 100% !important;
+    height: 100% !important;
 }
 
 /* page breaks */
