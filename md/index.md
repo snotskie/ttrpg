@@ -1182,6 +1182,10 @@ At the end of each session, you receive one free Stat Upgrade for your character
 | --- |
 | *Effect:* When you succeed a Check using Head, Hand, or an unconventional Stat balanced with either, as part of the same action you may provide another character Help, within reason. |
 
+| Critical Specialization |
+| --- |
+| *Effect:* During Endeavors, when you roll $10$ or more attacking an opponent, or they roll $2$ or less defending against your Delayed Attack, they spend an unspent Stat at random. Recharge ②. |
+
 <!-- | Delegated Specialization |
 | --- |
 | *Effect:* During a Clash Endeavor, your summons may perform Spark rolls by working together in pairs, using one Stat from each, so long as the chosen Stats are balanced and you pay the Blessing cost. | -->
