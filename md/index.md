@@ -1184,7 +1184,7 @@ At the end of each session, you receive one free Stat Upgrade for your character
 
 | Critical Specialization |
 | --- |
-| *Effect:* During Endeavors, when you roll $10$ or more attacking an opponent, or they roll $2$ or less defending against your Delayed Attack, they spend an unspent Stat at random. Recharge ②. |
+| *Effect:* During Endeavors, when you roll $10$ or more attacking an opponent, or they roll $2$ or less defending against your Delayed Attack, they spend an unspent Stat at random. *Recharge:* ②. |
 
 <!-- | Delegated Specialization |
 | --- |
