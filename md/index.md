@@ -749,7 +749,7 @@ Rounds are carried out as follows:
 
 1. **Choose Action Die:** Before each round, choose an available Stat to be your Action Die for the actions you plan to take. The narrative for your action does not have to be fully formed. Then gain <b>X</b> temporary Blessings, which disappear at the end of the Endeavor. (<b>X</b> is described below.)
 3. **Follow Turn Order:** Turns for the round then start with whoever has the least temporary Blessings, rotating in the direction away from whoever has the most temporary Blessings, resolving ties at table discretion.
-4. **Spend Action Die:** After each round, the Stat chosen for your Action Die is "spent." While a Stat is spent, its Stat Die is replaced with a $d2$. You may skip the next round to instead regain all spent Stats.
+4. **Spend Action Die:** After each round, the Stat chosen for your Action Die is "spent." While a Stat is spent, it can't be an Action Die or Spark. You may skip the next round to instead regain all spent Stats.
 
 </div>
 
