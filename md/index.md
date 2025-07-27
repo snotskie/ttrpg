@@ -700,7 +700,7 @@ In general however:
         <td><em>Effect:</em> Rolls you make with the affected Stat cannot bump. <em>Duration:</em> Until next scene.</td>
       <tr>
         <th scope="row">Cursed</th>
-        <td><em>Effect:</em> Your Blessings are each worth $1$ less, to a minimum of $0$. <em>Duration:</em> Until treated.</td>
+        <td><em>Effect:</em> Your Blessings are each worth 1 less, to a minimum of 0. <em>Duration:</em> Until treated.</td>
       <tr>
         <th scope="row">Disarmed</th>
         <td><em>Effect:</em> When you succeed a violent Attack, receive one fewer boon and one additional bust than usual. <em>Duration:</em> Until treated.</td>
@@ -715,7 +715,7 @@ In general however:
         <td><em>Effect:</em> Your rolls cannot bump, Spark, or use an unconventional Stat. <em>Duration:</em> Until next roll.</td>
       <tr>
         <th scope="row">Uncool</th>
-        <td><em>Effect:</em> Your rolls are made with a $-1$ modifier unless you are alone. <em>Duration:</em> Until removed.</td>
+        <td><em>Effect:</em> Your rolls are made with a -1 modifier unless you are alone. <em>Duration:</em> Until removed.</td>
       <tr>
         <th scope="row">Vexed</th>
         <td><em>Effect:</em> When another character sees you perform a Check with the affected Stat, they may have you automatically fail. <em>Duration:</em> Until treated.</td>
