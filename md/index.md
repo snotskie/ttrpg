@@ -826,7 +826,7 @@ These are performed like any other Endeavor, with the following adjustments, act
       </tr>
       <tr>
         <th scope="row">Non-violent</th>
-        <td><i>Not Hurt.</i> Use your Action Die to non-violently Attack up to <b>X</b> opponents. On a success, steal a total of <b>X</b> temporary Blessings from them.</td>
+        <td><i>Not Hurt.</i> Use your Action Die to non-violently Attack up to <b>X</b> opponents. On a success, steal a total of <b>X</b> temporary Blessings of your choice from them. They then gain a number of new temporary Blessings equal to the amount they lost.</td>
       </tr>
       <tr>
         <th scope="row" colspan="2">Advance</th>
@@ -861,7 +861,7 @@ These are performed like any other Endeavor, with the following adjustments, act
       </tr>
       <tr>
         <th scope="row">Non-violent</th>
-        <td><i>Not Hurt.</i> Use your Action Die to non-violently Attack up to <b>X</b> opponents. On a success, steal a total of <b>X</b> temporary Blessings from them.</td>
+        <td><i>Not Hurt.</i> Use your Action Die to non-violently Attack up to <b>X</b> opponents. On a success, steal a total of <b>X</b> temporary Blessings of your choice from them. They then gain a number of new temporary Blessings equal to the amount they lost.</td>
       </tr>
       <tr>
         <th scope="row" colspan="2">Advance</th>
@@ -983,7 +983,7 @@ These are performed like any other Endeavor, with the following adjustments, act
       </tr>
       <tr>
         <th scope="row">Non-violent</th>
-        <td><i>Not Hurt.</i> Use your Action Die to non-violently Attack another racer. On a success, steal <b>X</b> temporary Blessings from them.</td>
+        <td><i>Not Hurt.</i> Use your Action Die to non-violently Attack another racer. On a success, steal <b>X</b> temporary Blessings of your choice from them. They then gain a number of new temporary Blessings equal to the amount they lost.</td>
       </tr>
       <tr>
         <th scope="row" colspan="2">Advance</th>
