@@ -759,7 +759,7 @@ Each round during your turn, you may choose and perform one action from the set 
 
 In general:
 
-**Limited Actions:** Your action choices may be limited at table discretion in certain situations, some may only be taken if your Action Die used certain Stats, and all must be narratively reasonable to be taken. Because boons and busts can greatly shape the narrative, and they also can greatly shape what is narratively reasonable for future actions.
+**Limited Actions:** Your action choices may be limited at table discretion in certain situations, some may only be taken if your Action Die used certain Stats, and all must be narratively reasonable to be taken. Because boons and busts can greatly shape the narrative, they can also greatly shape what is narratively reasonable for future actions.
 
 **Using Action Dice:** Some actions use your Action Die to perform Checks, and some ignore it. Even if ignored, Action Dice are still spent after the round.
 
