@@ -340,7 +340,9 @@ li::marker {
 }
 
 section.rules li > strong:first-child,
-section.intro li > strong:first-child {
+section.intro li > strong:first-child,
+section.rules p > strong:first-child,
+section.intro p > strong:first-child {
     background: var(--color-foreground);
     color: var(--color-background);
     border-radius: .1rem .5rem;

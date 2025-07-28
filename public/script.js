@@ -63,38 +63,38 @@ window.addEventListener("load", function(){
     // but need to de-shrink manually during printing back to post-grow size
     // and then back again to final size after printing
     MarpShims.growPages();
-    const svgs = document.querySelectorAll("svg[data-marpit-svg]");
-    for (const svg of svgs){
-      (function(svg){
-        const page = svg.children[0].children[0];
-        const fo = page.closest("foreignObject");
-        const viewBox = svg.getAttribute("viewBox");
-        const height = fo.getAttribute("height");
-        const style_height = svg.style.height;
-        window.addEventListener("beforeprint", () => {
-          svg.setAttribute("viewBox", viewBox);
-          fo.setAttribute("height", height);
-          svg.style.height = style_height;
-          page.style.height = style_height;
-        });
-      })(svg);
-    }
-    MarpShims.shrinkPages();
-    for (const svg of svgs){
-      (function(svg){
-        const page = svg.children[0].children[0];
-        const fo = page.closest("foreignObject");
-        const viewBox = svg.getAttribute("viewBox");
-        const height = fo.getAttribute("height");
-        const style_height = svg.style.height;
-        window.addEventListener("afterprint", () => {
-          svg.setAttribute("viewBox", viewBox);
-          fo.setAttribute("height", height);
-          svg.style.height = style_height;
-          page.style.height = style_height;
-        });
-      })(svg);
-    }
+    // const svgs = document.querySelectorAll("svg[data-marpit-svg]");
+    // for (const svg of svgs){
+    //   (function(svg){
+    //     const page = svg.children[0].children[0];
+    //     const fo = page.closest("foreignObject");
+    //     const viewBox = svg.getAttribute("viewBox");
+    //     const height = fo.getAttribute("height");
+    //     const style_height = svg.style.height;
+    //     window.addEventListener("beforeprint", () => {
+    //       svg.setAttribute("viewBox", viewBox);
+    //       fo.setAttribute("height", height);
+    //       svg.style.height = style_height;
+    //       page.style.height = style_height;
+    //     });
+    //   })(svg);
+    // }
+    // MarpShims.shrinkPages();
+    // for (const svg of svgs){
+    //   (function(svg){
+    //     const page = svg.children[0].children[0];
+    //     const fo = page.closest("foreignObject");
+    //     const viewBox = svg.getAttribute("viewBox");
+    //     const height = fo.getAttribute("height");
+    //     const style_height = svg.style.height;
+    //     window.addEventListener("afterprint", () => {
+    //       svg.setAttribute("viewBox", viewBox);
+    //       fo.setAttribute("height", height);
+    //       svg.style.height = style_height;
+    //       page.style.height = style_height;
+    //     });
+    //   })(svg);
+    // }
   
     MarpShims.autoTheme();
     MarpShims.anchorHeadings("h1,h2,h3,h4,.ability th");
