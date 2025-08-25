@@ -330,6 +330,10 @@ section.char textarea {
   width: 100%;
 }
 
+section.char input {
+  border-bottom: 1px solid var(--color-foreground);
+}
+
 /* styled lists */
 section:not(.char) ul, ol {
   padding-left: 2ch;

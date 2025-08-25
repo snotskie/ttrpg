@@ -778,7 +778,7 @@ In general:
 
 **Movement:** Tracks begin at $0$ and go up by whole numbers as high as needed. The Endeavor's setup instructions will describe where characters begin, and its action options will describe how characters move.
 
-**Group Movement:** If a group moves together an amount, they only move a total of that amount. Unless the Endeavor's setup instructions specifies otherwise, how the group distributes this movement among its members is up to the group to decide: they may distribute the movement evenly, give it all to one member, or any other arrangement they agree on.
+**Group Movement:** If a group moves together an amount, they only move a total of that amount. Unless the Endeavor specifies otherwise, how the group distributes this movement among its members is up to the group to decide: they may distribute the movement evenly, give it all to one member, or any other arrangement they agree on.
 
 **Buttons:** Endeavors also add a number of buttons to the track. There are two types of buttons, personal and global. Personal buttons can only be activated by the character associated with them, whereas global buttons can be activated by any character. If an Endeavor uses buttons, it will describe how each is activated and the effect that happens as a result. Additionally, buttons may have a passive effect that applies while the button is present or a cumulative effect that activates only once if multiple instances of that effect would activate at the same time.
 
@@ -1304,15 +1304,15 @@ At the end of each session, you receive one free Stat Upgrade for your character
 <table>
     <thead>
         <tr>
+            <th colspan="2">Name</th>
             <th>🧠</th>
             <th>✌️</th>
             <th>💕</th>
-            <th>☕️</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td><select><option>2</option><option selected>4</option><option>6</option><option>8</option><option>10</option></td>
+            <td colspan="2" style="width:40%"><input placeholder="" /></td>
             <td><select><option>2</option><option selected>4</option><option>6</option><option>8</option><option>10</option></td>
             <td><select><option>2</option><option selected>4</option><option>6</option><option>8</option><option>10</option></td>
             <td><select><option>2</option><option selected>4</option><option>6</option><option>8</option><option>10</option></td>
@@ -1323,6 +1323,7 @@ At the end of each session, you receive one free Stat Upgrade for your character
 <table>
     <thead>
         <tr>
+            <th>☕️</th>
             <th>👿</th>
             <th>⚠️</th>
             <th>⏳</th>
@@ -1331,6 +1332,7 @@ At the end of each session, you receive one free Stat Upgrade for your character
     </thead>
     <tbody>
         <tr>
+            <td><select><option>2</option><option selected>4</option><option>6</option><option>8</option><option>10</option></td>
             <td><select><option>2</option><option selected>4</option><option>6</option><option>8</option><option>10</option></td>
             <td><select><option>2</option><option selected>4</option><option>6</option><option>8</option><option>10</option></td>
             <td><select><option>2</option><option selected>4</option><option>6</option><option>8</option><option>10</option></td>
