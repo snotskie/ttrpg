@@ -497,7 +497,7 @@ To perform a Check:
   | Easy | Round rolls of $3$ or $4$ up to $5$, as though you were apt in the action. |
   | Normal | *No effect.* |
   | Hard | Perform the roll twice. If either would fail, the whole Check fails. Boons and busts stack. |
-  | Complex | Perform the roll several times, using a mix of Stats and/or characters working together. If two or more would fail, the whole Check fails. Boons and busts stack. |
+  | Complex | Perform the roll several times, using a mix of Stats and/or characters working together. If any would fail, the whole Check fails. Boons and busts stack. |
 </div>
 
 ### Attacks
@@ -822,7 +822,7 @@ These are performed like any other Endeavor, with the following adjustments, act
       </tr>
       <tr>
         <th scope="row" colspan="2">Protect</th>
-        <td><i>Any Stat.</i> Spend Blessings to protect yourself or an ally from the opponents' objectives. For each Blessing spent, their relevant Attacks are one rank more difficult, until your next turn.</td>
+        <td><i>Home or Hurry.</i> Protect yourself or an ally from the opponents' objectives. Attacks against the protected character are one rank more difficult, until the end of the next round.</td>
       </tr>
       <tr>
         <th scope="row" colspan="2">Pass</th>
@@ -857,7 +857,7 @@ These are performed like any other Endeavor, with the following adjustments, act
       </tr>
       <tr>
         <th scope="row" colspan="2">Protect</th>
-        <td><i>Any Stat.</i> Spend Blessings to protect yourself or an ally from the opponents' objectives. For each Blessing spent, their relevant Attacks are one rank more difficult, until your next turn.</td>
+        <td><i>Home or Hurry.</i> Protect yourself or an ally from the opponents' objectives. Attacks against the protected character are one rank more difficult, until the end of the next round.</td>
       </tr>
       <tr>
         <th scope="row" colspan="2">Pass</th>

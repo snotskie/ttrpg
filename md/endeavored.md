@@ -215,7 +215,7 @@ These can be performed like a Monstrous Endeavor, with the following adjustments
 
 **Foiling:** When a charge leader is "foiled," another ally becomes the charge leader instead. Once you are foiled, you cannot become the charge leader again. Your opponents do not automatically win if your entire side has been foiled, but your victory will be much more difficult.
 
-**Simpler Turn Order:** Turn order moves clockwise, with the charge leader acting first, and it is never reversed. If there is no charge leader, monstrosities act first.
+**Simpler Turn Order:** Turn order moves clockwise, with the charge leader acting first. If there is no charge leader, monstrosities act first.
 
 **As Usual:** Actions, ally special actions, and buttons&mdash;these are as usual for a Monstrous Endeavor. However, monstrosities use the following special actions instead.
 
