@@ -761,9 +761,9 @@ In general:
 
 **Limited Actions:** Your action choices may be limited at table discretion in certain situations, some may only be taken if your Action Die used certain Stats, and all must be narratively reasonable to be taken. Because boons and busts can greatly shape the narrative, and they also can greatly shape what is narratively reasonable for future actions.
 
-**Using Action Dice:** Some actions use your Action Die to perform Checks, and some ignore it. Even if ignored, Action Dice are still spent after the round.
+**Using Action Dice:** Some actions use your Action Die to perform Checks, and some don't. Even if not used, Action Dice are still spent after the round.
 
-**Actions with Hard or Complex Checks:** If an action's Check requires multiple rolls, use your Action Die for the first, then perform the rest.
+**Complex and Sparked Actions:** Even if other Stat Dice are involved in an action's Check, only the Action Die is spent after the round.
 
 **Special Actions:** Actions with the `Special Action` tag cannot be performed during your turn. Instead, at the end of the round when all other actions are complete, whoever has the highest number of Blessings chooses a special action to perform, resolving ties at table discretion.
 
@@ -822,7 +822,7 @@ These are performed like any other Endeavor, with the following adjustments, act
       </tr>
       <tr>
         <th scope="row" colspan="2">Protect</th>
-        <td><i>Any Stat.</i> Ignore your Action Die and spend Blessings to protect yourself or an ally from the opponents' objectives. For each Blessing spent, their relevant Attacks are one rank more difficult, until your next turn.</td>
+        <td><i>Any Stat.</i> Spend Blessings to protect yourself or an ally from the opponents' objectives. For each Blessing spent, their relevant Attacks are one rank more difficult, until your next turn.</td>
       </tr>
       <tr>
         <th scope="row" colspan="2">Pass</th>
@@ -857,7 +857,7 @@ These are performed like any other Endeavor, with the following adjustments, act
       </tr>
       <tr>
         <th scope="row" colspan="2">Protect</th>
-        <td><i>Any Stat.</i> Ignore your Action Die and spend Blessings to protect yourself or an ally from the opponents' objectives. For each Blessing spent, their relevant Attacks are one rank more difficult, until your next turn.</td>
+        <td><i>Any Stat.</i> Spend Blessings to protect yourself or an ally from the opponents' objectives. For each Blessing spent, their relevant Attacks are one rank more difficult, until your next turn.</td>
       </tr>
       <tr>
         <th scope="row" colspan="2">Pass</th>
@@ -979,7 +979,7 @@ These are performed like any other Endeavor, with the following adjustments, act
       </tr>
       <tr>
         <th scope="row" colspan="2">Protect</th>
-        <td><i>Any Stat.</i> Ignore your Action Die and spend Blessings to protect yourself or an ally from the opponents' objectives. For each Blessing spent, their relevant Attacks are one rank more difficult, until your next turn.</td>
+        <td><i>Any Stat.</i> Spend Blessings to protect yourself or an ally from the opponents' objectives. For each Blessing spent, their relevant Attacks are one rank more difficult, until your next turn.</td>
       </tr>
       <tr>
         <th scope="row" colspan="2">Pass</th>
@@ -1164,7 +1164,7 @@ At the end of each session, you receive one free Stat Upgrade for your character
 
 | Commanding Specialization |
 | --- |
-| *Effect:* During Endeavors, as an action you may ignore your Action Die and choose an ally who has not acted yet. They may choose a new Stat for their Action Die. *Recharge:* ③. |
+| *Effect:* During Endeavors, as an action you may choose an ally who has not acted yet. They may choose a new Stat for their Action Die. *Recharge:* ③. |
 
 | Coordinated Specialization |
 | --- |
@@ -1280,7 +1280,7 @@ At the end of each session, you receive one free Stat Upgrade for your character
 
 | Zealous Specialization |
 | --- |
-| *Effect:* During Endeavors, when your Action Die uses Head, Heart, or an unconventional Stat balanced with either, as an action you may ignore your Action Die and instead have you and your allies each gain a Zeal button $1$ below your current track positions. *Recharge:* ④. **Zeal button:** *Type:* Personal. *Activation:* Activated when you move over it. *Effect:* End your movement, remove this button, and immediately Attack a nearby opponent, even if you have already acted this round. |
+| *Effect:* During Endeavors, when your Action Die uses Head, Heart, or an unconventional Stat balanced with either, as an action you may instead have you and your allies each gain a Zeal button $1$ below your current track positions. *Recharge:* ④. **Zeal button:** *Type:* Personal. *Activation:* Activated when you move over it. *Effect:* End your movement, remove this button, and immediately Attack a nearby opponent, even if you have already acted this round. |
 
 ## Character Sheet
 <!-- _class: major center -->
