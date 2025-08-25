@@ -14,9 +14,10 @@ function bwprint(){
     window.addEventListener("beforeprint", bwbeforeprint);
     window.addEventListener("afterprint", bwafterprint);
     window.addEventListener("afterprint", () => {
-        window.removeEventListener("beforeprint", bwbeforeprint);
-        window.removeEventListener("afterprint", bwafterprint);
-        window.removeEventListener("afterprint", this);
+        // window.removeEventListener("beforeprint", bwbeforeprint);
+        // window.removeEventListener("afterprint", bwafterprint);
+        // window.removeEventListener("afterprint", this);
+        history.go(0);
     });
     
     window.print();
@@ -37,6 +38,50 @@ function restyleIndexEntry(name){
 function restyleIndexEntries(records){
   for (const {anchor} of records){
     anchor.innerText = restyleIndexEntry(anchor.innerText);
+  }
+}
+
+function perfectReorderPages(){
+  let pages = document.querySelectorAll("body > svg");
+  if (pages.length % 4 !== 0){
+    for (let i=0; i < 4 - pages.length % 4; ++i){
+      document.body.appendChild(pages[0].cloneNode());
+    }
+  }
+
+  pages = document.querySelectorAll("body > svg");
+  const pageOrder = [];
+  for (let i=0; pageOrder.length < pages.length; i += 2){
+    pageOrder.push(i);
+    pageOrder.push(i + pages.length/2);
+    pageOrder.push(i + pages.length/2 + 1);
+    pageOrder.push(i + 1);
+  }
+
+  for (const page of pageOrder){
+    document.body.appendChild(pages[page]);
+  }
+}
+
+function saddleReorderPages(){
+  let pages = document.querySelectorAll("body > svg");
+  if (pages.length % 4 !== 0){
+    for (let i=0; i < 4 - pages.length % 4; ++i){
+      document.body.appendChild(pages[0].cloneNode());
+    }
+  }
+
+  pages = document.querySelectorAll("body > svg");
+  const pageOrder = [];
+  for (let i=0; pageOrder.length < pages.length; i += 2){
+    pageOrder.push(pages.length - 1 - i);
+    pageOrder.push(i);
+    pageOrder.push(i + 1);
+    pageOrder.push(pages.length - 1 - i - 1);
+  }
+
+  for (const page of pageOrder){
+    document.body.appendChild(pages[page]);
   }
 }
 
