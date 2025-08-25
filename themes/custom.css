@@ -330,8 +330,19 @@ section.char textarea {
   width: 100%;
 }
 
+section.char select {
+  appearance: none;
+}
+
+section.char td select,
 section.char input {
   border-bottom: 1px solid var(--color-foreground);
+}
+
+section.char thead,
+section.char thead tr,
+section.char th {
+  border: none;
 }
 
 /* styled lists */

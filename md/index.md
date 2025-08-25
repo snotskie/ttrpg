@@ -1304,18 +1304,18 @@ At the end of each session, you receive one free Stat Upgrade for your character
 <table>
     <thead>
         <tr>
-            <th colspan="2">Name</th>
-            <th>🧠</th>
-            <th>✌️</th>
-            <th>💕</th>
+            <th colspan="2" style="width:40%">Name</th>
+            <th style="width:20%">Head 🧠</th>
+            <th style="width:20%">Hand ✌️</th>
+            <th style="width:20%">Heart 💕</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td colspan="2" style="width:40%"><input placeholder="" /></td>
-            <td><select><option>2</option><option selected>4</option><option>6</option><option>8</option><option>10</option></td>
-            <td><select><option>2</option><option selected>4</option><option>6</option><option>8</option><option>10</option></td>
-            <td><select><option>2</option><option selected>4</option><option>6</option><option>8</option><option>10</option></td>
+            <td colspan="2"><input placeholder="" /></td>
+            <td><select><option selected></option><option>2</option><option>4</option><option>6</option><option>8</option><option>10</option></td>
+            <td><select><option selected></option><option>2</option><option>4</option><option>6</option><option>8</option><option>10</option></td>
+            <td><select><option selected></option><option>2</option><option>4</option><option>6</option><option>8</option><option>10</option></td>
         </tr>
     </tbody>
 </table>
@@ -1323,19 +1323,19 @@ At the end of each session, you receive one free Stat Upgrade for your character
 <table>
     <thead>
         <tr>
-            <th>☕️</th>
-            <th>👿</th>
-            <th>⚠️</th>
-            <th>⏳</th>
-            <th><select><option selected></option><option>🪶</option><option>🥕</option><option>🔎</option><option>🦾</option><option>👾</option><option>💰</option><option>🎁</option><option>🎧</option><option>🦠</option><option>💀</option><option>👻</option><option>🌳</option><option>⚫</option></select></th>
+            <th style="width:20%">Home ☕️</th>
+            <th style="width:20%">Hurt 👿</th>
+            <th style="width:20%">Hurry ⚠️</th>
+            <th style="width:20%">History ⏳</th>
+            <th style="width:20%"><select><option selected></option><option>🪶</option><option>🥕</option><option>🔎</option><option>🦾</option><option>👾</option><option>💰</option><option>🎁</option><option>🎧</option><option>🦠</option><option>💀</option><option>👻</option><option>🌳</option><option>⚫</option></select></th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td><select><option>2</option><option selected>4</option><option>6</option><option>8</option><option>10</option></td>
-            <td><select><option>2</option><option selected>4</option><option>6</option><option>8</option><option>10</option></td>
-            <td><select><option>2</option><option selected>4</option><option>6</option><option>8</option><option>10</option></td>
-            <td><select><option>2</option><option selected>4</option><option>6</option><option>8</option><option>10</option></td>
+            <td><select><option selected></option><option>2</option><option>4</option><option>6</option><option>8</option><option>10</option></td>
+            <td><select><option selected></option><option>2</option><option>4</option><option>6</option><option>8</option><option>10</option></td>
+            <td><select><option selected></option><option>2</option><option>4</option><option>6</option><option>8</option><option>10</option></td>
+            <td><select><option selected></option><option>2</option><option>4</option><option>6</option><option>8</option><option>10</option></td>
             <td><select><option selected></option><option>2</option><option>4</option><option>6</option><option>8</option><option>10</option></td>
         </tr>
     </tbody>
@@ -1344,13 +1344,13 @@ At the end of each session, you receive one free Stat Upgrade for your character
 <table>
   <thead>
     <tr>
-      <th>Lifestyle</th>
-      <th>Ethic</th>
+      <th style="width:40%">Lifestyle</th>
+      <th style="width:60%">Ethic</th>
     </tr>
   </thead>
   <tbody>
-    <td><select><option selected>🍀 Carefree</option><option>🔥 Eager</option><option>🧘 Wisened</option><option>🌻 Blossomed</option><option>🔮 Prodigious</option><option>🧶 Crafty</option><option>⚜️ Driven</option><option>✨ Chosen</option><option>⚡ Wired</option><option>🪬 Steadfast</option><option>👁️ Warry</option><option>👄 Compelling</option><option>💎 Lost</option></td>
-    <td><select><option selected>⚔️ V & V</option><option>🌒 F & K</option><option>⚙️ C & C</option><option>⚕️ P & P</option><option>👹 G & V</option><option>⚖️ P & I</option><option>🕯️ R & D</option><option>🔧 P & A</option><option>✳️ F & V</option></td>
+    <td><select><option selected></option><option>🍀 Carefree</option><option>🔥 Eager</option><option>🧘 Wisened</option><option>🌻 Blossomed</option><option>🔮 Prodigious</option><option>🧶 Crafty</option><option>⚜️ Driven</option><option>✨ Chosen</option><option>⚡ Wired</option><option>🪬 Steadfast</option><option>👁️ Warry</option><option>👄 Compelling</option><option>💎 Lost</option></td>
+    <td><select><option selected></option><option>⚔️ Vice & Virtue</option><option>🌒 Fate & Knowledge</option><option>⚙️ Cunning & Capability</option><option>⚕️ Pride & Prudence</option><option>👹 Greed & Vanity</option><option>⚖️ Power & Influence</option><option>🕯️ Rite & Divinity</option><option>🔧 Precision & Accuracy</option><option>✳️ Fairness & Value</option></td>
   </tbody>
 </table>
 
@@ -1383,7 +1383,7 @@ At the end of each session, you receive one free Stat Upgrade for your character
     </thead>
     <tbody>
         <tr>
-            <td><textarea placeholder="Notes" rows="10"></textarea></td>
+            <td><textarea placeholder="" rows="10"></textarea></td>
         </tr>
     </tbody>
 </table>
