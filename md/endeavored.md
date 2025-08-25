@@ -55,7 +55,7 @@ DOI: 10.5281/zenodo.14673714
 
 Cover typography: Bebas Neue, by Ryoichi Tsunekawa
 
-<button onclick="bwprint()">Ink-Saving Print 🖨️</button>
+<button onclick="bwprint()">Ink-Saving Print 🖨️</button> <button onclick="saddleReorderPages(); bwprint()">Saddle Booklet 📖</button> <button onclick="perfectReorderPages(); bwprint()">Perfect Booklet 📕</button>
 
 ### Contents
 <!-- _paginate: skip -->
