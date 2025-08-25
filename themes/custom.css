@@ -334,7 +334,7 @@ section.char select {
   appearance: none;
 }
 
-section.char td select,
+section.char select,
 section.char input {
   border-bottom: 1px solid var(--color-foreground);
 }

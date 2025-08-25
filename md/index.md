@@ -1327,7 +1327,7 @@ At the end of each session, you receive one free Stat Upgrade for your character
             <th style="width:20%">Hurt 👿</th>
             <th style="width:20%">Hurry ⚠️</th>
             <th style="width:20%">History ⏳</th>
-            <th style="width:20%"><select><option selected></option><option>🪶</option><option>🥕</option><option>🔎</option><option>🦾</option><option>👾</option><option>💰</option><option>🎁</option><option>🎧</option><option>🦠</option><option>💀</option><option>👻</option><option>🌳</option><option>⚫</option></select></th>
+            <th style="width:20%"><select><option selected></option><option>Hex 🪶</option><option>Ham 🥕</option><option>Hunch 🔎</option><option>Hardware 🦾</option><option>Hologram 👾</option><option>Hireling 💰</option><option>Holly Jolly 🎁</option><option>Headline 🎧</option><option>Host 🦠</option><option>Hardship 💀</option><option>Haunted 👻</option><option>Hardy 🌳</option><option>Haze ⚫</option></select></th>
         </tr>
     </thead>
     <tbody>
