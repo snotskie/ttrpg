@@ -264,6 +264,74 @@ section.guideability tbody td {
   border-bottom: 0 !important;
 }
 
+/* code labels */
+code {
+  background: var(--color-background);
+  color: var(--color-foreground);
+  border: 0.1rem solid var(--color-foreground);
+  border-radius: .5rem;
+  font-weight: bold;
+}
+
+/* h4 for tables */
+section h4 {
+  font-size: inherit;
+  font-weight: normal;
+  margin-bottom: 0.75rem;
+}
+
+section h4:before {
+  content: "Table: ";
+  font-weight: bold;
+}
+
+/* character sheet */
+section.char select,
+section.char input,
+section.char textarea {
+  font-size: inherit;
+  font-family: inherit;
+  border: none;
+  background: var(--color-background);
+  color: var(--color-foreground);
+  width: 100%;
+}
+
+section.char select {
+  appearance: none;
+}
+
+section.char select,
+section.char input {
+  border-bottom: .1rem solid var(--color-foreground);
+}
+
+section.char thead,
+section.char thead tr,
+section.char th {
+  border: none;
+}
+
+/* styled lists */
+section:not(.char) ul, ol {
+  padding-left: 2ch;
+}
+
+li::marker {
+  font-weight: bold;
+}
+
+section.rules li > strong:first-child,
+section.intro li > strong:first-child,
+section.rules p > strong:first-child,
+section.intro p > strong:first-child {
+    background: var(--color-foreground);
+    color: var(--color-background);
+    border-radius: .1rem .5rem;
+    padding: 0 .4rem;
+}
+
+
 /* b&w for printing */
 section.bw,
 section.bw a,
@@ -290,76 +358,27 @@ section.bw img.emoji {
   /*display: none;*/
 }
 
-/*section.bw*/ code {
-  background: var(--color-background);
-  color: var(--color-foreground);
-  border: 0.1rem solid var(--color-foreground);
+section.bw code {
+  background: white;
+  color: black;
+  border: 0.1rem solid black;
   border-radius: .5rem;
   font-weight: bold;
 }
 
-/* h4 for tables */
-section h4 {
-  font-size: inherit;
-  font-weight: normal;
-  margin-bottom: 0.75rem;
-}
-
-section h4:before {
-  content: "Table: ";
-  font-weight: bold;
-}
-
-/* code labels */
-/*section code {
-  border-radius: 0.5rem;
-  color: #202228 !important; /* --color-foreground in light mode *
-  --color-background-code: var(--color-ability-2);
-  font-weight: bold;
-}*/
-
-/* character sheet */
-section.char select,
-section.char input,
-section.char textarea {
-  font-size: inherit;
-  font-family: inherit;
-  border: none;
-  background: var(--color-background);
-  color: var(--color-foreground);
-  width: 100%;
-}
-
-section.char select {
-  appearance: none;
-}
-
-section.char select,
-section.char input {
-  border-bottom: 1px solid var(--color-foreground);
-}
-
-section.char thead,
-section.char thead tr,
-section.char th {
-  border: none;
-}
-
-/* styled lists */
-section:not(.char) ul, ol {
-  padding-left: 2ch;
-}
-
-li::marker {
-  font-weight: bold;
-}
-
-section.rules li > strong:first-child,
-section.intro li > strong:first-child,
-section.rules p > strong:first-child,
-section.intro p > strong:first-child {
-    background: var(--color-foreground);
-    color: var(--color-background);
+section.bw.rules li > strong:first-child,
+section.bw.intro li > strong:first-child,
+section.bw.rules p > strong:first-child,
+section.bw.intro p > strong:first-child {
+    background: white;
+    color: black;
+    border-top: .2rem solid black;
+    /* border-bottom: .2rem solid black; */
     border-radius: .1rem .5rem;
     padding: 0 .4rem;
+}
+
+section.bw th[scope="row"][rowspan] {
+  color: black;
+  background-color: white;
 }

@@ -55,7 +55,7 @@ DOI: 10.5281/zenodo.14673714
 
 Cover typography: Bebas Neue, by Ryoichi Tsunekawa
 
-<button onclick="bwprint()">Friendly Print 🖨️</button>
+<button onclick="bwprint()">Ink-Saving Print 🖨️</button>
 
 ### Contents
 <!-- _paginate: skip -->

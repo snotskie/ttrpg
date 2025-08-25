@@ -42,7 +42,7 @@ DOI: 10.5281/zenodo.14673714
 
 Cover typography: Bebas Neue, by Ryoichi Tsunekawa
 
-<button onclick="bwprint()">Friendly Print 🖨️</button>
+<button onclick="bwprint()">Ink-Saving Print 🖨️</button>
 
 ---
 <!-- _class: center -->
@@ -60,7 +60,7 @@ After [*A Poet to His Baby Son*](https://www.poetryfoundation.org/poems/49051/a-
 ### About
 <!-- _class: intro -->
 
-***Humanity, Blessed* ⊜** is a rules-light, semi-crunchy TTRPG system inspired by our favorite stories about what it means to be human, doing goofy, cool, fantastic little human things. This system is designed to provide fun, structured challenges and to use narrative and tactile cues instead of complex sheets and board states.
+<span></span> Welcome! This game, ***Humanity, Blessed*, ⊜** is a rules-light, semi-crunchy TTRPG system. It is inspired by our favorite stories about what it means to be human, doing goofy, cool, fantastic little human things. And this system is designed to provide fun, structured challenges and to use narrative and tactile cues instead of complex sheets and board states.
 
 This book uses color-coded pages:
 
