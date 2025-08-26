@@ -430,7 +430,7 @@ Characters in this game may have a number of unique effects based on their Aptit
 
 **Aptitude Ease:** When you perform a Check related enough to your Aptitudes, you may round rolls of $3$ or $4$ up to $5$.
 
-**Aptitude Difficulty:** When another character Attacks you or Defends against your Delayed Attack, if the Check is related enough to your Aptitudes, its difficulty is one rank higher, and if the relevant Aptitude is specialized, the difficulty is an additional rank higher.
+**Aptitude Difficulty:** When another character Attacks you or Defends against your Delayed Attack, if the Check is related enough to your Aptitudes, its difficulty is one rank higher.
 
 <div>
   <p>
