@@ -497,7 +497,7 @@ To perform a Check:
   | Easy | Round rolls of $3$ or $4$ up to $5$, as though you were apt in the action. |
   | Normal | *No effect.* |
   | Hard | Perform the roll twice. If either would fail, the whole Check fails. Boons and busts stack. |
-  | Complex | Perform the roll several times, using a mix of Stats and/or characters working together. If any would fail, the whole Check fails. Boons and busts stack. |
+  | Complex | Each difficulty rank past Hard requires an additional roll, using a mix of Stats and/or characters working together. If any would fail, the whole Check fails. Boons and busts stack. |
 </div>
 
 ### Attacks
