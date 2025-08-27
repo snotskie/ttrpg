@@ -60,7 +60,9 @@ After [*A Poet to His Baby Son*](https://www.poetryfoundation.org/poems/49051/a-
 ### About
 <!-- _class: intro -->
 
-<span></span> Welcome! This game, ***Humanity, Blessed*, ⊜** is a rules-light, semi-crunchy TTRPG system. It is inspired by our favorite stories about what it means to be human, doing goofy, cool, fantastic little human things. And this system is designed to provide fun, structured challenges and to use narrative and tactile cues instead of complex sheets and board states.
+<span></span> Welcome! This game, ***Humanity, Blessed* ⊜**, is a rules-light, semi-crunchy TTRPG system. It is inspired by our favorite stories about what it means to be human, doing goofy, cool, fantastic little human things. And this system is designed to provide fun, structured challenges and to use narrative and tactile cues instead of complex sheets and board states.
+
+<div class="bwprint-hide">
 
 This book uses color-coded pages:
 
@@ -89,7 +91,7 @@ The online version of this book will automatically load in light or dark mode to
 ### At a Glance
 <!-- _class: intro -->
 
-**Genre:** While this game is genre-agnostic, tables can hone the tone with optional Stats, Setting Ethics, and Endeavors.
+**Genre:** While this game is genre-agnostic, tables can adjust the tone with optional Stats, Setting Ethics, and Endeavors.
 
 **Dice:** For Stats, this game uses a dice array, from $d2$ to $d10$. This game also uses a $d6$ pool for resources called "Blessings." Dice "bump": $1$s are rerolled, which feels like wiping the sweat from your brow and cutting the right wire. A special Stat, History, is unique to each character's Backstory.
 
@@ -108,7 +110,7 @@ The online version of this book will automatically load in light or dark mode to
 ### "At Table Discretion"
 <!-- _class: intro -->
 
-The rule that matters most is "at table discretion." This phrase captures how every tabletop game is different, has different wants and needs. Different players and characters. Different setting, tone, genre. Different supplies, pacing, time constraints. Different ideas on where to take the story next and different limits.
+The rule that matters most is "at table discretion." This phrase captures how every tabletop game is different and has different wants and needs, different players and characters, different setting, tone, genre, different supplies, pacing, time constraints, different ideas on where to take the story next, and different limits.
 
 How "at table discretion" plays out depends on everything that goes into what makes your table unique.
 
@@ -199,7 +201,7 @@ At table discretion, one of the following Stats may be added to your game, depen
 
 | 🪶 Hex Stat |
 | --- |
-| *Scope:* Use of wands, spells, potions, and other magical instruments, traps, lore, and knowledge. *Setting:* Magic or fantasy. |
+| *Scope:* Use of wands, spells, potions, and other magical instruments, traps, lore, and knowledge. *Setting:* Fantasy. |
 
 </div>
 
