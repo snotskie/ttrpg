@@ -810,11 +810,11 @@ These are performed like any other Endeavor, with the following adjustments, act
       <tr>
         <th scope="row" rowspan="2">Attack</th>
         <th scope="row">Violent</th>
-        <td><i>Hurt only.</i> Use your Action Die to violently Attack up to <b>X</b> opponents. On a Maximum Success, remove one of them from the Endeavor. On other successes, they move down by a total of <b>X</b>.</td>
+        <td><i>Hurt.</i> Use your Action Die to violently Attack up to <b>X</b> opponents. On a Maximum Success, remove one of them from the Endeavor. On other successes, they move down by a total of <b>X</b>.</td>
       </tr>
       <tr>
         <th scope="row">Non-violent</th>
-        <td><i>Not Hurt.</i> Use your Action Die to non-violently Attack up to <b>X</b> opponents. On a success, steal a total of <b>X</b> temporary Blessings of your choice from them. They then gain a number of new temporary Blessings equal to the amount they lost.</td>
+        <td><i>Head/Hand/Heart.</i> Use your Action Die to non-violently Attack up to <b>X</b> opponents. On a success, steal a total of <b>X</b> temporary Blessings of your choice from them. They then gain a number of new temporary Blessings equal to the amount they lost.</td>
       </tr>
       <tr>
         <th scope="row" colspan="2">Advance</th>
@@ -822,7 +822,7 @@ These are performed like any other Endeavor, with the following adjustments, act
       </tr>
       <tr>
         <th scope="row" colspan="2">Protect</th>
-        <td><i>Home or Hurry.</i> Protect yourself or an ally from the opponents' objectives. Attacks against the protected character are one rank more difficult, until the end of the next round.</td>
+        <td><i>Home/Hurry.</i> Use your Action Die to perform a Check to protect yourself or an ally from the opponents' objectives. On a success, attacks against the protected character are one rank more difficult, until the end of the next round.</td>
       </tr>
       <tr>
         <th scope="row" colspan="2">Pass</th>
@@ -845,11 +845,11 @@ These are performed like any other Endeavor, with the following adjustments, act
       <tr>
         <th scope="row" rowspan="2">Attack</th>
         <th scope="row">Violent</th>
-        <td><i>Hurt only.</i> Use your Action Die to violently Attack up to <b>X</b> opponents. On a Maximum Success, remove one of them from the Endeavor. On other successes, wound each of them.</td>
+        <td><i>Hurt.</i> Use your Action Die to violently Attack up to <b>X</b> opponents. On a Maximum Success, remove one of them from the Endeavor. On other successes, wound each of them.</td>
       </tr>
       <tr>
         <th scope="row">Non-violent</th>
-        <td><i>Not Hurt.</i> Use your Action Die to non-violently Attack up to <b>X</b> opponents. On a success, steal a total of <b>X</b> temporary Blessings of your choice from them. They then gain a number of new temporary Blessings equal to the amount they lost.</td>
+        <td><i>Hand/Head/Heart.</i> Use your Action Die to non-violently Attack up to <b>X</b> opponents. On a success, steal a total of <b>X</b> temporary Blessings of your choice from them. They then gain a number of new temporary Blessings equal to the amount they lost.</td>
       </tr>
       <tr>
         <th scope="row" colspan="2">Advance</th>
@@ -857,7 +857,7 @@ These are performed like any other Endeavor, with the following adjustments, act
       </tr>
       <tr>
         <th scope="row" colspan="2">Protect</th>
-        <td><i>Home or Hurry.</i> Protect yourself or an ally from the opponents' objectives. Attacks against the protected character are one rank more difficult, until the end of the next round.</td>
+        <td><i>Home/Hurry.</i> Use your Action Die to perform a Check to protect yourself or an ally from the opponents' objectives. On a success, attacks against the protected character are one rank more difficult, until the end of the next round.</td>
       </tr>
       <tr>
         <th scope="row" colspan="2">Pass</th>
