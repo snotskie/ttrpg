@@ -262,11 +262,11 @@ These are performed like any other Endeavor, with the following adjustments, act
       <tr>
         <th scope="row" rowspan="2">Attack</th>
         <th scope="row">Violent</th>
-        <td><i>Hurt only.</i> Use your Action Die to violently Attack the Eye's defenses. On a success, choose an Alarm button within <b>X</b> spaces of your position and remove it from the Endeavor. On a Maximum Success, also remove all Alarm buttons that were contiguous with it.</td>
+        <td><i>Hurt.</i> Use your Action Die to violently Attack the Eye's defenses. On a success, choose an Alarm button within <b>X</b> spaces of your position and remove it from the Endeavor. On a Maximum Success, also remove all Alarm buttons that were contiguous with it.</td>
       </tr>
       <tr>
         <th scope="row">Non-violent</th>
-        <td><i>Not Hurt.</i> Use your Action Die to non-violently Attack the Eye's defenses. On a success, steal <b>X</b> temporary Blessings of your choice from it. It then gains a number of new temporary Blessings equal to the amount it lost.</td>
+        <td><i>Head/Hand/Heart.</i> Use your Action Die to non-violently Attack the Eye's defenses. On a success, steal <b>X</b> temporary Blessings of your choice from it. It then gains a number of new temporary Blessings equal to the amount it lost.</td>
       </tr>
       <tr>
         <th scope="row" colspan="2">Move</th>
@@ -274,7 +274,7 @@ These are performed like any other Endeavor, with the following adjustments, act
       </tr>
       <tr>
         <th scope="row" colspan="2">Cover</th>
-        <td><i>Any Stat.</i> Delay your action so you can Help another character who has not acted this round or so they can Help you. This Help may be used to increase or decrease <b>X</b> values instead of increasing rolls as usual.</td>
+        <td><i>Home/Hurry.</i> Delay your action so you can Help another character who has not acted this round or so they can Help you. This Help may be used to increase or decrease <b>X</b> values instead of increasing rolls as usual.</td>
       </tr>
     </tbody>
   </table>
