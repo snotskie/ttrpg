@@ -916,7 +916,7 @@ These are performed like any other Endeavor, with the following adjustments, act
   <table>
     <tbody>
       <tr>
-        <th scope="row">Wound</th><td><i>Type:</i> Personal. <i>Activation:</i> Activated when you move over it. <i>Effect:</i> Decrease your remaining movement by 1, to a minimum of 0.</td>
+        <th scope="row">Wound</th><td><i>Type:</i> Personal. <i>Activation:</i> Activated when you move over it or begin movement on it. <i>Effect:</i> Decrease your remaining movement by 1, to a minimum of 0.</td>
       </tr>
     </tbody>
   </table>
@@ -956,42 +956,9 @@ These are performed like any other Endeavor, with the following adjustments, act
 
 **Terrain:** At the top of the first round, the lay of the land will be provided at table discretion for the race course environment, including any terrain elements like hills, brush, holes, asteroid fields, or so on, represented by Terrain buttons. As the Endeavor progresses, additional areas may become available, each with their own track and lay of the land.
 
-**Fatigue Buttons:** When you spend a Blessing, gain a Fatigue button, representing your need to regroup after a hard push.
+**Racing Actions:** All racers use the Ally Actions from Monstrous Endeavors.
 
-<div>
-  <h4>
-    Racer Actions
-  </h4>
-  <table>
-    <tbody>
-      <tr>
-        <th scope="row" rowspan="2">Attack</th>
-        <th scope="row">Violent</th>
-        <td><i>Hurt only.</i> Use your Action Die to violently Attack another racer. On a Maximum Success, remove them from the Endeavor. On other successes, they move down by <b>X</b>.</td>
-      </tr>
-      <tr>
-        <th scope="row">Non-violent</th>
-        <td><i>Not Hurt.</i> Use your Action Die to non-violently Attack another racer. On a success, steal <b>X</b> temporary Blessings of your choice from them. They then gain a number of new temporary Blessings equal to the amount they lost.</td>
-      </tr>
-      <tr>
-        <th scope="row" colspan="2">Advance</th>
-        <td><i>Not Hurt.</i> Use your Action Die to perform a Check to advance in the race. On a success, move up by <b>X</b>.</td>
-      </tr>
-      <tr>
-        <th scope="row" colspan="2">Protect</th>
-        <td><i>Any Stat.</i> Spend Blessings to protect yourself or an ally from the opponents' objectives. For each Blessing spent, their relevant Attacks are one rank more difficult, until your next turn.</td>
-      </tr>
-      <tr>
-        <th scope="row" colspan="2">Pass</th>
-        <td><i>Any Stat.</i> Delay your action so you can Help another character who has not acted this round or so they can Help you. This Help may be used to increase <b>X</b> values instead of increasing rolls as usual.</td>
-      </tr>
-      <tr>
-        <th scope="row" colspan="2">Unique Skill</th>
-        <td><i>Any Stat.</i> Spend ⊜⊜ to perform an action unique to your character. Take two other actions combined.</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+**Fatigue:** When you spend a Blessing, gain a Fatigue button, representing your need to regroup after a hard push.
 
 <div>
   <h4>
