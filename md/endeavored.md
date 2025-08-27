@@ -262,19 +262,19 @@ These are performed like any other Endeavor, with the following adjustments, act
       <tr>
         <th scope="row" rowspan="2">Attack</th>
         <th scope="row">Violent</th>
-        <td><i>Hurt.</i> Use your Action Die to violently Attack the Eye's defenses. On a success, choose an Alarm button within <b>X</b> spaces of your position and remove it from the Endeavor. On a Maximum Success, also remove all Alarm buttons that were contiguous with it.</td>
+        <td><code>Hurt</code> Use your Action Die to violently Attack the Eye's defenses. On a success, choose an Alarm button within <b>X</b> spaces of your position and remove it from the Endeavor. On a Maximum Success, also remove all Alarm buttons that were contiguous with it.</td>
       </tr>
       <tr>
         <th scope="row">Non-violent</th>
-        <td><i>Head/Hand/Heart.</i> Use your Action Die to non-violently Attack the Eye's defenses. On a success, steal <b>X</b> temporary Blessings of your choice from it. It then gains a number of new temporary Blessings equal to the amount it lost.</td>
+        <td><code>Head/Hand/Heart</code> Use your Action Die to non-violently Attack the Eye's defenses. On a success, steal <b>X</b> temporary Blessings of your choice from it. It then gains a number of new temporary Blessings equal to the amount it lost.</td>
       </tr>
       <tr>
         <th scope="row" colspan="2">Move</th>
-        <td><i>Not Hurt.</i> Use your Action Die to perform a Check to move yourself toward your objective or away from danger. On a success, move up or down by <b>X</b>.</td>
+        <td><code>Not Hurt</code> Use your Action Die to perform a Check to move yourself toward your objective or away from danger. On a success, move up or down by <b>X</b>.</td>
       </tr>
       <tr>
         <th scope="row" colspan="2">Cover</th>
-        <td><i>Home/Hurry.</i> Delay your action so you can Help another character who has not acted this round or so they can Help you. This Help may be used to increase or decrease <b>X</b> values instead of increasing rolls as usual.</td>
+        <td><code>Home/Hurry</code> Delay your action so you can Help another character who has not acted this round or so they can Help you. This Help may be used to increase or decrease <b>X</b> values instead of increasing rolls as usual.</td>
       </tr>
     </tbody>
   </table>
@@ -303,19 +303,19 @@ These are performed like any other Endeavor, with the following adjustments, act
     <tbody>
       <tr>
         <th scope="row">Search</th>
-        <td><i>Warry mode.</i> Add an Alarm button at a position without another button or character already.</td>
+        <td><code>Warry</code> Add an Alarm button at a position without another button or character already.</td>
       </tr>
       <tr>
         <th scope="row">Scan</th>
-        <td><i>Warry mode.</i> Choose up or down. Move all Alarm buttons in that direction by <b>X</b>.</td>
+        <td><code>Warry</code> Choose up or down. Move all Alarm buttons in that direction by <b>X</b>.</td>
       </tr>
       <tr>
         <th scope="row">Awaken</th>
-        <td><i>Wake mode.</i> Replace each Alarm button with Wound buttons (see Monstrous Endeavors) at the same positions, distributed as you wish between your opponents.</td>
+        <td><code>Wake</code> Replace each Alarm button with Wound buttons (see Monstrous Endeavors) at the same positions, distributed as you wish between your opponents.</td>
       </tr>
       <tr>
         <th scope="row">Wound</th>
-        <td><i>Wake mode.</i> Wound an opponent and gain <b>X</b> temporary Blessings.</td>
+        <td><code>Wake</code> Wound an opponent and gain <b>X</b> temporary Blessings.</td>
       </tr>
     </tbody>
   </table>
@@ -330,11 +330,11 @@ These are performed like any other Endeavor, with the following adjustments, act
       <tr>
       <tr>
         <th scope="row">Sweep Defenses</th>
-        <td><code>Special Action</code> <i>Warry mode.</i> Choose two Alarm buttons that have no Alarm buttons between them. Add temporary Alarm buttons to all positions between them, removed at the end of next round.</td>
+        <td><code>Special Action</code> <code>Warry</code> Choose two Alarm buttons that have no Alarm buttons between them. Add temporary Alarm buttons to all positions between them, removed at the end of next round.</td>
       </tr>
       <tr>
         <th scope="row">Engage Sentry</th>
-        <td><code>Special Action</code> <i>Wake mode.</i> Remove all opponents with three Wound buttons in a row from the Endeavor. Then wound each remaining opponent.</td>
+        <td><code>Special Action</code> <code>Wake</code> Remove all opponents with three Wound buttons in a row from the Endeavor. Then wound each remaining opponent.</td>
       </tr>
     </tbody>
   </table>

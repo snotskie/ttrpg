@@ -260,17 +260,17 @@ In general:
 
 **Die Sizes:** A Stat Die can be one of five sizes, from $d2$ to $d10$, as described in the Stat Dice Notation table below.
 
-**Stat Dice "Bump":** Stat Dice in this game "bump." This means that when you roll a $1$ on a Stat Die, roll it again and add the new result to the previous result. As long as you continue to roll a $1$ on the die, you continue to roll again and add this way.
-
-**Skill and Determination:** Success without bumping represents natural or trained ability, while doing so with bumping represents a character's extra determination or focus on the action.
+**Stat Dice "Bump":** Stat Dice in this game "bump." This means that when you roll a $1$ on a Stat Die, roll it again and add the new result to the previous result. As long as you continue to roll a $1$ on the die, you continue to roll again and add this way. Success without bumping represents natural or trained ability, while doing so with bumping represents a character's extra determination or focus on the action.
 
 **Balanced Stats:** Stats are "balanced" if they use the same size Stat Die.
 
+**Sparking:** You may "Spark" two balanced Stats together to create a more powerful effect (described in the Playing the Game chapter).
+
 **Unconventional Stats:** Whenever an effect has you use a Stat, you may instead use any other Stat you have balanced with it, referred to as using an "unconventional Stat."
 
-**History Stat:** You may use your History Stat in place of another Stat when the action or effect is related enough to your Backstory or Aptitudes (described later in this chapter).
+**History and Optional Stats:** You may use your History Stat in place of another Stat when the action is related enough to your Backstory or Aptitudes (described later in this chapter). Similarly, you may use optional Stats (if your game has them) like Hex or Ham in place of another Stat when the action is related enough to that Stat's scope.
 
-**Sparking:** You may "Spark" two balanced Stats together to create a more powerful effect (described in the Playing the Game chapter).
+**"In the scope of":** Effects "in the scope of" some Stat refer to that Stat, Stats balanced with it, and your History and optional Stats if related enough.
 
 <div>
   <h4>
@@ -466,7 +466,7 @@ Most situations in this game can be resolved by performing a Check.
 To perform a Check:
 
 1. **Table Discretion:** At table discretion, it's determined which Stat is normally associated with the action and if the action will be easier or harder than normal, as described in the Easy and Hard Checks table below.
-2. **Choose Stat:** Choose a Stat to roll. Your options are the Stat normally associated with the action, any Stat you have balanced with that Stat, or History if the action is related enough to your Backstory or Aptitudes.
+2. **Choose Stat:** Choose a Stat to roll. Your options are any Stat in the scope of the Stat normally associated with the action.
 3. **Roll:** Roll your Stat Die for the chosen Stat.
 4. **Outcome:** The higher you roll, the greater your degree of success, as described in the Check Outcomes table below.
 5. **Boons and Busts:** Some successes grant you additional benefits, called "boons," while others are accompanied by complications, called "busts." If you get a boon and a bust on the same Check, they do not cancel each other out, but lead to a more nuanced result.
@@ -759,7 +759,7 @@ Each round during your turn, you may choose and perform one action from the set 
 
 In general:
 
-**Limited Actions:** Your action choices may be limited at table discretion in certain situations, some may only be taken if your Action Die used certain Stats, and all must be narratively reasonable to be taken. Because boons and busts can greatly shape the narrative, and they also can greatly shape what is narratively reasonable for future actions.
+**Limited Actions:** Your action choices may be limited at table discretion in certain situations, some may only be taken if your Action Die is in the scope of certain Stats, and all must be narratively reasonable to be taken. Because boons and busts can greatly shape the narrative, they can also greatly shape what is narratively reasonable for future actions.
 
 **Using Action Dice:** Some actions use your Action Die to perform Checks, and some don't. Even if not used, Action Dice are still spent after the round.
 
@@ -812,27 +812,27 @@ These are performed like any other Endeavor, with the following adjustments, act
       <tr>
         <th scope="row" rowspan="2">Attack</th>
         <th scope="row">Violent</th>
-        <td><i>Hurt.</i> Use your Action Die to violently Attack up to <b>X</b> opponents. On a Maximum Success, remove one of them from the Endeavor. On other successes, they move down by a total of <b>X</b>.</td>
+        <td><code>Hurt</code> Use your Action Die to violently Attack up to <b>X</b> opponents. On a Maximum Success, remove one of them from the Endeavor. On other successes, they move down by a total of <b>X</b>.</td>
       </tr>
       <tr>
         <th scope="row">Non-violent</th>
-        <td><i>Head/Hand/Heart.</i> Use your Action Die to non-violently Attack up to <b>X</b> opponents. On a success, steal a total of <b>X</b> temporary Blessings of your choice from them. They then gain a number of new temporary Blessings equal to the amount they lost.</td>
+        <td><code>Head/Hand/Heart</code> Use your Action Die to non-violently Attack up to <b>X</b> opponents. On a success, steal a total of <b>X</b> temporary Blessings of your choice from them. They then gain a number of new temporary Blessings equal to the amount they lost.</td>
       </tr>
       <tr>
         <th scope="row" colspan="2">Advance</th>
-        <td><i>Not Hurt.</i> Use your Action Die to perform a Check to advance your team's objectives. On a success, move up by <b>X</b>.</td>
+        <td><code>Not Hurt</code> Use your Action Die to perform a Check to advance your team's objectives. On a success, move up by <b>X</b>.</td>
       </tr>
       <tr>
         <th scope="row" colspan="2">Protect</th>
-        <td><i>Home/Hurry.</i> Use your Action Die to perform a Check to protect yourself or an ally from the opponents' objectives. On a success, attacks against the protected character are one rank more difficult, until the end of the next round.</td>
+        <td><code>Home/Hurry</code> Use your Action Die to perform a Check to protect yourself or an ally from the opponents' objectives. On a success, attacks against the protected character are one rank more difficult, until the end of the next round.</td>
       </tr>
       <tr>
         <th scope="row" colspan="2">Pass</th>
-        <td><i>Any Stat.</i> Delay your action so you can Help another character who has not acted this round or so they can Help you. This Help may be used to increase <b>X</b> values instead of increasing rolls as usual.</td>
+        <td>Delay your action so you can Help another character who has not acted this round or so they can Help you. This Help may be used to increase <b>X</b> values instead of increasing rolls as usual.</td>
       </tr>
       <tr>
         <th scope="row" colspan="2">Unique Skill</th>
-        <td><i>Any Stat.</i> Spend ⊜⊜ to perform an action unique to your character. Take two other actions combined.</td>
+        <td>Spend ⊜⊜ to perform an action unique to your character. Take two other actions combined.</td>
       </tr>
     </tbody>
   </table>
@@ -847,27 +847,27 @@ These are performed like any other Endeavor, with the following adjustments, act
       <tr>
         <th scope="row" rowspan="2">Attack</th>
         <th scope="row">Violent</th>
-        <td><i>Hurt.</i> Use your Action Die to violently Attack up to <b>X</b> opponents. On a Maximum Success, remove one of them from the Endeavor. On other successes, wound each of them.</td>
+        <td><code>Hurt</code> Use your Action Die to violently Attack up to <b>X</b> opponents. On a Maximum Success, remove one of them from the Endeavor. On other successes, wound each of them.</td>
       </tr>
       <tr>
         <th scope="row">Non-violent</th>
-        <td><i>Hand/Head/Heart.</i> Use your Action Die to non-violently Attack up to <b>X</b> opponents. On a success, steal a total of <b>X</b> temporary Blessings of your choice from them. They then gain a number of new temporary Blessings equal to the amount they lost.</td>
+        <td><code>Hand/Head/Heart</code> Use your Action Die to non-violently Attack up to <b>X</b> opponents. On a success, steal a total of <b>X</b> temporary Blessings of your choice from them. They then gain a number of new temporary Blessings equal to the amount they lost.</td>
       </tr>
       <tr>
         <th scope="row" colspan="2">Advance</th>
-        <td><i>Not Hurt.</i> Use your Action Die to perform a Check to advance your team's objectives. On a success, add two Scheme buttons at the first positions at or above your current position without one already.</td>
+        <td><code>Not Hurt</code> Use your Action Die to perform a Check to advance your team's objectives. On a success, add two Scheme buttons at the first positions at or above your current position without one already.</td>
       </tr>
       <tr>
         <th scope="row" colspan="2">Protect</th>
-        <td><i>Home/Hurry.</i> Use your Action Die to perform a Check to protect yourself or an ally from the opponents' objectives. On a success, attacks against the protected character are one rank more difficult, until the end of the next round.</td>
+        <td><code>Home/Hurry</code> Use your Action Die to perform a Check to protect yourself or an ally from the opponents' objectives. On a success, attacks against the protected character are one rank more difficult, until the end of the next round.</td>
       </tr>
       <tr>
         <th scope="row" colspan="2">Pass</th>
-        <td><i>Any Stat.</i> Delay your action so you can Help another character who has not acted this round or so they can Help you. This Help may be used to increase <b>X</b> values instead of increasing rolls as usual.</td>
+        <td>Delay your action so you can Help another character who has not acted this round or so they can Help you. This Help may be used to increase <b>X</b> values instead of increasing rolls as usual.</td>
       </tr>
       <tr>
         <th scope="row" colspan="2">Unique Skill</th>
-        <td><i>Any Stat.</i> If you have the <code>Unique</code> tag, you may spend ⊜⊜ to take two other actions combined.</td>
+        <td>If you have the <code>Unique</code> tag, you may spend ⊜⊜ to take two other actions combined.</td>
       </tr>
     </tbody>
   </table>
@@ -1121,11 +1121,11 @@ At the end of each session, you receive one free Stat Upgrade for your character
 
 | Attentive Specialization |
 | --- |
-| *Effect:* When you succeed a Check using Hand, Heart, or an unconventional Stat balanced with either, for your subsequent action you may perform a violent Attack using that same Stat. *Recharge:* ③. |
+| *Effect:* When you succeed a Check in the scope of Hand or Heart, for your subsequent action you may perform a violent Attack using either of those Stats. *Recharge:* ③. |
 
 | Calm Specialization |
 | --- |
-| *Effect:* Once per session, when you are in a safe place, you may perform a Check using Head, Home, or an unconventional Stat balanced with either. Then once before the end of the session, you may use the value of that roll instead of rolling for another non-violent Check. |
+| *Effect:* Once per session, when you are in a safe place, you may perform a Check in the scope of Head or Home. Then once before the end of the session, you may use the value of that roll instead of rolling for another non-violent Check. |
 
 | Charitable Specialization |
 | --- |
@@ -1137,7 +1137,7 @@ At the end of each session, you receive one free Stat Upgrade for your character
 
 | Coordinated Specialization |
 | --- |
-| *Effect:* When you succeed a Check using Head, Hand, or an unconventional Stat balanced with either, as part of the same action you may provide another character Help, within reason. |
+| *Effect:* When you succeed a Check in the scope of Head or Hand, as part of the same action you may provide another character Help, within reason. |
 
 | Critical Specialization |
 | --- |
@@ -1185,7 +1185,7 @@ At the end of each session, you receive one free Stat Upgrade for your character
 
 | Heavy Specialization |
 | --- |
-| *Effect:* During Endeavors, when you choose Hand, Home, or an unconventional Stat balanced with either for your Action Die, you gain one fewer temporary Blessing than normal, but your <b>X</b> is one higher than normal. |
+| *Effect:* During Endeavors, when your Action Die is in the scope of Hand or Home, you gain one fewer temporary Blessing than normal, but your <b>X</b> is one higher than normal. |
 
 | Mischievous Specialization |
 | --- |
@@ -1201,7 +1201,7 @@ At the end of each session, you receive one free Stat Upgrade for your character
 
 | Radiant Specialization |
 | --- |
-| *Effect:* During Endeavors, when your Action Die uses Heart, Home, or an unconventional Stat balanced with either, as an action you may perform a Check to empower your allies. On a success, they gain one of your other Aptitudes, including its Specialization if applicable, for <b>X</b> turns. *Recharge:* ④ |
+| *Effect:* During Endeavors, when your Action Die is in the scope of Heart or Home, as an action you may perform a Check to empower your allies. On a success, they gain one of your other Aptitudes, including its Specialization if applicable, for <b>X</b> turns. *Recharge:* ④ |
 
 | Resolved Specialization |
 | --- |
@@ -1249,7 +1249,7 @@ At the end of each session, you receive one free Stat Upgrade for your character
 
 | Zealous Specialization |
 | --- |
-| *Effect:* During Endeavors, when your Action Die uses Head, Heart, or an unconventional Stat balanced with either, as an action you may instead have you and your allies each gain a Zeal button $1$ below your current track positions. *Recharge:* ④. **Zeal button:** *Type:* Personal. *Activation:* Activated when you move over it. *Effect:* End your movement, remove this button, and immediately Attack a nearby opponent, even if you have already acted this round. |
+| *Effect:* During Endeavors, when your Action Die is in the scope of Head or Heart, as an action you may have you and your allies each gain a Zeal button $1$ below your current track positions. *Recharge:* ④. **Zeal button:** *Type:* Personal. *Activation:* Activated when you move over it. *Effect:* End your movement, remove this button, and immediately Attack a nearby opponent, even if you have already acted this round. |
 
 ## Character Sheet
 <!-- _class: major center -->
