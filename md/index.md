@@ -763,7 +763,9 @@ In general:
 
 **Using Action Dice:** Some actions use your Action Die to perform Checks, and some don't. Even if not used, Action Dice are still spent after the round.
 
-**Complex and Sparked Actions:** Even if other Stat Dice are involved in an action's Check, only the Action Die is spent after the round.
+**Sparked Actions:** When you spark your Action Die during a Check, your **X** is doubled (before modifiers) for that Check's result.
+
+**Only Action Die is Spent:** Even if other Stat Dice are involved in an action's Check, only the Action Die is spent after the round.
 
 **Special Actions:** Actions with the `Special Action` tag cannot be performed during your turn. Instead, at the end of the round when all other actions are complete, whoever has the highest number of Blessings chooses a special action to perform, resolving ties at table discretion.
 
