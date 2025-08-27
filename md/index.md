@@ -496,8 +496,8 @@ To perform a Check:
   | ---------- | ------ |
   | Easy | Round rolls of $3$ or $4$ up to $5$, as though you were apt in the action. |
   | Normal | *No effect.* |
-  | Hard | Perform the roll twice. If either would fail, the whole Check fails. Boons and busts stack. |
-  | Complex | Each difficulty rank past Hard requires an additional roll, using a mix of Stats and/or characters working together. If any would fail, the whole Check fails. Boons and busts stack. |
+  | Hard | Perform the roll twice, using a mix of Stats and/or characters working together. If either would fail, the whole Check fails. Boons and busts stack. |
+  | Harder | Each difficulty rank past Hard requires an additional roll. |
 </div>
 
 ### Attacks
@@ -623,7 +623,7 @@ To provide Help:
 
 Also note:
 
-**Help on Hard or Complex Checks:** If you Help a Check that requires multiple rolls, only the lowest of those rolls is Helped.
+**Help on Hard Checks:** If you Help a Check that requires multiple rolls, only the lowest of those rolls is Helped.
 
 **Multiple Helpers:** Multiple characters can Help the same roll if they each pay the cost.
 
@@ -656,7 +656,7 @@ Alternatively, you can upgrade an existing roll into a Spark roll:
 
 Also note:
 
-**Sparking Hard or Complex Checks:** If you Spark a Check that requires multiple rolls, you choose which roll to Spark.
+**Sparking Hard Checks:** If you Spark a Check that requires multiple rolls, you choose which roll to Spark.
 
 ### Additional Terms
 <!-- _class: rules -->
