@@ -116,7 +116,7 @@ For some, it could be left up to a Game Master (GM) to adjudicate what happens, 
 
 Likely, it will be a mix of things and it certainly can change. The GM and the players can rely on one another when they forget things, blank on ideas, have had bad days, are feeling short on "spoons," or just need to change things up a bit.
 
-A lot has been said and written by others in the tabletop community about how to make tabletop gaming fun, accessible, and equitable. And what I'll say here is that however "at table discretion" looks at your table, above all else it is yours.
+A lot has been said and written by others in the tabletop community about how to make tabletop gaming fun, accessible, and equitable. All I'll say here is that however "at table discretion" looks at your table, above all else it is yours.
 
 I hope you can take the rules that follow and run with them. I hope playing this game brings you joy and that you can tell some fun stories.
 
@@ -260,7 +260,7 @@ In general:
 
 **Die Sizes:** A Stat Die can be one of five sizes, from $d2$ to $d10$, as described in the Stat Dice Notation table below.
 
-**Stat Dice "Bump":** Stat Dice in this game "bump." This means that when you roll a $1$ on a Stat Die, roll it again and add the new result to the previous result. As long as you continue to roll a $1$ on the die, you continue to roll again and add this way. Success without bumping represents natural or trained ability, while doing so with bumping represents a character's extra determination or focus on the action.
+**Stat Dice "Bump":** Stat Dice in this game "bump." This means that when you roll a $1$ on a Stat Die, roll it again and add the new result to the previous result. As long as you continue to roll a $1$ on the die, you continue to roll again and add this way. Success without bumping represents your natural or trained ability, and success with bumping represents your extra determination or focus on the action.
 
 **Balanced Stats:** Stats are "balanced" if they use the same size Stat Die.
 
