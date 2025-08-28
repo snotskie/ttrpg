@@ -274,7 +274,7 @@ These are performed like any other Endeavor, with the following adjustments, act
       </tr>
       <tr>
         <th scope="row" colspan="2">Cover</th>
-        <td><code>Home/Hurry</code> Delay your action so you can Help another character who has not acted this round or so they can Help you. This Help may be used to increase or decrease <b>X</b> values instead of increasing rolls as usual.</td>
+        <td><code>Home/Hurry</code> Delay your action so you can Help another character who has not acted this round or so they can Help you. This Help may be used to decrease <b>X</b> values instead of increasing as usual.</td>
       </tr>
     </tbody>
   </table>
