@@ -747,8 +747,6 @@ Also note:
 
 **Limited Action Dice:** At table discretion, the Stats you can choose from for your Action Die may be limited in certain situations.
 
-**Reversing Turn Order:** During the round, if the numbers of temporary Blessings change and you would no longer have the most, you may reverse the turn order direction, skipping those who have acted already.
-
 ### Actions
 <!-- _class: rules -->
 
