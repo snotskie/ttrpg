@@ -743,7 +743,7 @@ Rounds are carried out as follows:
 
 Also note:
 
-**X:** During Endeavors, the symbol <b>X</b> is determined based on the size your Action Die and the Effect X Values table (in "Checks").
+**X:** During Endeavors, the symbol <b>X</b> is determined based on the size of your Action Die and the Effect X Values table (in "Checks").
 
 **Limited Action Dice:** At table discretion, the Stats you can choose from for your Action Die may be limited in certain situations.
 
