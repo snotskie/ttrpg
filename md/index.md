@@ -432,7 +432,7 @@ Characters in this game may have a number of unique effects based on their Aptit
 
 **Aptitude Ease:** When you perform a Check related enough to your Aptitudes, you may round rolls of $3$ or $4$ up to $5$.
 
-**Aptitude Difficulty:** When another character Attacks you or Defends against your Delayed Attack, if the Check is related enough to your Aptitudes, its difficulty is one rank higher.
+**Aptitude Difficulty:** When another character Attacks you, if the Check is related enough to your Aptitudes, its difficulty is one rank higher.
 
 <div>
   <p>
@@ -469,10 +469,23 @@ To perform a Check:
 
 1. **Table Discretion:** At table discretion, it's determined which Stat is normally associated with the action and if the action will be easier or harder than normal, as described in the Easy and Hard Checks table below.
 2. **Choose Stat:** Choose a Stat to roll. Your options are any Stat in the scope of the Stat normally associated with the action.
-3. **Roll:** Roll your Stat Die for the chosen Stat.
-4. **Outcome:** The higher you roll, the greater your degree of success, as described in the Check Outcomes table below.
-5. **Boons and Busts:** Some successes grant you additional benefits, called "boons," while others are accompanied by complications, called "busts." If you get a boon and a bust on the same Check, they do not cancel each other out, but lead to a more nuanced result.
+3. **Roll:** Roll your Stat Die for the chosen Stat. The higher you roll, the greater your degree of success, as described in the Check Outcomes table below.
+4. **Boons and Busts:** Some successes grant you narrative benefits, called "boons," while others are accompanied by complications, called "busts." If you get a boon and a bust on the same Check, they do not cancel each other out, but lead to a more nuanced result.
+5. **X:** Some success effects use the symbol <b>X</b> as a placeholder, representing the "size" of the effect. <b>X</b> is determined based on the size of the Stat Die used and the Effect X Values table below.
 
+</div>
+
+<div>
+  <h4>
+    Easy and Hard Checks
+  </h4>
+
+  | Difficulty | Effect |
+  | ---------- | ------ |
+  | Easy | Round rolls of $3$ or $4$ up to $5$, as though you were apt in the action. |
+  | Normal | *No effect.* |
+  | Hard | Perform the roll twice, using a mix of Stats and/or characters working together. If either would fail, the whole Check fails. Boons and busts stack. |
+  | Harder | Each difficulty rank past Hard requires an additional roll. |
 </div>
 
 <div>
@@ -491,15 +504,12 @@ To perform a Check:
 
 <div>
   <h4>
-    Easy and Hard Checks
+    Effect X Values
   </h4>
 
-  | Difficulty | Effect |
-  | ---------- | ------ |
-  | Easy | Round rolls of $3$ or $4$ up to $5$, as though you were apt in the action. |
-  | Normal | *No effect.* |
-  | Hard | Perform the roll twice, using a mix of Stats and/or characters working together. If either would fail, the whole Check fails. Boons and busts stack. |
-  | Harder | Each difficulty rank past Hard requires an additional roll. |
+  | $d2$ | $d4$ | $d6$ | $d8$ | $d10 |
+  | ---- | ---- | ---- | ---- | ---- |
+  | $1$ | $1$ | $2$ | $2$ | $3$ |
 </div>
 
 ### Attacks
@@ -518,21 +528,6 @@ To perform an Attack:
 1. **Attack Stat:** The Attacker chooses if their Attack is violent or non-violent and selects the appropriate Stat for it.
 2. **Defense Difficulty:** By default, the Check below is Normal. The Defender's Apts and Specs may modify the difficulty. Other effects or situations, at table discretion, may modify the difficulty further.
 3. **Attack Check:** The Attacker uses their chosen Stat to perform a Check to determine success for the action.
-
-</div>
-
-### Delayed Attacks
-<!-- _class: rules -->
-
-Sometimes Attacks are made that are Defended against at a later time, such as setting traps or sending letters.
-
-<div>
-
-To perform a Delayed Attack:
-
-1. **Set Trigger and Stat:** The Attacker describes the Attack and what condition would activate it. If the Delayed Attack is violent, the Stat it targets is Hurry. Otherwise, the targeted Stat is determined at table discretion.
-2. **Attack Difficulty:** By default, the Check below is Normal. The Attacker's Apts and Specs, at the time the trigger is set, may modify the difficulty. Other effects or situations, at table discretion, may modify the difficulty further.
-3. **Defend:** When the trigger is activated, the Defender uses the targeted Stat to perform a Check to determine success guarding against the triggered effect. If the Check fails, the Attack succeeds without boon or bust.
 
 </div>
 
@@ -618,7 +613,7 @@ Characters may spend their Blessings to Help one another succeed Checks.
 To provide Help:
 
 1. **Help Cost:** Once per roll you may spend ① to Help another character.
-2. **Help Bonus:** Add half the value of the spent Blessing to the roll, rounded down, to a minimum of $1$.
+2. **Help Bonus:** Add half the value of the spent Blessing to the roll, rounded down, to a minimum of $1$. If the Check effect uses the <b>X</b> symbol, you may increase <b>X</b> instead.
 3. **Help Bust:** Teamwork makes the dream work, but it also complicates the situation. Regardless of the Check's result, it gains an additional bust.
 
 </div>
@@ -740,7 +735,7 @@ Endeavors are carried out over rounds in which characters attempt to drive the n
 
 Rounds are carried out as follows:
 
-1. **Choose Action Die:** Before each round, choose an available Stat to be your Action Die for the actions you plan to take. The narrative for your action does not have to be fully formed. Then gain <b>X</b> temporary Blessings, which disappear at the end of the Endeavor. (<b>X</b> is described below.)
+1. **Choose Action Die:** Before each round, choose an available Stat to be your Action Die for the actions you plan to take. The narrative for your action does not have to be fully formed. Then gain <b>X</b> temporary Blessings, which disappear at the end of the Endeavor.
 3. **Follow Turn Order:** Turns for the round then start with whoever has the least temporary Blessings, rotating in the direction away from whoever has the most temporary Blessings, resolving ties at table discretion.
 4. **Spend Action Die:** After each round, the Stat chosen for your Action Die is "spent." While a Stat is spent, it can't be an Action Die or Spark. You may skip the next round to instead regain all spent Stats.
 
@@ -748,7 +743,7 @@ Rounds are carried out as follows:
 
 Also note:
 
-**X:** The symbol <b>X</b> represents a generic resource that varies by Endeavor. It is one fourth the largest number on your Action Die, rounded up. (For $d2-d4$ it is $1$, for $d6-d8$ it is $2$, and for $d10$ it is $3$.) When used for a Delayed Attack, it is determined on the round the Attack's trigger is set.
+**X:** During Endeavors, the symbol <b>X</b> is determined based on the size your Action Die and the Effect X Values table (in "Checks").
 
 **Limited Action Dice:** At table discretion, the Stats you can choose from for your Action Die may be limited in certain situations.
 
@@ -764,8 +759,6 @@ In general:
 **Limited Actions:** Your action choices may be limited at table discretion in certain situations, some may only be taken if your Action Die is in the scope of certain Stats, and all must be narratively reasonable to be taken. Because boons and busts can greatly shape the narrative, they can also greatly shape what is narratively reasonable for future actions.
 
 **Using Action Dice:** Some actions use your Action Die to perform Checks, and some don't. Even if not used, Action Dice are still spent after the round.
-
-**Sparked Actions:** When you spark your Action Die during a Check, your **X** is doubled (before modifiers) for that Check's result.
 
 **Only Action Die is Spent:** Even if other Stat Dice are involved in an action's Check, only the Action Die is spent after the round.
 
@@ -830,7 +823,7 @@ These are performed like any other Endeavor, with the following adjustments, act
       </tr>
       <tr>
         <th scope="row" colspan="2">Pass</th>
-        <td>Delay your action so you can Help another character who has not acted this round or so they can Help you. This Help may be used to increase <b>X</b> values instead of increasing rolls as usual.</td>
+        <td>Delay your action so you can Help another character who has not acted this round or so they can Help you.</td>
       </tr>
       <tr>
         <th scope="row" colspan="2">Unique Skill</th>
@@ -865,7 +858,7 @@ These are performed like any other Endeavor, with the following adjustments, act
       </tr>
       <tr>
         <th scope="row" colspan="2">Pass</th>
-        <td>Delay your action so you can Help another character who has not acted this round or so they can Help you. This Help may be used to increase <b>X</b> values instead of increasing rolls as usual.</td>
+        <td>Delay your action so you can Help another character who has not acted this round or so they can Help you.</td>
       </tr>
       <tr>
         <th scope="row" colspan="2">Unique Skill</th>
@@ -1123,7 +1116,7 @@ At the end of each session, you receive one free Stat Upgrade for your character
 
 | Attentive Specialization |
 | --- |
-| *Effect:* When you succeed a Check in the scope of Hand or Heart, for your subsequent action you may perform a violent Attack using either of those Stats. *Recharge:* ③. |
+| *Effect:* When you succeed a Check in the scope of Hand or Heart, for your subsequent <b>X</b> actions you may perform a violent Attack using either of those Stats. *Recharge:* ③. |
 
 | Calm Specialization |
 | --- |
@@ -1135,7 +1128,7 @@ At the end of each session, you receive one free Stat Upgrade for your character
 
 | Commanding Specialization |
 | --- |
-| *Effect:* During Endeavors, as an action you may choose an ally who has not acted yet. They may choose a new Stat for their Action Die. *Recharge:* ③. |
+| *Effect:* During Endeavors, as an action you may choose up to <b>X</b> allies who have not acted yet. They may choose new Stats for their Action Dice. *Recharge:* ③. |
 
 | Coordinated Specialization |
 | --- |
@@ -1143,7 +1136,7 @@ At the end of each session, you receive one free Stat Upgrade for your character
 
 | Critical Specialization |
 | --- |
-| *Effect:* During Endeavors, when you roll $10$ or more attacking an opponent, or they roll $2$ or less defending against your Delayed Attack, they spend an unspent Stat at random. *Recharge:* ②. |
+| *Effect:* During Endeavors, when you roll $10$ or more attacking an opponent, they spend an unspent Stat at random. *Recharge:* ②. |
 
 <!-- | Delegated Specialization |
 | --- |
@@ -1155,7 +1148,7 @@ At the end of each session, you receive one free Stat Upgrade for your character
 
 | Dominating Specialization |
 | --- |
-| *Effect:* During Endeavors, when an opponent activates a button that stops their movement as a result of your action, after resolving that button they continue moving however much movement would have been prevented. |
+| *Effect:* During Endeavors, once per round when an opponent activates a button that stops their movement as a result of your action, after resolving that button they continue moving however much movement would have been prevented. |
 
 | Excessive Specialization |
 | --- |
@@ -1231,7 +1224,7 @@ At the end of each session, you receive one free Stat Upgrade for your character
 
 | Sure-footed Specialization |
 | --- |
-| *Effect:* During Endeavors, when you take the Protect action to protect yourself, you may use your Action Die to perform a Check to protect yourself further. On a success, the Protect effect lasts <b>X</b> additional rounds. |
+| *Effect:* During Endeavors, when you take the Protect action to protect yourself and succeed, the effect lasts <b>X</b> additional rounds. |
 
 | Tactical Specialization |
 | --- |
@@ -1251,7 +1244,7 @@ At the end of each session, you receive one free Stat Upgrade for your character
 
 | Zealous Specialization |
 | --- |
-| *Effect:* During Endeavors, when your Action Die is in the scope of Head or Heart, as an action you may have you and your allies each gain a Zeal button $1$ below your current track positions. *Recharge:* ④. **Zeal button:** *Type:* Personal. *Activation:* Activated when you move over it. *Effect:* End your movement, remove this button, and immediately Attack a nearby opponent, even if you have already acted this round. |
+| *Effect:* During Endeavors, when your Action Die is in the scope of Head or Heart, as an action you may have you and up to <b>X</b> allies each gain a Zeal button $1$ below your current track positions. *Recharge:* ④. **Zeal button:** *Type:* Personal. *Activation:* Activated when you move over it. *Effect:* End your movement, remove this button, and immediately Attack a nearby opponent, even if you have already acted this round. |
 
 ## Character Sheet
 <!-- _class: major center -->
