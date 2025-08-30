@@ -289,12 +289,6 @@ In general:
 
 **Sparking:** You may "Spark" two balanced Stats together to create a more powerful effect (described in the Playing the Game chapter).
 
-**Unconventional Stats:** Whenever an effect has you use a Stat, you may instead use any other Stat you have balanced with it, referred to as using an "unconventional Stat."
-
-**History and Optional Stats:** You may use your History Stat in place of another Stat when the action is related enough to your Backstory or Aptitudes (described later in this chapter). Similarly, you may use optional Stats (if your game has them) like Hex or Ham in place of another Stat when the action is related enough to that Stat's scope.
-
-**"In the scope of":** Effects "in the scope of" some Stat refer to that Stat, Stats balanced with it, and your History and optional Stats if related enough.
-
 <div>
   <h4>
     Stat Dice Notation
@@ -478,6 +472,19 @@ Similarly, you'll track and perform Checks to **gain, maintain, create, trade in
 
 ## Playing the Game
 <!-- _class: center major rules -->
+
+### More About Stat Dice
+<!-- _class: rules -->
+
+The Stats in this game cover a range of scopes already. However, sometimes it is appropriate to bend a Stat into the scope of a different Stat, such as hacking into the mainframe (Head) by hitting the computer just right (Hand).
+
+In general:
+
+**Unconventional Stats:** Whenever an effect has you use a Stat, you may instead use any other Stat you have balanced with it, referred to as using an "unconventional Stat."
+
+**History and Optional Stats:** Whenever an effect has you use a Stat, you may instead use your History Stat if the action is related enough to your Backstory or Aptitudes, or an optional Stat like Hex or Ham (if your game has them) if the action is related enough to the optional Stat's scope.
+
+**"In the scope of":** Effects "in the scope of" some Stat refer to that Stat, Stats balanced with it, and your History and optional Stats if related enough.
 
 ### Checks
 <!-- _class: rules -->
@@ -1227,7 +1234,7 @@ At the end of each session, you receive one free Stat Upgrade for your character
 
 | Self-Accepted Specialization |
 | --- |
-| *Effect:* When you succeed Checks in social situations while using unconventional Stats, you receive an additional boon. |
+| *Effect:* When you succeed Checks in social situations while using unconventional Stats, you receive an additional boon, within reason. |
 
 | Shameless Specialization |
 | --- |
