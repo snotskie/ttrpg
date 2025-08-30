@@ -35,3 +35,10 @@ svg > foreignObject > section {
         padding-bottom: 3px;
     }
 }
+
+/* print number sides */
+svg.print-left section::after {
+    left: 0 !important;
+    right: unset !important;
+    justify-content: flex-start !important;
+}

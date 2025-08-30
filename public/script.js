@@ -11,16 +11,18 @@ function bwafterprint(){
 }
 
 function bwprint(){
-    window.addEventListener("beforeprint", bwbeforeprint);
-    window.addEventListener("afterprint", bwafterprint);
-    window.addEventListener("afterprint", () => {
-        // window.removeEventListener("beforeprint", bwbeforeprint);
-        // window.removeEventListener("afterprint", bwafterprint);
-        // window.removeEventListener("afterprint", this);
-        history.go(0);
-    });
-    
-    window.print();
+    window.setTimeout(() => {
+      window.addEventListener("beforeprint", bwbeforeprint);
+      window.addEventListener("afterprint", bwafterprint);
+      window.addEventListener("afterprint", () => {
+          // window.removeEventListener("beforeprint", bwbeforeprint);
+          // window.removeEventListener("afterprint", bwafterprint);
+          // window.removeEventListener("afterprint", this);
+          history.go(0);
+      });
+      
+      window.print();
+    }, 200); // Timeout to let the CSS class changes for print render
 }
 
 function restyleIndexEntry(name){
@@ -58,8 +60,11 @@ function perfectReorderPages(){
     pageOrder.push(i + 1);
   }
 
-  for (const page of pageOrder){
-    document.body.appendChild(pages[page]);
+  const sideClass = ["print-right", "print-right", "print-left", "print-left"];
+  for (let i=0; i < pageOrder.length; ++i){
+    const page = pages[pageOrder[i]];
+    page.classList.add(sideClass[i % sideClass.length]);
+    document.body.appendChild(page);
   }
 }
 
@@ -80,8 +85,11 @@ function saddleReorderPages(){
     pageOrder.push(pages.length - 1 - i - 1);
   }
 
-  for (const page of pageOrder){
-    document.body.appendChild(pages[page]);
+  const sideClass = ["print-left", "print-right"];
+  for (let i=0; i < pageOrder.length; ++i){
+    const page = pages[pageOrder[i]];
+    page.classList.add(sideClass[i % sideClass.length]);
+    document.body.appendChild(page);
   }
 }
 
