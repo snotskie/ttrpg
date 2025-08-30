@@ -471,7 +471,7 @@ To perform a Check:
 2. **Choose Stat:** Choose a Stat to roll. Your options are any Stat in the scope of the Stat normally associated with the action.
 3. **Roll:** Roll your Stat Die for the chosen Stat. The higher you roll, the greater your degree of success, as described in the Check Outcomes table below.
 4. **Boons and Busts:** Some successes grant you narrative benefits, called "boons," while others are accompanied by complications, called "busts." If you get a boon and a bust on the same Check, they do not cancel each other out, but lead to a more nuanced result.
-5. **X:** Some success effects use the symbol <b>X</b> as a placeholder, representing a "size" of the effect. <b>X</b> is determined based on the size of the largest Stat Die used to perform the Check and the Effect X Values table below.
+5. **X:** Whereas boons and busts shape *narrative* results, some effects also use an <b>X</b> symbol to represent a *mechanical* result size. <b>X</b> is determined based on the Effect <b>X</b> Values table below and the size of the largest or most narratively important Stat Die used to perform the Check.
 
 </div>
 
@@ -504,7 +504,7 @@ To perform a Check:
 
 <div>
   <h4>
-    Effect X Values
+    Effect <b>X</b> Values
   </h4>
 
   | $d2$ | $d4$ | $d6$ | $d8$ | $d10$ |
