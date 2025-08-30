@@ -107,6 +107,27 @@ The online version of this book (<https://snotskie.com/ttrpg/>) will automatical
 
 **Community:** For community content and discussions, visit <https://github.com/snotskie/ttrpg/discussions>.
 
+**Flexible:** The Example Adjudications table below shows how this system's rules are flexible to a range of common TTRPG scenarios.
+
+<div>
+  <h4>
+    Example Adjudications
+  </h4>
+  <table>
+      <thead>
+      <tbody>
+          <tr>
+            <th scope="row">Crafting</th>
+            <td><em>Scenario:</em> Crafting a new item, repairing a broken item, getting a complex device running again, performing a complex magic ritual. <em>Ruling:</em> Complete a series of Hard Checks. On each success, gain <b>X</b> "progress points" towards a target "progress goal." Boons and busts accumulate and affect the final item quality. <em>Rules Consulted:</em> <a href="#@checks">Checks</a>.</td>
+          </tr>
+          <tr>
+            <th scope="row">Delays</th>
+            <td><em>Scenario:</em> Setting a trap, sending a letter, spreading rumors against someone. <em>Ruling:</em> Because the effect is delayed, this is not a normal Attack. Instead, perform a Check. On a success, set the "delayed effect" in motion as a scenario the target will have to overcome when it "reaches" them. When it does, they perform a Check of the same difficulty. Your boons and busts stack with theirs to affect the final result. <em>Rules Consulted:</em> <a href="#@checks">Checks</a>, <a href="#@attacks">Attacks</a>.</td>
+          </tr>
+      </tbody>
+  </table>
+</div>
+
 ### "At Table Discretion"
 <!-- _class: intro -->
 
