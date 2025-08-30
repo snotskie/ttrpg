@@ -612,7 +612,7 @@ Characters may spend their Blessings to Help one another succeed Checks.
 
 To provide Help:
 
-1. **Help Cost:** Once per roll you may spend ① to Help another character.
+1. **Help Cost:** Once per Check you may spend ① to Help another character.
 2. **Help Bonus:** Add half the value of the spent Blessing to the roll, rounded down, to a minimum of $1$. If the Check effect uses the <b>X</b> symbol, you may increase <b>X</b> instead.
 3. **Help Bust:** Teamwork makes the dream work, but it also complicates the situation. Regardless of the Check's result, it gains an additional bust.
 
@@ -620,7 +620,7 @@ To provide Help:
 
 Also note:
 
-**Help on Hard Checks:** If you Help a Check that requires multiple rolls, only the lowest of those rolls is Helped.
+**Help on Hard Checks:** If you Help roll for a Check that requires multiple rolls, only the lowest of those rolls is Helped.
 
 **Multiple Helpers:** Multiple characters can Help the same roll if they each pay the cost.
 
