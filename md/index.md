@@ -763,17 +763,20 @@ Endeavors are carried out over rounds in which characters attempt to drive the n
 
 Rounds are carried out as follows:
 
-1. **Choose Action Die:** Before each round, choose an available Stat to be your Action Die for the actions you plan to take. The narrative for your action does not have to be fully formed. Then gain <b>X</b> temporary Blessings, which disappear at the end of the Endeavor.
-3. **Follow Turn Order:** Turns for the round then start with whoever has the least temporary Blessings, resolving ties at table discretion. Also at table discretion, turns move clockwise, counterclockwise, or "popcorn," where characters choose who acts after them.
+1. **Choose Action Die:** Before each round, choose a Stat to be your Action Die for the actions you plan to take. The narrative for your action does not have to be fully formed.
+2. **Gain Blessings:** Gain <b>X</b> temporary Blessings, which disappear at the end of the Endeavor.
+3. **Follow Turn Order:** Turns for the round  start with whoever has the least temporary Blessings, resolving ties at table discretion. Also at table discretion, turns move clockwise, counterclockwise, or "popcorn," where characters choose who acts after them.
 4. **Spend Action Die:** After each round, the Stat chosen for your Action Die is "spent." While a Stat is spent, it can't be an Action Die or Spark. You may skip the next round to instead regain all spent Stats.
 
 </div>
 
 Also note:
 
-**X:** During Endeavors, the symbol <b>X</b> is determined based on the size of your Action Die and the Effect X Values table (in "Checks").
-
 **Limited Action Dice:** At table discretion, the Stats you can choose from for your Action Die may be limited in certain situations.
+
+**X:** During Endeavors, <b>X</b> uses the size of your Action Die. If it is modified by Help, it is modified for only one action.
+
+**Unused Help:** Any unused Help effects end at the end of the round.
 
 ### Actions
 <!-- _class: rules -->
