@@ -331,6 +331,11 @@ section.intro p > strong:first-child {
     padding: 0 .4rem;
 }
 
+/* padding fix for lists */
+ol, ul {
+  margin-bottom: 15px;
+}
+
 
 /* b&w for printing */
 section.bw,
@@ -381,4 +386,8 @@ section.bw.intro p > strong:first-child {
 section.bw th[scope="row"][rowspan] {
   color: black;
   background-color: white;
+}
+
+section.bw .bw-hide {
+  display: none;
 }
