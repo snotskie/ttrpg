@@ -330,19 +330,26 @@ Once you've chosen your starter Lifestyle and Ethic, **two of your Stats** will 
   <h4>
     Lifestyle/Ethic Starting Stats
   </h4>
-  <table>
+  <style scoped>
+    .lifestyle_ethic_starting_stats td:not(:empty) {
+      width: 10ch;
+      height: 10ch;
+      text-align: center;
+    }
+  </style>
+  <table class="lifestyle_ethic_starting_stats">
       <thead>
           <tr>
           <td></td>
-          <th scope="col">Vice &amp; Virtue</th>
-          <th scope="col">Fate &amp; Knowledge</th>
-          <th scope="col">Cunning &amp; Capability</th>
+          <th scope="col">Vice &amp;<br />Virtue</th>
+          <th scope="col">Fate &amp;<br />Knowledge</th>
+          <th scope="col">Cunning &amp;<br />Capability</th>
           </tr>
       </thead>
       <tbody>
-          <tr> <th scope="row">Carefree</th> <td>Heart and Hurry</td> <td>Head and Hurt</td> <td>Hand and Home</td> </tr>
-          <tr> <th scope="row">Eager</th> <td>Hand and Hurt</td> <td>Heart and Home</td> <td>Head and Hurry</td> </tr>
-          <tr> <th scope="row">Wisened</th> <td>Head and Home</td> <td>Hand and Hurry</td> <td>Heart and Hurt</td> </tr>
+          <tr> <th scope="row">Carefree</th> <td>Heart<br />Hurry</td> <td>Head<br />Hurt</td> <td>Hand<br />Home</td> </tr>
+          <tr> <th scope="row">Eager</th> <td>Hand<br />Hurt</td> <td>Heart<br />Home</td> <td>Head<br />Hurry</td> </tr>
+          <tr> <th scope="row">Wisened</th> <td>Head<br />Home</td> <td>Hand<br />Hurry</td> <td>Heart<br />Hurt</td> </tr>
       </tbody>
   </table>
 </div>
