@@ -1261,7 +1261,7 @@ At the end of each session, you receive one free Stat Upgrade for your character
 
 | Tireless Specialization |
 | --- |
-| *Effect:* When you gain this Specialization, choose a Stat. During Endeavors, while the chosen Stat is spent, its Stat Die is replaced with a $d6$ or stays its original size, whichever is smaller. |
+| *Effect:* When you gain this Specialization, choose a Stat. During Endeavors, you may use the chosen Stat as your Action Die even while it is spent, except its Stat Die is replaced with a $d6$ or stays its original size, whichever is smaller. |
 
 | Vibe Specialization |
 | --- |
