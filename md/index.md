@@ -166,13 +166,13 @@ You can find a blank Character Sheet form at the end of this book. Other charact
 ### Step One · Choose Highest Stat
 <!-- _class: creation -->
 
-The following pages describe the **Stats** used in *Humanity, Blessed*, known collectively as **the H's of Humanity**. Your table may add an additional Stat as well, from the list of Optional Stats provided or by creating your own.
+The following pages describe the **Stats** used in ***Humanity, Blessed* ⊜**, known collectively as **the H's of Humanity**. Your table may add an additional Stat as well from the list of optional Stats provided or by creating your own.
 
 Your first task is to decide **which Stat your character is best at**.
 
 As you do, begin to think about the story your character takes on in your mind. **Why are they good at this and not at that?** Why is one important to them and not the other? What are they trying to improve? What do they like getting help from others on?
 
-When you begin the game, most of your Stats are equal, using a $d4$ for their Checks. However, the Stat you chose as your **highest Stat begins the game one die size larger**. In Step Two of character creation your **Lifestyle and Ethic** will also increase your starting Stat Dice.
+When you begin the game, most of your Stats are equal, using a $d4$ for their Stat Dice. However, the Stat you chose as your **highest Stat begins the game one die size larger**. In Step Two of character creation your **Lifestyle and Ethic** will also increase your starting Stat Dice.
 
 All your Stat Dice may be **upgraded later in the Session Shop**.
 
@@ -191,7 +191,7 @@ All characters in this game have the following Stats, each related to a differen
 
 | ✌️ Hand Stat |
 | --- |
-| *Scope:* Athletic pursuits, endurance, activities that require physical training, raw non-violent strength, moving quietly, pickpocketing. *High/Low:* With a high Hand Stat you are in complete control of your physical efforts. But with a low Hand Stat you may tire easily or loud, clanky obstacles might somehow always be in your way. |
+| *Scope:* Athletic pursuits, endurance, activities that require physical training, raw non-violent strength, moving quietly, pickpocketing. *High/Low:* With a high Hand Stat you are in complete control of your physical efforts. But with a low Hand Stat you may tire easily or loud obstacles might somehow always be in your way. |
 
 | 💕 Heart Stat |
 | --- |
@@ -264,7 +264,7 @@ At table discretion, one of the following Stats may be added to your game, depen
 
 | 👻 Haunted Stat |
 | --- |
-| *Scope:* Dark narrative elements representing a character's fears, a curse they can't escape, or a malevolent force that haunts them. *Effect:* This Stat begins the game as a $d10$, and can only be decreased in the same way other Stats are normally increased, down to a minimum of a $d2$. Players do not choose to use this Stat. Instead, whenever the thing that haunts them is present (whether the character is aware of its presence or not), after the character has performed a roll, they then roll their Haunted Stat and subtract its value from the original roll's result. *Setting:* Poe style. |
+| *Scope:* Dark narrative elements representing a character's fears, a curse they can't escape, or a malevolent force that haunts them. *Effect:* This Stat begins the game as a $d10$ and can only be decreased in the same way other Stats are normally increased, down to a minimum of a $d2$. Players do not choose to use this Stat. Instead, whenever the thing that haunts them is present (whether the character is aware of its presence or not), after the character has performed a roll, they then roll their Haunted Stat and subtract its value from the original roll's result. *Setting:* Poe style. |
 
 | 🌳 Hardy Stat |
 | --- |
@@ -289,6 +289,12 @@ In general:
 
 **Sparking:** You may "Spark" two balanced Stats together to create a more powerful effect (described in the Playing the Game chapter).
 
+Also note:
+
+**Bumping Dice Groups:** Some effects will ask you to roll a group of dice, denoted such as $2d6$. When rolling a group of dice, if you roll a $1$ on either die, then you roll all dice in the group again and add to the previous result. And as long as you continue to roll a $1$ on either die, you continue to roll the group again and add this way.
+
+**Explicit Dice Grouping Only:** Note, $2d6$ is different from $1d6+1d6$. Only when an effect explicitly groups dice together are they considered a group for bumping. For example, both dice of $2d6$ are rerolled when either rolls a $1$. However, the dice of $1d6+1d6$ are considered separate groups, so rolling a $1$ on one of the dice only affects that one die.
+
 <div>
   <h4>
     Stat Dice Notation
@@ -302,12 +308,6 @@ In general:
   | $d4$  | A four-sided die. |
   | $d2$  | Any of the above dice, treating any odd number as $1$ and any even number as $2$. The smallest die size in the game. |
 </div>
-
-Also note:
-
-**Bumping Dice Groups:** Some effects will ask you to roll a group of dice, denoted such as $2d6$. When rolling a group of dice, if you roll a $1$ on either die, then you roll all dice in the group again and add to the previous result. And as long as you continue to roll a $1$ on either die, you continue to roll the group again and add this way.
-
-**Explicit Dice Grouping Only:** Note, $2d6$ is different from $1d6+1d6$. Only when an effect explicitly groups dice together are they considered a group for bumping. For example, both dice of the $2d6$ group are rerolled when either rolls a $1$. However, the dice of the $1d6+1d6$ are considered separate groups, so rolling a $1$ on one of the dice only affects that one die.
 
 ### Step Two · Choose Lifestyle and Ethic
 <!-- _class: creation -->
@@ -409,7 +409,7 @@ Begin to describe your character's story before, coming into, and outside of the
 
 </div>
 
-These background details will help you and your table build the story and set your **Backstory**, which is used by your **History Stat** and your **Apts and Specs** (described later in this chapter). If your game's setting has **non-human characters** and your character is one of them, also work with your table to determine how your non-human background affects your Backstory or Stats.
+These background details will help you and your table build the world and set your **Backstory**, which is used by your **History Stat** and your **Apts and Specs** (described later in this chapter). If your game's setting has **non-human characters** and your character is one of them, also work with your table to determine how your non-human background affects your Backstory or Stats.
 
 And as you play, **keep notes**! These can help you reflect on your **character's relationship to the group's evolving narrative**. Maybe not everyone in the party is enthused about the items the party stole last time! Such reflection can help you **shape the course** of your Backstory and your character's development over the duration of the story, **make important character choices** during your sessions, and **inspire you and your table** for ideas for future scenes.
 
@@ -428,7 +428,7 @@ If your game's setting allows you to play non-human characters, there are genera
 
 **High Variety:** If each player character has a different non-human background, then the simplest option is to use each character's History to cover one or two simple actions, within reason, that characters of their background could perform unaided that humans couldn't.
 
-**Low Variety:** If the player characters come from just a few non-human backgrounds, at table discretion, the scope of two or three Stats may be expanded to cover one or two simple actions each, within reason, that characters of their non-human backgrounds could perform unaided that humans couldn't.
+**Low Variety:** If the player characters come from just a few non-human backgrounds, the scope of two or three Stats may be expanded at table discretion to cover one or two simple actions each that characters of their non-human backgrounds could perform unaided that humans couldn't.
 
 ### Step Four · Choose Aptitudes
 <!-- _class: creation -->
@@ -505,7 +505,7 @@ To perform a Check:
 1. **Table Discretion:** At table discretion, it's determined which Stat is normally associated with the action and if the action will be easier or harder than normal, as described in the Easy and Hard Checks table below.
 2. **Choose Stat:** Choose a Stat to roll. Your options are any Stat in the scope of the Stat normally associated with the action.
 3. **Roll:** Roll your Stat Die for the chosen Stat. The higher you roll, the greater your degree of success, as described in the Check Outcomes table below.
-4. **Boons and Busts:** Some successes grant you narrative benefits, called "boons," while others are accompanied by complications, called "busts." If you get a boon and a bust on the same Check, they do not cancel each other out, but lead to a more nuanced result.
+4. **Boons and Busts:** Some successes grant you narrative benefits, called "boons," while others are accompanied by complications, called "busts." If you get a boon and a bust on the same Check, they do not cancel each other out but instead lead to a more nuanced result.
 5. **X:** Whereas boons and busts shape *narrative* results, some effects also use an <b>X</b> symbol to represent a *mechanical* result size. <b>X</b> is determined based on the Effect <b>X</b> Values table below and the size of the largest or most narratively important Stat Die used to perform the Check.
 
 </div>
@@ -710,7 +710,7 @@ In general however:
 
 **Conditions Tell Stories:** At minimum, Conditions provide effects. However, they also represent small story arcs where you face obstacles and, in spite of the Condition's effects, overcome those obstacles. When you gain a Condition, consider how your character feels about the situation and what the Condition means to them beyond mere effect.
 
-**Conditions Build Connections:** Gaining and removing Conditions, and facing and overcoming obstacles, happen with other characters around. Consider, and take notes for the development of your character: Who else is around that saw the event happen? How would the people you look up to feel about it? And how could your connections to other characters help you remove the Condition later?
+**Conditions Build Connections:** Gaining and removing Conditions usually happens with other characters around. Consider: Who else is around that saw the event happen? How would the people you look up to feel about it? And how could your connections to other characters help you remove the Condition later?
 
 <div>
   <h4>
@@ -824,9 +824,9 @@ Some campaigns or sessions may involve the player characters facing off against 
 
 These are performed like any other Endeavor, with the following adjustments, action options, and buttons:
 
-**Force and Greatness:** The symbol <b>X</b> represents your "force" for the round, such as force of will, force of strength, or so on. And your temporary blessings might represent your accumulated "honor," "might", "coolness," or so on.
+**Force and Greatness:** The symbol <b>X</b> represents your "force" for the round, such as force of will, force of strength, or so on. Your temporary blessings represent your accumulated "honor," "might", "coolness," or so on.
 
-**Monstrosities:** Your opponents are "monstrosities," which are characters as usual, but with a Starting Position (SP) representing how hard they are to remove from the Endeavor, as well as a number of secret tags that affect their actions and buttons.
+**Monstrosities:** Your opponents are "monstrosities," which are characters as usual but with a Starting Position (SP) representing how hard they are to remove from the Endeavor and a number of tags that affect their actions and buttons.
 
 **Setup:** You and your "allies" begin at position $0$. If an opponent has an SP of $10 (3)$, for example, they begin at position $10$ and add a Recovery button $3$ below that. All opponents also add a Defeat button at position $0$.
 
@@ -886,7 +886,7 @@ These are performed like any other Endeavor, with the following adjustments, act
       </tr>
       <tr>
         <th scope="row" colspan="2">Advance</th>
-        <td><code>Not Hurt</code> Use your Action Die to perform a Check to advance your team's objectives. On a success, add two Scheme buttons at the first positions at or above your current position without one already.</td>
+        <td><code>Not Hurt</code> Use your Action Die to perform a Check to advance your team's objectives. On a success, add <b>X</b> Scheme buttons at the first positions at or above your current position without one already.</td>
       </tr>
       <tr>
         <th scope="row" colspan="2">Protect</th>
@@ -932,7 +932,7 @@ These are performed like any other Endeavor, with the following adjustments, act
       <tr>
       <tr>
         <th scope="row">Perform Combo</th>
-        <td><code>Special Action</code> Choose an opponent, then any number of additional opponents with a number of temporary Blessings less than half your number of temporary Blessings, rounded down. Then spend all your temporary Blessings, wound the chosen opponents, and any opponents with three or more Wound buttons in a row are removed from the Endeavor.</td>
+        <td><code>Special Action</code> Choose <b>X</b> opponents. Then spend all your temporary Blessings, wound the chosen opponents, and any opponents with three or more Wound buttons in a row are removed from the Endeavor.</td>
       </tr>
       <tr>
         <th scope="row">Declare Victory</th>

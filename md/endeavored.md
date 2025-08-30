@@ -245,7 +245,7 @@ Some campaigns or sessions may involve prolonged tension where the player charac
 
 These are performed like any other Endeavor, with the following adjustments, action options, and buttons:
 
-**Efficiency and Progress:** The symbol <b>X</b> represents your "efficiency" for the round, such as efficiency at stealth, charisma, or so on. And your temporary blessings represent your accumulated "progress" towards your plan.
+**Efficiency and Progress:** The symbol <b>X</b> represents your "efficiency" for the round, such as efficiency at stealth, charisma, or so on. Your temporary blessings represent your accumulated "progress" towards your immediate goal.
 
 **The Eye:** The opposing side is represented by the "Eye." When the Endeavor begins, the Eye is in "warry mode," on the lookout for you and your fellow "rogues." However, once the Eye has been alerted, it will enter the much more dangerous "wake mode." For the sake of rules, the Eye is a character, but it has only a single Watch Stat, has no track position, it cannot be Attacked directly, and its Watch Stat is never spent when chosen as its Action Die.
 
