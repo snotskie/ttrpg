@@ -245,13 +245,13 @@ Some campaigns or sessions may involve prolonged tension where the player charac
 
 These are performed like any other Endeavor, with the following adjustments, action options, and buttons:
 
-**Efficiency and Progress:** The symbol <b>X</b> represents your "efficiency" for the round, such as efficiency at stealth, charisma, or so on. Your temporary blessings represent your accumulated "progress" towards your immediate goal.
+**Efficiency and Progress:** The symbol <b>X</b> represents your "efficiency" for the round, such as efficiency at stealth, charisma, or so on. Your temporary blessings represent your immediate "progress."
 
-**The Eye:** The opposing side is represented by the "Eye." When the Endeavor begins, the Eye is in "warry mode," on the lookout for you and your fellow "rogues." However, once the Eye has been alerted, it will enter the much more dangerous "wake mode." For the sake of rules, the Eye is a character, but it has only a single Watch Stat, has no track position, it cannot be Attacked directly, and its Watch Stat is never spent when chosen as its Action Die.
+**The Eye:** The opposing side is represented by the "Eye." When the Endeavor begins, the Eye is in "warry mode," on the lookout for you and your fellow "rogues." However, once the Eye has been alerted, it will enter the much more dangerous "wake mode." For the sake of rules, the Eye is a character, but it has only a single Watch Stat, has no track position, it cannot be Attacked directly, and its Watch Stat is never spent.
 
 **Setup:** You and your fellow rogues begin at position $1$. At the top of the first round, the lay of the land will be provided at table discretion for the guarded area, including any rooms, halls, obstacles to climb or hide behind, locking and security mechanisms, and so on. The Eye's defenses in those areas are represented by Alarm buttons, actions the rogues need to complete are represented by Objective buttons, exit points are represented by Escape buttons, and places safe from danger are represented by Sanctuary buttons. As the Endeavor progresses, additional areas may become available, each with their own track and lay of the land.
 
-**Goal:** Remove all Objective buttons without alerting the Eye.
+**Goal:** Remove all Objective buttons and escape without alerting the Eye.
 
 <div>
   <h4>
@@ -270,11 +270,15 @@ These are performed like any other Endeavor, with the following adjustments, act
       </tr>
       <tr>
         <th scope="row" colspan="2">Move</th>
-        <td><code>Not Hurt</code> Use your Action Die to perform a Check to move yourself toward your objective or away from danger. On a success, move up or down by <b>X</b>.</td>
+        <td><code>Not Hurt</code> Use your Action Die to perform a Check to move yourself toward your objective or away from danger. On a success, move up or down by <b>X</b>. You may not move as a group this way.</td>
       </tr>
       <tr>
         <th scope="row" colspan="2">Cover</th>
-        <td><code>Home/Hurry</code> Delay your action so you can Help another character who has not acted this round or so they can Help you. This Help may be used to decrease <b>X</b> values instead of increasing as usual.</td>
+        <td><code>Home/Hurry</code> Delay your action so you can Help another character who has not acted this round or so they can Help you. This Help may be used to decrease <b>X</b> values instead of increasing them as usual.</td>
+      </tr>
+      <tr>
+        <th scope="row" colspan="2">Work</th>
+        <td>If you begin your turn on or next to an Objective button, use your Action Die to perform the Objective button's Check. On a success, add <b>X</b> Scheme buttons at the first positions at or above the Objective button's position without one already. Then remove the Objective button if every position from the button to the next Objective or Escape button has a Scheme button on it.</td>
       </tr>
     </tbody>
   </table>
@@ -288,7 +292,7 @@ These are performed like any other Endeavor, with the following adjustments, act
     <tbody>
       <tr>
       <tr>
-        <th scope="row">Quicken Pace</th>
+        <th scope="row">Quicken</th>
         <td><code>Special Action</code> Spend all your temporary Blessings. You and up to <b>X</b> allies may each take an additional action during the next round.</td>
       </tr>
     </tbody>
@@ -329,11 +333,11 @@ These are performed like any other Endeavor, with the following adjustments, act
     <tbody>
       <tr>
       <tr>
-        <th scope="row">Sweep Defenses</th>
+        <th scope="row">Sweep</th>
         <td><code>Special Action</code> <code>Warry</code> Choose two Alarm buttons that have no Alarm buttons between them. Add temporary Alarm buttons to all positions between them, removed at the end of next round.</td>
       </tr>
       <tr>
-        <th scope="row">Engage Sentry</th>
+        <th scope="row">Clean</th>
         <td><code>Special Action</code> <code>Wake</code> Remove all opponents with three Wound buttons in a row from the Endeavor. Then wound each remaining opponent.</td>
       </tr>
     </tbody>
@@ -347,16 +351,22 @@ These are performed like any other Endeavor, with the following adjustments, act
   <table>
     <tbody>
       <tr>
-        <th scope="row">Alarm</th><td><i>Type:</i> Global. <i>Activation:</i> Activated when you end your turn on it. <i>Effect:</i> The Eye enters wake mode. <i>Passive:</i> When a rogue fails a Check or Sparks a roll, add another Alarm button above this one if there is not one there already. <i>Cumulative:</i> Any Alarm buttons that would move to or be placed at a position outside 1&ndash;20 instead move up or down by 20 until they are in that range. If multiple Alarms would move to or be placed at the same position, all but one at that position are removed.</td>
+        <th scope="row">Alarm</th><td><i>Type:</i> Global. <i>Activation:</i> Activated when you end your turn on it. <i>Effect:</i> The Eye enters wake mode. <i>Passive:</i> When a rogue fails a Check or Sparks a roll, add another Alarm button above this one if there is not one there already. <i>Cumulative:</i> Alarm buttons that would move to or be placed at a position outside 1&ndash;20 instead move up or down by 20 until in that range. If multiple would move to or be placed at the same position, all but one there are removed.</td>
       </tr>
       <tr>
-        <th scope="row">Objective</th><td><i>Type:</i> Global. <i>Activation:</i> Activated when you end your turn on or next to it. <i>Effect:</i> As an action on your next turn, you may use your Action Die to perform this button's Check. On a success, remove this button.</td>
+        <th scope="row">Objective</th><td><i>Type:</i> Global. <i>Activation:</i> None. <i>Effect:</i> None.</td>
       </tr>
       <tr>
         <th scope="row">Escape</th><td><i>Type:</i> Global. <i>Activation:</i> Activated when you move over it. <i>Effect:</i> You may safely remove yourself from the Endeavor.</td>
       </tr>
       <tr>
         <th scope="row">Sanctuary</th><td><i>Type:</i> Global. <i>Activation:</i> Activated when you perform an Attack while on or next to it. <i>Effect:</i> Remove this button. <i>Passive:</i> You do not activate Alarm buttons while on or next to this button.</td>
+      </tr>
+      <tr>
+        <th scope="row">Scheme</th><td><i>See Monstrous Endeavors.</i></td>
+      </tr>
+      <tr>
+        <th scope="row">Wound</th><td><i>See Monstrous Endeavors.</i></td>
       </tr>
     </tbody>
   </table>
