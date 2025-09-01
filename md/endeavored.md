@@ -8,16 +8,60 @@ paginate: true
 headingDivider: 3
 ---
 
-# Humanity, Endeavored
-<!-- _class: title art-left -->
 <!-- _paginate: skip -->
-
-<!--![bg left](bg.jpg)-->
-![bg left](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=)
-<!--![bg left](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjkJCQ+A8AAdwBSPJsk2gAAAAASUVORK5CYII=)-->
-<!-- ![bg left](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdj+P///38ACfsD/QVDRcoAAAAASUVORK5CYII=) -->
-
-Supplement for Humanity, Blessed: TTRPG
+<div>
+  <style scoped>
+    table.title_table {
+      font-family: "Bebas Neue", serif;
+      margin-top: 5in;
+    }
+    table.title_table th[scope="row"]{
+      font-weight: normal;
+      font-size: 21px;
+      background: var(--color-foreground);
+      color: var(--color-background);
+      text-align: left;
+      height: 3.75in;
+    }
+    table.title_table h1 {
+      font-weight: normal;
+    }
+    table.title_table p {
+      margin: 0;
+      padding: 0;
+    }
+    table.title_table .humanity {
+      font-size: 3rem;
+    }
+    table.title_table .blessed {
+      font-size: 160px;
+      line-height: 112px;
+    }
+    table.title_table + p,
+    table.title_table + p + p,
+    table.title_table + p + p + p {
+      font-family: "Bebas Neue", serif;
+      font-size: 21px;
+      position: absolute;
+      bottom: .5in;
+    }
+    table.title_table + p {left: .5in}
+    table.title_table + p + p {
+      left: 50%;
+      width: 2in;
+      margin-left: -1in;
+      text-align: center;
+    }
+    table.title_table + p + p + p {right: .5in}
+  </style>
+  <table class="title_table">
+    <tbody>
+        <tr>
+          <th scope="row">An official supplement for <b><i>Humanity, Blessed</i> ⊜</b> that expands the rules for more Endeavors</th>
+          <td><h1><p class="humanity">Humanity,</p><p class="blessed">Endeavored</p></h1></td>
+        </tr>
+      </tbody>
+  </table>
 
 CC BY:NC:ND Version
 
@@ -25,18 +69,7 @@ CC BY:NC:ND Version
 
 snotskie.
 
-<style scoped>
-  section.title h1 {
-    font-size: 60pt;
-  }
-
-  section.title:before {
-    background-image: linear-gradient(
-      var(--color-rules),
-      var(--color-rules-2)
-    );
-  }
-</style>
+</div>
 
 ---
 <!-- _paginate: skip -->

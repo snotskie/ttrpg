@@ -8,22 +8,70 @@ paginate: true
 headingDivider: 3
 ---
 
-# Humanity, Blessed
-<!-- _class: title art-left -->
 <!-- _paginate: skip -->
-
-<!--![bg left](bg.jpg)-->
-![bg left](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=)
-<!-- ![bg left](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjkJCQ+A8AAdwBSPJsk2gAAAAASUVORK5CYII=) -->
-<!-- ![bg left](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdj+P///38ACfsD/QVDRcoAAAAASUVORK5CYII=) -->
-
-A tabletop roleplaying game
+<div>
+  <style scoped>
+    table.title_table {
+      font-family: "Bebas Neue", serif;
+      margin-top: 5in;
+    }
+    table.title_table th[scope="row"]{
+      font-weight: normal;
+      font-size: 21px;
+      background: var(--color-foreground);
+      color: var(--color-background);
+      text-align: left;
+      height: 3.75in;
+    }
+    table.title_table h1 {
+      font-weight: normal;
+    }
+    table.title_table p {
+      margin: 0;
+      padding: 0;
+    }
+    table.title_table .humanity {
+      font-size: 3rem;
+    }
+    table.title_table .blessed {
+      font-size: 224px;
+      /* font-size: 14rem; */
+      line-height: 160px;
+      /* line-height: 10rem; */
+    }
+    table.title_table + p,
+    table.title_table + p + p,
+    table.title_table + p + p + p {
+      font-family: "Bebas Neue", serif;
+      font-size: 21px;
+      position: absolute;
+      bottom: .5in;
+    }
+    table.title_table + p {left: .5in}
+    table.title_table + p + p {
+      left: 50%;
+      width: 2in;
+      margin-left: -1in;
+      text-align: center;
+    }
+    table.title_table + p + p + p {right: .5in}
+  </style>
+  <table class="title_table">
+    <tbody>
+        <tr>
+          <th scope="row">A rules-light, semi-crunchy TTRPG inspired by our favorite stories about what it means to be human, doing goofy, cool, fantastic little human things</th>
+          <td><h1><p class="humanity">Humanity,</p><p class="blessed">Blessed</p></h1></td>
+        </tr>
+      </tbody>
+  </table>
 
 CC BY:NC:ND Version
 
 {{ process.env["TAG"] }}
 
 snotskie.
+
+</div>
 
 ---
 <!-- _paginate: skip -->
@@ -114,25 +162,24 @@ The online version of this book (<https://snotskie.com/ttrpg/>) will automatical
     Example Adjudications
   </h4>
   <table>
-      <thead>
-      <tbody>
-          <tr>
-            <th scope="row">Crafting</th>
-            <td><em>Scenario:</em> Crafting a new item, repairing a broken item, getting a complex device running again, performing a complex magic ritual. <em>Ruling:</em> Complete a series of Hard Checks. On each success, gain <b>X</b> "progress points" towards a target "progress goal." Boons and busts accumulate and affect the final item quality. <em>Rules Consulted:</em> <a href="#@checks">Checks</a>.</td>
-          </tr>
-          <tr>
-            <th scope="row">Graduating</th>
-            <td><em>Scenario:</em> Running a business, building a fort, going to college. <em>Ruling:</em> Use the Crafting adjudication above to progress through "tiers" of progress. Each tier unlocks effects and/or progresses plot. <em>Rules Consulted:</em> <a href="#@checks">Checks</a>.</td>
-          </tr>
-          <tr>
-            <th scope="row">Delays</th>
-            <td><em>Scenario:</em> Setting a trap, sending a letter, spreading rumors against someone. <em>Ruling:</em> Because the effect is delayed, this is not a normal Attack. Instead, perform a Check. On a success, set the "delayed effect" in motion as a scenario the target will have to overcome when it "reaches" them. When it does, they perform a Check of the same difficulty. Your boons and busts stack with theirs to affect the final result. <em>Rules Consulted:</em> <a href="#@checks">Checks</a>, <a href="#@attacks">Attacks</a>.</td>
-          </tr>
-          <tr>
-            <th scope="row">Escape</th>
-            <td><em>Scenario:</em> Fleeing, retreating, pushing through violent opponents. <em>Ruling:</em> Run a Monstrous Endeavor. Use Protect and Advance actions to reach position 30+. Use Declare Victory special actions to outrun opponents one at a time.  <em>Rules Consulted:</em> <a href="#@monstrousendeavors">Monstrous Endeavors</a>.</td>
-          </tr>
-      </tbody>
+    <tbody>
+        <tr>
+          <th scope="row">Crafting</th>
+          <td><em>Scenario:</em> Crafting a new item, repairing a broken item, getting a complex device running again, performing a complex magic ritual. <em>Ruling:</em> Complete a series of Hard Checks. On each success, gain <b>X</b> "progress points" towards a target "progress goal." Boons and busts accumulate and affect the final item quality. <em>Rules Consulted:</em> <a href="#@checks">Checks</a>.</td>
+        </tr>
+        <tr>
+          <th scope="row">Graduating</th>
+          <td><em>Scenario:</em> Running a business, building a fort, going to college. <em>Ruling:</em> Use the Crafting adjudication above to progress through "tiers" of progress. Each tier unlocks effects and/or progresses plot. <em>Rules Consulted:</em> <a href="#@checks">Checks</a>.</td>
+        </tr>
+        <tr>
+          <th scope="row">Delays</th>
+          <td><em>Scenario:</em> Setting a trap, sending a letter, spreading rumors against someone. <em>Ruling:</em> Because the effect is delayed, this is not a normal Attack. Instead, perform a Check. On a success, set the "delayed effect" in motion as a scenario the target will have to overcome when it "reaches" them. When it does, they perform a Check of the same difficulty. Your boons and busts stack with theirs to affect the final result. <em>Rules Consulted:</em> <a href="#@checks">Checks</a>, <a href="#@attacks">Attacks</a>.</td>
+        </tr>
+        <tr>
+          <th scope="row">Escape</th>
+          <td><em>Scenario:</em> Fleeing, retreating, pushing through violent opponents. <em>Ruling:</em> Run a Monstrous Endeavor. Use Protect and Advance actions to reach position 30+. Use Declare Victory special actions to outrun opponents one at a time.  <em>Rules Consulted:</em> <a href="#@monstrousendeavors">Monstrous Endeavors</a>.</td>
+        </tr>
+    </tbody>
   </table>
 </div>
 
