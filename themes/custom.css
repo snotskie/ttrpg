@@ -10,7 +10,8 @@
 */
 
 @import "uncover";
-@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap");
+/* @import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap"); */
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Henny+Penny&display=swap');
 
 /* Font */
 :root {
@@ -201,7 +202,56 @@ a.toc_anchor {
 }
 
 /* title page */
-section.art-left {
+section.title table {
+  font-family: "Bebas Neue", serif;
+  margin-top: 5in;
+}
+section.title table th[scope="row"]{
+  font-weight: normal;
+  font-size: 21px;
+  background: var(--color-foreground);
+  color: var(--color-background);
+  text-align: left;
+  height: 3.75in;
+}
+section.title table h1 {
+  font-weight: normal;
+}
+section.title table p {
+  margin: 0;
+  padding: 0;
+}
+section.title table .humanity {
+  font-size: 3rem;
+}
+section.title table .blessed {
+  font-family: "Henny Penny";
+  font-size: 188px;
+  line-height: 223px;
+}
+section.title table .endeavored {
+  font-family: "Henny Penny";
+  font-size: 120px;
+  line-height: 138px;
+}
+section.title table + p,
+section.title table + p + p,
+section.title table + p + p + p {
+  font-family: "Bebas Neue", serif;
+  font-size: 21px;
+  position: absolute;
+  bottom: .5in;
+}
+section.title table + p {left: .5in}
+section.title table + p + p {
+  left: 50%;
+  width: 2in;
+  margin-left: -1in;
+  text-align: center;
+}
+section.title table + p + p + p {right: .5in}
+
+/* section.art-left {
   padding-left: 1em;
 }
 
@@ -214,11 +264,11 @@ section.title a {
   font-family: "Bebas Neue", serif;
   font-weight: 400;
   font-style: normal;
-  /* color: #efefef; */
+  /* color: #efefef; *
 }
 
 section.title {
-  /* background: linear-gradient(var(--color-guide), var(--color-creation)); */
+  /* background: linear-gradient(var(--color-guide), var(--color-creation)); *
 }
 
 section.title h1 {
@@ -250,7 +300,7 @@ section.title:before {
   color: transparent;
   background-clip: text;
   text-shadow: 11px -14px 0 var(--color-foreground);
-}
+} */
 
 /* ability table style */
 section.ability table,
@@ -327,7 +377,7 @@ section.rules p > strong:first-child,
 section.intro p > strong:first-child {
     background: var(--color-foreground);
     color: var(--color-background);
-    border-radius: .1rem .5rem;
+    border-radius: .5rem .5rem .5rem .1rem;
     padding: 0 .4rem;
 }
 
@@ -335,7 +385,6 @@ section.intro p > strong:first-child {
 ol, ul {
   margin-bottom: 15px;
 }
-
 
 /* b&w for printing */
 section.bw,

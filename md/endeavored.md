@@ -8,59 +8,14 @@ paginate: true
 headingDivider: 3
 ---
 
+<!-- _class: title -->
 <!-- _paginate: skip -->
 <div>
-  <style scoped>
-    @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Henny+Penny&display=swap');
-    table.title_table {
-      font-family: "Bebas Neue", serif;
-      margin-top: 5in;
-    }
-    table.title_table th[scope="row"]{
-      font-weight: normal;
-      font-size: 21px;
-      background: var(--color-foreground);
-      color: var(--color-background);
-      text-align: left;
-      height: 3.75in;
-    }
-    table.title_table h1 {
-      font-weight: normal;
-    }
-    table.title_table p {
-      margin: 0;
-      padding: 0;
-    }
-    table.title_table .humanity {
-      font-size: 3rem;
-    }
-    table.title_table .blessed {
-      font-family: "Henny Penny";
-      font-size: 120px;
-      line-height: 138px;
-    }
-    table.title_table + p,
-    table.title_table + p + p,
-    table.title_table + p + p + p {
-      font-family: "Bebas Neue", serif;
-      font-size: 21px;
-      position: absolute;
-      bottom: .5in;
-    }
-    table.title_table + p {left: .5in}
-    table.title_table + p + p {
-      left: 50%;
-      width: 2in;
-      margin-left: -1in;
-      text-align: center;
-    }
-    table.title_table + p + p + p {right: .5in}
-  </style>
-  <table class="title_table">
+  <table>
     <tbody>
         <tr>
           <th scope="row">An official supplement for <b><i>Humanity, Blessed</i> ⊜</b> that expands the rules for more Endeavors</th>
-          <td><h1><p class="humanity">Humanity,</p><p class="blessed">Endeavored</p></h1></td>
+          <td><h1><p class="humanity">Humanity,</p><p class="endeavored">Endeavored</p></h1></td>
         </tr>
       </tbody>
   </table>
