@@ -150,7 +150,7 @@ window.addEventListener("load", function(){
     // }
   
     MarpShims.autoTheme();
-    MarpShims.anchorHeadings("h1,h2,h3,h4,.ability th");
+    MarpShims.anchorHeadings("h2,h3,h4,.ability th");
 
     MarpShims.scrollToHash();
 });
