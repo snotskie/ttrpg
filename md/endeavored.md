@@ -11,6 +11,7 @@ headingDivider: 3
 <!-- _paginate: skip -->
 <div>
   <style scoped>
+    @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Henny+Penny&display=swap');
     table.title_table {
       font-family: "Bebas Neue", serif;
       margin-top: 5in;
@@ -34,8 +35,9 @@ headingDivider: 3
       font-size: 3rem;
     }
     table.title_table .blessed {
-      font-size: 160px;
-      line-height: 112px;
+      font-family: "Henny Penny";
+      font-size: 120px;
+      line-height: 138px;
     }
     table.title_table + p,
     table.title_table + p + p,
@@ -85,8 +87,6 @@ If you publish your own works that use this system, please clearly label them on
 [snotskie.com](https://snotskie.com)
 
 DOI: 10.5281/zenodo.14673714
-
-Cover typography: Bebas Neue, by Ryoichi Tsunekawa
 
 <button onclick="bwprint()">Ink-Saving Print 🖨️</button> <button onclick="saddleReorderPages(); bwprint()">Saddle Booklet 📖</button> <button onclick="perfectReorderPages(); bwprint()">Perfect Booklet 📕</button>
 
