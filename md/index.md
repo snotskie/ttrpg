@@ -94,13 +94,13 @@ The online version of this book (<https://snotskie.com/ttrpg/>) will automatical
 
 **Genre:** While this game is genre-agnostic, tables can adjust the tone with optional Stats, Setting Ethics, and Endeavors.
 
-**Dice:** For Stats, this game uses a dice array, from $d2$ to $d10$. This game also uses a $d6$ pool for resources called "Blessings." Dice "bump": $1$s are rerolled, which feels like wiping the sweat from your brow and cutting the right wire. A special Stat, History, is unique to each character's Backstory.
+**Dice:** For Stats, this game uses a dice array, from d2 to d10. This game also uses a d6 pool for resources called "Blessings." Dice "bump": 1s are rerolled, which feels like wiping the sweat from your brow and cutting the right wire. A special Stat, History, is unique to each character's Backstory.
 
-**Checks:** Big rolls feel earned. Checks range from $2$ to $20+$, with a fixed success scale. Low success grants "busts," and high success grants "boons." Easy Checks round high failure up to low success, and Hard Checks require multiple successes.
+**Checks:** Big rolls feel earned. Checks range from 2 to 20+, with a fixed success scale. Low success grants "busts," and high success grants "boons." Easy Checks round high failure up to low success, and Hard Checks require multiple successes.
 
 **Sparking:** Two equal Blessings can be spent to "Spark" a roll. This combines two equal Stats, and if either bumps, both bump. This feels like trying to hold the lasers steady when you've crossed the streams.
 
-**Character Creation:** Character creation focuses on character narrative. Lifestyles and Ethics represent your outlook and goals, and Apts and Specs represent what you're good at. Advancement maxes out around $10-15$ sessions.
+**Character Creation:** Character creation focuses on character narrative. Lifestyles and Ethics represent your outlook and goals, and Apts and Specs represent what you're good at. Advancement maxes out around 10-15 sessions.
 
 **Endeavors:** This game has a customizable, accessible "Endeavor" system for representing scenes with prolonged tension, like combat or racing. Endeavors use tracks and buttons: There are no numbers, Stats, or board state to memorize. Everything is narrative or tangible.
 
@@ -180,7 +180,7 @@ Your first task is to decide **which Stat your character is best at**.
 
 As you do, begin to think about the story your character takes on in your mind. **Why are they good at this and not at that?** Why is one important to them and not the other? What are they trying to improve? What do they like getting help from others on?
 
-When you begin the game, most of your Stats are equal, using a $d4$ for their Stat Dice. However, the Stat you chose as your **highest Stat begins the game one die size larger**. In Step Two of character creation your **Lifestyle and Ethic** will also increase your starting Stat Dice.
+When you begin the game, most of your Stats are equal, using a d4 for their Stat Dice. However, the Stat you chose as your **highest Stat begins the game one die size larger**. In Step Two of character creation your **Lifestyle and Ethic** will also increase your starting Stat Dice.
 
 All your Stat Dice may be **upgraded later in the Session Shop**.
 
@@ -268,19 +268,19 @@ At table discretion, one of the following Stats may be added to your game, depen
 
 | 💀 Hardship Stat |
 | --- |
-| *Scope:* Shared narrative elements of the story setting that represent the town's obstacles, troubles, and adversities. *Effect:* This Stat can only be a $d4$. *Setting:* Suspense horror. |
+| *Scope:* Shared narrative elements of the story setting that represent the town's obstacles, troubles, and adversities. *Effect:* This Stat can only be a d4. *Setting:* Suspense horror. |
 
 | 👻 Haunted Stat |
 | --- |
-| *Scope:* Dark narrative elements representing a character's fears, a curse they can't escape, or a malevolent force that haunts them. *Effect:* This Stat begins the game as a $d10$ and can only be decreased in the same way other Stats are normally increased, down to a minimum of a $d2$. Players do not choose to use this Stat. Instead, whenever the thing that haunts them is present (whether the character is aware of its presence or not), after the character has performed a roll, they then roll their Haunted Stat and subtract its value from the original roll's result. *Setting:* Poe style. |
+| *Scope:* Dark narrative elements representing a character's fears, a curse they can't escape, or a malevolent force that haunts them. *Effect:* This Stat begins the game as a d10 and can only be decreased in the same way other Stats are normally increased, down to a minimum of a d2. Players do not choose to use this Stat. Instead, whenever the thing that haunts them is present (whether the character is aware of its presence or not), after the character has performed a roll, they then roll their Haunted Stat and subtract its value from the original roll's result. *Setting:* Poe style. |
 
 | 🌳 Hardy Stat |
 | --- |
-| *Scope:* Shared narrative elements emerging from each session's obstacles and players' combined efforts against the challenges they've faced. *Effect:* This Stat is shared by all players at the table, and it cannot be upgraded by the normal means. Instead, it begins each session as a $d2$. When a player fails a Check, this Stat upgrades to the next die size, to a maximum of a $d10$. Any player may choose to use the Hardy Stat Die instead of one of their other Stat Dice for any roll. When they do, this Stat returns to a $d2$. *Setting:* Coming of age. |
+| *Scope:* Shared narrative elements emerging from each session's obstacles and players' combined efforts against the challenges they've faced. *Effect:* This Stat is shared by all players at the table, and it cannot be upgraded by the normal means. Instead, it begins each session as a d2. When a player fails a Check, this Stat upgrades to the next die size, to a maximum of a d10. Any player may choose to use the Hardy Stat Die instead of one of their other Stat Dice for any roll. When they do, this Stat returns to a d2. *Setting:* Coming of age. |
 
 | ⚫ Haze Stat |
 | --- |
-| *Scope:* Dark narrative elements representing a character's descent into madness or confusion. *Effect:* This die begins the game as a $d2$ and only changes when the character fails certain Checks against the ever-present darkness, at which point it increases by one die size. When another character makes an action against this character, that other character may choose to use this character's Haze Stat Die instead of their own usual die for the roll. *Setting:* Psychological horror. |
+| *Scope:* Dark narrative elements representing a character's descent into madness or confusion. *Effect:* This die begins the game as a d2 and only changes when the character fails certain Checks against the ever-present darkness, at which point it increases by one die size. When another character makes an action against this character, that other character may choose to use this character's Haze Stat Die instead of their own usual die for the roll. *Setting:* Psychological horror. |
 
 ### Stat Dice
 <!-- _class: rules -->
@@ -289,9 +289,9 @@ Each of a character's Stats is represented by a Stat Die.
 
 In general:
 
-**Die Sizes:** A Stat Die can be one of five sizes, from $d2$ to $d10$, as described in the Stat Dice Notation table below.
+**Die Sizes:** A Stat Die can be one of five sizes, from d2 to d10, as described in the Stat Dice Notation table below.
 
-**Stat Dice "Bump":** Stat Dice in this game "bump." This means that when you roll a $1$ on a Stat Die, roll it again and add the new result to the previous result. As long as you continue to roll a $1$ on the die, you continue to roll again and add this way. Success without bumping represents your natural or trained ability, and success with bumping represents your extra determination or focus on the action.
+**Stat Dice "Bump":** Stat Dice in this game "bump." This means that when you roll a 1 on a Stat Die, roll it again and add the new result to the previous result. As long as you continue to roll a 1 on the die, you continue to roll again and add this way. Success without bumping represents your natural or trained ability, and success with bumping represents your extra determination or focus on the action.
 
 **Balanced Stats:** Stats are "balanced" if they use the same size Stat Die.
 
@@ -299,9 +299,9 @@ In general:
 
 Also note:
 
-**Bumping Dice Groups:** Some effects will ask you to roll a group of dice, denoted such as $2d6$. When rolling a group of dice, if you roll a $1$ on either die, then you roll all dice in the group again and add to the previous result. And as long as you continue to roll a $1$ on either die, you continue to roll the group again and add this way.
+**Bumping Dice Groups:** Some effects will ask you to roll a group of dice, denoted such as 2d6. When rolling a group of dice, if you roll a 1 on either die, then you roll all dice in the group again and add to the previous result. And as long as you continue to roll a 1 on either die, you continue to roll the group again and add this way.
 
-**Explicit Dice Grouping Only:** Note, $2d6$ is different from $1d6+1d6$. Only when an effect explicitly groups dice together are they considered a group for bumping. For example, both dice of $2d6$ are rerolled when either rolls a $1$. However, the dice of $1d6+1d6$ are considered separate groups, so rolling a $1$ on one of the dice only affects that one die.
+**Explicit Dice Grouping Only:** Note, 2d6 is different from 1d6+1d6. Only when an effect explicitly groups dice together are they considered a group for bumping. For example, both dice of 2d6 are rerolled when either rolls a 1. However, the dice of 1d6+1d6 are considered separate groups, so rolling a 1 on one of the dice only affects that one die.
 
 <div>
   <h4>
@@ -310,11 +310,11 @@ Also note:
 
   | Notation | Stat Die |
   | -------- | -------- |
-  | $d10$ | A ten-sided die. The largest die size in the game. |
-  | $d8$  | An eight-sided die. |
-  | $d6$  | A six-sided die. |
-  | $d4$  | A four-sided die. |
-  | $d2$  | Any of the above dice, treating any odd number as $1$ and any even number as $2$. The smallest die size in the game. |
+  | d10 | A ten-sided die. The largest die size in the game. |
+  | d8  | An eight-sided die. |
+  | d6  | A six-sided die. |
+  | d4  | A four-sided die. |
+  | d2  | Any of the above dice, treating any odd number as 1 and any even number as 2. The smallest die size in the game. |
 </div>
 
 ### Step Two · Choose Lifestyle and Ethic
@@ -445,7 +445,7 @@ The following pages describe rules for **Aptitudes** and **Specializations**. Yo
 
 To help you select your starting Aptitudes, begin to imagine your character. **Have you seen characters like them before?** With that in mind, **select two areas from your Backstory to begin the game "apt" in**. For example: Tying Knots (for a scout), Swordfighting (for a knight), Breathing Fire (for a dragonborn), Reading Legal Documents (for the child of a politician), Acting (for a theater kid), Manipulating Technology (for a hacker), Stunt Driving (for a stunt performer), Friendly Interactions with the Empire (for someone raised in the empire), Unfriendly Interactions with the Rebels (for someone raised in the empire).
 
-If you begin the game with a Stat Die of size $d8$, **select a third** area to begin the game apt in as well.
+If you begin the game with a Stat Die of size d8, **select a third** area to begin the game apt in as well.
 
 You may become apt in more areas or **specialize** your apt areas in the **Session Shop** later to gain **customized effects**.
 
@@ -460,7 +460,7 @@ Characters in this game may have a number of unique effects based on their Aptit
 
 **Specialization Limits:** You may not specialize the same Aptitude more than once or choose the same Specialization more than once.
 
-**Aptitude Ease:** When you perform a Check related enough to your Aptitudes, you may round rolls of $3$ or $4$ up to $5$.
+**Aptitude Ease:** When you perform a Check related enough to your Aptitudes, you may round rolls of 3 or 4 up to 5.
 
 **Aptitude Difficulty:** When another character Attacks you, if the Check is related enough to your Aptitudes, its difficulty is one rank higher.
 
@@ -525,7 +525,7 @@ To perform a Check:
 
   | Difficulty | Effect |
   | ---------- | ------ |
-  | Easy | Round rolls of $3$ or $4$ up to $5$, as though you were apt in the action. |
+  | Easy | Round rolls of 3 or 4 up to 5, as though you were apt in the action. |
   | Normal | *No effect.* |
   | Hard | Perform the roll twice, using a mix of Stats and/or characters working together. If either would fail, the whole Check fails. Boons and busts stack. |
   | Harder | Each difficulty rank past Hard requires an additional roll. |
@@ -538,11 +538,11 @@ To perform a Check:
 
   | Roll | Outcome |
   | ---- | ------- |
-  | $4$ or less | Failure |
-  | $5$, $6$, or $7$ | Minor Success: Check succeeds, with a bust. |
-  | $8$, $9$, or $10$ | Medium Success: Check succeeds. |
-  | $11-19$ | Major Success: Check succeeds, with a boon. The higher the roll, the greater the boon. |
-  | $20+$ | Maximum Success: Check succeeds with an exceptional boon. |
+  | 4 or less | Failure |
+  | 5, 6, or 7 | Minor Success: Check succeeds, with a bust. |
+  | 8, 9, or 10 | Medium Success: Check succeeds. |
+  | 11-19 | Major Success: Check succeeds, with a boon. The higher the roll, the greater the boon. |
+  | 20+ | Maximum Success: Check succeeds with an exceptional boon. |
 </div>
 
 <div>
@@ -550,9 +550,9 @@ To perform a Check:
     Effect <b>X</b> Values
   </h4>
 
-  | $d2$ | $d4$ | $d6$ | $d8$ | $d10$ |
+  | d2 | d4 | d6 | d8 | d10 |
   | ---- | ---- | ---- | ---- | ---- |
-  | $1$ | $1$ | $2$ | $2$ | $3$ |
+  | 1 | 1 | 2 | 2 | 3 |
 </div>
 
 ### Attacks
@@ -583,15 +583,15 @@ In general:
 
 **Pool of Blessings:** You have a pool of Blessings, representing resources you can draw upon when the moment calls.
 
-**Gaining Blessings:** You will be awarded Blessings for good role play, creativity, and setting-specific achievements, according to the Blessing Opportunities table below and either your Ethic or the Setting Ethic (at table discretion). When you gain a Blessing, roll a $d6$ and add that die to your pool of Blessings.
+**Gaining Blessings:** You will be awarded Blessings for good role play, creativity, and setting-specific achievements, according to the Blessing Opportunities table below and either your Ethic or the Setting Ethic (at table discretion). When you gain a Blessing, roll a d6 and add that die to your pool of Blessings.
 
 **Spending Blessings:** When you spend a Blessing, remove it from your pool of Blessings. An effect may require you to spend a Blessing of at least a certain size or multiple Blessings at the same time. The Blessing Notation table below provides examples of how these are notated.
 
-**Blessings Bump:** Like your Stat Dice, Blessings also bump, but in a slightly different way. When you roll a $1$ on a Blessing, instead of rolling again to increase the value of the roll, gain an additional Blessing. As long as you continue to roll a $1$ this way, you continue to gain an additional Blessing.
+**Blessings Bump:** Like your Stat Dice, Blessings also bump, but in a slightly different way. When you roll a 1 on a Blessing, instead of rolling again to increase the value of the roll, gain an additional Blessing. As long as you continue to roll a 1 this way, you continue to gain an additional Blessing.
 
 **Gain One at a Time:** If you gain multiple Blessings from a single effect, gain each of those dice separately. They do not form a group for the purposes of bumping.
 
-**Blessing Deck:** You may use a large deck of cards numbered $1$ through $6$ to represent Blessings instead of dice. This can help if you want Blessings to be more legible or if you have children, pets, or a table prone to being knocked into.
+**Blessing Deck:** You may use a large deck of cards numbered 1 through 6 to represent Blessings instead of dice. This can help if you want Blessings to be more legible or if you have children, pets, or a table prone to being knocked into.
 
 <div>
   <h4>
@@ -600,12 +600,12 @@ In general:
 
   | Notation | Blessing Dice |
   | -------- | ------------- |
-  | ⑥ | A Blessing worth $6$. The largest Blessing in the game. |
-  | ② | A Blessing worth $2$ or more. |
-  | ① | A Blessing worth $1$ or more. The smallest Blessing in the game. |
-  | ②② | Two Blessings each worth $2$ or more. |
-  | ①① | Two Blessings each worth $1$ or more. |
-  | ① $\times 4$ | Four Blessings each worth $1$ or more. |
+  | ⑥ | A Blessing worth 6. The largest Blessing in the game. |
+  | ② | A Blessing worth 2 or more. |
+  | ① | A Blessing worth 1 or more. The smallest Blessing in the game. |
+  | ②② | Two Blessings each worth 2 or more. |
+  | ①① | Two Blessings each worth 1 or more. |
+  | ① × 4 | Four Blessings each worth 1 or more. |
   | ⊜⊜ | Two Blessings of the same worth. |
 </div>
 
@@ -656,7 +656,7 @@ Characters may spend their Blessings to Help one another succeed Checks.
 To provide Help:
 
 1. **Help Cost:** Once per Check you may spend ① to Help another character.
-2. **Help Bonus:** Add half the value of the spent Blessing to the roll, rounded down, to a minimum of $1$. If the Check effect uses the <b>X</b> symbol, you may increase <b>X</b> instead.
+2. **Help Bonus:** Add half the value of the spent Blessing to the roll, rounded down, to a minimum of 1. If the Check effect uses the <b>X</b> symbol, you may increase <b>X</b> instead.
 3. **Help Bust:** Teamwork makes the dream work, but it also complicates the situation. Regardless of the Check's result, it gains an additional bust.
 
 </div>
@@ -680,7 +680,7 @@ A pair of balanced Stats can be "Sparked." Sparks are what allow characters to p
 
 In general, Spark rolls work by grouping Stat Dice and rolling them, increasing the odds of bumping. To perform a Spark roll:
 
-1. **Spark a Roll:** Before rolling, you may spend ⊜⊜ to instead combine and roll the dice of two balanced Stats as a single group, such as $2d6$ formed from two Stats that use a $d6$. When either die bumps, both bump.
+1. **Spark a Roll:** Before rolling, you may spend ⊜⊜ to instead combine and roll the dice of two balanced Stats as a single group, such as 2d6 formed from two Stats that use a d6. When either die bumps, both bump.
 2. **Apply Usual Effects:** Effects that apply to either of the Stats used in the Spark roll also apply to the Spark roll itself.
 
 </div>
@@ -705,7 +705,7 @@ Some upgrade options in the Session Shop describe effects that use one or more t
 
 **Recharge:** Some effects list a recharge Blessing cost. Once activated, these effects cannot be activated again until the cost is paid.
 
-**Ignite:** Lifestyle upgrades Ignite one or two of your Stats. When you Spark a roll using an Ignited Stat, you may round it from $6$ or $7$ up to $8$.
+**Ignite:** Lifestyle upgrades Ignite one or two of your Stats. When you Spark a roll using an Ignited Stat, you may round it from 6 or 7 up to 8.
 
 **Bank:** Ethic upgrades bank boons or busts. When you bank a boon or a bust, set it aside instead of resolving its impacts on the narrative. Track the number of boons or busts you've banked, as well as which effects you banked them through, as such effects will describe ways you can then spend them. If multiple effects would bank the same boon or bust, resolve which one applies at table discretion.
 
@@ -817,7 +817,7 @@ Endeavors use "tracks" to record character positions, scores, progress towards g
 
 In general:
 
-**Movement:** Tracks begin at $0$ and go up by whole numbers as high as needed. The Endeavor's setup instructions will describe where characters begin, and its action options will describe how characters move.
+**Movement:** Tracks begin at 0 and go up by whole numbers as high as needed. The Endeavor's setup instructions will describe where characters begin, and its action options will describe how characters move.
 
 **Group Movement:** If a group moves together an amount, they only move a total of that amount. Unless the Endeavor specifies otherwise, how the group distributes this movement among its members is up to the group to decide: they may distribute the movement evenly, give it all to one member, or any other arrangement they agree on.
 
@@ -885,9 +885,9 @@ These are performed like any other Endeavor, with the following adjustments, act
 
 **Monstrosities:** Your opponents are "monstrosities," which are characters as usual but with a Starting Position (SP) representing how hard they are to remove from the Endeavor and a number of tags that affect their actions and buttons.
 
-**Setup:** You and your "allies" begin at position $0$. If an opponent has an SP of $10 (3)$, for example, they begin at position $10$ and add a Recovery button $3$ below that. All opponents also add a Defeat button at position $0$.
+**Setup:** You and your "allies" begin at position 0. If an opponent has an SP of 10 (3), for example, they begin at position 10 and add a Recovery button 3 below that. All opponents also add a Defeat button at position 0.
 
-**Goal:** Move all your opponents to position $0$ before they can give you three Wound buttons in a row.
+**Goal:** Move all your opponents to position 0 before they can give you three Wound buttons in a row.
 
 **Wounds:** When you are "wounded," gain a Wound button at the first position at or above your current track position without one already.
 
@@ -1040,7 +1040,7 @@ These are performed like any other Endeavor, with the following adjustments, act
 
 **Speed and Acceleration:** The symbol <b>X</b> represents your "acceleration" for the round, while your temporary blessings represent your overall "speed."
 
-**Setup:** All racers begin at position $0$.
+**Setup:** All racers begin at position 0.
 
 **Goal:** Be the first to reach the finish line or the last one standing.
 
@@ -1092,9 +1092,9 @@ At the end of each session, you receive one free Stat Upgrade for your character
 | Stat Upgrade `One Free` |
 | --- |
 | *Effect:* Upgrade a single Stat's die one size. |
-| *Limits:* You may have at most two Stat Dice of size $d10$ and at most three of size $d8$. |
-| *Purchase More:* You may receive an additional Stat Upgrade by spending ①①① or by downgrading one of your Stat Dice from a $d4$ to a $d2$. You may purchase additional Stat Upgrades as many times as you want and can pay for. |
-| *Other Upgrades:* When you upgrade a Stat Die to a $d6$, $d8$, or $d10$ you may receive one upgrade with the `d6`, `d8`, or `d10` tag, respectively. |
+| *Limits:* You may have at most two Stat Dice of size d10 and at most three of size d8. |
+| *Purchase More:* You may receive an additional Stat Upgrade by spending ①①① or by downgrading one of your Stat Dice from a d4 to a d2. You may purchase additional Stat Upgrades as many times as you want and can pay for. |
+| *Other Upgrades:* When you upgrade a Stat Die to a d6, d8, or d10 you may receive one upgrade with the `d6`, `d8`, or `d10` tag, respectively. |
 
 | Backstory Upgrade `d6` |
 | --- |
@@ -1114,7 +1114,7 @@ At the end of each session, you receive one free Stat Upgrade for your character
 
 | Gains Upgrade `d10` |
 | ------------ |
-| *Effect:* One thing you have gained improves to an exceptional quality, such as an item, information, or alliance. When performing Checks related enough to it, you may round rolls of $6$ or $7$ up to $8$. |
+| *Effect:* One thing you have gained improves to an exceptional quality, such as an item, information, or alliance. When performing Checks related enough to it, you may round rolls of 6 or 7 up to 8. |
 
 | Lifestyle Upgrade `d10` |
 | --- |
@@ -1201,11 +1201,11 @@ At the end of each session, you receive one free Stat Upgrade for your character
 
 | Analytical Specialization |
 | --- |
-| *Effect:* Twice per session, you may provide Help by rolling four $d6$ and grouping those dice into two piles of two. If addition or multiplication could make the piles equal, increase the result of the roll you are Helping by $+5$. For example, $1$, $1$, $1$, and $2$, could be grouped this way as $1×2=1+1$. |
+| *Effect:* Twice per session, you may provide Help by rolling four d6 and grouping those dice into two piles of two. If addition or multiplication could make the piles equal, increase the result of the roll you are Helping by +5. For example, 1, 1, 1, and 2, could be grouped this way as 1×2=1+1. |
 
 | Ascendant Specialization |
 | --- |
-| *Effect:* You may perform a non-violent Spark roll using $3$ Stat Dice, so long as those Stats are balanced, each use a $d8$ or larger, and you pay double the Blessing cost as usual. |
+| *Effect:* You may perform a non-violent Spark roll using 3 Stat Dice, so long as those Stats are balanced, each use a d8 or larger, and you pay double the Blessing cost as usual. |
 
 | Attentive Specialization |
 | --- |
@@ -1229,7 +1229,7 @@ At the end of each session, you receive one free Stat Upgrade for your character
 
 | Critical Specialization |
 | --- |
-| *Effect:* During Endeavors, when you roll $10$ or more attacking an opponent, they spend an unspent Stat at random. *Recharge:* ②. |
+| *Effect:* During Endeavors, when you roll 10 or more attacking an opponent, they spend an unspent Stat at random. *Recharge:* ②. |
 
 <!-- | Delegated Specialization |
 | --- |
@@ -1253,7 +1253,7 @@ At the end of each session, you receive one free Stat Upgrade for your character
 
 | Friendly Specialization |
 | --- |
-| *Effect:* You gain access to a creature companion, mechanical companion, or similar companion of your choice, within reason. The companion uses a $d6$ for all Stats and has its own Backstory and Aptitudes. It also has an Aptitude Value of $0-3$ for each Aptitude, totaling $8$, and if an Aptitude has an Aptitude Value of $3$ it is considered specialized. At the start of each session, for each Aptitude, the companion gains a number of temporary Blessings equal to its Aptitude Value for that Aptitude, which it may only spend to Help itself or others on Checks related enough to that Aptitude. Unspent temporary Blessings disappear at the end of the session. If the companion is lost, stolen, destroyed, or you lose its loyalty, replacing it may require time and effort. |
+| *Effect:* You gain access to a creature companion, mechanical companion, or similar companion of your choice, within reason. The companion uses a d6 for all Stats and has its own Backstory and Aptitudes. It also has an Aptitude Value of 0-3 for each Aptitude, totaling 8, and if an Aptitude has an Aptitude Value of 3 it is considered specialized. At the start of each session, for each Aptitude, the companion gains a number of temporary Blessings equal to its Aptitude Value for that Aptitude, which it may only spend to Help itself or others on Checks related enough to that Aptitude. Unspent temporary Blessings disappear at the end of the session. If the companion is lost, stolen, destroyed, or you lose its loyalty, replacing it may require time and effort. |
 
 | Harmonious Specialization |
 | --- |
@@ -1261,7 +1261,7 @@ At the end of each session, you receive one free Stat Upgrade for your character
 
 | Helpful Specialization |
 | --- |
-| *Effect:* Blessings you spend to Help another character are worth $1$ more, to a maximum of $6$. |
+| *Effect:* Blessings you spend to Help another character are worth 1 more, to a maximum of 6. |
 
 | Imposing Specialization |
 | --- |
@@ -1277,7 +1277,7 @@ At the end of each session, you receive one free Stat Upgrade for your character
 
 | Mischievous Specialization |
 | --- |
-| *Effect:* When another character would succeed a Check, you may distract them using a thing you have gained, such as an item, information, or alliance. If you do, modify that character's result by $-3$, possibly turning their success into a failure. *Recharge:* ⑤. |
+| *Effect:* When another character would succeed a Check, you may distract them using a thing you have gained, such as an item, information, or alliance. If you do, modify that character's result by -3, possibly turning their success into a failure. *Recharge:* ⑤. |
 
 <!-- | Perceptive Specialization |
 | --- |
@@ -1297,7 +1297,7 @@ At the end of each session, you receive one free Stat Upgrade for your character
 
 | Rousing Specialization |
 | --- |
-| *Effect:* Once per session, when your Blessings have a total combined worth of at least $10$, you may share a speech, story, or information related enough to your Ethic. Each other character who hears this gains a Blessing. |
+| *Effect:* Once per session, when your Blessings have a total combined worth of at least 10, you may share a speech, story, or information related enough to your Ethic. Each other character who hears this gains a Blessing. |
 
 | Self-Accepted Specialization |
 | --- |
@@ -1305,7 +1305,7 @@ At the end of each session, you receive one free Stat Upgrade for your character
 
 | Shameless Specialization |
 | --- |
-| *Effect:* Once per session, when your Blessings have a total combined worth of at least $10$, you may perform a joke, dance, or stunt related enough to your Lifestyle. Each other character who witnesses this becomes Uncool. |
+| *Effect:* Once per session, when your Blessings have a total combined worth of at least 10, you may perform a joke, dance, or stunt related enough to your Lifestyle. Each other character who witnesses this becomes Uncool. |
 
 | Shrouded Specialization |
 | --- |
@@ -1325,7 +1325,7 @@ At the end of each session, you receive one free Stat Upgrade for your character
 
 | Tireless Specialization |
 | --- |
-| *Effect:* When you gain this Specialization, choose a Stat. During Endeavors, you may use the chosen Stat as your Action Die even while it is spent, except its Stat Die is replaced with a $d6$ or stays its original size, whichever is smaller. |
+| *Effect:* When you gain this Specialization, choose a Stat. During Endeavors, you may use the chosen Stat as your Action Die even while it is spent, except its Stat Die is replaced with a d6 or stays its original size, whichever is smaller. |
 
 | Vibe Specialization |
 | --- |
@@ -1337,7 +1337,7 @@ At the end of each session, you receive one free Stat Upgrade for your character
 
 | Zealous Specialization |
 | --- |
-| *Effect:* During Endeavors, when your Action Die is in the scope of Head or Heart, as an action you may have you and up to <b>X</b> allies each gain a Zeal button $1$ below your current track positions. *Recharge:* ④. **Zeal button:** *Type:* Personal. *Activation:* Activated when you move over it. *Effect:* End your movement, remove this button, and immediately Attack a nearby opponent, even if you have already acted this round. |
+| *Effect:* During Endeavors, when your Action Die is in the scope of Head or Heart, as an action you may have you and up to <b>X</b> allies each gain a Zeal button 1 below your current track positions. *Recharge:* ④. **Zeal button:** *Type:* Personal. *Activation:* Activated when you move over it. *Effect:* End your movement, remove this button, and immediately Attack a nearby opponent, even if you have already acted this round. |
 
 ## Character Sheet
 <!-- _class: major center -->

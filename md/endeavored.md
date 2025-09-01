@@ -55,9 +55,9 @@ DOI: 10.5281/zenodo.14673714
 ### Using d20s
 <!-- _class: guide -->
 
-*Humanity, Blessed* only uses dice of size $d2$ through $d10$. However, sometimes you may want to use a $d20$ instead. Perhaps you've collected a fun set of $d20$s, you're controlling many characters at once, or you don't want to reveal NPC Stat Dice sizes.
+*Humanity, Blessed* only uses dice of size d2 through d10. However, sometimes you may want to use a d20 instead. Perhaps you've collected a fun set of d20s, you're controlling many characters at once, or you don't want to reveal NPC Stat Dice sizes.
 
-Whatever the case, you may use the $d20$ Conversion table below to approximate this game's dice. Note how $d20$ values are converted for the $d6$ and $d8$, which allow it to behave within about 5% of those dice.
+Whatever the case, you may use the d20 Conversion table below to approximate this game's dice. Note how d20 values are converted for the d6 and d8, which allow it to behave within about 5% of those dice.
 
 <div>
   <h4>
@@ -197,7 +197,7 @@ Some scenes call for something between a Monstrous Endeavor and a Racing Endeavo
 
 These can be performed like a Monstrous Endeavor, with the following adjustments:
 
-**Goal:** Move all your opponents to position $0$ before they can complete their scheme or foil your plans.
+**Goal:** Move all your opponents to position 0 before they can complete their scheme or foil your plans.
 
 **Charge Leader:** Before the first round, elect a "charge leader" from among you and your allies. Only the charge leader and the opponents are considered for determining who takes special actions.
 
@@ -237,7 +237,7 @@ These are performed like any other Endeavor, with the following adjustments, act
 
 **The Eye:** The opposing side is represented by the "Eye." When the Endeavor begins, the Eye is in "warry mode," on the lookout for you and your fellow "rogues." However, once the Eye has been alerted, it will enter the much more dangerous "wake mode." For the sake of rules, the Eye is a character, but it has only a single Watch Stat, has no track position, it cannot be Attacked directly, and its Watch Stat is never spent.
 
-**Setup:** You and your fellow rogues begin at position $1$. At the top of the first round, the lay of the land will be provided at table discretion for the guarded area, including any rooms, halls, obstacles to climb or hide behind, locking and security mechanisms, and so on. The Eye's defenses in those areas are represented by Alarm buttons, actions the rogues need to complete are represented by Objective buttons, exit points are represented by Escape buttons, and places safe from danger are represented by Sanctuary buttons. As the Endeavor progresses, additional areas may become available, each with their own track and lay of the land.
+**Setup:** You and your fellow rogues begin at position 1. At the top of the first round, the lay of the land will be provided at table discretion for the guarded area, including any rooms, halls, obstacles to climb or hide behind, locking and security mechanisms, and so on. The Eye's defenses in those areas are represented by Alarm buttons, actions the rogues need to complete are represented by Objective buttons, exit points are represented by Escape buttons, and places safe from danger are represented by Sanctuary buttons. As the Endeavor progresses, additional areas may become available, each with their own track and lay of the land.
 
 **Goal:** Remove all Objective buttons and escape without alerting the Eye.
 
