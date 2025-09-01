@@ -190,6 +190,17 @@ Whatever the case, you may use the d20 Conversion table below to approximate thi
 ## Endeavors
 <!-- _class: center major rules -->
 
+### Multiple Tracks
+<!-- _class: rules -->
+
+Some Endeavors are complex, spanning a large field or pulling the players and their allies in different directions, like when vampires attack two parts of the city at once. Such situations can be represented with multiple tracks.
+
+**Nearby Influence Only:** You and your effects can only interact with characters in the same track as you.
+
+**Changing Tracks:** As an action, you may change tracks. Doing so resets your position to 0.
+
+**All Tracks Connected:** Regardless of narrative distance, for simplicity all tracks are equally "connected." You may change from any track to any other track with a single action.
+
 ### ⏩ Rush Endeavors
 <!-- _class: rules -->
 
