@@ -424,12 +424,9 @@ section.bw.rules li > strong:first-child,
 section.bw.intro li > strong:first-child,
 section.bw.rules p > strong:first-child,
 section.bw.intro p > strong:first-child {
-    background: white;
-    color: black;
-    border-top: .2rem solid black;
-    /* border-bottom: .2rem solid black; */
-    border-radius: .1rem .5rem;
-    padding: 0 .4rem;
+  background: white;
+  color: black;
+  border: .1rem solid black;
 }
 
 section.bw th[scope="row"][rowspan] {
