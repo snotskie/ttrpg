@@ -823,7 +823,7 @@ In general:
 
 **Buttons:** Endeavors also add a number of buttons to the track. There are two types of buttons, personal and global. Personal buttons can only be activated by the character associated with them, whereas global buttons can be activated by any character. If an Endeavor uses buttons, it will describe how each is activated and the effect that happens as a result. Additionally, buttons may have a passive effect that applies while the button is present or a cumulative effect that activates only once if multiple instances of that effect would activate at the same time.
 
-**Printable:** A printable track for six characters and ten positions is below.
+**Printable:** A printable track for seven characters and ten positions is below.
 
 **Community:** For more printable tracks and other Endeavor resources, visit <https://github.com/snotskie/ttrpg/discussions>.
 
@@ -835,29 +835,41 @@ In general:
     table.track_table td:nth-child(5){background: var(--color-ability-2)}
     table.track_table td:nth-child(6){background: var(--color-guide-2)}
     table.track_table td:nth-child(7){background: var(--color-rules-2)}
+    table.track_table td:nth-child(8){background: var(--color-rules)}
     table.track_table td:empty {
-      height: 22mm;
-      width: 22mm;
-      border-style: solid;
+      height: 23mm;
+      width: 23mm;
+      padding: 0;
       border-color: var(--color-background);
+      border-style: solid;
       border-width: 1mm 1mm;
     }
     table.track_table tr:nth-child(1) td {
       border-radius: 5mm 5mm 0 0;
     }
+    section.bw table.track_table td {
+      background: var(--color-background);
+      border-color: var(--color-foreground);
+    }
+    section.bw table.track_table {
+      border-collapse: unset;
+    }
+    section.bw table.track_table th {
+      border: 0;
+    }
   </style>
   <table class="track_table">
     <tbody>
-      <tr> <th scope="row">1</th> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> </tr>
-      <tr> <th scope="row">2</th> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> </tr>
-      <tr> <th scope="row">3</th> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> </tr>
-      <tr> <th scope="row">4</th> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> </tr>
-      <tr> <th scope="row">5</th> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> </tr>
-      <tr> <th scope="row">6</th> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> </tr>
-      <tr> <th scope="row">7</th> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> </tr>
-      <tr> <th scope="row">8</th> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> </tr>
-      <tr> <th scope="row">9</th> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> </tr>
-      <tr> <th scope="row">10</th> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> </tr>
+      <tr> <th scope="row">1</th> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> </tr>
+      <tr> <th scope="row">2</th> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> </tr>
+      <tr> <th scope="row">3</th> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> </tr>
+      <tr> <th scope="row">4</th> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> </tr>
+      <tr> <th scope="row">5</th> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> </tr>
+      <tr> <th scope="row">6</th> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> </tr>
+      <tr> <th scope="row">7</th> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> </tr>
+      <tr> <th scope="row">8</th> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> </tr>
+      <tr> <th scope="row">9</th> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> </tr>
+      <tr> <th scope="row">10</th> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> </tr>
     </tbody>
   </table>
 </div>
