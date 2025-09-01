@@ -199,7 +199,7 @@ Some Endeavors are complex, spanning a large field or pulling the players and th
 
 **Changing Tracks:** As an action, you may change tracks. Doing so resets your position to 0.
 
-**All Tracks Connected:** Regardless of narrative distance, for simplicity all tracks are equally "connected." You may change from any track to any other track with a single action.
+**All Tracks are Connected:** Regardless of narrative distance, for simplicity all tracks are equally "connected." You may change from any track to any other track with a single action.
 
 ### ⏩ Rush Endeavors
 <!-- _class: rules -->
