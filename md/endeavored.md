@@ -227,11 +227,11 @@ These can be performed like a Monstrous Endeavor, with the following adjustments
       <tr>
       <tr>
         <th scope="row">Plot Victory</th>
-        <td><code>Special Action</code> Spend all your temporary Blessings and foil the charge leader. Then for each Recovery button your side has activated, add a Scheme button at the first position at or above your current position without one already.</td>
+        <td><code>Special Action</code> Foil the charge leader. Then for each Recovery button your side has activated, add a Scheme button at the first position at or above your current position without one already.</td>
       </tr>
       <tr>
         <th scope="row">Declare Victory</th>
-        <td><code>Special Action</code> If there are 10 or more Scheme buttons in a row, spend all your temporary Blessings and remove all opponents from the Endeavor.</td>
+        <td><code>Special Action</code> If there are 10 or more Scheme buttons in a row, remove all opponents from the Endeavor.</td>
       </tr>
     </tbody>
   </table>
@@ -292,7 +292,7 @@ These are performed like any other Endeavor, with the following adjustments, act
       <tr>
       <tr>
         <th scope="row">Quicken</th>
-        <td><code>Special Action</code> Spend all your temporary Blessings. You and up to <b>X</b> allies may each take an additional action during the next round.</td>
+        <td><code>Special Action</code> You and up to <b>X</b> allies may each take an additional action during the next round.</td>
       </tr>
     </tbody>
   </table>
