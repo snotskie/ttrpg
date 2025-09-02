@@ -779,7 +779,7 @@ Endeavors are carried out over rounds in which characters attempt to drive the n
 Rounds are carried out as follows:
 
 1. **Choose Action Die:** Before each round, choose a Stat to be your Action Die for the actions you plan to take. The narrative for your action does not have to be fully formed.
-2. **Gain Blessings:** Gain <b>X</b> temporary Blessings, which disappear at the end of the Endeavor.
+2. **Gain Blessings:** Gain <b>X</b> temporary Blessings, which disappear at the end of the Endeavor or whenever you perform a special action.
 3. **Follow Turn Order:** Turns for the round  start with whoever has the least temporary Blessings, resolving ties at table discretion. Also at table discretion, turns move clockwise, counterclockwise, or "popcorn," where characters choose who acts after them.
 4. **Spend Action Die:** After each round, the Stat chosen for your Action Die is "spent." While a Stat is spent, it can't be an Action Die or Spark. You may skip the next round to instead regain all spent Stats.
 
@@ -970,11 +970,11 @@ These are performed like any other Endeavor, with the following adjustments, act
       <tr>
       <tr>
         <th scope="row">Perform Combo</th>
-        <td><code>Special Action</code> Move up by your number of temporary Blessings, then spend all your temporary Blessings. Then you and your allies may move down any total amount. If you do, choose opponents to move down by a total of the amount moved this way.</td>
+        <td><code>Special Action</code> Move up by <b>X</b>. Then you and your allies may move down any total amount. If you do, choose opponents to move down by a total of the amount moved this way.</td>
       </tr>
       <tr>
         <th scope="row">Declare Victory</th>
-        <td><code>Special Action</code> If you are at position 30 or higher, spend all your temporary Blessings and choose an opponent to remove from the Endeavor.</td>
+        <td><code>Special Action</code> If you are at position 30 or higher, choose an opponent to remove from the Endeavor.</td>
       </tr>
     </tbody>
   </table>
@@ -989,11 +989,11 @@ These are performed like any other Endeavor, with the following adjustments, act
       <tr>
       <tr>
         <th scope="row">Perform Combo</th>
-        <td><code>Special Action</code> Choose <b>X</b> opponents. Then spend all your temporary Blessings, wound the chosen opponents, and any opponents with three or more Wound buttons in a row are removed from the Endeavor.</td>
+        <td><code>Special Action</code> Wound up to <b>X</b> opponents, then any opponents with three or more Wound buttons in a row are removed from the Endeavor.</td>
       </tr>
       <tr>
         <th scope="row">Declare Victory</th>
-        <td><code>Special Action</code> If there are 10 or more Scheme buttons in a row, spend all your temporary Blessings and choose an opponent to remove from the Endeavor.</td>
+        <td><code>Special Action</code> If there are 10 or more Scheme buttons in a row, choose an opponent to remove from the Endeavor.</td>
       </tr>
     </tbody>
   </table>
