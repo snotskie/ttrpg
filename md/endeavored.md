@@ -50,10 +50,8 @@ DOI: 10.5281/zenodo.14673714
 <!-- _class: toc -->
 
 ## Tips and Tricks
-<!-- _class: center major guide -->
-
-### Using d20s
-<!-- _class: guide -->
+<!-- _class: major guide -->
+<h3>Using d20s</h3>
 
 *Humanity, Blessed* only uses dice of size d2 through d10. However, sometimes you may want to use a d20 instead. Perhaps you've collected a fun set of d20s, you're controlling many characters at once, or you don't want to reveal NPC Stat Dice sizes.
 
@@ -188,10 +186,8 @@ Whatever the case, you may use the d20 Conversion table below to approximate thi
 </div>
 
 ## Endeavors
-<!-- _class: center major rules -->
-
-### Multiple Tracks
-<!-- _class: rules -->
+<!-- _class: major rules -->
+<h3>Multiple Tracks</h3>
 
 Some Endeavors are complex, spanning a large field or pulling the players and their allies in different directions, like when vampires attack two parts of the city at once. Such situations can be represented with multiple tracks.
 
@@ -379,12 +375,9 @@ These are performed like any other Endeavor, with the following adjustments, act
 | *Effect:* Once per Stealth Endeavor as an action, you may use your Action Die to perform a Check to find or create a safe place. On a success, add a temporary Sanctuary button at your location, removed <b>X</b> rounds from now at the end of the round. |
 
 ## Index
-<!-- _class: major center -->
+<!-- _class: major index abix -->
 <!-- _paginate: skip -->
-
-### Options
-<!-- _paginate: skip -->
-<!-- _class: index abix -->
+<h3>Options</h3>
 
 ### Tables
 <!-- _paginate: skip -->
