@@ -352,7 +352,7 @@ These are performed like any other Endeavor, with the following adjustments, act
         <th scope="row">Objective</th><td><i>Type:</i> Global. <i>Activation:</i> None. <i>Effect:</i> None.</td>
       </tr>
       <tr>
-        <th scope="row">Escape</th><td><i>Type:</i> Global. <i>Activation:</i> Activated when you move over it. <i>Effect:</i> You may safely remove yourself from the Endeavor.</td>
+        <th scope="row">Escape</th><td><i>Type:</i> Global. <i>Activation:</i> Activated when you move onto it. <i>Effect:</i> You may safely remove yourself from the Endeavor.</td>
       </tr>
       <tr>
         <th scope="row">Sanctuary</th><td><i>Type:</i> Global. <i>Activation:</i> Activated when you perform an Attack while on or next to it. <i>Effect:</i> Remove this button. <i>Passive:</i> You do not activate Alarm buttons while on or next to this button.</td>
