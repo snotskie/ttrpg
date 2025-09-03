@@ -69,65 +69,71 @@ section.major h2 {
   padding: 0.1in;
 }
 
-section.creation,
-div.creation {
-  background-image: repeating-linear-gradient(
-    90deg,
-    var(--color-creation) 0,
-    var(--color-creation-2) 0.25in,
-    var(--color-background) 0.25in,
-    var(--color-background)
-  );
-  padding-left: 0.5in;
+/* page type color coding */
+section.creation::before {
+  content: "";
+  position: absolute;
+  top: 1.5in;
+  left: 0;
+  height: 0;
+  width: .25in;
+  border-top: 1.3in solid var(--color-creation);
+  border-bottom: .2in solid var(--color-creation-2);
+  border-radius: 0 1in 1in 0;
 }
 
-section.guide,
-div.guide {
-  background-image: repeating-linear-gradient(
-    90deg,
-    var(--color-guide) 0,
-    var(--color-guide-2) 0.25in,
-    var(--color-background) 0.25in,
-    var(--color-background)
-  );
-  padding-left: 0.5in;
+section.ability::before {
+  content: "";
+  position: absolute;
+  top: 50%;
+  margin-top: -.75in;
+  left: 0;
+  height: .1in;
+  width: .25in;
+  background: var(--color-ability-2);
+  border-top: .7in solid var(--color-ability);
+  border-bottom: .7in solid var(--color-ability);
+  border-radius: 0 1in 1in 0;
 }
 
-section.ability,
-div.ability {
-  background-image: repeating-linear-gradient(
-    90deg,
-    var(--color-ability) 0,
-    var(--color-ability-2) 0.25in,
-    var(--color-background) 0.25in,
-    var(--color-background)
-  );
-  padding-left: 0.5in;
+section.rules::before {
+  content: "";
+  position: absolute;
+  bottom: 1.5in;
+  left: 0;
+  height: 0;
+  width: .25in;
+  border-top: .2in solid var(--color-rules-2);
+  border-bottom: 1.3in solid var(--color-rules);
+  border-radius: 0 1in 1in 0;
 }
 
-section.quick,
-div.quick {
-  background-image: repeating-linear-gradient(
-    90deg,
-    var(--color-quick) 0,
-    var(--color-quick-2) 0.25in,
-    var(--color-background) 0.25in,
-    var(--color-background)
-  );
-  padding-left: 0.5in;
+/* section.quick::before {
+  content: "";
+  position: absolute;
+  top: 2in;
+  left: 0;
+  height: 0;
+  width: .25in;
+  height: .5in;
+  background: var(--color-quick);
+  border-top: .5in solid var(--color-quick-2);
+  border-bottom: .5in solid var(--color-quick-2);
+  border-radius: 0 1in 1in 0;
 }
 
-section.rules,
-div.rules {
-  background-image: repeating-linear-gradient(
-    90deg,
-    var(--color-rules) 0,
-    var(--color-rules-2) 0.25in,
-    var(--color-background) 0.25in,
-    var(--color-background)
-  );
-  padding-left: 0.5in;
-}
+section.guide::before {
+  content: "";
+  position: absolute;
+  top: 2.5in;
+  left: 0;
+  height: .1in;
+  width: .25in;
+  background: var(--color-guide-2);
+  border-top: .7in solid var(--color-guide);
+  border-bottom: .7in solid var(--color-guide);
+  border-radius: 0 1in 1in 0;
+} */
 
 /* cover page buttons */
 button,
@@ -251,57 +257,6 @@ section.title table + p + p {
 }
 section.title table + p + p + p {right: .5in}
 
-/* section.art-left {
-  padding-left: 1em;
-}
-
-section.art-right {
-  padding-right: 1em;
-}
-
-section.title,
-section.title a {
-  font-family: "Bebas Neue", serif;
-  font-weight: 400;
-  font-style: normal;
-  /* color: #efefef; *
-}
-
-section.title {
-  /* background: linear-gradient(var(--color-guide), var(--color-creation)); *
-}
-
-section.title h1 {
-  font-size: 64pt;
-  margin-top: 3in;
-}
-
-section.title p:last-child {
-  position: absolute;
-  bottom: 0.5in;
-  right: 0.5in;
-}
-
-section.title:before {
-  content: "⊜";
-  position: absolute;
-  left: 0;
-  top: 0;
-  height: 100%;
-  width: 50%;
-  line-height: 11in;
-  text-align: center;
-  font-size: 432px;
-  font-family: "Babas Neue", serif;
-  background-image: linear-gradient(
-    var(--color-creation),
-    var(--color-creation-2)
-  );
-  color: transparent;
-  background-clip: text;
-  text-shadow: 11px -14px 0 var(--color-foreground);
-} */
-
 /* ability table style */
 section.ability table,
 section.guideability table {
@@ -393,11 +348,19 @@ section.bw:before {
   --color-foreground: black;
   --color-background: white;
   --color-highlight: black;
-  border-left: none !important;
+  --color-creation: black;
+  --color-guide: black;
+  --color-ability: black;
+  --color-quick: black;
+  --color-rules: black;
+  --color-creation-2: white;
+  --color-guide-2: white;
+  --color-ability-2: white;
+  --color-quick-2: white;
+  --color-rules-2: white;
   background-image: none !important;
   background: var(--color-background) !important;
   color: var(--color-foreground) !important;
-  text-shadow: none;
 }
 
 section.bw:not(.title) {
@@ -406,10 +369,6 @@ section.bw:not(.title) {
 
 section.bw figure {
   background: none !important;
-}
-
-section.bw img.emoji {
-  /*display: none;*/
 }
 
 section.bw code {

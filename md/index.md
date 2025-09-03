@@ -63,30 +63,6 @@ After [*A Poet to His Baby Son*](https://www.poetryfoundation.org/poems/49051/a-
 
 <span></span> Welcome! This game, ***Humanity, Blessed* ⊜**, is a rules-light, semi-crunchy TTRPG system. It is inspired by our favorite stories about what it means to be human, doing goofy, cool, fantastic little human things. This system is designed to provide fun, structured challenges and to use narrative and tactile cues instead of complex sheets and board states.
 
-<div class="bw-hide">
-
-This book uses color-coded pages:
-
-<div class="rules">
-  <p>
-      Rules
-  </p>
-</div>
-
-<div class="creation">
-  <p>
-      Character Creation
-  </p>
-</div>
-
-<div class="ability">
-  <p>
-      Character Options
-  </p>
-</div>
-
-</div>
-
 The online version of this book (<https://snotskie.com/ttrpg/>) will automatically load in light or dark mode to match your operating system preferences. When printed, it uses a large font for easy reading.
 
 ### At a Glance
