@@ -976,7 +976,7 @@ These are performed like any other Endeavor, with the following adjustments, act
   <table>
     <tbody>
       <tr>
-        <th scope="row">Wound</th><td><i>Type:</i> Personal. <i>Activation:</i> Activated when you move over it or begin movement on it. <i>Effect:</i> Decrease your remaining movement by 1, to a minimum of 0.</td>
+        <th scope="row">Wound</th><td><i>Type:</i> Personal. <i>Activation:</i> Activated when you would move off it. <i>Effect:</i> Decrease your remaining movement by 1, to a minimum of 0.</td>
       </tr>
     </tbody>
   </table>
@@ -992,7 +992,7 @@ These are performed like any other Endeavor, with the following adjustments, act
         <th scope="row">Scheme</th><td><i>Type:</i> Global. <i>Activation:</i> None. <i>Effect:</i> None.</td>
       </tr>
       <tr>
-        <th scope="row">Recovery</th><td><i>Type:</i> Personal. <i>Activation:</i> Activated when you move over it. <i>Effect:</i> End your movement, remove this button, and return to your starting position. Then if you have the <code>Revenge</code> tag, use your Action Die to Attack an opponent who caused you to move down this round, even if you have already acted this round. Then at the end of each round, if you have the <code>Unrelenting</code> tag, for each time you've activated a Recovery button, you may use your Action Die to Attack an opponent even if you have already acted this round. <i>Passive:</i> If you have the <code>Horde</code> tag, each time you roll, roll an additional time and ignore the lowest value. If you have the <code>Immunity</code> tag, Attacks against you related enough to your Aptitudes automatically fail.</td>
+        <th scope="row">Recovery</th><td><i>Type:</i> Personal. <i>Activation:</i> Activated when you move onto it. <i>Effect:</i> End your movement, remove this button, and return to your starting position. Then if you have the <code>Revenge</code> tag, use your Action Die to Attack an opponent who caused you to move down this round, even if you have already acted this round. Then at the end of each round, if you have the <code>Unrelenting</code> tag, for each time you've activated a Recovery button, you may use your Action Die to Attack an opponent even if you have already acted this round. <i>Passive:</i> If you have the <code>Horde</code> tag, each time you roll, roll an additional time and ignore the lowest value. If you have the <code>Immunity</code> tag, Attacks against you related enough to your Aptitudes automatically fail.</td>
       </tr>
       <tr>
         <th scope="row">Defeat</th><td><i>Type:</i> Personal. <i>Activation:</i> Activated when you move over it. <i>Effect:</i> End your movement, remove this button, and you are removed from the Endeavor.</td>
@@ -1042,7 +1042,7 @@ These are performed like any other Endeavor, with the following adjustments, act
   <table>
     <tbody>
       <tr>
-        <th scope="row">Terrain</th><td><i>Type:</i> Global. <i>Activation:</i> Activated when you move over it while moving up. <i>Effect:</i> End your movement. <i>Passive:</i> If this button has the <code>Area</code> tag and is the nearest such button at or below your current track position, it limits the Stats you may use for Action Dice.</td>
+        <th scope="row">Terrain</th><td><i>Type:</i> Global. <i>Activation:</i> Activated when you move onto it while moving up. <i>Effect:</i> End your movement. <i>Passive:</i> If this button has the <code>Area</code> tag and is the nearest such button at or below your current track position, it limits the Stats you may use for Action Dice.</td>
       </tr>
       <tr>
         <th scope="row">Fatigue</th><td><i>Type:</i> Personal. <i>Activation:</i> Activated at the end of the round, before special actions. <i>Culumative Effect:</i> Use your Action Die to perform a Check to remain in the race. This Check is Easy, plus one difficulty rank for each of your Fatigue buttons past the first. On a failure, you are removed from the Endeavor. On a success, remove all your Fatigue buttons. </td>
