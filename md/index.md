@@ -56,10 +56,8 @@ After [*A Poet to His Baby Son*](https://www.poetryfoundation.org/poems/49051/a-
 <!-- _class: toc -->
 
 ## Introduction
-<!-- _class: center major intro -->
-
-### About
-<!-- _class: intro -->
+<!-- _class: major intro -->
+<h3>About</h3>
 
 <span></span> Welcome! This game, ***Humanity, Blessed* ⊜**, is a rules-light, semi-crunchy TTRPG system. It is inspired by our favorite stories about what it means to be human, doing goofy, cool, fantastic little human things. This system is designed to provide fun, structured challenges and to use narrative and tactile cues instead of complex sheets and board states.
 
@@ -128,10 +126,8 @@ A lot has been said and written by others in the tabletop community about how to
 I hope you can take the rules that follow and run with them. I hope playing this game brings you joy and that you can tell some fun stories.
 
 ## Making Your First Character
-<!-- _class: center major creation -->
-
-### Character Sheets
-<!-- _class: creation -->
+<!-- _class: major creation -->
+<h3>Character Sheets</h3>
 
 <div>
 
@@ -462,10 +458,8 @@ Then, for example, you'll track a list of items that you typically carry with yo
 Similarly, you'll track and perform Checks to **gain, maintain, create, trade in, and already have** all kinds of "things gained" beyond just items, like information and alliances.
 
 ## Playing the Game
-<!-- _class: center major rules -->
-
-### More About Stat Dice
-<!-- _class: rules -->
+<!-- _class: major rules -->
+<h3>More About Stat Dice</h3>
 
 The Stats in this game cover a range of scopes already. However, sometimes it is appropriate to bend a Stat into the scope of a different Stat, such as hacking into the mainframe (Head) by hitting the computer just right (Hand).
 
@@ -732,10 +726,8 @@ In general however:
 </div>
 
 ## Endeavors
-<!-- _class: center major rules -->
-
-### What is an Endeavor?
-<!-- _class: rules -->
+<!-- _class: major rules -->
+<h3>What is an Endeavor?</h3>
 
 Sometimes, the player characters will need to race to be the first to reach some destination, to be the first to acheive some action, to escape without being caught, to advance an objective before time runs out, or so on! Many such scenes where the tension is drawn out can be run as Endeavors.
 
@@ -1058,10 +1050,8 @@ These are performed like any other Endeavor, with the following adjustments, act
 </div>
 
 ## Session Shop
-<!-- _class: center major ability -->
-
-### Upgrade Options
-<!-- _class: ability -->
+<!-- _class: major ability -->
+<h3>Upgrade Options</h3>
 
 At the end of each session, you receive one free Stat Upgrade for your character. This may then grant you additional upgrades from the other options described below.
 
@@ -1422,12 +1412,9 @@ At the end of each session, you receive one free Stat Upgrade for your character
 </table>
 
 ## Index
-<!-- _class: major center -->
+<!-- _class: major index abix -->
 <!-- _paginate: skip -->
-
-### Options
-<!-- _paginate: skip -->
-<!-- _class: index abix -->
+<h3>Options</h3>
 
 ### Tables
 <!-- _paginate: skip -->
