@@ -795,6 +795,8 @@ In general:
 
 **Community:** For more printable tracks and other Endeavor resources, visit <https://github.com/snotskie/ttrpg/discussions>.
 
+---
+
 <div>
   <style scoped>
     table.track_table td:nth-child(2){background: var(--color-creation)}
