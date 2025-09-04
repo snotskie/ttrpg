@@ -995,7 +995,7 @@ These are performed like any other Endeavor, with the following adjustments, act
         <th scope="row">Recovery</th><td><i>Type:</i> Personal. <i>Activation:</i> Activated when you move onto it. <i>Effect:</i> End your movement, remove this button, and return to your starting position. Then if you have the <code>Revenge</code> tag, use your Action Die to Attack an opponent who caused you to move down this round, even if you have already acted this round. Then at the end of each round, if you have the <code>Unrelenting</code> tag, for each time you've activated a Recovery button, you may use your Action Die to Attack an opponent even if you have already acted this round. <i>Passive:</i> If you have the <code>Horde</code> tag, each time you roll, roll an additional time and ignore the lowest value. If you have the <code>Immunity</code> tag, Attacks against you related enough to your Aptitudes automatically fail.</td>
       </tr>
       <tr>
-        <th scope="row">Defeat</th><td><i>Type:</i> Personal. <i>Activation:</i> Activated when you move over it. <i>Effect:</i> End your movement, remove this button, and you are removed from the Endeavor.</td>
+        <th scope="row">Defeat</th><td><i>Type:</i> Personal. <i>Activation:</i> Activated when you move onto it. <i>Effect:</i> End your movement, remove this button, and you are removed from the Endeavor.</td>
       </tr>
     </tbody>
   </table>
