@@ -853,7 +853,7 @@ These are performed like any other Endeavor, with the following adjustments, act
 
 **Force and Greatness:** The symbol <b>X</b> represents your "force" for the round, such as force of will, force of strength, or so on. Your temporary blessings represent your accumulated "honor," "might", "coolness," or so on.
 
-**Monstrosities:** Your opponents are "monstrosities," which are characters as usual but with a Starting Position (SP) representing how hard they are to remove from the Endeavor and a number of tags that affect their actions and buttons.
+**Monstrosities:** Your opponents are "monstrosities," which are characters as usual but with a Starting Position (SP) representing how hard they are to remove from the Endeavor and a number of tags that affect their actions and buttons. Monstrosities cannot use unconventional Stats unless they have the `Unique` tag.
 
 **Setup:** You and your "allies" begin at position 0. If an opponent has an SP of 10 (3), for example, they begin at position 10 and add a Recovery button 3 below that. All opponents also add a Defeat button at position 0.
 
