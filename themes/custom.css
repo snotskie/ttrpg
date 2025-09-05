@@ -169,7 +169,7 @@ td:empty {
 }
 
 th[scope="row"] {
-  writing-mode: vertical-rl;
+  writing-mode: sideways-lr;
   text-align: center;
   border: 0;
   border-right: 0.15rem solid var(--color-foreground);
@@ -177,7 +177,6 @@ th[scope="row"] {
   border-bottom: 0 !important;
   padding-top: 1rem;
   padding-bottom: 1rem;
-  transform: rotate(180deg);
 }
 
 th[scope="row"][rowspan] {
