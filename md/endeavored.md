@@ -261,7 +261,7 @@ These are performed like any other Endeavor, with the following adjustments, act
       </tr>
       <tr>
         <th scope="row">Non-violent</th>
-        <td><code>Head/Hand/Heart</code> Use your Action Die to non-violently Attack the Eye's defenses. On a success, steal <b>X</b> temporary Blessings of your choice from it. It then gains a number of new temporary Blessings equal to the amount it lost.</td>
+        <td><code>Head/Hand/Heart</code> Use your Action Die to non-violently Attack the Eye's defenses. On a success, steal <b>X</b> temporary Blessings of your choice from it. It then gains a number of new temporary Blessings equal to the amount it lost, without bumping.</td>
       </tr>
       <tr>
         <th scope="row" colspan="2">Move</th>
