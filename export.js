@@ -40,7 +40,7 @@ for (const source of sources){
         const name = opt.querySelector("thead").textContent.trim();
         const effect = opt.querySelector("tbody").textContent.trim();
         const guid = name.toLowerCase().replaceAll(/[^a-z0-9]/g, "");
-        ex[guid] = {
+        ex.options[guid] = {
             "name": name,
             "effect": effect
         };
