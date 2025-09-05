@@ -50,6 +50,9 @@ jobs:
 
           # The release version
           TAG: ${{ github.event.release.tag_name }}
+      
+      - name: Export JSON
+        run: node export
 
       - name: Upload page artifacts
         uses: actions/upload-pages-artifact@v3
