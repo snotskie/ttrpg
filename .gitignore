@@ -1,6 +1,7 @@
 Manifest.toml
 site/build
 public/*.html
+public/export.json
 node_modules
 shrinkwrap.yaml
 .env

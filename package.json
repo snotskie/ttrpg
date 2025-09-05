@@ -3,12 +3,13 @@
   "version": "0.0.0",
   "author": "snotskie <snotskie@gmail.com>",
   "scripts": {
-    "build": "TAG=`date +v.dev.%F` npx marp --html --template=bare --input-dir ./md -o ./public "
+    "build": "TAG=`date +v.dev.%F` npx marp --html --template=bare --input-dir ./md -o ./public && node export"
   },
   "engines": {
     "node": "16.x"
   },
   "dependencies": {
-    "@marp-team/marp-cli": "^4.1.2"
+    "@marp-team/marp-cli": "^4.1.2",
+    "jsdom": "^26.1.0"
   }
 }
