@@ -959,7 +959,7 @@ These are performed like any other Endeavor, with the following adjustments, act
       <tr>
       <tr>
         <th scope="row">Perform Combo</th>
-        <td><code>Special Action</code> Wound up to <b>X</b> opponents, then any opponents with three or more Wound buttons in a row are removed from the Endeavor.</td>
+        <td><code>Special Action</code> Remove up to <b>X</b> opponents with three Wound buttons in a row from the Endeavor, then wound up to <b>X</b> remaining opponents.</td>
       </tr>
       <tr>
         <th scope="row">Declare Victory</th>
