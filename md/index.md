@@ -1187,10 +1187,6 @@ At the end of each session, you receive one free Stat Upgrade for your character
 | --- |
 | *Effect:* When you visit a place of religious, spiritual, or community importance, you may spend any number of Blessings as a donation or act of service to the place. The more spent this way, the greater a possible later outcome may be, determined at table discretion. |
 
-| Commanding Specialization |
-| --- |
-| *Effect:* During Endeavors, as an action you may choose up to <b>X</b> allies who have not acted yet. They may choose new Stats for their Action Dice. *Recharge:* ③. |
-
 | Coordinated Specialization |
 | --- |
 | *Effect:* When you succeed a Check in the scope of Head or Hand, as part of the same action you may provide another character Help, within reason. |
@@ -1245,7 +1241,7 @@ At the end of each session, you receive one free Stat Upgrade for your character
 
 | Mischievous Specialization |
 | --- |
-| *Effect:* When another character would succeed a Check, you may distract them using a thing you have gained, such as an item, information, or alliance. If you do, modify that character's result by -3, possibly turning their success into a failure. *Recharge:* ⑤. |
+| *Effect:* When another character would succeed a Check, you may distract them using a thing you have gained, such as an item, information, or alliance. If you do, modify that character's result by -3, possibly turning their success into a failure. *Recharge:* ⑥. |
 
 <!-- | Perceptive Specialization |
 | --- |
