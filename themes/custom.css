@@ -70,71 +70,40 @@ section.major h2 {
 }
 
 /* page type color coding */
-section.creation::before {
+section::before {
   content: "";
   position: absolute;
   top: .5in;
-  left: 0;
+  right: 0;
   height: 0;
   width: .2in;
+  border-radius: 1in 0 0 1in;
+}
+section.creation::before {
   border-top: 3.09in solid var(--color-creation);
   border-bottom: 1.91in solid var(--color-creation-2);
-  border-radius: 0 1in 1in 0;
 }
 
 section.rules::before {
-  content: "";
-  position: absolute;
-  top: .5in;
-  left: 0;
-  height: 0;
-  width: .2in;
   border-top: 1.91in solid var(--color-rules-2);
   border-bottom: 3.09in solid var(--color-rules);
-  border-radius: 0 1in 1in 0;
 }
 
 section.ability::before {
-  content: "";
-  position: absolute;
-  top: .5in;
-  left: 0;
   height: 1.55in;
-  width: .2in;
   background: var(--color-ability-2);
   border-top: .95in solid var(--color-ability);
   border-bottom: 2.5in solid var(--color-ability);
-  border-radius: 0 1in 1in 0;
 }
 
 section.guide::before {
-  content: "";
-  position: absolute;
-  top: .5in;
-  left: 0;
   height: 1.55in;
-  width: .2in;
   background: var(--color-guide-2);
   border-top: 2.5in solid var(--color-guide);
   border-bottom: .95in solid var(--color-guide);
-  border-radius: 0 1in 1in 0;
 }
 
-/* section.quick::before {
-  content: "";
-  position: absolute;
-  top: 2in;
-  left: 0;
-  height: 0;
-  width: .25in;
-  height: .5in;
-  background: var(--color-quick);
-  border-top: .5in solid var(--color-quick-2);
-  border-bottom: .5in solid var(--color-quick-2);
-  border-radius: 0 1in 1in 0;
-} */
-
-/* cover page buttons */
+/* printables buttons */
 button,
 label {
   font-size: 1rem;
@@ -157,8 +126,7 @@ label.fliptheme {
 }
 
 @media print {
-  button,
-  label {
+  .print-hide {
     display: none;
   }
 }
@@ -288,7 +256,7 @@ section h4:before {
   font-weight: bold;
 }
 
-/* character sheet */
+/* printable character sheet */
 section.char select,
 section.char input,
 section.char textarea {
@@ -313,6 +281,45 @@ section.char thead,
 section.char thead tr,
 section.char th {
   border: none;
+}
+
+section.char table, section.char textarea {
+  width: 100%;
+  max-width: 100%;
+}
+
+section.char ul {
+  padding-left: 1ch;
+}
+
+/* printable track */
+section.track_table table td:nth-child(2){background: var(--color-creation)}
+section.track_table table td:nth-child(3){background: var(--color-creation-2)}
+section.track_table table td:nth-child(4){background: var(--color-ability)}
+section.track_table table td:nth-child(5){background: var(--color-ability-2)}
+section.track_table table td:nth-child(6){background: var(--color-guide-2)}
+section.track_table table td:nth-child(7){background: var(--color-rules-2)}
+section.track_table table td:nth-child(8){background: var(--color-rules)}
+section.track_table table td:empty {
+  height: 23mm;
+  width: 23mm;
+  padding: 0;
+  border-color: var(--color-background);
+  border-style: solid;
+  border-width: 1mm 1mm;
+}
+section.track_table table tr:last-child td {
+  border-radius: 0 0 5mm 5mm;
+}
+section.bw.track_table table td {
+  background: var(--color-background);
+  border-color: var(--color-foreground);
+}
+section.bw.track_table table {
+  border-collapse: unset;
+}
+section.bw.track_table table th {
+  border: 0;
 }
 
 /* styled lists */

@@ -43,8 +43,8 @@ svg.print-left section::after {
     justify-content: flex-start !important;
 }
 
-svg.print-right section::before {
-    left: unset !important;
-    right: 0 !important;
+svg.print-left section::before {
+    left: 0 !important;
+    right: unset !important;
     transform: scaleX(-1);
 }

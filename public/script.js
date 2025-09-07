@@ -25,6 +25,14 @@ function bwprint(){
     }, 200); // Timeout to let the CSS class changes for print render
 }
 
+function colorprint(){
+    window.addEventListener("afterprint", () => {
+        history.go(0);
+    });
+      
+    window.print();
+}
+
 function restyleIndexEntry(name){
     name = name.replace(/ (d6|d8|d10|One Free)/, "");
     const parts = name.trim().split(" ");
@@ -65,6 +73,15 @@ function perfectReorderPages(){
     const page = pages[pageOrder[i]];
     page.classList.add(sideClass[i % sideClass.length]);
     document.body.appendChild(page);
+  }
+}
+
+function twoSidedPages(){
+  const pages = document.querySelectorAll("body > svg");
+  const sideClass = ["print-right", "print-left"];
+  for (let i=0; i < pages.length; ++i){
+    const page = pages[i];
+    page.classList.add(sideClass[i % sideClass.length]);
   }
 }
 

@@ -43,8 +43,6 @@ If you publish your own works that use this system, please clearly label them on
 
 DOI: 10.5281/zenodo.14673714
 
-<button onclick="bwprint()">Ink-Saving Print 🖨️</button> <button onclick="saddleReorderPages(); bwprint()">Saddle Booklet 📖</button> <button onclick="perfectReorderPages(); bwprint()">Perfect Booklet 📕</button>
-
 ### Contents
 <!-- _paginate: skip -->
 <!-- _class: toc -->
@@ -373,6 +371,32 @@ These are performed like any other Endeavor, with the following adjustments, act
 | Hidden Specialization |
 | --- |
 | *Effect:* Once per Stealth Endeavor as an action, you may use your Action Die to perform a Check to find or create a safe place. On a success, add a temporary Sanctuary button at your location, removed <b>X</b> rounds from now at the end of the round. |
+
+## Printables
+<!-- _class: major -->
+<h3>Print Guide</h3>
+
+The digital version of this page contains buttons for printing this book in a number of color and black & white formats.
+
+<div class="print-hide">
+
+To print this book on A4 paper single-sided, use either of these buttons:
+
+<button onclick="colorprint()">Single-sided Color</button> <button onclick="bwprint()">Single-sided B&W</button>
+
+To print this book on A4 paper front and back, use either of these buttons, 1 page(s) per sheet, print on both sides, flip on long edge:
+
+<button onclick="twoSidedPages(); colorprint()">Two-sided Color</button> <button onclick="twoSidedPages(); bwprint()">Two-sided B&W</button>
+
+To print this book on A4 paper as a folded, saddle-bound booklet, use either of these buttons, 2 page(s) per sheet, print on both sides, flip on short edge:
+
+<button onclick="saddleReorderPages(); colorprint()">Saddle-bound Booklet Color</button> <button onclick="saddleReorderPages(); bwprint()">Saddle-bound Booklet B&W</button>
+
+To print this book on A4 paper as a cut, perfect-bound booklet, use either of these buttons, 2 page(s) per sheet, print on both sides, flip on short edge:
+
+<button onclick="perfectReorderPages(); colorprint()">Perfect-bound Booket Color</button> <button onclick="perfectReorderPages(); bwprint()">Perfect-bound Booket B&W</button>
+
+</div>
 
 ## Index
 <!-- _class: major index abix -->
