@@ -925,7 +925,7 @@ These are performed like any other Endeavor, with the following adjustments, act
   <table>
     <tbody>
       <tr>
-        <th scope="row">Wound</th><td><i>Type:</i> Personal. <i>Activation:</i> Activated when you would move off it. <i>Effect:</i> Decrease your remaining movement by 1, to a minimum of 0.</td>
+        <th scope="row">Wound</th><td><i>Type:</i> Personal. <i>Activation:</i> Activated when you move off it. <i>Effect:</i> Decrease your remaining movement by 1, to a minimum of 0.</td>
       </tr>
     </tbody>
   </table>
