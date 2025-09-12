@@ -498,7 +498,7 @@ To perform a Check:
 ### Partial Progress
 <!-- _class: rules -->
 
-In some situations, a single Check might only make partial progress towards one's goals, such as crafting an item, repairing a broken bridge, getting a complex machine up and running again, and performing a complex magic ritual. However, some benefits, challenges, or story beats may come with different "tiers" of progress towards those goals, such as running a business, building a fort, going to college, and swaying public opinions.
+In some situations, a single Check might only make partial progress towards one's goals, such as crafting an item, repairing a broken bridge, getting a complex machine up and running again, and performing a complex magic ritual. Additionally, some benefits, challenges, or story beats may come from reaching different "tiers" of progress, such as running a business, building a fort, going to college, and swaying public opinions.
 
 In general:
 
