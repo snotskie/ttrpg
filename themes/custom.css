@@ -363,6 +363,35 @@ section.bw.track_table_2 table th {
   border: 0;
 }
 
+/* printable rule cards */
+section.rulecard .card_container {
+  width: 7in;
+  height: 7in;
+  border: .5mm solid var(--color-foreground);
+}
+section.rulecard .card_stat {
+  width: calc(100% / 8);
+  height: 1.25in;
+  float: left;
+  display: grid;
+  text-align: center;
+  place-items: center;
+  font-size: 30px;
+}
+section.rulecard .card_column {
+  width: calc(50% - .375in);
+  padding: .25in;
+  padding-top: 0;
+  float: left;
+  font-size: 15px;
+}
+section.rulecard .card_column:last-child {
+  padding-left: 0;
+}
+section.rulecard li p {
+  margin: 0;
+}
+
 /* styled lists */
 section:not(.char) ul, ol {
   padding-left: 2ch;

@@ -375,7 +375,7 @@ These are performed like any other Endeavor, with the following adjustments, act
 ## Printables
 <!-- _class: major -->
 
-The digital version of this page contains buttons for printing this book in a number of color and black & white formats.
+The following pages contain a printable Endeavor track for one character and reminder cards for Endeavors. The digital version of this page also contains buttons for printing this book in a number of color and black & white formats.
 
 <div class="print-hide">
 
@@ -414,6 +414,52 @@ To print this book on A4 paper as a cut, perfect-bound booklet, use either of th
     <tr> <td>40</td> <td>39</td> <td>38</td> <td>37</td> </tr>
   </tbody>
 </table>
+
+---
+<!-- _class: rulecard -->
+
+<div class="card_container">
+  <div class="card_stat">🧠</div>
+  <div class="card_stat">✌️</div>
+  <div class="card_stat">💕</div>
+  <div class="card_stat">☕</div>
+  <div class="card_stat">👿</div>
+  <div class="card_stat">⚠️</div>
+  <div class="card_stat">⏳</div>
+  <div class="card_stat">⬚</div>
+  <div class="card_column">
+
+**Rounds** *All Endeavors*
+
+1. **Choose Action Die**
+2. **Gain X Temp Blessings (TB):** Disappear when you take Special Action.
+3. **Turn Order:** Start with who has least <b>TB</b>.
+4. **Special Action:** Who ends round with most <b>TB</b> takes Special Action.
+5. **Spend or Skip:** Spend Action Die, or skip next round to regain all already spent.
+
+**Ally Special Actions** *Monstrous Endeavors*
+
+- **Perform Combo:** Move up by <b>X</b>. You and allies may move down any total. Choose opponents to move down by same total.
+- **Declare Victory:** If at 30+, choose opponent to remove.
+
+**Racer Special Actions** *Racing Endeavors*
+
+- **Overcome:** Move up by <b>X</b>, ignoring one Terrain.
+
+  </div><div class="card_column">
+
+**Ally Actions** *Monstrous/Racing Endeavors*
+
+- **Violent Attack:** `👿` Attack <b>1&ndash;X</b> opponents. *Maximum Success:* Remove one of them. *Other Successes:* They move down by <b>X</b> total.
+- **Non-violent Attack:** `🧠✌️💕` Attack <b>1&ndash;X</b> opponents. *Success:* Steal <b>X</b> total Blessings from them. They re-gain amount lost, without bumping.
+- **Advance:** `Not 👿` Check. *Success:* Move up by <b>X</b>.
+- **Protect:** `☕⚠️` Check. *Success:* Relevant Attacks one rank more difficult until end of next round.
+- **Pass:** Delay turn to get/give Help.
+- **Unique Skill:** Spend ⊜⊜. Take two other actions.
+- **Change Tracks:** If applicable, move to 0 on another track.
+
+  </div>
+</div>
 
 ## Index
 <!-- _class: major index abix -->
