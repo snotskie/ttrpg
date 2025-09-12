@@ -374,7 +374,6 @@ These are performed like any other Endeavor, with the following adjustments, act
 
 ## Printables
 <!-- _class: major -->
-<h3>Print Guide</h3>
 
 The digital version of this page contains buttons for printing this book in a number of color and black & white formats.
 
@@ -397,6 +396,24 @@ To print this book on A4 paper as a cut, perfect-bound booklet, use either of th
 <button onclick="perfectReorderPages(); colorprint()">Perfect-bound Booket Color</button> <button onclick="perfectReorderPages(); bwprint()">Perfect-bound Booket B&W</button>
 
 </div>
+
+---
+<!-- _class: track_table_2 -->
+
+<table>
+  <tbody>
+    <tr> <td>1</td> <td>2</td> <td>3</td> <td>4</td> </tr>
+    <tr> <td>8</td> <td>7</td> <td>6</td> <td>5</td> </tr>
+    <tr> <td>9</td> <td>10</td> <td>11</td> <td>12</td> </tr>
+    <tr> <td>16</td> <td>15</td> <td>14</td> <td>13</td> </tr>
+    <tr> <td>17</td> <td>18</td> <td>19</td> <td>20</td> </tr>
+    <tr> <td>24</td> <td>23</td> <td>22</td> <td>21</td> </tr>
+    <tr> <td>25</td> <td>26</td> <td>27</td> <td>28</td> </tr>
+    <tr> <td>32</td> <td>31</td> <td>30</td> <td>29</td> </tr>
+    <tr> <td>33</td> <td>34</td> <td>35</td> <td>36</td> </tr>
+    <tr> <td>40</td> <td>39</td> <td>38</td> <td>37</td> </tr>
+  </tbody>
+</table>
 
 ## Index
 <!-- _class: major index abix -->

@@ -1352,7 +1352,7 @@ To print this book on A4 paper as a cut, perfect-bound booklet, use either of th
 
 <!-- _class: track_table -->
 
-<table class="track_table">
+<table>
   <tbody>
     <tr> <th scope="row">10</th> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> </tr>
     <tr> <th scope="row">9</th> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> </tr>

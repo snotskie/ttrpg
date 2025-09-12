@@ -322,6 +322,47 @@ section.bw.track_table table th {
   border: 0;
 }
 
+/* second printable track */
+section.track_table_2 table td {background: var(--color-ability)}
+section.track_table_2 table td, section.track_table_2 table td:empty {
+  height: 23mm;
+  width: 46mm;
+  padding: 0;
+  border-color: var(--color-background);
+  border-style: solid;
+  border-width: 1mm 1mm;
+  text-align: center;
+  font-weight: bold;
+}
+section.track_table_2 table tr:nth-child(odd) td:last-child {
+  border-radius: 0 10mm 0 0;
+}
+section.track_table_2 table tr:nth-child(even) td:last-child {
+  border-radius: 0 0 10mm 0;
+}
+section.track_table_2 table tr:nth-child(even) td:first-child {
+  border-radius: 10mm 0 0 0;
+}
+section.track_table_2 table tr:nth-child(odd) td:first-child {
+  border-radius: 0 0 0 10mm;
+}
+section.track_table_2 table tr:first-child td:first-child {
+  border-radius: 5mm 0 0 10mm;
+}
+section.track_table_2 table tr:last-child td:first-child {
+  border-radius: 10mm 0 0 5mm;
+}
+section.bw.track_table_2 table td {
+  background: var(--color-background);
+  border-color: var(--color-foreground);
+}
+section.bw.track_table_2 table {
+  border-collapse: unset;
+}
+section.bw.track_table_2 table th {
+  border: 0;
+}
+
 /* styled lists */
 section:not(.char) ul, ol {
   padding-left: 2ch;
