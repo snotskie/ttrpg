@@ -47,7 +47,7 @@ DOI: 10.5281/zenodo.14673714
 <!-- _paginate: skip -->
 <!-- _class: toc -->
 
-## Tips and Tricks
+## Table Advice
 <!-- _class: major guide -->
 <h3>Using d20s</h3>
 
