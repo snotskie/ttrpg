@@ -767,7 +767,7 @@ In general:
 
 **Buttons:** Endeavors also add a number of buttons to the track. There are two types of buttons, personal and global. Personal buttons can only be activated by the character associated with them, whereas global buttons can be activated by any character. If an Endeavor uses buttons, it will describe how each is activated and the effect that happens as a result. Additionally, buttons may have a passive effect that applies while the button is present or a cumulative effect that activates only once if multiple instances of that effect would activate at the same time.
 
-**Printable:** A printable track for seven characters in the Printables chapter.
+**Printable Track:** A track for seven characters is in the Printables chapter.
 
 **Community:** For more printable tracks and other Endeavor resources, visit <https://github.com/snotskie/ttrpg/discussions>.
 
