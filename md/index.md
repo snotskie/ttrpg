@@ -1084,7 +1084,7 @@ At the end of each session, you receive one free Stat Upgrade for your character
 
 | 🕯 Rite & Divinity Ethic |
 | --- |
-| *Description:* You can take a breath. You've earned this. Your intention is set and nothing can shake you from it. It doesn't matter if you don't have all the details right&mdash;it only matters that you can carry the torch high enough and pay the tolls the journey demands. Only then can you be the light for others to follow in the dark. *Effect:* When you succeed a Check without gaining a bust, you may instead gain a bust and bank a bust. When another character gains a Blessing, you may spend a bust banked this way to gain a copy of that Blessing. Copied Blessings gained this way do not bump. |
+| *Description:* You can take a breath. You've earned this. Your intention is set and nothing can shake you from it. It doesn't matter if you don't know all the details just yet&mdash;it only matters that you can carry the torch high enough and pay the tolls the journey demands. Only then can you be the light for others to follow in the dark. *Effect:* When you succeed a Check without gaining a bust, you may instead gain a bust and bank a bust. When another character gains a Blessing, you may spend busts banked this way to give them that many additional copies of that Blessing. Copied Blessings gained this way do not bump. |
 
 | 🔧 Precision & Accuracy Ethic |
 | --- |
