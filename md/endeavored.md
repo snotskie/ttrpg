@@ -208,7 +208,7 @@ These can be performed like a Monstrous Endeavor, with the following adjustments
 
 **Foiling:** When a charge leader is "foiled," another ally becomes the charge leader instead. Once you are foiled, you cannot become the charge leader again. Your opponents do not automatically win if your entire side has been foiled, but your victory will be much more difficult.
 
-**Simpler Turn Order:** Turn order moves clockwise, with the charge leader acting first. If there is no charge leader, monstrosities act first.
+**Simpler Turn Order:** The charge leader acts first. If there is no charge leader, monstrosities act first.
 
 **As Usual:** Actions, ally special actions, and buttons&mdash;these are as usual for a Monstrous Endeavor. However, monstrosities use the following special actions instead.
 
@@ -433,11 +433,11 @@ To print this book on A4 paper as a cut, perfect-bound booklet, use either of th
 
 1. **Choose Action Die**
 2. **Gain X Temp Blessings (TB):** Disappear when you take Special Action.
-3. **Turn Order:** Start with who has least <b>TB</b>.
-4. **Special Action:** Who ends round with most <b>TB</b> takes Special Action.
+3. **Turn Order:** Start with who has least <b>TB</b>. *Rush:* Start with charge leader.
+4. **Special Action:** Who ends round with most <b>TB</b> takes Special Action. *Rush:* Count only charge leader, opponents.
 5. **Spend or Skip:** Spend Action Die, or skip next round to regain all already spent.
 
-**Ally Special Actions** *Monstrous Endeavors*
+**Ally Special Actions** *Monstrous/Rush Endeavors*
 
 - **Perform Combo:** Move up by <b>X</b>. You and allies may move down any total. Choose opponents to move down by same total.
 - **Declare Victory:** If at 30+, choose opponent to remove.
@@ -448,7 +448,7 @@ To print this book on A4 paper as a cut, perfect-bound booklet, use either of th
 
   </div><div class="card_column">
 
-**Ally Actions** *Monstrous/Racing Endeavors*
+**Ally Actions** *Monstrous/Racing/Rush Endeavors*
 
 - **Violent Attack:** `👿` Attack <b>1&ndash;X</b> opponents. *Maximum Success:* Remove one of them. *Other Successes:* They move down by <b>X</b> total.
 - **Non-violent Attack:** `🧠✌️💕` Attack <b>1&ndash;X</b> opponents. *Success:* Steal <b>X</b> total Blessings from them. They re-gain amount lost, without bumping.
