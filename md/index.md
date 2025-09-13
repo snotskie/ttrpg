@@ -270,17 +270,14 @@ Then, pick one **Lifestyle** and one **Ethic** to begin the game with.
 
 Once you've chosen your starter Lifestyle and Ethic, **two of your Stats** will begin the game an additional **die size larger**, according to your starting Lifestyle and Ethic and the Lifestyle/Ethic Starting Stats table below.
 
-<style scoped>
-  table {
-    word-break: break-word;
-  }
-</style>
-
 <div>
   <h4>
     Lifestyle/Ethic Starting Stats
   </h4>
   <style scoped>
+    .lifestyle_ethic_starting_stats {
+      word-break: break-word;
+    }
     .lifestyle_ethic_starting_stats td:not(:empty) {
       width: 10ch;
       height: 10ch;
