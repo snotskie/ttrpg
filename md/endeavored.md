@@ -300,11 +300,11 @@ These are performed like any other Endeavor, with the following adjustments, act
     <tbody>
       <tr>
         <th scope="row">Search</th>
-        <td><code>Warry</code> Add an Alarm button at a position without another button or character already.</td>
+        <td><code>Warry</code> Randomly choose <b>X</b> positions in 1&ndash;20. Add Alarm buttons at those positions.</td>
       </tr>
       <tr>
         <th scope="row">Scan</th>
-        <td><code>Warry</code> Choose up or down. Move all Alarm buttons in that direction by <b>X</b>.</td>
+        <td><code>Warry</code> Randomly choose up or down. Move all Alarm buttons in that direction by <b>X</b>.</td>
       </tr>
       <tr>
         <th scope="row">Awaken</th>
@@ -344,7 +344,7 @@ These are performed like any other Endeavor, with the following adjustments, act
   <table>
     <tbody>
       <tr>
-        <th scope="row">Alarm</th><td><i>Type:</i> Global. <i>Activation:</i> Activated when you end your turn on it. <i>Effect:</i> The Eye enters wake mode. <i>Passive:</i> When a rogue fails a Check or Sparks a roll, add another Alarm button above this one if there is not one there already. <i>Cumulative:</i> Alarm buttons that would move to or be placed at a position outside 1&ndash;20 instead move up or down by 20 until in that range. If multiple would move to or be placed at the same position, all but one there are removed.</td>
+        <th scope="row">Alarm</th><td><i>Type:</i> Global. <i>Activation:</i> Activated when you end your turn on it. <i>Effect:</i> The Eye enters wake mode. <i>Passive:</i> When a rogue fails a Check or Sparks a roll, add another Alarm button above this one if there is not one there already. <i>Cumulative:</i> Alarm buttons that would move to or be placed at a position outside 1&ndash;20 instead move up or down by 20 until in that range. If multiple would move to or be placed at the same position, all but the oldest there are removed.</td>
       </tr>
       <tr>
         <th scope="row">Objective</th><td><i>Type:</i> Global. <i>Activation:</i> None. <i>Effect:</i> None.</td>
