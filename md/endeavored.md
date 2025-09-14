@@ -372,6 +372,10 @@ These are performed like any other Endeavor, with the following adjustments, act
 | --- |
 | *Effect:* Once per Stealth Endeavor as an action, you may use your Action Die to perform a Check to find or create a safe place. On a success, add a temporary Sanctuary button at your location, removed <b>X</b> rounds from now at the end of the round. |
 
+| Hijacked Specialization |
+| --- |
+| *Effect:* Once per Stealth Endeavor as an action, you may use your Action Die to perform a Check to hijack the Eye's defenses. On a success, choose an Alarm button at or next to your position. That button no longer activates and you may take the Work action as though you were at that button's location. |
+
 ## Printables
 <!-- _class: major -->
 
