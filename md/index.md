@@ -752,7 +752,9 @@ In general:
 
 **Special Actions:** Actions with the `Special Action` tag cannot be performed during your turn. Instead, at the end of the round when all other actions are complete, whoever has the highest number of Blessings chooses a special action to perform, resolving ties at table discretion.
 
-**Effects as Normal:** You may also activate your other effects as normal, whenever would be most appropriate before, during, or after your turn.
+**Help as Action:** Providing Help uses your action.
+
+**Effects as Normal:** You may activate your other effects as normal, whenever would be most appropriate before, during, or after your turn. These do not use your action unless stated otherwise.
 
 ### Tracks
 <!-- _class: rules -->
