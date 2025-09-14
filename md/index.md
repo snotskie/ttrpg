@@ -1096,7 +1096,7 @@ At the end of each session, you receive one free Stat Upgrade for your character
 
 | Analytical Specialization |
 | --- |
-| *Effect:* Twice per session, you may provide Help by rolling four d6 and grouping those dice into two piles of two. If addition or multiplication could make the piles equal, increase the result of the roll you are Helping by +5. For example, 1, 1, 1, and 2, could be grouped this way as 1×2=1+1. |
+| *Effect:* Twice per session, you may provide Help by rolling four d6 and grouping those dice into two piles of two. If addition or multiplication could make the piles equal, increase the result or <b>X</b> of the roll you are Helping by +5. For example, 1, 1, 1, and 2 could be grouped this way as 1×2=1+1. |
 
 | Ascendant Specialization |
 | --- |
