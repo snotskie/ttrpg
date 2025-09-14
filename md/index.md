@@ -939,11 +939,9 @@ These are performed like any other Endeavor, with the following adjustments, act
 
 **Speed and Acceleration:** The symbol <b>X</b> represents your "acceleration" for the round, while your temporary blessings represent your overall "speed."
 
-**Setup:** All racers begin at position 0.
+**Setup:** All racers begin at position 0. At the top of the first round, the lay of the land will be provided at table discretion for the race course environment, including any terrain elements like hills, brush, holes, asteroid fields, or so on, represented by Terrain buttons. As the Endeavor progresses, additional areas may become available, each with their own track and lay of the land.
 
 **Goal:** Be the first to reach the finish line or the last one standing.
-
-**Terrain:** At the top of the first round, the lay of the land will be provided at table discretion for the race course environment, including any terrain elements like hills, brush, holes, asteroid fields, or so on, represented by Terrain buttons. As the Endeavor progresses, additional areas may become available, each with their own track and lay of the land.
 
 **Racing Actions:** All racers use the Ally Actions from Monstrous Endeavors.
 
