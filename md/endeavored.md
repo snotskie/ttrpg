@@ -271,7 +271,7 @@ These are performed like any other Endeavor, with the following adjustments, act
       </tr>
       <tr>
         <th scope="row" colspan="2">Work</th>
-        <td>If you begin your turn on or next to an Objective button, use your Action Die to perform the Objective button's Check. On a success, add <b>X</b> Scheme buttons at the first positions at or above the Objective button's position without one already. Then remove the Objective button if every position from the button to the next Objective or Escape button has a Scheme button on it.</td>
+        <td>If you begin your turn on or next to an Objective button, use your Action Die to perform the Objective button's Check. On a success, add <b>X</b> Scheme buttons at the first positions at or above the Objective button's position without one already. Then remove the Objective button if every position from it to the next Objective or Escape button has a Scheme button.</td>
       </tr>
     </tbody>
   </table>
