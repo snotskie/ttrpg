@@ -504,8 +504,8 @@ To print this book on A4 paper as a cut, perfect-bound booklet, use either of th
 - **Interfere:** `💕☕👿` Check or Attack. *Success:* Remove Alarm within <b>X</b> spaces of you. *Maximum Success:* Remove Alarms contiguous with it.
 - **Misdirect** `🧠✌️⚠️` Check or Attack. *Success:* Steal <b>X</b> total Blessings from the Eye. It re-gains amount lost, without bumping.
 - **Move:** Attack or Check. *Success:* Move up or down by <b>X</b>, alone.
-- **Cover:** Check. *Success:* Give Help, which you may decrease <b>X</b> with.
-- **Work:** If by an Objective, Check. Success: Add <b>X</b> Schemes.
+- **Cover:** Check. *Success:* Delay turn to get/give Help, which you may decrease <b>X</b> with.
+- **Work:** If by an Objective, Check. *Success:* Add <b>X</b> Schemes.
 
   </div>
 </div>
