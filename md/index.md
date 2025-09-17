@@ -452,6 +452,7 @@ To perform a Check:
 3. **Roll:** Roll your Stat Die for the chosen Stat. The higher you roll, the greater your degree of success, as described in the Check Outcomes table below.
 4. **Boons and Busts:** Some successes grant you narrative benefits, called "boons," while others are accompanied by complications, called "busts." If you get a boon and a bust on the same Check, they do not cancel each other out but instead lead to a more nuanced result.
 5. **X:** Whereas boons and busts shape *narrative* results, some effects also use an <b>X</b> symbol to represent a *mechanical* result size. <b>X</b> is determined based on the Effect <b>X</b> Values table below and the size of the largest or most narratively important Stat Die used to perform the Check.
+6. **Gain X Progress:** At table discretion, some goals may require a progress total, or tiers of progress, to be reached through a series of Checks, such as crafting items or attending school. On each success, gain <b>X</b> towards the progress total. Boons and busts accumulate and shape the final result. Incremental benefits, challenges, or story may come from reaching different tiers of progress.
 
 </div>
 
@@ -491,15 +492,6 @@ To perform a Check:
   | ---- | ---- | ---- | ---- | ---- |
   | 1 | 1 | 2 | 2 | 3 |
 </div>
-
-### Partial Progress
-<!-- _class: rules -->
-
-In some situations, a single Check might only make partial progress towards one's goals, such as crafting an item, repairing a broken bridge, getting a complex machine up and running again, and performing a complex magic ritual. Additionally, some benefits, challenges, or story beats may come from reaching different "tiers" of progress, such as running a business, building a fort, going to college, and swaying public opinions.
-
-In general:
-
-**Gain X Towards Goal:** At table discretion, some goals may require a target number or tiers of target numbers to be reached for completing the goal. On each successful Check towards the goal, gain <b>X</b> towards the target number. Boons and busts accumulate and affect the final quality of the completed goal or tier.
 
 ### Attacks
 <!-- _class: rules -->
