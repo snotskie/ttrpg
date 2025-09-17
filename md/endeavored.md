@@ -307,7 +307,7 @@ These are performed like any other Endeavor, with the following adjustments, act
       </tr>
       <tr>
         <th scope="row">Awaken</th>
-        <td><code>Wake</code> Replace each Alarm button with Wound buttons (see Monstrous Endeavors) at the same positions, distributed as you wish between your opponents.</td>
+        <td><code>Wake</code> Replace each Alarm button with Wound buttons at the same positions, distributed as you wish between your opponents.</td>
       </tr>
       <tr>
         <th scope="row">Wound</th>
