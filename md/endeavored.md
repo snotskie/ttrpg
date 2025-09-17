@@ -253,24 +253,23 @@ These are performed like any other Endeavor, with the following adjustments, act
   <table>
     <tbody>
       <tr>
-        <th scope="row" rowspan="2">Attack</th>
-        <th scope="row">Violent</th>
-        <td><code>Hurt</code> Use your Action Die to violently Attack the Eye's defenses. On a success, choose an Alarm button within <b>X</b> spaces of your position and remove it from the Endeavor. On a Maximum Success, also remove all Alarm buttons that were contiguous with it.</td>
+        <th scope="row">Interfere</th>
+        <td><code>Heart/Home/Hurt</code> Use your Action Die to perform a Check or Attack to find or create weakness in the Eye's defenses. On a success, choose an Alarm button within <b>X</b> spaces of your position and remove it from the Endeavor. On a Maximum Success, also remove all Alarm buttons that were contiguous with it.</td>
       </tr>
       <tr>
-        <th scope="row">Non-violent</th>
-        <td><code>Head/Hand/Heart</code> Use your Action Die to non-violently Attack the Eye's defenses. On a success, steal <b>X</b> temporary Blessings of your choice from it. It then gains a number of new temporary Blessings equal to the amount it lost, without bumping.</td>
+        <th scope="row">Misdirect</th>
+        <td><code>Head/Hand/Hurry</code> Use your Action Die to perform a Check or Attack to stall or evade the Eye's plans. On a success, steal <b>X</b> temporary Blessings of your choice from it. It then gains a number of new temporary Blessings equal to the amount it lost, without bumping.</td>
       </tr>
       <tr>
-        <th scope="row" colspan="2">Move</th>
-        <td><code>Not Hurt</code> Use your Action Die to perform a Check to move yourself toward your objective or away from danger. On a success, move up or down by <b>X</b>. You may not move as a group this way.</td>
+        <th scope="row">Move</th>
+        <td>Use your Action Die to perform a Check or Attack to move yourself toward your objective or away from danger. On a success, move up or down by <b>X</b>. You may not move as a group this way.</td>
       </tr>
       <tr>
-        <th scope="row" colspan="2">Cover</th>
-        <td><code>Home/Hurry</code> Delay your action so you can Help another character who has not acted this round or so they can Help you. This Help may be used to decrease <b>X</b> values instead of increasing them as usual.</td>
+        <th scope="row">Cover</th>
+        <td>Delay your action so you can Help another character who has not acted this round or so they can Help you. This Help may be used to decrease <b>X</b> values instead of increasing them as usual.</td>
       </tr>
       <tr>
-        <th scope="row" colspan="2">Work</th>
+        <th scope="row">Work</th>
         <td>If you begin your turn on or next to an Objective button, use your Action Die to perform the Objective button's Check. On a success, add <b>X</b> Scheme buttons at the first positions at or above the Objective button's position without one already. Then remove the Objective button if every position from it to the next Objective or Escape button has a Scheme button.</td>
       </tr>
     </tbody>
@@ -344,7 +343,7 @@ These are performed like any other Endeavor, with the following adjustments, act
   <table>
     <tbody>
       <tr>
-        <th scope="row">Alarm</th><td><i>Type:</i> Global. <i>Activation:</i> Activated when you end your turn on it. <i>Effect:</i> The Eye enters wake mode. <i>Passive:</i> When a rogue fails a Check or Sparks a roll, add another Alarm button above this one if there is not one there already. <i>Cumulative:</i> Alarm buttons that would move to or be placed at a position outside 1&ndash;20 instead move up or down by 20 until in that range. If multiple would move to or be placed at the same position, all but the oldest there are removed.</td>
+        <th scope="row">Alarm</th><td><i>Type:</i> Global. <i>Activation:</i> Activated when you end your turn on it. <i>Effect:</i> The Eye enters wake mode. <i>Passive:</i> When a rogue fails a Check or Sparks a roll, add an Alarm button above this one if there is not one there already. <i>Cumulative:</i> Alarm buttons that would move to or be placed at a position outside 1&ndash;20 instead move up or down by 20 until in that range. If multiple would move to or be placed at the same position, all but the oldest there are removed.</td>
       </tr>
       <tr>
         <th scope="row">Objective</th><td><i>Type:</i> Global. <i>Activation:</i> None. <i>Effect:</i> None.</td>
@@ -443,26 +442,70 @@ To print this book on A4 paper as a cut, perfect-bound booklet, use either of th
 4. **Special Action:** Who ends round with most <b>TB</b> takes Special Action. *Rush:* Count only charge leader, opponents.
 5. **Spend or Skip:** Spend Action Die, or skip next round to regain all already spent.
 
-**Ally Special Actions** *Monstrous/Rush Endeavors*
+**Ally Special Actions** *Monstrous/Rush*
 
 - **Perform Combo:** Move up by <b>X</b>. You and allies may move down any total. Choose opponents to move down by same total.
 - **Declare Victory:** If at 30+, choose opponent to remove.
 
-**Racer Special Actions** *Racing Endeavors*
+**Racer Special Actions** *Racing*
 
 - **Overcome:** Move up by <b>X</b>, ignoring one Terrain.
 
   </div><div class="card_column">
 
-**Ally Actions** *Monstrous/Racing/Rush Endeavors*
+**Ally Actions** *Monstrous/Racing/Rush*
 
 - **Violent Attack:** `👿` Attack <b>1&ndash;X</b> opponents. *Maximum Success:* Remove one of them. *Other Successes:* They move down by <b>X</b> total.
-- **Non-violent Attack:** `🧠✌️💕` Attack <b>1&ndash;X</b> opponents. *Success:* Steal <b>X</b> total Blessings from them. They re-gain amount lost, without bumping.
+- **Non-violent Attack:** `🧠✌️💕` Attack <b>1&ndash;X</b> opponents. *Success:* Steal <b>X</b> total <b>TB</b> from them. They re-gain amount lost, without bumping.
 - **Advance:** `Not 👿` Check. *Success:* Move up by <b>X</b>.
 - **Protect:** `☕⚠️` Check. *Success:* Relevant Attacks one rank more difficult until end of next round.
 - **Pass:** Delay turn to get/give Help.
 - **Unique Skill:** Spend ⊜⊜. Take two other actions.
 - **Change Tracks:** If applicable, move to 0 on another track.
+
+**Fatigue** *Racing*: Gain Fatigue when you spend <b>TB</b>. End of round, Check. *Success:* Remove it. *Fail:* Exit race.
+
+  </div>
+</div>
+
+---
+<!-- _class: rulecard -->
+<!-- _paginate: skip -->
+
+<div class="card_container">
+  <div class="card_stat">🧠</div>
+  <div class="card_stat">✌️</div>
+  <div class="card_stat">💕</div>
+  <div class="card_stat">☕</div>
+  <div class="card_stat">👿</div>
+  <div class="card_stat">⚠️</div>
+  <div class="card_stat">⏳</div>
+  <div class="card_stat">⬚</div>
+  <div class="card_column">
+
+**Rounds** *All Endeavors*
+
+1. **Choose Action Die**
+2. **Gain X Temp Blessings (TB):** Disappear when you take Special Action.
+3. **Turn Order:** Start with who has least <b>TB</b>.
+4. **Special Action:** Who ends round with most <b>TB</b> takes Special Action.
+5. **Spend or Skip:** Spend Action Die, or skip next round to regain all already spent.
+
+**Rogue Special Actions** *Stealth*
+
+- **Quicken:** You and <b>0&ndash;X</b> allies take +1 action next round.
+
+**Alarms** *Stealth*: Add more Alarms when you fail or Spark. Trip Alarm when end turn on it.
+
+  </div><div class="card_column">
+
+**Rogue Actions** *Stealth*
+
+- **Interfere:** `💕☕👿` Check or Attack. *Success:* Remove Alarm within <b>X</b> spaces of you. *Maximum Success:* Remove Alarms contiguous with it.
+- **Misdirect** `🧠✌️⚠️` Check or Attack. *Success:* Steal <b>X</b> total Blessings from the Eye. It re-gains amount lost, without bumping.
+- **Move:** Attack or Check. *Success:* Move up or down by <b>X</b>, alone.
+- **Cover:** Check. *Success:* Give Help, which you may decrease <b>X</b> with.
+- **Work:** If by an Objective, Check. Success: Add <b>X</b> Schemes.
 
   </div>
 </div>
