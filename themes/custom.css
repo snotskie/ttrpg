@@ -323,7 +323,10 @@ section.bw.track_table table th {
 }
 
 /* second printable track */
-section.track_table_2 table td {background: var(--color-ability)}
+section.track_table_2 table td {
+  color: white;
+  background: var(--color-ability);
+}
 section.track_table_2 table td, section.track_table_2 table td:empty {
   height: 23mm;
   width: 46mm;

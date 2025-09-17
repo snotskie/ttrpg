@@ -403,6 +403,7 @@ To print this book on A4 paper as a cut, perfect-bound booklet, use either of th
 
 ---
 <!-- _class: track_table_2 -->
+<!-- _paginate: skip -->
 
 <table>
   <tbody>
@@ -421,6 +422,7 @@ To print this book on A4 paper as a cut, perfect-bound booklet, use either of th
 
 ---
 <!-- _class: rulecard -->
+<!-- _paginate: skip -->
 
 <div class="card_container">
   <div class="card_stat">🧠</div>
@@ -471,8 +473,8 @@ To print this book on A4 paper as a cut, perfect-bound booklet, use either of th
 <h3>Options</h3>
 
 ### Tables
-<!-- _paginate: skip -->
 <!-- _class: index tablist -->
+<!-- _paginate: skip -->
 
 {{ `<script src="/MarpShims/MarpShims.js?v=${process.env["TAG"]}"></script>` }}
 
