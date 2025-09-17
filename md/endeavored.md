@@ -373,7 +373,7 @@ These are performed like any other Endeavor, with the following adjustments, act
 
 | Hijacked Specialization |
 | --- |
-| *Effect:* Once per Stealth Endeavor as an action, you may use your Action Die to perform a Check to hijack the Eye's defenses. On a success, choose an Alarm button at or next to your position. That button no longer activates and you may take the Work action as though you were at that button's location. |
+| *Effect:* Once per Stealth Endeavor as an action, you may use your Action Die to perform a Check to hijack the Eye's defenses. On a success, choose an Alarm button within <b>X</b> spaces of your position. That button no longer activates and you may take the Work action as though you were at that button's location. |
 
 ## Printables
 <!-- _class: major -->
