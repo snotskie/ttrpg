@@ -373,13 +373,31 @@ These are performed like any other Endeavor, with the following adjustments, act
 
 **Sync and Morale:** The symbol <b>X</b> represents how "in sync" you are with your unit for the round, and your temporary Blessings represent your accumulated "morale."
 
-**Units:** Similar to the Eye in Stealth Endeavors, "units" are characters with a single Unit Stat, no track position, its Unit Stat is never spent, and it can only be Attacked by other units. Each unit has a track, which end at the position equal to the unit's Unit Stat Die size. Anything placed or moved beyond this is placed at the last track position instead. You and your fellow "operators" begin at position 0 on your unit's track. Effects extend your unit's track during the Endeavor.
+**Units:** "Units" are characters with a single Unit Stat, no track position, its Unit Stat is never spent, and they can only Attack and be Attacked by other units. Each unit has a track, which ends at the position equal to the unit's Unit Stat Die size. Anything placed or moved beyond this is placed at the last track position instead. You and your fellow "operators" begin at position 0 on your unit's track. Effects may extend your unit's track during the Endeavor.
 
-**Unit Actions:** Units do not have a turn as normal. Instead, when they receive Help, they may immediately act. They may act <b>X</b> times per round this way, using their Unit Stat Die. Attacks against a unit are one rank more difficult for each size smaller the Defender's Unit Stat Die is than the Attacker's.
+**Unit Actions:** All operators use the Ally Actions from Monstrous Endeavors. Units do not have a turn as normal but instead immediately act when they receive Help. They may act <b>X</b> times per round this way, using their Unit Stat Die.
+
+**Unit Size:** Attacks against a unit are one rank more difficult for each size smaller the Defender's Unit Stat Die is than the Attacker's. Moving to an opposing unit's track requires a Check one rank more difficult for each size smaller the destination unit's Unit Stat Die is than the current unit's.
 
 **Hits:** When a unit is "hit," choose a random position at 1 or greater on its track. Add a Hit Button there if one is not there already.
 
 **Goal:** Place three Hit Buttons in a row on your opponents' units' tracks before they do the same to yours.
+
+<div>
+  <h4>Unit Actions</h4>
+</div>
+
+<div>
+  <h4>Operator Special Actions</h4>
+</div>
+
+<div>
+  <h4>Unit Special Actions</h4>
+</div>
+
+<div>
+  <h4>Unit Buttons</h4>
+</div>
 
 ### Specialization Options
 <!-- _class: ability -->
