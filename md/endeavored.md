@@ -238,7 +238,7 @@ Some campaigns or sessions may involve prolonged tension where the player charac
 
 These are performed like any other Endeavor, with the following adjustments, action options, and buttons:
 
-**Efficiency and Progress:** The symbol <b>X</b> represents your "efficiency" for the round, such as efficiency at stealth, charisma, or so on. Your temporary blessings represent your immediate "progress."
+**Efficiency and Progress:** The symbol <b>X</b> represents your "efficiency" for the round, such as efficiency at stealth, charisma, or so on. Your temporary Blessings represent your immediate "progress."
 
 **The Eye:** The opposing side is represented by the "Eye." When the Endeavor begins, the Eye is in "warry mode," on the lookout for you and your fellow "rogues." However, once the Eye has been alerted, it will enter the much more dangerous "wake mode." For the sake of rules, the Eye is a character, but it has only a single Watch Stat, has no track position, it cannot be Attacked directly, and its Watch Stat is never spent.
 
@@ -363,6 +363,23 @@ These are performed like any other Endeavor, with the following adjustments, act
     </tbody>
   </table>
 </div>
+
+### 🎖️ Unit Endeavors
+<!-- _class: rules -->
+
+Some campaigns or sessions may involve prolonged contests between "units" operated or led by the player characters and their opponents, such as ship-to-ship combat, a battle of the bands, or cheering on your magical creatures!
+
+These are performed like any other Endeavor, with the following adjustments, action options, and buttons:
+
+**Sync and Morale:** The symbol <b>X</b> represents how "in sync" you are with your unit for the round, and your temporary Blessings represent your accumulated "morale."
+
+**Units:** Similar to the Eye in Stealth Endeavors, "units" are characters with a single Unit Stat, no track position, its Unit Stat is never spent, and it can only be Attacked by other units. Each unit has a track, which end at the position equal to the unit's Unit Stat Die size. Anything placed or moved beyond this is placed at the last position on the track instead. You and your fellow "operators" begin at position 0 on your unit's track and effects allow you to extend your unit's track during the Endeavor.
+
+**Unit Actions:** Units do not have a turn as normal. Instead, when they receive Help, they may immediately act. They may act <b>X</b> times per round this way, using their Unit Stat Die. Attacks against a unit are one rank more difficult for each size smaller the Defender's Unit Stat Die is than the Attacker's.
+
+**Hits:** When a unit is "hit," choose a random position on its track. Add a Hit Button there if one is not there already.
+
+**Goal:** Place three Hit Buttons in a row on your opponents' units' tracks before they can do the same to yours.
 
 ### Specialization Options
 <!-- _class: ability -->
