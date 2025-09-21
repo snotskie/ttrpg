@@ -377,7 +377,7 @@ These are performed like any other Endeavor, with the following adjustments, act
 
 **Unit Actions:** Units do not have a turn as normal. Instead, when they receive Help, they may immediately act. They may act <b>X</b> times per round this way, using their Unit Stat Die. Attacks against a unit are one rank more difficult for each size smaller the Defender's Unit Stat Die is than the Attacker's.
 
-**Hits:** When a unit is "hit," choose a random position on its track. Add a Hit Button there if one is not there already.
+**Hits:** When a unit is "hit," choose a random position at 1 or greater on its track. Add a Hit Button there if one is not there already.
 
 **Goal:** Place three Hit Buttons in a row on your opponents' units' tracks before they can do the same to yours.
 
@@ -391,6 +391,10 @@ These are performed like any other Endeavor, with the following adjustments, act
 | Hijacked Specialization |
 | --- |
 | *Effect:* Once per Stealth Endeavor as an action, you may use your Action Die to perform a Check to hijack the Eye's defenses. On a success, choose an Alarm button within <b>X</b> spaces of your position. That button no longer activates and you may take the Work action as though you were at that button's location. |
+
+| Stubborn Specialization |
+| --- |
+| *Effect:* Once per Rush Endeavor when you would be foiled, you may instead exhaust your spent Stat Die until the end of the Endeavor. Exhausted Stat Dice cannot be regained. |
 
 ## Printables
 <!-- _class: major -->
