@@ -385,6 +385,23 @@ These are performed like any other Endeavor, with the following adjustments, act
 
 <div>
   <h4>Unit Actions</h4>
+ <table>
+    <tbody>
+      <tr>
+        <th scope="row" rowspan="2">Attack</th>
+        <th scope="row">Violent</th>
+        <td>Use your Action Die to violently Attack up to <b>X</b> opposing units. On a success, hit them a total of <b>X</b> times.</td>
+      </tr>
+      <tr>
+        <th scope="row">Non-violent</th>
+        <td>Use your Action Die to non-violently Attack up to <b>X</b> opposing units. On a success, steal a total of <b>X</b> temporary Blessings of your choice from among them and characters on their tracks. They do not regain the amount lost as usual.</td>
+      </tr>
+      <tr>
+        <th scope="row" colspan="2">Channel</th>
+        <td>Release your stored potential by giving your temporary Blessings to characters on your track, distributed however you choose.</td>
+      </tr>
+    </tbody>
+  </table>
 </div>
 
 <div>
