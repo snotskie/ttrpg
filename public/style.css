@@ -40,6 +40,8 @@ svg > foreignObject > section {
 svg.print-left section::after {
     left: 0 !important;
     right: unset !important;
+    padding-right: unset !important;
+    padding-left: .5in !important;
     justify-content: flex-start !important;
 }
 

@@ -46,6 +46,8 @@ section:after {
   --color-background: var(--color-background);
   font-size: 0.875rem;
   font-weight: bold;
+  text-align: right;
+  padding-right: .5in;
 }
 
 /* Styled page types */
