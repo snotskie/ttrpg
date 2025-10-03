@@ -585,6 +585,51 @@ To print this book on A4 paper as a cut, perfect-bound booklet, use either of th
   </div>
 </div>
 
+---
+<!-- _class: rulecard -->
+<!-- _paginate: skip -->
+
+<div class="card_container">
+  <div class="card_stat">🧠</div>
+  <div class="card_stat">✌️</div>
+  <div class="card_stat">💕</div>
+  <div class="card_stat">☕</div>
+  <div class="card_stat">👿</div>
+  <div class="card_stat">⚠️</div>
+  <div class="card_stat">⏳</div>
+  <div class="card_stat">⬚</div>
+  <div class="card_column">
+
+**Operator Actions** *Unit*
+
+- **Violent Attack:** `👿` Attack <b>1&ndash;X</b> opponents. *Maximum Success:* Remove one of them. *Other Successes:* They move down by <b>X</b> total.
+- **Non-violent Attack:** `🧠✌️💕` Attack <b>1&ndash;X</b> opponents. *Success:* Steal <b>X</b> total <b>TB</b> from them. They re-gain amount lost, without bumping.
+- **Advance:** `Not 👿` Check. *Success:* Move up by <b>X</b>.
+- **Protect:** `☕⚠️` Check. *Success:* Relevant Attacks one rank more difficult until end of next round.
+- **Pass:** Delay turn to get/give Help.
+- **Unique Skill:** Spend ⊜⊜. Take two other actions.
+- **Change Tracks:** Check. *Success:* Move to 0 on another unit. If to a smaller unit, harder.
+
+**Removal** *Unit*: If on unit when it's removed, Check. *Success:* Change tracks. *Fail:* You're removed.
+
+  </div><div class="card_column">
+
+**Unit Actions** *Unit*: Acts <b>X</b> times, but only when Helped.
+
+- **Violent Attack:** Attack <b>1&ndash;X</b> units. If vs. a smaller unit, harder. *Maximum Success:* Hit each <b>X</b> times. *Other Successes:* Hit each once.
+- **Non-violent Attack:** Attack <b>1&ndash;X</b> units. If vs. a smaller unit, harder. *Success:* Steal <b>X</b> total <b>TB</b> from them and opponents on them. They don't re-gain.
+- **Channel:** Give your <b>TB</b> to allies on you.
+
+**Operator Special Actions** *Unit*
+
+- **Rally:** You and allies on same unit move down any total. If on allied unit, extend unit by same total. Else, choose opponents there to move down by same total.
+- **Sally:** If on allied unit, remove <b>1-X</b> units with 3 hits in a row. Then hit <b>1-X</b> units. Uses your unit's <b>X</b>.
+- **Tally:** If at 30+ on allied unit, choose unit to remove.
+
+
+  </div>
+</div>
+
 ## Index
 <!-- _class: major index abix -->
 <!-- _paginate: skip -->
