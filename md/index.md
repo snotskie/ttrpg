@@ -1136,7 +1136,7 @@ At the end of each session, you receive one free Stat Upgrade for your character
 
 | Friendly Specialization |
 | --- |
-| *Effect:* You gain access to a creature companion, mechanical companion, or similar companion of your choice, within reason. The companion uses a d6 for all Stats and has its own Backstory and Aptitudes. It also has an Aptitude Value of 0-3 for each Aptitude, totaling 8. At the start of each session, for each Aptitude, the companion gains a number of temporary Blessings equal to its Aptitude Value for that Aptitude, which it may only spend to Help itself or others on Checks related enough to that Aptitude. Unspent temporary Blessings disappear at the end of the session. If the companion is lost, stolen, destroyed, or you lose its loyalty, replacing it may require time and effort. |
+| *Effect:* You gain access to a creature companion, mechanical companion, or similar companion of your choice, within reason. The companion uses a d6 for all Stats and has its own Backstory and Aptitudes. It also has an Aptitude Value of 0-3 for each Aptitude, totaling 8. At the start of each session, for each Aptitude, the companion gains a number of temporary Blessings equal to its Aptitude Value for that Aptitude, which it may only spend to Help Checks related enough to that Aptitude. Unspent temporary Blessings disappear at the end of the session. If the companion is lost, stolen, destroyed, or you lose its loyalty, replacing it may require time and effort. |
 
 | Harmonious Specialization |
 | --- |
