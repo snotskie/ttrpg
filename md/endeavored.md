@@ -429,7 +429,7 @@ These are performed like any other Endeavor, with the following adjustments, act
         <th scope="row">Hit</th><td><i>Type:</i> Global. <i>Activation:</i> Activated when you move off it. <i>Effect:</i> Decrease your remaining movement by 1, to a minimum of 0. <i>Cumulative:</i> If multiple Hit buttons would move to or be placed at the same position, all but the oldest there are removed.</td>
       </tr>
       <tr>
-        <th scope="row">Shield</th><td><i>Type:</i> Global. <i>Activation:</i> When a Hit button would be placed on it. <i>Effect:</i> Remove this button instead.</td>
+        <th scope="row">Shield</th><td><i>Type:</i> Global. <i>Activation:</i> Activated when a Hit button would be placed on it. <i>Effect:</i> Remove this button instead.</td>
       </tr>
     </tbody>
   </table>
