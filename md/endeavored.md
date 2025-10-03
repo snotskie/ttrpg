@@ -189,9 +189,9 @@ Whatever the case, you may use the d20 Conversion table below to approximate thi
 
 Some Endeavors are complex, spanning a large field or pulling the players and their allies in different directions, like when vampires attack two parts of the city at once. Such situations can be represented with multiple tracks.
 
-**Nearby Influence Only:** You and your effects can only interact with characters in the same track as you.
+**Nearby Influence Only:** Characters and effects can only interact with characters on the same track as them.
 
-**Changing Tracks:** As an action, you may change tracks. Doing so resets your position to 0.
+**Changing Tracks:** As an action, you may change tracks. Doing so resets your position to 0. Some Endeavors may require a Check for this action.
 
 **All Tracks are Connected:** Regardless of narrative distance, for simplicity all tracks are equally "connected." You may change from any track to any other track with a single action.
 
@@ -218,7 +218,6 @@ These can be performed like a Monstrous Endeavor, with the following adjustments
   </h4>
   <table>
     <tbody>
-      <tr>
       <tr>
         <th scope="row">Plot Victory</th>
         <td><code>Special Action</code> Foil the charge leader. Then for each Recovery button your side has activated, add a Scheme button at the first position at or above your current position without one already.</td>
@@ -283,7 +282,6 @@ These are performed like any other Endeavor, with the following adjustments, act
   <table>
     <tbody>
       <tr>
-      <tr>
         <th scope="row">Quicken</th>
         <td><code>Special Action</code> You and up to <b>X</b> allies may each take an additional action during the next round.</td>
       </tr>
@@ -323,7 +321,6 @@ These are performed like any other Endeavor, with the following adjustments, act
   </h4>
   <table>
     <tbody>
-      <tr>
       <tr>
         <th scope="row">Sweep</th>
         <td><code>Special Action</code> <code>Warry</code> Choose two Alarm buttons that have no Alarm buttons between them. Add temporary Alarm buttons to all positions between them, removed at the end of next round.</td>
@@ -371,17 +368,17 @@ Some campaigns or sessions may involve prolonged contests between "units" operat
 
 These are performed like any other Endeavor, with the following adjustments, action options, and buttons:
 
-**Sync and Morale:** The symbol <b>X</b> represents how "in sync" you are with your unit for the round, and your temporary Blessings represent your accumulated "morale."
+**Sync and Energy:** The symbol <b>X</b> represents how "in sync" you are with your allies, and your temporary Blessings represent your accumulated "energy."
 
-**Units:** "Units" are characters with a single Unit Stat, no track position, its Unit Stat is never spent, and they can only Attack and be Attacked by other units. Each unit has a track, which ends at the position equal to the unit's Unit Stat Die size. Anything placed or moved beyond this is placed at the last track position instead. You and your fellow "operators" begin at position 0 on your unit's track. Effects may extend your unit's track during the Endeavor.
+**Units:** "Units" are characters with a single Unit Stat, no track position, its Unit Stat is never spent, and they can only Attack and be Attacked by other units. Each unit has a track, which ends at the position equal to the unit's Unit Stat Die size. Anything placed or moved beyond this is placed at the last track position instead. You and your fellow "operators" begin at position 0 on your unit's track. Effects may extend your unit's track during the Endeavor. If a unit is removed from the Endeavor while you're on its track, perform a Check to move to a different track. On a failure, you are removed from the Endeavor too.
 
-**Unit Actions:** All operators use the Ally Actions from Monstrous Endeavors. Units do not have a turn as normal but instead immediately act when they receive Help. They may act <b>X</b> times per round this way, using their Unit Stat Die. Units do not have special actions.
+**Unit Actions:** All operators use the Ally Actions from Monstrous Endeavors. Units do not have a turn as normal. Instead they act when they receive Help, at most <b>X</b> times per round, using their Unit Stat Die. Units can't take special actions but still gain temporary Blessings.
 
-**Unit Size:** Attacks against a unit are one rank more difficult for each size smaller the Defender's Unit Stat Die is than the Attacker's. Moving to an opposing unit's track requires a Check one rank more difficult for each size smaller the destination unit's Unit Stat Die is than the current unit's.
+**Unit Size:** It is one rank more difficult to Attack a unit that has a smaller Unit Stat Die or to move to the track of a unit that has a smaller Unit Stat Die.
 
-**Hits:** When a unit is "hit," choose a random position on its track. Add a Hit Button there if one is not there already.
+**Hits:** When a unit is "hit," choose a random position on its track. Add a Hit button there if one is not there already.
 
-**Goal:** Place three Hit Buttons in a row on your opponents' units' tracks before they do the same to yours.
+**Goal:** Place three Hit buttons in a row on your opponents' units' tracks before they do the same to yours.
 
 <div>
   <h4>Unit Actions</h4>
@@ -390,7 +387,7 @@ These are performed like any other Endeavor, with the following adjustments, act
       <tr>
         <th scope="row" rowspan="2">Attack</th>
         <th scope="row">Violent</th>
-        <td>Use your Action Die to violently Attack up to <b>X</b> opposing units. On a success, hit them a total of <b>X</b> times.</td>
+        <td>Use your Action Die to violently Attack up to <b>X</b> opposing units. On a Maximum Success, hit them each <b>X</b> times. On other successes, hit them each once.</td>
       </tr>
       <tr>
         <th scope="row">Non-violent</th>
@@ -398,7 +395,7 @@ These are performed like any other Endeavor, with the following adjustments, act
       </tr>
       <tr>
         <th scope="row" colspan="2">Channel</th>
-        <td>Release your stored potential by giving your temporary Blessings to characters on your track, distributed however you choose.</td>
+        <td>Release your stored energy by giving your temporary Blessings to allies on your track, distributed however you choose.</td>
       </tr>
     </tbody>
   </table>
@@ -406,10 +403,36 @@ These are performed like any other Endeavor, with the following adjustments, act
 
 <div>
   <h4>Operator Special Actions</h4>
+  <table>
+    <tbody>
+      <tr>
+        <th scope="row">Rally</th>
+        <td><code>Special Action</code> You and your allied operators on the same track as you may move down any total amount. If you are on an allied unit's track, extend the track by the amount moved this way. If you are on an opposing unit's track, choose opposing operators to move down by a total of the amount moved this way.</td>
+      </tr>
+      <tr>
+        <th scope="row">Sally</th>
+        <td><code>Special Action</code> If you are on an allied unit's track, using that unit's Action Die to determine <b>X</b>, remove up to <b>X</b> opposing units with three Hit buttons in a row from the Endeavor, then hit up to <b>X</b> remaining opposing units.
+      </tr>
+      <tr>
+        <th scope="row">Tally</th>
+        <td><code>Special Action</code> If you are at position 30 or higher on an allied unit's track, choose an opposing unit to remove from the Endeavor.</td>
+      </tr>
+    </tbody>
+  </table>
 </div>
 
 <div>
   <h4>Unit Buttons</h4>
+  <table>
+    <tbody>
+      <tr>
+        <th scope="row">Hit</th><td><i>Type:</i> Global. <i>Activation:</i> Activated when you move off it. <i>Effect:</i> Decrease your remaining movement by 1, to a minimum of 0. <i>Cumulative:</i> If multiple Hit buttons would move to or be placed at the same position, all but the oldest there are removed.</td>
+      </tr>
+      <tr>
+        <th scope="row">Shield</th><td><i>Type:</i> Global. <i>Activation:</i> When a Hit button would be placed on it. <i>Effect:</i> Remove this button instead.</td>
+      </tr>
+    </tbody>
+  </table>
 </div>
 
 ### Specialization Options

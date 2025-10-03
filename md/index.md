@@ -287,10 +287,10 @@ Once you've chosen your starter Lifestyle and Ethic, **two of your Stats** will 
   <table class="lifestyle_ethic_starting_stats">
       <thead>
           <tr>
-          <td></td>
-          <th scope="col">Vice &amp;<br />Virtue</th>
-          <th scope="col">Fate &amp;<br />Knowledge</th>
-          <th scope="col">Cunning &amp;<br />Capability</th>
+            <td></td>
+            <th scope="col">Vice &amp;<br />Virtue</th>
+            <th scope="col">Fate &amp;<br />Knowledge</th>
+            <th scope="col">Cunning &amp;<br />Capability</th>
           </tr>
       </thead>
       <tbody>
@@ -668,27 +668,35 @@ In general however:
       <tr>
         <th scope="row">Ache</th>
         <td><em>Effect:</em> Rolls you make with the affected Stat cannot bump. <em>Duration:</em> Until next scene.</td>
+      </tr>
       <tr>
         <th scope="row">Cursed</th>
         <td><em>Effect:</em> Your Blessings are each worth 1 less, to a minimum of 0. <em>Duration:</em> Until treated.</td>
+      </tr>
       <tr>
         <th scope="row">Disarmed</th>
         <td><em>Effect:</em> When you succeed a violent Attack, receive one fewer boon and one additional bust than usual. <em>Duration:</em> Until treated.</td>
+      </tr>
       <tr>
         <th scope="row">Famous</th>
         <td><em>Effect:</em> You may exert your fame over those less famous, gaining a +2 bonus in Attacks against them, but not against the same character more than once during the same session or while you are Uncool. <em>Duration:</em> Until removed.</td>
+      </tr>
       <tr>
         <th scope="row">Taxed</th>
         <td><em>Effect:</em> You cannot Spark. <em>Duration:</em> Until treated.</td>
+      </tr>
       <tr>
         <th scope="row">Surprised</th>
         <td><em>Effect:</em> Your rolls cannot bump, Spark, or use an unconventional Stat. <em>Duration:</em> Until next roll.</td>
+      </tr>
       <tr>
         <th scope="row">Uncool</th>
         <td><em>Effect:</em> Your rolls are made with a -1 modifier unless you are alone. <em>Duration:</em> Until removed.</td>
+      </tr>
       <tr>
         <th scope="row">Vexed</th>
         <td><em>Effect:</em> When another character sees you perform a Check with the affected Stat, they may have you automatically fail. <em>Duration:</em> Until treated.</td>
+      </tr>
     </tbody>
   </table>
 </div>
@@ -859,7 +867,6 @@ These are performed like any other Endeavor, with the following adjustments, act
   <table>
     <tbody>
       <tr>
-      <tr>
         <th scope="row">Perform Combo</th>
         <td><code>Special Action</code> Move up by <b>X</b>. Then you and your allies may move down any total amount. If you do, choose opponents to move down by a total of the amount moved this way.</td>
       </tr>
@@ -877,7 +884,6 @@ These are performed like any other Endeavor, with the following adjustments, act
   </h4>
   <table>
     <tbody>
-      <tr>
       <tr>
         <th scope="row">Perform Combo</th>
         <td><code>Special Action</code> Remove up to <b>X</b> opponents with three Wound buttons in a row from the Endeavor, then wound up to <b>X</b> remaining opponents.</td>
@@ -945,7 +951,6 @@ These are performed like any other Endeavor, with the following adjustments, act
   </h4>
   <table>
     <tbody>
-      <tr>
       <tr>
         <th scope="row">Overcome</th>
         <td><code>Special Action</code> Move up by <b>X</b>, ignoring the first Terrain button you would activate during this movement.</td>
