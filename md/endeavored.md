@@ -438,6 +438,14 @@ These are performed like any other Endeavor, with the following adjustments, act
 ### Specialization Options
 <!-- _class: ability -->
 
+| Defiant Specialization |
+| --- |
+| *Effect:* During Unit Endeavors, units you operate gain the Resist special action. **Resist:** `Special Action` Spend any number of ⑥. For each spent this way, add a Shield button to a random position on your track if a Hit or Shield button is not there already. |
+
+| Explosive Specialization |
+| --- |
+| *Effect:* During Unit Endeavors, you may violently Attack units directly if their Unit Stat Die size is no larger than your Action Die. On a success hit the unit once. |
+
 | Hidden Specialization |
 | --- |
 | *Effect:* Once per Stealth Endeavor as an action, you may use your Action Die to perform a Check to find or create a safe place. On a success, add a temporary Sanctuary button at your location, removed <b>X</b> rounds from now at the end of the round. |
