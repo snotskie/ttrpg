@@ -112,15 +112,15 @@ Discuss with others at your table **what that genre** means to you and the **tro
 
 | ⚔️ Vice &amp; Virtue Setting Ethic |
 | --- |
-| This Setting Ethic is familiar and fit for good vs. evil stories. *Genre:* high fantasy, utopian sci-fi, shonen, optimistic post-apocalypse, mythological, magical realism, allegorical fables, urban fantasy, and children's stories. *Typical Optional Stats:* Hex, Ham, Holly Jolly, Headline, Hardy. *Typical Lifestyle Upgrades:* Blossomed, Driven, Steadfast. *Typical Ethic Upgrades:* Pride & Prudence, Greed & Vanity, Rite & Divinity, Precision & Accuracy. *Evergreen Specializations:* All characters always have the effects of the Ambitious, Fortunate, Legendary, Supportive, and Well-Traveled Specializations. |
+| This Setting Ethic is familiar and fit for good vs. evil stories. *Genre:* high fantasy, utopian sci-fi, shonen, optimistic post-apocalypse, mythological, magical realism, allegorical fables, urban fantasy, and children's stories. *Typical Optional Stats:* Hex, Ham, Holly Jolly, Headline, Hardy. *Typical Lifestyle Upgrades:* Blossomed, Driven, Steadfast. *Typical Ethic Upgrades:* Pride & Prudence, Greed & Vanity, Rite & Divinity, Precision & Accuracy. *Evergreen Specializations:* Ambitious, Fortunate, Legendary, Supportive, Well-Traveled. |
 
 | 🌒 Fate &amp; Knowledge Setting Ethic |
 | --- |
-| This Setting Ethic resists feeling familiar, as it often subverts familiarity in order to invoke unsettling feelings. *Genre:* dark fantasy, gothic fiction, mystical post-apocalypse, psy-fi, cosmic horror, occult fiction, dystopian fiction, and supernatural horror. *Typical Optional Stats:* Hologram, Host, Hardship, Haunted, Haze. *Typical Lifestyle Upgrades:* Prodigious, Chosen, Warry. *Typical Ethic Upgrades:* Greed & Vanity, Power & Influence, Rite & Divinity, Fairness & Value. *Evergreen Specializations:* All characters always have the effects of the Charitable, Due, Harmonious, and Prophetic Specializations. |
+| This Setting Ethic resists feeling familiar, as it often subverts familiarity in order to invoke unsettling feelings. *Genre:* dark fantasy, gothic fiction, mystical post-apocalypse, psy-fi, cosmic horror, occult fiction, dystopian fiction, and supernatural horror. *Typical Optional Stats:* Hologram, Host, Hardship, Haunted, Haze. *Typical Lifestyle Upgrades:* Prodigious, Chosen, Warry. *Typical Ethic Upgrades:* Greed & Vanity, Power & Influence, Rite & Divinity, Fairness & Value. *Evergreen Specializations:* Charitable, Due, Harmonious, Prophetic. |
 
 | ⚙️ Cunning &amp; Capability Setting Ethic |
 | --- |
-| This Setting Ethic fits stories well that have high stakes without a clear good vs. evil component. *Genre:* cyberpunk, steam punk, hard sci-fi, spy fiction, heist fiction, josei, surveillance-state fiction, noir, and antihero/villain stories. *Typical Optional Stats:* Hunch, Hardware, Hireling, Host, Hardship. *Typical Lifestyle Upgrades:* Crafty, Wired, Compelling. *Typical Ethic Upgrades:* Pride & Prudence, Power & Influence, Precision & Accuracy, Fairness & Value. *Evergreen Specializations:* All characters always have the effects of the Ambitious, Favorable, Reliable, and Shrouded Specializations. |
+| This Setting Ethic fits stories well that have high stakes without a clear good vs. evil component. *Genre:* cyberpunk, steam punk, hard sci-fi, spy fiction, heist fiction, josei, surveillance-state fiction, noir, and antihero/villain stories. *Typical Optional Stats:* Hunch, Hardware, Hireling, Host, Hardship. *Typical Lifestyle Upgrades:* Crafty, Wired, Compelling. *Typical Ethic Upgrades:* Pride & Prudence, Power & Influence, Precision & Accuracy, Fairness & Value. *Evergreen Specializations:* Ambitious, Favorable, Reliable, Shrouded. |
 
 ### Character Sheets</h3>
 <!-- _class: major creation -->
@@ -410,13 +410,15 @@ Characters in this game may have a number of unique effects based on their Aptit
 
 **Aptitudes:** Your Aptitudes are the important and often unique narrative areas you are "apt" in.
 
+**Aptitude Ease:** When you perform a Check related enough to your Aptitudes, you may round rolls of 3 or 4 up to 5.
+
+**Aptitude Difficulty:** When another character Attacks you, if the Check is related enough to your Aptitudes, its difficulty is one rank higher.
+
 **Specializations:** Your Specializations are the Aptitudes you have "specialized," which grant you unique effects depending on the nature of the specialization. You may specialize your Aptitudes in the Session Shop. An example is given below.
 
 **Specialization Limits:** You may not specialize the same Aptitude more than once or choose the same Specialization more than once.
 
-**Aptitude Ease:** When you perform a Check related enough to your Aptitudes, you may round rolls of 3 or 4 up to 5.
-
-**Aptitude Difficulty:** When another character Attacks you, if the Check is related enough to your Aptitudes, its difficulty is one rank higher.
+**Evergreen Specializations:** The game's Setting Ethic provides a number of "evergreen" Specializations. All characters in the game, whether controlled by the players or not, always have the effects of those evergreen Specializations, regardless of their Backstory or Aptitudes.
 
 <div>
   <p>
