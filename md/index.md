@@ -97,7 +97,33 @@ I hope you can take the rules that follow and run with them. I hope playing this
 
 ## Making Your First Character
 <!-- _class: major creation -->
-<h3>Character Sheets</h3>
+<h3>Step Zero · Set the Tone</h3>
+
+All characters in this game have an Ethic that describes their worldview. But the setting itself *also* has an Ethic of its own, called a **Setting Ethic**.
+
+Setting Ethics capture the **tone and broad genre** of the game as a whole. Setting Ethics can shape events in the story, characters, and places, as well as the consequences of rolling very high or very low.
+
+The following pages describe Setting Ethics options. Each refers to rules that you will learn about as you create your first character and begin to play the game. For now, **choose a Setting Ethic**, at table discretion, based on the genre, tone, and type of story you would like to play in.
+
+Discuss with others at your table **what that genre** means to you and the **tropes within that genre** you **would and would not** like to see in your game.
+
+### Setting Ethics
+<!-- _class: ability -->
+
+| ⚔️ Vice &amp; Virtue Setting Ethic |
+| --- |
+| This Setting Ethic is familiar and fit for good vs. evil stories. *Genre:* high fantasy, utopian sci-fi, shonen, optimistic post-apocalypse, mythological, magical realism, allegorical fables, urban fantasy, and children's stories. *Typical Optional Stats:* Hex, Ham, Holly Jolly, Headline, Hardy. *Typical Lifestyle Upgrades:* Blossomed, Driven, Steadfast. *Typical Ethic Upgrades:* Pride & Prudence, Greed & Vanity, Rite & Divinity, Precision & Accuracy. *Evergreen Specializations:* All characters always have the effects of the Ambitious, Fortunate, Legendary, Supportive, and Well-Traveled Specializations. |
+
+| 🌒 Fate &amp; Knowledge Setting Ethic |
+| --- |
+| This Setting Ethic resists feeling familiar, as it often subverts familiarity in order to invoke unsettling feelings. *Genre:* dark fantasy, gothic fiction, mystical post-apocalypse, psy-fi, cosmic horror, occult fiction, dystopian fiction, and supernatural horror. *Typical Optional Stats:* Hologram, Host, Hardship, Haunted, Haze. *Typical Lifestyle Upgrades:* Prodigious, Chosen, Warry. *Typical Ethic Upgrades:* Greed & Vanity, Power & Influence, Rite & Divinity, Fairness & Value. *Evergreen Specializations:* All characters always have the effects of the Charitable, Due, Harmonious, and Prophetic Specializations. |
+
+| ⚙️ Cunning &amp; Capability Setting Ethic |
+| --- |
+| This Setting Ethic fits stories well that have high stakes without a clear good vs. evil component. *Genre:* cyberpunk, steam punk, hard sci-fi, spy fiction, heist fiction, josei, surveillance-state fiction, noir, and antihero/villain stories. *Typical Optional Stats:* Hunch, Hardware, Hireling, Host, Hardship. *Typical Lifestyle Upgrades:* Crafty, Wired, Compelling. *Typical Ethic Upgrades:* Pride & Prudence, Power & Influence, Precision & Accuracy, Fairness & Value. *Evergreen Specializations:* All characters always have the effects of the Ambitious, Favorable, Reliable, and Shrouded Specializations. |
+
+### Character Sheets</h3>
+<!-- _class: major creation -->
 
 <div>
 
@@ -331,17 +357,6 @@ Once you've chosen your starter Lifestyle and Ethic, **two of your Stats** will 
 | --- |
 | *Description:* At the end of the day, you may believe that the only person you can really trust is yourself. You may also believe that the world is unfair, "good" and "fate" are made up ideas, and you'd do whatever it takes to just get by. |
 
-### Setting Ethic
-<!-- _class: rules -->
-
-The game's setting shapes its events, characters, and places, as well as the consequences of rolling very high or very low. The setting also has an Ethic of its own, which shapes its tone and what it means to be Carefree, Eager, or Wisened there.
-
-**⚔️ Vice &amp; Virtue:** This Setting Ethic is familiar and fit for good vs. evil stories. *Genre:* high fantasy, utopian sci-fi, shonen, optimistic post-apocalypse, mythological, magical realism, allegorical fables, urban fantasy, and children's stories.  *Typical Lifestyle Upgrades:* Blossomed, Driven, Steadfast. *Typical Ethic Upgrades:* Pride & Prudence, Greed & Vanity, Rite & Divinity, Precision & Accuracy.
-
-**🌒 Fate &amp; Knowledge:** This Setting Ethic resists feeling familiar, as it often subverts familiarity in order to invoke unsettling feelings. *Genre:* dark fantasy, gothic fiction, mystical post-apocalypse, psy-fi, cosmic horror, occult fiction, dystopian fiction, and supernatural horror. *Typical Lifestyle Upgrades:* Prodigious, Chosen, Warry. *Typical Ethic Upgrades:* Greed & Vanity, Power & Influence, Rite & Divinity, Fairness & Value.
-
-**⚙️ Cunning &amp; Capability:** This Setting Ethic fits stories well that have high stakes without a clear good vs. evil component. *Genre:* cyberpunk, steam punk, hard sci-fi, spy fiction, heist fiction, josei, surveillance-state fiction, noir, and antihero/villain stories. *Typical Lifestyle Upgrades:* Crafty, Wired, Compelling. *Typical Ethic Upgrades:* Pride & Prudence, Power & Influence, Precision & Accuracy, Fairness & Value.
-
 ### Step Three · Describe Backstory
 <!-- _class: creation -->
 
@@ -521,7 +536,7 @@ In general:
 
 **Pool of Blessings:** You have a pool of Blessings, representing resources you can draw upon when the moment calls.
 
-**Gaining Blessings:** You will be awarded Blessings for good role play, creativity, and setting-specific achievements, according to the Blessing Opportunities table below and either your Ethic or the Setting Ethic (at table discretion). When you gain a Blessing, roll a d6 and add that die to your pool of Blessings.
+**Gaining Blessings:** You will be awarded Blessings for good role play, creativity, and setting-specific events according to the Setting Ethic and your relevant Specializations. When you gain a Blessing, roll a d6 and add that die to your pool of Blessings.
 
 **Spending Blessings:** When you spend a Blessing, remove it from your pool of Blessings. An effect may require you to spend a Blessing of at least a certain size or multiple Blessings at the same time. The Blessing Notation table below provides examples of how these are notated.
 
@@ -547,67 +562,26 @@ In general:
   | ⊜⊜ | Two Blessings of the same worth. |
 </div>
 
-<div>
-  <h4>
-    Blessing Opportunities
-  </h4>
-  <table>
-    <tbody>
-      <tr>
-        <th scope="row" rowspan="2">Vice &amp; Virtue</th>
-        <th scope="row">Achievement</th>
-        <td>Gain Blessings for completing important story milestones.</td>
-      </tr>
-      <tr>
-        <th scope="row">Legend</th>
-        <td>On your first Major Success each session, gain a Blessing. Each other player whose character witnessed or heard about that success also gains a Blessing.</td>
-      </tr>
-      <tr>
-        <th scope="row" rowspan="2">Fate &amp; Knowledge</th>
-        <th scope="row">Debt</th>
-        <td>Gain a number of Blessings during certain interactions with non-player characters, who may consider you in their debt as a result.</td>
-      </tr>
-      <tr>
-        <th scope="row">Revelation</th>
-        <td>On your first Major Success each session, gain or steal a total of three Blessings from other characters in the scene.</td>
-      </tr>
-      <tr>
-        <th scope="row" rowspan="2">Cunning &amp; Capability</th>
-        <th scope="row">Reliability</th>
-        <td>Gain Blessings for completing important story milestones.</td>
-      </tr>
-      <tr>
-        <th scope="row">Favorability</th>
-        <td>You accrue "favorability" with others as a result of your Backstory and actions. Within reason, when your favorability with someone is positive, you may call on them, decrease that favorability by an amount, and gain that many Blessings.</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-
 ### Helping
 <!-- _class: rules -->
 
-Characters may spend their Blessings to Help one another succeed Checks.
+Some effects allow characters to spend their Blessings to Help one another succeed Checks.
 
-<div>
+In general:
 
-To provide Help:
+**No Self Help:** You may not provide Help to your own rolls.
 
-1. **Help Cost:** Once per Check you may spend ① to Help another character.
-2. **Help Bonus:** Add half the value of the spent Blessing to the roll, rounded down, to a minimum of 1. If the Check effect uses the <b>X</b> symbol, you may increase <b>X</b> instead.
-3. **Help Bust:** Teamwork makes the dream work, but it also complicates the situation. Regardless of the Check's result, it gains an additional bust.
+**Once per Roll:** You may not provide multiple Help effects to the same roll.
 
-</div>
-
-Also note:
-
-**Help on Hard Checks:** If you Help roll for a Check that requires multiple rolls, only the lowest of those rolls is Helped.
+**Help within Reason:** You cannot Help if you are engaged in another action, if it would be unreasonable, or if the other character does not want the Help.
 
 **Multiple Helpers:** Multiple characters can Help the same roll if they each pay the cost.
 
-**Help within Reason:** You cannot Help if you are engaged in another action or if it would be unreasonable.
+**Help on Hard Checks:** If you Help roll for a Check that requires multiple rolls, only the lowest of those rolls is Helped.
 
 **Help as Group:** Providing and receiving Help is considered acting as a group.
+
+**Additional Bust:** Teamwork makes the dream work, but it also complicates the situation. Regardless of the Check's result, it gains an additional bust, such as drawing unwanted attention or wasting time.
 
 ### Spark Rolls
 <!-- _class: rules -->
@@ -735,8 +709,6 @@ Also note:
 
 **X:** During Endeavors, <b>X</b> uses the size of your Action Die. If it is modified by Help, it is modified for only one action.
 
-**Unused Help:** Any unused Help effects end at the end of the round.
-
 ### Actions
 <!-- _class: rules -->
 
@@ -752,7 +724,7 @@ In general:
 
 **Special Actions:** Actions with the `Special Action` tag cannot be performed during your turn. Instead, at the end of the round when all other actions are complete, whoever has the highest number of Blessings chooses a special action to perform, resolving ties at table discretion.
 
-**Help as Action:** Providing Help uses your action.
+**Help as Action:** Providing Help uses your action. Any unused Help effects end at the end of the round, before special actions.
 
 **Effects as Normal:** You may activate your other effects as normal, whenever would be most appropriate before, during, or after your turn. These do not use your action unless stated otherwise.
 
@@ -1091,9 +1063,13 @@ At the end of each session, you receive one free Stat Upgrade for your character
 ### Specialization Options
 <!-- _class: ability -->
 
+| Ambitious Specialization |
+| --- |
+| *Effect:* Gain Blessings, at table discretion, for completing important story milestones. |
+
 | Analytical Specialization |
 | --- |
-| *Effect:* Twice per session, you may provide Help by rolling four d6 and grouping those dice into two piles of two. If addition or multiplication could make the piles equal, increase the result or <b>X</b> of the roll you are Helping by +5. For example, 1, 1, 1, and 2 could be grouped this way as 1×2=1+1. |
+| *Effect:* Twice per session, as Help, you may roll four d6 and group those dice into two piles of two. If addition or multiplication could make the piles equal, increase the result or <b>X</b> of the Helped roll by +5. For example, 1, 1, 1, and 2 could be grouped this way as 1×2=1+1. |
 
 | Ascendant Specialization |
 | --- |
@@ -1119,10 +1095,6 @@ At the end of each session, you receive one free Stat Upgrade for your character
 | --- |
 | *Effect:* During Endeavors, when you roll 10 or more attacking an opponent, they spend an unspent Stat at random. *Recharge:* ②. |
 
-<!-- | Delegated Specialization |
-| --- |
-| *Effect:* During a Clash Endeavor, your summons may perform Spark rolls by working together in pairs, using one Stat from each, so long as the chosen Stats are balanced and you pay the Blessing cost. | -->
-
 | Determined Specialization |
 | --- |
 | *Effect:* Once per action, you may ignore the negative effects of your injuries and conditions. *Recharge:* ③. |
@@ -1131,25 +1103,29 @@ At the end of each session, you receive one free Stat Upgrade for your character
 | --- |
 | *Effect:* During Endeavors, once per round when an opponent activates a button that stops their movement as a result of your action, after resolving that button they continue moving however much movement would have been prevented. |
 
+| Due Specialization |
+| --- |
+| *Effect:* Gain Blessings, at table discretion, during certain interactions with non-player characters, who may consider you in their debt as a result. |
+
 | Excessive Specialization |
 | --- |
 | *Effect:* Once per session, you may destroy a thing you have gained, such as an item, information, or alliance. Until the end of the scene, you adopt its properties, the properties of a concept associated with it, or push it to its breaking point. |
 
-| Favored Specialization |
+| Favorable Specialization |
 | --- |
-| *Effect:* When you succeed a Check related enough to this Aptitude, gain an additional boon, within reason. |
+| *Effect:* At table discretion, you accrue "favorability" with others as a result of your Backstory and actions. Within reason, when your favorability with someone is positive, you may call on them, decrease that favorability by an amount, and gain that many Blessings. |
 
 | Friendly Specialization |
 | --- |
-| *Effect:* You gain access to a creature companion, mechanical companion, or similar companion of your choice, within reason. The companion uses a d6 for all Stats and has its own Backstory and Aptitudes. It also has an Aptitude Value of 0-3 for each Aptitude, totaling 8. At the start of each session, for each Aptitude, the companion gains a number of temporary Blessings equal to its Aptitude Value for that Aptitude, which it may only spend to Help Checks related enough to that Aptitude. Unspent temporary Blessings disappear at the end of the session. If the companion is lost, stolen, destroyed, or you lose its loyalty, replacing it may require time and effort. |
+| *Effect:* You gain access to a creature companion, mechanical companion, or similar companion of your choice, within reason. The companion uses a d6 for all Stats and has its own Backstory and Aptitudes. It also has an Aptitude Value of 0-3 for each Aptitude, totaling 8. At the start of each session, for each Aptitude, the companion gains a number of temporary Blessings equal to its Aptitude Value for that Aptitude, which it may only spend to provide Help to Checks related enough to that Aptitude. Unspent temporary Blessings disappear at the end of the session. If the companion is lost, stolen, destroyed, or you lose its loyalty, replacing it may require time and effort. |
+
+| Fortunate Specialization |
+| --- |
+| *Effect:* You may automatically succeed a Check, within reason, to locate an item, place, piece of information, or character related enough to your Backstory. *Recharge:* ⑥. |
 
 | Harmonious Specialization |
 | --- |
-| *Effect:* You may perform a Spark roll using one of your Stats and one of the Stats of another willing character in the scene, so long as the chosen Stats are balanced, you both have this Specialization, and the Blessing cost is paid between you two. Doing so is considered acting as a group. |
-
-| Helpful Specialization |
-| --- |
-| *Effect:* Blessings you spend to Help another character are worth 1 more, to a maximum of 6. |
+| *Effect:* As Help, you may perform a Spark roll using one of your Stats and one of the Stats of another willing character in the scene, so long as the chosen Stats are balanced, you both have this Specialization, and the Blessing cost is paid between you two. |
 
 | Imposing Specialization |
 | --- |
@@ -1161,7 +1137,11 @@ At the end of each session, you receive one free Stat Upgrade for your character
 
 | Heavy Specialization |
 | --- |
-| *Effect:* During Endeavors, when your Action Die is in the scope of Hand or Home, you gain one fewer temporary Blessing than normal, but your <b>X</b> is one higher than normal. |
+| *Effect:* During Endeavors, when your Action Die is in the scope of Hand or Home, you gain one fewer temporary Blessing than normal before each round, but your <b>X</b> is one higher than normal. |
+
+| Legendary Specialization |
+| --- |
+| *Effect:* On your first Major Success each session, gain a Blessing. Each other player whose character witnessed or heard about that success also gains a Blessing. |
 
 | Mischievous Specialization |
 | --- |
@@ -1171,6 +1151,10 @@ At the end of each session, you receive one free Stat Upgrade for your character
 | --- |
 | *Effect:* Once per Discovery Endeavor, when a lay of the land is given, you may choose a type of glimmer button. More of that type will be added to the track than usual. | -->
 
+| Prophetic Specialization |
+| --- |
+| *Effect:* On your first Major Success each session, gain or steal a total of three Blessings from other characters in the scene. |
+
 | Protective Specialization |
 | --- |
 | *Effect:* When another nearby character would be violently Attacked, before rolls are performed, you may become the Defender instead. *Recharge:* ③. |
@@ -1178,6 +1162,10 @@ At the end of each session, you receive one free Stat Upgrade for your character
 | Radiant Specialization |
 | --- |
 | *Effect:* During Endeavors, when your Action Die is in the scope of Heart or Home, as an action you may perform a Check to empower your allies. On a success, they gain one of your other Aptitudes, including its Specialization if applicable, for <b>X</b> turns. *Recharge:* ④ |
+
+| Reliable Specialization |
+| --- |
+| *Effect:* As Help, you may spend ① to replace the result or <b>X</b> of the Helped roll with the value of the spent Blessing. This new value cannot be modified. |
 
 | Resolved Specialization |
 | --- |
@@ -1197,19 +1185,23 @@ At the end of each session, you receive one free Stat Upgrade for your character
 
 | Shrouded Specialization |
 | --- |
-| *Effect:* You may call upon a higher power, criminal underground, book of forbidden knowledge, or so on related enough to this Aptitude to gain access to secret information or an answer to a question. This information may come with consequences. *Recharge:* ④. |
+| *Effect:* You may call upon a higher power, criminal underground, book of forbidden knowledge, or so on related enough to your Backstory to gain access to secret information or an answer to a question. This information may come with consequences. *Recharge:* ⑥. |
+
+| Skilled Specialization |
+| --- |
+| *Effect:* When you succeed a Check related enough to this Aptitude, gain an additional boon, within reason. |
 
 | Spiked Specialization |
 | --- |
 | *Effect:* When a violent Attack succeeds against you at a close distance, you may have your Attackers receive a less severe version of the same injury you received. *Recharge:* ③. |
 
+| Supportive Specialization |
+| --- |
+| *Effect:* As Help, you may spend ① to add half the value of the spent Blessing to the Helped roll, rounded down, to a minimum of 1. If the Check effect uses the <b>X</b> symbol, you may increase <b>X</b> instead. |
+
 | Sure-footed Specialization |
 | --- |
 | *Effect:* During Endeavors, when you take the Protect action to protect yourself and succeed, the effect lasts <b>X</b> additional rounds. |
-
-| Tactical Specialization |
-| --- |
-| *Effect:* During Endeavors, on your turn you may have an ally Help you who has not acted yet. If they do, they skip their turn this round. |
 
 | Tireless Specialization |
 | --- |
@@ -1218,6 +1210,10 @@ At the end of each session, you receive one free Stat Upgrade for your character
 | Vibe Specialization |
 | --- |
 | *Effect:* You may adjust the "vibe" or "music" of a situation subtly. Others can't pinpoint what changed, but the mood shifts to suit your intent. *Recharge:* ④. |
+
+| Well-Traveled Specialization |
+| --- |
+| *Effect:* When an item, place, piece of information, or character is encountered for the first time, you may establish, within reason, how your Backstory relates to them or it. *Recharge:* ⑥. |
 
 | Witty Specialization |
 | --- |
