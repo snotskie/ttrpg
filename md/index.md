@@ -523,6 +523,7 @@ To perform a Check:
   | 8 or 9 | Average, such as making dinner for several friends or completing a term project or exam |
   | 10+ | Long, expensive, or complex, such as hosting a feast holiday for family or completing a year's worth of a college minor |
   | 20+ | Very long, very expensive, or very complex, such as hosting a banquet or completing a year's worth of a college major |
+  | 100+ | Inexorbitant, such as ending a famine or completing an entire doctorate degree |
 </div>
 
 ### Attacks
@@ -1080,9 +1081,13 @@ At the end of each session, you receive one free Stat Upgrade for your character
 ### Specialization Options
 <!-- _class: ability -->
 
-| Ambitious Specialization |
+| Accrued Specialization |
 | --- |
-| *Effect:* When you fail a Check, you may lower the value on the die to a 1, causing it to bump and potentially turning the failure into a success. *Recharge:* ④. |
+| *Effect:* Gain Blessings, at table discretion, during certain interactions with non-player characters, who may consider you in their debt as a result. |
+
+| Adamant Specialization |
+| --- |
+| *Effect:* When you fail a Check, you may lower the value on the die to a 1, causing it to bump and potentially turn the failure into a success. *Recharge:* ④. |
 
 | Ambitious Specialization |
 | --- |
@@ -1106,15 +1111,11 @@ At the end of each session, you receive one free Stat Upgrade for your character
 
 | Creative Specialization |
 | --- |
-| *Effect:*Increase the difficulty one rank of a Check in a social situation, but ignore the result of the lowest die if it would cause you to fail. *Recharge:* ④. |
+| *Effect:* Increase the difficulty one rank of a Check in a social situation, but ignore the lowest roll if it would cause you to fail. *Recharge:* ④. |
 
 | Determined Specialization |
 | --- |
 | *Effect:* Once per action, you may ignore the negative effects of your injuries and conditions. *Recharge:* ③. |
-
-| Due Specialization |
-| --- |
-| *Effect:* Gain Blessings, at table discretion, during certain interactions with non-player characters, who may consider you in their debt as a result. |
 
 | Excessive Specialization |
 | --- |
