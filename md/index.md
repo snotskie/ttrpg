@@ -1096,10 +1096,6 @@ At the end of each session, you receive one free Stat Upgrade for your character
 | --- |
 | *Effect:* You may perform a non-violent Spark roll using 3 Stat Dice, so long as those Stats are balanced, each use a d8 or larger, and you pay double the Blessing cost as usual. |
 
-| Attentive Specialization |
-| --- |
-| *Effect:* During Endeavors, when you succeed a Check in the scope of Hand or Heart, for your subsequent <b>X</b> actions you may perform a violent Attack using either of those Stats. *Recharge:* ③. |
-
 | Calm Specialization |
 | --- |
 | *Effect:* Once per session, when you are in a safe place, you may perform a Check in the scope of Head or Home. Then once before the end of the session, you may use the value of that roll instead of rolling for another non-violent Check. |
@@ -1108,25 +1104,13 @@ At the end of each session, you receive one free Stat Upgrade for your character
 | --- |
 | *Effect:* When you visit a place of religious, spiritual, or community importance, you may spend any number of Blessings as a donation or act of service to the place. The more spent this way, the greater a possible later outcome may be, determined at table discretion. |
 
-| Coordinated Specialization |
-| --- |
-| *Effect:* During Endeavors, when you succeed a Check in the scope of Head or Hand, as part of the same action you may provide another character Help, within reason. |
-
 | Creative Specialization |
 | --- |
 | *Effect:*Increase the difficulty one rank of a Check in a social situation, but ignore the result of the lowest die if it would cause you to fail. *Recharge:* ④. |
 
-| Critical Specialization |
-| --- |
-| *Effect:* During Endeavors, when you roll 10 or more attacking an opponent, they spend an unspent Stat at random. *Recharge:* ②. |
-
 | Determined Specialization |
 | --- |
 | *Effect:* Once per action, you may ignore the negative effects of your injuries and conditions. *Recharge:* ③. |
-
-| Dominating Specialization |
-| --- |
-| *Effect:* During Endeavors, once per round when an opponent activates a button that stops their movement as a result of your action, after resolving that button they continue moving however much movement would have been prevented. |
 
 | Due Specialization |
 | --- |
@@ -1152,17 +1136,9 @@ At the end of each session, you receive one free Stat Upgrade for your character
 | --- |
 | *Effect:* As Help, you may perform a Spark roll using one of your Stats and one of the Stats of another willing character in the scene, so long as the chosen Stats are balanced, you both have this Specialization, and the Blessing cost is paid between you two. |
 
-| Imposing Specialization |
-| --- |
-| *Effect:* For the first roll you make during an Endeavor, roll an additional time and ignore the lowest result. |
-
 | Insured Specialization |
 | --- |
 | *Effect:* A character may automatically succeed a Check to tend to your wounds, even after they've rolled. *Recharge:* ①. When this effect is recharged, increase the cost to recharge it by ①①. |
-
-| Heavy Specialization |
-| --- |
-| *Effect:* During Endeavors, when your Action Die is in the scope of Hand or Home, you gain one fewer temporary Blessing than normal before each round, but your <b>X</b> is one higher than normal. |
 
 | Legendary Specialization |
 | --- |
@@ -1172,10 +1148,6 @@ At the end of each session, you receive one free Stat Upgrade for your character
 | --- |
 | *Effect:* When another character would succeed a Check, you may distract them using a thing you have gained, such as an item, information, or alliance. If you do, modify that character's result by -3, possibly turning their success into a failure. *Recharge:* ⑥. |
 
-<!-- | Perceptive Specialization |
-| --- |
-| *Effect:* Once per Discovery Endeavor, when a lay of the land is given, you may choose a type of glimmer button. More of that type will be added to the track than usual. | -->
-
 | Prophetic Specialization |
 | --- |
 | *Effect:* On your first Major Success each session, gain or steal a total of three Blessings from other characters in the scene. |
@@ -1183,10 +1155,6 @@ At the end of each session, you receive one free Stat Upgrade for your character
 | Protective Specialization |
 | --- |
 | *Effect:* When another nearby character would be violently Attacked, before rolls are performed, you may become the Defender instead. *Recharge:* ③. |
-
-| Radiant Specialization |
-| --- |
-| *Effect:* During Endeavors, when your Action Die is in the scope of Heart or Home, as an action you may perform a Check to empower your allies. On a success, they gain one of your other Aptitudes, including its Specialization if applicable, for <b>X</b> turns. *Recharge:* ④. |
 
 | Resolved Specialization |
 | --- |
@@ -1220,14 +1188,6 @@ At the end of each session, you receive one free Stat Upgrade for your character
 | --- |
 | *Effect:* As Help, you may spend ① to add half the value of the spent Blessing to the Helped roll, rounded down, to a minimum of 1. If the Check effect uses the <b>X</b> symbol, you may increase <b>X</b> instead. |
 
-| Sure-footed Specialization |
-| --- |
-| *Effect:* During Endeavors, when you take the Protect action to protect yourself and succeed, the effect lasts <b>X</b> additional rounds. |
-
-| Tireless Specialization |
-| --- |
-| *Effect:* When you gain this Specialization, choose a Stat. During Endeavors, you may use the chosen Stat as your Action Die even while it is spent, except its Stat Die is replaced with a d6 or stays its original size, whichever is smaller. |
-
 | Vibe Specialization |
 | --- |
 | *Effect:* You may adjust the "vibe" or "music" of a situation subtly. Others can't pinpoint what changed, but the mood shifts to suit your intent. *Recharge:* ④. |
@@ -1239,10 +1199,6 @@ At the end of each session, you receive one free Stat Upgrade for your character
 | Witty Specialization |
 | --- |
 | *Effect:* When a non-violent Attack related enough to this Aptitude succeeds against you, you may have the Attacker receive a less severe version of the same effect you received. |
-
-| Zealous Specialization |
-| --- |
-| *Effect:* During Endeavors, when your Action Die is in the scope of Head or Heart, as an action you may have you and up to <b>X</b> allies each gain a Zeal button 1 below your current track positions. *Recharge:* ④. **Zeal button:** *Type:* Personal. *Activation:* Activated when you move over it. *Effect:* End your movement, remove this button, and immediately Attack a nearby opponent, even if you have already acted this round. |
 
 ## Printables
 <!-- _class: major -->

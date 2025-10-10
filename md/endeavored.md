@@ -438,13 +438,33 @@ These are performed like any other Endeavor, with the following adjustments, act
 ### Specialization Options
 <!-- _class: ability -->
 
+| Attentive Specialization |
+| --- |
+| *Effect:* During Endeavors, when you succeed a Check in the scope of Hand or Heart, for your subsequent <b>X</b> actions you may perform a violent Attack using either of those Stats. *Recharge:* ③. |
+
+| Coordinated Specialization |
+| --- |
+| *Effect:* During Endeavors, when you succeed a Check in the scope of Head or Hand, as part of the same action you may provide another character Help, within reason. |
+
+| Critical Specialization |
+| --- |
+| *Effect:* During Endeavors, when you roll 10 or more attacking an opponent, they spend an unspent Stat at random. *Recharge:* ②. |
+
 | Defiant Specialization |
 | --- |
 | *Effect:* During Unit Endeavors, units you operate gain the Resist special action. **Resist:** `Special Action` Spend any number of ⑥. For each spent this way, add a Shield button to a random position on your track if a Hit or Shield button is not there already. |
 
+| Dominating Specialization |
+| --- |
+| *Effect:* During Endeavors, once per round when an opponent activates a button that stops their movement as a result of your action, after resolving that button they continue moving however much movement would have been prevented. |
+
 | Explosive Specialization |
 | --- |
 | *Effect:* During Unit Endeavors, you may violently Attack units directly if their Unit Stat Die size is no larger than your Action Die. On a success hit the unit once. |
+
+| Heavy Specialization |
+| --- |
+| *Effect:* During Endeavors, when your Action Die is in the scope of Hand or Home, you gain one fewer temporary Blessing than normal before each round, but your <b>X</b> is one higher than normal. |
 
 | Hidden Specialization |
 | --- |
@@ -454,9 +474,33 @@ These are performed like any other Endeavor, with the following adjustments, act
 | --- |
 | *Effect:* Once per Stealth Endeavor as an action, you may use your Action Die to perform a Check to hijack the Eye's defenses. On a success, choose an Alarm button within <b>X</b> spaces of your position. That button no longer activates and you may take the Work action as though you were at that button's location. |
 
+| Imposing Specialization |
+| --- |
+| *Effect:* For the first roll you make during an Endeavor, roll an additional time and ignore the lowest result. |
+
+<!-- | Perceptive Specialization |
+| --- |
+| *Effect:* Once per Discovery Endeavor, when a lay of the land is given, you may choose a type of glimmer button. More of that type will be added to the track than usual. | -->
+
+| Radiant Specialization |
+| --- |
+| *Effect:* During Endeavors, when your Action Die is in the scope of Heart or Home, as an action you may perform a Check to empower your allies. On a success, they gain one of your other Aptitudes, including its Specialization if applicable, for <b>X</b> turns. *Recharge:* ④. |
+
 | Stubborn Specialization |
 | --- |
 | *Effect:* Once per Rush Endeavor when you would be foiled, you may instead exhaust your spent Stat Die until the end of the Endeavor. Exhausted Stat Dice cannot be regained. |
+
+| Sure-footed Specialization |
+| --- |
+| *Effect:* During Endeavors, when you take the Protect action to protect yourself and succeed, the effect lasts <b>X</b> additional rounds. |
+
+| Tireless Specialization |
+| --- |
+| *Effect:* When you gain this Specialization, choose a Stat. During Endeavors, you may use the chosen Stat as your Action Die even while it is spent, except its Stat Die is replaced with a d6 or stays its original size, whichever is smaller. |
+
+| Zealous Specialization |
+| --- |
+| *Effect:* During Endeavors, when your Action Die is in the scope of Head or Heart, as an action you may have you and up to <b>X</b> allies each gain a Zeal button 1 below your current track positions. *Recharge:* ④. **Zeal button:** *Type:* Personal. *Activation:* Activated when you move over it. *Effect:* End your movement, remove this button, and immediately Attack a nearby opponent, even if you have already acted this round. |
 
 ## Printables
 <!-- _class: major -->
