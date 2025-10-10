@@ -469,7 +469,7 @@ To perform a Check:
 3. **Roll:** Roll your Stat Die for the chosen Stat. The higher you roll, the greater your degree of success, as described in the Check Outcomes table below.
 4. **Boons and Busts:** Some successes grant you narrative benefits, called "boons," while others are accompanied by complications, called "busts." If you get a boon and a bust on the same Check, they do not cancel each other out but instead lead to a more nuanced result.
 5. **X:** Whereas boons and busts shape *narrative* results, some effects also use an <b>X</b> symbol to represent a *mechanical* result size. <b>X</b> is determined based on the Effect <b>X</b> Values table below and the size of the largest or most narratively important Stat Die used to perform the Check.
-6. **Gain X Progress:** At table discretion, some goals may require a progress total, or tiers of progress, to be reached through a series of Checks, such as crafting items or attending school. On each success, gain <b>X</b> towards the progress total. Boons and busts accumulate and shape the final result. Incremental benefits, challenges, or story may come from reaching different tiers of progress.
+6. **Gain X Progress:** At table discretion, some goals may require a progress total, or tiers of progress, to be reached through a series of Checks, such as crafting items or attending school. On each success, gain <b>X</b> towards the progress total. Boons and busts accumulate and shape the final result. Incremental benefits, challenges, or story may come from reaching different tiers of progress. For reference, see the <b>X</b> Progress Scale table below.
 
 </div>
 
@@ -508,6 +508,21 @@ To perform a Check:
   | d2 | d4 | d6 | d8 | d10 |
   | ---- | ---- | ---- | ---- | ---- |
   | 1 | 1 | 2 | 2 | 3 |
+</div>
+
+<div>
+  <h4>
+    <b>X</b> Progress Scale
+  </h4>
+
+  | Total Required | Expected Duration, Cost, or Complexity |
+  | -------------- | -------------------------------------- |
+  | 3 or less | Very quick, very cheap, or very trivial, such as making a snack or attending a class |
+  | 4 or 5 | Quick, cheap, or trivial, such as making lunch or participating in class |
+  | 6 or 7 | Short, affordable, or simple, such as making dinner or completing a graded assignment |
+  | 8 or 9 | Average, such as making dinner for several friends or completing a term project or exam |
+  | 10+ | Long, expensive, or complex, such as hosting a feast holiday for family or completing a year's worth of a college minor |
+  | 20+ | Very long, very expensive, or very complex, such as hosting a banquet or completing a year's worth of a college major |
 </div>
 
 ### Attacks
@@ -1067,6 +1082,10 @@ At the end of each session, you receive one free Stat Upgrade for your character
 
 | Ambitious Specialization |
 | --- |
+| *Effect:* When you fail a Check, you may lower the value on the die to a 1, causing it to bump and potentially turning the failure into a success. *Recharge:* ④. |
+
+| Ambitious Specialization |
+| --- |
 | *Effect:* Gain Blessings, at table discretion, for completing important story milestones. |
 
 | Analytical Specialization |
@@ -1079,7 +1098,7 @@ At the end of each session, you receive one free Stat Upgrade for your character
 
 | Attentive Specialization |
 | --- |
-| *Effect:* When you succeed a Check in the scope of Hand or Heart, for your subsequent <b>X</b> actions you may perform a violent Attack using either of those Stats. *Recharge:* ③. |
+| *Effect:* During Endeavors, when you succeed a Check in the scope of Hand or Heart, for your subsequent <b>X</b> actions you may perform a violent Attack using either of those Stats. *Recharge:* ③. |
 
 | Calm Specialization |
 | --- |
@@ -1091,7 +1110,11 @@ At the end of each session, you receive one free Stat Upgrade for your character
 
 | Coordinated Specialization |
 | --- |
-| *Effect:* When you succeed a Check in the scope of Head or Hand, as part of the same action you may provide another character Help, within reason. |
+| *Effect:* During Endeavors, when you succeed a Check in the scope of Head or Hand, as part of the same action you may provide another character Help, within reason. |
+
+| Creative Specialization |
+| --- |
+| *Effect:*Increase the difficulty one rank of a Check in a social situation, but ignore the result of the lowest die if it would cause you to fail. *Recharge:* ④. |
 
 | Critical Specialization |
 | --- |
@@ -1113,13 +1136,13 @@ At the end of each session, you receive one free Stat Upgrade for your character
 | --- |
 | *Effect:* Once per session, you may destroy a thing you have gained, such as an item, information, or alliance. Until the end of the scene, you adopt its properties, the properties of a concept associated with it, or push it to its breaking point. |
 
+| Exchangeable Specialization |
+| --- |
+| *Effect:* You may spend Blessings in social situations as though they were currency. Using the <b>X</b> Progress Scale table as a scale, each spent Blessing contributes half its value, rounded down, to a minimum of 1. |
+
 | Favorable Specialization |
 | --- |
 | *Effect:* At table discretion, you accrue "favorability" with others as a result of your Backstory and actions. Within reason, when your favorability with someone is positive, you may call on them, decrease that favorability by an amount, and gain that many Blessings. |
-
-| Fortunate Specialization |
-| --- |
-| *Effect:* Before rolling, you may choose to automatically succeed, within reason, on a Check using your largest Stat (or tied for largest). *Recharge:* ⑥. |
 
 | Friendly Specialization |
 | --- |
@@ -1163,11 +1186,7 @@ At the end of each session, you receive one free Stat Upgrade for your character
 
 | Radiant Specialization |
 | --- |
-| *Effect:* During Endeavors, when your Action Die is in the scope of Heart or Home, as an action you may perform a Check to empower your allies. On a success, they gain one of your other Aptitudes, including its Specialization if applicable, for <b>X</b> turns. *Recharge:* ④ |
-
-| Reliable Specialization |
-| --- |
-| *Effect:* As Help, you may spend ① to replace the result or <b>X</b> of the Helped roll with the value of the spent Blessing. This new value cannot be modified. |
+| *Effect:* During Endeavors, when your Action Die is in the scope of Heart or Home, as an action you may perform a Check to empower your allies. On a success, they gain one of your other Aptitudes, including its Specialization if applicable, for <b>X</b> turns. *Recharge:* ④. |
 
 | Resolved Specialization |
 | --- |
