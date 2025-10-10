@@ -112,15 +112,15 @@ Discuss with others at your table **what that genre** means to you and the **tro
 
 | ⚔️ Vice &amp; Virtue Setting Ethic |
 | --- |
-| This Setting Ethic is familiar and fit for good vs. evil stories. *Genre:* high fantasy, utopian sci-fi, shonen, optimistic post-apocalypse, mythological, magical realism, allegorical fables, urban fantasy, and children's stories. *Typical Optional Stats:* Hex, Ham, Holly Jolly, Headline, Hardy. *Typical Lifestyle Upgrades:* Blossomed, Driven, Steadfast. *Typical Ethic Upgrades:* Pride & Prudence, Greed & Vanity, Rite & Divinity, Precision & Accuracy. *Evergreen Specializations:* Ambitious, Fortunate, Legendary, Supportive, Well-Traveled. |
+| This Setting Ethic is familiar and fit for good vs. evil stories. *Genre:* high fantasy, utopian sci-fi, shonen, optimistic post-apocalypse, mythological, magical realism, allegorical fables, urban fantasy, and children's stories. *Typical Optional Stats:* Hex, Ham, Holly Jolly, Headline, Hardy. *Typical Lifestyle Upgrades:* Blossomed, Driven, Steadfast. *Typical Ethic Upgrades:* Pride & Prudence, Greed & Vanity, Rite & Divinity, Precision & Accuracy. *Evergreen Specializations:* Ambitious, Creative, Exchangeable, Legendary, Supportive. |
 
 | 🌒 Fate &amp; Knowledge Setting Ethic |
 | --- |
-| This Setting Ethic resists feeling familiar, as it often subverts familiarity in order to invoke unsettling feelings. *Genre:* dark fantasy, gothic fiction, mystical post-apocalypse, psy-fi, cosmic horror, occult fiction, dystopian fiction, and supernatural horror. *Typical Optional Stats:* Hologram, Host, Hardship, Haunted, Haze. *Typical Lifestyle Upgrades:* Prodigious, Chosen, Warry. *Typical Ethic Upgrades:* Greed & Vanity, Power & Influence, Rite & Divinity, Fairness & Value. *Evergreen Specializations:* Charitable, Due, Harmonious, Prophetic. |
+| This Setting Ethic resists feeling familiar, as it often subverts familiarity in order to invoke unsettling feelings. *Genre:* dark fantasy, gothic fiction, mystical post-apocalypse, psy-fi, cosmic horror, occult fiction, dystopian fiction, and supernatural horror. *Typical Optional Stats:* Hologram, Host, Hardship, Haunted, Haze. *Typical Lifestyle Upgrades:* Prodigious, Chosen, Warry. *Typical Ethic Upgrades:* Greed & Vanity, Power & Influence, Rite & Divinity, Fairness & Value. *Evergreen Specializations:* Accrued, Charitable, Creative, Harmonious, Wiley. |
 
 | ⚙️ Cunning &amp; Capability Setting Ethic |
 | --- |
-| This Setting Ethic fits stories well that have high stakes without a clear good vs. evil component. *Genre:* cyberpunk, steam punk, hard sci-fi, spy fiction, heist fiction, josei, surveillance-state fiction, noir, and antihero/villain stories. *Typical Optional Stats:* Hunch, Hardware, Hireling, Host, Hardship. *Typical Lifestyle Upgrades:* Crafty, Wired, Compelling. *Typical Ethic Upgrades:* Pride & Prudence, Power & Influence, Precision & Accuracy, Fairness & Value. *Evergreen Specializations:* Ambitious, Favorable, Reliable, Shrouded. |
+| This Setting Ethic fits stories well that have high stakes without a clear good vs. evil component. *Genre:* cyberpunk, steam punk, hard sci-fi, spy fiction, heist fiction, josei, surveillance-state fiction, noir, and antihero/villain stories. *Typical Optional Stats:* Hunch, Hardware, Hireling, Host, Hardship. *Typical Lifestyle Upgrades:* Crafty, Wired, Compelling. *Typical Ethic Upgrades:* Pride & Prudence, Power & Influence, Precision & Accuracy, Fairness & Value. *Evergreen Specializations:* Adamant, Ambitious, Favorable, Harmonious, Shrouded. |
 
 ### Character Sheets</h3>
 <!-- _class: major creation -->
@@ -1149,10 +1149,6 @@ At the end of each session, you receive one free Stat Upgrade for your character
 | --- |
 | *Effect:* When another character would succeed a Check, you may distract them using a thing you have gained, such as an item, information, or alliance. If you do, modify that character's result by -3, possibly turning their success into a failure. *Recharge:* ⑥. |
 
-| Prophetic Specialization |
-| --- |
-| *Effect:* On your first Major Success each session, gain or steal a total of three Blessings from other characters in the scene. |
-
 | Protective Specialization |
 | --- |
 | *Effect:* When another nearby character would be violently Attacked, before rolls are performed, you may become the Defender instead. *Recharge:* ③. |
@@ -1196,6 +1192,10 @@ At the end of each session, you receive one free Stat Upgrade for your character
 | Well-Traveled Specialization |
 | --- |
 | *Effect:* When an item, place, piece of information, or character is encountered for the first time, you may establish, within reason, how your Backstory relates to them or it. *Recharge:* ⑥. |
+
+| Wiley Specialization |
+| --- |
+| *Effect:* On your first Major Success each session, gain or steal a total of three Blessings from other characters in the scene. |
 
 | Witty Specialization |
 | --- |
