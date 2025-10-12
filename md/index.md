@@ -78,7 +78,7 @@ The online version of this book (<https://snotskie.com/ttrpg/>) will automatical
 
 **Access:** This game is published for free, open source, and in a digital format that follows your existing accessibility settings. You are welcome to redistribute (but not modify or sell) copies of this book.
 
-**Community:** For community content and discussions, visit <https://github.com/snotskie/ttrpg/discussions>.
+<!-- **Community:** For community content and discussions, visit <https://github.com/snotskie/ttrpg/discussions>. -->
 
 ### "At Table Discretion"
 <!-- _class: intro -->
@@ -285,6 +285,136 @@ Also note:
   | d2  | Any of the above dice, treating any odd number as 1 and any even number as 2. The smallest die size in the game. |
 </div>
 
+**Using d20s:** *Humanity, Blessed* only uses dice of size d2 through d10. However, sometimes you may want to use a d20 instead. Perhaps you've collected a fun set of d20s, you're controlling many characters at once, or you don't want to reveal NPC Stat Dice sizes. Whatever the case, you may use the d20 Conversion table below to approximate this game's dice. Note how d20 values are converted for the d6 and d8, which allow it to behave within about 5% of those dice.
+
+<div>
+  <h4>
+    d20 Conversion
+  </h4>
+  <table>
+    <tbody>
+      <tr>
+        <th scope="row">d20</th>
+        <th>5</th>
+        <th>6</th>
+        <th>7</th>
+        <th>8</th>
+        <th>9</th>
+        <th>10</th>
+        <th>11</th>
+        <th>12</th>
+      </tr>
+      <tr>
+        <th scope="row">d10</th>
+        <td>5</td>
+        <td>6</td>
+        <td>7</td>
+        <td>8</td>
+        <td>9</td>
+        <td style="border-right: 1px solid">10</td>
+        <td>1</td>
+        <td>2</td>
+      </tr>
+      <tr>
+        <th scope="row">d8</th>
+        <td>5</td>
+        <td>6</td>
+        <td>7</td>
+        <td style="border-right: 1px solid">8</td>
+        <td>1</td>
+        <td>2</td>
+        <td>3</td>
+        <td>4</td>
+      </tr>
+      <tr>
+        <th scope="row">d6</th>
+        <td>5</td>
+        <td style="border-right: 1px solid">6</td>
+        <td>1</td>
+        <td>2</td>
+        <td>3</td>
+        <td>4</td>
+        <td>5</td>
+        <td style="border-right: 1px solid">6</td>
+      </tr>
+      <tr>
+        <th scope="row">d4</th>
+        <td>1</td>
+        <td>2</td>
+        <td>3</td>
+        <td style="border-right: 1px solid">4</td>
+        <td>1</td>
+        <td>2</td>
+        <td>3</td>
+        <td style="border-right: 1px solid">4</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <table>
+    <tbody>
+      <tr>
+        <th scope="row">d20</th>
+        <th>13</th>
+        <th>14</th>
+        <th>15</th>
+        <th>16</th>
+        <th>17</th>
+        <th>18</th>
+        <th>19</th>
+        <th>20</th>
+      </tr>
+      <tr>
+        <th scope="row">d10</th>
+        <td>3</td>
+        <td>4</td>
+        <td>5</td>
+        <td>6</td>
+        <td>7</td>
+        <td>8</td>
+        <td>9</td>
+        <td>10</td>
+      </tr>
+      <tr>
+        <th scope="row">d8</th>
+        <td>5</td>
+        <td>6</td>
+        <td>7</td>
+        <td style="border-right: 1px solid">8</td>
+        <td><strong>1*</strong></td>
+        <td><strong>3*</strong></td>
+        <td><strong>5*</strong></td>
+        <td><strong>1*</strong></td>
+      </tr>
+      <tr>
+        <th scope="row">d6</th>
+        <td>1</td>
+        <td>2</td>
+        <td>3</td>
+        <td>4</td>
+        <td>5</td>
+        <td style="border-right: 1px solid">6</td>
+        <td><strong>5*</strong></td>
+        <td><strong>1*</strong></td>
+      </tr>
+      <tr>
+        <th scope="row">d4</th>
+        <td>1</td>
+        <td>2</td>
+        <td>3</td>
+        <td style="border-right: 1px solid">4</td>
+        <td>1</td>
+        <td>2</td>
+        <td>3</td>
+        <td>4</td>
+      </tr>
+    </tbody>
+  </table>
+  <p style="text-align: center">
+    * Or redo the roll.
+  </p>
+</div>
+
 ### Step Two · Choose Lifestyle and Ethic
 <!-- _class: creation -->
 
@@ -410,9 +540,9 @@ Characters in this game may have a number of unique effects based on their Aptit
 
 **Aptitudes:** Your Aptitudes are the important and often unique narrative areas you are "apt" in.
 
-**Aptitude Ease:** When you perform a Check related enough to your Aptitudes, you may round rolls of 3 or 4 up to 5.
+**Aptitude Ease:** Actions related to your Aptitudes are easily for you to perform. When you perform a Check related enough to your Aptitudes, you may round rolls of 3 or 4 up to 5.
 
-**Aptitude Difficulty:** When another character Attacks you, if the Check is related enough to your Aptitudes, its difficulty is one rank higher.
+**Aptitude Defense:** Your Aptitudes don't just allow you to perform actions more easily, but also allow you to protect yourself more easily. When another character Attacks you, if the Check is related enough to your Aptitudes, its difficulty is one rank higher.
 
 **Specializations:** Your Specializations are the Aptitudes you have "specialized," which grant you unique effects depending on the nature of the specialization. You may specialize your Aptitudes in the Session Shop. An example is given below.
 
@@ -458,7 +588,7 @@ In general:
 ### Checks
 <!-- _class: rules -->
 
-Most situations in this game can be resolved by performing a Check.
+Most situations can be resolved by performing a Check. Success and failure determine if any progress is made towards one's immediate goals, <b>X</b> determines how much progress is made towards more complex goals, and boons and busts determine how much "other" stuff happens along the way.
 
 <div>
 
@@ -469,7 +599,6 @@ To perform a Check:
 3. **Roll:** Roll your Stat Die for the chosen Stat. The higher you roll, the greater your degree of success, as described in the Check Outcomes table below.
 4. **Boons and Busts:** Some successes grant you narrative benefits, called "boons," while others are accompanied by complications, called "busts." If you get a boon and a bust on the same Check, they do not cancel each other out but instead lead to a more nuanced result.
 5. **X:** Whereas boons and busts shape *narrative* results, some effects also use an <b>X</b> symbol to represent a *mechanical* result size. <b>X</b> is determined based on the Effect <b>X</b> Values table below and the size of the largest or most narratively important Stat Die used to perform the Check.
-6. **Gain X Progress:** At table discretion, some goals may require a progress total, or tiers of progress, to be reached through a series of Checks, such as crafting items or attending school. On each success, gain <b>X</b> towards the progress total. Boons and busts accumulate and shape the final result. Incremental benefits, challenges, or story may come from reaching different tiers of progress. For reference, see the <b>X</b> Progress Scale table below.
 
 </div>
 
@@ -510,22 +639,6 @@ To perform a Check:
   | 1 | 1 | 2 | 2 | 3 |
 </div>
 
-<div>
-  <h4>
-    <b>X</b> Progress Scale
-  </h4>
-
-  | Total Required | Expected Duration, Cost, or Complexity |
-  | -------------- | -------------------------------------- |
-  | 3 or less | Very quick, very cheap, or very trivial, such as making a snack or attending a class |
-  | 4 or 5 | Quick, cheap, or trivial, such as making lunch or participating in class |
-  | 6 or 7 | Short, affordable, or simple, such as making dinner or completing a graded assignment |
-  | 8 or 9 | Average, such as making dinner for several friends or completing a term project or exam |
-  | 10+ | Long, expensive, or complex, such as hosting a feast holiday for family or completing a year's worth of a college minor |
-  | 20+ | Very long, very expensive, or very complex, such as hosting a banquet or completing a year's worth of a college major |
-  | 100+ | Inexorbitant, such as ending a famine or completing an entire doctorate degree |
-</div>
-
 ### Attacks
 <!-- _class: rules -->
 
@@ -543,6 +656,35 @@ To perform an Attack:
 2. **Defense Difficulty:** By default, the Check below is Normal. The Defender's Apts and Specs may modify the difficulty. Other effects or situations, at table discretion, may modify the difficulty further.
 3. **Attack Check:** The Attacker uses their chosen Stat to perform a Check to determine success for the action.
 
+</div>
+
+### Making Progress
+<!-- _class: rules -->
+
+At table discretion, some goals may require a progress total, or tiers of progress, to be reached through a series of Checks, such as persuading new allies, crafting items, attending school, or climbing a mountain.
+
+In such cases:
+
+1. **Gain X Progress:** On a success, gain <b>X</b> towards the progress total. On each failure, lose 2 progress. Incremental benefits, challenges, or story may come from reaching different tiers of progress. For reference, see the <b>X</b> Progress Scale table below.
+2. **Narrative Progress:** At table discretion and within reason, creative problem solving, roleplay, and the narrative itself can continue to move you towards your goal. For each narrative breakthrough, gain the most recent <b>X</b> towards the progress total again. For each narrative setback however, lose 2 progress.
+3. **Accumulate Nuance:** Boons and busts accumulate along the way and shape the final result.
+
+For situations where the intention is to represent sustained tension, such as combat or racing, use the Endeavor system instead, described in the next chapter.
+
+<div>
+  <h4>
+    <b>X</b> Progress Scale
+  </h4>
+
+  | Total Required | Expected Duration, Cost, or Complexity |
+  | -------------- | -------------------------------------- |
+  | 3 or less | Very quick, very cheap, or very trivial, such as making a snack or attending a class |
+  | 4 or 5 | Quick, cheap, or trivial, such as making lunch or participating in class |
+  | 6 or 7 | Short, affordable, or simple, such as making dinner or completing a graded assignment |
+  | 8 or 9 | Average, such as making dinner for several friends or completing a term project or exam |
+  | 10+ | Long, expensive, or complex, such as hosting a feast holiday for family or completing a year's worth of a college minor |
+  | 20+ | Very long, very expensive, or very complex, such as hosting a banquet or completing a year's worth of a college major |
+  | 100+ | Inexorbitant, such as ending a famine or completing an entire doctorate degree |
 </div>
 
 ### Blessings
@@ -595,7 +737,7 @@ In general:
 
 **Multiple Helpers:** Multiple characters can Help the same roll if they each pay the cost.
 
-**Help on Hard Checks:** If you Help roll for a Check that requires multiple rolls, only the lowest of those rolls is Helped.
+**Help on Hard Checks:** If you Help a roll for a Check that requires multiple rolls, only the lowest of those rolls is Helped.
 
 **Help as Group:** Providing and receiving Help is considered acting as a group.
 
@@ -759,9 +901,20 @@ In general:
 
 **Buttons:** Endeavors also add a number of buttons to the track. There are two types of buttons, personal and global. Personal buttons can only be activated by the character associated with them, whereas global buttons can be activated by any character. If an Endeavor uses buttons, it will describe how each is activated and the effect that happens as a result. Additionally, buttons may have a passive effect that applies while the button is present or a cumulative effect that activates only once if multiple instances of that effect would activate at the same time.
 
-**Printable Track:** A track for seven characters is in the Printables chapter.
+**Printable Track:** Two printable tracks, one for seven characters and a longer one for one character, are in the Printables chapter.
 
-**Community:** For more printable tracks and other Endeavor resources, visit <https://github.com/snotskie/ttrpg/discussions>.
+<!-- **Community:** For more printable tracks and other Endeavor resources, visit <https://github.com/snotskie/ttrpg/discussions>. -->
+
+### Multiple Tracks
+<!-- _class: rules -->
+
+Some Endeavors are complex, spanning a large field or pulling the players and their allies in different directions, like when vampires attack two parts of the city at once. Such situations can be represented with multiple tracks.
+
+**Nearby Influence Only:** Characters and effects can only interact with characters on the same track as them.
+
+**Changing Tracks:** As an action, you may change tracks. Doing so resets your position to 0. Some Endeavors may require a Check for this action.
+
+**All Tracks are Connected:** Regardless of narrative distance, for simplicity all tracks are equally "connected." You may change from any track to any other track with a single action.
 
 ### 🧟 Monstrous Endeavors
 <!-- _class: rules -->
@@ -965,6 +1118,246 @@ These are performed like any other Endeavor, with the following adjustments, act
   </table>
 </div>
 
+### ⏩ Rush Endeavors
+<!-- _class: rules -->
+
+Some scenes call for something between a Monstrous Endeavor and a Racing Endeavor, where the player characters must charge in and stop the enemy before they complete their plans, such as catching a thief before they can escape with a powerful artifact or infiltrating a star base before it can fire a large laser.
+
+These can be performed like a Monstrous Endeavor, with the following adjustments:
+
+**Goal:** Move all your opponents to position 0 before they can complete their scheme or foil your plans.
+
+**Charge Leader:** Before the first round, elect a "charge leader" from among you and your allies. Only the charge leader and the opponents are considered for determining who takes special actions.
+
+**Foiling:** When a charge leader is "foiled," another ally becomes the charge leader instead. Once you are foiled, you cannot become the charge leader again. Your opponents do not automatically win if your entire side has been foiled, but your victory will be much more difficult.
+
+**Simpler Turn Order:** The charge leader acts first. If there is no charge leader, monstrosities act first.
+
+**As Usual:** Actions, ally special actions, and buttons&mdash;these are as usual for a Monstrous Endeavor. However, monstrosities use the following special actions instead.
+
+<div>
+  <h4>
+    Rush Monstrosity Special Actions
+  </h4>
+  <table>
+    <tbody>
+      <tr>
+        <th scope="row">Plot Victory</th>
+        <td><code>Special Action</code> Foil the charge leader. Then for each Recovery button your side has activated, add a Scheme button at the first position at or above your current position without one already.</td>
+      </tr>
+      <tr>
+        <th scope="row">Declare Victory</th>
+        <td><code>Special Action</code> If there are 10 or more Scheme buttons in a row, remove all opponents from the Endeavor.</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+### 💣 Stealth Endeavors
+<!-- _class: rules -->
+
+Some campaigns or sessions may involve prolonged tension where the player characters attempt to sneak past guards, escape a prison, perform a heist, or so on!
+
+These are performed like any other Endeavor, with the following adjustments, action options, and buttons:
+
+**Efficiency and Progress:** The symbol <b>X</b> represents your "efficiency" for the round, such as efficiency at stealth, charisma, or so on. Your temporary Blessings represent your immediate "progress."
+
+**The Eye:** The opposing side is represented by the "Eye." When the Endeavor begins, the Eye is in "warry mode," on the lookout for you and your fellow "rogues." However, once the Eye has been alerted, it will enter the much more dangerous "wake mode." For the sake of rules, the Eye is a character, but it has only a single Watch Stat, has no track position, it cannot be Attacked directly, and its Watch Stat is never spent.
+
+**Setup:** You and your fellow rogues begin at position 0. At the top of the first round, the lay of the land will be provided at table discretion for the guarded area, including any rooms, halls, obstacles to climb or hide behind, locking and security mechanisms, and so on. The Eye's defenses in those areas are represented by Alarm buttons, actions the rogues need to complete are represented by Objective buttons, exit points are represented by Escape buttons, and places safe from danger are represented by Sanctuary buttons. As the Endeavor progresses, additional areas may become available, each with their own track and lay of the land.
+
+**Goal:** Remove all Objective buttons and escape without alerting the Eye.
+
+<div>
+  <h4>
+    Rogue Actions
+  </h4>
+  <table>
+    <tbody>
+      <tr>
+        <th scope="row">Interfere</th>
+        <td><code>Heart/Home/Hurt</code> Use your Action Die to perform a Check or Attack to find or create weakness in the Eye's defenses. On a success, choose an Alarm button within <b>X</b> spaces of your position and remove it from the Endeavor. On a Maximum Success, also remove all Alarm buttons that were contiguous with it.</td>
+      </tr>
+      <tr>
+        <th scope="row">Misdirect</th>
+        <td><code>Head/Hand/Hurry</code> Use your Action Die to perform a Check or Attack to stall or evade the Eye's plans. On a success, steal <b>X</b> temporary Blessings of your choice from it. It then gains a number of new temporary Blessings equal to the amount it lost, without bumping.</td>
+      </tr>
+      <tr>
+        <th scope="row">Move</th>
+        <td>Use your Action Die to perform a Check or Attack to move yourself toward your objective or away from danger. On a success, move up or down by <b>X</b>. You may not move as a group this way.</td>
+      </tr>
+      <tr>
+        <th scope="row">Cover</th>
+        <td>Delay your action so you can Help another character who has not acted this round or so they can Help you. This Help may be used to decrease <b>X</b> values instead of increasing them as usual.</td>
+      </tr>
+      <tr>
+        <th scope="row">Work</th>
+        <td>If you begin your turn on or next to an Objective button, use your Action Die to perform the Objective button's Check. On a success, add <b>X</b> Scheme buttons at the first positions at or above the Objective button's position without one already. Then remove the Objective button if every position from it to the next Objective or Escape button has a Scheme button.</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<div>
+  <h4>
+    Rogue Special Actions
+  </h4>
+  <table>
+    <tbody>
+      <tr>
+        <th scope="row">Quicken</th>
+        <td><code>Special Action</code> You and up to <b>X</b> allies may each take an additional action during the next round.</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<div>
+  <h4>
+    Eye Actions
+  </h4>
+  <table>
+    <tbody>
+      <tr>
+        <th scope="row">Search</th>
+        <td><code>Warry</code> Randomly choose <b>X</b> positions in 1&ndash;20. Add Alarm buttons at those positions.</td>
+      </tr>
+      <tr>
+        <th scope="row">Scan</th>
+        <td><code>Warry</code> Randomly choose up or down. Move all Alarm buttons in that direction by <b>X</b>.</td>
+      </tr>
+      <tr>
+        <th scope="row">Awaken</th>
+        <td><code>Wake</code> Replace each Alarm button with Wound buttons at the same positions, distributed as you wish between your opponents.</td>
+      </tr>
+      <tr>
+        <th scope="row">Wound</th>
+        <td><code>Wake</code> Wound an opponent and gain <b>X</b> temporary Blessings.</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<div>
+  <h4>
+    Eye Special Actions
+  </h4>
+  <table>
+    <tbody>
+      <tr>
+        <th scope="row">Sweep</th>
+        <td><code>Special Action</code> <code>Warry</code> Choose two Alarm buttons that have no Alarm buttons between them. Add temporary Alarm buttons to all positions between them, removed at the end of next round.</td>
+      </tr>
+      <tr>
+        <th scope="row">Clean</th>
+        <td><code>Special Action</code> <code>Wake</code> Remove all opponents with three Wound buttons in a row from the Endeavor. Then wound each remaining opponent.</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<div>
+  <h4>
+    Stealth Buttons
+  </h4>
+  <table>
+    <tbody>
+      <tr>
+        <th scope="row">Alarm</th><td><i>Type:</i> Global. <i>Activation:</i> Activated when you end your turn on it. <i>Effect:</i> The Eye enters wake mode. <i>Passive:</i> When a rogue fails a Check or Sparks a roll, add an Alarm button above this one if there is not one there already. <i>Cumulative:</i> Alarm buttons that would move to or be placed at a position outside 1&ndash;20 instead move up or down by 20 until in that range. If multiple would move to or be placed at the same position, all but the oldest there are removed.</td>
+      </tr>
+      <tr>
+        <th scope="row">Objective</th><td><i>Type:</i> Global. <i>Activation:</i> None. <i>Effect:</i> None.</td>
+      </tr>
+      <tr>
+        <th scope="row">Escape</th><td><i>Type:</i> Global. <i>Activation:</i> Activated when you move onto it. <i>Effect:</i> You may safely remove yourself from the Endeavor.</td>
+      </tr>
+      <tr>
+        <th scope="row">Sanctuary</th><td><i>Type:</i> Global. <i>Activation:</i> Activated when you perform an Attack while on or next to it. <i>Effect:</i> Remove this button. <i>Passive:</i> You do not activate Alarm buttons while on or next to this button.</td>
+      </tr>
+      <tr>
+        <th scope="row">Scheme</th><td><i>See Monstrous Endeavors.</i></td>
+      </tr>
+      <tr>
+        <th scope="row">Wound</th><td><i>See Monstrous Endeavors.</i></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+### 🎖️ Unit Endeavors
+<!-- _class: rules -->
+
+Some campaigns or sessions may involve prolonged contests between "units" operated or led by the player characters and their opponents, such as ship-to-ship combat, a battle of the bands, or cheering on your magical creatures!
+
+These are performed like any other Endeavor, with the following adjustments, action options, and buttons:
+
+**Sync and Energy:** The symbol <b>X</b> represents how "in sync" you are with your allies, and your temporary Blessings represent your accumulated "energy."
+
+**Units:** "Units" are characters with a single Unit Stat, no track position, its Unit Stat is never spent, and they can only Attack and be Attacked by other units. Each unit has a track, which ends at the position equal to the unit's Unit Stat Die size. Anything placed or moved beyond this is placed at the last track position instead. You and your fellow "operators" begin at position 0 on your unit's track. Effects may extend your unit's track during the Endeavor. If a unit is removed from the Endeavor while you're on its track, perform a Check to move to a different track. On a failure, you are removed from the Endeavor too.
+
+**Unit Actions:** All operators use the Ally Actions from Monstrous Endeavors. Units do not have a turn as normal. Instead they act when they receive Help, at most <b>X</b> times per round, using their Unit Stat Die. Units can't take special actions but still gain temporary Blessings.
+
+**Unit Size:** It is one rank more difficult to Attack a unit that has a smaller Unit Stat Die or to move to the track of a unit that has a smaller Unit Stat Die.
+
+**Hits:** When a unit is "hit," choose a random position on its track. Add a Hit button there if one is not there already.
+
+**Goal:** Place three Hit buttons in a row on your opponents' units' tracks before they do the same to yours.
+
+<div>
+  <h4>Unit Actions</h4>
+ <table>
+    <tbody>
+      <tr>
+        <th scope="row" rowspan="2">Attack</th>
+        <th scope="row">Violent</th>
+        <td>Use your Action Die to violently Attack up to <b>X</b> opposing units. On a Maximum Success, hit them each <b>X</b> times. On other successes, hit them each once.</td>
+      </tr>
+      <tr>
+        <th scope="row">Non-violent</th>
+        <td>Use your Action Die to non-violently Attack up to <b>X</b> opposing units. On a success, steal a total of <b>X</b> temporary Blessings of your choice from among them and characters on their tracks. They do not regain the amount lost as usual.</td>
+      </tr>
+      <tr>
+        <th scope="row" colspan="2">Channel</th>
+        <td>Release your stored energy by giving your temporary Blessings to allies on your track, distributed however you choose.</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<div>
+  <h4>Operator Special Actions</h4>
+  <table>
+    <tbody>
+      <tr>
+        <th scope="row">Rally</th>
+        <td><code>Special Action</code> You and your allied operators on the same track as you may move down any total amount. If you are on an allied unit's track, extend the track by the amount moved this way. If you are on an opposing unit's track, choose opposing operators to move down by a total of the amount moved this way.</td>
+      </tr>
+      <tr>
+        <th scope="row">Sally</th>
+        <td><code>Special Action</code> If you are on an allied unit's track, using that unit's Action Die to determine <b>X</b>, remove up to <b>X</b> opposing units with three Hit buttons in a row from the Endeavor, then hit up to <b>X</b> remaining opposing units.
+      </tr>
+      <tr>
+        <th scope="row">Tally</th>
+        <td><code>Special Action</code> If you are at position 30 or higher on an allied unit's track, choose an opposing unit to remove from the Endeavor.</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<div>
+  <h4>Unit Buttons</h4>
+  <table>
+    <tbody>
+      <tr>
+        <th scope="row">Hit</th><td><i>Type:</i> Global. <i>Activation:</i> Activated when you move off it. <i>Effect:</i> Decrease your remaining movement by 1, to a minimum of 0. <i>Cumulative:</i> If multiple Hit buttons would move to or be placed at the same position, all but the oldest there are removed.</td>
+      </tr>
+      <tr>
+        <th scope="row">Shield</th><td><i>Type:</i> Global. <i>Activation:</i> Activated when a Hit button would be placed on it. <i>Effect:</i> Remove this button instead.</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
 ## Session Shop
 <!-- _class: major ability -->
 <h3>Upgrade Options</h3>
@@ -1078,8 +1471,10 @@ At the end of each session, you receive one free Stat Upgrade for your character
 | --- |
 | *Description:* When you step back, it's clear that wealth, status, law, and justice only work because of our connections to one another. Even the most nihilistic among us still have interests they care about. So, you don't need a complicated philosophy. Just make good deals, and don't get screwed over. Tit for tat, eye for an eye. *Effect:* When an opponent would gain a bust in an Attack against you, you may instead bank that bust. You may spend busts banked this way to temporarily increase your favorability with someone by that amount, which will decrease by that amount at the end of the session. |
 
-### Specialization Options
+### Evergreen Specialization Options
 <!-- _class: ability -->
+
+The effects of the following Specialization options are normally provided for free based on the game's Setting Ethic. Which are provided depends on the Setting Ethic. Even if not provided to you that way, you can still choose from these options when upgrading your character.
 
 | Accrued Specialization |
 | --- |
@@ -1093,6 +1488,47 @@ At the end of each session, you receive one free Stat Upgrade for your character
 | --- |
 | *Effect:* Gain Blessings, at table discretion, for completing important story milestones. |
 
+| Charitable Specialization |
+| --- |
+| *Effect:* When you visit a place of religious, spiritual, or community importance, you may spend any number of Blessings as a donation or act of service to the place. The more spent this way, the greater a possible later outcome may be, determined at table discretion. |
+
+| Creative Specialization |
+| --- |
+| *Effect:* Increase the difficulty one rank of a Check in a social situation, but ignore the lowest roll if it would cause you to fail. *Recharge:* ④. |
+
+| Exchangeable Specialization |
+| --- |
+| *Effect:* You may spend Blessings in social situations as though they were currency. Using the <b>X</b> Progress Scale table as a scale, each spent Blessing contributes half its value, rounded down, to a minimum of 1. |
+
+| Favorable Specialization |
+| --- |
+| *Effect:* At table discretion, you accrue "favorability" with others as a result of your Backstory and actions. Within reason, when your favorability with someone is positive, you may call on them, decrease that favorability by an amount, and gain that many Blessings. |
+
+| Harmonious Specialization |
+| --- |
+| *Effect:* As Help, you may perform a Spark roll using one of your Stats and one of the Stats of another willing character in the scene, so long as the chosen Stats are balanced, you both have this Specialization, and the Blessing cost is paid between you two. |
+
+| Legendary Specialization |
+| --- |
+| *Effect:* On your first Major Success each session, gain a Blessing. Each other player whose character witnessed or heard about that success also gains a Blessing. |
+
+| Shrouded Specialization |
+| --- |
+| *Effect:* You may call upon a higher power, criminal underground, book of forbidden knowledge, or so on related enough to your Backstory to gain access to secret information or an answer to a question. This information may come with consequences. *Recharge:* ⑥. |
+
+| Supportive Specialization |
+| --- |
+| *Effect:* As Help, you may spend ① to add half the value of the spent Blessing to the Helped roll, rounded down, to a minimum of 1. If the Check effect uses the <b>X</b> symbol, you may increase <b>X</b> instead. |
+
+| Wiley Specialization |
+| --- |
+| *Effect:* On your first Major Success each session, gain or steal a total of three Blessings from other characters in the scene. |
+
+### General Specialization Options
+<!-- _class: ability -->
+
+The following Specialization options should be reasonable to choose from in almost any game or setting. Work with your table as you gain from these options to adjust the flavor or effect to suit your character and story.
+
 | Analytical Specialization |
 | --- |
 | *Effect:* Twice per session, as Help, you may roll four d6 and group those dice into two piles of two. If addition or multiplication could make the piles equal, increase the result or <b>X</b> of the Helped roll by +5. For example, 1, 1, 1, and 2 could be grouped this way as 1×2=1+1. |
@@ -1105,14 +1541,6 @@ At the end of each session, you receive one free Stat Upgrade for your character
 | --- |
 | *Effect:* Once per session, when you are in a safe place, you may perform a Check in the scope of Head or Home. Then once before the end of the session, you may use the value of that roll instead of rolling for another non-violent Check. |
 
-| Charitable Specialization |
-| --- |
-| *Effect:* When you visit a place of religious, spiritual, or community importance, you may spend any number of Blessings as a donation or act of service to the place. The more spent this way, the greater a possible later outcome may be, determined at table discretion. |
-
-| Creative Specialization |
-| --- |
-| *Effect:* Increase the difficulty one rank of a Check in a social situation, but ignore the lowest roll if it would cause you to fail. *Recharge:* ④. |
-
 | Determined Specialization |
 | --- |
 | *Effect:* Once per action, you may ignore the negative effects of your injuries and conditions. *Recharge:* ③. |
@@ -1121,33 +1549,21 @@ At the end of each session, you receive one free Stat Upgrade for your character
 | --- |
 | *Effect:* Once per session, you may destroy a thing you have gained, such as an item, information, or alliance. Until the end of the scene, you adopt its properties, the properties of a concept associated with it, or push it to its breaking point. |
 
-| Exchangeable Specialization |
-| --- |
-| *Effect:* You may spend Blessings in social situations as though they were currency. Using the <b>X</b> Progress Scale table as a scale, each spent Blessing contributes half its value, rounded down, to a minimum of 1. |
-
-| Favorable Specialization |
-| --- |
-| *Effect:* At table discretion, you accrue "favorability" with others as a result of your Backstory and actions. Within reason, when your favorability with someone is positive, you may call on them, decrease that favorability by an amount, and gain that many Blessings. |
-
 | Friendly Specialization |
 | --- |
 | *Effect:* You gain access to a creature companion, mechanical companion, or similar companion of your choice, within reason. The companion uses a d6 for all Stats and has its own Backstory and Aptitudes. It also has an Aptitude Value of 0-3 for each Aptitude, totaling 8. At the start of each session, for each Aptitude, the companion gains a number of temporary Blessings equal to its Aptitude Value for that Aptitude, which it may only spend to provide Help to Checks related enough to that Aptitude. Unspent temporary Blessings disappear at the end of the session. If the companion is lost, stolen, destroyed, or you lose its loyalty, replacing it may require time and effort. |
-
-| Harmonious Specialization |
-| --- |
-| *Effect:* As Help, you may perform a Spark roll using one of your Stats and one of the Stats of another willing character in the scene, so long as the chosen Stats are balanced, you both have this Specialization, and the Blessing cost is paid between you two. |
 
 | Insured Specialization |
 | --- |
 | *Effect:* A character may automatically succeed a Check to tend to your wounds, even after they've rolled. *Recharge:* ①. When this effect is recharged, increase the cost to recharge it by ①①. |
 
-| Legendary Specialization |
-| --- |
-| *Effect:* On your first Major Success each session, gain a Blessing. Each other player whose character witnessed or heard about that success also gains a Blessing. |
-
 | Mischievous Specialization |
 | --- |
 | *Effect:* When another character would succeed a Check, you may distract them using a thing you have gained, such as an item, information, or alliance. If you do, modify that character's result by -3, possibly turning their success into a failure. *Recharge:* ⑥. |
+
+| Perceptive Specialization |
+| --- |
+| *Effect:* Once per session, when the lay of the land of an area is given or a location is encountered for the first time, you may choose a type of detail, such as treasure, clue, or social encounter. More of that type of detail will be added to the location than usual, at table discretion and within reason. |
 
 | Protective Specialization |
 | --- |
@@ -1169,10 +1585,6 @@ At the end of each session, you receive one free Stat Upgrade for your character
 | --- |
 | *Effect:* Once per session, when your Blessings have a total combined worth of at least 10, you may perform a joke, dance, or stunt related enough to your Lifestyle. Each other character who witnesses this becomes Uncool. |
 
-| Shrouded Specialization |
-| --- |
-| *Effect:* You may call upon a higher power, criminal underground, book of forbidden knowledge, or so on related enough to your Backstory to gain access to secret information or an answer to a question. This information may come with consequences. *Recharge:* ⑥. |
-
 | Skilled Specialization |
 | --- |
 | *Effect:* When you succeed a Check related enough to this Aptitude, gain an additional boon, within reason. |
@@ -1181,30 +1593,87 @@ At the end of each session, you receive one free Stat Upgrade for your character
 | --- |
 | *Effect:* When a violent Attack succeeds against you at a close distance, you may have your Attackers receive a less severe version of the same injury you received. *Recharge:* ③. |
 
-| Supportive Specialization |
-| --- |
-| *Effect:* As Help, you may spend ① to add half the value of the spent Blessing to the Helped roll, rounded down, to a minimum of 1. If the Check effect uses the <b>X</b> symbol, you may increase <b>X</b> instead. |
-
 | Vibe Specialization |
 | --- |
-| *Effect:* You may adjust the "vibe" or "music" of a situation subtly. Others can't pinpoint what changed, but the mood shifts to suit your intent. *Recharge:* ④. |
+| *Effect:* You may adjust the "vibe" or "music" of a situation subtly, at table discretion and within reason. Others can't pinpoint what changed, but the mood shifts to suit your intent. *Recharge:* ④. |
 
 | Well-Traveled Specialization |
 | --- |
 | *Effect:* When an item, place, piece of information, or character is encountered for the first time, you may establish, within reason, how your Backstory relates to them or it. *Recharge:* ⑥. |
 
-| Wiley Specialization |
-| --- |
-| *Effect:* On your first Major Success each session, gain or steal a total of three Blessings from other characters in the scene. |
-
 | Witty Specialization |
 | --- |
 | *Effect:* When a non-violent Attack related enough to this Aptitude succeeds against you, you may have the Attacker receive a less severe version of the same effect you received. |
 
+### Endeavor Specialization Options
+<!-- _class: ability -->
+
+The following Specialization options refer to Endeavors or certain kinds of Endeavors. Work with your table to know which of these options would be wise to choose from for your game, as not all games will use all Endeavor types&mdash;or even Endeavors at all.
+
+| Attentive Specialization |
+| --- |
+| *Effect:* During Endeavors, when you succeed a Check in the scope of Hand or Heart, for your subsequent <b>X</b> actions you may perform a violent Attack using either of those Stats. *Recharge:* ③. |
+
+| Coordinated Specialization |
+| --- |
+| *Effect:* During Endeavors, when you succeed a Check in the scope of Head or Hand, as part of the same action you may provide another character Help, within reason. |
+
+| Critical Specialization |
+| --- |
+| *Effect:* During Endeavors, when you roll 10 or more attacking an opponent, they spend an unspent Stat at random. *Recharge:* ②. |
+
+| Defiant Specialization |
+| --- |
+| *Effect:* During Unit Endeavors, units you operate gain the Resist special action. **Resist:** `Special Action` Spend any number of ⑥. For each spent this way, add a Shield button to a random position on your track if a Hit or Shield button is not there already. |
+
+| Dominating Specialization |
+| --- |
+| *Effect:* During Endeavors, once per round when an opponent activates a button that stops their movement as a result of your action, after resolving that button they continue moving however much movement would have been prevented. |
+
+| Explosive Specialization |
+| --- |
+| *Effect:* During Unit Endeavors, you may violently Attack units directly if their Unit Stat Die size is no larger than your Action Die. On a success hit the unit once. |
+
+| Heavy Specialization |
+| --- |
+| *Effect:* During Endeavors, when your Action Die is in the scope of Hand or Home, you gain one fewer temporary Blessing than normal before each round, but your <b>X</b> is one higher than normal. |
+
+| Hidden Specialization |
+| --- |
+| *Effect:* Once per Stealth Endeavor as an action, you may use your Action Die to perform a Check to find or create a safe place. On a success, add a temporary Sanctuary button at your location, removed <b>X</b> rounds from now at the end of the round. |
+
+| Hijacked Specialization |
+| --- |
+| *Effect:* Once per Stealth Endeavor as an action, you may use your Action Die to perform a Check to hijack the Eye's defenses. On a success, choose an Alarm button within <b>X</b> spaces of your position. That button no longer activates and you may take the Work action as though you were at that button's location. |
+
+| Imposing Specialization |
+| --- |
+| *Effect:* For the first roll you make during an Endeavor, roll an additional time and ignore the lowest result. |
+
+| Radiant Specialization |
+| --- |
+| *Effect:* During Endeavors, when your Action Die is in the scope of Heart or Home, as an action you may perform a Check to empower your allies. On a success, they gain one of your other Aptitudes, including its Specialization if applicable, for <b>X</b> turns. *Recharge:* ④. |
+
+| Stubborn Specialization |
+| --- |
+| *Effect:* Once per Rush Endeavor when you would be foiled, you may instead exhaust your spent Stat Die until the end of the Endeavor. Exhausted Stat Dice cannot be regained. |
+
+| Sure-footed Specialization |
+| --- |
+| *Effect:* During Endeavors, when you take the Protect action to protect yourself and succeed, the effect lasts <b>X</b> additional rounds. |
+
+| Tireless Specialization |
+| --- |
+| *Effect:* When you gain this Specialization, choose a Stat. During Endeavors, you may use the chosen Stat as your Action Die even while it is spent, except its Stat Die is replaced with a d6 or stays its original size, whichever is smaller. |
+
+| Zealous Specialization |
+| --- |
+| *Effect:* During Endeavors, when your Action Die is in the scope of Head or Heart, as an action you may have you and up to <b>X</b> allies each gain a Zeal button 1 below your current track positions. *Recharge:* ④. **Zeal button:** *Type:* Personal. *Activation:* Activated when you move over it. *Effect:* End your movement, remove this button, and immediately Attack a nearby opponent, even if you have already acted this round. |
+
 ## Printables
 <!-- _class: major -->
 
-The following pages contain a printable character sheet and Endeavor track. The digital version of this page also contains buttons for printing this book in a number of color and black & white formats.
+The following pages contain a printable character sheet, an Endeavor track for positions 1-10 for seven characters, an Endeavor track for positions 1-40 for a single character, and reminder cards for Endeavors. The digital version of this page also contains buttons for printing this book in a number of color and black & white formats.
 
 <div class="print-hide">
 
@@ -1336,6 +1805,161 @@ To print this book on A4 paper as a cut, perfect-bound booklet, use either of th
     <tr> <th scope="row">1</th> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> </tr>
   </tbody>
 </table>
+
+---
+<!-- _class: track_table_2 -->
+<!-- _paginate: skip -->
+
+<table>
+  <tbody>
+    <tr> <td>1</td> <td>2</td> <td>3</td> <td>4</td> </tr>
+    <tr> <td>8</td> <td>7</td> <td>6</td> <td>5</td> </tr>
+    <tr> <td>9</td> <td>10</td> <td>11</td> <td>12</td> </tr>
+    <tr> <td>16</td> <td>15</td> <td>14</td> <td>13</td> </tr>
+    <tr> <td>17</td> <td>18</td> <td>19</td> <td>20</td> </tr>
+    <tr> <td>24</td> <td>23</td> <td>22</td> <td>21</td> </tr>
+    <tr> <td>25</td> <td>26</td> <td>27</td> <td>28</td> </tr>
+    <tr> <td>32</td> <td>31</td> <td>30</td> <td>29</td> </tr>
+    <tr> <td>33</td> <td>34</td> <td>35</td> <td>36</td> </tr>
+    <tr> <td>40</td> <td>39</td> <td>38</td> <td>37</td> </tr>
+  </tbody>
+</table>
+
+---
+<!-- _class: rulecard -->
+<!-- _paginate: skip -->
+
+<div class="card_container">
+  <div class="card_stat">🧠</div>
+  <div class="card_stat">✌️</div>
+  <div class="card_stat">💕</div>
+  <div class="card_stat">☕</div>
+  <div class="card_stat">👿</div>
+  <div class="card_stat">⚠️</div>
+  <div class="card_stat">⏳</div>
+  <div class="card_stat">⬚</div>
+  <div class="card_column">
+
+**Rounds** *All Endeavors*
+
+1. **Choose Action Die**
+2. **Gain X Temp Blessings (TB):** Disappear when you take Special Action.
+3. **Turn Order:** Start with who has least <b>TB</b>. *Rush:* Start with charge leader.
+4. **Special Action:** Who ends round with most <b>TB</b> takes Special Action. *Rush:* Count only charge leader, opponents.
+5. **Spend or Skip:** Spend Action Die, or skip next round to regain all already spent.
+
+**Ally Special Actions** *Monstrous/Rush*
+
+- **Perform Combo:** Move up by <b>X</b>. You and allies may move down any total. Choose opponents to move down by same total.
+- **Declare Victory:** If at 30+, choose opponent to remove.
+
+**Racer Special Actions** *Racing*
+
+- **Overcome:** Move up by <b>X</b>, ignoring one Terrain.
+
+  </div><div class="card_column">
+
+**Ally Actions** *Monstrous/Racing/Rush*
+
+- **Violent Attack:** `👿` Attack <b>1&ndash;X</b> opponents. *Maximum Success:* Remove one of them. *Other Successes:* They move down by <b>X</b> total.
+- **Non-violent Attack:** `🧠✌️💕` Attack <b>1&ndash;X</b> opponents. *Success:* Steal <b>X</b> total <b>TB</b> from them. They re-gain amount lost, without bumping.
+- **Advance:** `Not 👿` Check. *Success:* Move up by <b>X</b>.
+- **Protect:** `☕⚠️` Check. *Success:* Relevant Attacks one rank more difficult until end of next round.
+- **Pass:** Delay turn to get/give Help.
+- **Unique Skill:** Spend ⊜⊜. Take two other actions.
+- **Change Tracks:** If applicable, move to 0 on another track.
+
+**Fatigue** *Racing*: Gain Fatigue when you spend <b>TB</b>. End of round, Check. *Success:* Remove it. *Fail:* Exit race.
+
+  </div>
+</div>
+
+---
+<!-- _class: rulecard -->
+<!-- _paginate: skip -->
+
+<div class="card_container">
+  <div class="card_stat">🧠</div>
+  <div class="card_stat">✌️</div>
+  <div class="card_stat">💕</div>
+  <div class="card_stat">☕</div>
+  <div class="card_stat">👿</div>
+  <div class="card_stat">⚠️</div>
+  <div class="card_stat">⏳</div>
+  <div class="card_stat">⬚</div>
+  <div class="card_column">
+
+**Rounds** *All Endeavors*
+
+1. **Choose Action Die**
+2. **Gain X Temp Blessings (TB):** Disappear when you take Special Action.
+3. **Turn Order:** Start with who has least <b>TB</b>.
+4. **Special Action:** Who ends round with most <b>TB</b> takes Special Action.
+5. **Spend or Skip:** Spend Action Die, or skip next round to regain all already spent.
+
+**Rogue Special Actions** *Stealth*
+
+- **Quicken:** You and <b>0&ndash;X</b> allies take +1 action next round.
+
+**Alarms** *Stealth*: Add more Alarms when you fail or Spark. Trip Alarm when end turn on it.
+
+  </div><div class="card_column">
+
+**Rogue Actions** *Stealth*
+
+- **Interfere:** `💕☕👿` Check or Attack. *Success:* Remove Alarm within <b>X</b> spaces of you. *Maximum Success:* Remove Alarms contiguous with it.
+- **Misdirect** `🧠✌️⚠️` Check or Attack. *Success:* Steal <b>X</b> total Blessings from the Eye. It re-gains amount lost, without bumping.
+- **Move:** Attack or Check. *Success:* Move up or down by <b>X</b>, alone.
+- **Cover:** Delay turn to get/give Help, which you may decrease <b>X</b> with.
+- **Work:** If by an Objective, Check. *Success:* Add <b>X</b> Schemes.
+
+  </div>
+</div>
+
+---
+<!-- _class: rulecard -->
+<!-- _paginate: skip -->
+
+<div class="card_container">
+  <div class="card_stat">🧠</div>
+  <div class="card_stat">✌️</div>
+  <div class="card_stat">💕</div>
+  <div class="card_stat">☕</div>
+  <div class="card_stat">👿</div>
+  <div class="card_stat">⚠️</div>
+  <div class="card_stat">⏳</div>
+  <div class="card_stat">⬚</div>
+  <div class="card_column">
+
+**Operator Actions** *Unit*
+
+- **Violent Attack:** `👿` Attack <b>1&ndash;X</b> opponents. *Maximum Success:* Remove one of them. *Other Successes:* They move down by <b>X</b> total.
+- **Non-violent Attack:** `🧠✌️💕` Attack <b>1&ndash;X</b> opponents. *Success:* Steal <b>X</b> total <b>TB</b> from them. They re-gain amount lost, without bumping.
+- **Advance:** `Not 👿` Check. *Success:* Move up by <b>X</b>.
+- **Protect:** `☕⚠️` Check. *Success:* Relevant Attacks one rank more difficult until end of next round.
+- **Pass:** Delay turn to get/give Help.
+- **Unique Skill:** Spend ⊜⊜. Take two other actions.
+- **Change Tracks:** Check. *Success:* Move to 0 on another unit. If to a smaller unit, harder.
+
+**Removal** *Unit*: If on unit when it's removed, Check. *Success:* Change tracks. *Fail:* You're removed.
+
+  </div><div class="card_column">
+
+**Unit Actions** *Unit*: Acts <b>X</b> times, but only when Helped.
+
+- **Violent Attack:** Attack <b>1&ndash;X</b> units. If vs. a smaller unit, harder. *Maximum Success:* Hit each <b>X</b> times. *Other Successes:* Hit each once.
+- **Non-violent Attack:** Attack <b>1&ndash;X</b> units. If vs. a smaller unit, harder. *Success:* Steal <b>X</b> total <b>TB</b> from them and opponents on them. They don't re-gain.
+- **Channel:** Give your <b>TB</b> to allies on you.
+
+**Operator Special Actions** *Unit*
+
+- **Rally:** You and allies on same unit move down any total. If on allied unit, extend unit by same total. Else, choose opponents there to move down by same total.
+- **Sally:** If on allied unit, remove <b>1-X</b> units with 3 hits in a row. Then hit <b>1-X</b> units. Uses your unit's <b>X</b>.
+- **Tally:** If at 30+ on allied unit, choose unit to remove.
+
+
+  </div>
+</div>
 
 ## Index
 <!-- _class: major index abix -->
