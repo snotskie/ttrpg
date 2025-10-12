@@ -666,7 +666,7 @@ At table discretion, some goals may require a progress total, or tiers of progre
 In such cases:
 
 1. **Gain X Progress:** On a success, gain <b>X</b> towards the progress total. On each failure, lose 2 progress. Incremental benefits, challenges, or story may come from reaching different tiers of progress. For reference, see the <b>X</b> Progress Scale table below.
-2. **Narrative Progress:** At table discretion and within reason, creative problem solving, roleplay, and the narrative itself can continue to move you towards your goal. For each narrative breakthrough, gain the most recent <b>X</b> towards the progress total again. For each narrative setback however, lose 2 progress.
+2. **Narrative Progress:** At table discretion and within reason, creative problem solving, roleplay, and the narrative itself can continue to move you towards your goal, until another Check is warranted. For each narrative breakthrough, gain the most recent <b>X</b> towards the progress total again. For each narrative setback however, lose 2 progress.
 3. **Accumulate Nuance:** Boons and busts accumulate along the way and shape the final result.
 
 For situations where the intention is to represent sustained tension, such as combat or racing, use the Endeavor system instead, described in the next chapter.
