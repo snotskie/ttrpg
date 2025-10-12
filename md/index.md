@@ -116,7 +116,7 @@ Discuss with others at your table **what that genre** means to you and the **tro
 
 | 🌒 Fate &amp; Knowledge Setting Ethic |
 | --- |
-| This Setting Ethic resists feeling familiar, as it often subverts familiarity in order to invoke unsettling feelings. *Genre:* dark fantasy, gothic fiction, mystical post-apocalypse, psy-fi, cosmic horror, occult fiction, dystopian fiction, and supernatural horror. *Typical Optional Stats:* Hologram, Host, Hardship, Haunted, Haze. *Typical Lifestyle Upgrades:* Prodigious, Chosen, Warry. *Typical Ethic Upgrades:* Greed & Vanity, Power & Influence, Rite & Divinity, Fairness & Value. *Evergreen Specializations:* Accrued, Charitable, Creative, Harmonious, Wiley. |
+| This Setting Ethic resists feeling familiar, as it often subverts familiarity in order to invoke unsettling feelings. *Genre:* dark fantasy, gothic fiction, mystical post-apocalypse, psy-fi, cosmic horror, occult fiction, dystopian fiction, and supernatural horror. *Typical Optional Stats:* Hologram, Host, Hardship, Haunted, Haze. *Typical Lifestyle Upgrades:* Prodigious, Chosen, Warry. *Typical Ethic Upgrades:* Greed & Vanity, Power & Influence, Rite & Divinity, Fairness & Value. *Evergreen Specializations:* Accrued, Charitable, Creative, Harmonious, Wily. |
 
 | ⚙️ Cunning &amp; Capability Setting Ethic |
 | --- |
@@ -1516,7 +1516,7 @@ The effects of the following Specialization options are normally provided for fr
 | --- |
 | *Effect:* As Help, you may spend ① to add half the value of the spent Blessing to the Helped roll, rounded down, to a minimum of 1. If the Check effect uses the <b>X</b> symbol, you may increase <b>X</b> instead. |
 
-| Wiley Specialization |
+| Wily Specialization |
 | --- |
 | *Effect:* On your first Major Success each session, gain or steal a total of three Blessings from other characters in the scene. |
 
