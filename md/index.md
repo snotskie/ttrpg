@@ -841,11 +841,7 @@ In general however:
 
 Sometimes, the player characters will need to race to be the first to reach some destination, to be the first to acheive some action, to escape without being caught, to advance an objective before time runs out, or so on! Many such scenes where the tension is drawn out can be run as Endeavors.
 
-There are several different types of Endeavors depending on the scenario. However, all Endeavors build on the same general rules covered in this chapter.
-
-A few types of Endeavors are described below.
-
-More Endeavor types are described in *Humanity, Endeavored*, available at <https://snotskie.com/ttrpg/endeavored.html>.
+There are several different types of Endeavors depending on the scenario. However, all Endeavors build on the same general rules covered first in this chapter. Specific types of Endeavors then follow those general rules.
 
 ### Rounds
 <!-- _class: rules -->
