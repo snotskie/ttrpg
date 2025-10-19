@@ -496,7 +496,15 @@ In general:
 
 | ? Carefree Capability Motivation |
 | --- |
-| *Description:* Even though you live in a harsh world where the only person you can trust is yourself, you aren't worried, perhaps because of a unique skill, place, or creation you have. *Prompt:* What do others know you for? Have you always had this, or did you inherit, find, grow into, or build it over time? How does it help you get by or live comfortably enough for you? |
+| *Description:* Even though you live in a world where the only person you can really trust is yourself, you still live comfortably, perhaps because of a unique skill, place, or creation others can rely on. *Prompt:* What do others know you for? Have you always had this, or did you inherit, find, grow into, or build it over time? How does it help you get by or live comfortably enough? |
+
+| ? Eager Capability Motivation |
+| --- |
+| *Description:* You have a drive, wit, quickness, or wellspring of energy that others around you don't, which you're happy to make use of because it (usually) gets what you want. *Prompt:* What five things are you likely planning or doing all at the same time right now? When is the last time a plan of yours went wrong? How did you pivot or get yourself out of the situation anyway? |
+
+| ? Wisened Capability Motivation |
+| --- |
+| *Description:* You have an understanding of the world itself, almost like it were a character of its own, which leads you to insights that others around you miss or don't believe in. *Prompt:* What belief or practice do you have that makes you an outsider to most of society? Are you the only one with this belief or practice, or are there others like you? Are you self-sufficient, or are their people in mainstream society you can interact with to get by? |
 
 <!--
 
@@ -1470,13 +1478,13 @@ At the end of each session, you receive one free Stat Upgrade for your character
 | --- |
 | *Description:* Your wise steadiness and alertness have made you adept at warding off harm and protecting your loved ones. When you Spark, it might take on a firm or dispelling aspect. *Effect:* Ignite your Head and Home Stats, as though you were aided by your care for others. |
 
-| 👁️ Warry Lifestyle | 
-| --- |
-| *Description:* You are one with the natural and supernatural worlds around you, and you have a keen sense of danger and safety. When you Spark, it might take on an astral or prophetic aspect. *Effect:* Ignite your Hand and Hurry Stats, as though you were aided by knowledge only you could know in that moment. |
-
 | 👄 Compelling Lifestyle | 
 | --- |
 | *Description:* You seem able to spin any loss into a win&mdash;or vice versa&mdash;, and you are a sly, tactical force to be reckoned with. When you Spark, it might take on an illusory or vicious aspect. *Effect:* Ignite your Heart and Hurt Stats, as though you were aided by your own ambition. |
+
+| 👁️ Warry Lifestyle | 
+| --- |
+| *Description:* You are one with the natural and supernatural worlds around you, and you have a keen sense of danger and safety. When you Spark, it might take on an astral or prophetic aspect. *Effect:* Ignite your Hand and Hurry Stats, as though you were aided by knowledge only you could know in that moment. |
 
 | 💎 Lost Lifestyle |
 | --- |
