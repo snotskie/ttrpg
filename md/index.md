@@ -57,26 +57,34 @@ After [*A Poet to His Baby Son*](https://www.poetryfoundation.org/poems/49051/a-
 <!-- _class: major intro -->
 <h3>About</h3>
 
-<span></span> Welcome! This game, ***Humanity, Blessed* ⊜**, is a rules-light, semi-crunchy TTRPG system. It is inspired by our favorite stories about what it means to be human, doing goofy, cool, fantastic little human things. This system is designed to provide fun, structured challenges and to use narrative and tactile cues instead of complex sheets and board states.
+Welcome!
 
-The online version of this book (<https://snotskie.com/ttrpg/>) will automatically load in light or dark mode to match your operating system preferences. When printed, it uses a large font for easy reading.
+<span></span> ***Humanity, Blessed* ⊜**, is a rules-light, semi-crunchy TTRPG system. It is designed to use the least rules possible while still providing fun, structured challenges, as well as mechanical and narrative character growth for games lasting 6 to 10 sessions.
+
+This game is inspired by my own table's favorite stories about what it means to be human, doing goofy, cool, fantastic little human things. Even when roleplaying as orcs or dogs or robots or magically animated inanimate objects, the most satisfying stories are often those that help us reflect on the same deep questions and feelings we the players have&mdash;and to let us roll some dice and laugh with our friends about them.
+
+This TTRPG system is accessibility-first, designed and tested with blind and low vision players in mind. It uses narrative and tactile cues instead of complex sheets and board states. The online version of this book (<https://snotskie.com/ttrpg/>) will automatically load in light or dark mode to match your operating system preferences, while the print and PDF versions use a large font.
+
+Finally, I wanted this system to be flexible so that you could continue to play TTRPG games with it for any imaginable story you may want to tell. The first step you'll do with your table is choose a story genre, and this affects a small number of rules to change the "feel" of the game in large ways.
+
+Anything is possible. Failure is possible. But so too are great things. Building this system helped pull me out of a deep depression and stay connected with my friends and the kind of work I love to do. I hope you can take the rules that follow and run with them. I hope playing this game brings you joy and that you can tell some fun stories.
 
 ### At a Glance
 <!-- _class: intro -->
 
-**Genre:** While this game is genre-agnostic, tables can adjust the tone with optional Stats, Setting Ethics, and Endeavors.
+**Genre:** Tables can adjust the tone of this game for different genres with the Setting, optional Stats, and Endeavors types.
 
-**Dice:** For Stats, this game uses a dice array, from d2 to d10. This game also uses a d6 pool for resources called "Blessings." Dice "bump": 1s are rerolled, which feels like wiping the sweat from your brow and cutting the right wire. A special Stat, History, is unique to each character's Backstory.
+**Dice:** For Stats, this game uses a dice array, from d2 to d10. It also uses a d6 pool for resources called "Blessings." Dice "bump": 1s are rerolled, which feels like wiping the sweat from your brow and cutting the right wire. A special Stat, History, is unique to each character's Backstory.
 
 **Checks:** Big rolls feel earned. Checks range from 2 to 20+, with a fixed success scale. Low success grants "busts," and high success grants "boons." Easy Checks round high failure up to low success, and Hard Checks require multiple successes.
 
-**Sparking:** Two equal Blessings can be spent to "Spark" a roll. This combines two equal Stats, and if either bumps, both bump. This feels like trying to hold the lasers steady when you've crossed the streams.
+**Sparking:** Two equal Blessings can be spent to "Spark" a roll. This combines two equal Stats, and if either bumps, both bump. This feels like trying to keep hold of your own powerful magic.
 
-**Character Creation:** Character creation focuses on character narrative. Lifestyles and Ethics represent your outlook and goals, and Apts and Specs represent what you're good at. Advancement maxes out around 10-15 sessions.
+**Character Creation:** Character creation focuses on character narrative. Your Motivation represents your outlook and goals, and Apts and Specs represent what you're good at. Advancement maxes out around 10-15 sessions.
 
 **Endeavors:** This game has a customizable, accessible "Endeavor" system for representing scenes with prolonged tension, like combat or racing. Endeavors use tracks and buttons: There are no numbers, Stats, or board state to memorize. Everything is narrative or tangible.
 
-**Access:** This game is published for free, open source, and in a digital format that follows your existing accessibility settings. You are welcome to redistribute (but not modify or sell) copies of this book.
+**Access:** These core rules are published for free, creative commons, and in a digital format that follows your existing accessibility settings. You are welcome to redistribute (but not modify or sell) copies of this book.
 
 <!-- **Community:** For community content and discussions, visit <https://github.com/snotskie/ttrpg/discussions>. -->
 
@@ -91,36 +99,30 @@ For some, it could be left up to a Game Master (GM) to adjudicate what happens, 
 
 Likely, it will be a mix of things and it certainly can change. The GM and the players can rely on one another when they forget things, blank on ideas, have had bad days, are feeling short on "spoons," or just need to change things up a bit.
 
-A lot has been said and written by others in the tabletop community about how to make tabletop gaming fun, accessible, and equitable. All I'll say here is that however "at table discretion" looks at your table, above all else it is yours.
-
-I hope you can take the rules that follow and run with them. I hope playing this game brings you joy and that you can tell some fun stories.
+A lot has been said and written by others in the tabletop community about how to make tabletop gaming fun, accessible, and equitable. All I'll add here is that however "at table discretion" looks at your table, above all else it is yours.
 
 ## Making Your First Character
 <!-- _class: major creation -->
-<h3>Step Zero · Set the Tone</h3>
+<h3>Step Zero · Choose the Genre</h3>
 
-All characters in this game have an Ethic that describes their worldview. But the setting itself *also* has an Ethic of its own, called a **Setting Ethic**.
+Some rules in this game adjust to suit different types of stories you may want to tell. So the first thing you'll do is **choose a Setting with your table**. Settings capture the **tone and broad genre** of your game as a whole. Settings can shape events in the story, characters, and places, as well as the consequences of rolling very high or very low.
 
-Setting Ethics capture the **tone and broad genre** of the game as a whole. Setting Ethics can shape events in the story, characters, and places, as well as the consequences of rolling very high or very low.
-
-The following pages describe Setting Ethics options. Each refers to rules that you will learn about as you create your first character and begin to play the game. For now, **choose a Setting Ethic**, at table discretion, based on the genre, tone, and type of story you would like to play in.
-
-Discuss with others at your table **what that genre** means to you and the **tropes within that genre** you **would and would not** like to see in your game.
+The following pages describe Setting options. Each refers to rules that you will learn about as you create your first character and begin to play the game. For now, **choose a Setting**, at table discretion, based on the genre, tone, and type of story you would like to play in. Discuss with others at your table **what that genre means to you** and the **tropes within that genre you would and would not like to see** in your game.
 
 ### Setting Ethics
 <!-- _class: ability -->
 
-| ⚔️ Vice &amp; Virtue Setting Ethic |
+| ⚔️ Vice &amp; Virtue Setting |
 | --- |
-| This Setting Ethic is familiar and fit for good vs. evil stories. *Genre:* high fantasy, utopian sci-fi, shonen, optimistic post-apocalypse, mythological, magical realism, allegorical fables, urban fantasy, and children's stories. *Typical Optional Stats:* Hex, Ham, Holly Jolly, Headline, Hardy. *Typical Lifestyle Upgrades:* Blossomed, Driven, Steadfast. *Typical Ethic Upgrades:* Pride & Prudence, Greed & Vanity, Rite & Divinity, Precision & Accuracy. *Evergreen Specializations:* Ambitious, Creative, Exchangeable, Legendary, Supportive. |
+| This Setting is familiar and well-fit for good vs. evil stories. *Genre:* high fantasy, utopian sci-fi, shonen, optimistic post-apocalypse, mythological, magical realism, allegorical fables, urban fantasy, and children's stories. *Typical Optional Stats:* Hex, Ham, Holly Jolly, Headline, Hardy. *Typical Lifestyle Upgrades:* Blossomed, Driven, Steadfast. *Typical Ethic Upgrades:* Pride & Prudence, Greed & Vanity, Rite & Divinity, Precision & Accuracy. *Evergreen Specializations:* Ambitious, Creative, Exchangeable, Legendary, Supportive. |
 
-| 🌒 Fate &amp; Knowledge Setting Ethic |
+| 🌒 Fate &amp; Knowledge Setting |
 | --- |
-| This Setting Ethic resists feeling familiar, as it often subverts familiarity in order to invoke unsettling feelings. *Genre:* dark fantasy, gothic fiction, mystical post-apocalypse, psy-fi, cosmic horror, occult fiction, dystopian fiction, and supernatural horror. *Typical Optional Stats:* Hologram, Host, Hardship, Haunted, Haze. *Typical Lifestyle Upgrades:* Prodigious, Chosen, Warry. *Typical Ethic Upgrades:* Greed & Vanity, Power & Influence, Rite & Divinity, Fairness & Value. *Evergreen Specializations:* Accrued, Charitable, Creative, Harmonious, Wily. |
+| This Setting resists feeling familiar, as it often subverts familiarity in order to invoke unsettling feelings. *Genre:* dark fantasy, gothic fiction, mystical post-apocalypse, psy-fi, cosmic horror, occult fiction, dystopian fiction, and supernatural horror. *Typical Optional Stats:* Hologram, Host, Hardship, Haunted, Haze. *Typical Lifestyle Upgrades:* Prodigious, Chosen, Warry. *Typical Ethic Upgrades:* Greed & Vanity, Power & Influence, Rite & Divinity, Fairness & Value. *Evergreen Specializations:* Accrued, Charitable, Creative, Harmonious, Wily. |
 
-| ⚙️ Cunning &amp; Capability Setting Ethic |
+| ⚙️ Cunning &amp; Capability Setting |
 | --- |
-| This Setting Ethic fits stories well that have high stakes without a clear good vs. evil component. *Genre:* cyberpunk, steam punk, hard sci-fi, spy fiction, heist fiction, josei, surveillance-state fiction, noir, and antihero/villain stories. *Typical Optional Stats:* Hunch, Hardware, Hireling, Host, Hardship. *Typical Lifestyle Upgrades:* Crafty, Wired, Compelling. *Typical Ethic Upgrades:* Pride & Prudence, Power & Influence, Precision & Accuracy, Fairness & Value. *Evergreen Specializations:* Adamant, Ambitious, Favorable, Harmonious, Shrouded. |
+| This Setting fits stories that have high stakes without a clear good vs. evil component. *Genre:* cyberpunk, steam punk, hard sci-fi, spy fiction, heist fiction, josei, surveillance-state fiction, noir, and antihero/villain stories. *Typical Optional Stats:* Hunch, Hardware, Hireling, Host, Hardship. *Typical Lifestyle Upgrades:* Crafty, Wired, Compelling. *Typical Ethic Upgrades:* Pride & Prudence, Power & Influence, Precision & Accuracy, Fairness & Value. *Evergreen Specializations:* Adamant, Ambitious, Favorable, Harmonious, Shrouded. |
 
 ### Character Sheets</h3>
 <!-- _class: major creation -->
