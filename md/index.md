@@ -129,17 +129,19 @@ The following pages describe Setting options. Each refers to rules that you will
 
 <div>
 
-All characters in this game have a character sheet, which tracks:
+As a character in this game, you have a character sheet which tracks:
 
 - Your **identifying information**, like name, age, and pronouns.
-- The **Stat Dice** you'll use for each of the Stats chosen at your table for the campaign.
-- A description of your **Backstory**, including your current **Lifestyle, Ethic, and Aptitudes**.
-- A list of **Specializations** that grant additional effects to your Aptitudes.
+- The **Stat Dice** you'll use.
+- A description of your **Backstory**, including your current **Motivation and Aptitudes**.
+- A list of your **Specializations**, which grant additional effects to your Aptitudes.
 - And other descriptive information, like your **appearance, items, alliances, and information learned**.
 
 </div>
 
-You can find a blank Character Sheet form in the Printables chapter at the end of this book. Other character sheet forms are sometimes posted to the community discussion at <https://github.com/snotskie/ttrpg/discussions>.
+You can find a blank Character Sheet form in the Printables chapter at the end of this book.
+
+<!-- Other character sheet forms are sometimes posted to the community discussion at <https://github.com/snotskie/ttrpg/discussions>.-->
 
 ### Step One · Choose Highest Stat
 <!-- _class: creation -->
