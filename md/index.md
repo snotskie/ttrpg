@@ -103,7 +103,7 @@ A lot has been said and written by others in the tabletop community about how to
 
 ## Making Your First Character
 <!-- _class: major creation -->
-<h3>Step Zero · Choose the Genre</h3>
+<h3>Step Zero · Choose a Setting</h3>
 
 Some rules in this game adjust to suit different types of stories you may want to tell. So the first thing you'll do is **choose a Setting with your table**. Settings capture the **tone and broad genre** of your game as a whole. Settings can shape events in the story, characters, and places, as well as the consequences of rolling very high or very low.
 
