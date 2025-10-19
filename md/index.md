@@ -148,7 +148,7 @@ Your first task is to decide **which Stat your character is best at**.
 
 As you do, begin to think about the story your character takes on in your mind. **Why are they good at this and not at that?** Why is one important to them and not the other? What are they trying to improve? What do they like getting help from others on?
 
-When you begin the game, most of your Stats are equal, using a d4 for their Stat Dice. However, the Stat you chose as your **highest Stat begins the game one die size larger**. In Step Two of character creation your **Lifestyle and Ethic** will also increase your starting Stat Dice.
+When you begin the game, most of your Stats are equal, using a d4 for their Stat Dice. However, the Stat you chose as your **highest Stat begins the game one die size larger**. In Step Two of character creation your **Motivation** will also increase your starting Stat Dice.
 
 All your Stat Dice may be **upgraded later in the Session Shop**.
 
@@ -415,20 +415,30 @@ Also note:
   </p>
 </div>
 
-### Step Two · Choose Lifestyle and Ethic
+### Step Two · Choose Motivation
 <!-- _class: creation -->
 
-The following pages describe starting **Lifestyle** and **Ethic** options. Lifestyle and Ethic upgrade options are listed in the **Session Shop** chapter.
+The following pages describe **Motivation** options. Motivation upgrade options are listed in the **Session Shop** chapter.
 
-As you read the starting Lifestyle and Ethic options, begin to describe the life your character had **growing up** and their **current outlook** on the world.
+As you read the options, begin to describe the life your character had **growing up**, their **current outlook** on the world, and **what drives them**.
 
-Then, pick one **Lifestyle** and one **Ethic** to begin the game with.
+Then, **pick one Motivation** to begin the game with and answer the additional prompts associated with it, or other similar prompts at table discretion.
 
-Once you've chosen your starter Lifestyle and Ethic, **two of your Stats** will begin the game an additional **die size larger**, according to your starting Lifestyle and Ethic and the Lifestyle/Ethic Starting Stats table below.
+Once you've chosen your starter Motivation, **two of your Stats** will begin the game an additional **die size larger**.
+
+### Motivations
+<!-- _class: rules -->
+
+All characters have a Motivation, which has two parts. The first is either Carefree, Eager, or Wisened, and the second is either Virtue, Fate, or Capability.
+
+In general:
+
+- **Stat Increase:** Two of your Stats increase by one die size each, according to the Motivation-Increased Stats table below. If one of these Stats is also your highest Stat, then your History Stat is increased instead of increasing the same Stat twice.
+- **Motivation Change:** Profound story moments can change your Motivation, at table discretion. When this occurs, downgrade the Stats associated with your previous Motivation one die size each (minimum of d2) and upgrade the Stats associated with your new Motivation (maximum of d10).
 
 <div>
   <h4>
-    Lifestyle/Ethic Starting Stats
+    Motivation-Increased Stats
   </h4>
   <style scoped>
     .lifestyle_ethic_starting_stats {
@@ -444,9 +454,9 @@ Once you've chosen your starter Lifestyle and Ethic, **two of your Stats** will 
       <thead>
           <tr>
             <td></td>
-            <th scope="col">Vice &amp;<br />Virtue</th>
-            <th scope="col">Fate &amp;<br />Knowledge</th>
-            <th scope="col">Cunning &amp;<br />Capability</th>
+            <th scope="col">Virtue</th>
+            <th scope="col">Fate</th>
+            <th scope="col">Capability</th>
           </tr>
       </thead>
       <tbody>
@@ -457,8 +467,38 @@ Once you've chosen your starter Lifestyle and Ethic, **two of your Stats** will 
   </table>
 </div>
 
-### Lifestyles
+### Motivation Options
 <!-- _class: ability -->
+
+| 🍀 Carefree Virtue Motivation |
+| --- |
+| *Description:* In a world of good and evil, you live a relatively carefree life, perhaps because of your naivete, wealth, or the protection of those around you. *Prompt:* What do you take for granted that would have a profound impact on your life if you lost it? What impact would it have? Why have you taken it for granted? |
+
+| 🔥 Eager Virtue Motivation |
+| --- |
+| *Description:* You are eager for more out of life, perhaps because of a rebellious phase, a yearning, a dream, or a person you want to impress. *Prompt:* What do you most want to accomplish? What stands in your way? How confident are you  that you'll overcome those obstacles? |
+
+| 🧘‍♀️ Wisened Virtue Motivation |
+| --- |
+| *Description:* Your studies or events in your life have left you wiser or tougher than others around you, and deep down you believe that good people and good work will win in the end. *Prompt:* What lessons have you learned that others around you haven't? Who were you before you learned these lessons and how do these lessons serve you now? |
+
+| ? Carefree Fate Motivation |
+| --- |
+| *Description:* Your amoral or nihilistic belief system leaves you unbothered by "good" and "bad" and "consequences," perhaps due to a strict upbringing or life events leaving you with your worldview. *Prompt:* What fate did the people or events around you lead you to believe you are destined for? What's comforting about going along with that destiny? What are the social consequences for fighting against it? |
+
+| ? Eager Fate Motivation |
+| --- |
+| *Description:* You have strong feelings about the story sold to you about how the world works, whether you believe it wholeheartedly or you aren't satisfied with its lies. *Prompt:* What lessons have you learned about how the world works? What do you stand to gain or lose if those stories end up being true? What if they end up being false? |
+
+| ? Wisened Fate Motivation |
+| --- |
+| *Description:* You understand something that others around you don't about how people or the world itself really works, which you are happy to take advantage of. *Prompt:* What station in life have you reached? What did you have to do to get there? What do you stand to gain by keeping it and lose by losing it? |
+
+| ? Carefree Capability Motivation |
+| --- |
+| *Description:* Even though you live in a harsh world where the only person you can trust is yourself, you aren't worried, perhaps because of a unique skill, place, or creation you have. *Prompt:* What do others know you for? Have you always had this, or did you inherit, find, grow into, or build it over time? How does it help you get by or live comfortably enough for you? |
+
+<!--
 
 | 🍀 Carefree Lifestyle | 
 | --- |
@@ -472,9 +512,6 @@ Once you've chosen your starter Lifestyle and Ethic, **two of your Stats** will 
 | --- |
 | *Description:* Maybe life has not been easy on your character, but if so you've come out wiser and tougher. Perhaps you've been shaped by unfortunate events, you've dedicated yourself to your work, or (in some settings) you could take advantage of others easily because you understand how people work. |
 
-### Ethics
-<!-- _class: ability -->
-
 | ⚔️ Vice &amp; Virtue Ethic |
 | --- |
 | *Description:* Deep down, you may believe that there is good in the world and that no matter how terrible it gets, the good will win in the end. You may also believe that people who live with virtue are able to live in harmony together, while excess vice manifests itself as a clear and knowable "darkness." |
@@ -486,6 +523,8 @@ Once you've chosen your starter Lifestyle and Ethic, **two of your Stats** will 
 | ⚙️ Cunning &amp; Capability Ethic |
 | --- |
 | *Description:* At the end of the day, you may believe that the only person you can really trust is yourself. You may also believe that the world is unfair, "good" and "fate" are made up ideas, and you'd do whatever it takes to just get by. |
+
+-->
 
 ### Step Three · Describe Backstory
 <!-- _class: creation -->
