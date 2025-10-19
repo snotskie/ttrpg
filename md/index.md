@@ -470,39 +470,39 @@ In general:
 ### Motivation Options
 <!-- _class: ability -->
 
-| 🍀 Carefree Virtue Motivation |
+| 🌼 Carefree Virtue Motivation |
 | --- |
 | *Description:* In a world of good and evil, you live a relatively carefree life, perhaps because of your naivete, wealth, or the protection of those around you. *Prompt:* What do you take for granted that would have a profound impact on your life if you lost it? What impact would it have? Why have you taken it for granted? |
 
-| 🔥 Eager Virtue Motivation |
+| ⚜️ Eager Virtue Motivation |
 | --- |
 | *Description:* You are eager for more out of life, perhaps because of a rebellious phase, a yearning, a dream, or a person you want to impress. *Prompt:* What do you most want to accomplish? What stands in your way? How confident are you  that you'll overcome those obstacles? |
 
-| 🧘‍♀️ Wisened Virtue Motivation |
+| 🪬 Wisened Virtue Motivation |
 | --- |
-| *Description:* Your studies or events in your life have left you wiser or tougher than others around you, and deep down you believe that good people and good work will win in the end. *Prompt:* What lessons have you learned that others around you haven't? Who were you before you learned these lessons and how do these lessons serve you now? |
+| *Description:* Your studies, cared ones, or events in your life have left you wiser or tougher than others around you, and deep down you believe that good people doing good work will win in the end. *Prompt:* What lessons have you learned that others around you haven't? Who were you before you learned these lessons and how do these lessons serve you now? |
 
-| ? Carefree Fate Motivation |
+| 🔮 Carefree Fate Motivation |
 | --- |
 | *Description:* Your amoral or nihilistic belief system leaves you unbothered by "good" and "bad" and "consequences," perhaps due to a strict upbringing or life events leaving you with your worldview. *Prompt:* What fate did the people or events around you lead you to believe you are destined for? What's comforting about going along with that destiny? What are the social consequences for fighting against it? |
 
-| ? Eager Fate Motivation |
+| ✨ Eager Fate Motivation |
 | --- |
 | *Description:* You have strong feelings about the story sold to you about how the world works, whether you believe it wholeheartedly or you aren't satisfied with its lies. *Prompt:* What lessons have you learned about how the world works? What do you stand to gain or lose if those stories end up being true? What if they end up being false? |
 
-| ? Wisened Fate Motivation |
+| 👄 Wisened Fate Motivation |
 | --- |
 | *Description:* You understand something that others around you don't about how people or the world itself really works, which you are happy to take advantage of. *Prompt:* What station in life have you reached? What did you have to do to get there? What do you stand to gain by keeping it and lose by losing it? |
 
-| ? Carefree Capability Motivation |
+| 🧶 Carefree Capability Motivation |
 | --- |
 | *Description:* Even though you live in a world where the only person you can really trust is yourself, you still live comfortably, perhaps because of a unique skill, place, or creation others can rely on. *Prompt:* What do others know you for? Have you always had this, or did you inherit, find, grow into, or build it over time? How does it help you get by or live comfortably enough? |
 
-| ? Eager Capability Motivation |
+| ⚡ Eager Capability Motivation |
 | --- |
 | *Description:* You have a drive, wit, quickness, or wellspring of energy that others around you don't, which you're happy to make use of because it (usually) gets what you want. *Prompt:* What five things are you likely planning or doing all at the same time right now? When is the last time a plan of yours went wrong? How did you pivot or get yourself out of the situation anyway? |
 
-| ? Wisened Capability Motivation |
+| 👁️ Wisened Capability Motivation |
 | --- |
 | *Description:* You have an understanding of the world itself, almost like it were a character of its own, which leads you to insights that others around you miss or don't believe in. *Prompt:* What belief or practice do you have that makes you an outsider to most of society? Are you the only one with this belief or practice, or are there others like you? Are you self-sufficient, or are their people in mainstream society you can interact with to get by? |
 
