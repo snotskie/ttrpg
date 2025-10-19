@@ -65,14 +65,14 @@ This game is inspired by my own table's favorite stories about what it means to 
 
 This TTRPG system is accessibility-first, designed and tested with blind and low vision players in mind. It uses narrative and tactile cues instead of complex sheets and board states. The online version of this book (<https://snotskie.com/ttrpg/>) will automatically load in light or dark mode to match your operating system preferences, while the print and PDF versions use a large font.
 
-Finally, I wanted this system to be flexible so that you could continue to play TTRPG games with it for any imaginable story you may want to tell. The first step you'll do with your table is choose a story genre, and this affects a small number of rules to change the "feel" of the game in large ways.
+Finally, I wanted this system to be flexible so that you could continue to play games with it for any imaginable story you may want to tell. The first step you'll do with your table is choose a story genre, and this affects a small number of rules to change the "feel" of the game in big ways.
 
 Anything is possible. Failure is possible. But so too are great things. Building this system helped pull me out of a deep depression and stay connected with my friends and the kind of work I love to do. I hope you can take the rules that follow and run with them. I hope playing this game brings you joy and that you can tell some fun stories.
 
 ### At a Glance
 <!-- _class: intro -->
 
-**Genre:** Tables can adjust the tone of this game for different genres with the Setting, optional Stats, and Endeavors types.
+**Genre:** Tables can adjust the tone of this game for different genres with the Atmosphere, optional Stats, and Endeavors types.
 
 **Dice:** For Stats, this game uses a dice array, from d2 to d10. It also uses a d6 pool for resources called "Blessings." Dice "bump": 1s are rerolled, which feels like wiping the sweat from your brow and cutting the right wire. A special Stat, History, is unique to each character's Backstory.
 
@@ -84,7 +84,7 @@ Anything is possible. Failure is possible. But so too are great things. Building
 
 **Endeavors:** This game has a customizable, accessible "Endeavor" system for representing scenes with prolonged tension, like combat or racing. Endeavors use tracks and buttons: There are no numbers, Stats, or board state to memorize. Everything is narrative or tangible.
 
-**Access:** These core rules are published for free, creative commons, and in a digital format that follows your existing accessibility settings. You are welcome to redistribute (but not modify or sell) copies of this book.
+**Access:** These core rules are published for free and in a digital format that follows your existing accessibility settings. You are welcome to redistribute (but not modify or sell) copies of this book.
 
 <!-- **Community:** For community content and discussions, visit <https://github.com/snotskie/ttrpg/discussions>. -->
 
@@ -101,28 +101,28 @@ Likely, it will be a mix of things and it certainly can change. The GM and the p
 
 A lot has been said and written by others in the tabletop community about how to make tabletop gaming fun, accessible, and equitable. All I'll add here is that however "at table discretion" looks at your table, above all else it is yours.
 
-## Making Your First Character
+## Making Your First Characters
 <!-- _class: major creation -->
-<h3>Step Zero · Choose a Setting</h3>
+<h3>Step Zero · Choose an Atmosphere</h3>
 
-Some rules in this game adjust to suit different types of stories you may want to tell. So the first thing you'll do is **choose a Setting with your table**. Settings capture the **tone and broad genre** of your game as a whole. Settings can shape events in the story, characters, and places, as well as the consequences of rolling very high or very low.
+Some rules in this game adjust to suit different types of stories you may want to tell. So, the first thing you'll do is **choose an Atmosphere with your table**. Atmospheres capture the **tone and broad genre** of your game as a whole. They shape events in the story, characters, and places, as well as the consequences of rolling very high or very low.
 
-The following pages describe Setting options. Each refers to rules that you will learn about as you create your first character and begin to play the game. For now, **choose a Setting**, at table discretion, based on the genre, tone, and type of story you would like to play in. Discuss with others at your table **what that genre means to you** and the **tropes within that genre you would and would not like to see** in your game.
+The following pages describe Atmosphere options. Each refers to rules that you will learn about as you create your first character and begin to play the game. For now, **choose an Atmosphere**, at table discretion, based on the genre, tone, and type of story you would like to play in. Discuss with others at your table **what that genre means to you** and the **tropes within that genre you would and would not like to see** in your game.
 
-### Setting Ethics
+### Atmospheres
 <!-- _class: ability -->
 
-| ⚔️ Vice &amp; Virtue Setting |
+| ⚔️ Vice &amp; Virtue Atmosphere |
 | --- |
-| This Setting is familiar and well-fit for good vs. evil stories. *Genre:* high fantasy, utopian sci-fi, shonen, optimistic post-apocalypse, mythological, magical realism, allegorical fables, urban fantasy, and children's stories. *Typical Optional Stats:* Hex, Ham, Holly Jolly, Headline, Hardy. *Typical Lifestyle Upgrades:* Blossomed, Driven, Steadfast. *Typical Ethic Upgrades:* Pride & Prudence, Greed & Vanity, Rite & Divinity, Precision & Accuracy. *Evergreen Specializations:* Ambitious, Creative, Exchangeable, Legendary, Supportive. |
+| This Atmosphere is familiar and well-fit for good vs. evil stories. *Genre:* high fantasy, utopian sci-fi, shonen, optimistic post-apocalypse, mythological, magical realism, allegorical fables, urban fantasy, and children's stories. *Typical Optional Stats:* Hex, Ham, Holly Jolly, Headline, Hardy. *Typical Lifestyle Upgrades:* Blossomed, Driven, Steadfast. *Typical Ethic Upgrades:* Pride & Prudence, Greed & Vanity, Rite & Divinity, Precision & Accuracy. *Evergreen Specializations:* Ambitious, Creative, Exchangeable, Legendary, Supportive. |
 
-| 🌒 Fate &amp; Knowledge Setting |
+| 🌒 Fate &amp; Knowledge Atmosphere |
 | --- |
-| This Setting resists feeling familiar, as it often subverts familiarity in order to invoke unsettling feelings. *Genre:* dark fantasy, gothic fiction, mystical post-apocalypse, psy-fi, cosmic horror, occult fiction, dystopian fiction, and supernatural horror. *Typical Optional Stats:* Hologram, Host, Hardship, Haunted, Haze. *Typical Lifestyle Upgrades:* Prodigious, Chosen, Warry. *Typical Ethic Upgrades:* Greed & Vanity, Power & Influence, Rite & Divinity, Fairness & Value. *Evergreen Specializations:* Accrued, Charitable, Creative, Harmonious, Wily. |
+| This Atmosphere resists feeling familiar, as it often subverts familiarity in order to invoke unsettling feelings. *Genre:* dark fantasy, gothic fiction, mystical post-apocalypse, psy-fi, cosmic horror, occult fiction, dystopian fiction, and supernatural horror. *Typical Optional Stats:* Hologram, Host, Hardship, Haunted, Haze. *Typical Lifestyle Upgrades:* Prodigious, Chosen, Warry. *Typical Ethic Upgrades:* Greed & Vanity, Power & Influence, Rite & Divinity, Fairness & Value. *Evergreen Specializations:* Accrued, Charitable, Creative, Harmonious, Wily. |
 
-| ⚙️ Cunning &amp; Capability Setting |
+| ⚙️ Cunning &amp; Capability Atmosphere |
 | --- |
-| This Setting fits stories that have high stakes without a clear good vs. evil component. *Genre:* cyberpunk, steam punk, hard sci-fi, spy fiction, heist fiction, josei, surveillance-state fiction, noir, and antihero/villain stories. *Typical Optional Stats:* Hunch, Hardware, Hireling, Host, Hardship. *Typical Lifestyle Upgrades:* Crafty, Wired, Compelling. *Typical Ethic Upgrades:* Pride & Prudence, Power & Influence, Precision & Accuracy, Fairness & Value. *Evergreen Specializations:* Adamant, Ambitious, Favorable, Harmonious, Shrouded. |
+| This Atmosphere fits stories that have high stakes without a clear good vs. evil component. *Genre:* cyberpunk, steam punk, hard sci-fi, spy fiction, heist fiction, josei, surveillance-state fiction, noir, and antihero/villain stories. *Typical Optional Stats:* Hunch, Hardware, Hireling, Host, Hardship. *Typical Lifestyle Upgrades:* Crafty, Wired, Compelling. *Typical Ethic Upgrades:* Pride & Prudence, Power & Influence, Precision & Accuracy, Fairness & Value. *Evergreen Specializations:* Adamant, Ambitious, Favorable, Harmonious, Shrouded. |
 
 ### Character Sheets</h3>
 <!-- _class: major creation -->
@@ -150,11 +150,9 @@ The following pages describe the **Stats** used in ***Humanity, Blessed* ⊜**, 
 
 Your first task is to decide **which Stat your character is best at**.
 
-As you do, begin to think about the story your character takes on in your mind. **Why are they good at this and not at that?** Why is one important to them and not the other? What are they trying to improve? What do they like getting help from others on?
+As you do, begin to think about the story your character takes on in your mind. **Why are they good at this and not at that?** Why is one important to them and not the other? What are they trying to improve? What do they like getting help from others on? Each Stat lists a number of additional prompts to further help you figure out the character taking shape in your mind.
 
-When you begin the game, most of your Stats are equal, using a d4 for their Stat Dice. However, the Stat you chose as your **highest Stat begins the game one die size larger**. In Step Two of character creation your **Motivation** will also increase your starting Stat Dice.
-
-All your Stat Dice may be **upgraded later in the Session Shop**.
+Also, once you begin the game, most of your Stats will be equal, using a d4 for their Stat Dice. However, the Stat you chose as your **highest Stat begins the game one die size larger**. In Step Two of character creation, your **Motivation** will increase two other Stat Dice. And all your Stat Dice may be **upgraded later in the Session Shop**.
 
 ### Stats
 <!-- _class: ability -->
@@ -422,23 +420,24 @@ Also note:
 ### Step Two · Choose Motivation
 <!-- _class: creation -->
 
-The following pages describe **Motivation** options. Motivation upgrade options are listed in the **Session Shop** chapter.
+The following pages describe **Motivation** options. Motivation upgrade options, called "Dedications," are listed in the **Session Shop** chapter.
 
 As you read the options, begin to describe the life your character had **growing up**, their **current outlook** on the world, and **what drives them**.
 
-Then, **pick one Motivation** to begin the game with and answer the additional prompts associated with it, or other similar prompts at table discretion.
+Then, **pick one Motivation** to begin the game with and answer the additional prompts associated with it, or other similar prompts at table discretion. If you prefer fewer options, only choose from the options matching your game's Atmosphere.
 
-Once you've chosen your starter Motivation, **two of your Stats** will begin the game an additional **die size larger**.
+Once you've chosen your starter Motivation, **two of your Stats** will begin the game an additional **die size larger**, as explained below.
 
 ### Motivations
 <!-- _class: rules -->
 
-All characters have a Motivation, which has two parts. The first is either Carefree, Eager, or Wisened, and the second is either Virtue, Fate, or Capability.
+All characters have a Motivation, which has two parts. The first is either Carefree, Eager, or Wisened, representating how you stand out among others. And the second is either Virtue, Fate, or Capability, representing your inner belief system. Together, these create the two sides of your Motivation, which drives you and connects you to world around you.
 
 In general:
 
 - **Stat Increase:** Two of your Stats increase by one die size each, according to the Motivation-Increased Stats table below. If one of these Stats is also your highest Stat, then your History Stat is increased instead of increasing the same Stat twice.
 - **Motivation Change:** Profound story moments can change your Motivation, at table discretion. When this occurs, downgrade the Stats associated with your previous Motivation one die size each (minimum of d2) and upgrade the Stats associated with your new Motivation (maximum of d10).
+- **Lost Motivation:** Other moments of tremendous character growth can lead you to lose your Motivation altogether while you find yourself again. If this occurs, while you are between Motivations, you have the Lost Motivation instead.
 
 <div>
   <h4>
@@ -467,6 +466,7 @@ In general:
           <tr> <th scope="row">Carefree</th> <td>Heart<br />Hurry</td> <td>Head<br />Hurt</td> <td>Hand<br />Home</td> </tr>
           <tr> <th scope="row">Eager</th> <td>Hand<br />Hurt</td> <td>Heart<br />Home</td> <td>Head<br />Hurry</td> </tr>
           <tr> <th scope="row">Wisened</th> <td>Head<br />Home</td> <td>Hand<br />Hurry</td> <td>Heart<br />Hurt</td> </tr>
+          <tr> <th scope="row">Lost</th> <td colspan="3">History</td> </tr>
       </tbody>
   </table>
 </div>
@@ -509,6 +509,10 @@ In general:
 | 👁️ Wisened Capability Motivation |
 | --- |
 | *Description:* You have an understanding of the world itself, almost like it were a character of its own, which leads you to insights that others around you miss or don't believe in. *Prompt:* What belief or practice do you have that makes you an outsider to most of society? Are you the only one with this belief or practice, or are there others like you? Are you self-sufficient, or are their people in mainstream society you can interact with to get by? |
+
+| 💎 Lost Motivation |
+| --- |
+| *Description:* You feel a disconnect from your own past or former sense of self, perhaps because of an exile from your home, an erased memory, or a period of transition or deep self-reflection. *Prompt:* Who were you before this period of transition? What were the "parts" of that old self and what lead to your disconnect with them? Are their any parts of your old self that still serve you or serve you in new ways? What is it you're still trying to figure out? |
 
 <!--
 
